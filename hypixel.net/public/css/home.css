@@ -1,0 +1,210 @@
+@charset "UTF-8";
+
+.row {
+  margin-bottom: 8px
+}
+
+.row {
+  zoom: 1
+}
+
+.row:after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden
+}
+
+.news-post {}
+
+.news-post h3 {
+  font-size: 22px
+}
+
+.news-head {
+  padding: 7px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 4px
+}
+
+.news-head .author {
+  color: #888
+}
+
+.news-body {
+  padding: 14px
+}
+
+.rightSide {
+  width: 305px;
+  width: 265px;
+  float: right
+}
+
+.rightSide h3 {
+  font-weight: 400;
+  font-size: 20px;
+  font-family: Neuton, Times;
+  margin-top: 25px;
+  border-bottom: 1px solid #bbb;
+  padding-bottom: 7px
+}
+
+.rightSide .uix_socialMediaLinks {
+  float: none;
+  _text-align: center;
+  margin-top: 10px
+}
+
+.secondaryFeaturedContent {
+  height: 245px;
+  background: #18150e url(styles/hypixel-uix/hypixel/own-ad.png) no-repeat center center;
+  background-size: cover;
+  border-radius: 4px;
+  overflow: hidden;
+  _margin-right: 20px
+}
+
+.secondaryFeaturedContent .actualContent {
+  background: url(rgba.php?r=0&g=0&b=0&a=127);
+  background: rgba(0, 0, 0, .5);
+  _filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000, endColorstr=#7F000000);
+  height: 155px;
+  margin-top: 115px;
+  font-family: Neuton, Times
+}
+
+.secondaryFeaturedContent h3 {
+  font-size: 22px;
+  color: #f4c75d;
+  text-align: center;
+  font-weight: 100;
+  padding-top: 10px;
+  border-bottom: none;
+  padding-bottom: 0
+}
+
+.secondaryFeaturedContent div.explain {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 100;
+  padding-top: 2px;
+  padding-bottom: 13px
+}
+
+.secondaryFeaturedContent a {
+  display: block;
+  border-radius: 4px;
+  background: #f4c75d;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 6px 0 9px;
+  text-align: center;
+  margin: auto;
+  width: 165px;
+  padding: 4px 0 8px
+}
+
+.secondaryFeaturedContent a:hover {
+  text-decoration: none;
+  background: #e9bc52
+}
+
+.recentNews {
+  _padding-left: 10px
+}
+
+.recentNews h3 {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Neuton, Times
+}
+
+.featuredContent {
+  margin-right: -275px;
+  float: left;
+  width: 100%
+}
+
+.featuredContent .content {
+  margin-right: 275px
+}
+
+.featuredContent .featured {
+  height: 255px;
+  border-radius: 4px;
+  _margin-left: 20px;
+  background: #777 url(styles/hypixel-uix/hypixel/featured/warlords-countdown.png) no-repeat center center
+}
+
+.featuredContent h3 {
+  font-size: 35px;
+  font-family: Neuton, Times;
+  font-weight: 100;
+  color: #fff;
+  text-align: center;
+  padding: 35px;
+  padding-bottom: 30px;
+  text-shadow: 0 0 14px #000
+}
+
+.featuredContent h3 em {
+  font-weight: 400
+}
+
+.featuredContent .countdownWrapper {
+  max-width: 500px;
+  margin: auto
+}
+
+.recentThreads {
+  padding-top: 6px
+}
+
+.recentThreads li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd
+}
+
+.recentThreads li .title {
+  margin-bottom: 4px
+}
+
+@media(max-width:900px) {
+  .Responsive .rightSide {
+    width: auto;
+    float: none
+  }
+
+  .Responsive .featuredContent {
+    margin-right: 0;
+    float: none
+  }
+
+  .Responsive .featuredContent .content {
+    margin-right: 0
+  }
+
+  .Responsive .featuredContent h3 {
+    font-size: 26px
+  }
+}
+
+@media(max-width:480px) {
+  .Responsive #featuredArea .featuredWrapper {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box
+  }
+
+  .Responsive #featuredArea .featuredWrapper h1 {
+    font-size: 28px
+  }
+}
+
+#recentNews .section:first-child {
+  margin-top: 0
+}

@@ -1,0 +1,202 @@
+@charset "UTF-8";
+
+@keyframes mvpppFrame {
+  0% {
+    background-position-x: 0
+  }
+
+  85% {
+    background-position-x: 0
+  }
+
+  100% {
+    background-position-x: -1080px
+  }
+}
+
+.messageUserInfo {
+  float: left;
+  width: 185px;
+  background-color: transparent;
+  background-image: url(styles/hypixel-uix/hypixel/member-bg/megawalls.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  padding-bottom: 12px
+}
+
+.messageUserBlock {
+  background-color: transparent;
+  border: 1px #000;
+  border-radius: 2px;
+  text-align: center;
+  position: relative
+}
+
+.messageUserBlock div.avatarHolder {
+  background-color: transparent;
+  padding: 8px;
+  border-radius: 2px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  text-align: center;
+  position: relative;
+  padding: 0;
+  width: 135px;
+  background-repeat: no-repeat;
+  margin: auto
+}
+
+.messageUserBlock div.uix_avatarHolder {
+  max-width: none !important;
+  padding-top: 5px
+}
+
+.messageUserBlock.hasAvatarFrame div.uix_avatarHolder {
+  padding-top: 13px;
+  padding-bottom: 19px
+}
+
+.messageUserBlock a.avatarFrame {
+  position: absolute;
+  background: url(styles/hypixel-uix/xenforo/avatar-frame-admin.png);
+  width: 135px;
+  height: 130px;
+  top: 0;
+  left: 1px;
+  display: block;
+  border: none
+}
+
+.messageUserBlock a.avatarFrame.mvp_plus_plus {
+  background: url(styles/hypixel-uix/xenforo/avatar-frame-mvp_plus_plus.png?v3) 0 0;
+  top: -2px;
+  height: 135px;
+  animation: mvpppFrame 3s steps(8) infinite
+}
+
+.messageUserBlock .usernameResponsive {
+  display: none
+}
+
+.messageUserBlock a.avatarFrame:focus {
+  outline: none
+}
+
+.messageUserBlock div.avatarHolder .avatar {
+  display: block;
+  font-size: 0
+}
+
+.messageUserBlock div.avatarHolder .onlineMarker {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  background: #7fb900;
+  margin-top: 18px !important;
+  margin-left: 26px !important;
+  color: #7fb900;
+  border: 7px solid transparent;
+  border-top-color: #7fb900;
+  border-left-color: #7fb900;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  top: -1px;
+  left: -1px
+}
+
+.messageUserBlock h3.userText {
+  background-color: transparent;
+  padding: 8px;
+  border: 0 solid #e2e2e2;
+  border-top-width: 0
+}
+
+.messageUserBlock .userBanner {
+  display: block;
+  margin-bottom: 5px;
+  margin-left: -14px;
+  margin-right: -14px
+}
+
+.messageUserBlock .userBanner:last-child {
+  margin-bottom: 0
+}
+
+.messageUserBlock a.username {
+  font-weight: 700;
+  display: block;
+  overflow: hidden;
+  line-height: 16px;
+  text-align: center;
+  color: #000;
+  font-size: 14px
+}
+
+.messageUserBlock .uix_usernameWrapper {
+  padding-top: 6px
+}
+
+.messageUserBlock .userTitle {
+  font-size: 11px;
+  display: block
+}
+
+.messageUserBlock .extraUserInfo {
+  font-size: 12px;
+  background-color: #fff;
+  padding: 4px 6px;
+  border: 0 solid #e2e2e2;
+  border-top-width: 1px;
+  border-radius: 2px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border: none;
+  padding: 8px 13px
+}
+
+.messageUserBlock .extraUserInfo dl {
+  margin: 2px 0 0
+}
+
+.messageUserBlock .extraUserInfo img {
+  max-width: 100%
+}
+
+.messageUserBlock .arrow {
+  position: absolute;
+  top: 10px;
+  right: -10px;
+  display: block;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  border: 10px solid transparent;
+  border-left-color: #000;
+  -moz-border-left-colors: #000;
+  border-right: none;
+  _display: none
+}
+
+.messageUserBlock .arrow span {
+  position: absolute;
+  top: -10px;
+  left: -11px;
+  display: block;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  border: 10px solid transparent;
+  border-left-color: transparent;
+  -moz-border-left-colors: transparent;
+  border-right: none
+}
+
+.player {
+  background-color: #f0f0f0;
+  background: #fff;
+  padding: 8px;
+  padding: 2px 4px 0;
+  border: 1px solid #e2e2e2; //border-top-width:1px;//border-bottom-width:1px;text-align:center;text-align:left;display:block;border-radius:5px;margin:0 9px}.player:hover{opacity:.7}.player .mcAvatar{float:left;width:24px;padding:0;padding-top:8px;padding-bottom:0;margin-right:4px}.player .mcAvatar img{border-radius:4px}.player.withoutRank .mcAvatar{padding-top:1px}.player .usernameAndRank{float:left;width:95px;padding:4px 1px;padding-top:1px;text-align:left;font-size:11px;word-spacing:0}.player.withoutRank .usernameAndRank{padding-top:6px}.player .mcUsername{height:13px;white-space:nowrap}.player .rank-badge{margin-bottom:0!important}a.guild{margin:8px 9px 0}.guild-member-label{background:0 0}.guild-member-label .rank-badge{display:inline-block;padding:0 2px;border:1px solid #eee;background:0 0}.hpc-member{display:block;padding:6px 6px 6px 8px;margin:8px 9px 0;border:1px solid #e2e2e2;border-radius:5px;text-align:left}a.hpc-member:hover{text-decoration:none;opacity:.7}.Responsive .playerRank{display:none}@media(max-width:480px){.Responsive .messageUserInfo{float:none;width:auto;position:static;height:auto;background-image:none!Important;overflow-x:hidden;padding-bottom:0;background-color:#fff}.Responsive .messageUserBlock{overflow:hidden;margin-bottom:0;position:relative;text-align:left}.Responsive .messageUserBlock a.avatarFrame{display:none}.Responsive .messageUserBlock.hasAvatarFrame div.uix_avatarHolder{padding-top:0;padding-bottom:0}.Responsive .messageUserBlock .usernameResponsive{display:block}.Responsive .messageUserBlock h3.userTextTop{display:none!important}.Responsive .messageUserBlock a.username{text-align:left;font-size:12px}.Responsive .messageUserBlock div.avatarHolder{float:left;padding:5px}.Responsive .messageUserBlock div.avatarHolder .avatar img{width:48px}.Responsive .messageUserBlock div.avatarHolder .onlineMarker{top:4px;left:4px;border-width:6px}.Responsive .messageUserBlock h3.userText{margin-left:64px}.Responsive .messageUserBlock .userBanner{max-width:150px;margin-left:0;margin-right:0;border-top-left-radius:3px;border-top-right-radius:3px;position:static;display:inline-block}.Responsive .messageUserBlock .userBanner span{display:none}.Responsive .messageUserBlock .extraUserInfo{display:none}.Responsive .messageUserBlock .arrow{display:none}.Responsive .messageUserBlock .guild{display:none}.Responsive .messageUserBlock .player{min-width:125px;margin-top:2px;margin-right:3px}.Responsive .messageUserBlock .player.isUnranked{margin-top:11px}.Responsive .messageUserBlock div.uix_avatarHolder{padding-top:0}.Responsive .messageUserBlock div.avatarHolder .onlineMarker{top:-12px;left:-19px}.Responsive .playerRank{padding:0;display:block}.Responsive .playerRank .rank-badge{display:block;border-radius:2px}}

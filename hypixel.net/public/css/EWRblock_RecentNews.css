@@ -1,0 +1,219 @@
+@charset "UTF-8";
+
+.recentNews {
+  border: none;
+  background: 0 0;
+  max-width: 920px;
+  padding-top: 0
+}
+
+.recentNews .primaryContent {
+  background: 0 0;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px
+}
+
+.recentNews .messageUserBlock {
+  _display: none
+}
+
+.recentNews .subHeading {
+  margin: -10px -10px 10px;
+  border-top: none;
+  font-family: Neuton, Times;
+  font-size: 16px
+}
+
+.recentNews .subHeading a {
+  color: #18150e
+}
+
+.recentNews .subHeading a:hover {
+  color: #333;
+  text-decoration: none
+}
+
+.recentNews .subHeading h2 {
+  font-size: 1.5em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis
+}
+
+.recentNews .messageUserBlock {
+  float: left;
+  margin-right: 15px;
+  border-right: none
+}
+
+.recentNews .messageUserBlock .avatarHolder {
+  padding: 0;
+  background-color: transparent;
+  border-radius: 4px
+}
+
+.recentNews .newsDate {
+  float: left;
+  margin: 0 10px 10px 0;
+  padding: 0 10px 5px;
+  width: 35px;
+  font-weight: 700;
+  text-align: center
+}
+
+.recentNews .newsDate .newsMonth {
+  padding: 10px 0 5px !important;
+  margin: 0 -10px 5px !important;
+  text-transform: uppercase
+}
+
+.recentNews .newsDate .newsDay {
+  font-size: 26px
+}
+
+.recentNews .leftDate .newsDate {
+  margin-left: -45px
+}
+
+.recentNews .leftDate .newsText {
+  margin-left: 25px
+}
+
+.recentNews .messageContent {
+  font-size: 13px
+}
+
+.recentNews .messageContent .postedBy {
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #fafafa
+}
+
+.recentNews .messageContent .username {
+  font-weight: 700
+}
+
+.recentNews .messageContent .comments {
+  font-weight: 700;
+  float: right
+}
+
+.recentNews .messageContent .clearFix {
+  clear: right
+}
+
+.recentNews .iconKey div {
+  background: transparent url(styles/default/xenforo/xenforo-ui-sprite.png) no-repeat 10000px 0;
+  width: 16px;
+  height: 16px;
+  float: left;
+  margin-right: 4px
+}
+
+.recentNews .iconKey .sticky {
+  background-position: 0 -16px
+}
+
+.recentNews .iconKey .redirect {
+  background-position: -48px -16px
+}
+
+.recentNews .iconKey .new {
+  background-position: -64px -16px
+}
+
+.recentNews .primaryContent {
+  padding-bottom: 50px
+}
+
+.continueReadingHypixelSpan {
+  height: 20px;
+  line-height: 18px
+}
+
+.recentNews .sectionFooter {
+  margin: 10px -10px -10px;
+  text-align: right;
+  position: relative
+}
+
+.recentNews .sectionFooter .continue {
+  padding-top: 5px;
+  font-size: 12px
+}
+
+.recentNews .sectionFooter .continue .redirect {
+  margin: 3px 4px 0 0
+}
+
+.recentNews .sectionFooter .categories {
+  padding-top: 5px;
+  float: left
+}
+
+.recentNews .sectionFooter .categories li {
+  display: inline
+}
+
+.recentNews .sectionFooter .sharePage {
+  position: absolute
+}
+
+.recentNews .sectionFooter .shareControl {
+  margin-top: 6px !important
+}
+
+.continueReadingHypixel {
+  float: right
+}
+
+.recentNews .teaserImage {
+  border-radius: 4px;
+  width: 215px;
+  height: 120px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: #ccc;
+  background-image: url(styles/hypixel-uix/hypixel/news.png)
+}
+
+.recentNews .teaserImage.none {
+  background-size: auto
+}
+
+.recentNews .messageContent h2 {
+  margin: 0;
+  margin-bottom: 4px;
+  font-family: Neuton, Times;
+  font-size: 20px;
+  font-weight: 400
+}
+
+.recentNews .messageContent h2 a {
+  text-decoration: none
+}
+
+.recentNews .newsText {
+  xmax-height: 82px;
+  overflow: hidden
+}
+
+.recentNews .newsControl {
+  padding-top: 12px
+}
+
+.recentNews .newsControl .DateTime {
+  margin-left: 10px;
+  color: #555;
+  font-size: 12px
+}
+
+.recentNews .primaryContent {
+  padding-bottom: 30px
+}
+
+#recentNews {
+  padding-top: 0;
+  padding-right: 10px
+}

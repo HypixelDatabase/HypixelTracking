@@ -1,0 +1,26 @@
+{
+  "name": "hypixeltracker",
+  "version": "1.0.0",
+  "description": "🕵️‍♂️ Tracking things, so you don't have to",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HypixelDatabase/HypixelTracker.git"
+  },
+  "keywords": [
+    "hypixel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HypixelDatabase/HypixelTracker/issues"
+  },
+  "homepage": "https://github.com/HypixelDatabase/HypixelTracker#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "request": "^2.88.2"
+  }
+}

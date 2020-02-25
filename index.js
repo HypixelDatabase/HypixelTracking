@@ -1,6 +1,8 @@
 const request = require('request');
 const async = require('async');
 const fs = require('fs');
+const beautify_js = require('js-beautify').js;
+const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
 
 async.each(urls, function (s, cb) {
@@ -28,11 +30,18 @@ async.each(urls, function (s, cb) {
       }
       if (body.startsWith('{')) {
         body = JSON.parse(body);
+        return fs.writeFileSync(s.dest, JSON.stringify(body, null, 2));
+      }
+      if (s.url.endsWith('.js')) {
+        body = beautify_js(body, { indent_size: 2, space_in_empty_paren: true })
+      }
+      if (s.url.includes('css')) {
+        body = beautify_css(body, { indent_size: 2, space_in_empty_paren: true })
       }
       if (s.transform) {
         body = s.transform(body);
       }
-      fs.writeFileSync(s.dest, JSON.stringify(body, null, 2));
+      fs.writeFileSync(s.dest, body);
       cb(err);
     }
   },

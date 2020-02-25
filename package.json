@@ -21,6 +21,7 @@
   "homepage": "https://github.com/HypixelDatabase/HypixelTracker#readme",
   "dependencies": {
     "async": "^3.2.0",
+    "js-beautify": "^1.10.3",
     "request": "^2.88.2"
   }
 }

@@ -1,0 +1,3998 @@
+{
+  "success": true,
+  "lastUpdated": 1582586403375,
+  "version": "0.7.269",
+  "collections": {
+    "FARMING": {
+      "name": "Farming",
+      "items": {
+        "WHEAT": {
+          "name": "Wheat",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Wheat Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Harvesting V) Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Farm Suit Helmet Recipe",
+                "Farm Suit Chestplate Recipe",
+                "Farm Suit Leggings Recipe",
+                "Farm Suit Boots Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Farming Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Bread Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Farming Island Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Hay Bale Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Harvesting Upgrade (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Farm Armor Helmet Recipe",
+                "Farm Armor Chestplate Recipe",
+                "Farm Armor Leggings Recipe",
+                "Farm Armor Boots Recipe"
+              ]
+            }
+          ]
+        },
+        "CARROT_ITEM": {
+          "name": "Carrot",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 100,
+              "unlocks": [
+                "Carrot Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Pet Food (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Catching Egg (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1750,
+              "unlocks": [
+                "Enchanted Carrot Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Carrot on a Stick Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Super Catching Egg (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Golden Carrot Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Carrot Candy (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Mega Catching Egg (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "POTATO_ITEM": {
+          "name": "Potato",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 100,
+              "unlocks": [
+                "Potato Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 200,
+              "unlocks": [
+                "Portal to the Barn Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Vaccine Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1750,
+              "unlocks": [
+                "Enchanted Potato Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Venomous Potion Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 10000,
+              "unlocks": [
+                "+1,000 Farming Experience"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Baked Potato Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Hot Potato Book Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 100000,
+              "unlocks": [
+                "+10,000 Farming Experience"
+              ]
+            }
+          ]
+        },
+        "PUMPKIN": {
+          "name": "Pumpkin",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 40,
+              "unlocks": [
+                "Pumpkin Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Pumpkin Helmet Recipe",
+                "Pumpkin Chestplate Recipe",
+                "Pumpkin Leggings Recipe",
+                "Pumpkin Boots Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Pumpkin Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Book (Cubism IV) Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Training Dummy Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Farmer Orb Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Lantern Helmet Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Farm Crystal Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Farmer Boots Recipe"
+              ]
+            }
+          ]
+        },
+        "MELON": {
+          "name": "Melon",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 250,
+              "unlocks": [
+                "Melon Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 500,
+              "unlocks": [
+                "+50 Farming Experience"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1250,
+              "unlocks": [
+                "+125 Farming Experience"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Melon Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Enchanted Glistering Melon Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Melon Block Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Farming Experience"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 100000,
+              "unlocks": [
+                "+10,000 Farming Experience"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 250000,
+              "unlocks": [
+                "+25,000 Farming Experience"
+              ]
+            }
+          ]
+        },
+        "SEEDS": {
+          "name": "Seeds",
+          "maxTiers": 6,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Dirt Trade"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Clay Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Long Grass Trade"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Fern Trade"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Dead Bush Trade"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Double Tallgrass Trade"
+              ]
+            }
+          ]
+        },
+        "MUSHROOM_COLLECTION": {
+          "name": "Mushroom",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Mushroom Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Mycelium Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Mushroom Helmet Recipe",
+                "Mushroom Chestplate Recipe",
+                "Mushroom Leggings Recipe",
+                "Mushroom Boots Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Magical Mushroom Soup Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Brown Mushroom Block Recipe",
+                "Red Mushroom Block Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Red Mushroom Recipe",
+                "Enchanted Brown Mushroom Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Night Vision Charm Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Brown Mushroom Block Recipe",
+                "Enchanted Red Mushroom Block Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Mystery Bat Pet Recipe"
+              ]
+            }
+          ]
+        },
+        "INK_SACK:3": {
+          "name": "Cocoa Beans",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 75,
+              "unlocks": [
+                "Cocoa Beans Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 200,
+              "unlocks": [
+                "+20 Farming Experience"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Portal to Mushroom Island Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Cocoa Bean Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "+500 Farming Experience"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Cookie Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 20000,
+              "unlocks": [
+                "Adrenaline Potion Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Farming Experience"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 100000,
+              "unlocks": [
+                "+10,000 Farming Experience"
+              ]
+            }
+          ]
+        },
+        "CACTUS": {
+          "name": "Cactus",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 100,
+              "unlocks": [
+                "Cactus Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Cactus Helmet Recipe",
+                "Cactus Chestplate Recipe",
+                "Cactus Leggings Recipe",
+                "Cactus Boots Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Resistance Potion Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Cactus Green Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Desert Island Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Piercing I) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Book (Thorns II) Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Cactus Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Farming Experience"
+              ]
+            }
+          ]
+        },
+        "SUGAR_CANE": {
+          "name": "Sugar Cane",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 100,
+              "unlocks": [
+                "Sugar Cane Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Speed Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "+50 Farming Experience"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Sugar Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Paper Recipe",
+                "Speed Talisman ? Speed Ring Upgrade"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Bookshelf Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Random Book (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 20000,
+              "unlocks": [
+                "Enchanted Sugar Cane Recipe",
+                "Speed Ring ? Speed Artifact Upgrade"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Speedster Helmet Recipe",
+                "Speedster Chestplate Recipe",
+                "Speedster Leggings Recipe",
+                "Speedster Boots Recipe"
+              ]
+            }
+          ]
+        },
+        "FEATHER": {
+          "name": "Feather",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enchanted Book (Projectile Protection IV) Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Feather Falling IV) Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Archery Potion Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Feather Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Feather Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Aiming IV) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Feather Ring Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Book (Snipe II) Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Feather Artifact Recipe"
+              ]
+            }
+          ]
+        },
+        "LEATHER": {
+          "name": "Leather",
+          "maxTiers": 10,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Cow Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Cow Head Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Small Backpack Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Raw Beef Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Medium Backpack Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Leather Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Saddle Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Large Backpack Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Mystery Horse Pet Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Greater Backpack Recipe"
+              ]
+            }
+          ]
+        },
+        "PORK": {
+          "name": "Raw Porkchop",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Pig Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "+10 Farming Experience"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Pig Pet Egg (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Pork Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Piggy Bank Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "+500 Farming Experience"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Grilled Pork Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Mystery Pigman Pet Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Pigman Sword Recipe"
+              ]
+            }
+          ]
+        },
+        "RAW_CHICKEN": {
+          "name": "Raw Chicken",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Chicken Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Bridge Egg Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Chicken Head Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Raw Chicken Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Egg Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Mystery Chicken Pet Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Cake Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Agility Potion Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Super Enchanted Egg Recipe"
+              ]
+            }
+          ]
+        },
+        "MUTTON": {
+          "name": "Mutton",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Sheep Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "+10 Farming Experience"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "+25 Farming Experience"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Mana Potion Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Mutton Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Rainbow I) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Mystery Sheep Pet Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Cooked Mutton Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Polymorph Wand (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "RABBIT": {
+          "name": "Raw Rabbit",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Rabbit Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Mystery Rabbit Pet Recipe",
+                "Mystery Rabbit Pet Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Rabbit Potion Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Rabbit Foot Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Book (Luck IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Rabbit Hide Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Book (Luck of the Sea IV) Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Luck Talisman (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Farming Experience"
+              ]
+            }
+          ]
+        },
+        "NETHER_STALK": {
+          "name": "Nether Wart",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Nether Wart Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Small Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Potion Affinity Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Nether Wart Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Medium Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "+500 Alchemy Experience"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Potion Affinity Ring Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Large Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Potion Affinity Artifact Recipe"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "MINING": {
+      "name": "Mining",
+      "items": {
+        "COBBLESTONE": {
+          "name": "Cobblestone",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Cobblestone Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Stone Platform Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Auto Smelter Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Cobblestone Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Compactor Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Mystery Silverfish Pet Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Miner's Outfit Helmet Recipe",
+                "Miner's Outfit Chestplate Recipe",
+                "Miner's Outfit Leggings Recipe",
+                "Miner's Outfit Boots Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 40000,
+              "unlocks": [
+                "Haste Ring Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 70000,
+              "unlocks": [
+                "Super Compactor 3000 Recipe"
+              ]
+            }
+          ]
+        },
+        "COAL": {
+          "name": "Coal",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Coal Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Smelting Touch I) Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Haste Potion Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Coal Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Charcoal Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Diamond Refinery (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Block of Coal Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Lava Bucket Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Mystery Wither Skeleton Pet Recipe"
+              ]
+            }
+          ]
+        },
+        "IRON_INGOT": {
+          "name": "Iron Ingot",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Iron Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Golem Hat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Protection IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Iron Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Budget Hopper Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Golem Armor Helmet Recipe",
+                "Golem Armor Chestplate Recipe",
+                "Golem Armor Leggings Recipe",
+                "Golem Armor Boots Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Iron Block Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Golem Sword Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Enchanted Hopper Recipe"
+              ]
+            }
+          ]
+        },
+        "GOLD_INGOT": {
+          "name": "Gold Ingot",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Gold Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Cleaver Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Looting II) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Gold Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Absorption Potion Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Scavenger II) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Gold Block Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Book (Fortune II) Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Enchanted Clock (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "DIAMOND": {
+          "name": "Diamond",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Diamond Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Execute IV) Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to the Deep Caverns Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Diamond Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Book (Critical IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Diamond Spreading Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Hardened Diamond Helmet Recipe",
+                "Hardened Diamond Chestplate Recipe",
+                "Hardened Diamond Leggings Recipe",
+                "Hardened Diamond Boots Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Diamond Block Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Perfect Helmet - Tier I Recipe",
+                "Perfect Chestplate - Tier I Recipe",
+                "Perfect Leggings - Tier I Recipe",
+                "Perfect Boots - Tier I Recipe"
+              ]
+            }
+          ]
+        },
+        "INK_SACK:4": {
+          "name": "Lapis Lazuli",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 250,
+              "unlocks": [
+                "Lapis Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 500,
+              "unlocks": [
+                "Experience Bottle Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Book (Experience II) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Lapis Lazuli Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Grand Experience Bottle Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Experience Potion Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Enchanted Lapis Block Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Titanic Experience Bottle Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 150000,
+              "unlocks": [
+                "Experience Artifact Recipe"
+              ]
+            }
+          ]
+        },
+        "EMERALD": {
+          "name": "Emerald",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Emerald Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Talisman of Coins Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Magnetic Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Emerald Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Emerald Ring (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Personal Bank Upgrade",
+                "Personal Bank Item Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 30000,
+              "unlocks": [
+                "Enchanted Emerald Block Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Emerald Blade Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Emerald Armor Helmet Recipe",
+                "Emerald Armor Chestplate Recipe",
+                "Emerald Armor Leggings Recipe",
+                "Emerald Armor Boots Recipe"
+              ]
+            }
+          ]
+        },
+        "REDSTONE": {
+          "name": "Redstone",
+          "maxTiers": 13,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 100,
+              "unlocks": [
+                "Redstone Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Small Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 750,
+              "unlocks": [
+                "Enchanted Book (Efficiency IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1500,
+              "unlocks": [
+                "Enchanted Redstone Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 3000,
+              "unlocks": [
+                "Compass Talisman (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Weather Stick Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Medium Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Redstone Block Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Large Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 200000,
+              "unlocks": [
+                "Greater Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 400000,
+              "unlocks": [
+                "Giant Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 600000,
+              "unlocks": [
+                "Massive Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 13,
+              "amountRequired": 800000,
+              "unlocks": [
+                "Humongous Accessory Bag Upgrade"
+              ]
+            }
+          ]
+        },
+        "QUARTZ": {
+          "name": "Nether Quartz",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Quartz Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Night Saver Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Day Saver Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Quartz Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Minion Expander Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Quartz Block Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Night Crystal Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Day Crystal Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Solar Panel Recipe"
+              ]
+            }
+          ]
+        },
+        "OBSIDIAN": {
+          "name": "Obsidian",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Obsidian Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Lethality IV) Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Gravity Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Obsidian Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enderchest Lv1 Upgrade"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Stun Potion Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enderchest Lv2 Upgrade"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Reforge Anvil (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Enderchest Lv3 Upgrade"
+              ]
+            }
+          ]
+        },
+        "GLOWSTONE_DUST": {
+          "name": "Glowstone Dust",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Glowstone Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Portal to Blazing Fortress Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "+75 Mining Experience"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Glowstone Dust Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "+750 Mining Experience"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Glowstone Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Redstone Lamp Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Glowstone Hat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+15,000 Mining Experience"
+              ]
+            }
+          ]
+        },
+        "GRAVEL": {
+          "name": "Gravel",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Gravel Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Flint Shovel Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to Spider's Den Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Book (Sharpness IV) Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Flint Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (First Strike III) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Critical Potion Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "+2,500 Mining Experience"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Mining Experience"
+              ]
+            }
+          ]
+        },
+        "ICE": {
+          "name": "Ice",
+          "maxTiers": 10,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Ice Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Frost Walker I) Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Packed Ice Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Enchanted Ice Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Magical Water Bucket Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Ice Bait Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Packed Ice Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Frozen Scythe Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Frozen Blaze Helmet Recipe",
+                "Frozen Blaze Chestplate Recipe",
+                "Frozen Blaze Leggings Recipe",
+                "Frozen Blaze Boots Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Auger Rod Recipe"
+              ]
+            }
+          ]
+        },
+        "NETHERRACK": {
+          "name": "Netherrack",
+          "maxTiers": 3,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Nether Wart Island Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Wounded Potion Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Nether Brick Trade"
+              ]
+            }
+          ]
+        },
+        "SAND": {
+          "name": "Sand",
+          "maxTiers": 7,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Sand Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Red Sand Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Soul Sand Trade"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Desert Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Sand Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Burning Potion Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Hard Glass Recipe"
+              ]
+            }
+          ]
+        },
+        "ENDER_STONE": {
+          "name": "End Stone",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "End Stone Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "End Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to The End Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted End Stone Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Silence Block Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Haste Block Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Endermite Pet Egg (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Catalyst Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "End Stone Sword Recipe"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "COMBAT": {
+      "name": "Combat",
+      "items": {
+        "ROTTEN_FLESH": {
+          "name": "Rotten Flesh",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Zombie Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Zombie Pickaxe Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Smite IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Rotten Flesh Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Zombie Hat Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Zombie's Heart Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Zombie Sword Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Zombie Chestplate Recipe",
+                "Zombie Leggings Recipe",
+                "Zombie Boots Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Zombie Pet Egg (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "BONE": {
+          "name": "Bone",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Skeleton Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Bone Meal Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Power IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Skeleton Hat Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Bone Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Skeleton Pet Egg (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Hurricane Bow Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Skeleton's Helmet Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Runaan's Bow Recipe"
+              ]
+            }
+          ]
+        },
+        "STRING": {
+          "name": "String",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Spider Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Web Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Quiver Upgrade"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted String Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Book (Silk Touch I) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Infinite Quiver IV) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Grappling Hook Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Spider's Boots Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Spider Pet Egg (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "SPIDER_EYE": {
+          "name": "Spider Eye",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Cave Spider Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Spider Sword Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Spider Hat Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Spider Eye Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Book (Bane of Arthropods IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Venomous IV) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Fermented Spider Eye Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Cave Spider Pet Egg (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Leaping Sword Recipe"
+              ]
+            }
+          ]
+        },
+        "SULPHUR": {
+          "name": "Gunpowder",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Creeper Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Creeper Hat Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Blast Protection IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Gunpowder Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Book (Thunderlord IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Firework Rocket Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Random Firework (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Creeper Pants Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Explosive Bow Recipe"
+              ]
+            }
+          ]
+        },
+        "ENDER_PEARL": {
+          "name": "Ender Pearl",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enderman Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Ender Pearl Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Book (Ender Slayer IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 2500,
+              "unlocks": [
+                "End Island (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Ender Bow Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Eye of Ender Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Teleport Pad Trade"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Aspect of the End Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Saving Grace Recipe"
+              ]
+            }
+          ]
+        },
+        "GHAST_TEAR": {
+          "name": "Ghast Tear",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Ghast Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Ghast Head Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Giant Killer IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Ghast Tear Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Book (Vampirism IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Silver Fang Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Ghast Armor (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "+2,500 Combat Experience"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Combat Experience"
+              ]
+            }
+          ]
+        },
+        "SLIME_BALL": {
+          "name": "Slimeball",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Slime Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Slime Hat Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Knockback I) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Knockback Potion Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Slimeball Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Punch I) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Launch Pad Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Slime Block Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Slime Bow Recipe"
+              ]
+            }
+          ]
+        },
+        "BLAZE_ROD": {
+          "name": "Blaze Rod",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Blaze Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Blaze Hat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Fire Aspect I) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Blaze Powder Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Fire Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Flame I) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Blaze Rod Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Blaze Helmet Recipe",
+                "Blaze Chestplate Recipe",
+                "Blaze Leggings Recipe",
+                "Blaze Boots Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Mystery Blaze Pet Recipe"
+              ]
+            }
+          ]
+        },
+        "MAGMA_CREAM": {
+          "name": "Magma Cream",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Magma Cube Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Magma Cube Head Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Fire Protection IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Nether Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Enchanted Magma Cream Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Lava Bucket Trade"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Lava Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Armor of Magma Helmet Recipe",
+                "Armor of Magma Chestplate Recipe",
+                "Armor of Magma Leggings Recipe",
+                "Armor of Magma Boots Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Magma Bow Recipe"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "FORAGING": {
+      "name": "Foraging",
+      "items": {
+        "LOG": {
+          "name": "Oak Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Oak Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Oak Leaves Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Leaflet Hat Recipe",
+                "Leaflet Tunic Recipe",
+                "Leaflet Pants Recipe",
+                "Leaflet Sandals Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Small Storage Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Forest Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Oak Wood Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Medium Storage Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Wood Affinity Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 30000,
+              "unlocks": [
+                "Large Storage Recipe"
+              ]
+            }
+          ]
+        },
+        "LOG:1": {
+          "name": "Spruce Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Spruce Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Spruce Leaves Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to Spruce Woods Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Taiga Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Spruce Wood Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Sawmill (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "+1,000 Foraging Experience"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Mystery Wolf Pet Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Foraging Experience"
+              ]
+            }
+          ]
+        },
+        "LOG:2": {
+          "name": "Birch Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Birch Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Birch Leaves Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to Birch Park Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Sculptor's Axe Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Birch Forest Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 1500,
+              "unlocks": [
+                "+150 Foraging Experience"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Birch Wood Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Woodcutting Crystal Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 10000,
+              "unlocks": [
+                "+1,000 Foraging Experience"
+              ]
+            }
+          ]
+        },
+        "LOG_2:1": {
+          "name": "Dark Oak Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Dark Oak Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Dark Oak Leaves Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to Dark Thicket Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Roofed Forest Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Dark Oak Wood Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Roofed Forest Island Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Book (Growth IV) Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Helmet of Growth Recipe",
+                "Chestplate of Growth Recipe",
+                "Leggings of Growth Recipe",
+                "Boots of Growth Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Foraging Experience"
+              ]
+            }
+          ]
+        },
+        "LOG_2": {
+          "name": "Acacia Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Acacia Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Acacia Leaves Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to Savanna Woodland Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Super Torch (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Savanna Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Acacia Wood Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Savanna Bow Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 10000,
+              "unlocks": [
+                "+1,000 Foraging Experience"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 25000,
+              "unlocks": [
+                "+2,500 Foraging Experience"
+              ]
+            }
+          ]
+        },
+        "LOG:3": {
+          "name": "Jungle Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Jungle Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Jungle Leaves Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Portal to Jungle Island Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Vines Trade"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Jungle Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Enchanted Jungle Wood Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Jungle Axe Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Mystery Ocelot Pet Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "+5,000 Foraging Experience"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "FISHING": {
+      "name": "Fishing",
+      "items": {
+        "RAW_FISH": {
+          "name": "Raw Fish",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Fish Hat Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 50,
+              "unlocks": [
+                "Fishing Minion Recipes"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Small Fishing Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 250,
+              "unlocks": [
+                "Pond Island Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 500,
+              "unlocks": [
+                "Angler Helmet Recipe",
+                "Angler Chestplate Recipe",
+                "Angler Leggings Recipe",
+                "Angler Boots Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Raw Fish Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Medium Fishing Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Enchanted Cooked Fish Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 30000,
+              "unlocks": [
+                "Large Fishing Bag Upgrade"
+              ]
+            }
+          ]
+        },
+        "RAW_FISH:1": {
+          "name": "Raw Salmon",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Minnow Bait Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 50,
+              "unlocks": [
+                "Dodge Potion Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Lure IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Raw Salmon Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 500,
+              "unlocks": [
+                "Speedster Rod Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Fish Bait Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Salmon Hat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Cooked Salmon Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Salmon Armor (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "RAW_FISH:2": {
+          "name": "Clownfish",
+          "maxTiers": 3,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Clownfish Hat Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 25,
+              "unlocks": [
+                "Water Bucket Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enchanted Book (Magnet IV) Recipe"
+              ]
+            }
+          ]
+        },
+        "RAW_FISH:3": {
+          "name": "Pufferfish",
+          "maxTiers": 6,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Pufferfish Hat Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enchanted Pufferfish Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Cleave IV) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 150,
+              "unlocks": [
+                "Enchanted Book (Depth Strider II) Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 400,
+              "unlocks": [
+                "Spiked Bait Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 800,
+              "unlocks": [
+                "Enchanted Book (Spiked Hook IV) Recipe"
+              ]
+            }
+          ]
+        },
+        "PRISMARINE_SHARD": {
+          "name": "Prismarine Shard",
+          "maxTiers": 5,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Enchanted Book (Impaling II) Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 25,
+              "unlocks": [
+                "Prismarine Blade Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enchanted Prismarine Shard Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Prismarine Rod Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 200,
+              "unlocks": [
+                "Prismarine Bow Recipe"
+              ]
+            }
+          ]
+        },
+        "PRISMARINE_CRYSTALS": {
+          "name": "Prismarine Crystals",
+          "maxTiers": 7,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Sea Lantern Hat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 25,
+              "unlocks": [
+                "Light Bait Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enchanted Prismarine Crystals Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Book (Aqua Affinity I) Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 200,
+              "unlocks": [
+                "Guardian Chestplate Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 400,
+              "unlocks": [
+                "Blessed Bait Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 800,
+              "unlocks": [
+                "Enchanted Book (Blessing IV) Recipe"
+              ]
+            }
+          ]
+        },
+        "CLAY_BALL": {
+          "name": "Clay",
+          "maxTiers": 5,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Clay Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Clay Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Respiration II) Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Book (Frail IV) Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Farmer's Rod Recipe"
+              ]
+            }
+          ]
+        },
+        "WATER_LILY": {
+          "name": "Lily Pad",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Spooky Bait Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 50,
+              "unlocks": [
+                "Blobfish Hat Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Healing Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 200,
+              "unlocks": [
+                "Enchanted Lily Pad Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 500,
+              "unlocks": [
+                "Challenging Rod Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 1500,
+              "unlocks": [
+                "Whale Bait Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 3000,
+              "unlocks": [
+                "Rod of Champions Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 6000,
+              "unlocks": [
+                "Healing Ring Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Rod of Legends Recipe"
+              ]
+            }
+          ]
+        },
+        "INK_SACK": {
+          "name": "Ink Sack",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Squid Hat Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 40,
+              "unlocks": [
+                "Dark Bait Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Ink Sack Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 200,
+              "unlocks": [
+                "Deep Ocean Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 400,
+              "unlocks": [
+                "Enchanted Book (Caster IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 800,
+              "unlocks": [
+                "Blindness Potion Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 1500,
+              "unlocks": [
+                "Enchanted Book (Angler IV) Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Bait Ring Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 4000,
+              "unlocks": [
+                "Ink Wand Recipe"
+              ]
+            }
+          ]
+        },
+        "SPONGE": {
+          "name": "Sponge",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Sponge Rod Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 40,
+              "unlocks": [
+                "Sponge Trade"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Sponge Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 200,
+              "unlocks": [
+                "Sea Creature Talisman Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 400,
+              "unlocks": [
+                "Stereo Pants Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 800,
+              "unlocks": [
+                "Sea Creature Ring Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 1500,
+              "unlocks": [
+                "Enchanted Wet Sponge Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Sea Creature Artifact Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 4000,
+              "unlocks": [
+                "Sponge Helmet Recipe",
+                "Sponge Chestplate Recipe",
+                "Sponge Leggings Recipe",
+                "Spongy Shoes Recipe"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

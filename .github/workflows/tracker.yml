@@ -1,7 +1,7 @@
 name: Update tracked files
 on:
   schedule:
-    - cron: '/15 * * * *'
+    - cron: '*/15 * * * *'
 jobs:
   update-deps:
     runs-on: ubuntu-latest

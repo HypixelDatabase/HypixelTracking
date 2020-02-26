@@ -20,7 +20,7 @@ jobs:
         uses: peter-evans/create-pull-request@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: ${{ COMMIT_MESSAGE }}
+          commit-message: $COMMIT_MESSAGE
           title: Automated File Updates
           body: This is an auto-generated PR with file updates.
           branch: autobuild

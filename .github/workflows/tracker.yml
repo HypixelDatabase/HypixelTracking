@@ -15,7 +15,7 @@ jobs:
         run: |
           npm install
           npm start
-          echo ::set-env name=COMMIT_MESSAGE::"$(git status --porcelain | wc -l) files | $(git status --porcelain|awk '{print "basename " $2}'| sh | sed '{:q;N;s/\n/, /g;t q}')"
+          echo ::set-env name=COMMIT_MESSAGE::$(git status --porcelain | wc -l) files | $(git status --porcelain|awk '{print "basename " $2}'| sh | sed '{:q;N;s/\n/, /g;t q}')
       - name: Commit changes
         uses: peter-evans/create-pull-request@v1
         with:

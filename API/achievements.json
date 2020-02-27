@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1582730063133,
+  "lastUpdated": 1582769403600,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3343,12 +3343,6 @@
           "name": "Gone Fishing",
           "description": "Catch a fish"
         },
-        "MORE_DAMAGE": {
-          "points": 5,
-          "name": "More Damage",
-          "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage",
-          "legacy": true
-        },
         "ON_FIRE": {
           "points": 5,
           "name": "On Fire",
@@ -3444,12 +3438,6 @@
           "name": "Summoner",
           "description": "Spawn a mob in a Blitz Duel"
         },
-        "COMPETITOR": {
-          "points": 5,
-          "name": "Competitor",
-          "description": "Participate in a Duels Tournament",
-          "legacy": true
-        },
         "UNTOUCHABLE": {
           "points": 15,
           "name": "Untouchable",
@@ -3459,12 +3447,6 @@
           "points": 5,
           "name": "Express Yourself",
           "description": "Use a glyph in The Bridge"
-        },
-        "SMASH_YOUR_KEYBOARD": {
-          "points": 10,
-          "name": "Smash your Keyboard",
-          "description": "Come Second Place in a Duels Tournament",
-          "legacy": true
         },
         "HUNGRY": {
           "points": 10,
@@ -3551,16 +3533,34 @@
           "name": "Team Player",
           "description": "Win a game of 4v4 UHC Duels"
         },
+        "ONE_V_ONE_ME": {
+          "points": 5,
+          "name": "1v1 Me!",
+          "description": "Challenge someone to a Bridge Duel using /duel"
+        },
+        "MORE_DAMAGE": {
+          "points": 5,
+          "name": "More Damage",
+          "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage",
+          "legacy": true
+        },
+        "SMASH_YOUR_KEYBOARD": {
+          "points": 10,
+          "name": "Smash your Keyboard",
+          "description": "Come Second Place in a Duels Tournament",
+          "legacy": true
+        },
         "WE_ARE_NUMBER_ONE": {
           "points": 15,
           "name": "CHAMPION!",
           "description": "Win a Duels Tournament",
           "legacy": true
         },
-        "ONE_V_ONE_ME": {
+        "COMPETITOR": {
           "points": 5,
-          "name": "1v1 Me!",
-          "description": "Challenge someone to a Bridge Duel using /duel"
+          "name": "Competitor",
+          "description": "Participate in a Duels Tournament",
+          "legacy": true
         }
       },
       "tiered": {
@@ -3843,38 +3843,6 @@
             }
           ]
         },
-        "DUELS_TROPHIES": {
-          "name": "Duels Trophies",
-          "description": "Obtain %s Trophies by winning Duels Tournaments",
-          "legacy": true,
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 1
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 10
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 25
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 50
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 100
-            }
-          ]
-        },
         "BRIDGE_WIN_STREAK": {
           "name": "The Bridge Streak",
           "description": "Get a win streak of %s in The Bridge",
@@ -3965,6 +3933,38 @@
               "tier": 5,
               "points": 25,
               "amount": 15
+            }
+          ]
+        },
+        "DUELS_TROPHIES": {
+          "name": "Duels Trophies",
+          "description": "Obtain %s Trophies by winning Duels Tournaments",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 25
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 50
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 100
             }
           ]
         }

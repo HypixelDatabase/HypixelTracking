@@ -19,4 +19,4 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.0.0
         with:
-          commit-message: ${{ env.COMMIT_MESSAGE }}
+          commit_message: ${{ env.COMMIT_MESSAGE }}

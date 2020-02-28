@@ -1,6 +1,7 @@
 const request = require('request');
 const async = require('async');
 const fs = require('fs');
+const yauzl = require("yauzl");
 const beautify_js = require('js-beautify').js;
 const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
@@ -19,8 +20,7 @@ async.each(urls, function (s, cb) {
           statusCode: 200
         }, JSON.stringify(resultArr));
       });
-    }
-    else {
+    } else {
       request(url, handleResponse);
     }
 
@@ -30,6 +30,7 @@ async.each(urls, function (s, cb) {
       }
       if (body.startsWith('{')) {
         body = JSON.parse(body);
+        if (!body.success) return;
         return fs.writeFileSync(s.dest, JSON.stringify(body, null, 2));
       }
       if (s.url.endsWith('.js')) {
@@ -49,5 +50,48 @@ async.each(urls, function (s, cb) {
     if (err) {
       throw err;
     }
-    process.exit(0);
   });
+
+const sources = [
+  {
+    url: 'http://rpsrv.hypixel.net/packs/8/SuperSmashSanic.zip',
+    dest: './ResourcePacks/SuperSmashSanic'
+  },
+  {
+    url: 'http://rpsrv.hypixel.net/packs/8/HypixelBlank.zip',
+    dest: './ResourcePacks/HypixelBlank'
+  },
+  {
+    url: 'http://rpsrv.hypixel.net/packs/8/WarlordsAug16.zip',
+    dest: './ResourcePacks/WarlordsAug16'
+  },
+  {
+    url: 'http://rpsrv.hypixel.net/packs/8/MineKarts18.zip',
+    dest: './ResourcePacks/MineKarts18'
+  },
+];
+async.each(sources, (s, cb) => {
+  request(s.url, { encoding: null }, (err, res, body) => {
+    yauzl.fromBuffer(body, { lazyEntries: true }, (err, zipfile) => {
+      if (err) throw err;
+      zipfile.readEntry();
+      zipfile.on('entry', (entry) => {
+        const dest = `${s.dest}/${entry.fileName}`;
+        if (/\/$/.test(entry.fileName)) {
+          fs.mkdir(dest, { recursive: true }, (err) => {
+            if (err) throw err;
+            zipfile.readEntry();
+          });
+        } else {
+          // file entry
+          zipfile.openReadStream(entry, (err, readStream) => {
+            if (err) throw err;
+              const writeStream = fs.createWriteStream(dest);
+              readStream.on('end', () => zipfile.readEntry());
+              readStream.pipe(writeStream);
+          });
+        }
+      });
+    });
+  })
+});

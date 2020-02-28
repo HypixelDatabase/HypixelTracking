@@ -1,0 +1,415 @@
+{
+  "ctf.enemycapturedtheflag": {
+    "category": "master",
+    "sounds": [
+      "ctf/enemycapturedtheflag"
+    ]
+  },
+  "ctf.enemyflagcaptured": {
+    "category": "master",
+    "sounds": [
+      "ctf/enemyflagcaptured"
+    ]
+  },
+  "ctf.enemyflagtaken": {
+    "category": "master",
+    "sounds": [
+      "ctf/enemyflagtaken"
+    ]
+  },
+  "ctf.flagreturned": {
+    "category": "master",
+    "sounds": [
+      "ctf/flagreturned"
+    ]
+  },
+  "ctf.friendlyflagtaken": {
+    "category": "master",
+    "sounds": [
+      "ctf/friendlyflagtaken"
+    ]
+  },
+  "ctf.powerup.spawn": {
+    "category": "master",
+    "sounds": [
+      "ctf/powerup_spawn"
+    ]
+  },
+  "ctf.powerup.speed": {
+    "category": "master",
+    "sounds": [
+      "ctf/powerup_speed"
+    ]
+  },
+  "defeat": {
+    "category": "master",
+    "sounds": [
+      "defeat"
+    ]
+  },
+  "dig.stone": {
+    "category": "master",
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ]
+  },
+  "epicfind": {
+    "category": "master",
+    "sounds": [
+      "epicfind"
+    ]
+  },
+  "gamestart": {
+    "category": "master",
+    "sounds": [
+      "gamestart"
+    ]
+  },
+  "legendaryfind": {
+    "category": "master",
+    "sounds": [
+      "legendaryfind"
+    ]
+  },
+  "mage.arcaneshield.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/arcaneshield_activation"
+    ]
+  },
+  "mage.fireball.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/fireball_activation"
+    ]
+  },
+  "mage.fireball.impact": {
+    "category": "master",
+    "sounds": [
+      "mage/fireball_impact"
+    ]
+  },
+  "mage.firebreath.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/firebreath_activation"
+    ]
+  },
+  "mage.flameburst.impact": {
+    "category": "master",
+    "sounds": [
+      "mage/flameburst_impact"
+    ]
+  },
+  "mage.freezingbreath.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/freezingbreath_activation"
+    ]
+  },
+  "mage.frostbolt.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/frostbolt_activation"
+    ]
+  },
+  "mage.frostbolt.impact": {
+    "category": "master",
+    "sounds": [
+      "mage/frostbolt_impact"
+    ]
+  },
+  "mage.healingrain.impact": {
+    "category": "master",
+    "sounds": [
+      "mage/healingrain_impact"
+    ]
+  },
+  "mage.icebarrier.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/icebarrier_activation"
+    ]
+  },
+  "mage.inferno.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/inferno_activation"
+    ]
+  },
+  "mage.timewarp.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/timewarp_activation"
+    ]
+  },
+  "mage.timewarp.teleport": {
+    "category": "master",
+    "sounds": [
+      "mage/timewarp_teleport"
+    ]
+  },
+  "mage.waterbolt.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/waterbolt_activation"
+    ]
+  },
+  "mage.waterbolt.impact": {
+    "category": "master",
+    "sounds": [
+      "mage/waterbolt_impact"
+    ]
+  },
+  "mage.waterbreath.activation": {
+    "category": "master",
+    "sounds": [
+      "mage/waterbreath_activation"
+    ]
+  },
+  "mountup": {
+    "category": "master",
+    "sounds": [
+      "mountup"
+    ]
+  },
+  "notreadyalert": {
+    "category": "master",
+    "sounds": [
+      "notreadyalert"
+    ]
+  },
+  "paladin.avengerswrath.activation": {
+    "category": "master",
+    "sounds": [
+      "paladin/avengerswrath_activation"
+    ]
+  },
+  "paladin.barrieroflight.impact": {
+    "category": "master",
+    "sounds": [
+      "paladin/barrieroflight_impact"
+    ]
+  },
+  "paladin.consecrate.activation": {
+    "category": "master",
+    "sounds": [
+      "paladin/consecrate_activation"
+    ]
+  },
+  "paladin.hammeroflight.impact": {
+    "category": "master",
+    "sounds": [
+      "paladin/hammeroflight_impact"
+    ]
+  },
+  "paladin.holyradiance.activation": {
+    "category": "master",
+    "sounds": [
+      "paladin/holyradiance_activation"
+    ]
+  },
+  "paladin.infusionoflight.activation": {
+    "category": "master",
+    "sounds": [
+      "paladin/infusionoflight_activation"
+    ]
+  },
+  "paladin.inspiringpresence.activation": {
+    "category": "master",
+    "sounds": [
+      "paladin/inspiringpresence_activation"
+    ]
+  },
+  "paladin.paladinstrike.activation": {
+    "category": "master",
+    "sounds": [
+      "paladin/paladinstrike_activation"
+    ]
+  },
+  "shaman.boulder.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/boulder_activation"
+    ]
+  },
+  "shaman.boulder.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/boulder_impact"
+    ]
+  },
+  "shaman.capacitortotem.pulse": {
+    "category": "master",
+    "sounds": [
+      "shaman/capacitortotem_pulse"
+    ]
+  },
+  "shaman.chainheal.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/chainheal_activation"
+    ]
+  },
+  "shaman.chainlightning.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/chainlightning_activation"
+    ]
+  },
+  "shaman.chainlightning.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/chainlightning_impact"
+    ]
+  },
+  "shaman.earthenspike.animation.a": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthenspike_animation_a"
+    ]
+  },
+  "shaman.earthenspike.animation.b": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthenspike_animation_b"
+    ]
+  },
+  "shaman.earthenspike.animation.c": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthenspike_animation_c"
+    ]
+  },
+  "shaman.earthenspike.animation.d": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthenspike_animation_d"
+    ]
+  },
+  "shaman.earthenspike.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthenspike_impact"
+    ]
+  },
+  "shaman.earthlivingweapon.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthlivingweapon_activation"
+    ]
+  },
+  "shaman.earthlivingweapon.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/earthlivingweapon_impact"
+    ]
+  },
+  "shaman.heal.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/heal_impact"
+    ]
+  },
+  "shaman.lightningbolt.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/lightningbolt_activation"
+    ]
+  },
+  "shaman.lightningbolt.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/lightningbolt_impact"
+    ]
+  },
+  "shaman.lightningrod.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/lightningrod_activation"
+    ]
+  },
+  "shaman.totem.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/totem_activation"
+    ]
+  },
+  "shaman.windfuryweapon.activation": {
+    "category": "master",
+    "sounds": [
+      "shaman/windfuryweapon_activation"
+    ]
+  },
+  "shaman.windfuryweapon.impact": {
+    "category": "master",
+    "sounds": [
+      "shaman/windfuryweapon_impact"
+    ]
+  },
+  "victory": {
+    "category": "master",
+    "sounds": [
+      "victory"
+    ]
+  },
+  "warrior.berserk.activation": {
+    "category": "master",
+    "sounds": [
+      "warrior/berserk_activation"
+    ]
+  },
+  "warrior.bloodlust.activation": {
+    "category": "master",
+    "sounds": [
+      "warrior/bloodlust_activation"
+    ]
+  },
+  "warrior.groundslam.activation": {
+    "category": "master",
+    "sounds": [
+      "warrior/groundslam_activation"
+    ]
+  },
+  "warrior.intervene.block": {
+    "category": "master",
+    "sounds": [
+      "warrior/intervene_block1",
+      "warrior/intervene_block2",
+      "warrior/intervene_block3"
+    ]
+  },
+  "warrior.intervene.impact": {
+    "category": "master",
+    "sounds": [
+      "warrior/intervene_impact"
+    ]
+  },
+  "warrior.laststand.activation": {
+    "category": "master",
+    "sounds": [
+      "warrior/laststand_activation"
+    ]
+  },
+  "warrior.mortalstrike.impact": {
+    "category": "master",
+    "sounds": [
+      "warrior/mortalstrike_impact"
+    ]
+  },
+  "warrior.seismicwave.activation": {
+    "category": "master",
+    "sounds": [
+      "warrior/seismicwave_activation"
+    ]
+  },
+  "warrior.revenant.orbsoflife": {
+    "category": "master",
+    "sounds": [
+      "warrior/revenant_orbsoflife"
+    ]
+  }
+}

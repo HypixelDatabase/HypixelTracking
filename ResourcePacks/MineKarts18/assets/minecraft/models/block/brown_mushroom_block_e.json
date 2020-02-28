@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "items/CoinPickup",
+        "down": "items/CoinPickup",
+        "up": "items/CoinPickup",
+        "north": "items/CoinPickup",
+        "east": "items/CoinPickup",
+        "south": "items/CoinPickup",
+        "west": "items/CoinPickup"
+    }
+}

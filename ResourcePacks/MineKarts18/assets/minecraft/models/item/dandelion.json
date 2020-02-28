@@ -1,0 +1,23 @@
+{
+"__comment": "Designed by Hypixel minecraft server with BDcraft Cubik PRO 0.92 Beta - http://bdcraft.net",
+"textures": {
+    "texture": "items/Invulnerable"
+},
+"elements": [ 
+{
+    "from": [ 0, 0, 8 ],
+    "to": [ 16, 16, 8.0625 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+}
+],
+"display": {
+    "gui": {
+        "rotation": [ 30, -45, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1.3, 1.3, 1.3 ]
+    }
+}
+}

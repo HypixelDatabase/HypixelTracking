@@ -1,0 +1,21 @@
+{
+"__comment": "Designed by Hypixel minecraft server with BDcraft Cubik PRO 0.93 Beta - http://bdcraft.net",
+"ambientocclusion": false,
+"textures": {
+    "texture": "items/pickupblock"
+},
+"elements": [ 
+{
+    "from": [ 0, 0, 0 ],
+    "to": [ 16, 16, 16 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#texture", "cullface": "down" },
+        "up":    { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#texture", "cullface": "up" },
+        "north": { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#texture", "cullface": "north" },
+        "south": { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#texture", "cullface": "south" },
+        "west":  { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#texture", "cullface": "west" },
+        "east":  { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#texture", "cullface": "east" }
+    }
+}
+]
+}

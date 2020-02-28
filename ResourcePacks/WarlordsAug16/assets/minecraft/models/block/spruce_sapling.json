@@ -1,0 +1,32 @@
+{
+"__comment": "Designed by Hypixel minecraft server with BDcraft Cubik PRO 0.92 Beta - http://bdcraft.net",
+"textures": {
+    "texture": "items/Healing_Nova",
+	"particle": "items/Healing_Nova"
+},
+"elements": [ 
+{
+    "from": [ 8, -6.4, -9 ],
+    "to": [ 8.0625, 18.5, 25 ],
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -9, -6.3375, 8 ],
+    "to": [ 25, 18.5625, 8.0625 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, -22, 0 ],
+        "scale": [ 3, 3, 3 ]
+    }
+}
+}

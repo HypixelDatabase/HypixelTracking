@@ -1,0 +1,33 @@
+{
+"__comment": "Designed by Hypixel minecraft server with BDcraft Cubik PRO 0.92 Beta - http://bdcraft.net",
+"textures": {
+    "texture": "items/Chainheal"
+},
+"elements": [ 
+{
+    "from": [ -9.9375, -5.09563, -5 ],
+    "to": [ 26.0175, -5, 31.72 ],
+    "rotation": { "origin": [ -9.9375, -5, -5 ], "axis": "x", "angle": -45 },
+    "faces": {
+        "down":  { "uv": [ 0, 16, 16, 0 ], "texture": "#texture" },
+        "up":    { "uv": [ 0, 16, 16, 0 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -9.9375, 20.6544, -4.9375 ],
+    "to": [ 26.0175, 20.75, 31.7825 ],
+    "rotation": { "origin": [ -9.9375, 20.75, -4.9375 ], "axis": "x", "angle": 45 },
+    "faces": {
+        "down":  { "uv": [ 0, 16, 16, 0 ], "texture": "#texture" },
+        "up":    { "uv": [ 0, 16, 16, 0 ], "texture": "#texture" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, 90, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 2, 2, 2 ]
+    }
+}
+}

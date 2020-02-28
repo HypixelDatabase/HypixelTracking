@@ -1,0 +1,3172 @@
+{
+"__comment": "Designed by Roddan with BDcraft Cubik PRO 0.87 Beta - http://bdcraft.net",
+"ambientocclusion": false,
+"textures": {
+    "texture": "items/silver_carpet_unwrap",
+    "Paladin VIP unwraped ": "items/yellow_carpet_unwrap1",
+    "Paladin Normal unwraped 4": "items/palnormalunwrap4",
+    "Paladin Normal unwraped 3": "items/palnormalunwrap3",
+    "Paladin Normal unwraped 2": "items/palnormalunwrap2",
+    "Paladin MVP Unwraped BLUE": "items/acacia_stairs_unwrap1",
+    "Paladin MVP Unwraped 2 BLUE": "items/acacia_stairs_unwrap2",
+    "Paladin MVP Unwraped 2": "items/acacia_stairs_unwrap2",
+    "Paladin MVP Unwraped": "items/acacia_stairs_unwrap1",
+    "pallablur": "items/blueflamelicks"
+},
+"elements": [ 
+{
+    "from": [ 13, -12.5, 17 ],
+    "to": [ 14, -4.5, 18 ],
+    "faces": {
+        "down":  { "uv": [ 7, 10, 7.5, 10.5 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 7, 6.5, 7.5, 7 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 7.5, 6.5, 7, 10.5 ], "texture": "#texture" },
+        "south": { "uv": [ 7, 6.5, 7.5, 10.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 7, 6.5, 7.5, 10.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 7, 6.5, 7.5, 10.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 15, -11.5, 15 ],
+    "to": [ 16, -2, 17 ],
+    "faces": {
+        "down":  { "uv": [ 8, 9.5, 8.5, 10 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 8, 5.5, 8.5, 6 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 8.5, 5.5, 8, 10 ], "texture": "#texture" },
+        "south": { "uv": [ 8, 5.5, 8.5, 10 ], "texture": "#texture" },
+        "west":  { "uv": [ 8, 5.5, 8.5, 10 ], "texture": "#texture" },
+        "east":  { "uv": [ 8, 5.5, 8.5, 10 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 16, -11, 15 ],
+    "to": [ 17, 0, 16 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 9, 9, 9.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 9, 4.5, 8.5, 9.5 ], "texture": "#texture" },
+        "south": { "uv": [ 8.5, 4.5, 9, 9.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 8.5, 4.5, 9, 9.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 8.5, 4.5, 9, 9.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 2, -12.5, 17 ],
+    "to": [ 3, -4.5, 18 ],
+    "faces": {
+        "down":  { "uv": [ 1.5, 10, 2, 10.5 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 1.5, 6.5, 2, 7 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 2, 7, 1.5, 10.5 ], "texture": "#texture" },
+        "south": { "uv": [ 1.5, 7, 2, 10.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 1.5, 7, 2, 10.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 1.5, 7, 2, 10.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 0, -11.5, 15 ],
+    "to": [ 1, -2, 17 ],
+    "faces": {
+        "down":  { "uv": [ 0.5, 9.5, 1, 10 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 0.5, 6, 1, 6.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 1, 6, 0.5, 10 ], "texture": "#texture" },
+        "south": { "uv": [ 0.5, 6, 1, 10 ], "texture": "#texture" },
+        "west":  { "uv": [ 0.5, 6, 1, 10 ], "texture": "#texture" },
+        "east":  { "uv": [ 0.5, 6, 1, 10 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -1, -11, 15 ],
+    "to": [ 0, 0, 16 ],
+    "faces": {
+        "down":  { "uv": [ 0, 9, 0.5, 9.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 0.5, 4.5, 0, 9.5 ], "texture": "#texture" },
+        "south": { "uv": [ 0, 4.5, 0.5, 9.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 0, 4.5, 0.5, 9.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 4.5, 0.5, 9.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 0, 5, 1.5 ],
+    "to": [ 16, 7, 16 ],
+    "faces": {
+        "down":  { "uv": [ 4, 10, 4.5, 5.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 4, 10, 4.5, 5.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "south": { "uv": [ 7, 4, 10.5, 5 ], "texture": "#Paladin VIP unwraped " },
+        "west":  { "uv": [ 11.5, 4, 6.5, 5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 11.5, 4, 6.5, 5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 1, 7, 1 ],
+    "to": [ 15, 8, 16 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3, 12, 13 ], "rotation": 180, "texture": "#Paladin Normal unwraped 4" },
+        "up":    { "uv": [ 12, 13, 4, 3 ], "rotation": 180, "texture": "#Paladin Normal unwraped 4" },
+        "north": { "uv": [ 4, 3.5, 12, 4 ], "texture": "#Paladin Normal unwraped 4" },
+        "south": { "uv": [ 12, 11.5, 4, 12 ], "texture": "#Paladin Normal unwraped 4" },
+        "west":  { "uv": [ 4.5, 2.5, 10.5, 3 ], "texture": "#Paladin Normal unwraped 4" },
+        "east":  { "uv": [ 10.5, 2.5, 4.5, 3 ], "texture": "#Paladin Normal unwraped 4" }
+    }
+},
+{
+    "from": [ 3, -2, 15.5 ],
+    "to": [ 13, 7, 19 ],
+    "faces": {
+        "down":  { "uv": [ 1.5, 3, 6.5, 4 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 1.5, 3.5, 7.5, 5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 7, 0.5, 2, 4.5 ], "texture": "#texture" },
+        "south": { "uv": [ 2, 0.5, 7, 4.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 1.5, 0.5, 3, 4.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 6, 0.5, 7.5, 4.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 13, -2, 15 ],
+    "to": [ 15, 7, 18 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 2.5, 4.5, 3.5 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 2, 1.5, 4, 0.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 8, 0.5, 7, 5 ], "texture": "#texture" },
+        "south": { "uv": [ 7, 0.5, 8, 5 ], "texture": "#texture" },
+        "west":  { "uv": [ 3.5, 2, 2, 3 ], "texture": "#texture" },
+        "east":  { "uv": [ 3.5, 2, 2, 3 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 1, -2, 15 ],
+    "to": [ 3, 7, 18 ],
+    "faces": {
+        "down":  { "uv": [ 2, 3, 4, 4 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 0.5, 0.5, 2.5, 1.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 2, 0.5, 1, 5 ], "texture": "#texture" },
+        "south": { "uv": [ 1, 0.5, 2, 5 ], "texture": "#texture" },
+        "west":  { "uv": [ 2, 0.5, 1, 5 ], "texture": "#texture" },
+        "east":  { "uv": [ 2, 0.5, 1, 5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 3, 7, 16 ],
+    "to": [ 13, 8, 17 ],
+    "faces": {
+        "up":    { "uv": [ 2.5, 0, 6.5, 0.5 ], "rotation": 180, "texture": "#texture" },
+        "south": { "uv": [ 6.5, 0, 2.5, 0.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 6, 0, 6.5, 0.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 2.5, 0, 3, 0.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 5, 7, 17 ],
+    "to": [ 11, 8, 18 ],
+    "faces": {
+        "up":    { "uv": [ 1.5, 0, 7.5, 0.5 ], "rotation": 180, "texture": "#texture" },
+        "south": { "uv": [ 5.5, 0, 3.5, 0.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 5, 0, 5.5, 0.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 3, 0, 3.5, 0.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 15, -2, 16 ],
+    "to": [ 16, 5, 17 ],
+    "faces": {
+        "up":    { "uv": [ 8, 0.5, 8.5, 1 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 8, 0.5, 8.5, 5 ], "texture": "#texture" },
+        "south": { "uv": [ 8.5, 0.5, 8, 5 ], "texture": "#texture" },
+        "east":  { "uv": [ 8, 0.5, 8.5, 2.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 0, -2, 16 ],
+    "to": [ 1, 5, 17 ],
+    "faces": {
+        "up":    { "uv": [ 0.5, 0.5, 1, 1 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 0.5, 0.5, 1, 5 ], "texture": "#texture" },
+        "south": { "uv": [ 1, 0.5, 0.5, 5 ], "texture": "#texture" },
+        "west":  { "uv": [ 0.5, 3, 1, 5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -1, -11, 7 ],
+    "to": [ 17, -1.5, 15 ],
+    "faces": {
+        "down":  { "uv": [ 6, 12, 8.5, 12.5 ], "rotation": 180, "texture": "#Paladin Normal unwraped 3" },
+        "west":  { "uv": [ 6, 7.5, 8.5, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "east":  { "uv": [ 8.5, 7.5, 6, 12.5 ], "texture": "#Paladin Normal unwraped 3" }
+    }
+},
+{
+    "from": [ -1, -1.5, 1.5 ],
+    "to": [ 17, 5, 14 ],
+    "faces": {
+        "down":  { "uv": [ 4, 8, 4.5, 3.5 ], "rotation": 180, "texture": "#Paladin Normal unwraped 3" },
+        "up":    { "uv": [ 4, 8, 4.5, 3.5 ], "rotation": 180, "texture": "#Paladin Normal unwraped 3" },
+        "north": { "uv": [ 5.5, 6, 10, 8.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "south": { "uv": [ 5.5, 6, 10, 8.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "west":  { "uv": [ 4, 4.5, 10, 8.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "east":  { "uv": [ 10, 4.5, 4, 8.5 ], "texture": "#Paladin Normal unwraped 3" }
+    }
+},
+{
+    "from": [ -1, -1.5, 14 ],
+    "to": [ 17, 0, 15 ],
+    "faces": {
+        "south": { "uv": [ 10, 7, 10.5, 8 ], "texture": "#Paladin VIP unwraped " },
+        "west":  { "uv": [ 10, 7, 10.5, 8 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 10.5, 7, 10, 8 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 1.5, -5.5, -0.5 ],
+    "to": [ 14.5, 5, 1.5 ],
+    "faces": {
+        "down":  { "uv": [ 8, 5, 12, 5.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 8, 5, 12, 5.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 4, 4, 12, 8.5 ], "texture": "#Paladin Normal unwraped 2" },
+        "south": { "uv": [ 4, 4, 12, 8.5 ], "texture": "#Paladin Normal unwraped 2" },
+        "west":  { "uv": [ 3.5, 11, 4, 6.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 3.5, 11, 4, 6.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ -1, 0, 14 ],
+    "to": [ 17, 5, 16 ],
+    "faces": {
+        "down":  { "uv": [ 7, 4.5, 10, 5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 7, 4.5, 10, 5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "south": { "uv": [ 9, 4.5, 10, 6.5 ], "texture": "#Paladin VIP unwraped " },
+        "west":  { "uv": [ 9.5, 4.5, 10.5, 7.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 10.5, 4.5, 9.5, 7.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ -1, -12, 12 ],
+    "to": [ 17, -1.5, 12.0625 ],
+    "faces": {
+        "down":  { "uv": [ 8, 12, 9.5, 12.5 ], "rotation": 180, "texture": "#Paladin Normal unwraped 3" },
+        "up":    { "uv": [ 8, 7, 9.5, 7.5 ], "rotation": 180, "texture": "#Paladin Normal unwraped 3" },
+        "north": { "uv": [ 8, 7, 9.5, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "south": { "uv": [ 8, 7, 9.5, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "west":  { "uv": [ 8, 7, 9.5, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "east":  { "uv": [ 9.5, 7, 8, 12.5 ], "texture": "#Paladin Normal unwraped 3" }
+    }
+},
+{
+    "from": [ -1, -11, 2 ],
+    "to": [ 17, -1.5, 7 ],
+    "faces": {
+        "down":  { "uv": [ 6, 12, 8, 12.5 ], "rotation": 180, "texture": "#Paladin Normal unwraped 3" },
+        "north": { "uv": [ 6, 8.5, 6.5, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "south": { "uv": [ 7.5, 8.5, 8, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "west":  { "uv": [ 6, 8.5, 8, 12.5 ], "texture": "#Paladin Normal unwraped 3" },
+        "east":  { "uv": [ 8, 8.5, 6, 12.5 ], "texture": "#Paladin Normal unwraped 3" }
+    }
+},
+{
+    "from": [ 9, -14, 19 ],
+    "to": [ 10, -6, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5, 15, 5.5, 15.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5, 10.5, 5.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5, 10.5, 5.5, 15.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 5, 10.5, 5.5, 15.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 5, 10.5, 5.5, 15.5 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 10.5, -5.5, 19 ],
+    "to": [ 12, -4.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 6, -14, 19 ],
+    "to": [ 7, -6, 20 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 15, 4, 15.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 3.5, 10.5, 4, 15.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3.5, 10.5, 4, 15.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 3.5, 10.5, 4, 15.5 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 4, -5.5, 19 ],
+    "to": [ 5.5, -4.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 13, -4.5, 18 ],
+    "to": [ 14, -3.5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 7, 10, 7.5, 10.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 7, 10, 7.5, 10.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 7, 10, 7.5, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7, 10, 7.5, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 7, 10, 7.5, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7, 10, 7.5, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 2, -4.5, 18 ],
+    "to": [ 3, -3.5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 1.5, 10, 2, 10.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 1.5, 10, 2, 10.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 1.5, 10, 2, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 1.5, 10, 2, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 1.5, 10, 2, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 1.5, 10, 2, 10.5 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 14, -4, 17 ],
+    "to": [ 15, -2, 18 ],
+    "faces": {
+        "north": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 1, -4, 17 ],
+    "to": [ 2, -2, 18 ],
+    "faces": {
+        "north": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 13, -2, 18 ],
+    "to": [ 14, -1, 19 ],
+    "faces": {
+        "down":  { "uv": [ 7, 8.5, 7.5, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 7, 8.5, 7.5, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7, 8.5, 7.5, 9 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7, 8.5, 7.5, 9 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 2, -2, 18 ],
+    "to": [ 3, -1, 19 ],
+    "faces": {
+        "down":  { "uv": [ 1.5, 8.5, 2, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 1.5, 8.5, 2, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 1.5, 8.5, 2, 9 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 1.5, 8.5, 2, 9 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 0, -11, 1 ],
+    "to": [ 16, -1.5, 2 ],
+    "faces": {
+        "down":  { "uv": [ 4, 12, 4.5, 12.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 4, 9, 4.5, 9.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 3.5, 4, 12.5, 8.5 ], "texture": "#Paladin Normal unwraped 2" },
+        "west":  { "uv": [ 4, 9, 4.5, 12.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 4.5, 9, 4, 12.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 9, -2.5, 19 ],
+    "to": [ 13, -1.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5, 8.5, 7, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5, 8.5, 7, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7, 8.5, 5, 9 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 8.5, 7, 9 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 1.5, 5, -0.5 ],
+    "to": [ 14.5, 7.5, 1 ],
+    "faces": {
+        "up":    { "uv": [ 8, 5.5, 12, 6 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 5, 2.5, 11.5, 4 ], "texture": "#Paladin Normal unwraped 2" },
+        "south": { "uv": [ 5, 2.5, 11.5, 4 ], "texture": "#Paladin Normal unwraped 2" },
+        "west":  { "uv": [ 8, 7, 9, 8.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 8, 7, 9, 8.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 2, -10, 0 ],
+    "to": [ 14, -2, 1 ],
+    "faces": {
+        "down":  { "uv": [ 5, 11, 11, 11.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 5, 8.5, 11, 9 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 5, 8.5, 11, 11.5 ], "texture": "#Paladin Normal unwraped 2" },
+        "west":  { "uv": [ 10.5, 8.5, 11, 11.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 5, 8.5, 5.5, 11.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 1, -1.5, 0 ],
+    "to": [ 15, 0, 1.5 ],
+    "faces": {
+        "down":  { "uv": [ 16, 16, 2, 14.5 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 0, 14.5, 14, 16 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 0, 0, 14, 1.5 ], "texture": "#Paladin VIP unwraped " },
+        "west":  { "uv": [ 0, 0, 1.5, 1.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 14.5, 0, 16, 1.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 0, -1.5, 0.5 ],
+    "to": [ 16, 7, 1.5 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 7.5, 8, 8 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "up":    { "uv": [ 7.5, 7.5, 8, 8 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 7.5, 6.5, 9.5, 8.5 ], "texture": "#Paladin VIP unwraped " },
+        "south": { "uv": [ 7.5, 6.5, 9.5, 8.5 ], "texture": "#Paladin VIP unwraped " },
+        "west":  { "uv": [ 4.5, 5, 4, 8.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 4.5, 5, 4, 8.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 3.5, -8, -0.5 ],
+    "to": [ 12.5, -5.5, 0.5 ],
+    "faces": {
+        "down":  { "uv": [ 6, 10.5, 10, 11 ], "rotation": 180, "texture": "#Paladin VIP unwraped " },
+        "north": { "uv": [ 5.5, 9.5, 10.5, 11 ], "texture": "#Paladin Normal unwraped 2" },
+        "south": { "uv": [ 5.5, 9.5, 10.5, 11 ], "texture": "#Paladin Normal unwraped 2" },
+        "west":  { "uv": [ 10, 10, 10.5, 11.5 ], "texture": "#Paladin VIP unwraped " },
+        "east":  { "uv": [ 5.5, 10, 6, 11.5 ], "texture": "#Paladin VIP unwraped " }
+    }
+},
+{
+    "from": [ 3, -2.5, 19 ],
+    "to": [ 7, -1.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 8.5, 4, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 8.5, 4, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 8.5, 4, 9 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3.5, 8.5, 4, 9 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 6, -3, 18 ],
+    "to": [ 10, -2.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 9.5, 5.5, 8.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 3.5, 9.5, 5.5, 8.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 9, 3.5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 9, 3.5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3.5, 9, 4.5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4.5, 9, 5.5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 17, 0, 3.5 ],
+    "to": [ 19, 3, 9 ],
+    "faces": {
+        "down":  { "uv": [ 10, 8, 10.5, 8.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 10, 8, 10.5, 8.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 14, 12.5, 13, 14 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 13, 12.5, 14, 14 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "east":  { "uv": [ 11.5, 6.5, 8, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ 19, 0, 5 ],
+    "to": [ 20, 3, 8 ],
+    "faces": {
+        "down":  { "uv": [ 9, 6.5, 9.5, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 9, 8, 9.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 9, 6.5, 9.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 10, 6.5, 10.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "east":  { "uv": [ 10.5, 6.5, 9, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ 19, 1, 4 ],
+    "to": [ 21, 2, 5 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6.5, 8.5, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 6.5, 8.5, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14.5, 13.5, 15, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 13.5, 15, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "east":  { "uv": [ 8.5, 7, 9, 7.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 2, 2 ],
+    "to": [ 21, 3, 5 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 5.5, 6, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 5.5, 4, 6, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14.5, 13, 15, 13.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 15, 13, 15.5, 13.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 6.5, 9, 7 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6.5, 7.5, 7 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 3, 5 ],
+    "to": [ 19, 4, 6 ],
+    "faces": {
+        "north": { "uv": [ 14, 13, 14.5, 13.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 13, 14.5, 13.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 9, 6, 9.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6, 9.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 4, 4 ],
+    "to": [ 19, 5, 6 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 5, 8, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11, 5.5, 11.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 7.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8.5, 5.5, 9.5, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9.5, 5.5, 8.5, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 5, 3 ],
+    "to": [ 19, 6, 7 ],
+    "faces": {
+        "down":  { "uv": [ 7, 5.5, 7.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 5, 8, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 22, 6, -4 ],
+    "to": [ 23, 7, -3 ],
+    "faces": {
+        "down":  { "uv": [ 3, 11.5, 3.5, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 4.5, 5, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 4.5, 5, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 7, 3 ],
+    "to": [ 19, 8, 7 ],
+    "faces": {
+        "north": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 4, 8, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 8, 2 ],
+    "to": [ 19, 9, 7 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 4, 7, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6.5, 4, 7, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 4, 11, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 3.5, 7.5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 9, 2 ],
+    "to": [ 19, 10, 6 ],
+    "faces": {
+        "north": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 14.5, 7, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 14.5, 5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 10, 2 ],
+    "to": [ 19, 11, 6 ],
+    "faces": {
+        "up":    { "uv": [ 8, 5, 8.5, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 15, 11, 15.5, 11.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 11, 15, 11.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 14, 7, 14.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 14, 5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 11, 1 ],
+    "to": [ 19, 12, 5 ],
+    "faces": {
+        "down":  { "uv": [ 3, 12.5, 3.5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13.5, 8, 14, 8.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13.5, 8, 14, 8.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 13.5, 6.5, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 13.5, 4.5, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 12, 0 ],
+    "to": [ 19, 13, 5 ],
+    "faces": {
+        "down":  { "uv": [ 3, 11.5, 3.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3, 14, 3.5, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11, 5, 11.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 5, 11.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 13, 6.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 13, 4, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 13, -1 ],
+    "to": [ 19, 14, 4 ],
+    "faces": {
+        "north": { "uv": [ 11.5, 5, 12, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 5, 11.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 12.5, 6, 13 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 12.5, 4, 13 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 14, -2 ],
+    "to": [ 19, 15, 4 ],
+    "faces": {
+        "down":  { "uv": [ 3, 12.5, 3.5, 10.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3, 10.5, 3.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 6, 10.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 6, 11.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 12, 6, 12.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 12, 3.5, 12.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 15, -2 ],
+    "to": [ 19, 16, 3 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 11, 5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 11, 5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 11, 5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 11, 2.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 16, -1 ],
+    "to": [ 19, 17, 2 ],
+    "faces": {
+        "up":    { "uv": [ 5, 3.5, 5.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 11, 5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 17, 0 ],
+    "to": [ 20, 18.5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 3, 1 ],
+    "to": [ 21, 4, 3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11, 4, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 10.5, 13.5, 11 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13, 10.5, 13.5, 11 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8.5, 6, 7.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 22, 3, -1 ],
+    "to": [ 23, 4, 0 ],
+    "faces": {
+        "down":  { "uv": [ 5, 4.5, 5.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 5, 4.5, 5.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 10.5, 13.5, 11 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13, 10.5, 13.5, 11 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 6, 6.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 6, 6.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 1, 2 ],
+    "to": [ 20, 3, 4 ],
+    "faces": {
+        "down":  { "uv": [ 6, 5, 6.5, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14.5, 13, 15, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 13, 15, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 6.5, 8.5, 7.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8.5, 6.5, 7.5, 7.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 2, 0 ],
+    "to": [ 22, 3, 3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 12, 4, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 12, 4, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14.5, 12.5, 15, 13 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 12.5, 15, 13 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 6.5, 8, 7 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8, 6.5, 6.5, 7 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 3, 0 ],
+    "to": [ 22, 4, 2 ],
+    "faces": {
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 10, 13.5, 10.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13, 10, 13.5, 10.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 6, 7.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7.5, 6, 6.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 3, 3 ],
+    "to": [ 20, 4, 5 ],
+    "faces": {
+        "down":  { "uv": [ 8, 6.5, 8.5, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 10.5, 13.5, 11 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 11, 14.5, 11.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 6, 9, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6, 8, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 4, 2 ],
+    "to": [ 20, 5, 5 ],
+    "faces": {
+        "down":  { "uv": [ 9.5, 3.5, 10, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 9.5, 3.5, 10, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13.5, 8.5, 14, 9 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13.5, 8.5, 14, 9 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7, 5.5, 8.5, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 5.5, 8.5, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 22, 4, -2 ],
+    "to": [ 23, 5, -1 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 5.5, 6, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 5.5, 5.5, 6, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5.5, 5.5, 6, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 5.5, 6, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 4, 0 ],
+    "to": [ 21, 5, 3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11, 5.5, 11.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 5.5, 11.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 5.5, 8, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 5.5, 8, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 4, -1 ],
+    "to": [ 22, 5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 6, 3.5, 6.5, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 3.5, 6.5, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 5.5, 7, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 5.5, 6, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 22, 5, -3 ],
+    "to": [ 23, 6, -2 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 5, 5.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 5, 5.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 5, -2 ],
+    "to": [ 22, 6, 0 ],
+    "faces": {
+        "down":  { "uv": [ 3, 12, 3.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3, 12, 3.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11, 7.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 7.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5.5, 5, 6.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 5, 6.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 5, -1 ],
+    "to": [ 21, 6, 2 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 3.5, 9, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 5, 8, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 5, 8, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 5, 1 ],
+    "to": [ 20, 6, 4 ],
+    "faces": {
+        "down":  { "uv": [ 9, 5.5, 9.5, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11.5, 5.5, 12, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 5, 11.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7, 5, 8.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8.5, 5, 7, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, 6, 3 ],
+    "to": [ 19, 7, 7 ],
+    "faces": {
+        "north": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 4.5, 8, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 6, 0 ],
+    "to": [ 20, 7, 4 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 4, 6, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 5.5, 4, 6, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 6, 10.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11, 7, 11.5, 7.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 4.5, 8.5, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8.5, 4.5, 6.5, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 6, -1 ],
+    "to": [ 21, 7, 2 ],
+    "faces": {
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 4.5, 7.5, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7.5, 4.5, 6, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 6, -3 ],
+    "to": [ 22, 7, -1 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6, 8, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 6, 8, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 4.5, 6, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 4.5, 5, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 7, 0 ],
+    "to": [ 20, 8, 3 ],
+    "faces": {
+        "up":    { "uv": [ 6.5, 3.5, 7, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11, 6.5, 11.5, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 7, 11, 7.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 4, 8, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8, 4, 6.5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 7, -2 ],
+    "to": [ 21, 8, 1 ],
+    "faces": {
+        "down":  { "uv": [ 6, 3.5, 6.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 3.5, 6.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5.5, 4, 7, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 4, 5.5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 7, -3 ],
+    "to": [ 22, 9, -2 ],
+    "faces": {
+        "north": { "uv": [ 11.5, 3.5, 12, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11.5, 3.5, 12, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 3.5, 5.5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 3.5, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 22, 7, -5 ],
+    "to": [ 23, 8, -3 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 8, 0 ],
+    "to": [ 20, 9, 2 ],
+    "faces": {
+        "north": { "uv": [ 10.5, 7, 11, 7.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 7, 11, 7.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 3.5, 7.5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 3.5, 7.5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 8, -2 ],
+    "to": [ 21, 9, 0 ],
+    "faces": {
+        "north": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5, 11, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5.5, 3.5, 6.5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 3.5, 6.5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 8, -4 ],
+    "to": [ 22, 9, -3 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 5.5, 9, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 8.5, 5.5, 9, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 9, -2 ],
+    "to": [ 21, 10, 0 ],
+    "faces": {
+        "up":    { "uv": [ 8, 7, 8.5, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13.5, 12, 14, 12.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13.5, 12, 14, 12.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3, 14.5, 4, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 3, 14.5, 4, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 9, -4 ],
+    "to": [ 22, 10, -2 ],
+    "faces": {
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 13.5, 14.5, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 13.5, 14.5, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 9, 0 ],
+    "to": [ 20, 10, 4 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 8, 6, 8.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 10, 13.5, 10.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 10, 14.5, 10.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 14.5, 6, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 14.5, 4, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 10, -1 ],
+    "to": [ 20, 11, 3 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 3.5, 7, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6.5, 3.5, 7, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 6, 10.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 14, 5.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 14, 3.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 10, -4.5 ],
+    "to": [ 21, 11, -1 ],
+    "faces": {
+        "down":  { "uv": [ 2, 14, 2.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2, 14, 2.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 14, 3.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 3.5, 14, 2, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 11, -1 ],
+    "to": [ 20, 12, 2 ],
+    "faces": {
+        "up":    { "uv": [ 5, 11.5, 5.5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 8.5, 13.5, 9 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 13.5, 8.5, 14, 9 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 13.5, 5, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 13.5, 3.5, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 11, -2 ],
+    "to": [ 21, 12, -1 ],
+    "faces": {
+        "up":    { "uv": [ 3, 13.5, 3.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3, 13.5, 3.5, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 3, 13.5, 3.5, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 10, -1 ],
+    "to": [ 21, 11, 1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 14, 4, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 14, 4, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "east":  { "uv": [ 3.5, 14, 4.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 1, 3 ],
+    "to": [ 21, 2, 4 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6.5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14.5, 13.5, 15, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "east":  { "uv": [ 8.5, 7, 9, 7.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 0, 3 ],
+    "to": [ -1, 3, 9 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 7.5, 9, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 8.5, 7.5, 9, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 12.5, 6.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 11.5, 6.5, 12.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "west":  { "uv": [ 8, 6.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ -4, 0, 5 ],
+    "to": [ -3, 3, 8 ],
+    "faces": {
+        "down":  { "uv": [ 9, 6.5, 9.5, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 9, 8, 9.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 9, 6.5, 9.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 10, 6.5, 10.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "west":  { "uv": [ 9, 6.5, 10.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ -5, 1, 4 ],
+    "to": [ -3, 2, 5 ],
+    "faces": {
+        "down":  { "uv": [ 4, 12, 4.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 4, 12, 4.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 10.5, 7, 11, 7.5 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 10.5, 7, 11, 7.5 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "west":  { "uv": [ 8.5, 7, 9, 7.5 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ -4, 1, 2 ],
+    "to": [ -3, 3, 4 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6.5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 15, 11.5, 15.5, 12 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 15, 12.5, 15.5, 11.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 6.5, 8.5, 7.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8.5, 6.5, 7.5, 7.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 2, 2 ],
+    "to": [ -4, 3, 5 ],
+    "faces": {
+        "down":  { "uv": [ 6, 5, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6.5, 6.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 5.5, 10.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 6.5, 9, 7 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6.5, 7.5, 7 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 2, 0 ],
+    "to": [ -5, 3, 3 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6.5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 6.5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 6.5, 8, 7 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 6.5, 8, 7 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 3, 5 ],
+    "to": [ -2, 4, 6 ],
+    "faces": {
+        "north": { "uv": [ 10.5, 7.5, 11, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 7.5, 11, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 9, 6, 9.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6, 9.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 3, 3 ],
+    "to": [ -3, 4, 5 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 5.5, 7, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 6, 9, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6, 8, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 3, 1 ],
+    "to": [ -4, 4, 3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7.5, 6, 8.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 3, 0 ],
+    "to": [ -5, 4, 2 ],
+    "faces": {
+        "up":    { "uv": [ 1.5, 14, 2, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 6, 7.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 6, 7.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -7, 3, -1 ],
+    "to": [ -6, 4, 0 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 6, 6.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 6, 6.5, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 4, 4 ],
+    "to": [ -2, 5, 6 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 5, 7, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 4.5, 11, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8.5, 5.5, 9.5, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9.5, 5.5, 8.5, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 4, 2 ],
+    "to": [ -3, 5, 5 ],
+    "faces": {
+        "down":  { "uv": [ 6, 13, 6.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 13, 6.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 4.5, 11, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 4.5, 11, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 5.5, 9, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 5.5, 7.5, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 4, 0 ],
+    "to": [ -4, 5, 3 ],
+    "faces": {
+        "down":  { "uv": [ 6, 13, 6.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 13, 6.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6.5, 5.5, 8, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8, 5.5, 6.5, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 4, -1 ],
+    "to": [ -5, 5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 14, 4, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 13, 4, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 5.5, 7, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 5.5, 6, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -7, 4, -2 ],
+    "to": [ -6, 5, -1 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5.5, 5.5, 6, 6 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 5.5, 6, 6 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 5, 3 ],
+    "to": [ -2, 6, 7 ],
+    "faces": {
+        "down":  { "uv": [ 6, 3.5, 6.5, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 11, 6, 11.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 5, 8, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 5, 1 ],
+    "to": [ -3, 6, 4 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 5, 7, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 5, 10.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 5, 10.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 5, 9, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 5, 7.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 5, -1 ],
+    "to": [ -4, 6, 2 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 5, 7.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7.5, 5, 6, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 5, -2 ],
+    "to": [ -5, 6, 0 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 7.5, 11, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 7.5, 11, 8 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5.5, 5, 6.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 5, 6.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -7, 5, -3 ],
+    "to": [ -6, 6, -2 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 5, 5.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 5, 5.5, 5.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 6, 3 ],
+    "to": [ -2, 7, 7 ],
+    "faces": {
+        "north": { "uv": [ 10, 5.5, 10.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5.5, 11, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 4.5, 8, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 6, 0 ],
+    "to": [ -3, 7, 4 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 5, 7, 3.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6.5, 3.5, 7, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 6, 10.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7, 4.5, 9, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 4.5, 7, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 6, -1 ],
+    "to": [ -4, 7, 2 ],
+    "faces": {
+        "up":    { "uv": [ 4.5, 11.5, 5, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 4.5, 7.5, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 4.5, 7.5, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 6, -3 ],
+    "to": [ -5, 7, -1 ],
+    "faces": {
+        "down":  { "uv": [ 6, 5.5, 6.5, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 5.5, 6.5, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 4.5, 6, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 4.5, 6, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -7, 6, -4 ],
+    "to": [ -6, 7, -3 ],
+    "faces": {
+        "down":  { "uv": [ 7, 6, 7.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 4.5, 5, 5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 4.5, 5, 5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 7, 3 ],
+    "to": [ -2, 8, 7 ],
+    "faces": {
+        "north": { "uv": [ 9.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 4, 8, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 7, 0 ],
+    "to": [ -3, 8, 3 ],
+    "faces": {
+        "up":    { "uv": [ 4.5, 12.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7, 4, 8.5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8.5, 4, 7, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 7, -2 ],
+    "to": [ -4, 8, 1 ],
+    "faces": {
+        "down":  { "uv": [ 6, 5, 6.5, 3.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 3.5, 6.5, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 4, 7.5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7.5, 4, 6, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 7, -3 ],
+    "to": [ -5, 9, -2 ],
+    "faces": {
+        "north": { "uv": [ 11.5, 3.5, 12, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 11.5, 3.5, 12, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 3.5, 5.5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 3.5, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -7, 7, -5 ],
+    "to": [ -6, 9, -3 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 6, 7, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6.5, 6, 7, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 8, 2 ],
+    "to": [ -2, 9, 7 ],
+    "faces": {
+        "down":  { "uv": [ 6, 4.5, 6.5, 3.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 3.5, 6.5, 4.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7.5, 3.5, 10, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 10, 3.5, 7.5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 8, 0 ],
+    "to": [ -3, 9, 2 ],
+    "faces": {
+        "north": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 7, 3.5, 8, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 8, 3.5, 7, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 8, -2 ],
+    "to": [ -4, 9, 0 ],
+    "faces": {
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 6, 3.5, 7, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 3.5, 6, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 9, -4 ],
+    "to": [ -5, 10, -3 ],
+    "faces": {
+        "down":  { "uv": [ 8, 5.5, 8.5, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 8, 5.5, 8.5, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6.5, 10, -6 ],
+    "to": [ -5.5, 11, -4 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6.5, 8, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 5.5, 8, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 3.5, 4.5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 3.5, 3.5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 3, 2 ],
+    "to": [ 20, 4, 4 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 0, 0 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 16, 0, 16, 0 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 0, 4, 0 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 12, 0, 14, 0 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 3, 2 ],
+    "to": [ -3, 4, 4 ],
+    "faces": {
+        "north": { "uv": [ 16, 0, 16, 0 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 0, 0, 0, 0 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 0, 4, 0 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 12, 0, 14, 0 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 9, 2 ],
+    "to": [ -2, 10, 6 ],
+    "faces": {
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 14.5, 7, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 14.5, 5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 9, 0 ],
+    "to": [ -3, 10, 4 ],
+    "faces": {
+        "down":  { "uv": [ 4, 14.5, 4.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4, 12.5, 4.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 14.5, 6, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 14.5, 4, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 9, -2 ],
+    "to": [ -4, 10, 0 ],
+    "faces": {
+        "up":    { "uv": [ 7.5, 6.5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3, 14.5, 4, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 3, 14.5, 4, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6, 9, -3 ],
+    "to": [ -5, 10, -2 ],
+    "faces": {
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 5.5, 10.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 5.5, 10.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 10, 2 ],
+    "to": [ -2, 11, 6 ],
+    "faces": {
+        "up":    { "uv": [ 3, 13, 3.5, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 5, 14, 7, 14.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 7, 14, 5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 10, -1 ],
+    "to": [ -3, 11, 3 ],
+    "faces": {
+        "down":  { "uv": [ 4, 14.5, 4.5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4, 12.5, 4.5, 14.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 5, 10.5, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 14, 5.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 14, 3.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 10, -4 ],
+    "to": [ -4, 11, -1 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 14, 3.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 14, 3.5, 14.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 11, 1 ],
+    "to": [ -2, 12, 5 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 5.5, 7, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 13.5, 6.5, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 13.5, 4.5, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 11, -1 ],
+    "to": [ -3, 12, 2 ],
+    "faces": {
+        "up":    { "uv": [ 5, 11.5, 5.5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 13.5, 5, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 13.5, 3.5, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 11, -5 ],
+    "to": [ -4, 12, -2 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 6.5, 9, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5, 10, 5.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1.5, 13.5, 3, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1.5, 13.5, 3, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 12, 0 ],
+    "to": [ -2, 13, 5 ],
+    "faces": {
+        "down":  { "uv": [ 6, 5.5, 6.5, 3.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 3.5, 6.5, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 13, 6.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6.5, 13, 4.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 12, -3 ],
+    "to": [ -3, 13, 0 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 15, 5, 13.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3, 13, 4.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 13, 3, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 12, -5 ],
+    "to": [ -4, 13, -2 ],
+    "faces": {
+        "north": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1.5, 13, 3, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1.5, 13, 3, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 11, -2 ],
+    "to": [ -4, 12, -1 ],
+    "faces": {
+        "up":    { "uv": [ 16, 16, 16, 16 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "south": { "uv": [ 0, 0, 0, 0 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0, 0, 0, 0 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 16, 0, 16, 0 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 13, 0 ],
+    "to": [ -2, 14, 4 ],
+    "faces": {
+        "north": { "uv": [ 10, 5.5, 10.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 5.5, 11, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 12.5, 6, 13 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 12.5, 4, 13 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 13, -3 ],
+    "to": [ -3, 14, 1 ],
+    "faces": {
+        "down":  { "uv": [ 3, 13, 3.5, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3, 12, 3.5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 5.5, 11, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 5.5, 10.5, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 12.5, 4.5, 13 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 12.5, 2.5, 13 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 14, -1 ],
+    "to": [ -2, 15, 4 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 5, 8, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 6, 8, 5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4.5, 10.5, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 12, 6, 12.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 6, 12, 3.5, 12.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 14, -2 ],
+    "to": [ -3, 15, -1 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 12, 4, 12.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 12, 4, 12.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 15, -2 ],
+    "to": [ -2, 16, 3 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13, 5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 11, 5, 13 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 11.5, 5.5, 12 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5.5, 11.5, 3.5, 12 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, 16, -1 ],
+    "to": [ -2, 17, 2 ],
+    "faces": {
+        "up":    { "uv": [ 4.5, 11, 5, 12.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4, 10, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 11, 5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, 17, 0 ],
+    "to": [ -2.5, 18.5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 17, -1, 4.5 ],
+    "to": [ 19, 0, 8 ],
+    "faces": {
+        "down":  { "uv": [ 9.5, 8.5, 10, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 14.5, 14.5, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 14.5, 14, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "east":  { "uv": [ 11.5, 8.5, 8.5, 9 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, -1, 4 ],
+    "to": [ -1, 0, 8 ],
+    "faces": {
+        "down":  { "uv": [ 9.5, 8.5, 10, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 14.5, 14.5, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 14.5, 14, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8.5, 8.5, 11.5, 9 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 5, -14, 18 ],
+    "to": [ 6, -5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 3, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 3, 7, 3.5, 7.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 3.5, 7, 3, 11 ], "texture": "#texture" },
+        "south": { "uv": [ 3, 7, 3.5, 11 ], "texture": "#texture" },
+        "west":  { "uv": [ 3, 7, 3.5, 11 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 4, -13.5, 18 ],
+    "to": [ 5, -5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 10.5, 3, 11 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 2.5, 7, 3, 7.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 3, 7, 2.5, 11 ], "texture": "#texture" },
+        "south": { "uv": [ 2.5, 7, 3, 11 ], "texture": "#texture" },
+        "west":  { "uv": [ 2.5, 7, 3, 11 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 3, -13, 18 ],
+    "to": [ 4, -4.5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 2.5, 11 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 2, 7, 2.5, 7.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 2.5, 7, 2, 11 ], "texture": "#texture" },
+        "south": { "uv": [ 2, 7, 2.5, 11 ], "texture": "#texture" },
+        "west":  { "uv": [ 2, 7, 2.5, 11 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 1, -12, 17 ],
+    "to": [ 2, -4, 18 ],
+    "faces": {
+        "down":  { "uv": [ 1, 10, 1.5, 10.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 1.5, 6, 1, 10.5 ], "texture": "#texture" },
+        "south": { "uv": [ 1, 6, 1.5, 10.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 1, 6, 1.5, 10.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 1, 6, 1.5, 10.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 10, -14, 18 ],
+    "to": [ 11, -5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 6, 11 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 5.5, 7, 6, 7.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 6, 7, 5.5, 11 ], "texture": "#texture" },
+        "south": { "uv": [ 5.5, 7, 6, 11 ], "texture": "#texture" },
+        "east":  { "uv": [ 5.5, 7, 6, 11 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 11, -13.5, 18 ],
+    "to": [ 12, -5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 6, 10.5, 6.5, 11 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 6, 7, 6.5, 7.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 6.5, 7, 6, 11 ], "texture": "#texture" },
+        "south": { "uv": [ 6, 7, 6.5, 11 ], "texture": "#texture" },
+        "east":  { "uv": [ 6, 7, 6.5, 11 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 12, -13, 18 ],
+    "to": [ 13, -4.5, 19 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#texture" },
+        "up":    { "uv": [ 6.5, 7, 7, 7.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 7, 7, 6.5, 11 ], "texture": "#texture" },
+        "south": { "uv": [ 6.5, 7, 7, 11 ], "texture": "#texture" },
+        "east":  { "uv": [ 6.5, 7, 7, 11 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 14, -12, 17 ],
+    "to": [ 15, -4, 18 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 10, 8, 10.5 ], "rotation": 180, "texture": "#texture" },
+        "north": { "uv": [ 8, 6.5, 7.5, 10.5 ], "texture": "#texture" },
+        "south": { "uv": [ 7.5, 6.5, 8, 10.5 ], "texture": "#texture" },
+        "west":  { "uv": [ 7, 6.5, 7.5, 10.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 7, 6.5, 7.5, 10.5 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -4, 3, 3 ],
+    "to": [ -3, 4, 5 ],
+    "faces": {
+        "down":  { "uv": [ 8, 6.5, 8.5, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 13, 10.5, 13.5, 11 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 11, 14.5, 11.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8, 6, 9, 6.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 9, 6, 8, 6.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 11, -2 ],
+    "to": [ -4, 12, -1 ],
+    "faces": {
+        "up":    { "uv": [ 3, 13.5, 3.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3, 13.5, 3.5, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 3, 13.5, 3.5, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 1, 3 ],
+    "to": [ -4, 2, 4 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 6.5, 8, 7 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14.5, 13.5, 15, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8.5, 7, 9, 7.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 2.5, 8, 2 ],
+    "to": [ 13.5, 9, 15 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3, 12, 13 ], "rotation": 180, "texture": "#Paladin Normal unwraped 4" },
+        "up":    { "uv": [ 12, 13, 4, 3 ], "rotation": 180, "texture": "#Paladin Normal unwraped 4" },
+        "north": { "uv": [ 4, 3.5, 12, 4 ], "texture": "#Paladin Normal unwraped 4" },
+        "south": { "uv": [ 12, 11.5, 4, 12 ], "texture": "#Paladin Normal unwraped 4" },
+        "west":  { "uv": [ 4.5, 2.5, 10.5, 3 ], "texture": "#Paladin Normal unwraped 4" },
+        "east":  { "uv": [ 10.5, 2.5, 4.5, 3 ], "texture": "#Paladin Normal unwraped 4" }
+    }
+},
+{
+    "from": [ 7, 7, -1 ],
+    "to": [ 9, 8.5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ -3.5, 18.5, -1 ],
+    "to": [ -2.5, 20, 0 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, 20, -2 ],
+    "to": [ -2.5, 21.5, -1 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 16, -2.5 ],
+    "to": [ -3, 18.5, 0 ],
+    "faces": {
+        "down":  { "uv": [ 0.5, 11, 1, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 0.5, 11, 1, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 18.5, -3.5 ],
+    "to": [ -3, 20, -1 ],
+    "faces": {
+        "down":  { "uv": [ 0.5, 11, 1, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 0.5, 11, 1, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 20, -4.5 ],
+    "to": [ -3, 21.5, -2 ],
+    "faces": {
+        "down":  { "uv": [ 0.5, 11, 1, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 0.5, 11, 1, 11.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 4.5, 10, 5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 15, -2 ],
+    "to": [ -3, 16, -1 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7.5, 7, 8, 7.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6, 11, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 12, 4, 12.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 12, 4, 12.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 14, -3 ],
+    "to": [ -3, 15.5, -2 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 15, -4 ],
+    "to": [ -3, 16.5, -3 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 16, -5 ],
+    "to": [ -3, 17.5, -4 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 12, -5 ],
+    "to": [ -4, 13, -2 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 13, -5.5 ],
+    "to": [ -4, 14, -3 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 14, -5.5 ],
+    "to": [ -4, 15, -3 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 15, -6 ],
+    "to": [ -4, 16, -4 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, 16, -7 ],
+    "to": [ -4, 17, -5 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 13, 1.5, 13.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -6.5, 9, -6 ],
+    "to": [ -5.5, 10, -4 ],
+    "faces": {
+        "down":  { "uv": [ 6.5, 6, 7, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6.5, 6, 7, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, 21.5, -4 ],
+    "to": [ -2.5, 22.5, -1.5 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, 17, -6.5 ],
+    "to": [ -3, 18, -5 ],
+    "faces": {
+        "down":  { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 4.5, 13.5, 5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 18.5, -1 ],
+    "to": [ 20, 20, 0 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 20, -2 ],
+    "to": [ 20, 21.5, -1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 21.5, -4 ],
+    "to": [ 20, 22.5, -1.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 12, -2 ],
+    "to": [ 20, 13, 0 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 13, -3 ],
+    "to": [ 20, 14, -1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 14, -3 ],
+    "to": [ 20, 15.5, -2 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 15, -4 ],
+    "to": [ 20, 16.5, -3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 16, -5 ],
+    "to": [ 20, 17.5, -4 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, 17, -6.5 ],
+    "to": [ 20, 18, -5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21, 9, -5 ],
+    "to": [ 22, 10, -4 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 5.5, 9, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 8.5, 5.5, 9, 6 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 3.5, 10.5, 4 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4.5, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21.5, 10, -7 ],
+    "to": [ 22.5, 11, -5 ],
+    "faces": {
+        "down":  { "uv": [ 7, 6.5, 7.5, 5.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 7, 5.5, 7.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 6, 10.5, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 3.5, 3.5, 4.5, 4 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4.5, 3.5, 3.5, 4 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 21.5, 9, -7 ],
+    "to": [ 22.5, 10, -5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 22, 8, -5 ],
+    "to": [ 23, 9, -3 ],
+    "faces": {
+        "down":  { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 6, 6, 6.5, 6.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 5.5, 10, 6 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 4, 4, 5, 4.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19.5, 20, -4.5 ],
+    "to": [ 20.5, 21.5, -2 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19.5, 18.5, -3.5 ],
+    "to": [ 20.5, 20, -1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19.5, 16, -2.5 ],
+    "to": [ 20.5, 18.5, 0 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 16, -7 ],
+    "to": [ 21, 17, -5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 15, -6 ],
+    "to": [ 21, 16, -4 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 14, -5.5 ],
+    "to": [ 21, 15, -3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 13, -5.5 ],
+    "to": [ 21, 14, -3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, 11, -5 ],
+    "to": [ 21, 13, -2 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 11.5, 4, 12 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6, 10, 6.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 0.5, 11, 3.5, 11.5 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 7, -2.5, 19 ],
+    "to": [ 9, 7, 20 ],
+    "faces": {
+        "up":    { "uv": [ 4, 4, 5, 4.5 ], "rotation": 270, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 4, 5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5, 4, 4, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 4, 4.5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4.5, 4, 5, 9.5 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ -2, -6, 4.5 ],
+    "to": [ -1, -3.5, 8 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 7.5, 9, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 8.5, 7.5, 9, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 12.5, 6.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 11.5, 6.5, 12.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "west":  { "uv": [ 8, 6.5, 11.5, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ -2, -7, 5 ],
+    "to": [ -1, -6, 7.5 ],
+    "faces": {
+        "down":  { "uv": [ 9.5, 8.5, 10, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 14.5, 14.5, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 14.5, 14, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 8.5, 8.5, 11.5, 9 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 17, -6, 4.5 ],
+    "to": [ 18, -3.5, 8 ],
+    "faces": {
+        "down":  { "uv": [ 10, 8, 10.5, 8.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "up":    { "uv": [ 10, 8, 10.5, 8.5 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "north": { "uv": [ 14, 12.5, 13, 14 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "south": { "uv": [ 13, 12.5, 14, 14 ], "texture": "#Paladin MVP Unwraped 2 BLUE" },
+        "east":  { "uv": [ 11.5, 6.5, 8, 8 ], "texture": "#Paladin MVP Unwraped 2 BLUE" }
+    }
+},
+{
+    "from": [ 17, -7, 5 ],
+    "to": [ 18, -6, 7.5 ],
+    "faces": {
+        "down":  { "uv": [ 9.5, 8.5, 10, 8 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 14.5, 14.5, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14.5, 14.5, 14, 15.5 ], "texture": "#Paladin MVP Unwraped" },
+        "east":  { "uv": [ 11.5, 8.5, 8.5, 9 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, -7, 0.5 ],
+    "to": [ 20, -6, 2.5 ],
+    "faces": {
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 13.5, 14.5, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 13.5, 14.5, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 17.5, -4.5, 5 ],
+    "to": [ 18.5, -3.5, 6.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, -3.5, 2.5 ],
+    "to": [ 19, -2.5, 5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, -3, 0.5 ],
+    "to": [ 20, -2, 3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19.5, -2.5, -1.5 ],
+    "to": [ 20.5, -1.5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 17.5, -6.5, 4.5 ],
+    "to": [ 18.5, -5.5, 6.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, -7.5, 3.5 ],
+    "to": [ 19, -6.5, 4.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, -8, 1 ],
+    "to": [ 20, -7, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18.5, -4.5, 2.5 ],
+    "to": [ 19.5, -3.5, 5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18.5, -4, 0.5 ],
+    "to": [ 19.5, -3, 2.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19, -3.5, -1.5 ],
+    "to": [ 20, -2.5, 0.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 20, -3, -2 ],
+    "to": [ 21, -2, -1 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, -6, 1.5 ],
+    "to": [ 19, -5, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18.5, -5.5, -0.5 ],
+    "to": [ 19.5, -4.5, 2 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, -6.5, 2.5 ],
+    "to": [ 19, -5.5, 4.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18.5, -7, 2.5 ],
+    "to": [ 19.5, -6, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -2.5, -4.5, 5 ],
+    "to": [ -1.5, -3.5, 6.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, -3.5, 2.5 ],
+    "to": [ -2, -2.5, 5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, -3, 0.5 ],
+    "to": [ -3, -2, 3 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4.5, -2.5, -1.5 ],
+    "to": [ -3.5, -1.5, 1 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -2.5, -6.5, 4.5 ],
+    "to": [ -1.5, -5.5, 6.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, -7.5, 3.5 ],
+    "to": [ -2, -6.5, 4.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, -8, 1 ],
+    "to": [ -3, -7, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 3.5, 10.5, 4, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10, 4, 10.5, 4.5 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2, 10.5, 4.5, 11 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, -7, 0.5 ],
+    "to": [ -3, -6, 2.5 ],
+    "faces": {
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 14, 13.5, 14.5, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 14, 13.5, 14.5, 14 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, -7, 2.5 ],
+    "to": [ -2.5, -6, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, -6.5, 2.5 ],
+    "to": [ -2, -5.5, 4.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, -4.5, 2.5 ],
+    "to": [ -2.5, -3.5, 5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5, -3, -2 ],
+    "to": [ -4, -2, -1 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, -6, 1.5 ],
+    "to": [ -2, -5, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, -5.5, 0 ],
+    "to": [ -2.5, -4.5, 2 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3.5, -4, 0.5 ],
+    "to": [ -2.5, -3, 2.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, -3.5, -1.5 ],
+    "to": [ -3, -2.5, 0.5 ],
+    "faces": {
+        "down":  { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 1, 13.5, 1.5, 14 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 9.5, 6.5, 10, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 1, 13.5, 2, 14 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 3.5, 8.5, 3 ],
+    "to": [ 12.5, 9.5, 14 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3, 12, 13 ], "rotation": 180, "texture": "#Paladin Normal unwraped 4" },
+        "up":    { "uv": [ 12, 13, 4, 3 ], "rotation": 180, "texture": "#Paladin Normal unwraped 4" },
+        "north": { "uv": [ 4, 3.5, 12, 4 ], "texture": "#Paladin Normal unwraped 4" },
+        "south": { "uv": [ 12, 11.5, 4, 12 ], "texture": "#Paladin Normal unwraped 4" },
+        "west":  { "uv": [ 4.5, 2.5, 10.5, 3 ], "texture": "#Paladin Normal unwraped 4" },
+        "east":  { "uv": [ 10.5, 2.5, 4.5, 3 ], "texture": "#Paladin Normal unwraped 4" }
+    }
+},
+{
+    "from": [ 7, 9.5, 3 ],
+    "to": [ 9, 10.5, 14 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 7, 8.5, 1.5 ],
+    "to": [ 9, 10, 3.5 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 7, 8, 0 ],
+    "to": [ 9, 9.5, 2 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 7, -8.5, -1 ],
+    "to": [ 9, 7, 1 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 7, 8.5, 13 ],
+    "to": [ 9, 10, 16 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 7, 7.5, 15 ],
+    "to": [ 9, 9, 18 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 7, 7, 16.5 ],
+    "to": [ 9, 8.5, 19.5 ],
+    "faces": {
+        "down":  { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 4, 3.5, 5, 4 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 4, 3.5, 5, 4 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 14, -3, 18 ],
+    "to": [ 15, -1, 18.5 ],
+    "faces": {
+        "north": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 1, -3, 18 ],
+    "to": [ 2, -1, 18.5 ],
+    "faces": {
+        "north": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7.5, 9, 8, 10 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 14, -1, 18 ],
+    "to": [ 15, -0.5, 18.5 ],
+    "faces": {
+        "down":  { "uv": [ 7, 8.5, 7.5, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 7, 8.5, 7.5, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 7, 8.5, 7.5, 9 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 7, 8.5, 7.5, 9 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 1, -1, 18 ],
+    "to": [ 2, -0.5, 18.5 ],
+    "faces": {
+        "down":  { "uv": [ 1.5, 8.5, 2, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 1.5, 8.5, 2, 9 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 1.5, 8.5, 2, 9 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 1.5, 8.5, 2, 9 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 12, -5, 19 ],
+    "to": [ 13, -4, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 3, -5, 19 ],
+    "to": [ 4, -4, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 5.5, -6, 19 ],
+    "to": [ 7, -5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 9, -6, 19 ],
+    "to": [ 10.5, -5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 9, -6, 19 ],
+    "to": [ 10.5, -5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 10.5, -5.5, 19 ],
+    "to": [ 12, -4.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 12, -5, 19 ],
+    "to": [ 13, -4, 20 ],
+    "faces": {
+        "down":  { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 2, 10.5, 3.5, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 2, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "west":  { "uv": [ 3, 10.5, 3.5, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 4, -5.5, 19 ],
+    "to": [ 5.5, -4.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 5.5, -6, 19 ],
+    "to": [ 7, -5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 5.5, -6, 19 ],
+    "to": [ 7, -5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 2, -4.5, 19 ],
+    "to": [ 3, -3.5, 20 ],
+    "faces": {
+        "down":  { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "up":    { "uv": [ 5.5, 10.5, 7, 11 ], "rotation": 180, "texture": "#Paladin MVP Unwraped BLUE" },
+        "north": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "south": { "uv": [ 5.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" },
+        "east":  { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#Paladin MVP Unwraped BLUE" }
+    }
+},
+{
+    "from": [ 19, -4.5, -1 ],
+    "to": [ 20, -3.5, 2 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4, -4.5, -1 ],
+    "to": [ -3, -3.5, 2 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 19.5, -8, -1 ],
+    "to": [ 20.5, -7, 1 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -4.5, -8, -1 ],
+    "to": [ -3.5, -7, 1 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -3, -5, 1.5 ],
+    "to": [ -2, -4, 4.5 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 18, -5, 1.5 ],
+    "to": [ 19, -4, 4.5 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -2.5, -5.5, 3.5 ],
+    "to": [ -1.5, -4.5, 7 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ 17.5, -5.5, 3.5 ],
+    "to": [ 18.5, -4.5, 7 ],
+    "faces": {
+        "down":  { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "up":    { "uv": [ 2.5, 14.5, 3, 15 ], "rotation": 180, "texture": "#Paladin MVP Unwraped 2" },
+        "north": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "south": { "uv": [ 10.5, 6.5, 11, 7 ], "texture": "#Paladin MVP Unwraped" },
+        "west":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" },
+        "east":  { "uv": [ 2.5, 14.5, 3.5, 15 ], "texture": "#Paladin MVP Unwraped 2" }
+    }
+},
+{
+    "from": [ -5.5, 9, -2 ],
+    "to": [ -5.4375, 14.5, 9 ],
+    "rotation": { "origin": [ -5.5, 14.5, -2 ], "axis": "x", "angle": 45 },
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#pallablur" },
+        "east":  { "uv": [ 16, 0, 0, 16 ], "texture": "#pallablur" }
+    }
+},
+{
+    "from": [ -0.5, 5, 1.5 ],
+    "to": [ -0.4375, 13, 16 ],
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#pallablur" },
+        "east":  { "uv": [ 16, 0, 0, 16 ], "texture": "#pallablur" }
+    }
+},
+{
+    "from": [ 16.5, 5, 1.5 ],
+    "to": [ 16.5625, 13, 16 ],
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#pallablur" },
+        "east":  { "uv": [ 16, 0, 0, 16 ], "texture": "#pallablur" }
+    }
+},
+{
+    "from": [ 21.5, 9, -2 ],
+    "to": [ 21.5625, 14.5, 9 ],
+    "rotation": { "origin": [ 21.5, 14.5, -2 ], "axis": "x", "angle": 45 },
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#pallablur" },
+        "east":  { "uv": [ 16, 0, 0, 16 ], "texture": "#pallablur" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, 180, 0 ],
+        "translation": [ 0, 6, 1 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "gui": {
+        "rotation": [ -30, 135, 0 ],
+        "translation": [ 0, 1.1, 0 ],
+        "scale": [ 0.6, 0.6, 0.6 ]
+    }
+}
+}

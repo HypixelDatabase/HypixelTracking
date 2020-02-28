@@ -1,0 +1,29 @@
+{
+"__comment": "Designed by Hypixel minecraft server with BDcraft Cubik PRO 0.90 Beta - http://bdcraft.net",
+"ambientocclusion": false,
+"textures": {
+    "texture": "blocks/blast"
+},
+"elements": [ 
+{
+    "from": [ 21, 0, -5 ],
+    "to": [ 21.0625, 24, 32 ],
+    "shade": false,
+    "rotation": { "origin": [ 21, 0, -5 ], "axis": "y", "angle": -45 },
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ -5, 0, -5 ],
+    "to": [ -4.9375, 24, 32 ],
+    "shade": false,
+    "rotation": { "origin": [ -5, 0, -5 ], "axis": "y", "angle": 45 },
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+}
+]
+}

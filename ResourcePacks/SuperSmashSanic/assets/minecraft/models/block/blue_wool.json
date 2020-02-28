@@ -1,0 +1,59 @@
+{
+"__comment": "Designed by Hypixel minecraft server with BDcraft Cubik PRO 0.90 Beta - http://bdcraft.net",
+"textures": {
+    "texture": "blocks/pugbite0",
+    "pugbite1": "blocks/pugbite1",
+    "pugbite2": "blocks/pugbite2",
+    "pugbite3": "blocks/pugbite3",
+    "pugbite4": "blocks/pugbite4"
+},
+"elements": [ 
+{
+    "from": [ 0, 0, 0 ],
+    "to": [ 16, 16, 0.0625 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 0, 0, -4 ],
+    "to": [ 16, 16, -3.9375 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite1" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite1" }
+    }
+},
+{
+    "from": [ 0, 0, -8 ],
+    "to": [ 16, 16, -7.9375 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite2" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite2" }
+    }
+},
+{
+    "from": [ 0, 0, -12 ],
+    "to": [ 16, 16, -11.9375 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite3" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite3" }
+    }
+},
+{
+    "from": [ 0, 0, -16 ],
+    "to": [ 16, 16, -15.9375 ],
+    "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite4" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#pugbite4" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 2, 2, 9 ]
+    }
+}
+}

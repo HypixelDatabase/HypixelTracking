@@ -74,6 +74,11 @@
   }
 }, function(e, t, n) {
   "use strict";
+  /*
+  object-assign
+  (c) Sindre Sorhus
+  @license MIT
+  */
   var o = Object.getOwnPropertySymbols,
     a = Object.prototype.hasOwnProperty,
     r = Object.prototype.propertyIsEnumerable;
@@ -1571,16 +1576,31 @@
 }, function(e, t, n) {
   "use strict";
   var o, a = n(6);
-  a.canUseDOM && (o = document.implementation && document.implementation.hasFeature && !0 !== document.implementation.hasFeature("", "")), e.exports = function(e, t) {
-    if (!a.canUseDOM || t && !("addEventListener" in document)) return !1;
-    var n = "on" + e,
-      r = n in document;
-    if (!r) {
-      var i = document.createElement("div");
-      i.setAttribute(n, "return;"), r = "function" == typeof i[n]
+  a.canUseDOM && (o = document.implementation && document.implementation.hasFeature && !0 !== document.implementation.hasFeature("", ""))
+    /**
+     * Checks if an event is supported in the current execution environment.
+     *
+     * NOTE: This will not work correctly for non-generic events such as `change`,
+     * `reset`, `load`, `error`, and `select`.
+     *
+     * Borrows from Modernizr.
+     *
+     * @param {string} eventNameSuffix Event name, e.g. "click".
+     * @param {?boolean} capture Check if the capture phase is supported.
+     * @return {boolean} True if the event is supported.
+     * @internal
+     * @license Modernizr 3.0.0pre (Custom Build) | MIT
+     */
+    , e.exports = function(e, t) {
+      if (!a.canUseDOM || t && !("addEventListener" in document)) return !1;
+      var n = "on" + e,
+        r = n in document;
+      if (!r) {
+        var i = document.createElement("div");
+        i.setAttribute(n, "return;"), r = "function" == typeof i[n]
+      }
+      return !r && o && "wheel" === e && (r = document.implementation.hasFeature("Events.wheel", "3.0")), r
     }
-    return !r && o && "wheel" === e && (r = document.implementation.hasFeature("Events.wheel", "3.0")), r
-  }
 }, function(e, t, n) {
   "use strict";
   var o = {

@@ -1,7 +1,5 @@
-/** @param {jQuery} $ jQuery Object */ ! function($, window, document, _undefined) {
-
+! function($, window, document, _undefined) {
   $(function() {
-
     var fixed = false;
     var nav = $('.new-nav');
     var placeholder = $('.new-nav-placeholder');
@@ -9,7 +7,6 @@
 
     function updateNavigation() {
       var current = $(window).scrollTop();
-
       if (current >= y && !fixed) {
         nav.css({
           position: 'fixed',
@@ -18,30 +15,20 @@
           zIndex: 100,
           width: '100%'
         });
-
         nav.addClass('sticky');
-
         placeholder.show();
-
         fixed = true;
-
       } else if (current < y && fixed) {
         nav.css({
           position: 'static',
           width: 'auto'
         });
-
         nav.removeClass('sticky');
-
         placeholder.hide();
-
         fixed = false;
       }
     }
-
     $(window).on('scroll', updateNavigation);
-
     updateNavigation();
   });
-
 }(jQuery, this, document);

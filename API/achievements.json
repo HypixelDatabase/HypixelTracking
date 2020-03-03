@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1583245529036,
+  "lastUpdated": 1583252728951,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3381,7 +3381,7 @@
         "CARRIED": {
           "points": 5,
           "name": "Carried",
-          "description": "Score 5 goals in a 4 Teams game of The Bridge"
+          "description": "Score 5 goals in a Four Teams game of The Bridge"
         },
         "REPLAY": {
           "points": 5,
@@ -3516,7 +3516,7 @@
         "HEART_HOARDER": {
           "points": 10,
           "name": "Heart Hoarder",
-          "description": "Win a 4 Teams game of The Bridge with 7 lives remaining"
+          "description": "Win a Four Teams game of The Bridge with 7 lives remaining"
         },
         "ACE": {
           "points": 15,
@@ -10727,7 +10727,7 @@
         "ROBIN_HOOD": {
           "points": 10,
           "name": "Robin Hood",
-          "description": "Win a game only using the a Bow to deal damage"
+          "description": "Win a game only using a Bow to deal damage"
         },
         "NOT_TODAY": {
           "points": 10,

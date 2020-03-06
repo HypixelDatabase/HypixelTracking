@@ -11,8 +11,10 @@
   background-size: 48px 48px
 }
 
-/*!* Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
-* License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)*/
+/*!
+ *  Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
 @font-face {
   font-family: FontAwesome;
   src: url(1nyrICN-fontawesome-webfont.eot);
@@ -2925,7 +2927,7 @@
   background: #000
 }
 
-@media(max-height:800px) {
+@media (max-height:800px) {
   .index__content___RQT22 {
     width: 694px
   }
@@ -2935,7 +2937,7 @@
   }
 }
 
-@media(max-width:960px) {
+@media (max-width:960px) {
   .index__content___RQT22 {
     width: 694px
   }
@@ -3033,13 +3035,13 @@
 }
 
 .index__tooltip___3mKw3:after {
-  border-color: #332614 transparent transparent;
+  border-color: #332614 rgba(51, 38, 20, 0) rgba(51, 38, 20, 0);
   border-width: 15px;
   margin-left: -15px
 }
 
 .index__tooltip___3mKw3:before {
-  border-color: #4d3a16 transparent transparent;
+  border-color: #4d3a16 rgba(77, 58, 22, 0) rgba(77, 58, 22, 0);
   border-width: 16px;
   margin-left: -16px
 }
@@ -3879,7 +3881,7 @@
   margin-right: 8px
 }
 
-@media(max-width:800px) {
+@media (max-width:800px) {
   .index__banner___1AY04 {
     height: auto
   }
@@ -3912,20 +3914,20 @@
   padding-right: 15px
 }
 
-@media(max-height:700px) {
+@media (max-height:700px) {
   .index__contentResponsive___1MfAv {
     height: auto;
     padding-bottom: 45px
   }
 }
 
-@media(max-height:800px) {
+@media (max-height:800px) {
   .index__content___1bCbJ {
     padding-top: 90px
   }
 }
 
-@media(max-width:960px) {
+@media (max-width:960px) {
   .index__content___1bCbJ {
     width: 800px
   }
@@ -4162,7 +4164,7 @@
   opacity: .85
 }
 
-@media(max-height:980px) {
+@media (max-height:980px) {
   .index__app___3eWdR {
     min-height: 920px
   }
@@ -4172,13 +4174,13 @@
   }
 }
 
-@media(max-width:415px) {
+@media (max-width:415px) {
   .index__websiteLink___28ToV {
     display: none
   }
 }
 
-@media(max-width:700px) {
+@media (max-width:700px) {
   .index__app___3eWdR {
     height: auto;
     min-height: 100%

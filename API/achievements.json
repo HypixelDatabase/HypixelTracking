@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1584795617823,
+  "lastUpdated": 1587536742744,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3983,7 +3983,7 @@
         "HAPPY_EASTER_2019": {
           "points": 5,
           "name": "Happy Easter (2019)",
-          "description": "Login on Easter Sunday",
+          "description": "Login on Easter Sunday 2019",
           "legacy": true
         },
         "FIRST_EGG_2019": {
@@ -3992,45 +3992,55 @@
           "description": "Find an easter egg in the Main Lobby",
           "legacy": true
         },
-        "SW_EGG_VOID": {
-          "points": 10,
-          "name": "Fill the void",
-          "description": "Throw 3 players in the void using eggs in a game of SkyWars"
+        "EGG_BETRAYER": {
+          "points": 5,
+          "name": "Egg Betrayer",
+          "description": "Kill a Chicken with eggs in SkyBlock"
         },
         "SMASH_CLUCK_KILLS": {
           "points": 5,
           "name": "Cluckindoshin",
           "description": "Kill 3 different players in a game of Smash Heroes using General Cluck"
         },
-        "PIT_DRAGON_EGG": {
+        "ENVIRONMENT_PROTECTION": {
           "points": 5,
-          "name": "Does it count?",
-          "description": "Click the dragon egg in the namesake pit event"
+          "name": "Environmental Protection",
+          "description": "Grow a tree in Hypixel Says"
+        },
+        "ALL_EGGS_2020": {
+          "points": 15,
+          "name": "All Eggs (2020)",
+          "description": "Find all easter eggs in the Main Lobby"
+        },
+        "CLOSE_ENOUGH": {
+          "points": 10,
+          "name": "Close Enough?",
+          "description": "Win a game of SkyWars using the Frog Kit"
         },
         "BLITZ_SPAWN_RABBIT": {
           "points": 10,
           "name": "Genius Summoner",
           "description": "Spawn a rabbit in Blitz Survival Games"
         },
-        "TOWERWARS_CHICKENS": {
-          "points": 10,
-          "name": "A tower ain't one",
-          "description": "Spawn 99 chickens in a game of Tower Wars"
-        },
         "CVC_GRENADES": {
           "points": 10,
-          "name": "The crowd goes boom",
-          "description": "Kill 2 players using grenades in a Defusal game of CVC"
+          "name": "The Crowd Goes Boom",
+          "description": "Kill 2 players using grenades in a Defusal game of Cops and Crims"
+        },
+        "EGG_ASSAULT": {
+          "points": 5,
+          "name": "Egg Assault",
+          "description": "Kill a Zombie with eggs in SkyBlock"
         },
         "ARCADE_CHICKEN_RACE": {
           "points": 5,
           "name": "Turbo Chicken Racers",
           "description": "Win the flying chicken race in Arcade Party Games"
         },
-        "BW_JUMP_BOOST": {
-          "points": 5,
-          "name": "Jumpstart Investment",
-          "description": "Buy 3 jump boost potions in a game of Bedwars"
+        "EGG_LAYER": {
+          "points": 10,
+          "name": "Egg Layer",
+          "description": "Lay 50 eggs with the Chicken Hat in SkyBlock"
         },
         "EASTER_EGG": {
           "points": 10,
@@ -4039,33 +4049,83 @@
         },
         "PAINTBALL_LEEROY": {
           "points": 5,
-          "name": "At least I got paintball",
+          "name": "At Least I got Paintball",
           "description": "Activate the Leeroy Jenkins killstreak in Paintball"
+        },
+        "INNER_RABBIT": {
+          "points": 5,
+          "name": "Inner Rabbit",
+          "description": "Use a Mars Potion on the map Archives Top Floor in Murder Mystery"
+        },
+        "MM_CARROT_KILLS": {
+          "points": 10,
+          "name": "Check Your Produce",
+          "description": "Kill 3 survivors in one game while holding the carrot/carrot-on-a-stick Knife Skin in Murder Mystery Classic"
+        },
+        "UHC_GOLDEN_CARROT": {
+          "points": 10,
+          "name": "Golden Survival",
+          "description": "Craft a Cornucopia in UHC"
+        },
+        "SW_EGG_VOID": {
+          "points": 10,
+          "name": "Fill the Void",
+          "description": "Throw 3 players in the void using eggs in a game of SkyWars"
+        },
+        "WHAT_HAVE_WE_DONE": {
+          "points": 10,
+          "name": "What Have We Done?",
+          "description": "Bring 10 or more Zombies close to a Growing Zombie Pet"
+        },
+        "PIT_DRAGON_EGG": {
+          "points": 5,
+          "name": "Does it Count?",
+          "description": "Click the dragon egg in the Dragon Egg event in The Pit"
+        },
+        "WHATS_THIS": {
+          "points": 5,
+          "name": "What's This?",
+          "description": "Bring a Zombie Pet close to a Growing Zombie Pet"
+        },
+        "HAPPY_EASTER_2020": {
+          "points": 5,
+          "name": "Happy Easter (2020)",
+          "description": "Login on Easter Sunday 2020"
+        },
+        "TOWERWARS_CHICKENS": {
+          "points": 10,
+          "name": "A Tower Ain't One",
+          "description": "Spawn 99 chickens in a game of Tower Wars"
+        },
+        "BW_JUMP_BOOST": {
+          "points": 5,
+          "name": "Jumpstart Investment",
+          "description": "Buy 3 Jump Boost potions in a game of Bed Wars"
         },
         "MEGAWALLS_JOCKEY": {
           "points": 10,
           "name": "Patient Hunter",
           "description": "Spawn a Chicken Jockey using the Hunter passive in Mega Walls"
         },
+        "FASTER_THAN_WIND": {
+          "points": 15,
+          "name": "Faster than Wind",
+          "description": "Find 40 eggs in one Easter Simulator game"
+        },
+        "FIRST_EGG_2020": {
+          "points": 5,
+          "name": "The Chase Begins (2020)",
+          "description": "Find an Easter Egg in the Main Lobby"
+        },
         "VAMPIREZ_CARROT": {
           "points": 5,
           "name": "Modern Problems",
           "description": "Kill a vampire while holding a carrot in VampireZ"
-        },
-        "MM_CARROT_KILLS": {
-          "points": 10,
-          "name": "Check your produce",
-          "description": "Kill 3 survivors in one game while holding the carrot/carrot-on-a-stick knife skin in Classic Murder Mystery"
-        },
-        "UHC_GOLDEN_CARROT": {
-          "points": 10,
-          "name": "Golden Survival",
-          "description": "Craft a Cornucopia in UHC"
         }
       },
       "tiered": {
         "THROW_EGGS": {
-          "name": "Eggthrower",
+          "name": "Egg Thrower",
           "description": "Throw %s eggs",
           "tiers": [
             {
@@ -4094,23 +4154,75 @@
               "amount": 2048
             }
           ]
+        },
+        "MASTER_TRACKER": {
+          "name": "Master Tracker",
+          "description": "Win %s games of Easter Simulator",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 15
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 25
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 50
+            }
+          ]
+        },
+        "EGG_FINDER": {
+          "name": "Egg Finder",
+          "description": "Find %s eggs in Easter Simulator",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 20
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 240
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 600
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1200
+            }
+          ]
         }
       },
-      "total_points": 185,
+      "total_points": 430,
       "total_legacy_points": 40
     },
     "general": {
       "one_time": {
-        "VIP": {
-          "points": 10,
-          "name": "Very Important Person",
-          "description": "Become a VIP"
-        },
-        "FRIENDS_25": {
-          "points": 10,
-          "name": "Popular",
-          "description": "Get 25+ friends"
-        },
         "YOUTUBER": {
           "points": 10,
           "name": "EEEEKK!",
@@ -4120,11 +4232,6 @@
           "points": 5,
           "name": "Achievement Get! Hypixel Server!",
           "description": "Join the Hypixel Network for the first time"
-        },
-        "USE_PORTAL": {
-          "points": 5,
-          "name": "Thinking with Portals",
-          "description": "Use a portal to teleport to a game"
         },
         "HOT_POTATO": {
           "points": 0,
@@ -4137,20 +4244,10 @@
           "name": "Baby Steps",
           "description": "Play a minigame"
         },
-        "FIRST_CHAT": {
-          "points": 5,
-          "name": "Let the world hear your voice!",
-          "description": "Use chat for the first time"
-        },
         "FIRST_FRIEND": {
           "points": 5,
           "name": "Not forever alone...",
           "description": "Make a friend using the friend system"
-        },
-        "ACHIEVEMENT_NPC": {
-          "points": 5,
-          "name": "Achievements!?!",
-          "description": "Click the Achievements Guide in the Main Lobby"
         },
         "VIP_PLUS": {
           "points": 15,
@@ -4162,6 +4259,42 @@
           "name": "Creeperbook",
           "description": "Link your Minecraft account with your forum account"
         },
+        "A_LONG_JOURNEY_BEGINS": {
+          "points": 5,
+          "name": "A long journey begins",
+          "description": "Complete a quest"
+        },
+        "VIP": {
+          "points": 10,
+          "name": "Very Important Person",
+          "description": "Become a VIP"
+        },
+        "TREASURE_HUNT": {
+          "points": 0,
+          "name": "Treasure Hunt",
+          "description": "Complete the Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
+          "secret": true
+        },
+        "FRIENDS_25": {
+          "points": 10,
+          "name": "Popular",
+          "description": "Get 25+ friends"
+        },
+        "USE_PORTAL": {
+          "points": 5,
+          "name": "Thinking with Portals",
+          "description": "Use a portal to teleport to a game"
+        },
+        "FIRST_CHAT": {
+          "points": 5,
+          "name": "Let the world hear your voice!",
+          "description": "Use chat for the first time"
+        },
+        "ACHIEVEMENT_NPC": {
+          "points": 5,
+          "name": "Achievements!?!",
+          "description": "Click the Achievements Guide in the Main Lobby"
+        },
         "GIFTING": {
           "points": 15,
           "name": "Gift Giver",
@@ -4171,11 +4304,6 @@
           "points": 10,
           "name": "Strength in numbers",
           "description": "Party up for the first time"
-        },
-        "A_LONG_JOURNEY_BEGINS": {
-          "points": 5,
-          "name": "A long journey begins",
-          "description": "Complete a quest"
         }
       },
       "tiered": {
@@ -5790,6 +5918,541 @@
         }
       },
       "total_points": 685,
+      "total_legacy_points": 0
+    },
+    "pit": {
+      "one_time": {
+        "MINE_OBSIDIAN": {
+          "points": 5,
+          "name": "I'm Mining Here!",
+          "description": "Break 100 blocks of obsidian"
+        },
+        "PUNCH_SWORD": {
+          "points": 5,
+          "name": "The Punch",
+          "description": "Hit a player with The Punch"
+        },
+        "WIN_AUCTION": {
+          "points": 10,
+          "name": "I bought a thing!",
+          "description": "Win an item in Auction"
+        },
+        "DO_A_TRADE": {
+          "points": 5,
+          "name": "Businessman",
+          "description": "Trade with another player"
+        },
+        "DELIVER_MANY_PIZZAS": {
+          "points": 10,
+          "name": "Guaranteed Delivery",
+          "description": "Deliver 35 pizza in a single Pizza event"
+        },
+        "COLOR_FANCY_HAT": {
+          "points": 5,
+          "name": "Paint Job",
+          "description": "Color your Fancy Hat"
+        },
+        "HEAL_WITH_VAMPIRE": {
+          "points": 10,
+          "name": "Nosferatu",
+          "description": "Heal 15,000 HP with the Vampire perk"
+        },
+        "EARN_MYSTIC_ITEM": {
+          "points": 10,
+          "name": "Did I see some blue?",
+          "description": "Earn your first Mystic item"
+        },
+        "COLLECT_TRICKLE_DOWN": {
+          "points": 10,
+          "name": "Golden Age",
+          "description": "Collect 1,000 extra gold with the Trickle-Down perk"
+        },
+        "FALL_IN_VOID": {
+          "points": 5,
+          "name": "SkyWars",
+          "description": "Fall into the void"
+        },
+        "COMPLETE_KING_QUEST": {
+          "points": 20,
+          "name": "All hail the King!",
+          "description": "Complete the King's Quest on the Castle map"
+        },
+        "BID_AUCTION": {
+          "points": 5,
+          "name": "Auctioneer",
+          "description": "Bid in an Auction"
+        },
+        "USE_SELF_CHECKOUT": {
+          "points": 5,
+          "name": "Self-Checked",
+          "description": "Use self-checkout pants once you reach a 5,000g bounty"
+        },
+        "KILLS_WITH_RAMBO": {
+          "points": 10,
+          "name": "Rambo",
+          "description": "Get a kill streak of 10 using the Rambo perk"
+        },
+        "XP_FROM_KOTH": {
+          "points": 15,
+          "name": "King of the XP",
+          "description": "Get 10,000 XP from kills and assists in a single KOTH"
+        },
+        "TOP_THREE_IN_EVENT": {
+          "points": 10,
+          "name": "Podium Position",
+          "description": "Reach top 3 in a Major event"
+        },
+        "BAKE_CAKE": {
+          "points": 10,
+          "name": "Baker",
+          "description": "Bake a cake"
+        },
+        "MANY_KILLS_AS_BEAST": {
+          "points": 10,
+          "name": "Monster Within",
+          "description": "Kill 25 players as beast in a single Beast event"
+        },
+        "ENCHANT_TIER_THREE": {
+          "points": 10,
+          "name": "One small step for Pants",
+          "description": "Enchant a Tier III mystic item"
+        },
+        "REACH_LEVEL_100": {
+          "points": 5,
+          "name": "Triple Digits",
+          "description": "Reach level 100"
+        },
+        "FULL_STORAGE": {
+          "points": 5,
+          "name": "Full Storage",
+          "description": "Fill out your Ender Chest"
+        },
+        "MANY_CLICKS_DRAGON_EGG": {
+          "points": 5,
+          "name": "Purple Egg",
+          "description": "Reach 25 clicks in a Dragon Egg event"
+        },
+        "KILL_HIGH_BOUNTY": {
+          "points": 5,
+          "name": "Tryhard down!",
+          "description": "Kill a player with a 5000g bounty"
+        },
+        "HIGH_TIER_DEMON": {
+          "points": 15,
+          "name": "Demon Incarnate",
+          "description": "Reach Tier VII of the Demon Faction in the Genesis map"
+        },
+        "PENTAKILL": {
+          "points": 5,
+          "name": "Pentakill",
+          "description": "Kill 5 players consecutively for a pentakill"
+        },
+        "TOP_THREE_RAGE_PIT": {
+          "points": 10,
+          "name": "Furious Clicking",
+          "description": "Reach top 3 in a Rage Pit event with at least 50 players"
+        },
+        "HAVE_A_LOT_OF_GOLD": {
+          "points": 10,
+          "name": "Gold Magnate",
+          "description": "Have 250,000g"
+        },
+        "SMALL_STREAK": {
+          "points": 5,
+          "name": "The Streak",
+          "description": "Reach a kill streak of 10 kills"
+        },
+        "SPIRE_LAST_FLOOR": {
+          "points": 10,
+          "name": "Glass Ceiling",
+          "description": "Reach floor 9 in the Spire event"
+        },
+        "GET_HIGH_BOUNTY": {
+          "points": 15,
+          "name": "They're after me now...",
+          "description": "Reach a 5,000g bounty"
+        },
+        "HIGH_TIER_ANGEL": {
+          "points": 15,
+          "name": "Guardian Angel",
+          "description": "Reach Tier VII of the Angel Faction in the Genesis map"
+        },
+        "GET_ENDLESS_QUIVER_ARROWS": {
+          "points": 10,
+          "name": "Infinite Quiver",
+          "description": "Receive 1,500 arrows from the Endless Quiver perk"
+        },
+        "SQUADS_MANY_POINTS": {
+          "points": 10,
+          "name": "Team Effort",
+          "description": "Earn 8,000 points in a Squads event"
+        },
+        "CLAIM_BOUNTY": {
+          "points": 5,
+          "name": "Bounty Claimed!",
+          "description": "Claim a bounty"
+        },
+        "CONSUME_EVERYTHING": {
+          "points": 5,
+          "name": "Big Belly",
+          "description": "Eat a Golden Apple, Golden Head, Steak, an Olympus Potion and Soup within 5 minutes"
+        },
+        "EAT_LOTS_OF_CAKE": {
+          "points": 5,
+          "name": "Sugar Rush",
+          "description": "Earn 5,000g from a Giant Cake"
+        },
+        "WIN_RAFFLE": {
+          "points": 10,
+          "name": "Pure Skill",
+          "description": "Earn a jackpot in a Raffle event with at least 50 players"
+        },
+        "COMPLETE_NIGHT_QUEST": {
+          "points": 5,
+          "name": "Poet",
+          "description": "Complete a Night Quest"
+        },
+        "GET_LUCKY_DIAMOND": {
+          "points": 10,
+          "name": "Lucky Diamond!",
+          "description": "Obtain 50 diamond armor pieces from the Lucky Diamond perk"
+        },
+        "PICKUP_INGOTS": {
+          "points": 10,
+          "name": "Ingots Collector",
+          "description": "Pickup 2,000 gold ingots from the ground"
+        },
+        "PLACE_OBSIDIAN": {
+          "points": 5,
+          "name": "Locked In",
+          "description": "Place 50 obsidian in a single life"
+        },
+        "KILL_WITH_STRENGTH": {
+          "points": 5,
+          "name": "Powerful",
+          "description": "Kill a player while having Strength V"
+        },
+        "MAX_OUT_EL_GATO": {
+          "points": 5,
+          "name": "Maximizado",
+          "description": "Max out El Gato"
+        },
+        "REACH_PRESTIGE_20": {
+          "points": 25,
+          "name": "The XX",
+          "description": "Reach Prestige XX"
+        },
+        "MAX_OUT_RENOWN": {
+          "points": 25,
+          "name": "Big Time",
+          "description": "Max out the renown shop"
+        },
+        "UNLOCK_FAST_PASS": {
+          "points": 5,
+          "name": "Fast Pass",
+          "description": "Unlock the Fast Pass renown upgrade"
+        },
+        "FAST_QUICK_MATHS": {
+          "points": 5,
+          "name": "Genius Tier",
+          "description": "Answer a Quick Maths question within 2.5 seconds"
+        },
+        "TIME_ON_KOTL": {
+          "points": 10,
+          "name": "Up on top",
+          "description": "Spend at least 20 seconds on the top of a single KOTL"
+        },
+        "HAVE_COBBLESTONE": {
+          "points": 10,
+          "name": "Obelix",
+          "description": "Hold a stack of cobblestone"
+        },
+        "USE_GOLDEN_HEADS": {
+          "points": 10,
+          "name": "Golden Treat",
+          "description": "Consume 1,000 Golden Heads"
+        },
+        "PURCHASE_SCAM_ARTIST": {
+          "points": 5,
+          "name": "Scam Artist",
+          "description": "Unlock the first tier of the Scam Artist renown upgrade"
+        },
+        "BOUNTIES_CLAIMED_WITH_BH": {
+          "points": 20,
+          "name": "Bounty Hunter",
+          "description": "Claim 30 bounties of at least 500g while using the Bounty Hunter perk"
+        },
+        "ENCHANT_RARE": {
+          "points": 10,
+          "name": "Rare!",
+          "description": "Enchant a RARE! mystic item"
+        },
+        "COMPLETE_CONTRACT_FAST": {
+          "points": 5,
+          "name": "Fast Contract",
+          "description": "Complete a contract within a minute of starting it"
+        },
+        "ROBBERY_CAP": {
+          "points": 10,
+          "name": "Thief",
+          "description": "End a Robbery event with a 10,000g stash"
+        },
+        "COLLECT_FROM_CARE_PACKAGE": {
+          "points": 5,
+          "name": "Loot with Care",
+          "description": "Collect something from a Care Package"
+        },
+        "EAT_RAGE_POTATOES": {
+          "points": 10,
+          "name": "Raging Hunger",
+          "description": "Eat a total of 100 rage potatoes"
+        },
+        "EARN_AQUA_PANTS": {
+          "points": 10,
+          "name": "In the Club",
+          "description": "Obtain aqua pants from fishing"
+        },
+        "MAX_OUT_PASSIVES": {
+          "points": 5,
+          "name": "Fully Upgraded",
+          "description": "Max out all passive upgrades"
+        },
+        "STAY_ON_KOTH": {
+          "points": 10,
+          "name": "Not much of an Hill",
+          "description": "Stay on a single KOTH for 200 seconds on a server with at least 50 players"
+        },
+        "HIGH_KILLSTREAK": {
+          "points": 10,
+          "name": "God Walking amongst Mortals",
+          "description": "Reach a kill streak of 50 kills"
+        },
+        "KILL_TWO_BEASTS": {
+          "points": 5,
+          "name": "Slaying Beasts",
+          "description": "Kill two beasts in a single Beast event"
+        }
+      },
+      "tiered": {
+        "MYSTICISM": {
+          "name": "Mysticism",
+          "description": "Enchant %s items",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "KILLS": {
+          "name": "Kills",
+          "description": "Kill %s players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 200
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 1000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 5000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 25000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 100000
+            }
+          ]
+        },
+        "PRESTIGES": {
+          "name": "Prestige",
+          "description": "Prestige %s times",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 2
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 5
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 10
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 15
+            }
+          ]
+        },
+        "CONTRACTS": {
+          "name": "Contracts",
+          "description": "Complete %s contracts",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
+        "RENOWN": {
+          "name": "Renown",
+          "description": "Earn %s renown",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 200
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2000
+            }
+          ]
+        },
+        "GOLD": {
+          "name": "Gold",
+          "description": "Earn %s total gold",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 1000000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 10000000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 30000000
+            }
+          ]
+        },
+        "EVENTS": {
+          "name": "Events",
+          "description": "Participate in %s major events",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 3
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 25
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        }
+      },
+      "total_points": 1080,
       "total_legacy_points": 0
     },
     "quake": {
@@ -8884,7 +9547,7 @@
         "BYE_BYE": {
           "points": 10,
           "name": "Bye Bye!",
-          "description": "Tag someone and make him fall over 20 blocks in TNT Tag"
+          "description": "Tag someone and make them fall over 20 blocks in TNT Tag"
         },
         "POTION_SHOWER": {
           "points": 10,
@@ -8929,7 +9592,7 @@
         "HEALER": {
           "points": 10,
           "name": "I'm Actually A Healer",
-          "description": "Heal over a 100 hearts in 1 game of TNT Wizards with the Kinetic kit"
+          "description": "Heal over 100 hearts in 1 game of TNT Wizards with the Kinetic kit"
         },
         "TNT_PRESTIGE": {
           "points": 15,

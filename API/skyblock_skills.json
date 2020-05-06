@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1588715123619,
-  "version": "0.7.353",
+  "lastUpdated": 1588733123674,
+  "version": "0.7.354",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1892,7 +1892,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Guardian Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 HP ❤ Health",
             "+300 Coins"
@@ -1902,7 +1902,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "??? Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 HP ❤ Health",
             "+400 Coins"
@@ -1912,7 +1912,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Witch Sea Creature",
             "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
             "+2 HP ❤ Health",
             "+500 Coins"
@@ -1931,7 +1931,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Archer Sea Creature",
             "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
             "+2 HP ❤ Health",
             "+700 Coins"
@@ -1950,7 +1950,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "??? Sea Creature",
+            "Monster of the Deep Sea Creature",
             "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 HP ❤ Health",
             "+900 Coins"
@@ -1969,8 +1969,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Grinch Sea Creature",
+            "Catfish Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
@@ -1989,7 +1989,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
+            "Carrot King Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -1999,7 +1999,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
@@ -2009,7 +2009,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
@@ -2019,7 +2019,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Deep Sea Protector Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
@@ -2029,7 +2029,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
@@ -2039,7 +2039,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
@@ -2085,7 +2085,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "??? Sea Creature",
+            "Yeti Sea Creature",
             "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
@@ -3771,6 +3771,463 @@
           "totalExpRequired": 75400,
           "unlocks": [
             "Access to Level 24 Runes"
+          ]
+        }
+      ]
+    },
+    "TAMING": {
+      "name": "Taming",
+      "description": "Level up pets to earn Taming XP!",
+      "maxLevel": 50,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Zoologist I   Gain 1% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Zoologist II   Gain 1➜2% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Zoologist III   Gain 2➜3% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Zoologist IV   Gain 3➜4% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Zoologist V   Gain 4➜5% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Zoologist VI   Gain 5➜6% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Zoologist VII   Gain 6➜7% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Zoologist VIII   Gain 7➜8% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Zoologist IX   Gain 8➜9% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Zoologist X   Gain 9➜10% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Zoologist XI   Gain 10➜11% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Zoologist XII   Gain 11➜12% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Zoologist XIII   Gain 12➜13% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Zoologist XIV   Gain 13➜14% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Zoologist XV   Gain 14➜15% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Zoologist XVI   Gain 15➜16% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Zoologist XVII   Gain 16➜17% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Zoologist XVIII   Gain 17➜18% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Zoologist XIX   Gain 18➜19% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Zoologist XX   Gain 19➜20% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Zoologist XXI   Gain 20➜21% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Zoologist XXII   Gain 21➜22% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Zoologist XXIII   Gain 22➜23% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Zoologist XXIV   Gain 23➜24% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Zoologist XXV   Gain 24➜25% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Zoologist XXVI   Gain 25➜26% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Zoologist XXVII   Gain 26➜27% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Zoologist XXVIII   Gain 27➜28% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Zoologist XXIX   Gain 28➜29% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Zoologist XXX   Gain 29➜30% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Zoologist XXXI   Gain 30➜31% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Zoologist XXXII   Gain 31➜32% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Zoologist XXXIII   Gain 32➜33% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Zoologist XXXIV   Gain 33➜34% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Zoologist XXXV   Gain 34➜35% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Zoologist XXXVI   Gain 35➜36% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Zoologist XXXVII   Gain 36➜37% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Zoologist XXXVIII   Gain 37➜38% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Zoologist XXXIX   Gain 38➜39% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Zoologist XL   Gain 39➜40% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Zoologist XLI   Gain 40➜41% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Zoologist XLII   Gain 41➜42% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Zoologist XLIII   Gain 42➜43% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Zoologist XLIV   Gain 43➜44% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Zoologist XLV   Gain 44➜45% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Zoologist XLVI   Gain 45➜46% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Zoologist XLVII   Gain 46➜47% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Zoologist XLVIII   Gain 47➜48% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Zoologist XLIX   Gain 48➜49% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Zoologist L   Gain 49➜50% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+200,000 Coins"
           ]
         }
       ]

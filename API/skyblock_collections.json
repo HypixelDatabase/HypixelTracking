@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1588715123592,
-  "version": "0.7.353",
+  "lastUpdated": 1588733123615,
+  "version": "0.7.354",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -96,7 +96,7 @@
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Pet Food (COMING SOON)"
+                "Simple Carrot Candy Recipe"
               ]
             },
             {
@@ -124,6 +124,7 @@
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
+                "Great Carrot Candy Recipe",
                 "Super Catching Egg (COMING SOON)"
               ]
             },
@@ -138,7 +139,7 @@
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Carrot Candy (COMING SOON)"
+                "Superb Carrot Candy Recipe"
               ]
             },
             {
@@ -661,7 +662,7 @@
               "amountRequired": 2000,
               "unlocks": [
                 "Enchanted Paper Recipe",
-                "Speed Talisman ➜ Speed Ring Upgrade"
+                "Speed Ring Recipe"
               ]
             },
             {
@@ -683,7 +684,7 @@
               "amountRequired": 20000,
               "unlocks": [
                 "Enchanted Sugar Cane Recipe",
-                "Speed Ring ➜ Speed Artifact Upgrade"
+                "Speed Artifact Recipe"
               ]
             },
             {
@@ -865,7 +866,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Pig Pet Egg (COMING SOON)"
+                "Mystery Pig Pet Recipe"
               ]
             },
             {
@@ -1108,7 +1109,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Luck Talisman (COMING SOON)"
+                "Pet Luck Potion Recipe"
               ]
             },
             {
@@ -1553,7 +1554,7 @@
         },
         "INK_SACK:4": {
           "name": "Lapis Lazuli",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1616,6 +1617,13 @@
               "amountRequired": 150000,
               "unlocks": [
                 "Experience Artifact Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Textbook Recipe"
               ]
             }
           ]
@@ -1861,7 +1869,7 @@
         },
         "OBSIDIAN": {
           "name": "Obsidian",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1924,6 +1932,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Enderchest Lv3 Upgrade"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "REFORGE_ANVIL (COMING SOON)"
               ]
             }
           ]
@@ -2277,7 +2292,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Endermite Pet Egg (COMING SOON)"
+                "Mystery Endermite Pet Recipe"
               ]
             },
             {
@@ -2367,7 +2382,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Zombie Pet Egg (COMING SOON)"
+                "Mystery Zombie Pet Recipe"
               ]
             }
           ]
@@ -2415,7 +2430,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Skeleton Pet Egg (COMING SOON)"
+                "Mystery Skeleton Pet Recipe"
               ]
             },
             {
@@ -2505,7 +2520,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Spider Pet Egg (COMING SOON)"
+                "Mystery Spider Pet Recipe"
               ]
             }
           ]
@@ -2567,7 +2582,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Cave Spider Pet Egg (COMING SOON)"
+                "+25,000 Combat Experience"
               ]
             },
             {

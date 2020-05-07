@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1588804243715,
-  "version": "0.7.362",
+  "lastUpdated": 1588809643702,
+  "version": "0.7.363",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1852,7 +1852,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "??? Sea Creature",
+            "Squid Sea Creature",
             "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
             "+2 HP ❤ Health",
             "+25 Coins"
@@ -1862,7 +1862,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Walker Sea Creature",
             "Treasure Hunter II   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
             "+2 HP ❤ Health",
             "+50 Coins"
@@ -1872,7 +1872,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "??? Sea Creature",
+            "Night Squid Sea Creature",
             "Treasure Hunter III   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
             "+2 HP ❤ Health",
             "+100 Coins"

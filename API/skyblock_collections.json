@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1589001880798,
-  "version": "0.7.365",
+  "lastUpdated": 1589426190925,
+  "version": "0.7.367",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -194,7 +194,7 @@
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Farming Experience"
+                "Travel Scroll to the Barn Recipe"
               ]
             },
             {
@@ -520,7 +520,7 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "+500 Farming Experience"
+                "Travel Scroll to Mushroom Island Recipe"
               ]
             },
             {
@@ -1310,7 +1310,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Diamond Refinery (COMING SOON)"
+                "Travel Scroll to the Gold Mine Recipe"
               ]
             },
             {
@@ -1737,21 +1737,21 @@
               "tier": 5,
               "amountRequired": 3000,
               "unlocks": [
-                "Compass Talisman (COMING SOON)"
+                "Weather Stick Recipe"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Weather Stick Recipe"
+                "Medium Accessory Bag Upgrade"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Medium Accessory Bag Upgrade"
+                "Travel Scroll to Deep Caverns Recipe"
               ]
             },
             {
@@ -1979,7 +1979,7 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "+750 Mining Experience"
+                "Travel Scroll to Blazing Fortress Recipe"
               ]
             },
             {
@@ -2067,9 +2067,9 @@
             },
             {
               "tier": 8,
-              "amountRequired": 25000,
+              "amountRequired": 15000,
               "unlocks": [
-                "+2,500 Mining Experience"
+                "Travel Scroll to Spider's Den Recipe"
               ]
             },
             {
@@ -2244,7 +2244,7 @@
         },
         "ENDER_STONE": {
           "name": "End Stone",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -2297,13 +2297,20 @@
             },
             {
               "tier": 8,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Travel Scroll to the End Recipe"
+              ]
+            },
+            {
+              "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
                 "Catalyst Recipe"
               ]
             },
             {
-              "tier": 9,
+              "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
                 "End Stone Sword Recipe"
@@ -3224,7 +3231,7 @@
               "tier": 9,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Foraging Experience"
+                "Travel Scroll to The Park Recipe"
               ]
             }
           ]
@@ -3284,19 +3291,19 @@
             },
             {
               "tier": 8,
+              "amountRequired": 15000,
+              "unlocks": [
+                "+2,500 Foraging Experience"
+              ]
+            },
+            {
+              "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
                 "Helmet of Growth Recipe",
                 "Chestplate of Growth Recipe",
                 "Leggings of Growth Recipe",
                 "Boots of Growth Recipe"
-              ]
-            },
-            {
-              "tier": 9,
-              "amountRequired": 50000,
-              "unlocks": [
-                "+5,000 Foraging Experience"
               ]
             }
           ]
@@ -3425,16 +3432,16 @@
             },
             {
               "tier": 8,
-              "amountRequired": 25000,
+              "amountRequired": 10000,
               "unlocks": [
-                "Mystery Ocelot Pet Recipe"
+                "+1,000 Foraging Experience"
               ]
             },
             {
               "tier": 9,
-              "amountRequired": 50000,
+              "amountRequired": 25000,
               "unlocks": [
-                "+5,000 Foraging Experience"
+                "Mystery Ocelot Pet Recipe"
               ]
             }
           ]

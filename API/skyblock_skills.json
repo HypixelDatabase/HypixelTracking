@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1591085702509,
-  "version": "0.7.405",
+  "lastUpdated": 1591092002490,
+  "version": "0.7.406",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -12,7 +12,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Farmhand I   4% chance to get double crops.",
+            "Farmhand 1   4% chance to get double crops.",
             "+2 HP ❤ Health",
             "Access to The Barn",
             "+25 Coins"
@@ -22,7 +22,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Farmhand II   4➜8% chance to get double crops.",
+            "Farmhand 2   4➜8% chance to get double crops.",
             "+2 HP ❤ Health",
             "+50 Coins"
           ]
@@ -31,7 +31,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Farmhand III   8➜12% chance to get double crops.",
+            "Farmhand 3   8➜12% chance to get double crops.",
             "+2 HP ❤ Health",
             "+100 Coins"
           ]
@@ -40,7 +40,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Farmhand IV   12➜16% chance to get double crops.",
+            "Farmhand 4   12➜16% chance to get double crops.",
             "+2 HP ❤ Health",
             "+200 Coins"
           ]
@@ -49,7 +49,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Farmhand V   16➜20% chance to get double crops.",
+            "Farmhand 5   16➜20% chance to get double crops.",
             "+2 HP ❤ Health",
             "Access to Mushroom Desert",
             "+300 Coins"
@@ -59,7 +59,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Farmhand VI   20➜24% chance to get double crops.",
+            "Farmhand 6   20➜24% chance to get double crops.",
             "+2 HP ❤ Health",
             "+400 Coins"
           ]
@@ -68,7 +68,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Farmhand VII   24➜28% chance to get double crops.",
+            "Farmhand 7   24➜28% chance to get double crops.",
             "+2 HP ❤ Health",
             "+500 Coins"
           ]
@@ -77,7 +77,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Farmhand VIII   28➜32% chance to get double crops.",
+            "Farmhand 8   28➜32% chance to get double crops.",
             "+2 HP ❤ Health",
             "+600 Coins"
           ]
@@ -86,7 +86,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Farmhand IX   32➜36% chance to get double crops.",
+            "Farmhand 9   32➜36% chance to get double crops.",
             "+2 HP ❤ Health",
             "+700 Coins"
           ]
@@ -95,7 +95,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Farmhand X   36➜40% chance to get double crops.",
+            "Farmhand 10   36➜40% chance to get double crops.",
             "+2 HP ❤ Health",
             "+800 Coins"
           ]
@@ -104,7 +104,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Farmhand XI   40➜44% chance to get double crops.",
+            "Farmhand 11   40➜44% chance to get double crops.",
             "+2 HP ❤ Health",
             "+900 Coins"
           ]
@@ -113,7 +113,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Farmhand XII   44➜48% chance to get double crops.",
+            "Farmhand 12   44➜48% chance to get double crops.",
             "+2 HP ❤ Health",
             "+1,000 Coins"
           ]
@@ -122,7 +122,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Farmhand XIII   48➜52% chance to get double crops.",
+            "Farmhand 13   48➜52% chance to get double crops.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
           ]
@@ -131,7 +131,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Farmhand XIV   52➜56% chance to get double crops.",
+            "Farmhand 14   52➜56% chance to get double crops.",
             "+2 HP ❤ Health",
             "+1,200 Coins"
           ]
@@ -140,7 +140,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Farmhand XV   56➜60% chance to get double crops.",
+            "Farmhand 15   56➜60% chance to get double crops.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
           ]
@@ -149,7 +149,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Farmhand XVI   60➜64% chance to get double crops.",
+            "Farmhand 16   60➜64% chance to get double crops.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
           ]
@@ -158,7 +158,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Farmhand XVII   64➜68% chance to get double crops.",
+            "Farmhand 17   64➜68% chance to get double crops.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
           ]
@@ -167,7 +167,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Farmhand XVIII   68➜72% chance to get double crops.",
+            "Farmhand 18   68➜72% chance to get double crops.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
           ]
@@ -176,7 +176,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Farmhand XIX   72➜76% chance to get double crops.",
+            "Farmhand 19   72➜76% chance to get double crops.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
           ]
@@ -185,7 +185,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Farmhand XX   76➜80% chance to get double crops.",
+            "Farmhand 20   76➜80% chance to get double crops.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
           ]
@@ -194,7 +194,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Farmhand XXI   80➜84% chance to get double crops.",
+            "Farmhand 21   80➜84% chance to get double crops.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
           ]
@@ -203,7 +203,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Farmhand XXII   84➜88% chance to get double crops.",
+            "Farmhand 22   84➜88% chance to get double crops.",
             "+4 HP ❤ Health",
             "+2,400 Coins"
           ]
@@ -212,7 +212,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Farmhand XXIII   88➜92% chance to get double crops.",
+            "Farmhand 23   88➜92% chance to get double crops.",
             "+4 HP ❤ Health",
             "+2,600 Coins"
           ]
@@ -221,7 +221,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Farmhand XXIV   92➜96% chance to get double crops.",
+            "Farmhand 24   92➜96% chance to get double crops.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
           ]
@@ -230,7 +230,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Farmhand XXV   96➜100% chance to get double crops.",
+            "Farmhand 25   96➜100% chance to get double crops.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
           ]
@@ -239,7 +239,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Farmhand XXVI   100% double crops and 4% chance to get triple crops.",
+            "Farmhand 26   100% double crops and 4% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+3,500 Coins"
           ]
@@ -248,7 +248,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Farmhand XXVII   100% double crops and 4➜8% chance to get triple crops.",
+            "Farmhand 27   100% double crops and 4➜8% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+4,000 Coins"
           ]
@@ -257,7 +257,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Farmhand XXVIII   100% double crops and 8➜12% chance to get triple crops.",
+            "Farmhand 28   100% double crops and 8➜12% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+5,000 Coins"
           ]
@@ -266,7 +266,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Farmhand XXIX   100% double crops and 12➜16% chance to get triple crops.",
+            "Farmhand 29   100% double crops and 12➜16% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+6,000 Coins"
           ]
@@ -275,7 +275,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Farmhand XXX   100% double crops and 16➜20% chance to get triple crops.",
+            "Farmhand 30   100% double crops and 16➜20% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+7,500 Coins"
           ]
@@ -284,7 +284,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Farmhand XXXI   100% double crops and 20➜24% chance to get triple crops.",
+            "Farmhand 31   100% double crops and 20➜24% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+10,000 Coins"
           ]
@@ -293,7 +293,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Farmhand XXXII   100% double crops and 24➜28% chance to get triple crops.",
+            "Farmhand 32   100% double crops and 24➜28% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+12,500 Coins"
           ]
@@ -302,7 +302,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Farmhand XXXIII   100% double crops and 28➜32% chance to get triple crops.",
+            "Farmhand 33   100% double crops and 28➜32% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+15,000 Coins"
           ]
@@ -311,7 +311,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Farmhand XXXIV   100% double crops and 32➜36% chance to get triple crops.",
+            "Farmhand 34   100% double crops and 32➜36% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+17,500 Coins"
           ]
@@ -320,7 +320,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Farmhand XXXV   100% double crops and 36➜40% chance to get triple crops.",
+            "Farmhand 35   100% double crops and 36➜40% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+20,000 Coins"
           ]
@@ -329,7 +329,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Farmhand XXXVI   100% double crops and 40➜44% chance to get triple crops.",
+            "Farmhand 36   100% double crops and 40➜44% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+25,000 Coins"
           ]
@@ -338,7 +338,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Farmhand XXXVII   100% double crops and 44➜48% chance to get triple crops.",
+            "Farmhand 37   100% double crops and 44➜48% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+30,000 Coins"
           ]
@@ -347,7 +347,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Farmhand XXXVIII   100% double crops and 48➜52% chance to get triple crops.",
+            "Farmhand 38   100% double crops and 48➜52% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+35,000 Coins"
           ]
@@ -356,7 +356,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Farmhand XXXIX   100% double crops and 52➜56% chance to get triple crops.",
+            "Farmhand 39   100% double crops and 52➜56% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+40,000 Coins"
           ]
@@ -365,7 +365,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Farmhand XL   100% double crops and 56➜60% chance to get triple crops.",
+            "Farmhand 40   100% double crops and 56➜60% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+45,000 Coins"
           ]
@@ -374,7 +374,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Farmhand XLI   100% double crops and 60➜64% chance to get triple crops.",
+            "Farmhand 41   100% double crops and 60➜64% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+50,000 Coins"
           ]
@@ -383,7 +383,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Farmhand XLII   100% double crops and 64➜68% chance to get triple crops.",
+            "Farmhand 42   100% double crops and 64➜68% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+60,000 Coins"
           ]
@@ -392,7 +392,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Farmhand XLIII   100% double crops and 68➜72% chance to get triple crops.",
+            "Farmhand 43   100% double crops and 68➜72% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+70,000 Coins"
           ]
@@ -401,7 +401,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Farmhand XLIV   100% double crops and 72➜76% chance to get triple crops.",
+            "Farmhand 44   100% double crops and 72➜76% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+80,000 Coins"
           ]
@@ -410,7 +410,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Farmhand XLV   100% double crops and 76➜80% chance to get triple crops.",
+            "Farmhand 45   100% double crops and 76➜80% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+90,000 Coins"
           ]
@@ -419,7 +419,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Farmhand XLVI   100% double crops and 80➜84% chance to get triple crops.",
+            "Farmhand 46   100% double crops and 80➜84% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+100,000 Coins"
           ]
@@ -428,7 +428,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Farmhand XLVII   100% double crops and 84➜88% chance to get triple crops.",
+            "Farmhand 47   100% double crops and 84➜88% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+125,000 Coins"
           ]
@@ -437,7 +437,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Farmhand XLVIII   100% double crops and 88➜92% chance to get triple crops.",
+            "Farmhand 48   100% double crops and 88➜92% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+150,000 Coins"
           ]
@@ -446,7 +446,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Farmhand XLIX   100% double crops and 92➜96% chance to get triple crops.",
+            "Farmhand 49   100% double crops and 92➜96% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+175,000 Coins"
           ]
@@ -455,7 +455,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Farmhand L   100% double crops and 96➜100% chance to get triple crops.",
+            "Farmhand 50   100% double crops and 96➜100% chance to get triple crops.",
             "+5 HP ❤ Health",
             "+200,000 Coins"
           ]
@@ -471,7 +471,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Spelunker I   4% chance to get double ores.",
+            "Spelunker 1   4% chance to get double ores.",
             "+1 ❈ Defense",
             "Access to Gold Mine",
             "+25 Coins"
@@ -481,7 +481,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Spelunker II   4➜8% chance to get double ores.",
+            "Spelunker 2   4➜8% chance to get double ores.",
             "+1 ❈ Defense",
             "+50 Coins"
           ]
@@ -490,7 +490,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Spelunker III   8➜12% chance to get double ores.",
+            "Spelunker 3   8➜12% chance to get double ores.",
             "+1 ❈ Defense",
             "+100 Coins"
           ]
@@ -499,7 +499,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Spelunker IV   12➜16% chance to get double ores.",
+            "Spelunker 4   12➜16% chance to get double ores.",
             "+1 ❈ Defense",
             "+200 Coins"
           ]
@@ -508,7 +508,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Spelunker V   16➜20% chance to get double ores.",
+            "Spelunker 5   16➜20% chance to get double ores.",
             "+1 ❈ Defense",
             "Access to Deep Caverns",
             "+300 Coins"
@@ -518,7 +518,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Spelunker VI   20➜24% chance to get double ores.",
+            "Spelunker 6   20➜24% chance to get double ores.",
             "+1 ❈ Defense",
             "+400 Coins"
           ]
@@ -527,7 +527,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Spelunker VII   24➜28% chance to get double ores.",
+            "Spelunker 7   24➜28% chance to get double ores.",
             "+1 ❈ Defense",
             "+500 Coins"
           ]
@@ -536,7 +536,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Spelunker VIII   28➜32% chance to get double ores.",
+            "Spelunker 8   28➜32% chance to get double ores.",
             "+1 ❈ Defense",
             "+600 Coins"
           ]
@@ -545,7 +545,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Spelunker IX   32➜36% chance to get double ores.",
+            "Spelunker 9   32➜36% chance to get double ores.",
             "+1 ❈ Defense",
             "+700 Coins"
           ]
@@ -554,7 +554,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Spelunker X   36➜40% chance to get double ores.",
+            "Spelunker 10   36➜40% chance to get double ores.",
             "+1 ❈ Defense",
             "+800 Coins"
           ]
@@ -563,7 +563,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Spelunker XI   40➜44% chance to get double ores.",
+            "Spelunker 11   40➜44% chance to get double ores.",
             "+1 ❈ Defense",
             "+900 Coins"
           ]
@@ -572,7 +572,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Spelunker XII   44➜48% chance to get double ores.",
+            "Spelunker 12   44➜48% chance to get double ores.",
             "+1 ❈ Defense",
             "+1,000 Coins"
           ]
@@ -581,7 +581,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Spelunker XIII   48➜52% chance to get double ores.",
+            "Spelunker 13   48➜52% chance to get double ores.",
             "+1 ❈ Defense",
             "+1,100 Coins"
           ]
@@ -590,7 +590,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Spelunker XIV   52➜56% chance to get double ores.",
+            "Spelunker 14   52➜56% chance to get double ores.",
             "+1 ❈ Defense",
             "+1,200 Coins"
           ]
@@ -599,7 +599,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Spelunker XV   56➜60% chance to get double ores.",
+            "Spelunker 15   56➜60% chance to get double ores.",
             "+2 ❈ Defense",
             "+1,300 Coins"
           ]
@@ -608,7 +608,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Spelunker XVI   60➜64% chance to get double ores.",
+            "Spelunker 16   60➜64% chance to get double ores.",
             "+2 ❈ Defense",
             "+1,400 Coins"
           ]
@@ -617,7 +617,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Spelunker XVII   64➜68% chance to get double ores.",
+            "Spelunker 17   64➜68% chance to get double ores.",
             "+2 ❈ Defense",
             "+1,500 Coins"
           ]
@@ -626,7 +626,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Spelunker XVIII   68➜72% chance to get double ores.",
+            "Spelunker 18   68➜72% chance to get double ores.",
             "+2 ❈ Defense",
             "+1,600 Coins"
           ]
@@ -635,7 +635,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Spelunker XIX   72➜76% chance to get double ores.",
+            "Spelunker 19   72➜76% chance to get double ores.",
             "+2 ❈ Defense",
             "+1,800 Coins"
           ]
@@ -644,7 +644,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Spelunker XX   76➜80% chance to get double ores.",
+            "Spelunker 20   76➜80% chance to get double ores.",
             "+2 ❈ Defense",
             "+2,000 Coins"
           ]
@@ -653,7 +653,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Spelunker XXI   80➜84% chance to get double ores.",
+            "Spelunker 21   80➜84% chance to get double ores.",
             "+2 ❈ Defense",
             "+2,200 Coins"
           ]
@@ -662,7 +662,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Spelunker XXII   84➜88% chance to get double ores.",
+            "Spelunker 22   84➜88% chance to get double ores.",
             "+2 ❈ Defense",
             "+2,400 Coins"
           ]
@@ -671,7 +671,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Spelunker XXIII   88➜92% chance to get double ores.",
+            "Spelunker 23   88➜92% chance to get double ores.",
             "+2 ❈ Defense",
             "+2,600 Coins"
           ]
@@ -680,7 +680,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Spelunker XXIV   92➜96% chance to get double ores.",
+            "Spelunker 24   92➜96% chance to get double ores.",
             "+2 ❈ Defense",
             "+2,800 Coins"
           ]
@@ -689,7 +689,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Spelunker XXV   96➜100% chance to get double ores.",
+            "Spelunker 25   96➜100% chance to get double ores.",
             "+2 ❈ Defense",
             "+3,000 Coins"
           ]
@@ -698,7 +698,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Spelunker XXVI   100% double ores and 4% chance to get triple ores.",
+            "Spelunker 26   100% double ores and 4% chance to get triple ores.",
             "+2 ❈ Defense",
             "+3,500 Coins"
           ]
@@ -707,7 +707,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Spelunker XXVII   100% double ores and 4➜8% chance to get triple ores.",
+            "Spelunker 27   100% double ores and 4➜8% chance to get triple ores.",
             "+2 ❈ Defense",
             "+4,000 Coins"
           ]
@@ -716,7 +716,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Spelunker XXVIII   100% double ores and 8➜12% chance to get triple ores.",
+            "Spelunker 28   100% double ores and 8➜12% chance to get triple ores.",
             "+2 ❈ Defense",
             "+5,000 Coins"
           ]
@@ -725,7 +725,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Spelunker XXIX   100% double ores and 12➜16% chance to get triple ores.",
+            "Spelunker 29   100% double ores and 12➜16% chance to get triple ores.",
             "+2 ❈ Defense",
             "+6,000 Coins"
           ]
@@ -734,7 +734,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Spelunker XXX   100% double ores and 16➜20% chance to get triple ores.",
+            "Spelunker 30   100% double ores and 16➜20% chance to get triple ores.",
             "+2 ❈ Defense",
             "+7,500 Coins"
           ]
@@ -743,7 +743,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Spelunker XXXI   100% double ores and 20➜24% chance to get triple ores.",
+            "Spelunker 31   100% double ores and 20➜24% chance to get triple ores.",
             "+2 ❈ Defense",
             "+10,000 Coins"
           ]
@@ -752,7 +752,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Spelunker XXXII   100% double ores and 24➜28% chance to get triple ores.",
+            "Spelunker 32   100% double ores and 24➜28% chance to get triple ores.",
             "+2 ❈ Defense",
             "+12,500 Coins"
           ]
@@ -761,7 +761,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Spelunker XXXIII   100% double ores and 28➜32% chance to get triple ores.",
+            "Spelunker 33   100% double ores and 28➜32% chance to get triple ores.",
             "+2 ❈ Defense",
             "+15,000 Coins"
           ]
@@ -770,7 +770,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Spelunker XXXIV   100% double ores and 32➜36% chance to get triple ores.",
+            "Spelunker 34   100% double ores and 32➜36% chance to get triple ores.",
             "+2 ❈ Defense",
             "+17,500 Coins"
           ]
@@ -779,7 +779,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Spelunker XXXV   100% double ores and 36➜40% chance to get triple ores.",
+            "Spelunker 35   100% double ores and 36➜40% chance to get triple ores.",
             "+2 ❈ Defense",
             "+20,000 Coins"
           ]
@@ -788,7 +788,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Spelunker XXXVI   100% double ores and 40➜44% chance to get triple ores.",
+            "Spelunker 36   100% double ores and 40➜44% chance to get triple ores.",
             "+2 ❈ Defense",
             "+25,000 Coins"
           ]
@@ -797,7 +797,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Spelunker XXXVII   100% double ores and 44➜48% chance to get triple ores.",
+            "Spelunker 37   100% double ores and 44➜48% chance to get triple ores.",
             "+2 ❈ Defense",
             "+30,000 Coins"
           ]
@@ -806,7 +806,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Spelunker XXXVIII   100% double ores and 48➜52% chance to get triple ores.",
+            "Spelunker 38   100% double ores and 48➜52% chance to get triple ores.",
             "+2 ❈ Defense",
             "+35,000 Coins"
           ]
@@ -815,7 +815,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Spelunker XXXIX   100% double ores and 52➜56% chance to get triple ores.",
+            "Spelunker 39   100% double ores and 52➜56% chance to get triple ores.",
             "+2 ❈ Defense",
             "+40,000 Coins"
           ]
@@ -824,7 +824,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Spelunker XL   100% double ores and 56➜60% chance to get triple ores.",
+            "Spelunker 40   100% double ores and 56➜60% chance to get triple ores.",
             "+2 ❈ Defense",
             "+45,000 Coins"
           ]
@@ -833,7 +833,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Spelunker XLI   100% double ores and 60➜64% chance to get triple ores.",
+            "Spelunker 41   100% double ores and 60➜64% chance to get triple ores.",
             "+2 ❈ Defense",
             "+50,000 Coins"
           ]
@@ -842,7 +842,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Spelunker XLII   100% double ores and 64➜68% chance to get triple ores.",
+            "Spelunker 42   100% double ores and 64➜68% chance to get triple ores.",
             "+2 ❈ Defense",
             "+60,000 Coins"
           ]
@@ -851,7 +851,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Spelunker XLIII   100% double ores and 68➜72% chance to get triple ores.",
+            "Spelunker 43   100% double ores and 68➜72% chance to get triple ores.",
             "+2 ❈ Defense",
             "+70,000 Coins"
           ]
@@ -860,7 +860,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Spelunker XLIV   100% double ores and 72➜76% chance to get triple ores.",
+            "Spelunker 44   100% double ores and 72➜76% chance to get triple ores.",
             "+2 ❈ Defense",
             "+80,000 Coins"
           ]
@@ -869,7 +869,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Spelunker XLV   100% double ores and 76➜80% chance to get triple ores.",
+            "Spelunker 45   100% double ores and 76➜80% chance to get triple ores.",
             "+2 ❈ Defense",
             "+90,000 Coins"
           ]
@@ -878,7 +878,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Spelunker XLVI   100% double ores and 80➜84% chance to get triple ores.",
+            "Spelunker 46   100% double ores and 80➜84% chance to get triple ores.",
             "+2 ❈ Defense",
             "+100,000 Coins"
           ]
@@ -887,7 +887,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Spelunker XLVII   100% double ores and 84➜88% chance to get triple ores.",
+            "Spelunker 47   100% double ores and 84➜88% chance to get triple ores.",
             "+2 ❈ Defense",
             "+125,000 Coins"
           ]
@@ -896,7 +896,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Spelunker XLVIII   100% double ores and 88➜92% chance to get triple ores.",
+            "Spelunker 48   100% double ores and 88➜92% chance to get triple ores.",
             "+2 ❈ Defense",
             "+150,000 Coins"
           ]
@@ -905,7 +905,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Spelunker XLIX   100% double ores and 92➜96% chance to get triple ores.",
+            "Spelunker 49   100% double ores and 92➜96% chance to get triple ores.",
             "+2 ❈ Defense",
             "+175,000 Coins"
           ]
@@ -914,7 +914,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Spelunker L   100% double ores and 96➜100% chance to get triple ores.",
+            "Spelunker 50   100% double ores and 96➜100% chance to get triple ores.",
             "+2 ❈ Defense",
             "+200,000 Coins"
           ]
@@ -930,7 +930,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Warrior I   Deal 4% more damage to mobs.",
+            "Warrior 1   Deal 4% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "Access to Spider's Den",
             "+25 Coins"
@@ -940,7 +940,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Warrior II   Deal 4➜8% more damage to mobs.",
+            "Warrior 2   Deal 4➜8% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+50 Coins"
           ]
@@ -949,7 +949,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Warrior III   Deal 8➜12% more damage to mobs.",
+            "Warrior 3   Deal 8➜12% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+100 Coins"
           ]
@@ -958,7 +958,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Warrior IV   Deal 12➜16% more damage to mobs.",
+            "Warrior 4   Deal 12➜16% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+200 Coins"
           ]
@@ -967,7 +967,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Warrior V   Deal 16➜20% more damage to mobs.",
+            "Warrior 5   Deal 16➜20% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "Access to Blazing Fortress",
             "Access to Wardrobe System in SkyBlock Menu",
@@ -978,7 +978,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Warrior VI   Deal 20➜24% more damage to mobs.",
+            "Warrior 6   Deal 20➜24% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+400 Coins"
           ]
@@ -987,7 +987,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Warrior VII   Deal 24➜28% more damage to mobs.",
+            "Warrior 7   Deal 24➜28% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+500 Coins"
           ]
@@ -996,7 +996,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Warrior VIII   Deal 28➜32% more damage to mobs.",
+            "Warrior 8   Deal 28➜32% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+600 Coins"
           ]
@@ -1005,7 +1005,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Warrior IX   Deal 32➜36% more damage to mobs.",
+            "Warrior 9   Deal 32➜36% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+700 Coins"
           ]
@@ -1014,7 +1014,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Warrior X   Deal 36➜40% more damage to mobs.",
+            "Warrior 10   Deal 36➜40% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+800 Coins"
           ]
@@ -1023,7 +1023,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Warrior XI   Deal 40➜44% more damage to mobs.",
+            "Warrior 11   Deal 40➜44% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+900 Coins"
           ]
@@ -1032,7 +1032,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Warrior XII   Deal 44➜48% more damage to mobs.",
+            "Warrior 12   Deal 44➜48% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "Access to The End",
             "+1,000 Coins"
@@ -1042,7 +1042,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Warrior XIII   Deal 48➜52% more damage to mobs.",
+            "Warrior 13   Deal 48➜52% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,100 Coins"
           ]
@@ -1051,7 +1051,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Warrior XIV   Deal 52➜56% more damage to mobs.",
+            "Warrior 14   Deal 52➜56% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,200 Coins"
           ]
@@ -1060,7 +1060,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Warrior XV   Deal 56➜60% more damage to mobs.",
+            "Warrior 15   Deal 56➜60% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,300 Coins"
           ]
@@ -1069,7 +1069,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Warrior XVI   Deal 60➜64% more damage to mobs.",
+            "Warrior 16   Deal 60➜64% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,400 Coins"
           ]
@@ -1078,7 +1078,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Warrior XVII   Deal 64➜68% more damage to mobs.",
+            "Warrior 17   Deal 64➜68% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,500 Coins"
           ]
@@ -1087,7 +1087,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Warrior XVIII   Deal 68➜72% more damage to mobs.",
+            "Warrior 18   Deal 68➜72% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,600 Coins"
           ]
@@ -1096,7 +1096,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Warrior XIX   Deal 72➜76% more damage to mobs.",
+            "Warrior 19   Deal 72➜76% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+1,800 Coins"
           ]
@@ -1105,7 +1105,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Warrior XX   Deal 76➜80% more damage to mobs.",
+            "Warrior 20   Deal 76➜80% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+2,000 Coins"
           ]
@@ -1114,7 +1114,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Warrior XXI   Deal 80➜84% more damage to mobs.",
+            "Warrior 21   Deal 80➜84% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+2,200 Coins"
           ]
@@ -1123,7 +1123,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Warrior XXII   Deal 84➜88% more damage to mobs.",
+            "Warrior 22   Deal 84➜88% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+2,400 Coins"
           ]
@@ -1132,7 +1132,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Warrior XXIII   Deal 88➜92% more damage to mobs.",
+            "Warrior 23   Deal 88➜92% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+2,600 Coins"
           ]
@@ -1141,7 +1141,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Warrior XXIV   Deal 92➜96% more damage to mobs.",
+            "Warrior 24   Deal 92➜96% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+2,800 Coins"
           ]
@@ -1150,7 +1150,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Warrior XXV   Deal 96➜100% more damage to mobs.",
+            "Warrior 25   Deal 96➜100% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+3,000 Coins"
           ]
@@ -1159,7 +1159,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Warrior XXVI   Deal 100➜104% more damage to mobs.",
+            "Warrior 26   Deal 100➜104% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+3,500 Coins"
           ]
@@ -1168,7 +1168,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Warrior XXVII   Deal 104➜108% more damage to mobs.",
+            "Warrior 27   Deal 104➜108% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+4,000 Coins"
           ]
@@ -1177,7 +1177,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Warrior XXVIII   Deal 108➜112% more damage to mobs.",
+            "Warrior 28   Deal 108➜112% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+5,000 Coins"
           ]
@@ -1186,7 +1186,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Warrior XXIX   Deal 112➜116% more damage to mobs.",
+            "Warrior 29   Deal 112➜116% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+6,000 Coins"
           ]
@@ -1195,7 +1195,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Warrior XXX   Deal 116➜120% more damage to mobs.",
+            "Warrior 30   Deal 116➜120% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+7,500 Coins"
           ]
@@ -1204,7 +1204,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Warrior XXXI   Deal 120➜124% more damage to mobs.",
+            "Warrior 31   Deal 120➜124% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+10,000 Coins"
           ]
@@ -1213,7 +1213,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Warrior XXXII   Deal 124➜128% more damage to mobs.",
+            "Warrior 32   Deal 124➜128% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+12,500 Coins"
           ]
@@ -1222,7 +1222,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Warrior XXXIII   Deal 128➜132% more damage to mobs.",
+            "Warrior 33   Deal 128➜132% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+15,000 Coins"
           ]
@@ -1231,7 +1231,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Warrior XXXIV   Deal 132➜136% more damage to mobs.",
+            "Warrior 34   Deal 132➜136% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+17,500 Coins"
           ]
@@ -1240,7 +1240,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Warrior XXXV   Deal 136➜140% more damage to mobs.",
+            "Warrior 35   Deal 136➜140% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+20,000 Coins"
           ]
@@ -1249,7 +1249,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Warrior XXXVI   Deal 140➜144% more damage to mobs.",
+            "Warrior 36   Deal 140➜144% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+25,000 Coins"
           ]
@@ -1258,7 +1258,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Warrior XXXVII   Deal 144➜148% more damage to mobs.",
+            "Warrior 37   Deal 144➜148% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+30,000 Coins"
           ]
@@ -1267,7 +1267,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Warrior XXXVIII   Deal 148➜152% more damage to mobs.",
+            "Warrior 38   Deal 148➜152% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+35,000 Coins"
           ]
@@ -1276,7 +1276,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Warrior XXXIX   Deal 152➜156% more damage to mobs.",
+            "Warrior 39   Deal 152➜156% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+40,000 Coins"
           ]
@@ -1285,7 +1285,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Warrior XL   Deal 156➜160% more damage to mobs.",
+            "Warrior 40   Deal 156➜160% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+45,000 Coins"
           ]
@@ -1294,7 +1294,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Warrior XLI   Deal 160➜164% more damage to mobs.",
+            "Warrior 41   Deal 160➜164% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+50,000 Coins"
           ]
@@ -1303,7 +1303,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Warrior XLII   Deal 164➜168% more damage to mobs.",
+            "Warrior 42   Deal 164➜168% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+60,000 Coins"
           ]
@@ -1312,7 +1312,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Warrior XLIII   Deal 168➜172% more damage to mobs.",
+            "Warrior 43   Deal 168➜172% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+70,000 Coins"
           ]
@@ -1321,7 +1321,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Warrior XLIV   Deal 172➜176% more damage to mobs.",
+            "Warrior 44   Deal 172➜176% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+80,000 Coins"
           ]
@@ -1330,7 +1330,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Warrior XLV   Deal 176➜180% more damage to mobs.",
+            "Warrior 45   Deal 176➜180% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+90,000 Coins"
           ]
@@ -1339,7 +1339,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Warrior XLVI   Deal 180➜184% more damage to mobs.",
+            "Warrior 46   Deal 180➜184% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+100,000 Coins"
           ]
@@ -1348,7 +1348,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Warrior XLVII   Deal 184➜188% more damage to mobs.",
+            "Warrior 47   Deal 184➜188% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+125,000 Coins"
           ]
@@ -1357,7 +1357,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Warrior XLVIII   Deal 188➜192% more damage to mobs.",
+            "Warrior 48   Deal 188➜192% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+150,000 Coins"
           ]
@@ -1366,7 +1366,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Warrior XLIX   Deal 192➜196% more damage to mobs.",
+            "Warrior 49   Deal 192➜196% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+175,000 Coins"
           ]
@@ -1375,7 +1375,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Warrior L   Deal 196➜200% more damage to mobs.",
+            "Warrior 50   Deal 196➜200% more damage to mobs.",
             "+1% ☣ Crit Chance",
             "+200,000 Coins"
           ]
@@ -1391,7 +1391,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Logger I   4% chance to get double logs.",
+            "Logger 1   4% chance to get double logs.",
             "+1 ❁ Strength",
             "Access to Birch Park",
             "+25 Coins"
@@ -1401,7 +1401,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Logger II   4➜8% chance to get double logs.",
+            "Logger 2   4➜8% chance to get double logs.",
             "+1 ❁ Strength",
             "Access to Spruce Woods",
             "+50 Coins"
@@ -1411,7 +1411,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Logger III   8➜12% chance to get double logs.",
+            "Logger 3   8➜12% chance to get double logs.",
             "+1 ❁ Strength",
             "Access to Dark Thicket",
             "+100 Coins"
@@ -1421,7 +1421,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Logger IV   12➜16% chance to get double logs.",
+            "Logger 4   12➜16% chance to get double logs.",
             "+1 ❁ Strength",
             "Access to Savanna Woodland",
             "+200 Coins"
@@ -1431,7 +1431,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Logger V   16➜20% chance to get double logs.",
+            "Logger 5   16➜20% chance to get double logs.",
             "+1 ❁ Strength",
             "Access to Jungle Island",
             "+300 Coins"
@@ -1441,7 +1441,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Logger VI   20➜24% chance to get double logs.",
+            "Logger 6   20➜24% chance to get double logs.",
             "+1 ❁ Strength",
             "+400 Coins"
           ]
@@ -1450,7 +1450,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Logger VII   24➜28% chance to get double logs.",
+            "Logger 7   24➜28% chance to get double logs.",
             "+1 ❁ Strength",
             "+500 Coins"
           ]
@@ -1459,7 +1459,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Logger VIII   28➜32% chance to get double logs.",
+            "Logger 8   28➜32% chance to get double logs.",
             "+1 ❁ Strength",
             "+600 Coins"
           ]
@@ -1468,7 +1468,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Logger IX   32➜36% chance to get double logs.",
+            "Logger 9   32➜36% chance to get double logs.",
             "+1 ❁ Strength",
             "+700 Coins"
           ]
@@ -1477,7 +1477,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Logger X   36➜40% chance to get double logs.",
+            "Logger 10   36➜40% chance to get double logs.",
             "+1 ❁ Strength",
             "+800 Coins"
           ]
@@ -1486,7 +1486,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Logger XI   40➜44% chance to get double logs.",
+            "Logger 11   40➜44% chance to get double logs.",
             "+1 ❁ Strength",
             "+900 Coins"
           ]
@@ -1495,7 +1495,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Logger XII   44➜48% chance to get double logs.",
+            "Logger 12   44➜48% chance to get double logs.",
             "+1 ❁ Strength",
             "+1,000 Coins"
           ]
@@ -1504,7 +1504,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Logger XIII   48➜52% chance to get double logs.",
+            "Logger 13   48➜52% chance to get double logs.",
             "+1 ❁ Strength",
             "+1,100 Coins"
           ]
@@ -1513,7 +1513,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Logger XIV   52➜56% chance to get double logs.",
+            "Logger 14   52➜56% chance to get double logs.",
             "+1 ❁ Strength",
             "+1,200 Coins"
           ]
@@ -1522,7 +1522,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Logger XV   56➜60% chance to get double logs.",
+            "Logger 15   56➜60% chance to get double logs.",
             "+2 ❁ Strength",
             "+1,300 Coins"
           ]
@@ -1531,7 +1531,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Logger XVI   60➜64% chance to get double logs.",
+            "Logger 16   60➜64% chance to get double logs.",
             "+2 ❁ Strength",
             "+1,400 Coins"
           ]
@@ -1540,7 +1540,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Logger XVII   64➜68% chance to get double logs.",
+            "Logger 17   64➜68% chance to get double logs.",
             "+2 ❁ Strength",
             "+1,500 Coins"
           ]
@@ -1549,7 +1549,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Logger XVIII   68➜72% chance to get double logs.",
+            "Logger 18   68➜72% chance to get double logs.",
             "+2 ❁ Strength",
             "+1,600 Coins"
           ]
@@ -1558,7 +1558,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Logger XIX   72➜76% chance to get double logs.",
+            "Logger 19   72➜76% chance to get double logs.",
             "+2 ❁ Strength",
             "+1,800 Coins"
           ]
@@ -1567,7 +1567,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Logger XX   76➜80% chance to get double logs.",
+            "Logger 20   76➜80% chance to get double logs.",
             "+2 ❁ Strength",
             "+2,000 Coins"
           ]
@@ -1576,7 +1576,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Logger XXI   80➜84% chance to get double logs.",
+            "Logger 21   80➜84% chance to get double logs.",
             "+2 ❁ Strength",
             "+2,200 Coins"
           ]
@@ -1585,7 +1585,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Logger XXII   84➜88% chance to get double logs.",
+            "Logger 22   84➜88% chance to get double logs.",
             "+2 ❁ Strength",
             "+2,400 Coins"
           ]
@@ -1594,7 +1594,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Logger XXIII   88➜92% chance to get double logs.",
+            "Logger 23   88➜92% chance to get double logs.",
             "+2 ❁ Strength",
             "+2,600 Coins"
           ]
@@ -1603,7 +1603,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Logger XXIV   92➜96% chance to get double logs.",
+            "Logger 24   92➜96% chance to get double logs.",
             "+2 ❁ Strength",
             "+2,800 Coins"
           ]
@@ -1612,7 +1612,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Logger XXV   96➜100% chance to get double logs.",
+            "Logger 25   96➜100% chance to get double logs.",
             "+2 ❁ Strength",
             "+3,000 Coins"
           ]
@@ -1621,7 +1621,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Logger XXVI   100% double logs and 4% chance to get triple logs.",
+            "Logger 26   100% double logs and 4% chance to get triple logs.",
             "+2 ❁ Strength",
             "+3,500 Coins"
           ]
@@ -1630,7 +1630,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Logger XXVII   100% double logs and 4➜8% chance to get triple logs.",
+            "Logger 27   100% double logs and 4➜8% chance to get triple logs.",
             "+2 ❁ Strength",
             "+4,000 Coins"
           ]
@@ -1639,7 +1639,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Logger XXVIII   100% double logs and 8➜12% chance to get triple logs.",
+            "Logger 28   100% double logs and 8➜12% chance to get triple logs.",
             "+2 ❁ Strength",
             "+5,000 Coins"
           ]
@@ -1648,7 +1648,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Logger XXIX   100% double logs and 12➜16% chance to get triple logs.",
+            "Logger 29   100% double logs and 12➜16% chance to get triple logs.",
             "+2 ❁ Strength",
             "+6,000 Coins"
           ]
@@ -1657,7 +1657,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Logger XXX   100% double logs and 16➜20% chance to get triple logs.",
+            "Logger 30   100% double logs and 16➜20% chance to get triple logs.",
             "+2 ❁ Strength",
             "+7,500 Coins"
           ]
@@ -1666,7 +1666,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Logger XXXI   100% double logs and 20➜24% chance to get triple logs.",
+            "Logger 31   100% double logs and 20➜24% chance to get triple logs.",
             "+2 ❁ Strength",
             "+10,000 Coins"
           ]
@@ -1675,7 +1675,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Logger XXXII   100% double logs and 24➜28% chance to get triple logs.",
+            "Logger 32   100% double logs and 24➜28% chance to get triple logs.",
             "+2 ❁ Strength",
             "+12,500 Coins"
           ]
@@ -1684,7 +1684,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Logger XXXIII   100% double logs and 28➜32% chance to get triple logs.",
+            "Logger 33   100% double logs and 28➜32% chance to get triple logs.",
             "+2 ❁ Strength",
             "+15,000 Coins"
           ]
@@ -1693,7 +1693,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Logger XXXIV   100% double logs and 32➜36% chance to get triple logs.",
+            "Logger 34   100% double logs and 32➜36% chance to get triple logs.",
             "+2 ❁ Strength",
             "+17,500 Coins"
           ]
@@ -1702,7 +1702,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Logger XXXV   100% double logs and 36➜40% chance to get triple logs.",
+            "Logger 35   100% double logs and 36➜40% chance to get triple logs.",
             "+2 ❁ Strength",
             "+20,000 Coins"
           ]
@@ -1711,7 +1711,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Logger XXXVI   100% double logs and 40➜44% chance to get triple logs.",
+            "Logger 36   100% double logs and 40➜44% chance to get triple logs.",
             "+2 ❁ Strength",
             "+25,000 Coins"
           ]
@@ -1720,7 +1720,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Logger XXXVII   100% double logs and 44➜48% chance to get triple logs.",
+            "Logger 37   100% double logs and 44➜48% chance to get triple logs.",
             "+2 ❁ Strength",
             "+30,000 Coins"
           ]
@@ -1729,7 +1729,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Logger XXXVIII   100% double logs and 48➜52% chance to get triple logs.",
+            "Logger 38   100% double logs and 48➜52% chance to get triple logs.",
             "+2 ❁ Strength",
             "+35,000 Coins"
           ]
@@ -1738,7 +1738,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Logger XXXIX   100% double logs and 52➜56% chance to get triple logs.",
+            "Logger 39   100% double logs and 52➜56% chance to get triple logs.",
             "+2 ❁ Strength",
             "+40,000 Coins"
           ]
@@ -1747,7 +1747,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Logger XL   100% double logs and 56➜60% chance to get triple logs.",
+            "Logger 40   100% double logs and 56➜60% chance to get triple logs.",
             "+2 ❁ Strength",
             "+45,000 Coins"
           ]
@@ -1756,7 +1756,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Logger XLI   100% double logs and 60➜64% chance to get triple logs.",
+            "Logger 41   100% double logs and 60➜64% chance to get triple logs.",
             "+2 ❁ Strength",
             "+50,000 Coins"
           ]
@@ -1765,7 +1765,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Logger XLII   100% double logs and 64➜68% chance to get triple logs.",
+            "Logger 42   100% double logs and 64➜68% chance to get triple logs.",
             "+2 ❁ Strength",
             "+60,000 Coins"
           ]
@@ -1774,7 +1774,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Logger XLIII   100% double logs and 68➜72% chance to get triple logs.",
+            "Logger 43   100% double logs and 68➜72% chance to get triple logs.",
             "+2 ❁ Strength",
             "+70,000 Coins"
           ]
@@ -1783,7 +1783,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Logger XLIV   100% double logs and 72➜76% chance to get triple logs.",
+            "Logger 44   100% double logs and 72➜76% chance to get triple logs.",
             "+2 ❁ Strength",
             "+80,000 Coins"
           ]
@@ -1792,7 +1792,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Logger XLV   100% double logs and 76➜80% chance to get triple logs.",
+            "Logger 45   100% double logs and 76➜80% chance to get triple logs.",
             "+2 ❁ Strength",
             "+90,000 Coins"
           ]
@@ -1801,7 +1801,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Logger XLVI   100% double logs and 80➜84% chance to get triple logs.",
+            "Logger 46   100% double logs and 80➜84% chance to get triple logs.",
             "+2 ❁ Strength",
             "+100,000 Coins"
           ]
@@ -1810,7 +1810,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Logger XLVII   100% double logs and 84➜88% chance to get triple logs.",
+            "Logger 47   100% double logs and 84➜88% chance to get triple logs.",
             "+2 ❁ Strength",
             "+125,000 Coins"
           ]
@@ -1819,7 +1819,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Logger XLVIII   100% double logs and 88➜92% chance to get triple logs.",
+            "Logger 48   100% double logs and 88➜92% chance to get triple logs.",
             "+2 ❁ Strength",
             "+150,000 Coins"
           ]
@@ -1828,7 +1828,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Logger XLIX   100% double logs and 92➜96% chance to get triple logs.",
+            "Logger 49   100% double logs and 92➜96% chance to get triple logs.",
             "+2 ❁ Strength",
             "+175,000 Coins"
           ]
@@ -1837,7 +1837,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Logger L   100% double logs and 96➜100% chance to get triple logs.",
+            "Logger 50   100% double logs and 96➜100% chance to get triple logs.",
             "+2 ❁ Strength",
             "+200,000 Coins"
           ]
@@ -1854,7 +1854,7 @@
           "totalExpRequired": 50,
           "unlocks": [
             "Squid Sea Creature",
-            "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
+            "Treasure Hunter 1   Increases the chance to find treasure when fishing by 0.2%.",
             "+2 HP ❤ Health",
             "+25 Coins"
           ]
@@ -1864,7 +1864,7 @@
           "totalExpRequired": 175,
           "unlocks": [
             "Sea Walker Sea Creature",
-            "Treasure Hunter II   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
+            "Treasure Hunter 2   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
             "+2 HP ❤ Health",
             "+50 Coins"
           ]
@@ -1874,7 +1874,7 @@
           "totalExpRequired": 375,
           "unlocks": [
             "Night Squid Sea Creature",
-            "Treasure Hunter III   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
+            "Treasure Hunter 3   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
             "+2 HP ❤ Health",
             "+100 Coins"
           ]
@@ -1884,7 +1884,7 @@
           "totalExpRequired": 675,
           "unlocks": [
             "Frozen Steve Sea Creature",
-            "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
+            "Treasure Hunter 4   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 HP ❤ Health",
             "+200 Coins"
           ]
@@ -1894,7 +1894,7 @@
           "totalExpRequired": 1175,
           "unlocks": [
             "Sea Guardian Sea Creature",
-            "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
+            "Treasure Hunter 5   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 HP ❤ Health",
             "+300 Coins"
           ]
@@ -1904,7 +1904,7 @@
           "totalExpRequired": 1925,
           "unlocks": [
             "Frosty Sea Creature",
-            "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
+            "Treasure Hunter 6   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 HP ❤ Health",
             "+400 Coins"
           ]
@@ -1914,7 +1914,7 @@
           "totalExpRequired": 2925,
           "unlocks": [
             "Sea Witch Sea Creature",
-            "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
+            "Treasure Hunter 7   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
             "+2 HP ❤ Health",
             "+500 Coins"
           ]
@@ -1923,7 +1923,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Treasure Hunter VIII   Increases the chance to find treasure when fishing by 1.4➜1.6%.",
+            "Treasure Hunter 8   Increases the chance to find treasure when fishing by 1.4➜1.6%.",
             "+2 HP ❤ Health",
             "+600 Coins"
           ]
@@ -1932,8 +1932,8 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "??? Sea Creature",
-            "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
+            "Sea Archer Sea Creature",
+            "Treasure Hunter 9   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
             "+2 HP ❤ Health",
             "+700 Coins"
           ]
@@ -1942,7 +1942,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
+            "Treasure Hunter 10   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 HP ❤ Health",
             "+800 Coins"
           ]
@@ -1952,7 +1952,7 @@
           "totalExpRequired": 14925,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
+            "Treasure Hunter 11   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 HP ❤ Health",
             "+900 Coins"
           ]
@@ -1961,7 +1961,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Treasure Hunter XII   Increases the chance to find treasure when fishing by 2.2➜2.4%.",
+            "Treasure Hunter 12   Increases the chance to find treasure when fishing by 2.2➜2.4%.",
             "+2 HP ❤ Health",
             "+1,000 Coins"
           ]
@@ -1972,7 +1972,7 @@
           "unlocks": [
             "??? Sea Creature",
             "??? Sea Creature",
-            "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
+            "Treasure Hunter 13   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
           ]
@@ -1981,7 +1981,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
+            "Treasure Hunter 14   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 HP ❤ Health",
             "+1,200 Coins"
           ]
@@ -1991,7 +1991,7 @@
           "totalExpRequired": 67425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
+            "Treasure Hunter 15   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
           ]
@@ -2001,7 +2001,7 @@
           "totalExpRequired": 97425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
+            "Treasure Hunter 16   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
           ]
@@ -2011,7 +2011,7 @@
           "totalExpRequired": 147425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
+            "Treasure Hunter 17   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
           ]
@@ -2021,7 +2021,7 @@
           "totalExpRequired": 222425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
+            "Treasure Hunter 18   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
           ]
@@ -2031,7 +2031,7 @@
           "totalExpRequired": 322425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
+            "Treasure Hunter 19   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
           ]
@@ -2041,7 +2041,7 @@
           "totalExpRequired": 522425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
+            "Treasure Hunter 20   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
           ]
@@ -2050,7 +2050,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
+            "Treasure Hunter 21   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
           ]
@@ -2059,7 +2059,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
+            "Treasure Hunter 22   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 HP ❤ Health",
             "+2,400 Coins"
           ]
@@ -2068,7 +2068,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Treasure Hunter XXIII   Increases the chance to find treasure when fishing by 4.4➜4.6%.",
+            "Treasure Hunter 23   Increases the chance to find treasure when fishing by 4.4➜4.6%.",
             "+4 HP ❤ Health",
             "+2,600 Coins"
           ]
@@ -2077,7 +2077,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
+            "Treasure Hunter 24   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
           ]
@@ -2087,7 +2087,7 @@
           "totalExpRequired": 3022425,
           "unlocks": [
             "??? Sea Creature",
-            "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
+            "Treasure Hunter 25   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
           ]
@@ -2096,7 +2096,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Treasure Hunter XXVI   Increases the chance to find treasure when fishing by 5➜5.2%.",
+            "Treasure Hunter 26   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 HP ❤ Health",
             "+3,500 Coins"
           ]
@@ -2105,7 +2105,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Treasure Hunter XXVII   Increases the chance to find treasure when fishing by 5.2➜5.4%.",
+            "Treasure Hunter 27   Increases the chance to find treasure when fishing by 5.2➜5.4%.",
             "+5 HP ❤ Health",
             "+4,000 Coins"
           ]
@@ -2114,7 +2114,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Treasure Hunter XXVIII   Increases the chance to find treasure when fishing by 5.4➜5.6%.",
+            "Treasure Hunter 28   Increases the chance to find treasure when fishing by 5.4➜5.6%.",
             "+5 HP ❤ Health",
             "+5,000 Coins"
           ]
@@ -2123,7 +2123,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Treasure Hunter XXIX   Increases the chance to find treasure when fishing by 5.6➜5.8%.",
+            "Treasure Hunter 29   Increases the chance to find treasure when fishing by 5.6➜5.8%.",
             "+5 HP ❤ Health",
             "+6,000 Coins"
           ]
@@ -2132,7 +2132,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Treasure Hunter XXX   Increases the chance to find treasure when fishing by 5.8➜6%.",
+            "Treasure Hunter 30   Increases the chance to find treasure when fishing by 5.8➜6%.",
             "+5 HP ❤ Health",
             "+7,500 Coins"
           ]
@@ -2141,7 +2141,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Treasure Hunter XXXI   Increases the chance to find treasure when fishing by 6➜6.2%.",
+            "Treasure Hunter 31   Increases the chance to find treasure when fishing by 6➜6.2%.",
             "+5 HP ❤ Health",
             "+10,000 Coins"
           ]
@@ -2150,7 +2150,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Treasure Hunter XXXII   Increases the chance to find treasure when fishing by 6.2➜6.4%.",
+            "Treasure Hunter 32   Increases the chance to find treasure when fishing by 6.2➜6.4%.",
             "+5 HP ❤ Health",
             "+12,500 Coins"
           ]
@@ -2159,7 +2159,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Treasure Hunter XXXIII   Increases the chance to find treasure when fishing by 6.4➜6.6%.",
+            "Treasure Hunter 33   Increases the chance to find treasure when fishing by 6.4➜6.6%.",
             "+5 HP ❤ Health",
             "+15,000 Coins"
           ]
@@ -2168,7 +2168,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Treasure Hunter XXXIV   Increases the chance to find treasure when fishing by 6.6➜6.8%.",
+            "Treasure Hunter 34   Increases the chance to find treasure when fishing by 6.6➜6.8%.",
             "+5 HP ❤ Health",
             "+17,500 Coins"
           ]
@@ -2177,7 +2177,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Treasure Hunter XXXV   Increases the chance to find treasure when fishing by 6.8➜7%.",
+            "Treasure Hunter 35   Increases the chance to find treasure when fishing by 6.8➜7%.",
             "+5 HP ❤ Health",
             "+20,000 Coins"
           ]
@@ -2186,7 +2186,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Treasure Hunter XXXVI   Increases the chance to find treasure when fishing by 7➜7.2%.",
+            "Treasure Hunter 36   Increases the chance to find treasure when fishing by 7➜7.2%.",
             "+5 HP ❤ Health",
             "+25,000 Coins"
           ]
@@ -2195,7 +2195,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Treasure Hunter XXXVII   Increases the chance to find treasure when fishing by 7.2➜7.4%.",
+            "Treasure Hunter 37   Increases the chance to find treasure when fishing by 7.2➜7.4%.",
             "+5 HP ❤ Health",
             "+30,000 Coins"
           ]
@@ -2204,7 +2204,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Treasure Hunter XXXVIII   Increases the chance to find treasure when fishing by 7.4➜7.6%.",
+            "Treasure Hunter 38   Increases the chance to find treasure when fishing by 7.4➜7.6%.",
             "+5 HP ❤ Health",
             "+35,000 Coins"
           ]
@@ -2213,7 +2213,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Treasure Hunter XXXIX   Increases the chance to find treasure when fishing by 7.6➜7.8%.",
+            "Treasure Hunter 39   Increases the chance to find treasure when fishing by 7.6➜7.8%.",
             "+5 HP ❤ Health",
             "+40,000 Coins"
           ]
@@ -2222,7 +2222,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Treasure Hunter XL   Increases the chance to find treasure when fishing by 7.8➜8%.",
+            "Treasure Hunter 40   Increases the chance to find treasure when fishing by 7.8➜8%.",
             "+5 HP ❤ Health",
             "+45,000 Coins"
           ]
@@ -2231,7 +2231,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Treasure Hunter XLI   Increases the chance to find treasure when fishing by 8➜8.2%.",
+            "Treasure Hunter 41   Increases the chance to find treasure when fishing by 8➜8.2%.",
             "+5 HP ❤ Health",
             "+50,000 Coins"
           ]
@@ -2240,7 +2240,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Treasure Hunter XLII   Increases the chance to find treasure when fishing by 8.2➜8.4%.",
+            "Treasure Hunter 42   Increases the chance to find treasure when fishing by 8.2➜8.4%.",
             "+5 HP ❤ Health",
             "+60,000 Coins"
           ]
@@ -2249,7 +2249,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Treasure Hunter XLIII   Increases the chance to find treasure when fishing by 8.4➜8.6%.",
+            "Treasure Hunter 43   Increases the chance to find treasure when fishing by 8.4➜8.6%.",
             "+5 HP ❤ Health",
             "+70,000 Coins"
           ]
@@ -2258,7 +2258,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Treasure Hunter XLIV   Increases the chance to find treasure when fishing by 8.6➜8.8%.",
+            "Treasure Hunter 44   Increases the chance to find treasure when fishing by 8.6➜8.8%.",
             "+5 HP ❤ Health",
             "+80,000 Coins"
           ]
@@ -2267,7 +2267,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Treasure Hunter XLV   Increases the chance to find treasure when fishing by 8.8➜9%.",
+            "Treasure Hunter 45   Increases the chance to find treasure when fishing by 8.8➜9%.",
             "+5 HP ❤ Health",
             "+90,000 Coins"
           ]
@@ -2276,7 +2276,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Treasure Hunter XLVI   Increases the chance to find treasure when fishing by 9➜9.2%.",
+            "Treasure Hunter 46   Increases the chance to find treasure when fishing by 9➜9.2%.",
             "+5 HP ❤ Health",
             "+100,000 Coins"
           ]
@@ -2285,7 +2285,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Treasure Hunter XLVII   Increases the chance to find treasure when fishing by 9.2➜9.4%.",
+            "Treasure Hunter 47   Increases the chance to find treasure when fishing by 9.2➜9.4%.",
             "+5 HP ❤ Health",
             "+125,000 Coins"
           ]
@@ -2294,7 +2294,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Treasure Hunter XLVIII   Increases the chance to find treasure when fishing by 9.4➜9.6%.",
+            "Treasure Hunter 48   Increases the chance to find treasure when fishing by 9.4➜9.6%.",
             "+5 HP ❤ Health",
             "+150,000 Coins"
           ]
@@ -2303,7 +2303,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Treasure Hunter XLIX   Increases the chance to find treasure when fishing by 9.6➜9.8%.",
+            "Treasure Hunter 49   Increases the chance to find treasure when fishing by 9.6➜9.8%.",
             "+5 HP ❤ Health",
             "+175,000 Coins"
           ]
@@ -2312,7 +2312,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Treasure Hunter L   Increases the chance to find treasure when fishing by 9.8➜10%.",
+            "Treasure Hunter 50   Increases the chance to find treasure when fishing by 9.8➜10%.",
             "+5 HP ❤ Health",
             "+200,000 Coins"
           ]
@@ -2328,7 +2328,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Conjurer I   Gain 4% more experience orbs from any source.",
+            "Conjurer 1   Gain 4% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+25 Coins"
           ]
@@ -2337,7 +2337,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Conjurer II   Gain 4➜8% more experience orbs from any source.",
+            "Conjurer 2   Gain 4➜8% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+50 Coins"
           ]
@@ -2346,7 +2346,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Conjurer III   Gain 8➜12% more experience orbs from any source.",
+            "Conjurer 3   Gain 8➜12% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "Access to the Wizard Portal",
             "+100 Coins"
@@ -2356,7 +2356,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Conjurer IV   Gain 12➜16% more experience orbs from any source.",
+            "Conjurer 4   Gain 12➜16% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+200 Coins"
           ]
@@ -2365,7 +2365,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Conjurer V   Gain 16➜20% more experience orbs from any source.",
+            "Conjurer 5   Gain 16➜20% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+300 Coins"
           ]
@@ -2374,7 +2374,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Conjurer VI   Gain 20➜24% more experience orbs from any source.",
+            "Conjurer 6   Gain 20➜24% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+400 Coins"
           ]
@@ -2383,7 +2383,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Conjurer VII   Gain 24➜28% more experience orbs from any source.",
+            "Conjurer 7   Gain 24➜28% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+500 Coins"
           ]
@@ -2392,7 +2392,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Conjurer VIII   Gain 28➜32% more experience orbs from any source.",
+            "Conjurer 8   Gain 28➜32% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+600 Coins"
           ]
@@ -2401,7 +2401,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Conjurer IX   Gain 32➜36% more experience orbs from any source.",
+            "Conjurer 9   Gain 32➜36% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+700 Coins"
           ]
@@ -2410,7 +2410,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Conjurer X   Gain 36➜40% more experience orbs from any source.",
+            "Conjurer 10   Gain 36➜40% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+800 Coins"
           ]
@@ -2419,7 +2419,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Conjurer XI   Gain 40➜44% more experience orbs from any source.",
+            "Conjurer 11   Gain 40➜44% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+900 Coins"
           ]
@@ -2428,7 +2428,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Conjurer XII   Gain 44➜48% more experience orbs from any source.",
+            "Conjurer 12   Gain 44➜48% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+1,000 Coins"
           ]
@@ -2437,7 +2437,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Conjurer XIII   Gain 48➜52% more experience orbs from any source.",
+            "Conjurer 13   Gain 48➜52% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+1,100 Coins"
           ]
@@ -2446,7 +2446,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Conjurer XIV   Gain 52➜56% more experience orbs from any source.",
+            "Conjurer 14   Gain 52➜56% more experience orbs from any source.",
             "+1 ✎ Intelligence",
             "+1,200 Coins"
           ]
@@ -2455,7 +2455,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Conjurer XV   Gain 56➜60% more experience orbs from any source.",
+            "Conjurer 15   Gain 56➜60% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+1,300 Coins"
           ]
@@ -2464,7 +2464,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Conjurer XVI   Gain 60➜64% more experience orbs from any source.",
+            "Conjurer 16   Gain 60➜64% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+1,400 Coins"
           ]
@@ -2473,7 +2473,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Conjurer XVII   Gain 64➜68% more experience orbs from any source.",
+            "Conjurer 17   Gain 64➜68% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+1,500 Coins"
           ]
@@ -2482,7 +2482,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Conjurer XVIII   Gain 68➜72% more experience orbs from any source.",
+            "Conjurer 18   Gain 68➜72% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+1,600 Coins"
           ]
@@ -2491,7 +2491,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Conjurer XIX   Gain 72➜76% more experience orbs from any source.",
+            "Conjurer 19   Gain 72➜76% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+1,800 Coins"
           ]
@@ -2500,7 +2500,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Conjurer XX   Gain 76➜80% more experience orbs from any source.",
+            "Conjurer 20   Gain 76➜80% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+2,000 Coins"
           ]
@@ -2509,7 +2509,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Conjurer XXI   Gain 80➜84% more experience orbs from any source.",
+            "Conjurer 21   Gain 80➜84% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+2,200 Coins"
           ]
@@ -2518,7 +2518,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Conjurer XXII   Gain 84➜88% more experience orbs from any source.",
+            "Conjurer 22   Gain 84➜88% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+2,400 Coins"
           ]
@@ -2527,7 +2527,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Conjurer XXIII   Gain 88➜92% more experience orbs from any source.",
+            "Conjurer 23   Gain 88➜92% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+2,600 Coins"
           ]
@@ -2536,7 +2536,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Conjurer XXIV   Gain 92➜96% more experience orbs from any source.",
+            "Conjurer 24   Gain 92➜96% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+2,800 Coins"
           ]
@@ -2545,7 +2545,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Conjurer XXV   Gain 96➜100% more experience orbs from any source.",
+            "Conjurer 25   Gain 96➜100% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+3,000 Coins"
           ]
@@ -2554,7 +2554,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Conjurer XXVI   Gain 100➜104% more experience orbs from any source.",
+            "Conjurer 26   Gain 100➜104% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+3,500 Coins"
           ]
@@ -2563,7 +2563,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Conjurer XXVII   Gain 104➜108% more experience orbs from any source.",
+            "Conjurer 27   Gain 104➜108% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+4,000 Coins"
           ]
@@ -2572,7 +2572,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Conjurer XXVIII   Gain 108➜112% more experience orbs from any source.",
+            "Conjurer 28   Gain 108➜112% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+5,000 Coins"
           ]
@@ -2581,7 +2581,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Conjurer XXIX   Gain 112➜116% more experience orbs from any source.",
+            "Conjurer 29   Gain 112➜116% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+6,000 Coins"
           ]
@@ -2590,7 +2590,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Conjurer XXX   Gain 116➜120% more experience orbs from any source.",
+            "Conjurer 30   Gain 116➜120% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+7,500 Coins"
           ]
@@ -2599,7 +2599,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Conjurer XXXI   Gain 120➜124% more experience orbs from any source.",
+            "Conjurer 31   Gain 120➜124% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+10,000 Coins"
           ]
@@ -2608,7 +2608,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Conjurer XXXII   Gain 124➜128% more experience orbs from any source.",
+            "Conjurer 32   Gain 124➜128% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+12,500 Coins"
           ]
@@ -2617,7 +2617,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Conjurer XXXIII   Gain 128➜132% more experience orbs from any source.",
+            "Conjurer 33   Gain 128➜132% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+15,000 Coins"
           ]
@@ -2626,7 +2626,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Conjurer XXXIV   Gain 132➜136% more experience orbs from any source.",
+            "Conjurer 34   Gain 132➜136% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+17,500 Coins"
           ]
@@ -2635,7 +2635,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Conjurer XXXV   Gain 136➜140% more experience orbs from any source.",
+            "Conjurer 35   Gain 136➜140% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+20,000 Coins"
           ]
@@ -2644,7 +2644,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Conjurer XXXVI   Gain 140➜144% more experience orbs from any source.",
+            "Conjurer 36   Gain 140➜144% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+25,000 Coins"
           ]
@@ -2653,7 +2653,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Conjurer XXXVII   Gain 144➜148% more experience orbs from any source.",
+            "Conjurer 37   Gain 144➜148% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+30,000 Coins"
           ]
@@ -2662,7 +2662,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Conjurer XXXVIII   Gain 148➜152% more experience orbs from any source.",
+            "Conjurer 38   Gain 148➜152% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+35,000 Coins"
           ]
@@ -2671,7 +2671,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Conjurer XXXIX   Gain 152➜156% more experience orbs from any source.",
+            "Conjurer 39   Gain 152➜156% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+40,000 Coins"
           ]
@@ -2680,7 +2680,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Conjurer XL   Gain 156➜160% more experience orbs from any source.",
+            "Conjurer 40   Gain 156➜160% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+45,000 Coins"
           ]
@@ -2689,7 +2689,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Conjurer XLI   Gain 160➜164% more experience orbs from any source.",
+            "Conjurer 41   Gain 160➜164% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+50,000 Coins"
           ]
@@ -2698,7 +2698,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Conjurer XLII   Gain 164➜168% more experience orbs from any source.",
+            "Conjurer 42   Gain 164➜168% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+60,000 Coins"
           ]
@@ -2707,7 +2707,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Conjurer XLIII   Gain 168➜172% more experience orbs from any source.",
+            "Conjurer 43   Gain 168➜172% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+70,000 Coins"
           ]
@@ -2716,7 +2716,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Conjurer XLIV   Gain 172➜176% more experience orbs from any source.",
+            "Conjurer 44   Gain 172➜176% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+80,000 Coins"
           ]
@@ -2725,7 +2725,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Conjurer XLV   Gain 176➜180% more experience orbs from any source.",
+            "Conjurer 45   Gain 176➜180% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+90,000 Coins"
           ]
@@ -2734,7 +2734,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Conjurer XLVI   Gain 180➜184% more experience orbs from any source.",
+            "Conjurer 46   Gain 180➜184% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+100,000 Coins"
           ]
@@ -2743,7 +2743,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Conjurer XLVII   Gain 184➜188% more experience orbs from any source.",
+            "Conjurer 47   Gain 184➜188% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+125,000 Coins"
           ]
@@ -2752,7 +2752,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Conjurer XLVIII   Gain 188➜192% more experience orbs from any source.",
+            "Conjurer 48   Gain 188➜192% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+150,000 Coins"
           ]
@@ -2761,7 +2761,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Conjurer XLIX   Gain 192➜196% more experience orbs from any source.",
+            "Conjurer 49   Gain 192➜196% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+175,000 Coins"
           ]
@@ -2770,7 +2770,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Conjurer L   Gain 196➜200% more experience orbs from any source.",
+            "Conjurer 50   Gain 196➜200% more experience orbs from any source.",
             "+2 ✎ Intelligence",
             "+200,000 Coins"
           ]
@@ -2786,7 +2786,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Brewer I   Potions that you brew have a 1% longer duration.",
+            "Brewer 1   Potions that you brew have a 1% longer duration.",
             "+1 ✎ Intelligence",
             "+25 Coins"
           ]
@@ -2795,7 +2795,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Brewer II   Potions that you brew have a 1➜2% longer duration.",
+            "Brewer 2   Potions that you brew have a 1➜2% longer duration.",
             "+1 ✎ Intelligence",
             "+50 Coins"
           ]
@@ -2804,7 +2804,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Brewer III   Potions that you brew have a 2➜3% longer duration.",
+            "Brewer 3   Potions that you brew have a 2➜3% longer duration.",
             "+1 ✎ Intelligence",
             "+100 Coins"
           ]
@@ -2813,7 +2813,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Brewer IV   Potions that you brew have a 3➜4% longer duration.",
+            "Brewer 4   Potions that you brew have a 3➜4% longer duration.",
             "+1 ✎ Intelligence",
             "+200 Coins"
           ]
@@ -2822,7 +2822,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Brewer V   Potions that you brew have a 4➜5% longer duration.",
+            "Brewer 5   Potions that you brew have a 4➜5% longer duration.",
             "+1 ✎ Intelligence",
             "+300 Coins"
           ]
@@ -2831,7 +2831,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Brewer VI   Potions that you brew have a 5➜6% longer duration.",
+            "Brewer 6   Potions that you brew have a 5➜6% longer duration.",
             "+1 ✎ Intelligence",
             "+400 Coins"
           ]
@@ -2840,7 +2840,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Brewer VII   Potions that you brew have a 6➜7% longer duration.",
+            "Brewer 7   Potions that you brew have a 6➜7% longer duration.",
             "+1 ✎ Intelligence",
             "+500 Coins"
           ]
@@ -2849,7 +2849,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Brewer VIII   Potions that you brew have a 7➜8% longer duration.",
+            "Brewer 8   Potions that you brew have a 7➜8% longer duration.",
             "+1 ✎ Intelligence",
             "+600 Coins"
           ]
@@ -2858,7 +2858,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Brewer IX   Potions that you brew have a 8➜9% longer duration.",
+            "Brewer 9   Potions that you brew have a 8➜9% longer duration.",
             "+1 ✎ Intelligence",
             "+700 Coins"
           ]
@@ -2867,7 +2867,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Brewer X   Potions that you brew have a 9➜10% longer duration.",
+            "Brewer 10   Potions that you brew have a 9➜10% longer duration.",
             "+1 ✎ Intelligence",
             "+800 Coins"
           ]
@@ -2876,7 +2876,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Brewer XI   Potions that you brew have a 10➜11% longer duration.",
+            "Brewer 11   Potions that you brew have a 10➜11% longer duration.",
             "+1 ✎ Intelligence",
             "+900 Coins"
           ]
@@ -2885,7 +2885,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Brewer XII   Potions that you brew have a 11➜12% longer duration.",
+            "Brewer 12   Potions that you brew have a 11➜12% longer duration.",
             "+1 ✎ Intelligence",
             "+1,000 Coins"
           ]
@@ -2894,7 +2894,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Brewer XIII   Potions that you brew have a 12➜13% longer duration.",
+            "Brewer 13   Potions that you brew have a 12➜13% longer duration.",
             "+1 ✎ Intelligence",
             "+1,100 Coins"
           ]
@@ -2903,7 +2903,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Brewer XIV   Potions that you brew have a 13➜14% longer duration.",
+            "Brewer 14   Potions that you brew have a 13➜14% longer duration.",
             "+1 ✎ Intelligence",
             "+1,200 Coins"
           ]
@@ -2912,7 +2912,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Brewer XV   Potions that you brew have a 14➜15% longer duration.",
+            "Brewer 15   Potions that you brew have a 14➜15% longer duration.",
             "+2 ✎ Intelligence",
             "+1,300 Coins"
           ]
@@ -2921,7 +2921,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Brewer XVI   Potions that you brew have a 15➜16% longer duration.",
+            "Brewer 16   Potions that you brew have a 15➜16% longer duration.",
             "+2 ✎ Intelligence",
             "+1,400 Coins"
           ]
@@ -2930,7 +2930,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Brewer XVII   Potions that you brew have a 16➜17% longer duration.",
+            "Brewer 17   Potions that you brew have a 16➜17% longer duration.",
             "+2 ✎ Intelligence",
             "+1,500 Coins"
           ]
@@ -2939,7 +2939,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Brewer XVIII   Potions that you brew have a 17➜18% longer duration.",
+            "Brewer 18   Potions that you brew have a 17➜18% longer duration.",
             "+2 ✎ Intelligence",
             "+1,600 Coins"
           ]
@@ -2948,7 +2948,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Brewer XIX   Potions that you brew have a 18➜19% longer duration.",
+            "Brewer 19   Potions that you brew have a 18➜19% longer duration.",
             "+2 ✎ Intelligence",
             "+1,800 Coins"
           ]
@@ -2957,7 +2957,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Brewer XX   Potions that you brew have a 19➜20% longer duration.",
+            "Brewer 20   Potions that you brew have a 19➜20% longer duration.",
             "+2 ✎ Intelligence",
             "+2,000 Coins"
           ]
@@ -2966,7 +2966,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Brewer XXI   Potions that you brew have a 20➜21% longer duration.",
+            "Brewer 21   Potions that you brew have a 20➜21% longer duration.",
             "+2 ✎ Intelligence",
             "+2,200 Coins"
           ]
@@ -2975,7 +2975,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Brewer XXII   Potions that you brew have a 21➜22% longer duration.",
+            "Brewer 22   Potions that you brew have a 21➜22% longer duration.",
             "+2 ✎ Intelligence",
             "+2,400 Coins"
           ]
@@ -2984,7 +2984,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Brewer XXIII   Potions that you brew have a 22➜23% longer duration.",
+            "Brewer 23   Potions that you brew have a 22➜23% longer duration.",
             "+2 ✎ Intelligence",
             "+2,600 Coins"
           ]
@@ -2993,7 +2993,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Brewer XXIV   Potions that you brew have a 23➜24% longer duration.",
+            "Brewer 24   Potions that you brew have a 23➜24% longer duration.",
             "+2 ✎ Intelligence",
             "+2,800 Coins"
           ]
@@ -3002,7 +3002,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Brewer XXV   Potions that you brew have a 24➜25% longer duration.",
+            "Brewer 25   Potions that you brew have a 24➜25% longer duration.",
             "+2 ✎ Intelligence",
             "+3,000 Coins"
           ]
@@ -3011,7 +3011,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Brewer XXVI   Potions that you brew have a 25➜26% longer duration.",
+            "Brewer 26   Potions that you brew have a 25➜26% longer duration.",
             "+2 ✎ Intelligence",
             "+3,500 Coins"
           ]
@@ -3020,7 +3020,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Brewer XXVII   Potions that you brew have a 26➜27% longer duration.",
+            "Brewer 27   Potions that you brew have a 26➜27% longer duration.",
             "+2 ✎ Intelligence",
             "+4,000 Coins"
           ]
@@ -3029,7 +3029,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Brewer XXVIII   Potions that you brew have a 27➜28% longer duration.",
+            "Brewer 28   Potions that you brew have a 27➜28% longer duration.",
             "+2 ✎ Intelligence",
             "+5,000 Coins"
           ]
@@ -3038,7 +3038,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Brewer XXIX   Potions that you brew have a 28➜29% longer duration.",
+            "Brewer 29   Potions that you brew have a 28➜29% longer duration.",
             "+2 ✎ Intelligence",
             "+6,000 Coins"
           ]
@@ -3047,7 +3047,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Brewer XXX   Potions that you brew have a 29➜30% longer duration.",
+            "Brewer 30   Potions that you brew have a 29➜30% longer duration.",
             "+2 ✎ Intelligence",
             "+7,500 Coins"
           ]
@@ -3056,7 +3056,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Brewer XXXI   Potions that you brew have a 30➜31% longer duration.",
+            "Brewer 31   Potions that you brew have a 30➜31% longer duration.",
             "+2 ✎ Intelligence",
             "+10,000 Coins"
           ]
@@ -3065,7 +3065,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Brewer XXXII   Potions that you brew have a 31➜32% longer duration.",
+            "Brewer 32   Potions that you brew have a 31➜32% longer duration.",
             "+2 ✎ Intelligence",
             "+12,500 Coins"
           ]
@@ -3074,7 +3074,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Brewer XXXIII   Potions that you brew have a 32➜33% longer duration.",
+            "Brewer 33   Potions that you brew have a 32➜33% longer duration.",
             "+2 ✎ Intelligence",
             "+15,000 Coins"
           ]
@@ -3083,7 +3083,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Brewer XXXIV   Potions that you brew have a 33➜34% longer duration.",
+            "Brewer 34   Potions that you brew have a 33➜34% longer duration.",
             "+2 ✎ Intelligence",
             "+17,500 Coins"
           ]
@@ -3092,7 +3092,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Brewer XXXV   Potions that you brew have a 34➜35% longer duration.",
+            "Brewer 35   Potions that you brew have a 34➜35% longer duration.",
             "+2 ✎ Intelligence",
             "+20,000 Coins"
           ]
@@ -3101,7 +3101,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Brewer XXXVI   Potions that you brew have a 35➜36% longer duration.",
+            "Brewer 36   Potions that you brew have a 35➜36% longer duration.",
             "+2 ✎ Intelligence",
             "+25,000 Coins"
           ]
@@ -3110,7 +3110,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Brewer XXXVII   Potions that you brew have a 36➜37% longer duration.",
+            "Brewer 37   Potions that you brew have a 36➜37% longer duration.",
             "+2 ✎ Intelligence",
             "+30,000 Coins"
           ]
@@ -3119,7 +3119,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Brewer XXXVIII   Potions that you brew have a 37➜38% longer duration.",
+            "Brewer 38   Potions that you brew have a 37➜38% longer duration.",
             "+2 ✎ Intelligence",
             "+35,000 Coins"
           ]
@@ -3128,7 +3128,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Brewer XXXIX   Potions that you brew have a 38➜39% longer duration.",
+            "Brewer 39   Potions that you brew have a 38➜39% longer duration.",
             "+2 ✎ Intelligence",
             "+40,000 Coins"
           ]
@@ -3137,7 +3137,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Brewer XL   Potions that you brew have a 39➜40% longer duration.",
+            "Brewer 40   Potions that you brew have a 39➜40% longer duration.",
             "+2 ✎ Intelligence",
             "+45,000 Coins"
           ]
@@ -3146,7 +3146,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Brewer XLI   Potions that you brew have a 40➜41% longer duration.",
+            "Brewer 41   Potions that you brew have a 40➜41% longer duration.",
             "+2 ✎ Intelligence",
             "+50,000 Coins"
           ]
@@ -3155,7 +3155,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Brewer XLII   Potions that you brew have a 41➜42% longer duration.",
+            "Brewer 42   Potions that you brew have a 41➜42% longer duration.",
             "+2 ✎ Intelligence",
             "+60,000 Coins"
           ]
@@ -3164,7 +3164,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Brewer XLIII   Potions that you brew have a 42➜43% longer duration.",
+            "Brewer 43   Potions that you brew have a 42➜43% longer duration.",
             "+2 ✎ Intelligence",
             "+70,000 Coins"
           ]
@@ -3173,7 +3173,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Brewer XLIV   Potions that you brew have a 43➜44% longer duration.",
+            "Brewer 44   Potions that you brew have a 43➜44% longer duration.",
             "+2 ✎ Intelligence",
             "+80,000 Coins"
           ]
@@ -3182,7 +3182,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Brewer XLV   Potions that you brew have a 44➜45% longer duration.",
+            "Brewer 45   Potions that you brew have a 44➜45% longer duration.",
             "+2 ✎ Intelligence",
             "+90,000 Coins"
           ]
@@ -3191,7 +3191,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Brewer XLVI   Potions that you brew have a 45➜46% longer duration.",
+            "Brewer 46   Potions that you brew have a 45➜46% longer duration.",
             "+2 ✎ Intelligence",
             "+100,000 Coins"
           ]
@@ -3200,7 +3200,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Brewer XLVII   Potions that you brew have a 46➜47% longer duration.",
+            "Brewer 47   Potions that you brew have a 46➜47% longer duration.",
             "+2 ✎ Intelligence",
             "+125,000 Coins"
           ]
@@ -3209,7 +3209,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Brewer XLVIII   Potions that you brew have a 47➜48% longer duration.",
+            "Brewer 48   Potions that you brew have a 47➜48% longer duration.",
             "+2 ✎ Intelligence",
             "+150,000 Coins"
           ]
@@ -3218,7 +3218,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Brewer XLIX   Potions that you brew have a 48➜49% longer duration.",
+            "Brewer 49   Potions that you brew have a 48➜49% longer duration.",
             "+2 ✎ Intelligence",
             "+175,000 Coins"
           ]
@@ -3227,7 +3227,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Brewer L   Potions that you brew have a 49➜50% longer duration.",
+            "Brewer 50   Potions that you brew have a 49➜50% longer duration.",
             "+2 ✎ Intelligence",
             "+200,000 Coins"
           ]
@@ -3786,7 +3786,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Zoologist I   Gain 1% extra pet exp.",
+            "Zoologist 1   Gain 1% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+25 Coins"
           ]
@@ -3795,7 +3795,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Zoologist II   Gain 1➜2% extra pet exp.",
+            "Zoologist 2   Gain 1➜2% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+50 Coins"
           ]
@@ -3804,7 +3804,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Zoologist III   Gain 2➜3% extra pet exp.",
+            "Zoologist 3   Gain 2➜3% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+100 Coins"
           ]
@@ -3813,7 +3813,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Zoologist IV   Gain 3➜4% extra pet exp.",
+            "Zoologist 4   Gain 3➜4% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+200 Coins"
           ]
@@ -3822,7 +3822,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Zoologist V   Gain 4➜5% extra pet exp.",
+            "Zoologist 5   Gain 4➜5% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+300 Coins"
           ]
@@ -3831,7 +3831,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Zoologist VI   Gain 5➜6% extra pet exp.",
+            "Zoologist 6   Gain 5➜6% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+400 Coins"
           ]
@@ -3840,7 +3840,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Zoologist VII   Gain 6➜7% extra pet exp.",
+            "Zoologist 7   Gain 6➜7% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+500 Coins"
           ]
@@ -3849,7 +3849,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Zoologist VIII   Gain 7➜8% extra pet exp.",
+            "Zoologist 8   Gain 7➜8% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+600 Coins"
           ]
@@ -3858,7 +3858,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Zoologist IX   Gain 8➜9% extra pet exp.",
+            "Zoologist 9   Gain 8➜9% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+700 Coins"
           ]
@@ -3867,7 +3867,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Zoologist X   Gain 9➜10% extra pet exp.",
+            "Zoologist 10   Gain 9➜10% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+800 Coins"
           ]
@@ -3876,7 +3876,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Zoologist XI   Gain 10➜11% extra pet exp.",
+            "Zoologist 11   Gain 10➜11% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+900 Coins"
           ]
@@ -3885,7 +3885,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Zoologist XII   Gain 11➜12% extra pet exp.",
+            "Zoologist 12   Gain 11➜12% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,000 Coins"
           ]
@@ -3894,7 +3894,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Zoologist XIII   Gain 12➜13% extra pet exp.",
+            "Zoologist 13   Gain 12➜13% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,100 Coins"
           ]
@@ -3903,7 +3903,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Zoologist XIV   Gain 13➜14% extra pet exp.",
+            "Zoologist 14   Gain 13➜14% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,200 Coins"
           ]
@@ -3912,7 +3912,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Zoologist XV   Gain 14➜15% extra pet exp.",
+            "Zoologist 15   Gain 14➜15% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,300 Coins"
           ]
@@ -3921,7 +3921,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Zoologist XVI   Gain 15➜16% extra pet exp.",
+            "Zoologist 16   Gain 15➜16% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,400 Coins"
           ]
@@ -3930,7 +3930,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Zoologist XVII   Gain 16➜17% extra pet exp.",
+            "Zoologist 17   Gain 16➜17% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,500 Coins"
           ]
@@ -3939,7 +3939,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Zoologist XVIII   Gain 17➜18% extra pet exp.",
+            "Zoologist 18   Gain 17➜18% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,600 Coins"
           ]
@@ -3948,7 +3948,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Zoologist XIX   Gain 18➜19% extra pet exp.",
+            "Zoologist 19   Gain 18➜19% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+1,800 Coins"
           ]
@@ -3957,7 +3957,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Zoologist XX   Gain 19➜20% extra pet exp.",
+            "Zoologist 20   Gain 19➜20% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+2,000 Coins"
           ]
@@ -3966,7 +3966,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Zoologist XXI   Gain 20➜21% extra pet exp.",
+            "Zoologist 21   Gain 20➜21% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+2,200 Coins"
           ]
@@ -3975,7 +3975,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Zoologist XXII   Gain 21➜22% extra pet exp.",
+            "Zoologist 22   Gain 21➜22% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+2,400 Coins"
           ]
@@ -3984,7 +3984,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Zoologist XXIII   Gain 22➜23% extra pet exp.",
+            "Zoologist 23   Gain 22➜23% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+2,600 Coins"
           ]
@@ -3993,7 +3993,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Zoologist XXIV   Gain 23➜24% extra pet exp.",
+            "Zoologist 24   Gain 23➜24% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+2,800 Coins"
           ]
@@ -4002,7 +4002,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Zoologist XXV   Gain 24➜25% extra pet exp.",
+            "Zoologist 25   Gain 24➜25% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+3,000 Coins"
           ]
@@ -4011,7 +4011,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Zoologist XXVI   Gain 25➜26% extra pet exp.",
+            "Zoologist 26   Gain 25➜26% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+3,500 Coins"
           ]
@@ -4020,7 +4020,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Zoologist XXVII   Gain 26➜27% extra pet exp.",
+            "Zoologist 27   Gain 26➜27% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+4,000 Coins"
           ]
@@ -4029,7 +4029,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Zoologist XXVIII   Gain 27➜28% extra pet exp.",
+            "Zoologist 28   Gain 27➜28% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+5,000 Coins"
           ]
@@ -4038,7 +4038,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Zoologist XXIX   Gain 28➜29% extra pet exp.",
+            "Zoologist 29   Gain 28➜29% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+6,000 Coins"
           ]
@@ -4047,7 +4047,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Zoologist XXX   Gain 29➜30% extra pet exp.",
+            "Zoologist 30   Gain 29➜30% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+7,500 Coins"
           ]
@@ -4056,7 +4056,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Zoologist XXXI   Gain 30➜31% extra pet exp.",
+            "Zoologist 31   Gain 30➜31% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+10,000 Coins"
           ]
@@ -4065,7 +4065,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Zoologist XXXII   Gain 31➜32% extra pet exp.",
+            "Zoologist 32   Gain 31➜32% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+12,500 Coins"
           ]
@@ -4074,7 +4074,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Zoologist XXXIII   Gain 32➜33% extra pet exp.",
+            "Zoologist 33   Gain 32➜33% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+15,000 Coins"
           ]
@@ -4083,7 +4083,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Zoologist XXXIV   Gain 33➜34% extra pet exp.",
+            "Zoologist 34   Gain 33➜34% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+17,500 Coins"
           ]
@@ -4092,7 +4092,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Zoologist XXXV   Gain 34➜35% extra pet exp.",
+            "Zoologist 35   Gain 34➜35% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+20,000 Coins"
           ]
@@ -4101,7 +4101,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Zoologist XXXVI   Gain 35➜36% extra pet exp.",
+            "Zoologist 36   Gain 35➜36% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+25,000 Coins"
           ]
@@ -4110,7 +4110,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Zoologist XXXVII   Gain 36➜37% extra pet exp.",
+            "Zoologist 37   Gain 36➜37% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+30,000 Coins"
           ]
@@ -4119,7 +4119,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Zoologist XXXVIII   Gain 37➜38% extra pet exp.",
+            "Zoologist 38   Gain 37➜38% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+35,000 Coins"
           ]
@@ -4128,7 +4128,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Zoologist XXXIX   Gain 38➜39% extra pet exp.",
+            "Zoologist 39   Gain 38➜39% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+40,000 Coins"
           ]
@@ -4137,7 +4137,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Zoologist XL   Gain 39➜40% extra pet exp.",
+            "Zoologist 40   Gain 39➜40% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+45,000 Coins"
           ]
@@ -4146,7 +4146,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Zoologist XLI   Gain 40➜41% extra pet exp.",
+            "Zoologist 41   Gain 40➜41% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+50,000 Coins"
           ]
@@ -4155,7 +4155,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Zoologist XLII   Gain 41➜42% extra pet exp.",
+            "Zoologist 42   Gain 41➜42% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+60,000 Coins"
           ]
@@ -4164,7 +4164,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Zoologist XLIII   Gain 42➜43% extra pet exp.",
+            "Zoologist 43   Gain 42➜43% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+70,000 Coins"
           ]
@@ -4173,7 +4173,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Zoologist XLIV   Gain 43➜44% extra pet exp.",
+            "Zoologist 44   Gain 43➜44% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+80,000 Coins"
           ]
@@ -4182,7 +4182,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Zoologist XLV   Gain 44➜45% extra pet exp.",
+            "Zoologist 45   Gain 44➜45% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+90,000 Coins"
           ]
@@ -4191,7 +4191,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Zoologist XLVI   Gain 45➜46% extra pet exp.",
+            "Zoologist 46   Gain 45➜46% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+100,000 Coins"
           ]
@@ -4200,7 +4200,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Zoologist XLVII   Gain 46➜47% extra pet exp.",
+            "Zoologist 47   Gain 46➜47% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+125,000 Coins"
           ]
@@ -4209,7 +4209,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Zoologist XLVIII   Gain 47➜48% extra pet exp.",
+            "Zoologist 48   Gain 47➜48% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+150,000 Coins"
           ]
@@ -4218,7 +4218,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Zoologist XLIX   Gain 48➜49% extra pet exp.",
+            "Zoologist 49   Gain 48➜49% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+175,000 Coins"
           ]
@@ -4227,7 +4227,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Zoologist L   Gain 49➜50% extra pet exp.",
+            "Zoologist 50   Gain 49➜50% extra pet exp.",
             "+1 ♣ Pet Luck",
             "+200,000 Coins"
           ]

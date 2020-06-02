@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1590960602516,
-  "version": "0.7.399",
+  "lastUpdated": 1591079402518,
+  "version": "0.7.402",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1123,7 +1123,7 @@
         },
         "NETHER_STALK": {
           "name": "Nether Wart",
-          "maxTiers": 9,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -1186,6 +1186,20 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Potion Affinity Artifact Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 75000,
+              "unlocks": [
+                "Giant Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Massive Potion Bag Upgrade"
               ]
             }
           ]
@@ -2506,7 +2520,8 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Infinite Quiver IV) Recipe"
+                "Enchanted Book (Infinite Quiver IV) Recipe",
+                "Large Quiver Upgrade"
               ]
             },
             {
@@ -2527,7 +2542,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Spider Pet Recipe"
+                "Mystery Spider Pet Recipe",
+                "Giant Quiver Upgrade"
               ]
             }
           ]
@@ -3453,7 +3469,7 @@
       "items": {
         "RAW_FISH": {
           "name": "Raw Fish",
-          "maxTiers": 9,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -3519,6 +3535,20 @@
               "amountRequired": 30000,
               "unlocks": [
                 "Large Fishing Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 45000,
+              "unlocks": [
+                "Giant Fishing Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 60000,
+              "unlocks": [
+                "Massive Fishing Bag Upgrade"
               ]
             }
           ]

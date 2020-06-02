@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1590716702514,
+  "lastUpdated": 1591109102659,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5212,7 +5212,7 @@
         },
         "KILL_IN_RAPID_TRANSPORT": {
           "points": 10,
-          "name": "Totally Tubulur",
+          "name": "Totally Tubular",
           "description": "Kill another player whilst using Rapid Transport on Transport"
         },
         "BLOCK_WITH_BARRIER": {
@@ -6219,7 +6219,7 @@
         },
         "STAY_ON_KOTH": {
           "points": 10,
-          "name": "Not much of an Hill",
+          "name": "Not much of a Hill",
           "description": "Stay on a single KOTH for 200 seconds on a server with at least 50 players"
         },
         "HIGH_KILLSTREAK": {
@@ -10603,7 +10603,7 @@
         "MUSIC": {
           "points": 5,
           "name": "Make music not war!",
-          "description": "Craft a Jukebox and play a music disk"
+          "description": "Craft a Jukebox and play a music disc"
         },
         "ROBIN_HOOD": {
           "points": 15,
@@ -11591,8 +11591,8 @@
         },
         "EMP": {
           "points": 10,
-          "name": "EMP",
-          "description": "Affect 6 enemies with a single A-23 Protocol"
+          "name": "Short Circuit",
+          "description": "Siphon energy from 6 enemies with one of EMP's pulses as Automaton"
         },
         "RECYCLING": {
           "points": 10,
@@ -11672,7 +11672,7 @@
         "FAILED_EXPERIMENT": {
           "points": 10,
           "name": "Failed Experiment",
-          "description": "Cast A-23 Protocol on 2 enemies with 0 energy during deathmatch"
+          "description": "Cast EMP on 2 enemies with 0 energy during deathmatch"
         },
         "TO_INFINITY": {
           "points": 10,

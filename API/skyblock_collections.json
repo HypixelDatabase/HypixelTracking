@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1591503726023,
-  "version": "0.7.425",
+  "lastUpdated": 1591508225994,
+  "version": "0.7.433",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -45,7 +45,8 @@
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Bread Recipe"
+                "Enchanted Bread Recipe",
+                "Small Agronomy Sack Recipe"
               ]
             },
             {
@@ -59,7 +60,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Hay Bale Recipe"
+                "Enchanted Hay Bale Recipe",
+                "Medium Agronomy Sack Recipe"
               ]
             },
             {
@@ -76,7 +78,8 @@
                 "Farm Armor Helmet Recipe",
                 "Farm Armor Chestplate Recipe",
                 "Farm Armor Leggings Recipe",
-                "Farm Armor Boots Recipe"
+                "Farm Armor Boots Recipe",
+                "Large Agronomy Sack Recipe"
               ]
             }
           ]
@@ -1019,7 +1022,8 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Mutton Recipe"
+                "Enchanted Mutton Recipe",
+                "Small Husbandry Sack Recipe"
               ]
             },
             {
@@ -1033,7 +1037,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Mystery Sheep Pet Recipe"
+                "Mystery Sheep Pet Recipe",
+                "Medium Husbandry Sack Recipe"
               ]
             },
             {
@@ -1047,7 +1052,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Polymorph Wand (COMING SOON)"
+                "Polymorph Wand (COMING SOON)",
+                "Large Husbandry Sack Recipe"
               ]
             }
           ]
@@ -1318,7 +1324,8 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Charcoal Recipe"
+                "Enchanted Charcoal Recipe",
+                "Small Mining Sack Recipe"
               ]
             },
             {
@@ -1332,7 +1339,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Block of Coal Recipe"
+                "Enchanted Block of Coal Recipe",
+                "Medium Mining Sack Recipe"
               ]
             },
             {
@@ -1346,7 +1354,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Wither Skeleton Pet Recipe"
+                "Mystery Wither Skeleton Pet Recipe",
+                "Large Mining Sack Recipe"
               ]
             }
           ]
@@ -1780,7 +1789,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Large Accessory Bag Upgrade"
+                "Large Accessory Bag Upgrade",
+                "Personal Compactor 4000 Recipe"
               ]
             },
             {
@@ -1794,7 +1804,8 @@
               "tier": 11,
               "amountRequired": 400000,
               "unlocks": [
-                "Giant Accessory Bag Upgrade"
+                "Giant Accessory Bag Upgrade",
+                "Personal Compactor 5000 Recipe"
               ]
             },
             {
@@ -1808,7 +1819,8 @@
               "tier": 13,
               "amountRequired": 800000,
               "unlocks": [
-                "Humongous Accessory Bag Upgrade"
+                "Humongous Accessory Bag Upgrade",
+                "Personal Compactor 6000 Recipe"
               ]
             }
           ]
@@ -2374,7 +2386,8 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Zombie Hat Recipe"
+                "Zombie Hat Recipe",
+                "Small Combat Sack Recipe"
               ]
             },
             {
@@ -2388,7 +2401,8 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Zombie Sword Recipe"
+                "Zombie Sword Recipe",
+                "Medium Combat Sack Recipe"
               ]
             },
             {
@@ -2404,7 +2418,8 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Zombie Pet Recipe"
+                "Mystery Zombie Pet Recipe",
+                "Large Combat Sack Recipe"
               ]
             }
           ]
@@ -3220,7 +3235,8 @@
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Birch Forest Biome Stick Recipe"
+                "Birch Forest Biome Stick Recipe",
+                "Small Foraging Sack Recipe"
               ]
             },
             {
@@ -3234,7 +3250,8 @@
               "tier": 7,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Birch Wood Recipe"
+                "Enchanted Birch Wood Recipe",
+                "Medium Foraging Sack Recipe"
               ]
             },
             {
@@ -3248,7 +3265,8 @@
               "tier": 9,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to The Park Recipe"
+                "Travel Scroll to The Park Recipe",
+                "Large Foraging Sack Recipe"
               ]
             }
           ]
@@ -3625,7 +3643,7 @@
         },
         "RAW_FISH:2": {
           "name": "Clownfish",
-          "maxTiers": 3,
+          "maxTiers": 7,
           "tiers": [
             {
               "tier": 1,
@@ -3647,12 +3665,40 @@
               "unlocks": [
                 "Enchanted Book (Magnet IV) Recipe"
               ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Small Sack of Sacks Upgrade"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 150,
+              "unlocks": [
+                "Medium Sack of Sacks Upgrade"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 400,
+              "unlocks": [
+                "Large Sack of Sacks Upgrade"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 800,
+              "unlocks": [
+                "Greater Sack of Sacks Upgrade"
+              ]
             }
           ]
         },
         "RAW_FISH:3": {
           "name": "Pufferfish",
-          "maxTiers": 6,
+          "maxTiers": 9,
           "tiers": [
             {
               "tier": 1,
@@ -3686,7 +3732,8 @@
               "tier": 5,
               "amountRequired": 400,
               "unlocks": [
-                "Spiked Bait Recipe"
+                "Spiked Bait Recipe",
+                "Small Fishing Sack Recipe"
               ]
             },
             {
@@ -3694,6 +3741,27 @@
               "amountRequired": 800,
               "unlocks": [
                 "Enchanted Book (Spiked Hook IV) Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 2400,
+              "unlocks": [
+                "Medium Fishing Sack Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 4800,
+              "unlocks": [
+                "Puffer Boat (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 9000,
+              "unlocks": [
+                "Large Fishing Sack Recipe"
               ]
             }
           ]

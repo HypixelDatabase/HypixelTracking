@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1591510026156,
-  "version": "0.7.434",
+  "lastUpdated": 1591516325912,
+  "version": "0.7.435",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -45,8 +45,7 @@
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Bread Recipe",
-                "Small Agronomy Sack Recipe"
+                "Enchanted Bread Recipe"
               ]
             },
             {
@@ -61,14 +60,15 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Hay Bale Recipe",
-                "Medium Agronomy Sack Recipe"
+                "Small Agronomy Sack Recipe"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Harvesting Upgrade (COMING SOON)"
+                "Harvesting Upgrade (COMING SOON)",
+                "Medium Agronomy Sack Recipe"
               ]
             },
             {

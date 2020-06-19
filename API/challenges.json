@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1592520710563,
+  "lastUpdated": 1592586410602,
   "challenges": {
     "arcade": [
       {
@@ -136,6 +136,16 @@
       {
         "id": "ARCADE__mini_walls_challenge",
         "name": "Mini Walls Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "ARCADE__capture_the_wool_challenge",
+        "name": "Capture the Wool Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",

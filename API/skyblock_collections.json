@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1592517110639,
-  "version": "0.7.454",
+  "lastUpdated": 1592797010600,
+  "version": "0.7.457",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1739,7 +1739,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 13,
+          "maxTiers": 14,
           "tiers": [
             {
               "tier": 1,
@@ -1833,6 +1833,13 @@
               "unlocks": [
                 "Humongous Accessory Bag Upgrade",
                 "Personal Compactor 6000 Recipe"
+              ]
+            },
+            {
+              "tier": 14,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Colossal Accessory Bag Upgrade"
               ]
             }
           ]

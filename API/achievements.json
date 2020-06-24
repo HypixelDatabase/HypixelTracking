@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1592956694488,
+  "lastUpdated": 1592997783334,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12268,252 +12268,218 @@
           "points": 15,
           "name": "Gold Forager",
           "description": "Max out a Gold Dust perk",
-          "gamePercentUnlocked": 0.026622300033321375,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "DOCTOR": {
           "points": 10,
           "name": "Doctor",
           "description": "Use more than 20 healing potions in a single game",
-          "gamePercentUnlocked": 0.07635786055308844,
-          "globalPercentUnlocked": 0.01661606644255697
+          "legacy": true
         },
         "NOT_UHC": {
           "points": 10,
           "name": "This is not UHC!",
           "description": "Kill a player using Lightning Axe",
-          "gamePercentUnlocked": 0.024099271598790918,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "KNIGHT": {
           "points": 5,
           "name": "Knight",
           "description": "Craft a full set of gold armor",
-          "gamePercentUnlocked": 0.042253476196676736,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "REDSTONE_DEALER": {
           "points": 5,
           "name": "Redstone Dealer",
           "description": "Obtain a stack of Redstone Dust",
-          "gamePercentUnlocked": 50.85543714077657,
-          "globalPercentUnlocked": 11.066540057246861
+          "legacy": true
         },
         "GONE_PEACEFUL": {
           "points": 10,
           "name": "Gone Peaceful",
           "description": "Win a game without killing anyone",
-          "gamePercentUnlocked": 0.24073171304640606,
-          "globalPercentUnlocked": 0.0523850997112288
+          "legacy": true
         },
         "MULTIKILL": {
           "points": 10,
           "name": "Multikill",
           "description": "Get at least 8 kills in a game of Solo Mode",
-          "gamePercentUnlocked": 0.06058168275556465,
-          "globalPercentUnlocked": 0.013183047018040833
+          "legacy": true
         },
         "DIAMOND_ARMOR": {
           "points": 5,
           "name": "God Amongst Men",
           "description": "Equip fully enchanted diamond armor",
-          "gamePercentUnlocked": 4.566710466826962,
-          "globalPercentUnlocked": 0.993751841540406
+          "legacy": true
         },
         "CROSS_FINGERS": {
           "points": 5,
           "name": "Cross fingers!",
           "description": "Activate a Super Lucky Block",
-          "gamePercentUnlocked": 44.0756827329444,
-          "globalPercentUnlocked": 9.591212580955993
+          "legacy": true
         },
         "DEADLY_DONATION": {
           "points": 5,
           "name": "Deadly donation",
           "description": "Feed the Giant Zombie",
-          "gamePercentUnlocked": 20.228220972050355,
-          "globalPercentUnlocked": 4.4018187682540875
+          "legacy": true
         },
         "INVINCIBLE": {
           "points": 15,
           "name": "Invincible",
           "description": "Win a game without taking any damage",
-          "gamePercentUnlocked": 0.03610540690793585,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "NOT_TODAY": {
           "points": 5,
           "name": "Not today!",
           "description": "Kill a charged creeper",
-          "gamePercentUnlocked": 4.509115817735266,
-          "globalPercentUnlocked": 0.9812187963619333
+          "legacy": true
         },
         "RAMPAGE": {
           "points": 10,
           "name": "Rampage",
           "description": "Get 5 kills in 15 seconds",
-          "gamePercentUnlocked": 0.06983278701550966,
-          "globalPercentUnlocked": 0.015196159511461142
+          "legacy": true
         },
         "LEGENDARY": {
           "points": 10,
           "name": "Legendary!",
           "description": "Find a Legendary from the Giant Zombie",
-          "gamePercentUnlocked": 1.1714682024466416,
-          "globalPercentUnlocked": 0.2549206243627379
+          "legacy": true
         },
         "BOOM": {
           "points": 5,
           "name": "BOOM!",
           "description": "Kill a player using TNT",
-          "gamePercentUnlocked": 0.03239336507322437,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "GOLDEN_BOUNTY": {
           "points": 5,
           "name": "Golden Bounty!",
           "description": "Find a Golden Skull",
-          "gamePercentUnlocked": 24.878713383099825,
-          "globalPercentUnlocked": 5.413802214789763
+          "legacy": true
         },
         "I_FNA": {
           "points": 5,
           "name": "I FNA!",
           "description": "Win while wearing a MVP++'s head",
-          "gamePercentUnlocked": 0.01290514544098912,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "DOMINATING": {
           "points": 5,
           "name": "Dominating!",
           "description": "Kill 2 players before the red walls fall",
-          "gamePercentUnlocked": 30.503993780009903,
-          "globalPercentUnlocked": 6.637907135436214
+          "legacy": true
         },
         "MONSTER_HUNTER": {
           "points": 10,
           "name": "Monster Hunter",
           "description": "Kill 20 mobs in one game",
-          "gamePercentUnlocked": 0.15837078483874514,
-          "globalPercentUnlocked": 0.034462718892063655
+          "legacy": true
         },
         "STRATEGIST": {
           "points": 5,
           "name": "Strategist",
           "description": "Buy an item in the shop in game",
-          "gamePercentUnlocked": 95.15668441583337,
-          "globalPercentUnlocked": 20.70683724313647
+          "legacy": true
         },
         "MONSTERKILL": {
           "points": 15,
           "name": "Monsterkill",
           "description": "Get at least 12 kills in a game of Team Mode",
-          "gamePercentUnlocked": 0.01,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "DESTINY_CALLS": {
           "points": 5,
           "name": "Destiny calls!",
           "description": "Find a Lucky Block",
-          "gamePercentUnlocked": 90.0518728846074,
-          "globalPercentUnlocked": 19.595990410011694
+          "legacy": true
         },
         "STICKY_SITUATION": {
           "points": 10,
           "name": "Sticky Situation",
           "description": "Get the legendary stick from the weapon lucky block",
-          "gamePercentUnlocked": 0.03648241115677374,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "TOXIC": {
           "points": 5,
           "name": "Toxic",
           "description": "Apply poison to an enemy player",
-          "gamePercentUnlocked": 0.05048956901744282,
-          "globalPercentUnlocked": 0.01098692429794595
+          "legacy": true
         },
         "EXPLOSIVE_ARCHER": {
           "points": 10,
           "name": "Explosive Archer",
           "description": "Kill an enemy with the Explosive Bow",
-          "gamePercentUnlocked": 0.3530789792000956,
-          "globalPercentUnlocked": 0.07683274171596322
+          "legacy": true
         },
         "CHANCE": {
           "points": 5,
           "name": "Chance",
           "description": "Open every type of lucky block in one game",
-          "gamePercentUnlocked": 0.04184747162100517,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "ENDER_DRAGON": {
           "points": 5,
           "name": "Woops",
           "description": "Spawn an Ender Dragon while activating a Lucky Block",
-          "gamePercentUnlocked": 2.352506512748399,
-          "globalPercentUnlocked": 0.511923778891083
+          "legacy": true
         },
         "GOLD_DIGGER": {
           "points": 5,
           "name": "Gold Digger",
           "description": "Unlock an item from the Crafting menu using Gold Dust",
-          "gamePercentUnlocked": 0.3383178128417507,
-          "globalPercentUnlocked": 0.07362059670295086
+          "legacy": true
         },
         "DRAGON_SLAYER": {
           "points": 15,
           "name": "Boss fight",
           "description": "Kill an Ender Dragon",
-          "gamePercentUnlocked": 0.039005439591304196,
-          "globalPercentUnlocked": 0.01
+          "legacy": true
         },
         "MAXED_PERK": {
           "points": 10,
           "name": "Maxed Perk!",
           "description": "Max out a tiered perk",
-          "gamePercentUnlocked": 0.055158621637665856,
-          "globalPercentUnlocked": 0.01200294659086341
+          "legacy": true
         },
         "SHARPENED_KATANA": {
           "points": 5,
           "name": "Sharpened Katana",
           "description": "Craft a sharpness 5 diamond sword",
-          "gamePercentUnlocked": 0.1889951299751148,
-          "globalPercentUnlocked": 0.04112681542200675
+          "legacy": true
         },
         "THIS_IS_TOO_EASY": {
           "points": 10,
           "name": "This is too easy!",
           "description": "Kill at least a player and win the game without using the shop once",
-          "gamePercentUnlocked": 0.28023015819388286,
-          "globalPercentUnlocked": 0.06098026966746222
+          "legacy": true
         },
         "RUSHMODE": {
           "points": 5,
           "name": "Rush mode ON",
           "description": "Splash a speed potion on your teammate in Teams Mode",
-          "gamePercentUnlocked": 1.2908335476940824,
-          "globalPercentUnlocked": 0.28089545515558423
+          "legacy": true
         },
         "WHAT_HAVE_I_DONE": {
           "points": 5,
           "name": "What have I done...",
           "description": "Have a total of 5 heads in your inventory at the same time",
-          "gamePercentUnlocked": 1.0112413966905407,
-          "globalPercentUnlocked": 0.22005402083249584
+          "legacy": true
         },
         "LIGHTNING_FAST": {
           "points": 10,
           "name": "Lightning Fast",
           "description": "Kill a Lucky Villager in Lucky mode",
-          "gamePercentUnlocked": 0.5367380490378126,
-          "globalPercentUnlocked": 0.11679838880320716
+          "legacy": true
         }
       },
       "tiered": {
         "SOLO_KILLER": {
           "name": "Crazy Killer",
           "description": "Kill %s players in Solo Normal or Lucky modes",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12545,6 +12511,7 @@
         "KIT_HOARDER_SOLO": {
           "name": "Kit Hoarder (Solo)",
           "description": "Unlock %s Solo Kits",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12566,6 +12533,7 @@
         "SOLO_WINNER": {
           "name": "Maniac",
           "description": "Win %s games of Solo Normal or Lucky modes",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12597,6 +12565,7 @@
         "FEELS_LUCKY": {
           "name": "Feels Lucky Man",
           "description": "Open a total of %s villager lucky blocks",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12628,6 +12597,7 @@
         "KING": {
           "name": "King",
           "description": "Collect %s golden skulls",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12659,6 +12629,7 @@
         "KIT_HOARDER_TEAM": {
           "name": "Kit Hoarder (Team)",
           "description": "Unlock %s Team Kits",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12680,6 +12651,7 @@
         "TEAM_WINNER": {
           "name": "Crazy Teamwork",
           "description": "Win %s games of Team Normal or Lucky modes",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12711,6 +12683,7 @@
         "TEAM_KILLER": {
           "name": "Team Butcher",
           "description": "Kill %s players in Team Normal or Lucky modes",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -12740,8 +12713,8 @@
           ]
         }
       },
-      "total_points": 785,
-      "total_legacy_points": 0
+      "total_points": 0,
+      "total_legacy_points": 785
     },
     "uhc": {
       "one_time": {

@@ -55,7 +55,7 @@ async.each(urls, function (s, cb) {
         if (url.includes('/skyblock')) {
           let uuid = {};
           Object.keys(obj.profile.members).forEach(profile => {
-            merge(uuid, obj.profile.members[profile]);
+            uuid = merge(uuid, obj.profile.members[profile]);
             delete obj.profile.members[profile];
           });
           obj.profile.members.uuid = uuid;

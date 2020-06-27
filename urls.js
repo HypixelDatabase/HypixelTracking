@@ -16,6 +16,7 @@ module.exports = [
   {
     url: "https://api.hypixel.net/skyblock/profile?key=KEY&profile=VALUE",
     values: [
+      '83eeafe88f68419a8192406efe69fd86',
       '683a9f50cc9146f7b752839165c1245e',
       '64722047f9b34e69b67b76a62351eb05',
       '70ec14b3155643f8a5d14ec37fb1bb35'

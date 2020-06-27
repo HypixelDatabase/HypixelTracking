@@ -6,19 +6,59 @@ const beautify_js = require('js-beautify').js;
 const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
 
+const apiKey = process.env.HYPIXEL_API_KEY;
+
+function normalizeObject(o) {
+  Object.keys(o).forEach(key => {
+    let entry = o[key];
+    switch (typeof entry) {
+      case 'number':
+        entry = 0;
+        break;
+      case 'string':
+        entry = '';
+        break;
+      case 'boolean':
+        entry = true;
+        break;
+      default:
+        if (Array.isArray(entry)) {
+          entry = [];
+        } else if (entry === null) {
+          entry = '';
+        } else {
+          entry = normalizeObject(entry);
+        }
+    }
+    o[key] = entry;
+  })
+  return o;
+}
+
 async.each(urls, function (s, cb) {
     const url = s.url;
     //grab raw data from each url and save
     console.log(url);
-    if (typeof url === 'object') {
-      async.map(url, (urlString, cb) => {
+    if (s.values) {
+      let obj = {};
+      async.each(s.values, (value, cb) => {
+        const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {
-          cb(err, JSON.parse(body));
+          obj = Object.assign(obj, JSON.parse(body))
+          cb(err);
         });
-      }, (err, resultArr) => {
+      }, (err) => {
+        if (url.includes('/skyblock')) {
+          let uuid = {};
+          Object.keys(obj.profile.members).forEach(profile => {
+            Object.assign(uuid, obj.profile.members[profile])
+            delete obj.profile.members[profile];
+          });
+          obj.profile.members.uuid = uuid;
+        }
         handleResponse(err, {
           statusCode: 200
-        }, JSON.stringify(resultArr));
+        }, JSON.stringify(normalizeObject(obj)));
       });
     } else {
       request(url, handleResponse);
@@ -86,9 +126,9 @@ async.each(sources, (s, cb) => {
           // file entry
           zipfile.openReadStream(entry, (err, readStream) => {
             if (err) throw err;
-              const writeStream = fs.createWriteStream(dest);
-              readStream.on('end', () => zipfile.readEntry());
-              readStream.pipe(writeStream);
+            const writeStream = fs.createWriteStream(dest);
+            readStream.on('end', () => zipfile.readEntry());
+            readStream.pipe(writeStream);
           });
         }
       });

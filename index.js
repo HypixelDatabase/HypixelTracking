@@ -1,11 +1,13 @@
 const request = require('request');
 const async = require('async');
+const merge = require('deepmerge')
 const fs = require('fs');
 const yauzl = require("yauzl");
 const beautify_js = require('js-beautify').js;
 const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
-
+const player = require('./API/player.json') || {};
+const skyblock_profile = require('./API/skyblock_profile.json') || {};
 const apiKey = process.env.HYPIXEL_API_KEY;
 
 function normalizeObject(o) {
@@ -40,18 +42,20 @@ async.each(urls, function (s, cb) {
     //grab raw data from each url and save
     console.log(url);
     if (s.values) {
-      let obj = {};
+      let obj = (url.includes('/skyblock'))
+        ? skyblock_profile
+        : player;
       async.each(s.values, (value, cb) => {
         const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {
-          obj = Object.assign(obj, JSON.parse(body))
+          obj = merge(obj, JSON.parse(body))
           cb(err);
         });
       }, (err) => {
         if (url.includes('/skyblock')) {
           let uuid = {};
           Object.keys(obj.profile.members).forEach(profile => {
-            Object.assign(uuid, obj.profile.members[profile])
+            merge(uuid, obj.profile.members[profile]);
             delete obj.profile.members[profile];
           });
           obj.profile.members.uuid = uuid;

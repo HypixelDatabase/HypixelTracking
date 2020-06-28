@@ -6272,7 +6272,7 @@
         "kit_item_rename_Pigman_gold_sword": "",
         "kit_item_rename_Rogue_diamond_sword": "",
         "kit_permutations_rogue": "",
-        "togglekillcounter": 0,
+        "togglekillcounter": true,
         "ArachnologistInventory": {
           "0": "",
           "1": "",
@@ -12850,7 +12850,7 @@
         "dreadlord_enderchest_level": 0,
         "dreadlord_g": 0,
         "pickaxeLevel": 0,
-        "blood": "",
+        "blood": true,
         "dreadlord_damage_dealt_standard": 0,
         "dreadlord_food_eaten_standard": 0,
         "dreadlord_time_played": 0,
@@ -25655,7 +25655,7 @@
       "Pit": {
         "profile": {
           "outgoing_offers": [],
-          "contract_choices": "",
+          "contract_choices": [],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

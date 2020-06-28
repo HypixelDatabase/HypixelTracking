@@ -12850,7 +12850,7 @@
         "dreadlord_enderchest_level": 0,
         "dreadlord_g": 0,
         "pickaxeLevel": 0,
-        "blood": true,
+        "blood": "",
         "dreadlord_damage_dealt_standard": 0,
         "dreadlord_food_eaten_standard": 0,
         "dreadlord_time_played": 0,
@@ -25655,7 +25655,7 @@
       "Pit": {
         "profile": {
           "outgoing_offers": [],
-          "contract_choices": "",
+          "contract_choices": [],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

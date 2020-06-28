@@ -45,7 +45,7 @@ async.each(urls, function (s, cb) {
       let obj = (url.includes('/skyblock'))
         ? skyblock_profile
         : player;
-      async.each(s.values, (value, cb) => {
+      async.eachLimit(s.values, 1, (value, cb) => {
         const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {
           obj = merge(obj, JSON.parse(body))

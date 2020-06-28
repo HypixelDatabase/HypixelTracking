@@ -12850,7 +12850,7 @@
         "dreadlord_enderchest_level": 0,
         "dreadlord_g": 0,
         "pickaxeLevel": 0,
-        "blood": "",
+        "blood": true,
         "dreadlord_damage_dealt_standard": 0,
         "dreadlord_food_eaten_standard": 0,
         "dreadlord_time_played": 0,
@@ -30413,7 +30413,8 @@
       "day_g": {
         "SURVIVAL_GAMES__resistance_challenge": 0,
         "UHC__threat_challenge": 0,
-        "UHC__hunter_challenge": 0
+        "UHC__hunter_challenge": 0,
+        "TNTGAMES__pvp_run_challenge": 0
       }
     },
     "levelingReward_139": true,

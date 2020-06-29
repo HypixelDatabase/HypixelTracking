@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "guild": {
+    "_id": "",
+    "name": "",
+    "coins": 0,
+    "coinsEver": 0,
+    "created": 0,
+    "members": [
+      {
+        "uuid": "",
+        "rank": "",
+        "joined": 0,
+        "questParticipation": 0,
+        "expHistory": {}
+      }
+    ],
+    "tag": "",
+    "joinable": true,
+    "achievements": {
+      "WINNERS": 0,
+      "EXPERIENCE_KINGS": 0,
+      "ONLINE_PLAYERS": 0
+    },
+    "exp": 0,
+    "chatMute": 0,
+    "legacyRanking": 0,
+    "ranks": [
+      {
+        "name": "",
+        "default": true,
+        "tag": "",
+        "created": 0,
+        "priority": 0
+      }
+    ],
+    "publiclyListed": true,
+    "name_lower": "",
+    "tagColor": "",
+    "description": "",
+    "guildExpByGameType": {
+      "QUAKECRAFT": 0,
+      "WALLS": 0,
+      "PAINTBALL": 0,
+      "SURVIVAL_GAMES": 0,
+      "TNTGAMES": 0,
+      "VAMPIREZ": 0,
+      "WALLS3": 0,
+      "ARCADE": 0,
+      "ARENA": 0,
+      "MCGO": 0,
+      "UHC": 0,
+      "BATTLEGROUND": 0,
+      "SUPER_SMASH": 0,
+      "GINGERBREAD": 0,
+      "HOUSING": 0,
+      "SKYWARS": 0,
+      "SPEED_UHC": 0,
+      "PROTOTYPE": 0,
+      "BEDWARS": 0,
+      "MURDER_MYSTERY": 0,
+      "BUILD_BATTLE": 0,
+      "DUELS": 0
+    },
+    "banner": {
+      "Base": "",
+      "Patterns": [
+        {
+          "Pattern": "",
+          "Color": ""
+        }
+      ]
+    },
+    "preferredGames": []
+  }
+}

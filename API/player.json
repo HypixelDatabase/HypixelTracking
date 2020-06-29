@@ -29588,7 +29588,14 @@
             }
           ],
           "cash_during_prestige_11": 0,
-          "bounties": [],
+          "bounties": [
+            {
+              "amount": 0,
+              "remainingTicks": 0,
+              "issuer": "",
+              "timestamp": 0
+            }
+          ],
           "unlocks_10": [
             {
               "tier": 0,

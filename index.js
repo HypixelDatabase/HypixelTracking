@@ -6,8 +6,6 @@ const yauzl = require("yauzl");
 const beautify_js = require('js-beautify').js;
 const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
-const player = require('./API/player.json') || {};
-const skyblock_profile = require('./API/skyblock_profile.json') || {};
 const apiKey = process.env.HYPIXEL_API_KEY;
 
 const whiteListedArrays = [
@@ -58,9 +56,7 @@ async.each(urls, function (s, cb) {
     //grab raw data from each url and save
     console.log(url);
     if (s.values) {
-      let obj = (url.includes('/skyblock'))
-        ? skyblock_profile
-        : player;
+      let obj = {};
       async.eachLimit(s.values, 1, (value, cb) => {
         const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {
@@ -75,6 +71,9 @@ async.each(urls, function (s, cb) {
             delete obj.profile.members[profile];
           });
           obj.profile.members.uuid = uuid;
+        }
+        if (url.includes('/guild')) {
+          obj.guild.members[0].expHistory = {};
         }
         handleResponse(err, {
           statusCode: 200

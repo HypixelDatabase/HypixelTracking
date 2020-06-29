@@ -24,6 +24,15 @@ module.exports = [
     dest: "./API/skyblock_profile.json"
   },
   {
+    url: "https://api.hypixel.net/guild?key=KEY&id=VALUE",
+    values: [
+      '5687d71c0cf245173363d973',
+      '53bd67d7ed503e868873eceb',
+      '5320667aed50f531e5de4f5b'
+    ],
+    dest: "./API/guild.json"
+  },
+  {
     url: 'https://api.hypixel.net/resources/achievements',
     dest: './API/achievements.json'
   },

@@ -10,6 +10,16 @@ const player = require('./API/player.json') || {};
 const skyblock_profile = require('./API/skyblock_profile.json') || {};
 const apiKey = process.env.HYPIXEL_API_KEY;
 
+const whiteListedArrays = [
+  'packages', 'cakes_found_by_name', 'unlockedColors', 'unlockedParts', 'custom_titles', 'bridgeMapWins',
+  'tutorial', 'visited_zones', 'crafted_minions', 'achievement_spawned_island_types', 'unlocked_coll_tiers'
+];
+
+function uniqueArrayElements(target, source) {
+  const destination = target.slice().concat(source);
+  return [...new Set(destination)];
+}
+
 function normalizeObject(o) {
   Object.keys(o).forEach(key => {
     let entry = o[key];
@@ -25,7 +35,13 @@ function normalizeObject(o) {
         break;
       default:
         if (Array.isArray(entry)) {
-          entry = [];
+          if (!whiteListedArrays.includes(key)) {
+            if (typeof entry[0] === 'object') {
+              entry = [{...normalizeObject(entry[0])}]
+              break;
+            }
+            entry = [];
+          }
         } else if (entry === null) {
           entry = '';
         } else {
@@ -48,14 +64,14 @@ async.each(urls, function (s, cb) {
       async.eachLimit(s.values, 1, (value, cb) => {
         const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {
-          obj = merge(obj, JSON.parse(body))
+          obj = merge(obj, JSON.parse(body), { arrayMerge: uniqueArrayElements });
           cb(err);
         });
       }, (err) => {
         if (url.includes('/skyblock')) {
           let uuid = {};
           Object.keys(obj.profile.members).forEach(profile => {
-            uuid = merge(uuid, obj.profile.members[profile]);
+            uuid = merge(uuid, obj.profile.members[profile], { arrayMerge: uniqueArrayElements });
             delete obj.profile.members[profile];
           });
           obj.profile.members.uuid = uuid;

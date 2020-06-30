@@ -31962,7 +31962,14 @@
               "key": ""
             }
           ],
-          "bounties": [],
+          "bounties": [
+            {
+              "amount": 0,
+              "remainingTicks": 0,
+              "issuer": "",
+              "timestamp": 0
+            }
+          ],
           "genesis_weekly_perks_perma_gold": 0,
           "chat_option_bounties": true,
           "unlocks_8": [

@@ -2087,7 +2087,9 @@
             }
           ],
           "last_killed_mob_island": "",
-          "xp_on_last_follower_spawn": 0
+          "xp_on_last_follower_spawn": 0,
+          "spawn_timestamp": 0,
+          "kill_timestamp": 0
         }
       }
     },

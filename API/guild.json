@@ -38,16 +38,6 @@
     "name_lower": "",
     "tagColor": "",
     "description": "",
-    "banner": {
-      "Base": "",
-      "Patterns": [
-        {
-          "Pattern": "",
-          "Color": ""
-        }
-      ]
-    },
-    "preferredGames": [],
     "guildExpByGameType": {
       "QUAKECRAFT": 0,
       "WALLS": 0,
@@ -71,6 +61,16 @@
       "MURDER_MYSTERY": 0,
       "BUILD_BATTLE": 0,
       "DUELS": 0
-    }
+    },
+    "banner": {
+      "Base": "",
+      "Patterns": [
+        {
+          "Pattern": "",
+          "Color": ""
+        }
+      ]
+    },
+    "preferredGames": []
   }
 }

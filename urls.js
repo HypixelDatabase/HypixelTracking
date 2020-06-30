@@ -2,6 +2,7 @@ module.exports = [
   // API
   {
     url: "https://api.hypixel.net/player?key=KEY&uuid=VALUE",
+    type: 'player',
     values: [
       '5409757b87344c0394b10bf966a2d594',
       '3abe2f6bd45a4e2282d4f9014569db25',
@@ -15,6 +16,7 @@ module.exports = [
   },
   {
     url: "https://api.hypixel.net/skyblock/profile?key=KEY&profile=VALUE",
+    type: 'skyblock_profile',
     values: [
       '83eeafe88f68419a8192406efe69fd86',
       '683a9f50cc9146f7b752839165c1245e',
@@ -25,6 +27,7 @@ module.exports = [
   },
   {
     url: "https://api.hypixel.net/guild?key=KEY&id=VALUE",
+    type: 'guild',
     values: [
       '5687d71c0cf245173363d973',
       '53bd67d7ed503e868873eceb',

@@ -56,7 +56,7 @@ async.each(urls, function (s, cb) {
     //grab raw data from each url and save
     console.log(url);
     if (s.values) {
-      let obj = {};
+      let obj = require(`./API/${s.type}.json`) || {};
       async.eachLimit(s.values, 1, (value, cb) => {
         const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {

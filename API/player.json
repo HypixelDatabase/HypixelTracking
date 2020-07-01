@@ -31512,7 +31512,17 @@
         "all_modes_gold_title_prestige": 0,
         "duels_winstreak_best_uhc_meetup": 0,
         "all_modes_rookie_title_prestige": 0,
-        "sw_doubles_golem_kit_wins": 0
+        "sw_doubles_golem_kit_wins": 0,
+        "layout_sw_duel_kit_ranked_ranked_scout": {
+          "0": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "9": ""
+        }
       },
       "BuildBattle": {
         "wins": 0,
@@ -35796,7 +35806,8 @@
         "SKYWARS__feeding_the_void_challenge": 0,
         "ARENA__where_is_it_challenge": 0,
         "ARENA__no_ultimate_challenge": 0,
-        "SKYWARS__rush_challenge": 0
+        "SKYWARS__rush_challenge": 0,
+        "DUELS__feed_the_void_challenge": 0
       }
     },
     "parkourCheckpointBests": {

@@ -881,6 +881,131 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_guildford_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_anything_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_no_pearls_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_no_abilities_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_nothing_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_anything_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_no_pearls_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_no_abilities_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_nothing_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_anything_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_no_pearls_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_no_abilities_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_nothing_with_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_anything_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_no_pearls_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_no_abilities_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_giant_mushroom_nothing_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_anything_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_no_pearls_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_no_abilities_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_precursor_ruins_nothing_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_anything_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_no_pearls_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_no_abilities_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_the_crystal_core_nothing_no_return_race_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -983,7 +1108,8 @@
           "zone_limbo",
           "st_jerry_38",
           "st_jerry_reward_38",
-          "st_jerry_reward_55"
+          "st_jerry_reward_55",
+          "zone_dungeon_hub"
         ],
         "quests": {
           "collect_log": {
@@ -1181,6 +1307,13 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "talk_to_guildford_1": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -1233,7 +1366,8 @@
           "catacombs_entrance",
           "colosseum_arena",
           "duel_zone",
-          "limbo"
+          "limbo",
+          "dungeon_hub"
         ],
         "death_count": 0,
         "slayer_bosses": {

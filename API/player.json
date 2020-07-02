@@ -15488,7 +15488,8 @@
           "sprays_easter_creeper",
           "projectiletrail_peep_hatching",
           "sprays_wrong_eggs",
-          "balloon_rudoplh"
+          "balloon_rudoplh",
+          "divisionskywars_skywars_rating_6_20"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -20320,7 +20321,9 @@
         "survived_players_lab_kit_attacking_team_default": 0,
         "arrows_shot_lab_kit_attacking_team_default": 0,
         "longest_bow_shot_lab_kit_basic_solo_scout": 0,
-        "longest_bow_kill_kit_defending_team_guardian": 0
+        "longest_bow_kill_kit_defending_team_guardian": 0,
+        "SkyWars_skywars_rating_6_20_rating": 0,
+        "SkyWars_skywars_rating_6_20_position": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -35810,6 +35813,9 @@
         "ARENA__no_ultimate_challenge": 0,
         "SKYWARS__rush_challenge": 0,
         "DUELS__feed_the_void_challenge": 0
+      },
+      "day_k": {
+        "SKYWARS__feeding_the_void_challenge": 0
       }
     },
     "parkourCheckpointBests": {

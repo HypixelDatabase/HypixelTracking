@@ -2077,7 +2077,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "prototype_pit_daily_contract": 0
+          },
           "started": 0
         }
       },

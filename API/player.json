@@ -4589,7 +4589,7 @@
         "wins_hunter": 0,
         "arrows_hit_troll": 0,
         "wins_troll": 0,
-        "togglekillcounter": 0,
+        "togglekillcounter": true,
         "votes_Egypt": 0,
         "votes_Caelum": 0,
         "CreepertamerInventory": {
@@ -31739,7 +31739,18 @@
       "Pit": {
         "profile": {
           "outgoing_offers": [],
-          "contract_choices": "",
+          "contract_choices": [
+            {
+              "difficulty": "",
+              "gold_reward": 0,
+              "requirements": {},
+              "progress": {},
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 0,
+              "key": ""
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

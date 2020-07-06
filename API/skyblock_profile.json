@@ -236,7 +236,19 @@
           "deaths_sea_guardian": 0,
           "deaths_respawning_skeleton": 0,
           "deaths_jockey_shot_silverfish": 0,
-          "kills_headless_horseman": 0
+          "kills_headless_horseman": 0,
+          "kills_lost_adventurer": 0,
+          "kills_skeleton_grunt": 0,
+          "kills_scared_skeleton": 0,
+          "kills_zombie_grunt": 0,
+          "kills_dungeon_respawning_skeleton": 0,
+          "kills_crypt_lurker": 0,
+          "kills_crypt_dreadlord": 0,
+          "kills_crypt_souleater": 0,
+          "kills_crypt_tank_zombie": 0,
+          "kills_diamond_guy": 0,
+          "kills_dungeon_secret_bat": 0,
+          "kills_watcher_summon_undead": 0
         },
         "objectives": {
           "collect_log": {
@@ -1973,7 +1985,8 @@
           "zone_limbo",
           "st_jerry_38",
           "st_jerry_reward_38",
-          "st_jerry_reward_55"
+          "st_jerry_reward_55",
+          "essence_collected_message"
         ],
         "quests": {
           "collect_log": {
@@ -2232,7 +2245,8 @@
           "duel_zone",
           "dungeon_hub",
           "canvas_room",
-          "limbo"
+          "limbo",
+          "dungeon"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

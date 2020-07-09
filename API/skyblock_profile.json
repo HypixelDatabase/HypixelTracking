@@ -3136,6 +3136,20 @@
           "INK_SACK": 0,
           "SPONGE": 0,
           "ENDER_STONE": 0
+        },
+        "slayer_quest": {
+          "type": "",
+          "tier": 0,
+          "start_timestamp": 0,
+          "completion_state": 0,
+          "combat_xp": 0,
+          "recent_mob_kills": [
+            {
+              "xp": 0,
+              "timestamp": 0
+            }
+          ],
+          "last_killed_mob_island": ""
         }
       }
     },

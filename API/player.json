@@ -31569,7 +31569,13 @@
           "10": "",
           "18": "",
           "19": ""
-        }
+        },
+        "allies_healed": 0,
+        "allies_healed_standard": 0,
+        "phoenix_a_allies_healed": 0,
+        "phoenix_a_allies_healed_standard": 0,
+        "phoenix_allies_healed": 0,
+        "phoenix_allies_healed_standard": 0
       },
       "BuildBattle": {
         "wins": 0,
@@ -35228,7 +35234,8 @@
       "given_cookies_105059": [],
       "given_cookies_105060": [],
       "given_cookies_105064": [],
-      "given_cookies_105067": []
+      "given_cookies_105067": [],
+      "given_cookies_105069": []
     },
     "transformation": "",
     "rewardConsumed": true,

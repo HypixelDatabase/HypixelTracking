@@ -1590,7 +1590,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "tnt_wizards_daily_kills": 0
+          },
           "started": 0
         }
       },

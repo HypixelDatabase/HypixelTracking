@@ -1529,7 +1529,8 @@
         "active": {
           "started": 0,
           "objectives": {
-            "uhc_games": 0
+            "uhc_games": 0,
+            "uhc_kills": 0
           }
         }
       },
@@ -35926,7 +35927,8 @@
         "ARENA__no_ultimate_challenge": 0,
         "ARENA__cooperation_challenge": 0,
         "PAINTBALL__killing_spree_challenge": 0,
-        "UHC__threat_challenge": 0
+        "UHC__threat_challenge": 0,
+        "UHC__hunter_challenge": 0
       },
       "day_a": {
         "SKYWARS__feeding_the_void_challenge": 0,

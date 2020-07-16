@@ -2193,7 +2193,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_corrupt_win": 0
+          },
           "started": 0
         }
       },

@@ -1743,7 +1743,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mm_target_kills": 0
+          },
           "started": 0
         }
       },

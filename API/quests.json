@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1595083319162,
+  "lastUpdated": 1595164319171,
   "quests": {
     "quake": [
       {
@@ -2861,7 +2861,7 @@
     "bedwars": [
       {
         "id": "bedwars_daily_win",
-        "name": "Daily: First Win of the Day",
+        "name": "Daily Quest: First Win of the Day",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -2888,7 +2888,7 @@
       },
       {
         "id": "bedwars_daily_one_more",
-        "name": "Daily: One More Game!",
+        "name": "Daily Quest: One More Game!",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -2946,7 +2946,7 @@
       },
       {
         "id": "bedwars_weekly_dream_win",
-        "name": "Weekly: Sleep Tight.",
+        "name": "Weekly Quest: Sleep Tight.",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",

@@ -291,7 +291,18 @@
           "kills_headless_horseman": 0,
           "deaths_pack_spirit": 0,
           "deaths_yeti": 0,
-          "deaths_king_midas": 0
+          "deaths_king_midas": 0,
+          "deaths_weaver_spider": 0,
+          "deaths_dasher_spider": 0,
+          "deaths_splitter_spider": 0,
+          "deaths_splitter_spider_silverfish": 0,
+          "deaths_spider_jockey": 0,
+          "deaths_generator_slime": 0,
+          "deaths_wise_dragon": 0,
+          "deaths_cave_spider": 0,
+          "deaths_revenant_zombie": 0,
+          "deaths_scarf_mage": 0,
+          "deaths_scared_skeleton": 0
         },
         "objectives": {
           "collect_log": {
@@ -2037,7 +2048,8 @@
           "zone_floating_islands_2",
           "zone_floating_islands_4",
           "zone_floating_islands_5",
-          "zone_floating_islands_3"
+          "zone_floating_islands_3",
+          "boss_collection_claimed_bonzo_bonzo_mask"
         ],
         "quests": {
           "collect_log": {
@@ -3068,7 +3080,13 @@
           "ICE_6",
           "ICE_7",
           "RAW_FISH_11",
-          "RAW_FISH_10"
+          "RAW_FISH_10",
+          "RAW_FISH:3_7",
+          "RAW_FISH:3_8",
+          "RAW_FISH:2_4",
+          "RAW_FISH:2_5",
+          "RAW_FISH:2_6",
+          "RAW_FISH:2_7"
         ],
         "collection": {
           "LOG": 0,
@@ -3143,7 +3161,10 @@
               "timestamp": 0
             }
           ],
-          "last_killed_mob_island": ""
+          "last_killed_mob_island": "",
+          "xp_on_last_follower_spawn": 0,
+          "spawn_timestamp": 0,
+          "kill_timestamp": 0
         }
       }
     },

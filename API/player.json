@@ -2018,7 +2018,8 @@
         ],
         "active": {
           "objectives": {
-            "mega_walls_faithful_play": 0
+            "mega_walls_faithful_play": 0,
+            "mega_walls_faifthful_win": 0
           },
           "started": 0
         }
@@ -36034,7 +36035,8 @@
         "SKYWARS__feeding_the_void_challenge": 0,
         "SKYWARS__rush_challenge": 0,
         "DUELS__target_practice_challenge": 0,
-        "SKYWARS__enderman_challenge": 0
+        "SKYWARS__enderman_challenge": 0,
+        "WALLS3__berserk_challenge": 0
       }
     },
     "parkourCheckpointBests": {

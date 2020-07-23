@@ -844,7 +844,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mega_walls_play": 0
+          },
           "started": 0
         }
       },

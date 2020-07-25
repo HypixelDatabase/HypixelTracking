@@ -783,7 +783,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "blitz_games_played": true
+          },
           "started": 0
         }
       },

@@ -218,7 +218,9 @@
       "bridge_four_v_four_wins": 0,
       "bridge_four_teams_wins": 0,
       "bridge_two_v_two_wins": 0,
-      "buildbattle_buildbattle_points": 0
+      "buildbattle_buildbattle_points": 0,
+      "skywars_new_day_new_challenge": 0,
+      "skywars_you_re_a_star": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -15535,7 +15537,8 @@
           "sprays_wrong_eggs",
           "balloon_rudoplh",
           "divisionskywars_skywars_rating_6_20",
-          "deathcry_energy"
+          "deathcry_energy",
+          "update_opals_prestige"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -20377,7 +20380,8 @@
         "kit_basic_solo_healer_inventory": {
           "POTION:1": "",
           "POTION:5": ""
-        }
+        },
+        "opals": 0
       },
       "TrueCombat": {
         "coins": 0,

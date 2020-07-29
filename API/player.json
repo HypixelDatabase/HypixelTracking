@@ -4618,7 +4618,7 @@
         "wins_hunter": 0,
         "arrows_hit_troll": 0,
         "wins_troll": 0,
-        "togglekillcounter": true,
+        "togglekillcounter": 0,
         "votes_Egypt": 0,
         "votes_Caelum": 0,
         "CreepertamerInventory": {
@@ -7182,7 +7182,7 @@
         "no_starting_armor": true
       },
       "Walls3": {
-        "blood": true,
+        "blood": "",
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -32424,18 +32424,7 @@
       "Pit": {
         "profile": {
           "outgoing_offers": [],
-          "contract_choices": [
-            {
-              "difficulty": "",
-              "gold_reward": 0,
-              "requirements": {},
-              "progress": {},
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 0,
-              "key": ""
-            }
-          ],
+          "contract_choices": "",
           "last_save": 0,
           "king_quest": {
             "kills": 0,

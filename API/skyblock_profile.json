@@ -3149,6 +3149,20 @@
         "candy_inventory_contents": {
           "type": 0,
           "data": ""
+        },
+        "slayer_quest": {
+          "type": "",
+          "tier": 0,
+          "start_timestamp": 0,
+          "completion_state": 0,
+          "combat_xp": 0,
+          "recent_mob_kills": [
+            {
+              "xp": 0,
+              "timestamp": 0
+            }
+          ],
+          "last_killed_mob_island": ""
         }
       }
     },

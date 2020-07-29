@@ -32425,7 +32425,20 @@
       },
       "Pit": {
         "profile": {
-          "outgoing_offers": [],
+          "outgoing_offers": [
+            {
+              "issued_ms": 0,
+              "gold": 0,
+              "item": {
+                "type": 0,
+                "data": []
+              },
+              "pants": 0,
+              "uuid": "",
+              "pants_count": 0,
+              "target": ""
+            }
+          ],
           "contract_choices": [
             {
               "difficulty": "",

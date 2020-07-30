@@ -18301,7 +18301,8 @@
         },
         "kit_supporting_team_ecologist_inventory": {
           "IRON_AXE:0": "",
-          "LOG:0": ""
+          "LOG:0": "",
+          "DIAMOND_AXE:0": ""
         },
         "kit_mining_team_cannoneer_inventory": {
           "TNT:0": "",
@@ -36687,7 +36688,9 @@
         "BATTLEGROUND__capture_challenge": 0,
         "DUELS__teams_challenge": 0,
         "UHC__threat_challenge": 0,
-        "WALLS3__protector_challenge": 0
+        "WALLS3__protector_challenge": 0,
+        "ARENA__cooperation_challenge": 0,
+        "ARENA__no_ultimate_challenge": 0
       },
       "day_d": {
         "SUPER_SMASH__leaderboard_challenge": 0,

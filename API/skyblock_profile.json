@@ -311,7 +311,10 @@
           "kills_spirit_chicken": 0,
           "kills_spirit_bat": 0,
           "kills_spirit_sheep": 0,
-          "deaths_spirit_chicken": 0
+          "deaths_spirit_chicken": 0,
+          "kills_spirit_miniboss": 0,
+          "deaths_spirit_bat": 0,
+          "kills_super_tank_zombie": 0
         },
         "objectives": {
           "collect_log": {

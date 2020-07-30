@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1596111713419,
-  "version": "0.8.29",
+  "lastUpdated": 1596149513411,
+  "version": "0.8.31",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2445,7 +2445,7 @@
         },
         "BONE": {
           "name": "Bone",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -2508,6 +2508,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Runaan's Bow Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 150000,
+              "unlocks": [
+                "Enchanted Bone Block Recipe"
               ]
             }
           ]

@@ -2917,7 +2917,8 @@
           "paladin_spec_protector",
           "paladin_spec_crusader",
           "mage_spec_water",
-          "mage_spec_ice"
+          "mage_spec_ice",
+          "packagearena_arena_rating_7_20"
         ],
         "penalty": 0,
         "rating": 0,
@@ -2996,7 +2997,9 @@
         "paladin_energy": "",
         "paladin_health": "",
         "paladin_spec": "",
-        "warrior_spec": ""
+        "warrior_spec": "",
+        "Arena_arena_rating_7_20_position": 0,
+        "Arena_arena_rating_7_20_rating": 0
       },
       "Battleground": {
         "aquamancer_plays": 0,

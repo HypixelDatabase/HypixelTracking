@@ -5644,7 +5644,18 @@
           "acr_old",
           "scar_h_plus_old",
           "ak_100_plus_old",
-          "scar_h_old"
+          "scar_h_old",
+          "magnum_revolver_old",
+          "g36c_old",
+          "raging_bull_old",
+          "hk45_old",
+          "fn_fal_old",
+          "spas_12_old",
+          "p90_old",
+          "uzi_old",
+          "ak_100_old",
+          "steyr_aug_old",
+          "sawed_off_old"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -5746,7 +5757,8 @@
         "bullpupKills": 0,
         "autoShotgunKills": 0,
         "shoutTotal": 0,
-        "scopedRifleHeadshots": 0
+        "scopedRifleHeadshots": 0,
+        "shotgunHeadshots": 0
       },
       "Paintball": {
         "coins": 0,

@@ -5655,7 +5655,8 @@
           "uzi_old",
           "ak_100_old",
           "steyr_aug_old",
-          "sawed_off_old"
+          "sawed_off_old",
+          "scoped_rifle_clip"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -5759,7 +5760,12 @@
         "shoutTotal": 0,
         "scopedRifleHeadshots": 0,
         "shotgunHeadshots": 0,
-        "lobbyPrefixColor": ""
+        "lobbyPrefixColor": "",
+        "scoped_rifle_damage_increase": 0,
+        "scoped_rifle_recoil_reduction": 0,
+        "scoped_rifle_reload_speed_reduction": 0,
+        "scoped_rifle_cost_reduction": 0,
+        "show_kills_in_prefix": true
       },
       "Paintball": {
         "coins": 0,

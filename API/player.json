@@ -5638,7 +5638,12 @@
           "trench_knife",
           "diving_knife",
           "kukri",
-          "legacyachievement"
+          "legacyachievement",
+          "colt_m1911_old",
+          "acr_old",
+          "scar_h_plus_old",
+          "ak_100_plus_old",
+          "scar_h_old"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -5725,7 +5730,21 @@
         "killsNew_4_11_2014": 0,
         "killsNew_5_11_2014": 0,
         "kills_4_11_2014": 0,
-        "kills_5_11_2014": 0
+        "kills_5_11_2014": 0,
+        "pistolKills": 0,
+        "carbineKills": 0,
+        "scopedRifleKills": 0,
+        "shotgunKills": 0,
+        "smgKills": 0,
+        "magnumKills": 0,
+        "rifleKills": 0,
+        "assists": 0,
+        "assists_deathmatch": 0,
+        "sniperKills": 0,
+        "handgunKills": 0,
+        "bullpupKills": 0,
+        "autoShotgunKills": 0,
+        "shoutTotal": 0
       },
       "Paintball": {
         "coins": 0,

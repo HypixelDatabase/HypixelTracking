@@ -5765,7 +5765,11 @@
         "scoped_rifle_recoil_reduction": 0,
         "scoped_rifle_reload_speed_reduction": 0,
         "scoped_rifle_cost_reduction": 0,
-        "show_kills_in_prefix": true
+        "show_kills_in_prefix": true,
+        "bullpup_cost_reduction": 0,
+        "bullpup_damage_increase": 0,
+        "bullpup_recoil_reduction": 0,
+        "bullpup_reload_speed_reduction": 0
       },
       "Paintball": {
         "coins": 0,

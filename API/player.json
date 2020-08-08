@@ -14895,7 +14895,24 @@
         "grand_prix": true,
         "GingerBread_tkr_points__10_2019_position": 0,
         "GingerBread_tkr_points__10_2019_points": 0,
-        "lastTourneyAd": 0
+        "lastTourneyAd": 0,
+        "tourney_gingerbread_solo_0_banana_hits_sent": 0,
+        "tourney_gingerbread_solo_0_box_pickups": 0,
+        "tourney_gingerbread_solo_0_box_pickups_canyon": 0,
+        "tourney_gingerbread_solo_0_box_pickups_monthly_a": 0,
+        "tourney_gingerbread_solo_0_box_pickups_weekly_a": 0,
+        "tourney_gingerbread_solo_0_canyon_plays": 0,
+        "tourney_gingerbread_solo_0_coins_picked_up": 0,
+        "tourney_gingerbread_solo_0_gold_trophy": 0,
+        "tourney_gingerbread_solo_0_gold_trophy_canyon": 0,
+        "tourney_gingerbread_solo_0_gold_trophy_monthly_a": 0,
+        "tourney_gingerbread_solo_0_gold_trophy_weekly_a": 0,
+        "tourney_gingerbread_solo_0_laps_completed": 0,
+        "tourney_gingerbread_solo_0_wins": 0,
+        "tourney_gingerbread_solo_0_banana_hits_received": 0,
+        "tourney_gingerbread_solo_0_box_pickups_hypixelgp": 0,
+        "tourney_gingerbread_solo_0_gold_trophy_hypixelgp": 0,
+        "tourney_gingerbread_solo_0_hypixelgp_plays": 0
       },
       "SkyWars": {
         "coins": 0,
@@ -36901,7 +36918,9 @@
         "BEDWARS__offensive": 0,
         "BATTLEGROUND__carry_challenge": 0,
         "BATTLEGROUND__brute_challenge": 0,
-        "SKYWARS__enderman_challenge": 0
+        "SKYWARS__enderman_challenge": 0,
+        "GINGERBREAD__leaderboard_challenge": 0,
+        "GINGERBREAD__coin_challenge": 0
       },
       "day_a": {
         "SKYWARS__feeding_the_void_challenge": 0,
@@ -37201,7 +37220,9 @@
       "gingerbread_solo_0": {
         "seenRPbook": true,
         "games_played": 0,
-        "playtime": 0
+        "playtime": 0,
+        "first_win": 0,
+        "tributes_earned": 0
       }
     },
     "currentGadget": "",

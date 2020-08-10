@@ -34136,7 +34136,8 @@
         "cloak_monarch_wings",
         "cloak_pit_bounty",
         "hat_hypixel_banner",
-        "suit_easter_egg_helmet"
+        "suit_easter_egg_helmet",
+        "pet_minecart"
       ]
     },
     "vanityTokens": 0,
@@ -36034,6 +36035,21 @@
       },
       "TURTLE": {
         "name": ""
+      },
+      "MINECART": {
+        "THIRST": {
+          "timestamp": 0,
+          "value": 0
+        },
+        "HUNGER": {
+          "timestamp": 0,
+          "value": 0
+        },
+        "EXERCISE": {
+          "timestamp": 0,
+          "value": 0
+        },
+        "experience": 0
       }
     },
     "petJourneyTimestamp": 0,

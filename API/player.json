@@ -1732,7 +1732,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_arcade_win": 0
+          },
           "started": 0
         }
       },

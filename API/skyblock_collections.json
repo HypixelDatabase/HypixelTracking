@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1599296663511,
-  "version": "0.8.76",
+  "lastUpdated": 1599589339325,
+  "version": "0.8.77",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -792,7 +792,8 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Cow Head Recipe"
+                "Cow Head Recipe",
+                "Milk Bucket Trade"
               ]
             },
             {

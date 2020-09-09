@@ -3226,7 +3226,18 @@
         "new_tier": 0,
         "start_ms": 0,
         "who_started": ""
-      }
+      },
+      "upgrade_states": [
+        {
+          "upgrade": "",
+          "tier": 0,
+          "started_ms": 0,
+          "started_by": "",
+          "claimed_ms": 0,
+          "claimed_by": "",
+          "fasttracked": true
+        }
+      ]
     }
   },
   "cause": "",

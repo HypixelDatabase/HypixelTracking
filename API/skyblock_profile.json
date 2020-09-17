@@ -373,7 +373,9 @@
           "kills_tiger_shark": 0,
           "kills_great_white_shark": 0,
           "kills_blue_shark": 0,
-          "deaths_great_white_shark": 0
+          "deaths_great_white_shark": 0,
+          "kills_tentaclees": 0,
+          "deaths_livid_clone": 0
         },
         "objectives": {
           "collect_log": {
@@ -3269,14 +3271,16 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "fastest_time": {
                 "0": 0,
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "best_runs": {
                 "0": [
@@ -3368,6 +3372,24 @@
                     "damage_mitigated": 0,
                     "ally_healing": 0
                   }
+                ],
+                "5": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
                 ]
               },
               "best_score": {
@@ -3375,21 +3397,24 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "mobs_killed": {
                 "0": 0,
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "most_mobs_killed": {
                 "0": 0,
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "most_damage_berserk": {
                 "0": 0,
@@ -3403,7 +3428,8 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "watcher_kills": {
                 "0": 0,
@@ -3425,7 +3451,8 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "fastest_time_s": {
                 "0": 0,
@@ -3442,7 +3469,8 @@
               },
               "most_damage_archer": {
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "most_damage_tank": {
                 "1": 0,

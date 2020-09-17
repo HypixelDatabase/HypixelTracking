@@ -3251,6 +3251,241 @@
           "xp_on_last_follower_spawn": 0,
           "spawn_timestamp": 0,
           "kill_timestamp": 0
+        },
+        "dungeons": {
+          "dungeon_types": {
+            "catacombs": {
+              "times_played": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "experience": 0,
+              "tier_completions": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "fastest_time": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "best_runs": {
+                "0": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ],
+                "1": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ],
+                "2": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ],
+                "3": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ],
+                "4": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ]
+              },
+              "best_score": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "mobs_killed": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "most_mobs_killed": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "most_damage_berserk": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "most_healing": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "watcher_kills": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "most_damage_healer": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0
+              },
+              "highest_tier_completed": 0,
+              "most_damage_mage": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "fastest_time_s": {
+                "0": 0,
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "fastest_time_s_plus": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0
+              },
+              "most_damage_archer": {
+                "3": 0,
+                "4": 0
+              },
+              "most_damage_tank": {
+                "1": 0,
+                "2": 0,
+                "3": 0
+              }
+            }
+          },
+          "player_classes": {
+            "healer": {
+              "experience": 0
+            },
+            "mage": {
+              "experience": 0
+            },
+            "berserk": {
+              "experience": 0
+            },
+            "archer": {
+              "experience": 0
+            },
+            "tank": {
+              "experience": 0
+            }
+          },
+          "dungeon_journal": {
+            "journal_entries": {
+              "karylles_diary": [],
+              "the_study": [],
+              "expedition_volume_1": [],
+              "uncanny_remains": [],
+              "expedition_volume_2": [],
+              "grim_adversity": [],
+              "expedition_volume_3": [],
+              "expedition_volume_4": [],
+              "the_walls": [],
+              "the_eye": [],
+              "aftermath": [],
+              "the_apprentice": [],
+              "the_follower": [],
+              "the_apprentice_2": []
+            }
+          },
+          "dungeons_blah_blah": [],
+          "selected_dungeon_class": ""
         }
       }
     },

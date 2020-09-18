@@ -3231,7 +3231,8 @@
           "PORK": 0,
           "LEATHER": 0,
           "MUTTON": 0,
-          "RABBIT": 0
+          "RABBIT": 0,
+          "DUNGEON_TRAP": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {
@@ -3468,7 +3469,8 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "most_damage_archer": {
                 "3": 0,
@@ -3478,7 +3480,8 @@
               "most_damage_tank": {
                 "1": 0,
                 "2": 0,
-                "3": 0
+                "3": 0,
+                "5": 0
               }
             }
           },

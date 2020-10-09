@@ -2475,7 +2475,9 @@
       },
       "skywars_halloween_harvest_2020": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_halloween_kills": 0
+          },
           "started": 0
         }
       },
@@ -18533,7 +18535,8 @@
           "LEATHER_LEGGINGS:0": "",
           "MONSTER_EGG:65": "",
           "LEATHER_BOOTS:0": "",
-          "LEATHER_HELMET:0": ""
+          "LEATHER_HELMET:0": "",
+          "IRON_BOOTS:0": ""
         },
         "assists_kit_basic_solo_disco": 0,
         "kit_enderchest_solo_enderchest_inventory": {
@@ -21569,7 +21572,8 @@
         "heads_tasty_kit_enderchest_team_enderchest": 0,
         "heads_yucky_kit_enderchest_team_enderchest": 0,
         "mob_kills_kit_enderchest_team_enderchest": 0,
-        "free_event_key_skywars_halloween_boxes_2020_2": true
+        "free_event_key_skywars_halloween_boxes_2020_2": true,
+        "assists_kit_defending_team_batguy": 0
       },
       "TrueCombat": {
         "coins": 0,

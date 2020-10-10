@@ -2477,7 +2477,8 @@
         "active": {
           "objectives": {
             "skywars_halloween_kills": 0,
-            "skywars_halloween_corrupted_wins": 0
+            "skywars_halloween_corrupted_wins": 0,
+            "skywars_halloween_mega_wins": 0
           },
           "started": 0
         }
@@ -21575,7 +21576,8 @@
         "mob_kills_kit_enderchest_team_enderchest": 0,
         "free_event_key_skywars_halloween_boxes_2020_2": true,
         "assists_kit_defending_team_batguy": 0,
-        "toggle_solo_savior": true
+        "toggle_solo_savior": true,
+        "shard_mega_doubles": 0
       },
       "TrueCombat": {
         "coins": 0,

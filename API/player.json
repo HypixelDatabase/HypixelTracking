@@ -21580,7 +21580,12 @@
         "toggle_solo_savior": true,
         "shard_mega_doubles": 0,
         "fall_kills_mega_doubles": 0,
-        "heads_eww_kit_basic_solo_default": 0
+        "heads_eww_kit_basic_solo_default": 0,
+        "heads_decent_kit_advanced_solo_enchanter": 0,
+        "heads_divine_kit_advanced_solo_enchanter": 0,
+        "heads_succulent_kit_advanced_solo_enchanter": 0,
+        "heads_divine_kit_basic_solo_energix": 0,
+        "heads_meh_kit_basic_solo_energix": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -38535,7 +38540,8 @@
     "skyblock_free_cookie": 0,
     "halloween2020Cooldowns": {
       "NORMAL0": true,
-      "VIP0": true
+      "VIP0": true,
+      "VIP_PLUS0": true
     }
   },
   "cause": "",

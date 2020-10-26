@@ -112,6 +112,7 @@ async.each(urls, function (s, cb) {
   });
 
 const sources = [
+/** 
   {
     url: 'http://rpsrv.hypixel.net/packs/8/SuperSmashSanic.zip',
     dest: './ResourcePacks/SuperSmashSanic'
@@ -128,6 +129,7 @@ const sources = [
     url: 'http://rpsrv.hypixel.net/packs/8/MineKarts18.zip',
     dest: './ResourcePacks/MineKarts18'
   },
+**/
 ];
 async.each(sources, (s, cb) => {
   request(s.url, { encoding: null }, (err, res, body) => {

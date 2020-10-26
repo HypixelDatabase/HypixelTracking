@@ -391,7 +391,10 @@
           "deaths_sadan_giant": 0,
           "deaths_sadan_golem": 0,
           "deaths_sadan": 0,
-          "kills_mimic": 0
+          "kills_mimic": 0,
+          "deaths_siamese_lynx": 0,
+          "deaths_bonzo": 0,
+          "deaths_skeletor_prime": 0
         },
         "objectives": {
           "collect_log": {
@@ -2150,7 +2153,14 @@
           "zone_election_room",
           "boss_collection_claimed_livid_dark_orb",
           "st_jerry_reward_91",
-          "boss_collection_claimed_livid_livid_dagger"
+          "boss_collection_claimed_livid_livid_dagger",
+          "zone_blacksmith",
+          "zone_builders_house",
+          "boss_collection_claimed_livid_gold_livid_head",
+          "shop_redstone_engineer",
+          "boss_collection_claimed_sadan_giant_tooth",
+          "st_jerry_reward_95",
+          "boss_collection_claimed_scarf_stone_blade"
         ],
         "quests": {
           "collect_log": {
@@ -2412,7 +2422,9 @@
           "canvas_room",
           "limbo",
           "community_center",
-          "election_room"
+          "election_room",
+          "blacksmith",
+          "builders_house"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3532,6 +3544,7 @@
                 "5": 0
               },
               "most_damage_tank": {
+                "0": 0,
                 "1": 0,
                 "2": 0,
                 "3": 0,

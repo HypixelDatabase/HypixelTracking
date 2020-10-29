@@ -6979,7 +6979,8 @@
           "projectiletrail_firework",
           "cage_void",
           "barbarian_chestplate",
-          "looter_prestige"
+          "looter_prestige",
+          "lucky_shears"
         ],
         "perk_cooking_line_a": 0,
         "perk_cooking_line_b": 0,
@@ -7098,7 +7099,10 @@
         "monthly_wins__solo_b": 0,
         "wins_solo2": 0,
         "monthly_wins__a": 0,
-        "custom_level": 0
+        "custom_level": 0,
+        "perk_strategist_line_a": 0,
+        "perk_strategist_line_b": 0,
+        "perk_strategist_line_c": 0
       },
       "VampireZ": {
         "blood": true,

@@ -733,7 +733,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_solo_win": 0
+          },
           "started": 0
         }
       },

@@ -1,14 +1,14 @@
 {
   "success": true,
-  "lastUpdated": 1604668117955,
-  "version": "0.9.122",
+  "lastUpdated": 1604676218011,
+  "version": "0.9.123",
   "collections": {
     "FARMING": {
       "name": "Farming",
       "items": {
         "WHEAT": {
           "name": "Wheat",
-          "maxTiers": 10,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -85,6 +85,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Large Agronomy Sack Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Tightly-Tied Hay Bale Recipe"
               ]
             }
           ]
@@ -230,7 +237,7 @@
         },
         "PUMPKIN": {
           "name": "Pumpkin",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -296,6 +303,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Farmer Boots Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Polished Pumpkin Recipe"
               ]
             }
           ]
@@ -1136,7 +1150,7 @@
         },
         "NETHER_STALK": {
           "name": "Nether Wart",
-          "maxTiers": 11,
+          "maxTiers": 12,
           "tiers": [
             {
               "tier": 1,
@@ -1213,6 +1227,13 @@
               "amountRequired": 100000,
               "unlocks": [
                 "Massive Potion Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Mutant Nether Wart Recipe"
               ]
             }
           ]

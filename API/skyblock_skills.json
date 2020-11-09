@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1604813018074,
-  "version": "0.9.138",
+  "lastUpdated": 1604945318001,
+  "version": "0.9.139",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2327,7 +2327,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "??? Sea Creature",
+            "Squid Sea Creature",
             "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
             "+2 HP ❤ Health",
             "+25 Coins"
@@ -2337,7 +2337,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Walker Sea Creature",
             "Treasure Hunter II   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
             "+2 HP ❤ Health",
             "+50 Coins"
@@ -2347,7 +2347,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "??? Sea Creature",
+            "Night Squid Sea Creature",
             "Treasure Hunter III   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
             "+2 HP ❤ Health",
             "+100 Coins"
@@ -2357,7 +2357,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "??? Sea Creature",
+            "Frozen Steve Sea Creature",
             "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 HP ❤ Health",
             "+200 Coins"
@@ -2367,8 +2367,8 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Sea Guardian Sea Creature",
+            "Nurse Shark Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 HP ❤ Health",
             "+300 Coins"
@@ -2378,7 +2378,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "??? Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 HP ❤ Health",
             "+400 Coins"
@@ -4263,6 +4263,199 @@
           "totalExpRequired": 94450,
           "unlocks": [
             "Access to Level 25 Runes"
+          ]
+        }
+      ]
+    },
+    "SOCIAL": {
+      "name": "Social",
+      "description": "Gain Social XP for every new unique guest, hosting guests and visiting islands!",
+      "maxLevel": 25,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Ability to purchase Parkour Blocks at Amelia in the Hub",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 150,
+          "unlocks": [
+            "Ability to purchase Social Display at Amelia in the Hub",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 300,
+          "unlocks": [
+            "Ability to purchase Egg Hunt at Amelia in the Hub",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 550,
+          "unlocks": [
+            "Unlock /social Commands",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1050,
+          "unlocks": [
+            "Ability to purchase Island NPCs at Amelia in the Hub",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1800,
+          "unlocks": [
+            "Ability to purchase Tic Tac Toe at Amelia in the Hub",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2800,
+          "unlocks": [
+            "Ability to purchase Four in a Row at Amelia in the Hub",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4050,
+          "unlocks": [
+            "Ability to purchase Rock Paper Shears at Amelia in the Hub",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 5550,
+          "unlocks": [
+            "Unlock Island Ranks",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 7550,
+          "unlocks": [
+            "Ability to purchase Showcase Block at Amelia in the Hub",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 10050,
+          "unlocks": [
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 13050,
+          "unlocks": [
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 16800,
+          "unlocks": [
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 21300,
+          "unlocks": [
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 27300,
+          "unlocks": [
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 35300,
+          "unlocks": [
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 45300,
+          "unlocks": [
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 57800,
+          "unlocks": [
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 72800,
+          "unlocks": [
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 92800,
+          "unlocks": [
+            "Unlock Island Naming",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 117800,
+          "unlocks": [
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 147800,
+          "unlocks": [
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 182800,
+          "unlocks": [
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 222800,
+          "unlocks": [
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 272800,
+          "unlocks": [
+            "+3,000 Coins"
           ]
         }
       ]

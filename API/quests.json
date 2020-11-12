@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1604943517969,
+  "lastUpdated": 1605171761544,
   "quests": {
     "quake": [
       {
@@ -2492,51 +2492,6 @@
           }
         ],
         "description": "Win 3 games in Solo or Team Mode"
-      },
-      {
-        "id": "skywars_halloween_harvest_2020",
-        "name": "Special Quest: Harvest Season",
-        "rewards": [
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
-          },
-          {
-            "type": "SkyWarsTokenReward",
-            "amount": 80000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 20000
-          },
-          {
-            "type": "PackageReward",
-            "package": "cage_house"
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_halloween_kills",
-            "type": "IntegerObjective",
-            "integer": 333
-          },
-          {
-            "id": "skywars_halloween_corrupted_wins",
-            "type": "IntegerObjective",
-            "integer": 3
-          },
-          {
-            "id": "skywars_halloween_mega_wins",
-            "type": "IntegerObjective",
-            "integer": 3
-          }
-        ],
-        "requirements": [
-          {
-            "type": "OneTimeQuestRequirement"
-          }
-        ],
-        "description": "Collect %%aqua%%333 souls %%gray%%from kills and wins in insane Skywars\nWin 3 %%dark_purple%%spooky %%gray%%games\nWin 3 Mega or Mega Doubles games"
       }
     ],
     "truecombat": [
@@ -3018,73 +2973,6 @@
           }
         ],
         "description": "Win 10 dream games in Bed Wars"
-      },
-      {
-        "id": "bedwars_daily_nightmares",
-        "name": "Special Daily: Nightmares",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 2000
-          },
-          {
-            "type": "BedwarsExpReward",
-            "amount": 1000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 500
-          }
-        ],
-        "objectives": [
-          {
-            "id": "bedwars_daily_nightmare_beds",
-            "type": "IntegerObjective",
-            "integer": 4
-          },
-          {
-            "id": "bedwars_daily_nightmare_wins",
-            "type": "IntegerObjective",
-            "integer": 2
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Break 4 beds in Bed Wars\nWin 2 games of Bed Wars"
-      },
-      {
-        "id": "bedwars_weekly_pumpkinator",
-        "name": "Special Weekly: Pumpkinator",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 666
-          },
-          {
-            "type": "BedwarsExpReward",
-            "amount": 6666
-          },
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
-          }
-        ],
-        "objectives": [
-          {
-            "id": "bedwars_special_weekly_pumpkinator",
-            "type": "IntegerObjective",
-            "integer": 99
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Bring 99 pumpkins back to any Shopkeeper. Pumpkins will drop from kills, final kills and bed breaks during Halloween"
       }
     ],
     "murdermystery": [
@@ -3230,37 +3118,6 @@
           }
         ],
         "description": "Win 15 games in any mode"
-      },
-      {
-        "id": "mm_special_weekly_killer_instinct_2020",
-        "name": "Special Quest: Killer Instinct",
-        "rewards": [
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
-          },
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 12000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 7500
-          }
-        ],
-        "objectives": [
-          {
-            "id": "mm_target_kills",
-            "type": "IntegerObjective",
-            "integer": 66
-          }
-        ],
-        "requirements": [
-          {
-            "type": "OneTimeQuestRequirement"
-          }
-        ],
-        "description": "Kill 66 targets in Assassins mode"
       }
     ],
     "buildbattle": [
@@ -3344,33 +3201,6 @@
           }
         ],
         "description": "Play 30 games of Build Battle"
-      },
-      {
-        "id": "build_battle_halloween",
-        "name": "Special Daily: Hyper",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 5000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "play",
-            "type": "IntegerObjective",
-            "integer": 2
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Play 2 Halloween Hyper Mode games"
       }
     ],
     "duels": [

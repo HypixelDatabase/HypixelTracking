@@ -419,7 +419,8 @@
           "kills_skeleton_lord": 0,
           "kills_watcher_giant_laser": 0,
           "kills_watcher_giant_boulder": 0,
-          "kills_watcher_giant_diamond": 0
+          "kills_watcher_giant_diamond": 0,
+          "kills_necron_guard": 0
         },
         "objectives": {
           "collect_log": {
@@ -3349,7 +3350,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "fastest_time": {
                 "0": 0,
@@ -3358,7 +3360,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "best_runs": {
                 "0": [
@@ -3486,6 +3489,24 @@
                     "damage_mitigated": 0,
                     "ally_healing": 0
                   }
+                ],
+                "7": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
                 ]
               },
               "best_score": {
@@ -3562,7 +3583,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "fastest_time_s": {
                 "0": 0,
@@ -3571,7 +3593,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "fastest_time_s_plus": {
                 "1": 0,
@@ -3631,7 +3654,8 @@
               "aftermath": [],
               "the_apprentice": [],
               "the_follower": [],
-              "the_apprentice_2": []
+              "the_apprentice_2": [],
+              "necrons_magic_scroll": []
             }
           },
           "dungeons_blah_blah": [],

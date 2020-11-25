@@ -1,5 +1,6 @@
 const request = require('request');
 const async = require('async');
+const mc = require('minecraft-protocol');
 const merge = require('deepmerge')
 const fs = require('fs');
 const yauzl = require("yauzl");
@@ -111,8 +112,22 @@ async.each(urls, function (s, cb) {
     }
   });
 
+// Get server MOTD
+mc.ping({
+  host: 'mc.hypixel.net',
+  version: '1.8.9',
+}, (err, data) => {
+  if (err) {
+    throw err;
+  }
+  data.players.online = 0;
+  data.latency = 0;
+  console.log(data);
+  return fs.writeFileSync('./ServerListPing/slp.json', JSON.stringify(data, null, 2));
+});
+
 const sources = [
-/** 
+/**
   {
     url: 'http://rpsrv.hypixel.net/packs/8/SuperSmashSanic.zip',
     dest: './ResourcePacks/SuperSmashSanic'

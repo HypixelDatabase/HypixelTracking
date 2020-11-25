@@ -7108,7 +7108,8 @@
         "custom_level": 0,
         "perk_strategist_line_a": 0,
         "perk_strategist_line_b": 0,
-        "perk_strategist_line_c": 0
+        "perk_strategist_line_c": 0,
+        "perk_strategist_prestige": 0
       },
       "VampireZ": {
         "blood": true,
@@ -26297,7 +26298,8 @@
             },
             "grenade": {
               "smashed_normal": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_2v2": 0
             },
             "spooder_buddies": {
               "smashed": 0,
@@ -37683,7 +37685,10 @@
         "WALLS__powerhouse_challenge": 0,
         "WALLS__first_blood_challenge": 0,
         "PAINTBALL__killing_spree_challenge": 0,
-        "PAINTBALL__kill_streak_challenge": 0
+        "PAINTBALL__kill_streak_challenge": 0,
+        "SUPER_SMASH__smash_challenge": 0,
+        "SUPER_SMASH__leaderboard_challenge": 0,
+        "SUPER_SMASH__flawless_challenge": 0
       },
       "day_b": {
         "SKYWARS__feeding_the_void_challenge": 0,

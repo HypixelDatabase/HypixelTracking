@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1606313816949,
-  "version": "0.9.182",
+  "lastUpdated": 1606440716976,
+  "version": "0.9.183",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1409,7 +1409,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Golem Hat (COMING SOON)"
+                "Golem Hat Recipe"
               ]
             },
             {
@@ -1722,7 +1722,7 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Emerald Ring (COMING SOON)"
+                "Emerald Ring Recipe"
               ]
             },
             {
@@ -3690,7 +3690,10 @@
               "tier": 9,
               "amountRequired": 10000,
               "unlocks": [
-                "Salmon Armor (COMING SOON)"
+                "Salmon Helmet Recipe",
+                "Salmon Chestplate Recipe",
+                "Salmon Leggings Recipe",
+                "Salmon Boots Recipe"
               ]
             }
           ]
@@ -3869,7 +3872,7 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Sea Lantern Hat (COMING SOON)"
+                "Sea Lantern Hat Recipe"
               ]
             },
             {

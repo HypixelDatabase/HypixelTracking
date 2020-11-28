@@ -424,7 +424,8 @@
           "deaths_watcher_livid": 0,
           "deaths_necron_guard": 0,
           "kills_watcher_giant_bigfoot": 0,
-          "deaths_watcher_giant_bigfoot": 0
+          "deaths_watcher_giant_bigfoot": 0,
+          "deaths_watcher_giant_boulder": 0
         },
         "objectives": {
           "collect_log": {
@@ -3685,7 +3686,12 @@
       ]
     },
     "community_upgrades": {
-      "currently_upgrading": "",
+      "currently_upgrading": {
+        "upgrade": "",
+        "new_tier": 0,
+        "start_ms": 0,
+        "who_started": ""
+      },
       "upgrade_states": [
         {
           "upgrade": "",

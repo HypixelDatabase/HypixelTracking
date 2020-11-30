@@ -105,6 +105,15 @@ module.exports = [
     url: 'https://rewards.hypixel.net/claim-reward/app.css',
     dest: './rewards.hypixel.net/public/css/app.css'
   },
+  // status.hypixel.net
+  {
+    url: 'https://status.hypixel.net/history.atom',
+    dest: './status.hypixel.net/history.atom'
+  },
+  {
+    url: 'https://status.hypixel.net/history.rss',
+    dest: './status.hypixel.net/history.rss'
+  },
   // store.hypixel.net
   {
     url: 'https://store.hypixel.net/assets/js/site.js',

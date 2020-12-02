@@ -34753,7 +34753,8 @@
         "suit_pumpkin_helmet",
         "pet_burning_zombie",
         "particlepack_spooky",
-        "hat_cauldron"
+        "hat_cauldron",
+        "hat_festive_zombie"
       ]
     },
     "vanityTokens": 0,
@@ -38937,7 +38938,8 @@
     "guildKickReason": "",
     "claimed_century_cake": 0,
     "adventRewards2020": {
-      "day1": 0
+      "day1": 0,
+      "day2": 0
     },
     "xmas2020_MAIN_LOBBY_1": true,
     "xmas2020_MAIN_LOBBY_35": true,
@@ -39031,7 +39033,10 @@
     "xmas2020_MAIN_LOBBY_37": true,
     "xmas2020_MAIN_LOBBY_7": true,
     "xmas2020_MAIN_LOBBY_36": true,
-    "xmas2020_MAIN_LOBBY_31": true
+    "xmas2020_MAIN_LOBBY_31": true,
+    "christmas2020Cooldowns": {
+      "NORMAL0": true
+    }
   },
   "cause": "",
   "throttle": true

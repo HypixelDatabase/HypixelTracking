@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1606808784874,
-  "version": "0.9.189",
+  "lastUpdated": 1606989366707,
+  "version": "0.9.191",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -237,7 +237,7 @@
         },
         "PUMPKIN": {
           "name": "Pumpkin",
-          "maxTiers": 10,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -310,6 +310,13 @@
               "amountRequired": 100000,
               "unlocks": [
                 "Polished Pumpkin Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Rancher's Boots Recipe"
               ]
             }
           ]
@@ -1861,7 +1868,8 @@
               "tier": 14,
               "amountRequired": 1000000,
               "unlocks": [
-                "Colossal Accessory Bag Upgrade"
+                "Colossal Accessory Bag Upgrade",
+                "Personal Compactor 7000 Recipe"
               ]
             },
             {

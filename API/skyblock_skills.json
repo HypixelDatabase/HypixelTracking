@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1607085488838,
-  "version": "0.9.194",
+  "lastUpdated": 1607100788825,
+  "version": "0.9.196",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2480,7 +2480,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
@@ -2971,7 +2971,10 @@
             "Conjurer XIV   Gain 52➜56% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+1 ✎ Intelligence",
+            "Lethality Enchantment",
+            "Frail Enchantment",
             "Execute Enchantment",
+            "Thunderlord Enchantment",
             "+1,200 Coins"
           ]
         },
@@ -2982,8 +2985,10 @@
             "Conjurer XV   Gain 56➜60% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Thunderlord Enchantment",
+            "Syphon Enchantment",
+            "Caster Enchantment",
             "True Protection Enchantment",
+            "Vampirism Enchantment",
             "+1,300 Coins"
           ]
         },
@@ -2994,7 +2999,8 @@
             "Conjurer XVI   Gain 60➜64% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Vampirism Enchantment",
+            "Dragon Hunter Enchantment",
+            "Bank Enchantment",
             "+1,400 Coins"
           ]
         },
@@ -3005,7 +3011,8 @@
             "Conjurer XVII   Gain 64➜68% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Frail Enchantment",
+            "Piercing Enchantment",
+            "Venomous Enchantment",
             "+1,500 Coins"
           ]
         },
@@ -3016,7 +3023,8 @@
             "Conjurer XVIII   Gain 68➜72% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Lethality Enchantment",
+            "Spiked Hook Enchantment",
+            "Ultimate Jerry Enchantment",
             "+1,600 Coins"
           ]
         },
@@ -3027,8 +3035,7 @@
             "Conjurer XIX   Gain 72➜76% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Syphon Enchantment",
-            "Caster Enchantment",
+            "Triple-Strike Enchantment",
             "+1,800 Coins"
           ]
         },
@@ -3039,8 +3046,8 @@
             "Conjurer XX   Gain 76➜80% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Dragon Hunter Enchantment",
-            "Bank Enchantment",
+            "Thunderbolt Enchantment",
+            "Ultimate Wise Enchantment",
             "+2,000 Coins"
           ]
         },
@@ -3051,7 +3058,7 @@
             "Conjurer XXI   Gain 80➜84% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Venomous Enchantment",
+            "Big Brain Enchantment",
             "+2,200 Coins"
           ]
         },
@@ -3062,7 +3069,7 @@
             "Conjurer XXII   Gain 84➜88% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Piercing Enchantment",
+            "Counter-Strike Enchantment",
             "+2,400 Coins"
           ]
         },
@@ -3073,7 +3080,7 @@
             "Conjurer XXIII   Gain 88➜92% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Spiked Hook Enchantment",
+            "Respite Enchantment",
             "+2,600 Coins"
           ]
         },
@@ -3084,7 +3091,7 @@
             "Conjurer XXIV   Gain 92➜96% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Ultimate Jerry Enchantment",
+            "Combo Enchantment",
             "+2,800 Coins"
           ]
         },
@@ -3095,8 +3102,7 @@
             "Conjurer XXV   Gain 96➜100% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Triple-Strike Enchantment",
-            "Ultimate Wise Enchantment",
+            "Prosecute Enchantment",
             "+3,000 Coins"
           ]
         },
@@ -3107,7 +3113,7 @@
             "Conjurer XXVI   Gain 100➜104% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Thunderbolt Enchantment",
+            "Vicious Enchantment",
             "+3,500 Coins"
           ]
         },
@@ -3118,7 +3124,7 @@
             "Conjurer XXVII   Gain 104➜108% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Big Brain Enchantment",
+            "Wisdom Enchantment",
             "+4,000 Coins"
           ]
         },
@@ -3129,7 +3135,7 @@
             "Conjurer XXVIII   Gain 108➜112% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Counter-Strike Enchantment",
+            "Titan Killer Enchantment",
             "+5,000 Coins"
           ]
         },
@@ -3140,7 +3146,7 @@
             "Conjurer XXIX   Gain 112➜116% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Respite Enchantment",
+            "No Pain No Gain Enchantment",
             "+6,000 Coins"
           ]
         },
@@ -3151,7 +3157,7 @@
             "Conjurer XXX   Gain 116➜120% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Combo Enchantment",
+            "Last Stand Enchantment",
             "+7,500 Coins"
           ]
         },
@@ -3162,7 +3168,7 @@
             "Conjurer XXXI   Gain 120➜124% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Prosecute Enchantment",
+            "Chimera Enchantment",
             "+10,000 Coins"
           ]
         },
@@ -3173,7 +3179,7 @@
             "Conjurer XXXII   Gain 124➜128% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Vicious Enchantment",
+            "Rend Enchantment",
             "+12,500 Coins"
           ]
         },
@@ -3184,6 +3190,7 @@
             "Conjurer XXXIII   Gain 128➜132% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
+            "Overload Enchantment",
             "+15,000 Coins"
           ]
         },
@@ -3194,6 +3201,7 @@
             "Conjurer XXXIV   Gain 132➜136% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
+            "Legion Enchantment",
             "+17,500 Coins"
           ]
         },
@@ -3204,7 +3212,7 @@
             "Conjurer XXXV   Gain 136➜140% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Wisdom Enchantment",
+            "Swarm Enchantment",
             "+20,000 Coins"
           ]
         },
@@ -3215,7 +3223,7 @@
             "Conjurer XXXVI   Gain 140➜144% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Titan Killer Enchantment",
+            "Soul Eater Enchantment",
             "+25,000 Coins"
           ]
         },
@@ -3226,7 +3234,6 @@
             "Conjurer XXXVII   Gain 144➜148% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "No Pain No Gain Enchantment",
             "+30,000 Coins"
           ]
         },
@@ -3257,7 +3264,6 @@
             "Conjurer XL   Gain 156➜160% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Last Stand Enchantment",
             "+45,000 Coins"
           ]
         },
@@ -3278,7 +3284,6 @@
             "Conjurer XLII   Gain 164➜168% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Chimera Enchantment",
             "+60,000 Coins"
           ]
         },
@@ -3299,7 +3304,6 @@
             "Conjurer XLIV   Gain 172➜176% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Rend Enchantment",
             "+80,000 Coins"
           ]
         },
@@ -3320,7 +3324,6 @@
             "Conjurer XLVI   Gain 180➜184% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Overload Enchantment",
             "+100,000 Coins"
           ]
         },
@@ -3341,7 +3344,6 @@
             "Conjurer XLVIII   Gain 188➜192% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Legion Enchantment",
             "+150,000 Coins"
           ]
         },
@@ -3362,7 +3364,6 @@
             "Conjurer L   Gain 196➜200% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Swarm Enchantment",
             "+200,000 Coins"
           ]
         },
@@ -3373,7 +3374,6 @@
             "Conjurer LI   Gain 200➜204% more experience orbs from any source.",
             "+0.5% ✹ Ability Damage",
             "+2 ✎ Intelligence",
-            "Soul Eater Enchantment",
             "+250,000 Coins"
           ]
         },

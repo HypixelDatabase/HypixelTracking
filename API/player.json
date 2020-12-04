@@ -1852,7 +1852,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "blitz_special_gifts": 0
+          },
           "started": 0
         }
       },

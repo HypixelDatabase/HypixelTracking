@@ -3693,7 +3693,12 @@
       ]
     },
     "community_upgrades": {
-      "currently_upgrading": "",
+      "currently_upgrading": {
+        "upgrade": "",
+        "new_tier": 0,
+        "start_ms": 0,
+        "who_started": ""
+      },
       "upgrade_states": [
         {
           "upgrade": "",

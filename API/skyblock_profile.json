@@ -6672,7 +6672,10 @@
               "collected": 0
             },
             "105:11_4:CARROT_ITEM": {
-              "collected": 0
+              "collected": 0,
+              "claimed_rewards": true,
+              "claimed_position": 0,
+              "claimed_participants": 0
             }
           },
           "talked": true,

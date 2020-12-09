@@ -761,7 +761,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_team_win": 0
+          },
           "started": 0
         }
       },

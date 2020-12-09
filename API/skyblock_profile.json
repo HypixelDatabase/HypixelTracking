@@ -6678,7 +6678,10 @@
               "claimed_participants": 0
             },
             "105:11_7:WHEAT": {
-              "collected": 0
+              "collected": 0,
+              "claimed_rewards": true,
+              "claimed_position": 0,
+              "claimed_participants": 0
             }
           },
           "talked": true,

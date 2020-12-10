@@ -30068,7 +30068,8 @@
         "two_four_final_kills_bedwars": 0,
         "two_four_permanent_items_purchased_bedwars": 0,
         "two_four_void_final_kills_bedwars": 0,
-        "two_four_void_kills_bedwars": 0
+        "two_four_void_kills_bedwars": 0,
+        "bedwars_golden_boxes": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,
@@ -30304,7 +30305,8 @@
           "gesture_graduation",
           "knife_skin_none",
           "gesture_none",
-          "kill_note_none"
+          "kill_note_none",
+          "victory_dance_raining_swords"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -33305,7 +33307,8 @@
           "suits_special_ops",
           "suits_soldier",
           "suits_elite",
-          "rockin_around_the_christmas_tree"
+          "rockin_around_the_christmas_tree",
+          "buildbattlesuit"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -34775,7 +34778,14 @@
         "hat_festive_skeleton",
         "hat_festive_villager",
         "gadget_ice_skating",
-        "pet_merry_sheep"
+        "pet_merry_sheep",
+        "gadget_pinata",
+        "clickeffects_spout",
+        "cloak_ranks_gifted",
+        "suit_piglin_suit_helmet",
+        "suit_piglin_suit_chestplate",
+        "suit_piglin_suit_leggings",
+        "suit_piglin_suit_boots"
       ]
     },
     "vanityTokens": 0,
@@ -36884,7 +36894,8 @@
       "bundlesGiven": 0,
       "realBundlesGiven": 0,
       "milestones": [],
-      "ranksGiven": 0
+      "ranksGiven": 0,
+      "rankgiftingmilestones": []
     },
     "fortuneBuff": 0,
     "levelingReward_0": true,

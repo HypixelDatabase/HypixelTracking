@@ -5760,7 +5760,8 @@
         "tourney_blitz_duo_1_potions_thrown_knight": 0,
         "tourney_blitz_duo_1_arrows_fired_knight": 0,
         "tourney_blitz_duo_1_potions_drunk_knight": 0,
-        "inGamePresentsCap_2020_6": 0
+        "inGamePresentsCap_2020_6": 0,
+        "inGamePresentsCap_2020_10": 0
       },
       "MCGO": {
         "bombs_defused": 0,
@@ -33358,7 +33359,18 @@
               "target": ""
             }
           ],
-          "contract_choices": "",
+          "contract_choices": [
+            {
+              "difficulty": "",
+              "gold_reward": 0,
+              "requirements": {},
+              "progress": {},
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 0,
+              "key": ""
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

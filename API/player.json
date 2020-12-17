@@ -33383,7 +33383,18 @@
               "target": ""
             }
           ],
-          "contract_choices": "",
+          "contract_choices": [
+            {
+              "difficulty": "",
+              "gold_reward": 0,
+              "requirements": {},
+              "progress": {},
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 0,
+              "key": ""
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,
@@ -39133,7 +39144,8 @@
       "SUPERSTAR0": true,
       "VIP_PLUS1": true,
       "MVP1": true,
-      "NORMAL2": true
+      "NORMAL2": true,
+      "MVP_PLUS1": true
     }
   },
   "cause": "",

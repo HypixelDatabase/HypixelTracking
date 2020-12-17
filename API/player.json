@@ -6840,7 +6840,9 @@
           "pvp_run_armor_type": "",
           "pvp_run_sword_type": "",
           "tnt_run_snowballs": true,
-          "speed": ""
+          "speed": "",
+          "tnt_tag_deathmatch": true,
+          "low_gravity": true
         },
         "new_ancientwizard_assists": 0,
         "votes_Crystalline": 0,
@@ -21882,7 +21884,8 @@
         "inGamePresentsCap_2020_15": 0,
         "inGamePresentsCap_2020_16": 0,
         "heads_meh_kit_basic_solo_armorsmith": 0,
-        "fall_kills_kit_basic_solo_armorsmith": 0
+        "fall_kills_kit_basic_solo_armorsmith": 0,
+        "inGamePresentsCap_2020_17": 0
       },
       "TrueCombat": {
         "coins": 0,

@@ -2813,7 +2813,9 @@
         "wins_halloween_simulator": 0,
         "wins_grinch_simulator_v2": 0,
         "gifts_grinch_simulator_v2": 0,
-        "lastTourneyAd": 0
+        "lastTourneyAd": 0,
+        "gifts_grinch_simulator_v2_tourney": 0,
+        "losses_grinch_simulator_v2_tourney": 0
       },
       "Arena": {
         "coins": 0,
@@ -38149,6 +38151,10 @@
         "tributes_earned": 0,
         "first_win": 0,
         "claimed_ranking_reward": 0
+      },
+      "grinch_simulator_0": {
+        "games_played": 0,
+        "playtime": 0
       }
     },
     "currentGadget": "",

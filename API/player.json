@@ -2213,7 +2213,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "play": 0
+          },
           "started": 0
         }
       },

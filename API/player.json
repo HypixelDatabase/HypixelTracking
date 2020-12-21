@@ -34843,7 +34843,8 @@
         "hat_festive_squid",
         "cloak_shimmering_wings",
         "hat_festive_herobrine",
-        "hat_snow_globe"
+        "hat_snow_globe",
+        "pet_grinch"
       ]
     },
     "vanityTokens": 0,
@@ -36744,6 +36745,21 @@
         "name": ""
       },
       "MINECART": {
+        "THIRST": {
+          "timestamp": 0,
+          "value": 0
+        },
+        "HUNGER": {
+          "timestamp": 0,
+          "value": 0
+        },
+        "EXERCISE": {
+          "timestamp": 0,
+          "value": 0
+        },
+        "experience": 0
+      },
+      "GRINCH": {
         "THIRST": {
           "timestamp": 0,
           "value": 0

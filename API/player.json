@@ -33407,7 +33407,20 @@
               "target": ""
             }
           ],
-          "contract_choices": "",
+          "contract_choices": [
+            {
+              "difficulty": "",
+              "gold_reward": 0,
+              "requirements": {
+                "ingots": 0
+              },
+              "progress": {},
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 0,
+              "key": ""
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,
@@ -37936,7 +37949,9 @@
         "TNTGAMES__tnt_tag_challenge": 0,
         "WALLS__looting_challenge": 0,
         "WALLS__powerhouse_challenge": 0,
-        "WALLS__first_blood_challenge": 0
+        "WALLS__first_blood_challenge": 0,
+        "DUELS__teams_challenge": 0,
+        "SUPER_SMASH__leaderboard_challenge": 0
       },
       "day_f": {
         "BEDWARS__offensive": 0,

@@ -21949,7 +21949,8 @@
         "inGamePresentsCap_2021_3": 0,
         "mob_kills_kit_mega_mega_healer": 0,
         "inGamePresentsCap_2021_4": 0,
-        "inGamePresentsCap_2021_5": 0
+        "inGamePresentsCap_2021_5": 0,
+        "inGamePresentsCap_2021_6": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -33465,22 +33466,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "",
-              "gold_reward": 0,
-              "requirements": {
-                "kills": 0
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 0,
-              "key": ""
-            }
-          ],
+          "contract_choices": "",
           "last_save": 0,
           "king_quest": {
             "kills": 0,

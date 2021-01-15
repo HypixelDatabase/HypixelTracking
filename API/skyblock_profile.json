@@ -445,7 +445,8 @@
           "kills_goblin_murderlover": 0,
           "kills_caverns_ghost": 0,
           "kills_goblin_creeper": 0,
-          "kills_goblin_golem": 0
+          "kills_goblin_golem": 0,
+          "kills_crystal_sentry": 0
         },
         "objectives": {
           "collect_log": {
@@ -2280,7 +2281,10 @@
           "zone_upper_mines",
           "zone_miners_guild",
           "zone_hero_barracks",
-          "zone_carts_crafting_co"
+          "zone_carts_crafting_co",
+          "zone_royal_quarters",
+          "commission_milestone_claimed_tier_1",
+          "emisarry_carlton"
         ],
         "quests": {
           "collect_log": {
@@ -2577,7 +2581,8 @@
           "upper_mines",
           "miners_guild",
           "hero_barracks",
-          "carts_crafting_co"
+          "carts_crafting_co",
+          "royal_quarters"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3262,7 +3267,8 @@
           "MITHRIL_ORE_2",
           "MITHRIL_ORE_3",
           "MITHRIL_ORE_4",
-          "MITHRIL_ORE_5"
+          "MITHRIL_ORE_5",
+          "MITHRIL_ORE_6"
         ],
         "fishing_bag": {
           "type": 0,
@@ -3447,7 +3453,9 @@
           "INFLATABLE_JERRY": 0,
           "GREEN_CANDY": 0,
           "PURPLE_CANDY": 0,
-          "MITHRIL_ORE": 0
+          "MITHRIL_ORE": 0,
+          "STARFALL": 0,
+          "TITANIUM_ORE": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

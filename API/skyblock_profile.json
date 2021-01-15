@@ -433,7 +433,12 @@
           "kills_mayor_jerry_blue": 0,
           "kills_mayor_jerry_purple": 0,
           "kills_mayor_jerry_golden": 0,
-          "kills_ice_walker": 0
+          "kills_ice_walker": 0,
+          "kills_goblin": 0,
+          "deaths_caverns_ghost": 0,
+          "kills_goblin_knife_thrower": 0,
+          "kills_goblin_weakling_melee": 0,
+          "kills_goblin_weakling_bow": 0
         },
         "objectives": {
           "collect_log": {
@@ -2067,6 +2072,30 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_rhys": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "increase_mining_12": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "hotm_give_materials": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0,
+            "started": true,
+            "ENCHANTED_REDSTONE": 0,
+            "ENCHANTED_IRON": 0,
+            "ENCHANTED_COAL": 0
+          },
+          "fetchur-15-0": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2229,7 +2258,17 @@
           "zone_ice_wall",
           "zone_forge",
           "zone_rampart_quarry",
-          "zone_gates_mines"
+          "zone_gates_mines",
+          "zone_elder_palace",
+          "deeper_kings",
+          "zone_royal_mines",
+          "zone_the_mist",
+          "talked_to_drill_fuel_mechanic",
+          "zone_aristocrat_passage",
+          "zone_goblin_burrows",
+          "zone_far_reserve",
+          "zone_hanging_court",
+          "zone_grand_library"
         ],
         "quests": {
           "collect_log": {
@@ -2434,6 +2473,13 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "talk_to_rhys": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -2507,7 +2553,15 @@
           "ice_wall",
           "forge",
           "rampart_quarry",
-          "gates_mines"
+          "gates_mines",
+          "elder_palace",
+          "royal_mines",
+          "the_mist",
+          "aristocrat_passage",
+          "goblin_burrows",
+          "far_reserve",
+          "hanging_court",
+          "grand_library"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3188,7 +3242,9 @@
           "PUMPKIN_11",
           "MITHRIL_ORE_-1",
           "REDSTONE_16",
-          "MITHRIL_ORE_1"
+          "MITHRIL_ORE_1",
+          "MITHRIL_ORE_2",
+          "MITHRIL_ORE_3"
         ],
         "fishing_bag": {
           "type": 0,

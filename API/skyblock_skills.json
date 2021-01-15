@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1610626825966,
-  "version": "0.10.34",
+  "lastUpdated": 1610727229075,
+  "version": "0.10.36",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -12,7 +12,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Farmhand I   4% chance to get double crops.",
+            "Farmhand I   Grants +4 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "Access to The Barn",
             "+25 Coins"
@@ -22,7 +22,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Farmhand II   4➜8% chance to get double crops.",
+            "Farmhand II   Grants +4➜8 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+50 Coins"
           ]
@@ -31,7 +31,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Farmhand III   8➜12% chance to get double crops.",
+            "Farmhand III   Grants +8➜12 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+100 Coins"
           ]
@@ -40,7 +40,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Farmhand IV   12➜16% chance to get double crops.",
+            "Farmhand IV   Grants +12➜16 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+200 Coins"
           ]
@@ -49,7 +49,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Farmhand V   16➜20% chance to get double crops.",
+            "Farmhand V   Grants +16➜20 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "Access to Mushroom Desert",
             "+300 Coins"
@@ -59,7 +59,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Farmhand VI   20➜24% chance to get double crops.",
+            "Farmhand VI   Grants +20➜24 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+400 Coins"
           ]
@@ -68,7 +68,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Farmhand VII   24➜28% chance to get double crops.",
+            "Farmhand VII   Grants +24➜28 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+500 Coins"
           ]
@@ -77,7 +77,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Farmhand VIII   28➜32% chance to get double crops.",
+            "Farmhand VIII   Grants +28➜32 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+600 Coins"
           ]
@@ -86,7 +86,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Farmhand IX   32➜36% chance to get double crops.",
+            "Farmhand IX   Grants +32➜36 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+700 Coins"
           ]
@@ -95,7 +95,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Farmhand X   36➜40% chance to get double crops.",
+            "Farmhand X   Grants +36➜40 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+800 Coins"
           ]
@@ -104,7 +104,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Farmhand XI   40➜44% chance to get double crops.",
+            "Farmhand XI   Grants +40➜44 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+900 Coins"
           ]
@@ -113,7 +113,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Farmhand XII   44➜48% chance to get double crops.",
+            "Farmhand XII   Grants +44➜48 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+1,000 Coins"
           ]
@@ -122,7 +122,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Farmhand XIII   48➜52% chance to get double crops.",
+            "Farmhand XIII   Grants +48➜52 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
           ]
@@ -131,7 +131,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Farmhand XIV   52➜56% chance to get double crops.",
+            "Farmhand XIV   Grants +52➜56 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+2 HP ❤ Health",
             "+1,200 Coins"
           ]
@@ -140,7 +140,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Farmhand XV   56➜60% chance to get double crops.",
+            "Farmhand XV   Grants +56➜60 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
           ]
@@ -149,7 +149,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Farmhand XVI   60➜64% chance to get double crops.",
+            "Farmhand XVI   Grants +60➜64 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
           ]
@@ -158,7 +158,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Farmhand XVII   64➜68% chance to get double crops.",
+            "Farmhand XVII   Grants +64➜68 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
           ]
@@ -167,7 +167,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Farmhand XVIII   68➜72% chance to get double crops.",
+            "Farmhand XVIII   Grants +68➜72 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
           ]
@@ -176,7 +176,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Farmhand XIX   72➜76% chance to get double crops.",
+            "Farmhand XIX   Grants +72➜76 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
           ]
@@ -185,7 +185,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Farmhand XX   76➜80% chance to get double crops.",
+            "Farmhand XX   Grants +76➜80 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
           ]
@@ -194,7 +194,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Farmhand XXI   80➜84% chance to get double crops.",
+            "Farmhand XXI   Grants +80➜84 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
           ]
@@ -203,7 +203,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Farmhand XXII   84➜88% chance to get double crops.",
+            "Farmhand XXII   Grants +84➜88 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+4 HP ❤ Health",
             "+2,400 Coins"
           ]
@@ -212,7 +212,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Farmhand XXIII   88➜92% chance to get double crops.",
+            "Farmhand XXIII   Grants +88➜92 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+4 HP ❤ Health",
             "+2,600 Coins"
           ]
@@ -221,7 +221,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Farmhand XXIV   92➜96% chance to get double crops.",
+            "Farmhand XXIV   Grants +92➜96 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
           ]
@@ -230,7 +230,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Farmhand XXV   96➜100% chance to get double crops.",
+            "Farmhand XXV   Grants +96➜100 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
           ]
@@ -239,7 +239,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Farmhand XXVI   100% double crops and 4% chance to get triple crops.",
+            "Farmhand XXVI   Grants +100➜104 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+3,500 Coins"
           ]
@@ -248,7 +248,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Farmhand XXVII   100% double crops and 4➜8% chance to get triple crops.",
+            "Farmhand XXVII   Grants +104➜108 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+4,000 Coins"
           ]
@@ -257,7 +257,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Farmhand XXVIII   100% double crops and 8➜12% chance to get triple crops.",
+            "Farmhand XXVIII   Grants +108➜112 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+5,000 Coins"
           ]
@@ -266,7 +266,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Farmhand XXIX   100% double crops and 12➜16% chance to get triple crops.",
+            "Farmhand XXIX   Grants +112➜116 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+6,000 Coins"
           ]
@@ -275,7 +275,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Farmhand XXX   100% double crops and 16➜20% chance to get triple crops.",
+            "Farmhand XXX   Grants +116➜120 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+7,500 Coins"
           ]
@@ -284,7 +284,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Farmhand XXXI   100% double crops and 20➜24% chance to get triple crops.",
+            "Farmhand XXXI   Grants +120➜124 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+10,000 Coins"
           ]
@@ -293,7 +293,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Farmhand XXXII   100% double crops and 24➜28% chance to get triple crops.",
+            "Farmhand XXXII   Grants +124➜128 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+12,500 Coins"
           ]
@@ -302,7 +302,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Farmhand XXXIII   100% double crops and 28➜32% chance to get triple crops.",
+            "Farmhand XXXIII   Grants +128➜132 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+15,000 Coins"
           ]
@@ -311,7 +311,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Farmhand XXXIV   100% double crops and 32➜36% chance to get triple crops.",
+            "Farmhand XXXIV   Grants +132➜136 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+17,500 Coins"
           ]
@@ -320,7 +320,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Farmhand XXXV   100% double crops and 36➜40% chance to get triple crops.",
+            "Farmhand XXXV   Grants +136➜140 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+20,000 Coins"
           ]
@@ -329,7 +329,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Farmhand XXXVI   100% double crops and 40➜44% chance to get triple crops.",
+            "Farmhand XXXVI   Grants +140➜144 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+25,000 Coins"
           ]
@@ -338,7 +338,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Farmhand XXXVII   100% double crops and 44➜48% chance to get triple crops.",
+            "Farmhand XXXVII   Grants +144➜148 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+30,000 Coins"
           ]
@@ -347,7 +347,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Farmhand XXXVIII   100% double crops and 48➜52% chance to get triple crops.",
+            "Farmhand XXXVIII   Grants +148➜152 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+35,000 Coins"
           ]
@@ -356,7 +356,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Farmhand XXXIX   100% double crops and 52➜56% chance to get triple crops.",
+            "Farmhand XXXIX   Grants +152➜156 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+40,000 Coins"
           ]
@@ -365,7 +365,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Farmhand XL   100% double crops and 56➜60% chance to get triple crops.",
+            "Farmhand XL   Grants +156➜160 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+45,000 Coins"
           ]
@@ -374,7 +374,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Farmhand XLI   100% double crops and 60➜64% chance to get triple crops.",
+            "Farmhand XLI   Grants +160➜164 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+50,000 Coins"
           ]
@@ -383,7 +383,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Farmhand XLII   100% double crops and 64➜68% chance to get triple crops.",
+            "Farmhand XLII   Grants +164➜168 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+60,000 Coins"
           ]
@@ -392,7 +392,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Farmhand XLIII   100% double crops and 68➜72% chance to get triple crops.",
+            "Farmhand XLIII   Grants +168➜172 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+70,000 Coins"
           ]
@@ -401,7 +401,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Farmhand XLIV   100% double crops and 72➜76% chance to get triple crops.",
+            "Farmhand XLIV   Grants +172➜176 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+80,000 Coins"
           ]
@@ -410,7 +410,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Farmhand XLV   100% double crops and 76➜80% chance to get triple crops.",
+            "Farmhand XLV   Grants +176➜180 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+90,000 Coins"
           ]
@@ -419,7 +419,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Farmhand XLVI   100% double crops and 80➜84% chance to get triple crops.",
+            "Farmhand XLVI   Grants +180➜184 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+100,000 Coins"
           ]
@@ -428,7 +428,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Farmhand XLVII   100% double crops and 84➜88% chance to get triple crops.",
+            "Farmhand XLVII   Grants +184➜188 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+125,000 Coins"
           ]
@@ -437,7 +437,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Farmhand XLVIII   100% double crops and 88➜92% chance to get triple crops.",
+            "Farmhand XLVIII   Grants +188➜192 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+150,000 Coins"
           ]
@@ -446,7 +446,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Farmhand XLIX   100% double crops and 92➜96% chance to get triple crops.",
+            "Farmhand XLIX   Grants +192➜196 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+175,000 Coins"
           ]
@@ -455,7 +455,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Farmhand L   100% double crops and 96➜100% chance to get triple crops.",
+            "Farmhand L   Grants +196➜200 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+200,000 Coins"
           ]
@@ -464,7 +464,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Farmhand LI   100% triple crops and 4% chance to get quad crops.",
+            "Farmhand LI   Grants +200➜204 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+250,000 Coins"
           ]
@@ -473,7 +473,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Farmhand LII   100% triple crops and 4➜8% chance to get quad crops.",
+            "Farmhand LII   Grants +204➜208 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+300,000 Coins"
           ]
@@ -482,7 +482,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Farmhand LIII   100% triple crops and 8➜12% chance to get quad crops.",
+            "Farmhand LIII   Grants +208➜212 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+350,000 Coins"
           ]
@@ -491,7 +491,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Farmhand LIV   100% triple crops and 12➜16% chance to get quad crops.",
+            "Farmhand LIV   Grants +212➜216 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+400,000 Coins"
           ]
@@ -500,7 +500,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Farmhand LV   100% triple crops and 16➜20% chance to get quad crops.",
+            "Farmhand LV   Grants +216➜220 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+450,000 Coins"
           ]
@@ -509,7 +509,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Farmhand LVI   100% triple crops and 20➜24% chance to get quad crops.",
+            "Farmhand LVI   Grants +220➜224 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+500,000 Coins"
           ]
@@ -518,7 +518,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Farmhand LVII   100% triple crops and 24➜28% chance to get quad crops.",
+            "Farmhand LVII   Grants +224➜228 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+600,000 Coins"
           ]
@@ -527,7 +527,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Farmhand LVIII   100% triple crops and 28➜32% chance to get quad crops.",
+            "Farmhand LVIII   Grants +228➜232 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+700,000 Coins"
           ]
@@ -536,7 +536,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Farmhand LIX   100% triple crops and 32➜36% chance to get quad crops.",
+            "Farmhand LIX   Grants +232➜236 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+800,000 Coins"
           ]
@@ -545,7 +545,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Farmhand LX   100% triple crops and 36➜40% chance to get quad crops.",
+            "Farmhand LX   Grants +236➜240 ♆ Farming Fortune, which increases your chance for multiple crops.",
             "+5 HP ❤ Health",
             "+1,000,000 Coins"
           ]
@@ -555,13 +555,13 @@
     "MINING": {
       "name": "Mining",
       "description": "Spelunk islands for ores and valuable materials to earn Mining XP!",
-      "maxLevel": 50,
+      "maxLevel": 60,
       "levels": [
         {
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Spelunker I   4% chance to get double ores.",
+            "Spelunker I   Grants +4 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "Access to Gold Mine",
             "Jerry Stone Reforge",
@@ -572,7 +572,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Spelunker II   4➜8% chance to get double ores.",
+            "Spelunker II   Grants +4➜8 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "Onyx Reforge",
             "+50 Coins"
@@ -582,7 +582,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Spelunker III   8➜12% chance to get double ores.",
+            "Spelunker III   Grants +8➜12 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+100 Coins"
           ]
@@ -591,7 +591,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Spelunker IV   12➜16% chance to get double ores.",
+            "Spelunker IV   Grants +12➜16 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+200 Coins"
           ]
@@ -600,7 +600,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Spelunker V   16➜20% chance to get double ores.",
+            "Spelunker V   Grants +16➜20 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "Access to Deep Caverns",
             "Lapis Crystal Reforge",
@@ -612,7 +612,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Spelunker VI   20➜24% chance to get double ores.",
+            "Spelunker VI   Grants +20➜24 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "Luxurious Spool Reforge",
             "+400 Coins"
@@ -622,7 +622,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Spelunker VII   24➜28% chance to get double ores.",
+            "Spelunker VII   Grants +24➜28 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+500 Coins"
           ]
@@ -631,7 +631,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Spelunker VIII   28➜32% chance to get double ores.",
+            "Spelunker VIII   Grants +28➜32 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "Rare Diamond Reforge",
             "+600 Coins"
@@ -641,7 +641,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Spelunker IX   32➜36% chance to get double ores.",
+            "Spelunker IX   Grants +32➜36 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+700 Coins"
           ]
@@ -650,7 +650,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Spelunker X   36➜40% chance to get double ores.",
+            "Spelunker X   Grants +36➜40 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "Molten Cube Reforge",
             "Dirt Bottle Reforge",
@@ -661,7 +661,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Spelunker XI   40➜44% chance to get double ores.",
+            "Spelunker XI   Grants +40➜44 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+900 Coins"
           ]
@@ -670,7 +670,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Spelunker XII   44➜48% chance to get double ores.",
+            "Spelunker XII   Grants +44➜48 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+1,000 Coins"
           ]
@@ -679,7 +679,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Spelunker XIII   48➜52% chance to get double ores.",
+            "Spelunker XIII   Grants +48➜52 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "+1,100 Coins"
           ]
@@ -688,7 +688,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Spelunker XIV   52➜56% chance to get double ores.",
+            "Spelunker XIV   Grants +52➜56 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
             "End Stone Geode Reforge",
             "+1,200 Coins"
@@ -698,8 +698,10 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Spelunker XV   56➜60% chance to get double ores.",
+            "Spelunker XV   Grants +56➜60 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Salmon Opal Reforge",
+            "Diamonite Reforge",
             "+1,300 Coins"
           ]
         },
@@ -707,7 +709,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Spelunker XVI   60➜64% chance to get double ores.",
+            "Spelunker XVI   Grants +60➜64 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Premium Flesh Reforge",
             "+1,400 Coins"
@@ -717,7 +719,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Spelunker XVII   64➜68% chance to get double ores.",
+            "Spelunker XVII   Grants +64➜68 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Red Nose Reforge",
             "+1,500 Coins"
@@ -727,9 +729,10 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Spelunker XVIII   68➜72% chance to get double ores.",
+            "Spelunker XVIII   Grants +68➜72 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Beating Heart Reforge",
+            "Pure Mithril Reforge",
             "+1,600 Coins"
           ]
         },
@@ -737,7 +740,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Spelunker XIX   72➜76% chance to get double ores.",
+            "Spelunker XIX   Grants +72➜76 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Necromancer's Brooch Reforge",
             "+1,800 Coins"
@@ -747,7 +750,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Spelunker XX   76➜80% chance to get double ores.",
+            "Spelunker XX   Grants +76➜80 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Dragon Scale Reforge",
             "+2,000 Coins"
@@ -757,9 +760,10 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Spelunker XXI   80➜84% chance to get double ores.",
+            "Spelunker XXI   Grants +80➜84 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Red Scarf Reforge",
+            "Rock Gemstone Reforge",
             "+2,200 Coins"
           ]
         },
@@ -767,7 +771,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Spelunker XXII   84➜88% chance to get double ores.",
+            "Spelunker XXII   Grants +84➜88 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Dragon Claw Reforge",
             "Diamond Atom Reforge",
@@ -779,7 +783,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Spelunker XXIII   88➜92% chance to get double ores.",
+            "Spelunker XXIII   Grants +88➜92 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Suspicious Vial Reforge",
             "+2,600 Coins"
@@ -789,7 +793,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Spelunker XXIV   92➜96% chance to get double ores.",
+            "Spelunker XXIV   Grants +92➜96 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Spirit Stone Reforge",
             "+2,800 Coins"
@@ -799,7 +803,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Spelunker XXV   96➜100% chance to get double ores.",
+            "Spelunker XXV   Grants +96➜100 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Dragon Horn Reforge",
             "Midas Jewel Reforge",
@@ -815,9 +819,10 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Spelunker XXVI   100% double ores and 4% chance to get triple ores.",
+            "Spelunker XXVI   Grants +100➜104 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Warped Stone Reforge",
+            "Petrified Starfall Reforge",
             "+3,500 Coins"
           ]
         },
@@ -825,7 +830,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Spelunker XXVII   100% double ores and 4➜8% chance to get triple ores.",
+            "Spelunker XXVII   Grants +104➜108 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+4,000 Coins"
           ]
@@ -834,7 +839,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Spelunker XXVIII   100% double ores and 8➜12% chance to get triple ores.",
+            "Spelunker XXVIII   Grants +108➜112 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+5,000 Coins"
           ]
@@ -843,7 +848,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Spelunker XXIX   100% double ores and 12➜16% chance to get triple ores.",
+            "Spelunker XXIX   Grants +112➜116 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+6,000 Coins"
           ]
@@ -852,7 +857,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Spelunker XXX   100% double ores and 16➜20% chance to get triple ores.",
+            "Spelunker XXX   Grants +116➜120 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Wither Blood Reforge",
             "Precursor Gear Reforge",
@@ -863,7 +868,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Spelunker XXXI   100% double ores and 20➜24% chance to get triple ores.",
+            "Spelunker XXXI   Grants +120➜124 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+10,000 Coins"
           ]
@@ -872,7 +877,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Spelunker XXXII   100% double ores and 24➜28% chance to get triple ores.",
+            "Spelunker XXXII   Grants +124➜128 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+12,500 Coins"
           ]
@@ -881,7 +886,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Spelunker XXXIII   100% double ores and 28➜32% chance to get triple ores.",
+            "Spelunker XXXIII   Grants +128➜132 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+15,000 Coins"
           ]
@@ -890,7 +895,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Spelunker XXXIV   100% double ores and 32➜36% chance to get triple ores.",
+            "Spelunker XXXIV   Grants +132➜136 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+17,500 Coins"
           ]
@@ -899,7 +904,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Spelunker XXXV   100% double ores and 36➜40% chance to get triple ores.",
+            "Spelunker XXXV   Grants +136➜140 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+20,000 Coins"
           ]
@@ -908,7 +913,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Spelunker XXXVI   100% double ores and 40➜44% chance to get triple ores.",
+            "Spelunker XXXVI   Grants +140➜144 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+25,000 Coins"
           ]
@@ -917,7 +922,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Spelunker XXXVII   100% double ores and 44➜48% chance to get triple ores.",
+            "Spelunker XXXVII   Grants +144➜148 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+30,000 Coins"
           ]
@@ -926,7 +931,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Spelunker XXXVIII   100% double ores and 48➜52% chance to get triple ores.",
+            "Spelunker XXXVIII   Grants +148➜152 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+35,000 Coins"
           ]
@@ -935,7 +940,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Spelunker XXXIX   100% double ores and 52➜56% chance to get triple ores.",
+            "Spelunker XXXIX   Grants +152➜156 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+40,000 Coins"
           ]
@@ -944,7 +949,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Spelunker XL   100% double ores and 56➜60% chance to get triple ores.",
+            "Spelunker XL   Grants +156➜160 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+45,000 Coins"
           ]
@@ -953,7 +958,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Spelunker XLI   100% double ores and 60➜64% chance to get triple ores.",
+            "Spelunker XLI   Grants +160➜164 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+50,000 Coins"
           ]
@@ -962,7 +967,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Spelunker XLII   100% double ores and 64➜68% chance to get triple ores.",
+            "Spelunker XLII   Grants +164➜168 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+60,000 Coins"
           ]
@@ -971,7 +976,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Spelunker XLIII   100% double ores and 68➜72% chance to get triple ores.",
+            "Spelunker XLIII   Grants +168➜172 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+70,000 Coins"
           ]
@@ -980,7 +985,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Spelunker XLIV   100% double ores and 72➜76% chance to get triple ores.",
+            "Spelunker XLIV   Grants +172➜176 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+80,000 Coins"
           ]
@@ -989,7 +994,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Spelunker XLV   100% double ores and 76➜80% chance to get triple ores.",
+            "Spelunker XLV   Grants +176➜180 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+90,000 Coins"
           ]
@@ -998,7 +1003,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Spelunker XLVI   100% double ores and 80➜84% chance to get triple ores.",
+            "Spelunker XLVI   Grants +180➜184 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+100,000 Coins"
           ]
@@ -1007,7 +1012,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Spelunker XLVII   100% double ores and 84➜88% chance to get triple ores.",
+            "Spelunker XLVII   Grants +184➜188 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+125,000 Coins"
           ]
@@ -1016,7 +1021,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Spelunker XLVIII   100% double ores and 88➜92% chance to get triple ores.",
+            "Spelunker XLVIII   Grants +188➜192 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+150,000 Coins"
           ]
@@ -1025,7 +1030,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Spelunker XLIX   100% double ores and 92➜96% chance to get triple ores.",
+            "Spelunker XLIX   Grants +192➜196 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+175,000 Coins"
           ]
@@ -1034,9 +1039,99 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Spelunker L   100% double ores and 96➜100% chance to get triple ores.",
+            "Spelunker L   Grants +196➜200 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "+200,000 Coins"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Spelunker LI   Grants +200➜204 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+250,000 Coins"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Spelunker LII   Grants +204➜208 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+300,000 Coins"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Spelunker LIII   Grants +208➜212 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+350,000 Coins"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Spelunker LIV   Grants +212➜216 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+400,000 Coins"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Spelunker LV   Grants +216➜220 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+450,000 Coins"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Spelunker LVI   Grants +220➜224 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+500,000 Coins"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Spelunker LVII   Grants +224➜228 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+600,000 Coins"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Spelunker LVIII   Grants +228➜232 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+700,000 Coins"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Spelunker LIX   Grants +232➜236 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+800,000 Coins"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Spelunker LX   Grants +236➜240 ♆ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+1,000,000 Coins"
           ]
         }
       ]
@@ -1868,7 +1963,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Logger I   4% chance to get double logs.",
+            "Logger I   Grants +4 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "Access to Birch Park",
             "+25 Coins"
@@ -1878,7 +1973,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Logger II   4➜8% chance to get double logs.",
+            "Logger II   Grants +4➜8 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "Access to Spruce Woods",
             "+50 Coins"
@@ -1888,7 +1983,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Logger III   8➜12% chance to get double logs.",
+            "Logger III   Grants +8➜12 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "Access to Dark Thicket",
             "+100 Coins"
@@ -1898,7 +1993,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Logger IV   12➜16% chance to get double logs.",
+            "Logger IV   Grants +12➜16 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "Access to Savanna Woodland",
             "+200 Coins"
@@ -1908,7 +2003,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Logger V   16➜20% chance to get double logs.",
+            "Logger V   Grants +16➜20 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "Access to Jungle Island",
             "+300 Coins"
@@ -1918,7 +2013,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Logger VI   20➜24% chance to get double logs.",
+            "Logger VI   Grants +20➜24 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+400 Coins"
           ]
@@ -1927,7 +2022,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Logger VII   24➜28% chance to get double logs.",
+            "Logger VII   Grants +24➜28 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+500 Coins"
           ]
@@ -1936,7 +2031,7 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Logger VIII   28➜32% chance to get double logs.",
+            "Logger VIII   Grants +28➜32 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+600 Coins"
           ]
@@ -1945,7 +2040,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Logger IX   32➜36% chance to get double logs.",
+            "Logger IX   Grants +32➜36 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+700 Coins"
           ]
@@ -1954,7 +2049,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Logger X   36➜40% chance to get double logs.",
+            "Logger X   Grants +36➜40 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+800 Coins"
           ]
@@ -1963,7 +2058,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Logger XI   40➜44% chance to get double logs.",
+            "Logger XI   Grants +40➜44 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+900 Coins"
           ]
@@ -1972,7 +2067,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Logger XII   44➜48% chance to get double logs.",
+            "Logger XII   Grants +44➜48 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+1,000 Coins"
           ]
@@ -1981,7 +2076,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Logger XIII   48➜52% chance to get double logs.",
+            "Logger XIII   Grants +48➜52 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+1,100 Coins"
           ]
@@ -1990,7 +2085,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Logger XIV   52➜56% chance to get double logs.",
+            "Logger XIV   Grants +52➜56 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
             "+1,200 Coins"
           ]
@@ -1999,7 +2094,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Logger XV   56➜60% chance to get double logs.",
+            "Logger XV   Grants +56➜60 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+1,300 Coins"
           ]
@@ -2008,7 +2103,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Logger XVI   60➜64% chance to get double logs.",
+            "Logger XVI   Grants +60➜64 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+1,400 Coins"
           ]
@@ -2017,7 +2112,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Logger XVII   64➜68% chance to get double logs.",
+            "Logger XVII   Grants +64➜68 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+1,500 Coins"
           ]
@@ -2026,7 +2121,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Logger XVIII   68➜72% chance to get double logs.",
+            "Logger XVIII   Grants +68➜72 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+1,600 Coins"
           ]
@@ -2035,7 +2130,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Logger XIX   72➜76% chance to get double logs.",
+            "Logger XIX   Grants +72➜76 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+1,800 Coins"
           ]
@@ -2044,7 +2139,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Logger XX   76➜80% chance to get double logs.",
+            "Logger XX   Grants +76➜80 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+2,000 Coins"
           ]
@@ -2053,7 +2148,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Logger XXI   80➜84% chance to get double logs.",
+            "Logger XXI   Grants +80➜84 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+2,200 Coins"
           ]
@@ -2062,7 +2157,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Logger XXII   84➜88% chance to get double logs.",
+            "Logger XXII   Grants +84➜88 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+2,400 Coins"
           ]
@@ -2071,7 +2166,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Logger XXIII   88➜92% chance to get double logs.",
+            "Logger XXIII   Grants +88➜92 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+2,600 Coins"
           ]
@@ -2080,7 +2175,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Logger XXIV   92➜96% chance to get double logs.",
+            "Logger XXIV   Grants +92➜96 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+2,800 Coins"
           ]
@@ -2089,7 +2184,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Logger XXV   96➜100% chance to get double logs.",
+            "Logger XXV   Grants +96➜100 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+3,000 Coins"
           ]
@@ -2098,7 +2193,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Logger XXVI   100% double logs and 4% chance to get triple logs.",
+            "Logger XXVI   Grants +100➜104 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+3,500 Coins"
           ]
@@ -2107,7 +2202,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Logger XXVII   100% double logs and 4➜8% chance to get triple logs.",
+            "Logger XXVII   Grants +104➜108 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+4,000 Coins"
           ]
@@ -2116,7 +2211,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Logger XXVIII   100% double logs and 8➜12% chance to get triple logs.",
+            "Logger XXVIII   Grants +108➜112 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+5,000 Coins"
           ]
@@ -2125,7 +2220,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Logger XXIX   100% double logs and 12➜16% chance to get triple logs.",
+            "Logger XXIX   Grants +112➜116 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+6,000 Coins"
           ]
@@ -2134,7 +2229,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Logger XXX   100% double logs and 16➜20% chance to get triple logs.",
+            "Logger XXX   Grants +116➜120 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+7,500 Coins"
           ]
@@ -2143,7 +2238,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Logger XXXI   100% double logs and 20➜24% chance to get triple logs.",
+            "Logger XXXI   Grants +120➜124 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+10,000 Coins"
           ]
@@ -2152,7 +2247,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Logger XXXII   100% double logs and 24➜28% chance to get triple logs.",
+            "Logger XXXII   Grants +124➜128 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+12,500 Coins"
           ]
@@ -2161,7 +2256,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Logger XXXIII   100% double logs and 28➜32% chance to get triple logs.",
+            "Logger XXXIII   Grants +128➜132 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+15,000 Coins"
           ]
@@ -2170,7 +2265,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Logger XXXIV   100% double logs and 32➜36% chance to get triple logs.",
+            "Logger XXXIV   Grants +132➜136 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+17,500 Coins"
           ]
@@ -2179,7 +2274,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Logger XXXV   100% double logs and 36➜40% chance to get triple logs.",
+            "Logger XXXV   Grants +136➜140 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+20,000 Coins"
           ]
@@ -2188,7 +2283,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Logger XXXVI   100% double logs and 40➜44% chance to get triple logs.",
+            "Logger XXXVI   Grants +140➜144 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+25,000 Coins"
           ]
@@ -2197,7 +2292,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Logger XXXVII   100% double logs and 44➜48% chance to get triple logs.",
+            "Logger XXXVII   Grants +144➜148 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+30,000 Coins"
           ]
@@ -2206,7 +2301,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Logger XXXVIII   100% double logs and 48➜52% chance to get triple logs.",
+            "Logger XXXVIII   Grants +148➜152 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+35,000 Coins"
           ]
@@ -2215,7 +2310,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Logger XXXIX   100% double logs and 52➜56% chance to get triple logs.",
+            "Logger XXXIX   Grants +152➜156 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+40,000 Coins"
           ]
@@ -2224,7 +2319,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Logger XL   100% double logs and 56➜60% chance to get triple logs.",
+            "Logger XL   Grants +156➜160 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+45,000 Coins"
           ]
@@ -2233,7 +2328,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Logger XLI   100% double logs and 60➜64% chance to get triple logs.",
+            "Logger XLI   Grants +160➜164 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+50,000 Coins"
           ]
@@ -2242,7 +2337,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Logger XLII   100% double logs and 64➜68% chance to get triple logs.",
+            "Logger XLII   Grants +164➜168 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+60,000 Coins"
           ]
@@ -2251,7 +2346,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Logger XLIII   100% double logs and 68➜72% chance to get triple logs.",
+            "Logger XLIII   Grants +168➜172 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+70,000 Coins"
           ]
@@ -2260,7 +2355,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Logger XLIV   100% double logs and 72➜76% chance to get triple logs.",
+            "Logger XLIV   Grants +172➜176 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+80,000 Coins"
           ]
@@ -2269,7 +2364,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Logger XLV   100% double logs and 76➜80% chance to get triple logs.",
+            "Logger XLV   Grants +176➜180 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+90,000 Coins"
           ]
@@ -2278,7 +2373,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Logger XLVI   100% double logs and 80➜84% chance to get triple logs.",
+            "Logger XLVI   Grants +180➜184 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+100,000 Coins"
           ]
@@ -2287,7 +2382,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Logger XLVII   100% double logs and 84➜88% chance to get triple logs.",
+            "Logger XLVII   Grants +184➜188 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+125,000 Coins"
           ]
@@ -2296,7 +2391,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Logger XLVIII   100% double logs and 88➜92% chance to get triple logs.",
+            "Logger XLVIII   Grants +188➜192 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+150,000 Coins"
           ]
@@ -2305,7 +2400,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Logger XLIX   100% double logs and 92➜96% chance to get triple logs.",
+            "Logger XLIX   Grants +192➜196 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+175,000 Coins"
           ]
@@ -2314,7 +2409,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Logger L   100% double logs and 96➜100% chance to get triple logs.",
+            "Logger L   Grants +196➜200 ♆ Foraging Fortune, which increases your chance for multiple logs.",
             "+2 ❁ Strength",
             "+200,000 Coins"
           ]
@@ -2471,7 +2566,7 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
+            "Carrot King Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -2481,7 +2576,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
@@ -2491,8 +2586,8 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Werewolf Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
@@ -2502,8 +2597,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Deep Sea Protector Sea Creature",
+            "Tiger Shark Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
@@ -2513,7 +2608,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
@@ -2523,7 +2618,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
@@ -2533,7 +2628,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
@@ -2561,7 +2656,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "??? Sea Creature",
+            "Great White Shark Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
@@ -2571,7 +2666,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "??? Sea Creature",
+            "Yeti Sea Creature",
             "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
@@ -2581,7 +2676,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Grim Reaper Sea Creature",
             "Treasure Hunter XXVI   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 HP ❤ Health",
             "+3,500 Coins"

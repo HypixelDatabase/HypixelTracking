@@ -2210,7 +2210,14 @@
           "boss_collection_claimed_necron_wither_blood",
           "boss_collection_claimed_necron_recombobulator",
           "boss_collection_claimed_necron_wither_helmet",
-          "boss_collection_claimed_livid_recombobulator"
+          "boss_collection_claimed_livid_recombobulator",
+          "zone_deeper_caverns_lift",
+          "zone_deeper_caverns",
+          "zone_dwarven_village",
+          "shop_bulvar",
+          "talked_to_rhys2",
+          "rhys_tutorial",
+          "powder_collected_message"
         ],
         "quests": {
           "collect_log": {
@@ -2475,7 +2482,10 @@
           "election_room",
           "blacksmith",
           "builders_house",
-          "farmhouse"
+          "farmhouse",
+          "deeper_caverns_lift",
+          "deeper_caverns",
+          "dwarven_village"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3153,7 +3163,9 @@
           "NETHER_STALK_12",
           "PUMPKIN_10",
           "REDSTONE_15",
-          "PUMPKIN_11"
+          "PUMPKIN_11",
+          "MITHRIL_ORE_-1",
+          "REDSTONE_16"
         ],
         "fishing_bag": {
           "type": 0,
@@ -3236,7 +3248,8 @@
           "ENCHANTED_SPONGE": 0,
           "ENCHANTED_PUFFERFISH": 0,
           "ENCHANTED_PRISMARINE_SHARD": 0,
-          "ENCHANTED_PRISMARINE_CRYSTALS": 0
+          "ENCHANTED_PRISMARINE_CRYSTALS": 0,
+          "MITHRIL_ORE": 0
         },
         "quiver": {
           "type": 0,
@@ -3336,7 +3349,8 @@
           "SPIRIT_LEAP": 0,
           "INFLATABLE_JERRY": 0,
           "GREEN_CANDY": 0,
-          "PURPLE_CANDY": 0
+          "PURPLE_CANDY": 0,
+          "MITHRIL_ORE": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

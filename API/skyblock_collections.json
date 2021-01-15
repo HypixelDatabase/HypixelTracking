@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1610626825947,
-  "version": "0.10.34",
+  "lastUpdated": 1610727229027,
+  "version": "0.10.36",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1768,7 +1768,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 15,
+          "maxTiers": 16,
           "tiers": [
             {
               "tier": 1,
@@ -1877,6 +1877,13 @@
               "amountRequired": 1200000,
               "unlocks": [
                 "Titanic Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 16,
+              "amountRequired": 1400000,
+              "unlocks": [
+                "Preposterous Accessory Bag Upgrade"
               ]
             }
           ]
@@ -2397,6 +2404,75 @@
               "amountRequired": 50000,
               "unlocks": [
                 "End Stone Sword Recipe"
+              ]
+            }
+          ]
+        },
+        "MITHRIL_ORE": {
+          "name": "Mithril",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Mithril Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Spelunker Potion Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Mithril Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Mithril Crystal Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Mithril Coat Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Dwarven Super Compactor Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Mystery Mithril Golem Pet Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 500000,
+              "unlocks": [
+                "MITHRIL_INFUSION (COMING SOON)"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Beacon I Recipe"
               ]
             }
           ]

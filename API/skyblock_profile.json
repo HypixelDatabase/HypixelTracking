@@ -438,7 +438,14 @@
           "deaths_caverns_ghost": 0,
           "kills_goblin_knife_thrower": 0,
           "kills_goblin_weakling_melee": 0,
-          "kills_goblin_weakling_bow": 0
+          "kills_goblin_weakling_bow": 0,
+          "kills_treasure_hoarder": 0,
+          "kills_goblin_creepertamer": 0,
+          "kills_goblin_battler": 0,
+          "kills_goblin_murderlover": 0,
+          "kills_caverns_ghost": 0,
+          "kills_goblin_creeper": 0,
+          "kills_goblin_golem": 0
         },
         "objectives": {
           "collect_log": {
@@ -2090,7 +2097,8 @@
             "started": true,
             "ENCHANTED_REDSTONE": 0,
             "ENCHANTED_IRON": 0,
-            "ENCHANTED_COAL": 0
+            "ENCHANTED_COAL": 0,
+            "ENCHANTED_DIAMOND": 0
           },
           "fetchur-15-0": {
             "status": "",
@@ -2268,7 +2276,9 @@
           "zone_goblin_burrows",
           "zone_far_reserve",
           "zone_hanging_court",
-          "zone_grand_library"
+          "zone_grand_library",
+          "zone_upper_mines",
+          "zone_miners_guild"
         ],
         "quests": {
           "collect_log": {
@@ -2561,7 +2571,9 @@
           "goblin_burrows",
           "far_reserve",
           "hanging_court",
-          "grand_library"
+          "grand_library",
+          "upper_mines",
+          "miners_guild"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3244,7 +3256,8 @@
           "REDSTONE_16",
           "MITHRIL_ORE_1",
           "MITHRIL_ORE_2",
-          "MITHRIL_ORE_3"
+          "MITHRIL_ORE_3",
+          "MITHRIL_ORE_4"
         ],
         "fishing_bag": {
           "type": 0,

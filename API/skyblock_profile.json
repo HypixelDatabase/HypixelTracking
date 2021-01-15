@@ -432,7 +432,8 @@
           "kills_mayor_jerry_green": 0,
           "kills_mayor_jerry_blue": 0,
           "kills_mayor_jerry_purple": 0,
-          "kills_mayor_jerry_golden": 0
+          "kills_mayor_jerry_golden": 0,
+          "kills_ice_walker": 0
         },
         "objectives": {
           "collect_log": {
@@ -2217,7 +2218,18 @@
           "shop_bulvar",
           "talked_to_rhys2",
           "rhys_tutorial",
-          "powder_collected_message"
+          "powder_collected_message",
+          "zone_dwarven_tavern",
+          "zone_palace_bridge",
+          "shop_bubu",
+          "zone_lava_springs",
+          "zone_forge_basin",
+          "zone_cliffside_veins",
+          "zone_divan_gateway",
+          "zone_ice_wall",
+          "zone_forge",
+          "zone_rampart_quarry",
+          "zone_gates_mines"
         ],
         "quests": {
           "collect_log": {
@@ -2485,7 +2497,17 @@
           "farmhouse",
           "deeper_caverns_lift",
           "deeper_caverns",
-          "dwarven_village"
+          "dwarven_village",
+          "dwarven_tavern",
+          "palace_bridge",
+          "lava_springs",
+          "forge_basin",
+          "cliffside_veins",
+          "divan_gateway",
+          "ice_wall",
+          "forge",
+          "rampart_quarry",
+          "gates_mines"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3165,7 +3187,8 @@
           "REDSTONE_15",
           "PUMPKIN_11",
           "MITHRIL_ORE_-1",
-          "REDSTONE_16"
+          "REDSTONE_16",
+          "MITHRIL_ORE_1"
         ],
         "fishing_bag": {
           "type": 0,

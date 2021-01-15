@@ -2278,7 +2278,9 @@
           "zone_hanging_court",
           "zone_grand_library",
           "zone_upper_mines",
-          "zone_miners_guild"
+          "zone_miners_guild",
+          "zone_hero_barracks",
+          "zone_carts_crafting_co"
         ],
         "quests": {
           "collect_log": {
@@ -2573,7 +2575,9 @@
           "hanging_court",
           "grand_library",
           "upper_mines",
-          "miners_guild"
+          "miners_guild",
+          "hero_barracks",
+          "carts_crafting_co"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3257,7 +3261,8 @@
           "MITHRIL_ORE_1",
           "MITHRIL_ORE_2",
           "MITHRIL_ORE_3",
-          "MITHRIL_ORE_4"
+          "MITHRIL_ORE_4",
+          "MITHRIL_ORE_5"
         ],
         "fishing_bag": {
           "type": 0,

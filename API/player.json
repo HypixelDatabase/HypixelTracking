@@ -33497,20 +33497,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "",
-              "gold_reward": 0,
-              "requirements": {
-                "gapples": 0
-              },
-              "progress": {},
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 0,
-              "key": ""
-            }
-          ],
+          "contract_choices": "",
           "last_save": 0,
           "king_quest": {
             "kills": 0,
@@ -34074,7 +34061,8 @@
               "bounties_claim": 0,
               "ingots": 0,
               "streak": 0,
-              "shots": 0
+              "shots": 0,
+              "gapples": 0
             },
             "chunk_of_viles_reward": 0,
             "completion_date": 0,

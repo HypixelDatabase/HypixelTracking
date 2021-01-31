@@ -33508,20 +33508,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "",
-              "gold_reward": 0,
-              "requirements": {
-                "gapples": 0
-              },
-              "progress": {},
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 0,
-              "key": ""
-            }
-          ],
+          "contract_choices": "",
           "last_save": 0,
           "king_quest": {
             "kills": 0,
@@ -37765,7 +37752,8 @@
         "SUPER_SMASH__leaderboard_challenge": 0,
         "SUPER_SMASH__smash_challenge": 0,
         "QUAKECRAFT__killing_streak_challenge": 0,
-        "QUAKECRAFT__powerup_challenge": 0
+        "QUAKECRAFT__powerup_challenge": 0,
+        "TNTGAMES__tnt_run_challenge": 0
       },
       "day_i": {
         "UHC__threat_challenge": 0,

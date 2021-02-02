@@ -187,21 +187,7 @@ function processForm(form) {
           reRenderWidgets();
         }
       } else if (json.type == "success") {
-        if (json.gateway == "googlewallet") {
-          google.payments.inapp.buy({
-            jwt: json.data,
-            success: function() {
-              window.top.location.replace("/checkout/complete");
-            },
-            failure: function(result) {
-              error = result.response.errorType;
-
-              if (error != 'PURCHASE_CANCELED' && error != 'PURCHASE_CANCELLED') {
-                showNotification("error", "Your transaction could not be completed. (Error: " + error + ")");
-              }
-            }
-          });
-        } else if (json.gateway == "stripe") {
+        if (json.gateway == "stripe") {
           stripeData = json.data;
 
           stripeData.token = function(stripeResponse) {
@@ -223,18 +209,6 @@ function processForm(form) {
           };
 
           StripeCheckout.open(stripeData);
-        } else if (json.gateway == "cashu") {
-          var cashuForm = $('<form id="mapform" action="https://www.cashu.com/cgi-bin/pcashu.cgi" method="post"></form>');
-
-          for (var key in json.data) {
-            if (json.data.hasOwnProperty(key)) {
-              cashuForm.append('<input type="hidden" name="' + key + '" value="' + json.data[key] + '" />');
-            }
-          }
-
-          $('body').append(cashuForm);
-
-          cashuForm.submit();
         } else if (json.gateway == "xsolla") {
           $('body').append(json.data.html);
         } else {

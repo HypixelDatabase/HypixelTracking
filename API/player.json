@@ -33518,7 +33518,22 @@
               "target": ""
             }
           ],
-          "contract_choices": "",
+          "contract_choices": [
+            {
+              "difficulty": "",
+              "gold_reward": 0,
+              "requirements": {
+                "kills": 0
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 0,
+              "key": ""
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

@@ -29,10 +29,6 @@ $(document).ready(function() {
     $('#checkout-gateway').val(this.name)
   });
 
-  $('.checkout-braintree').click(function() {
-    $('.braintree-details').removeClass("hidden");
-  });
-
   $(".tooltip-help").tooltip();
 
   $("img[data-src]").jail();
@@ -145,31 +141,10 @@ $(document).ready(function() {
 });
 
 function submitCheckoutForm(form) {
-  braintreeValue = $('.checkout-braintree').attr('name');
-
-  if ($('#checkout-gateway').val() == braintreeValue) {
-    braintreeinstance.requestPaymentMethod(function(err, payload) {
-      if (err) {
-        console.log('Error', err);
-        notification.show("danger", "We could not validate your payment method. Please select a new payment method and try again.");
-        return;
-      }
-
-      // Add the nonce to the form and submit
-      document.querySelector('#nonce').value = payload.nonce;
-      return processForm(form);
-    });
-  } else {
-    return processForm(form);
-  }
-
-  return false;
-
+  return processForm(form);
 }
 
 function processForm(form) {
-
-
   $.ajax({
     type: 'POST',
     url: form.attr("action"),

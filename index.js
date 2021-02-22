@@ -14,13 +14,25 @@ const whiteListedArrays = [
   'tutorial', 'visited_zones', 'crafted_minions', 'achievement_spawned_island_types', 'unlocked_coll_tiers'
 ];
 
+const blacklistedValues = ['contract_choices'];
+
 function uniqueArrayElements(target, source) {
   const destination = target.slice().concat(source);
   return [...new Set(destination)];
 }
 
-function normalizeObject(o) {
-  Object.keys(o).forEach(key => {
+function containsBadKey(key) {
+  // return (key in blacklistedValues) || key.startsWith('fetchur-');
+  if ((blacklistedValues.includes(key)) || key.startsWith('fetchur-')) {
+    return true;
+  }
+  return false;
+}
+
+function normalizeObject(object) {
+  const o = { ...object  };
+  const keys = Object.keys(o).filter((key) => !containsBadKey(key))
+  keys.forEach(key => {
     let entry = o[key];
     switch (typeof entry) {
       case 'number':

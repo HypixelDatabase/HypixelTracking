@@ -33537,18 +33537,46 @@
           ],
           "contract_choices": [
             {
-              "difficulty": "",
-              "gold_reward": 0,
+              "difficulty": "HARD",
+              "gold_reward": 2750,
               "requirements": {
-                "kills": 0
+                "kills": 5
               },
               "progress": {
                 "kills": 0
               },
-              "chunk_of_viles_reward": 0,
+              "chunk_of_viles_reward": 1,
               "completion_date": 0,
-              "remaining_ticks": 0,
-              "key": ""
+              "remaining_ticks": 6000,
+              "key": "sneaking_kills"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2400,
+              "requirements": {
+                "kills": 10
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "kill_on_obsidian"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "kills": 10
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "diamond_sword_kill"
             }
           ],
           "last_save": 0,

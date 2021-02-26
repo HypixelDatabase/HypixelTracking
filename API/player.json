@@ -5946,7 +5946,8 @@
           "sawed_off_old",
           "scoped_rifle_clip",
           "usp_plus",
-          "ak_47_violet_plus"
+          "ak_47_violet_plus",
+          "desert_eagle_plus"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -15147,7 +15148,8 @@
           "helmet_9_1_unlocked",
           "blue_kart_alt_2_unlocked",
           "white_kart_alt_1_unlocked",
-          "divisiongingerbread_tkr_points__1_2021"
+          "divisiongingerbread_tkr_points__1_2021",
+          "jerry_unlocked"
         ],
         "horn": "",
         "box_pickups": 0,
@@ -16048,7 +16050,9 @@
           "cage_blazing-cage",
           "projectiletrail_tinsel",
           "victorydance_abominable_snowman",
-          "killmessages_to_the_moon"
+          "killmessages_to_the_moon",
+          "victorydance_chicken_apocalypse",
+          "cage_crown"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -29452,7 +29456,15 @@
           "favoritemap_hollow",
           "favoritemap_lighthouse",
           "sprays_rabbit_costume",
-          "beddestroy_present"
+          "beddestroy_present",
+          "npcskin_cluck_stack",
+          "woodskin_acacia_log",
+          "woodskin_dark_oak_log",
+          "woodskin_jungle_log",
+          "woodskin_spruce_log",
+          "woodskin_oak_log",
+          "woodskin_birch_log",
+          "islandtopper_tourney"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -35024,7 +35036,19 @@
         "pet_grinch",
         "hat_rainbow_present",
         "punchmessage_snowball",
-        "gadget_dreidel"
+        "gadget_dreidel",
+        "gadget_tournament_banner_grinch_simulator_0",
+        "gadget_tournament_banner_blitz_duo_1",
+        "gadget_tournament_banner_gingerbread_solo_0",
+        "gadget_tournament_banner_bedwars4s_1",
+        "gadget_tournament_banner_sw_insane_doubles_0",
+        "cloak_sloth_face",
+        "pet_clone",
+        "gadget_up_up_away",
+        "cloak_archangel",
+        "gadget_tournament_banner_bedwars4s_0",
+        "pet_wither_skeleton",
+        "gadget_connect_four"
       ]
     },
     "vanityTokens": 0,
@@ -38470,7 +38494,8 @@
         "tributes_earned": 0,
         "first_win": 0,
         "claimed_ranking_reward": 0
-      }
+      },
+      "hide_purchased": true
     },
     "currentGadget": "",
     "completed_christmas_quests_2019": 0,

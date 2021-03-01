@@ -2977,7 +2977,9 @@
           "top_hat",
           "melee_trail_portal",
           "packagearena_arena_rating_12_20",
-          "packagearena_arena_rating_1_21"
+          "packagearena_arena_rating_1_21",
+          "packagearena_arena_rating_2_21",
+          "kill_effect_heart_aura"
         ],
         "penalty": 0,
         "rating": 0,
@@ -3062,7 +3064,9 @@
         "Arena_arena_rating_12_20_position": 0,
         "Arena_arena_rating_12_20_rating": 0,
         "Arena_arena_rating_1_21_rating": 0,
-        "Arena_arena_rating_1_21_position": 0
+        "Arena_arena_rating_1_21_position": 0,
+        "Arena_arena_rating_2_21_position": 0,
+        "Arena_arena_rating_2_21_rating": 0
       },
       "Battleground": {
         "aquamancer_plays": 0,
@@ -38925,6 +38929,13 @@
         "VIP_PLUS": true,
         "REGULAR": true,
         "VIP": true
+      },
+      "3-2021": {
+        "MVP_PLUS": true,
+        "VIP_PLUS": true,
+        "VIP": true,
+        "REGULAR": true,
+        "MVP": true
       }
     },
     "dmcrates-10-2019": {

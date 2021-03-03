@@ -30234,7 +30234,16 @@
         "practice": {
           "bridging": {
             "failed_attempts": 0,
-            "blocks_placed": 0
+            "blocks_placed": 0,
+            "successful_attempts": 0
+          },
+          "selected": "",
+          "records": {
+            "bridging_distance_30:elevation_NONE:angle_STRAIGHT:": 0
+          },
+          "mlg": {
+            "successful_attempts": 0,
+            "failed_attempts": 0
           }
         }
       },

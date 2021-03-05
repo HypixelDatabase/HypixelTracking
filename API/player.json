@@ -3897,7 +3897,15 @@
           "toxicologist_9",
           "reaper_7",
           "reaper_8",
-          "reaper_9"
+          "reaper_9",
+          "necromancer_6",
+          "necromancer_7",
+          "necromancer_8",
+          "necromancer_9",
+          "astronaut_6",
+          "astronaut_7",
+          "astronaut_8",
+          "astronaut_9"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -5813,7 +5821,18 @@
         "inGamePresentsCap_2021_14": 0,
         "inGamePresentsCap_2021_15": 0,
         "arrows_hit_reaper": 0,
-        "wins_reaper": 0
+        "wins_reaper": 0,
+        "AstronautInventory": {
+          "0": "",
+          "4": "",
+          "8": "",
+          "29": "",
+          "30": "",
+          "31": "",
+          "32": ""
+        },
+        "exp_astronaut": 0,
+        "wins_astronaut": 0
       },
       "MCGO": {
         "bombs_defused": 0,

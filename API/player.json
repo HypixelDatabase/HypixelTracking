@@ -30266,6 +30266,12 @@
           },
           "mlg": {
             "successful_attempts": 0,
+            "failed_attempts": 0,
+            "blocks_placed": 0
+          },
+          "fireball_jumping": {
+            "successful_attempts": 0,
+            "blocks_placed": 0,
             "failed_attempts": 0
           }
         }

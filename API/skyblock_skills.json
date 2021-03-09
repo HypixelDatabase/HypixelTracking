@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1615155911481,
-  "version": "0.11.48",
+  "lastUpdated": 1615311147529,
+  "version": "0.11.52",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1139,7 +1139,7 @@
     "COMBAT": {
       "name": "Combat",
       "description": "Fight mobs and players to earn Combat XP!",
-      "maxLevel": 50,
+      "maxLevel": 60,
       "levels": [
         {
           "level": 1,
@@ -1593,6 +1593,96 @@
             "Warrior L   Deal 196➜200% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
             "+200,000 Coins"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Warrior LI   Deal 200➜201% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+250,000 Coins"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Warrior LII   Deal 201➜202% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+300,000 Coins"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Warrior LIII   Deal 202➜203% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+350,000 Coins"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Warrior LIV   Deal 203➜204% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+400,000 Coins"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Warrior LV   Deal 204➜205% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+450,000 Coins"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Warrior LVI   Deal 205➜206% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+500,000 Coins"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Warrior LVII   Deal 206➜207% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+600,000 Coins"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Warrior LVIII   Deal 207➜208% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+700,000 Coins"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Warrior LIX   Deal 208➜209% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+800,000 Coins"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Warrior LX   Deal 209➜210% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,000,000 Coins"
           ]
         }
       ]
@@ -2516,7 +2606,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "??? Sea Creature",
+            "Blue Shark Sea Creature",
             "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 HP ❤ Health",
             "+800 Coins"
@@ -2526,7 +2616,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "??? Sea Creature",
+            "Monster of the Deep Sea Creature",
             "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 HP ❤ Health",
             "+900 Coins"
@@ -2545,8 +2635,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Grinch Sea Creature",
+            "Catfish Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
@@ -2556,7 +2646,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 HP ❤ Health",
             "+1,200 Coins"

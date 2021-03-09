@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1615155911429,
-  "version": "0.11.48",
+  "lastUpdated": 1615311147369,
+  "version": "0.11.52",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -91,7 +91,8 @@
               "tier": 11,
               "amountRequired": 100000,
               "unlocks": [
-                "Tightly-Tied Hay Bale Recipe"
+                "Tightly-Tied Hay Bale Recipe",
+                "Large Enchanted Agronomy Sack Recipe"
               ]
             }
           ]
@@ -1015,7 +1016,7 @@
         },
         "MUTTON": {
           "name": "Mutton",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1081,6 +1082,13 @@
               "unlocks": [
                 "Polymorph Wand (COMING SOON)",
                 "Large Husbandry Sack Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Large Enchanted Husbandry Sack Recipe"
               ]
             }
           ]
@@ -1331,7 +1339,7 @@
         },
         "COAL": {
           "name": "Coal",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -1398,12 +1406,19 @@
                 "Mystery Wither Skeleton Pet Recipe",
                 "Large Mining Sack Recipe"
               ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Large Enchanted Mining Sack Recipe"
+              ]
             }
           ]
         },
         "IRON_INGOT": {
           "name": "Iron Ingot",
-          "maxTiers": 9,
+          "maxTiers": 12,
           "tiers": [
             {
               "tier": 1,
@@ -1468,7 +1483,29 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Enchanted Hopper Recipe"
+                "Enchanted Hopper Recipe",
+                "Personal Deletor 4000 Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Personal Deletor 5000 Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 200000,
+              "unlocks": [
+                "Personal Deletor 6000 Recipe"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 400000,
+              "unlocks": [
+                "Personal Deletor 7000 Recipe"
               ]
             }
           ]
@@ -2484,7 +2521,7 @@
       "items": {
         "ROTTEN_FLESH": {
           "name": "Rotten Flesh",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -2552,6 +2589,13 @@
               "unlocks": [
                 "Mystery Zombie Pet Recipe",
                 "Large Combat Sack Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Large Enchanted Combat Sack Recipe"
               ]
             }
           ]
@@ -3340,7 +3384,7 @@
         },
         "LOG:2": {
           "name": "Birch Wood",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -3405,6 +3449,13 @@
               "amountRequired": 25000,
               "unlocks": [
                 "Large Foraging Sack Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Large Enchanted Foraging Sack Recipe"
               ]
             }
           ]
@@ -3839,7 +3890,7 @@
         },
         "RAW_FISH:3": {
           "name": "Pufferfish",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -3903,6 +3954,13 @@
               "amountRequired": 9000,
               "unlocks": [
                 "Large Fishing Sack Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 18000,
+              "unlocks": [
+                "Large Enchanted Fishing Sack Recipe"
               ]
             }
           ]

@@ -453,7 +453,8 @@
           "deaths_ice_walker": 0,
           "deaths_crypt_undead_hypixel": 0,
           "deaths_crypt_undead_flameboy101": 0,
-          "deaths_goblin_weakling_bow": 0
+          "deaths_goblin_weakling_bow": 0,
+          "kills_arachne_brood": 0
         },
         "objectives": {
           "collect_log": {
@@ -2188,6 +2189,26 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1611408209405
+          },
+          "talk_to_archaeologist": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_shaggy": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_relics": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_uber_relics": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2388,7 +2409,9 @@
           "commission_milestone_reward_mining_xp_tier_2",
           "commission_milestone_reward_wilson",
           "commission_milestone_reward_royal_pigeon",
-          "commission_milestone_reward_mining_xp_tier_5"
+          "commission_milestone_reward_mining_xp_tier_5",
+          "bestiary",
+          "grandma_wolf_pet"
         ],
         "quests": {
           "collect_log": {
@@ -2595,6 +2618,13 @@
             "completed_at_sb": 0
           },
           "talk_to_rhys": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_archaeologist": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,
@@ -3375,7 +3405,9 @@
           "MITHRIL_ORE_6",
           "MITHRIL_ORE_7",
           "MITHRIL_ORE_8",
-          "MITHRIL_ORE_9"
+          "MITHRIL_ORE_9",
+          "COAL_10",
+          "RAW_FISH:3_10"
         ],
         "fishing_bag": {
           "type": 0,

@@ -35121,7 +35121,8 @@
         "cloak_archangel",
         "gadget_tournament_banner_bedwars4s_0",
         "pet_wither_skeleton",
-        "gadget_connect_four"
+        "gadget_connect_four",
+        "pet_blaze"
       ]
     },
     "vanityTokens": 0,
@@ -37050,6 +37051,9 @@
           "value": 0
         },
         "experience": 0
+      },
+      "BLAZE": {
+        "name": ""
       }
     },
     "petJourneyTimestamp": 0,
@@ -38584,7 +38588,8 @@
         "games_played": 0,
         "playtime": 0,
         "first_win": 0,
-        "tributes_earned": 0
+        "tributes_earned": 0,
+        "claimed_ranking_reward": 0
       }
     },
     "currentGadget": "",

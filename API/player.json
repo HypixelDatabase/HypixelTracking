@@ -24351,7 +24351,8 @@
             "seismic_slam": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "smashed": 0,
             "deaths_2v2": 0,
@@ -24577,6 +24578,10 @@
             "shield_bash": {
               "smashed_2v2": 0,
               "smashed": 0
+            },
+            "static_laser": {
+              "smashed": 0,
+              "smashed_normal": 0
             }
           },
           "FROSTY": {

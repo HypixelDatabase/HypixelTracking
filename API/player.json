@@ -34443,8 +34443,10 @@
         },
         "coins": 0,
         "packages": [
-          "skull_pack_holiday"
-        ]
+          "skull_pack_holiday",
+          "killmessages_yeet"
+        ],
+        "activeKillMessages": ""
       }
     },
     "testPass": true,

@@ -33427,7 +33427,11 @@
           "7": "",
           "8": "",
           "9": ""
-        }
+        },
+        "creeper_a_blocks_broken": 0,
+        "creeper_a_blocks_broken_standard": 0,
+        "creeper_blocks_broken": 0,
+        "creeper_blocks_broken_standard": 0
       },
       "BuildBattle": {
         "wins": 0,
@@ -38278,7 +38282,8 @@
         "GINGERBREAD__banana_challenge": 0,
         "GINGERBREAD__first_place_challenge": 0,
         "GINGERBREAD__leaderboard_challenge": 0,
-        "GINGERBREAD__coin_challenge": 0
+        "GINGERBREAD__coin_challenge": 0,
+        "DUELS__target_practice_challenge": 0
       },
       "day_c": {
         "BATTLEGROUND__brute_challenge": 0,

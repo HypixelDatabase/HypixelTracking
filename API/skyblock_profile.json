@@ -464,7 +464,19 @@
           "kills_master_sniper_skeleton": 0,
           "kills_master_crypt_tank_zombie": 0,
           "kills_master_zombie_grunt": 0,
-          "kills_master_crypt_lurker": 0
+          "kills_master_crypt_lurker": 0,
+          "kills_master_scared_skeleton": 0,
+          "kills_master_skeleton_soldier": 0,
+          "kills_master_skeleton_grunt": 0,
+          "kills_master_crypt_souleater": 0,
+          "kills_master_dungeon_respawning_skeleton": 0,
+          "kills_master_lost_adventurer": 0,
+          "kills_master_crypt_dreadlord": 0,
+          "kills_master_cellar_spider": 0,
+          "kills_master_watcher_summon_undead": 0,
+          "deaths_master_watcher_summon_undead": 0,
+          "kills_master_bonzo_summon_undead": 0,
+          "deaths_master_bonzo": 0
         },
         "objectives": {
           "collect_log": {
@@ -4026,7 +4038,56 @@
                 "1": 0
               }
             },
-            "master_catacombs": {}
+            "master_catacombs": {
+              "tier_completions": {
+                "1": 0
+              },
+              "milestone_completions": {
+                "1": 0
+              },
+              "highest_tier_completed": 0,
+              "fastest_time": {
+                "1": 0
+              },
+              "fastest_time_s": {
+                "1": 0
+              },
+              "best_runs": {
+                "1": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ]
+              },
+              "best_score": {
+                "1": 0
+              },
+              "mobs_killed": {
+                "1": 0
+              },
+              "most_mobs_killed": {
+                "1": 0
+              },
+              "most_damage_tank": {
+                "1": 0
+              },
+              "most_healing": {
+                "1": 0
+              }
+            }
           },
           "player_classes": {
             "healer": {

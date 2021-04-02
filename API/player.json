@@ -2979,7 +2979,8 @@
           "packagearena_arena_rating_12_20",
           "packagearena_arena_rating_1_21",
           "packagearena_arena_rating_2_21",
-          "kill_effect_heart_aura"
+          "kill_effect_heart_aura",
+          "packagearena_arena_rating_3_21"
         ],
         "penalty": 0,
         "rating": 0,
@@ -3067,7 +3068,9 @@
         "Arena_arena_rating_1_21_position": 0,
         "Arena_arena_rating_2_21_position": 0,
         "Arena_arena_rating_2_21_rating": 0,
-        "prefix_color": ""
+        "prefix_color": "",
+        "Arena_arena_rating_3_21_position": 0,
+        "Arena_arena_rating_3_21_rating": 0
       },
       "Battleground": {
         "aquamancer_plays": 0,

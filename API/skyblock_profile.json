@@ -477,7 +477,13 @@
           "deaths_master_watcher_summon_undead": 0,
           "kills_master_bonzo_summon_undead": 0,
           "deaths_master_bonzo": 0,
-          "deaths_spirit_sheep": 0
+          "deaths_spirit_sheep": 0,
+          "kills_master_crypt_undead": 0,
+          "kills_master_diamond_guy": 0,
+          "kills_master_skeleton_master": 0,
+          "deaths_master_scarf_archer": 0,
+          "kills_master_scarf_mage": 0,
+          "deaths_master_scarf": 0
         },
         "objectives": {
           "collect_log": {
@@ -4080,19 +4086,27 @@
                 ]
               },
               "best_score": {
-                "1": 0
+                "1": 0,
+                "2": 0
               },
               "mobs_killed": {
-                "1": 0
+                "1": 0,
+                "2": 0
               },
               "most_mobs_killed": {
-                "1": 0
+                "1": 0,
+                "2": 0
               },
               "most_damage_tank": {
                 "1": 0
               },
               "most_healing": {
-                "1": 0
+                "1": 0,
+                "2": 0
+              },
+              "most_damage_mage": {
+                "1": 0,
+                "2": 0
               }
             }
           },

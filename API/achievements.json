@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1618314237734,
+  "lastUpdated": 1618328637754,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5309,6 +5309,11 @@
           "description": "Complete a quest",
           "globalPercentUnlocked": 23.52272998371805
         },
+        "TREASURE_HUNT_2021": {
+          "points": 0,
+          "name": "Treasure Hunt 2021",
+          "description": "Complete the 2021 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!"
+        },
         "VIP": {
           "points": 10,
           "name": "Very Important Person",
@@ -5317,10 +5322,9 @@
         },
         "TREASURE_HUNT": {
           "points": 0,
-          "name": "Treasure Hunt",
-          "description": "???",
-          "secret": true,
-          "globalPercentUnlocked": 0.12150258157825843
+          "name": "Treasure Hunt 2020",
+          "description": "Complete the 2020 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
+          "legacy": true
         },
         "FRIENDS_25": {
           "points": 10,

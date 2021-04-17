@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Sat, 17 Apr 2021 00:20:08 -0400</pubDate>
+    <pubDate>Sat, 17 Apr 2021 16:25:37 -0400</pubDate>
+    <item>
+      <title>Minecraft Server Outage</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:25&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are currently investigating an issue with players being unable to join the Minecraft Server or join games&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:20&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue with players being unable to join the Minecraft Server or join games&lt;/p&gt;      </description>
+      <pubDate>Sat, 17 Apr 2021 16:25:37 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/qx0ctgmgl5j1</link>
+      <guid>https://status.hypixel.net/incidents/qx0ctgmgl5j1</guid>
+    </item>
     <item>
       <title>Public API Outage</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 13 Oct 2020 17:16:30 -0400</pubDate>
       <link>https://status.hypixel.net/incidents/1sqwyfjr4cn6</link>
       <guid>https://status.hypixel.net/incidents/1sqwyfjr4cn6</guid>
-    </item>
-    <item>
-      <title>Public API Maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:30&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:10&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Verifying&lt;/strong&gt; - We have completed the maintenance and are currently verifying everything is working correctly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:35&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:33&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance on the Hypixel Public API to improve performance.&lt;/p&gt;      </description>
-      <pubDate>Sat, 10 Oct 2020 20:30:29 -0400</pubDate>
-      <link>https://status.hypixel.net/incidents/yh3fglf777py</link>
-      <guid>https://status.hypixel.net/incidents/yh3fglf777py</guid>
     </item>
   </channel>
 </rss>

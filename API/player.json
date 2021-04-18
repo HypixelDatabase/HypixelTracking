@@ -4719,7 +4719,7 @@
         "wins_hunter": 0,
         "arrows_hit_troll": 0,
         "wins_troll": 0,
-        "togglekillcounter": true,
+        "togglekillcounter": 0,
         "votes_Egypt": 0,
         "votes_Caelum": 0,
         "CreepertamerInventory": {
@@ -7642,7 +7642,7 @@
         "no_starting_armor": true
       },
       "Walls3": {
-        "blood": true,
+        "blood": "",
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -33750,48 +33750,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "HARD",
-              "gold_reward": 3500,
-              "requirements": {
-                "kills": 12
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 1,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kills_no_perk"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2400,
-              "requirements": {
-                "kills": 5
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 1,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kill_in_lava"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2500,
-              "requirements": {
-                "shots": 100
-              },
-              "progress": {},
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "land_arrow_shots"
-            }
-          ],
+          "contract_choices": null,
           "last_save": 0,
           "king_quest": {
             "kills": 0,

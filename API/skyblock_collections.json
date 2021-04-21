@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1618980117532,
-  "version": "0.11.142",
+  "lastUpdated": 1619023187883,
+  "version": "0.11.144",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2289,7 +2289,7 @@
         },
         "NETHERRACK": {
           "name": "Netherrack",
-          "maxTiers": 3,
+          "maxTiers": 5,
           "tiers": [
             {
               "tier": 1,
@@ -2310,6 +2310,20 @@
               "amountRequired": 500,
               "unlocks": [
                 "Nether Brick Trade"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Netherrack Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Magical Lava Bucket Recipe"
               ]
             }
           ]
@@ -3967,7 +3981,7 @@
         },
         "PRISMARINE_SHARD": {
           "name": "Prismarine Shard",
-          "maxTiers": 5,
+          "maxTiers": 6,
           "tiers": [
             {
               "tier": 1,
@@ -4002,6 +4016,13 @@
               "amountRequired": 200,
               "unlocks": [
                 "Prismarine Bow Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 400,
+              "unlocks": [
+                "Weather Node Recipe"
               ]
             }
           ]

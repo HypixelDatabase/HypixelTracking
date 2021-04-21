@@ -490,7 +490,8 @@
           "kills_mushroom_cow": 0,
           "kills_trapper_pig": 0,
           "kills_trapper_chicken": 0,
-          "kills_trapper_sheep": 0
+          "kills_trapper_sheep": 0,
+          "kills_trapper_cow": 0
         },
         "objectives": {
           "collect_log": {
@@ -3769,7 +3770,11 @@
           "ENCHANTED_OAK_LOG": 0,
           "ENCHANTED_BIRCH_LOG": 0,
           "RED_MUSHROOM": 0,
-          "BROWN_MUSHROOM": 0
+          "BROWN_MUSHROOM": 0,
+          "WEREWOLF_SKIN": 0,
+          "RAW_BEEF": 0,
+          "RABBIT_FOOT": 0,
+          "RABBIT_HIDE": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

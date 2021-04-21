@@ -488,7 +488,9 @@
           "kills_dante_slime_goon": 0,
           "kills_rat": 0,
           "kills_mushroom_cow": 0,
-          "kills_trapper_pig": 0
+          "kills_trapper_pig": 0,
+          "kills_trapper_chicken": 0,
+          "kills_trapper_sheep": 0
         },
         "objectives": {
           "collect_log": {
@@ -2482,7 +2484,8 @@
           "zone_cave_glowing_mushroom",
           "zone_trappers_den_shop_area",
           "zone_shepherds_keep",
-          "zone_jake_house"
+          "zone_jake_house",
+          "zone_windmill"
         ],
         "quests": {
           "collect_log": {
@@ -2796,7 +2799,8 @@
           "cave_glowing_mushroom",
           "trappers_den_shop_area",
           "shepherds_keep",
-          "jake_house"
+          "jake_house",
+          "windmill"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3764,7 +3768,8 @@
           "ENCHANTED_POTATO": 0,
           "ENCHANTED_OAK_LOG": 0,
           "ENCHANTED_BIRCH_LOG": 0,
-          "RED_MUSHROOM": 0
+          "RED_MUSHROOM": 0,
+          "BROWN_MUSHROOM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

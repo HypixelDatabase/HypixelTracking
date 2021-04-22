@@ -492,7 +492,9 @@
           "kills_trapper_chicken": 0,
           "kills_trapper_sheep": 0,
           "kills_trapper_cow": 0,
-          "kills_trapper_rabbit": 0
+          "kills_trapper_rabbit": 0,
+          "deaths_master_lost_adventurer": 0,
+          "deaths_zombie_grunt": 0
         },
         "objectives": {
           "collect_log": {
@@ -4165,6 +4167,9 @@
               "most_damage_mage": {
                 "1": 0,
                 "2": 0
+              },
+              "most_damage_berserk": {
+                "1": 0
               }
             }
           },

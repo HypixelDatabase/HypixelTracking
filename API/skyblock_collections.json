@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1619125275205,
-  "version": "0.11.151",
+  "lastUpdated": 1619183775186,
+  "version": "0.11.152",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1805,7 +1805,7 @@
         },
         "REDSTONE": {
           "name": "Redstone",
-          "maxTiers": 16,
+          "maxTiers": 17,
           "tiers": [
             {
               "tier": 1,
@@ -1920,6 +1920,13 @@
             {
               "tier": 16,
               "amountRequired": 1400000,
+              "unlocks": [
+                "Preposterous Accessory Bag Upgrade"
+              ]
+            },
+            {
+              "tier": 17,
+              "amountRequired": 1600000,
               "unlocks": [
                 "Unknown upgrade"
               ]

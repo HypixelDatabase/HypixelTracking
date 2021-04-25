@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 25 Apr 2021 02:03:44 -0400</pubDate>
+    <pubDate>Sun, 25 Apr 2021 14:54:36 -0400</pubDate>
+    <item>
+      <title>Public API Outage</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Apr &lt;var data-var=&apos;date&apos;&gt;25&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:54&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating issues with the Public API and SkyBlock profile endpoints are disabled. We do not have an estimate for when full service will be restored.&lt;/p&gt;      </description>
+      <pubDate>Sun, 25 Apr 2021 14:54:36 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/lnn535ty7fxd</link>
+      <guid>https://status.hypixel.net/incidents/lnn535ty7fxd</guid>
+    </item>
     <item>
       <title>SkyBlock Emergency Maintenance</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Sun, 13 Dec 2020 21:13:26 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/7fgy5dvk2mgv</link>
       <guid>https://status.hypixel.net/incidents/7fgy5dvk2mgv</guid>
-    </item>
-    <item>
-      <title>Support Response Delays</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:21&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:26&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;re currently experiencing a technical issue with our support site, please allow extra time for a response. Tickets can still be submitted through https://support.hypixel.net&lt;/p&gt;      </description>
-      <pubDate>Tue, 08 Dec 2020 11:21:31 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/gl8wwkdbcxnh</link>
-      <guid>https://status.hypixel.net/incidents/gl8wwkdbcxnh</guid>
     </item>
   </channel>
 </rss>

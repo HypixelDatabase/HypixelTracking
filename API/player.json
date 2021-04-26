@@ -16174,7 +16174,13 @@
           "cage_easter_egg",
           "killeffect_chicken_tower",
           "killeffect_hatching_eggs",
-          "victorydance_floating_lanterns"
+          "victorydance_floating_lanterns",
+          "favoritemap_farmstead",
+          "favoritemap_crumble",
+          "favoritemap_blossom",
+          "favoritemap_garrison",
+          "favoritemap_mont golball",
+          "favoritemap_radis"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -31975,7 +31981,9 @@
         "kills_cattleridge_farm_MURDER_ASSASSINS": 0,
         "knife_kills_cattleridge_farm": 0,
         "knife_kills_cattleridge_farm_MURDER_ASSASSINS": 0,
-        "wins_cattleridge_farm_MURDER_ASSASSINS": 0
+        "wins_cattleridge_farm_MURDER_ASSASSINS": 0,
+        "thrown_knife_kills_cattleridge_farm": 0,
+        "thrown_knife_kills_cattleridge_farm_MURDER_ASSASSINS": 0
       },
       "Duels": {
         "duels_recently_played": "",
@@ -38158,7 +38166,8 @@
         "SURVIVAL_GAMES__iron_man_challenge": 0,
         "TNTGAMES__tnt_tag_challenge": 0,
         "BUILD_BATTLE__guesser_challenge": 0,
-        "BUILD_BATTLE__top_3_challenge": 0
+        "BUILD_BATTLE__top_3_challenge": 0,
+        "MCGO__grenade_challenge": 0
       },
       "day_j": {
         "SKYWARS__feeding_the_void_challenge": 0,

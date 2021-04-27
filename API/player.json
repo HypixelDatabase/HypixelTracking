@@ -602,7 +602,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "warlords_daily_dom": true
+          },
           "started": 0
         }
       },

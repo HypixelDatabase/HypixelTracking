@@ -496,7 +496,9 @@
           "deaths_master_lost_adventurer": 0,
           "deaths_zombie_grunt": 0,
           "deaths_grim_reaper": 0,
-          "kills_oasis_sheep": 0
+          "kills_oasis_sheep": 0,
+          "deaths_master_skeleton_soldier": 0,
+          "deaths_master_scarf_warrior": 0
         },
         "objectives": {
           "collect_log": {
@@ -4183,6 +4185,9 @@
                 "1": 0
               },
               "fastest_time_s_plus": {
+                "1": 0
+              },
+              "most_damage_archer": {
                 "1": 0
               }
             }

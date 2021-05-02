@@ -501,7 +501,17 @@
           "deaths_master_scarf_warrior": 0,
           "kills_master_parasite": 0,
           "kills_master_scarf_priest": 0,
-          "deaths_master_crypt_lurker": 0
+          "deaths_master_crypt_lurker": 0,
+          "kills_master_crypt_undead_bernhard": 0,
+          "kills_master_scarf_warrior": 0,
+          "kills_master_scarf_archer": 0,
+          "deaths_master_scarf_mage": 0,
+          "kills_master_skeletor": 0,
+          "deaths_master_skeletor": 0,
+          "kills_master_zombie_knight": 0,
+          "kills_master_zombie_soldier": 0,
+          "kills_master_lonely_spider": 0,
+          "deaths_master_watcher_bonzo": 0
         },
         "objectives": {
           "collect_log": {
@@ -4129,20 +4139,41 @@
             },
             "master_catacombs": {
               "tier_completions": {
-                "1": 0
+                "1": 0,
+                "2": 0
               },
               "milestone_completions": {
-                "1": 0
+                "1": 0,
+                "2": 0
               },
               "highest_tier_completed": 0,
               "fastest_time": {
-                "1": 0
+                "1": 0,
+                "2": 0
               },
               "fastest_time_s": {
                 "1": 0
               },
               "best_runs": {
                 "1": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ],
+                "2": [
                   {
                     "timestamp": 0,
                     "score_exploration": 0,

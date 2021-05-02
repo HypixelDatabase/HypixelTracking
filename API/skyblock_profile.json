@@ -511,7 +511,9 @@
           "kills_master_zombie_knight": 0,
           "kills_master_zombie_soldier": 0,
           "kills_master_lonely_spider": 0,
-          "deaths_master_watcher_bonzo": 0
+          "deaths_master_watcher_bonzo": 0,
+          "kills_master_professor_guardian_summon": 0,
+          "deaths_master_professor_mage_guardian": 0
         },
         "objectives": {
           "collect_log": {
@@ -4194,26 +4196,31 @@
               },
               "best_score": {
                 "1": 0,
-                "2": 0
+                "2": 0,
+                "3": 0
               },
               "mobs_killed": {
                 "1": 0,
-                "2": 0
+                "2": 0,
+                "3": 0
               },
               "most_mobs_killed": {
                 "1": 0,
-                "2": 0
+                "2": 0,
+                "3": 0
               },
               "most_damage_tank": {
                 "1": 0
               },
               "most_healing": {
                 "1": 0,
-                "2": 0
+                "2": 0,
+                "3": 0
               },
               "most_damage_mage": {
                 "1": 0,
-                "2": 0
+                "2": 0,
+                "3": 0
               },
               "most_damage_berserk": {
                 "1": 0

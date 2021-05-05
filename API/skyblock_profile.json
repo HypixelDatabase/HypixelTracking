@@ -4149,24 +4149,28 @@
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "milestone_completions": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "highest_tier_completed": 0,
               "fastest_time": {
                 "1": 0,
                 "2": 0,
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "5": 0
               },
               "fastest_time_s": {
                 "1": 0,
-                "2": 0
+                "2": 0,
+                "5": 0
               },
               "best_runs": {
                 "1": [
@@ -4224,6 +4228,24 @@
                   }
                 ],
                 "4": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0,
+                    "ally_healing": 0
+                  }
+                ],
+                "5": [
                   {
                     "timestamp": 0,
                     "score_exploration": 0,

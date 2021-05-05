@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 04 May 2021 04:53:26 -0400</pubDate>
+    <pubDate>Tue, 04 May 2021 21:43:18 -0400</pubDate>
+    <item>
+      <title>Forums Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;02:00&lt;/var&gt; EDT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 4&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:43&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Hypixel Forums will be undergoing scheduled maintenance during this time to upgrade backend software.&lt;/p&gt;      </description>
+      <pubDate>Wed, 05 May 2021 00:00:00 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/9468s058zq3k</link>
+      <guid>https://status.hypixel.net/incidents/9468s058zq3k</guid>
+    </item>
     <item>
       <title>Public API Outage</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 17 Dec 2020 06:37:15 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/j3z681j0qm66</link>
       <guid>https://status.hypixel.net/incidents/j3z681j0qm66</guid>
-    </item>
-    <item>
-      <title>Support Unavailable</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:13&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:03&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The support upstream provider is working to resolve this issue and are expecting to be operational again within 4 hours.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:47&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
-      <pubDate>Sun, 13 Dec 2020 21:13:26 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/7fgy5dvk2mgv</link>
-      <guid>https://status.hypixel.net/incidents/7fgy5dvk2mgv</guid>
     </item>
   </channel>
 </rss>

@@ -523,7 +523,8 @@
           "deaths_master_spirit_bat": 0,
           "deaths_master_spirit_sheep": 0,
           "deaths_master_spirit_rabbit": 0,
-          "deaths_master_professor_guardian_summon": 0
+          "deaths_master_professor_guardian_summon": 0,
+          "kills_master_crypt_witherskeleton": 0
         },
         "objectives": {
           "collect_log": {
@@ -4316,7 +4317,8 @@
               },
               "fastest_time_s_plus": {
                 "1": 0,
-                "3": 0
+                "3": 0,
+                "5": 0
               },
               "most_damage_archer": {
                 "1": 0

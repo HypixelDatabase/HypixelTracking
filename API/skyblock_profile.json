@@ -532,7 +532,10 @@
           "kills_master_spirit_sheep": 0,
           "kills_master_spirit_bull": 0,
           "deaths_master_shadow_assassin": 0,
-          "deaths_master_spirit_chicken": 0
+          "deaths_master_spirit_chicken": 0,
+          "kills_master_tentaclees": 0,
+          "deaths_master_tentaclees": 0,
+          "kills_master_super_archer": 0
         },
         "objectives": {
           "collect_log": {
@@ -4318,7 +4321,8 @@
               "most_damage_mage": {
                 "1": 0,
                 "2": 0,
-                "3": 0
+                "3": 0,
+                "5": 0
               },
               "most_damage_berserk": {
                 "1": 0

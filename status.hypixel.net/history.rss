@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 07 May 2021 07:14:55 -0400</pubDate>
+    <pubDate>Fri, 07 May 2021 20:26:12 -0400</pubDate>
+    <item>
+      <title>Forums Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var=&apos;date&apos;&gt;7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:00&lt;/var&gt; EDT &amp;nbsp;-&amp;nbsp; May &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; EDT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:10&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Hypixel Forums will be undergoing scheduled maintenance during this time to upgrade backend software.&lt;/p&gt;      </description>
+      <pubDate>Fri, 07 May 2021 22:00:00 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/7r9mtzbtp0x1</link>
+      <guid>https://status.hypixel.net/incidents/7r9mtzbtp0x1</guid>
+    </item>
     <item>
       <title>Forums Maintenance</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Thu, 17 Dec 2020 16:12:19 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/r9jcpzrfn7j2</link>
       <guid>https://status.hypixel.net/incidents/r9jcpzrfn7j2</guid>
-    </item>
-    <item>
-      <title>Network Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:37&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:15&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - SkyBlock is no longer in maintenance, API endpoints are re-enabled. We are still monitoring to make sure there are no further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:04&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The API is back but SkyBlock profile endpoints are currently disabled. SkyBlock is still also in maintenance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:42&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;re aware of some network issues and we are investigating. SkyBlock is currently in maintenance due to this.&lt;/p&gt;      </description>
-      <pubDate>Thu, 17 Dec 2020 06:37:15 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/j3z681j0qm66</link>
-      <guid>https://status.hypixel.net/incidents/j3z681j0qm66</guid>
     </item>
   </channel>
 </rss>

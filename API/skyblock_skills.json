@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1620514644987,
-  "version": "0.11.175",
+  "lastUpdated": 1620652344818,
+  "version": "0.11.176",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1691,15 +1691,18 @@
         }
       ]
     },
-    "DUNGEONEERING": {
-      "name": "Dungeoneering",
-      "description": "Complete dungeons to level up your Dungeoneering classes!",
+    "FORAGING": {
+      "name": "Foraging",
+      "description": "Cut trees and forage for other plants to earn Foraging XP!",
       "maxLevel": 50,
       "levels": [
         {
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
+            "Logger I   Grants +4 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
+            "Access to Birch Park",
             "+25 Coins"
           ]
         },
@@ -1707,6 +1710,9 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
+            "Logger II   Grants +4➜8 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
+            "Access to Spruce Woods",
             "+50 Coins"
           ]
         },
@@ -1714,6 +1720,9 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
+            "Logger III   Grants +8➜12 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
+            "Access to Dark Thicket",
             "+100 Coins"
           ]
         },
@@ -1721,6 +1730,9 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
+            "Logger IV   Grants +12➜16 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
+            "Access to Savanna Woodland",
             "+200 Coins"
           ]
         },
@@ -1728,6 +1740,9 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
+            "Logger V   Grants +16➜20 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
+            "Access to Jungle Island",
             "+300 Coins"
           ]
         },
@@ -1735,6 +1750,8 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
+            "Logger VI   Grants +20➜24 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+400 Coins"
           ]
         },
@@ -1742,6 +1759,8 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
+            "Logger VII   Grants +24➜28 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+500 Coins"
           ]
         },
@@ -1749,6 +1768,8 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
+            "Logger VIII   Grants +28➜32 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+600 Coins"
           ]
         },
@@ -1756,6 +1777,8 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
+            "Logger IX   Grants +32➜36 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+700 Coins"
           ]
         },
@@ -1763,6 +1786,8 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
+            "Logger X   Grants +36➜40 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+800 Coins"
           ]
         },
@@ -1770,6 +1795,8 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
+            "Logger XI   Grants +40➜44 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+900 Coins"
           ]
         },
@@ -1777,6 +1804,8 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
+            "Logger XII   Grants +44➜48 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+1,000 Coins"
           ]
         },
@@ -1784,6 +1813,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
+            "Logger XIII   Grants +48➜52 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+1,100 Coins"
           ]
         },
@@ -1791,6 +1822,8 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
+            "Logger XIV   Grants +52➜56 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+1 ❁ Strength",
             "+1,200 Coins"
           ]
         },
@@ -1798,6 +1831,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
+            "Logger XV   Grants +56➜60 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+1,300 Coins"
           ]
         },
@@ -1805,6 +1840,8 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
+            "Logger XVI   Grants +60➜64 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+1,400 Coins"
           ]
         },
@@ -1812,6 +1849,8 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
+            "Logger XVII   Grants +64➜68 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+1,500 Coins"
           ]
         },
@@ -1819,6 +1858,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
+            "Logger XVIII   Grants +68➜72 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+1,600 Coins"
           ]
         },
@@ -1826,6 +1867,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
+            "Logger XIX   Grants +72➜76 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+1,800 Coins"
           ]
         },
@@ -1833,6 +1876,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
+            "Logger XX   Grants +76➜80 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+2,000 Coins"
           ]
         },
@@ -1840,6 +1885,8 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
+            "Logger XXI   Grants +80➜84 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+2,200 Coins"
           ]
         },
@@ -1847,6 +1894,8 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
+            "Logger XXII   Grants +84➜88 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+2,400 Coins"
           ]
         },
@@ -1854,6 +1903,8 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
+            "Logger XXIII   Grants +88➜92 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+2,600 Coins"
           ]
         },
@@ -1861,6 +1912,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
+            "Logger XXIV   Grants +92➜96 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+2,800 Coins"
           ]
         },
@@ -1868,6 +1921,8 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
+            "Logger XXV   Grants +96➜100 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+3,000 Coins"
           ]
         },
@@ -1875,6 +1930,8 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
+            "Logger XXVI   Grants +100➜104 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+3,500 Coins"
           ]
         },
@@ -1882,6 +1939,8 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
+            "Logger XXVII   Grants +104➜108 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+4,000 Coins"
           ]
         },
@@ -1889,6 +1948,8 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
+            "Logger XXVIII   Grants +108➜112 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+5,000 Coins"
           ]
         },
@@ -1896,6 +1957,8 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
+            "Logger XXIX   Grants +112➜116 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+6,000 Coins"
           ]
         },
@@ -1903,6 +1966,8 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
+            "Logger XXX   Grants +116➜120 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+7,500 Coins"
           ]
         },
@@ -1910,6 +1975,8 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
+            "Logger XXXI   Grants +120➜124 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+10,000 Coins"
           ]
         },
@@ -1917,6 +1984,8 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
+            "Logger XXXII   Grants +124➜128 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+12,500 Coins"
           ]
         },
@@ -1924,6 +1993,8 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
+            "Logger XXXIII   Grants +128➜132 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+15,000 Coins"
           ]
         },
@@ -1931,6 +2002,8 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
+            "Logger XXXIV   Grants +132➜136 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+17,500 Coins"
           ]
         },
@@ -1938,6 +2011,8 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
+            "Logger XXXV   Grants +136➜140 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+20,000 Coins"
           ]
         },
@@ -1945,6 +2020,8 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
+            "Logger XXXVI   Grants +140➜144 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+25,000 Coins"
           ]
         },
@@ -1952,6 +2029,8 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
+            "Logger XXXVII   Grants +144➜148 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+30,000 Coins"
           ]
         },
@@ -1959,6 +2038,8 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
+            "Logger XXXVIII   Grants +148➜152 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+35,000 Coins"
           ]
         },
@@ -1966,6 +2047,8 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
+            "Logger XXXIX   Grants +152➜156 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+40,000 Coins"
           ]
         },
@@ -1973,6 +2056,8 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
+            "Logger XL   Grants +156➜160 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+45,000 Coins"
           ]
         },
@@ -1980,6 +2065,8 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
+            "Logger XLI   Grants +160➜164 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+50,000 Coins"
           ]
         },
@@ -1987,6 +2074,8 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
+            "Logger XLII   Grants +164➜168 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+60,000 Coins"
           ]
         },
@@ -1994,6 +2083,8 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
+            "Logger XLIII   Grants +168➜172 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+70,000 Coins"
           ]
         },
@@ -2001,6 +2092,8 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
+            "Logger XLIV   Grants +172➜176 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+80,000 Coins"
           ]
         },
@@ -2008,6 +2101,8 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
+            "Logger XLV   Grants +176➜180 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+90,000 Coins"
           ]
         },
@@ -2015,6 +2110,8 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
+            "Logger XLVI   Grants +180➜184 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+100,000 Coins"
           ]
         },
@@ -2022,6 +2119,8 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
+            "Logger XLVII   Grants +184➜188 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+125,000 Coins"
           ]
         },
@@ -2029,6 +2128,8 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
+            "Logger XLVIII   Grants +188➜192 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+150,000 Coins"
           ]
         },
@@ -2036,6 +2137,8 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
+            "Logger XLIX   Grants +192➜196 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+175,000 Coins"
           ]
         },
@@ -2043,7 +2146,4507 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
+            "Logger L   Grants +196➜200 ☘ Foraging Fortune, which increases your chance for multiple logs.",
+            "+2 ❁ Strength",
             "+200,000 Coins"
+          ]
+        }
+      ]
+    },
+    "FISHING": {
+      "name": "Fishing",
+      "description": "Visit your local pond to fish and earn Fishing XP!",
+      "maxLevel": 50,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Squid Sea Creature",
+            "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
+            "+2 HP ❤ Health",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Sea Walker Sea Creature",
+            "Treasure Hunter II   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
+            "+2 HP ❤ Health",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Night Squid Sea Creature",
+            "Treasure Hunter III   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
+            "+2 HP ❤ Health",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Frozen Steve Sea Creature",
+            "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
+            "+2 HP ❤ Health",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Sea Guardian Sea Creature",
+            "Nurse Shark Sea Creature",
+            "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
+            "+2 HP ❤ Health",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Frosty Sea Creature",
+            "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
+            "+2 HP ❤ Health",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Sea Witch Sea Creature",
+            "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
+            "+2 HP ❤ Health",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Treasure Hunter VIII   Increases the chance to find treasure when fishing by 1.4➜1.6%.",
+            "+2 HP ❤ Health",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Sea Archer Sea Creature",
+            "Scarecrow Sea Creature",
+            "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
+            "+2 HP ❤ Health",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Oasis Rabbit Sea Creature",
+            "Oasis Sheep Sea Creature",
+            "Blue Shark Sea Creature",
+            "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
+            "+2 HP ❤ Health",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Monster of the Deep Sea Creature",
+            "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
+            "+2 HP ❤ Health",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Treasure Hunter XII   Increases the chance to find treasure when fishing by 2.2➜2.4%.",
+            "+2 HP ❤ Health",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Grinch Sea Creature",
+            "Catfish Sea Creature",
+            "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
+            "+2 HP ❤ Health",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Nightmare Sea Creature",
+            "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
+            "+2 HP ❤ Health",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Carrot King Sea Creature",
+            "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
+            "+3 HP ❤ Health",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Sea Leech Sea Creature",
+            "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
+            "+3 HP ❤ Health",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Guardian Defender Sea Creature",
+            "Werewolf Sea Creature",
+            "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
+            "+3 HP ❤ Health",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Deep Sea Protector Sea Creature",
+            "Tiger Shark Sea Creature",
+            "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
+            "+3 HP ❤ Health",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Water Hydra Sea Creature",
+            "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
+            "+3 HP ❤ Health",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "The Sea Emperor Sea Creature",
+            "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
+            "+4 HP ❤ Health",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Phantom Fisher Sea Creature",
+            "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
+            "+4 HP ❤ Health",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
+            "+4 HP ❤ Health",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Treasure Hunter XXIII   Increases the chance to find treasure when fishing by 4.4➜4.6%.",
+            "+4 HP ❤ Health",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Great White Shark Sea Creature",
+            "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
+            "+4 HP ❤ Health",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Yeti Sea Creature",
+            "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
+            "+4 HP ❤ Health",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Grim Reaper Sea Creature",
+            "Treasure Hunter XXVI   Increases the chance to find treasure when fishing by 5➜5.2%.",
+            "+5 HP ❤ Health",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Treasure Hunter XXVII   Increases the chance to find treasure when fishing by 5.2➜5.4%.",
+            "+5 HP ❤ Health",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Treasure Hunter XXVIII   Increases the chance to find treasure when fishing by 5.4➜5.6%.",
+            "+5 HP ❤ Health",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Treasure Hunter XXIX   Increases the chance to find treasure when fishing by 5.6➜5.8%.",
+            "+5 HP ❤ Health",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Treasure Hunter XXX   Increases the chance to find treasure when fishing by 5.8➜6%.",
+            "+5 HP ❤ Health",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Treasure Hunter XXXI   Increases the chance to find treasure when fishing by 6➜6.2%.",
+            "+5 HP ❤ Health",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Treasure Hunter XXXII   Increases the chance to find treasure when fishing by 6.2➜6.4%.",
+            "+5 HP ❤ Health",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Treasure Hunter XXXIII   Increases the chance to find treasure when fishing by 6.4➜6.6%.",
+            "+5 HP ❤ Health",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Treasure Hunter XXXIV   Increases the chance to find treasure when fishing by 6.6➜6.8%.",
+            "+5 HP ❤ Health",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Treasure Hunter XXXV   Increases the chance to find treasure when fishing by 6.8➜7%.",
+            "+5 HP ❤ Health",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Treasure Hunter XXXVI   Increases the chance to find treasure when fishing by 7➜7.2%.",
+            "+5 HP ❤ Health",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Treasure Hunter XXXVII   Increases the chance to find treasure when fishing by 7.2➜7.4%.",
+            "+5 HP ❤ Health",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Treasure Hunter XXXVIII   Increases the chance to find treasure when fishing by 7.4➜7.6%.",
+            "+5 HP ❤ Health",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Treasure Hunter XXXIX   Increases the chance to find treasure when fishing by 7.6➜7.8%.",
+            "+5 HP ❤ Health",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Treasure Hunter XL   Increases the chance to find treasure when fishing by 7.8➜8%.",
+            "+5 HP ❤ Health",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Treasure Hunter XLI   Increases the chance to find treasure when fishing by 8➜8.2%.",
+            "+5 HP ❤ Health",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Treasure Hunter XLII   Increases the chance to find treasure when fishing by 8.2➜8.4%.",
+            "+5 HP ❤ Health",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Treasure Hunter XLIII   Increases the chance to find treasure when fishing by 8.4➜8.6%.",
+            "+5 HP ❤ Health",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Treasure Hunter XLIV   Increases the chance to find treasure when fishing by 8.6➜8.8%.",
+            "+5 HP ❤ Health",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Treasure Hunter XLV   Increases the chance to find treasure when fishing by 8.8➜9%.",
+            "+5 HP ❤ Health",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Treasure Hunter XLVI   Increases the chance to find treasure when fishing by 9➜9.2%.",
+            "+5 HP ❤ Health",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Treasure Hunter XLVII   Increases the chance to find treasure when fishing by 9.2➜9.4%.",
+            "+5 HP ❤ Health",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Treasure Hunter XLVIII   Increases the chance to find treasure when fishing by 9.4➜9.6%.",
+            "+5 HP ❤ Health",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Treasure Hunter XLIX   Increases the chance to find treasure when fishing by 9.6➜9.8%.",
+            "+5 HP ❤ Health",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Treasure Hunter L   Increases the chance to find treasure when fishing by 9.8➜10%.",
+            "+5 HP ❤ Health",
+            "+200,000 Coins"
+          ]
+        }
+      ]
+    },
+    "ENCHANTING": {
+      "name": "Enchanting",
+      "description": "Enchant items to earn Enchanting XP!",
+      "maxLevel": 60,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Conjurer I   Gain 4% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Scavenger Enchantment",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Conjurer II   Gain 4➜8% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Infinite Quiver Enchantment",
+            "Harvesting Enchantment",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Conjurer III   Gain 8➜12% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Access to the Wizard Portal",
+            "Luck Enchantment",
+            "Cubism Enchantment",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Conjurer IV   Gain 12➜16% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Cleave Enchantment",
+            "Angler Enchantment",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Conjurer V   Gain 16➜20% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Life Steal Enchantment",
+            "Growth Enchantment",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Conjurer VI   Gain 20➜24% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Snipe Enchantment",
+            "Rainbow Enchantment",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Conjurer VII   Gain 24➜28% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Replenish Enchantment",
+            "Sugar Rush Enchantment",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Conjurer VIII   Gain 28➜32% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Giant Killer Enchantment",
+            "Aiming Enchantment",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Conjurer IX   Gain 32➜36% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Blessing Enchantment",
+            "Critical Enchantment",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Conjurer X   Gain 36➜40% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "First Strike Enchantment",
+            "Rejuvenate Enchantment",
+            "Experimentation Table Recipe",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Conjurer XI   Gain 40➜44% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Ender Slayer Enchantment",
+            "Chance Enchantment",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Conjurer XII   Gain 44➜48% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Impaling Enchantment",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Conjurer XIII   Gain 48➜52% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Magnet Enchantment",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Conjurer XIV   Gain 52➜56% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+1 ✎ Intelligence",
+            "Lethality Enchantment",
+            "Frail Enchantment",
+            "Execute Enchantment",
+            "Thunderlord Enchantment",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Conjurer XV   Gain 56➜60% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Syphon Enchantment",
+            "Caster Enchantment",
+            "True Protection Enchantment",
+            "Vampirism Enchantment",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Conjurer XVI   Gain 60➜64% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Dragon Hunter Enchantment",
+            "Bank Enchantment",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Conjurer XVII   Gain 64➜68% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Piercing Enchantment",
+            "Venomous Enchantment",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Conjurer XVIII   Gain 68➜72% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Spiked Hook Enchantment",
+            "Ultimate Jerry Enchantment",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Conjurer XIX   Gain 72➜76% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Triple-Strike Enchantment",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Conjurer XX   Gain 76➜80% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Thunderbolt Enchantment",
+            "Ultimate Wise Enchantment",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Conjurer XXI   Gain 80➜84% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Big Brain Enchantment",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Conjurer XXII   Gain 84➜88% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Counter-Strike Enchantment",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Conjurer XXIII   Gain 88➜92% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Respite Enchantment",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Conjurer XXIV   Gain 92➜96% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Combo Enchantment",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Conjurer XXV   Gain 96➜100% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Prosecute Enchantment",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Conjurer XXVI   Gain 100➜104% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Vicious Enchantment",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Conjurer XXVII   Gain 104➜108% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Wisdom Enchantment",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Conjurer XXVIII   Gain 108➜112% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Titan Killer Enchantment",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Conjurer XXIX   Gain 112➜116% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "No Pain No Gain Enchantment",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Conjurer XXX   Gain 116➜120% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Last Stand Enchantment",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Conjurer XXXI   Gain 120➜124% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Chimera Enchantment",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Conjurer XXXII   Gain 124➜128% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Rend Enchantment",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Conjurer XXXIII   Gain 128➜132% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Overload Enchantment",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Conjurer XXXIV   Gain 132➜136% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Legion Enchantment",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Conjurer XXXV   Gain 136➜140% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Swarm Enchantment",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Conjurer XXXVI   Gain 140➜144% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "Soul Eater Enchantment",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Conjurer XXXVII   Gain 144➜148% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Conjurer XXXVIII   Gain 148➜152% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Conjurer XXXIX   Gain 152➜156% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Conjurer XL   Gain 156➜160% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Conjurer XLI   Gain 160➜164% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Conjurer XLII   Gain 164➜168% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Conjurer XLIII   Gain 168➜172% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Conjurer XLIV   Gain 172➜176% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Conjurer XLV   Gain 176➜180% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Conjurer XLVI   Gain 180➜184% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Conjurer XLVII   Gain 184➜188% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Conjurer XLVIII   Gain 188➜192% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Conjurer XLIX   Gain 192➜196% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Conjurer L   Gain 196➜200% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+200,000 Coins"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Conjurer LI   Gain 200➜204% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+250,000 Coins"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Conjurer LII   Gain 204➜208% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+300,000 Coins"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Conjurer LIII   Gain 208➜212% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+350,000 Coins"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Conjurer LIV   Gain 212➜216% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+400,000 Coins"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Conjurer LV   Gain 216➜220% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+450,000 Coins"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Conjurer LVI   Gain 220➜224% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+500,000 Coins"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Conjurer LVII   Gain 224➜228% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+600,000 Coins"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Conjurer LVIII   Gain 228➜232% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+700,000 Coins"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Conjurer LIX   Gain 232➜236% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+800,000 Coins"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Conjurer LX   Gain 236➜240% more experience orbs from any source.",
+            "+0.5% ๑ Ability Damage",
+            "+2 ✎ Intelligence",
+            "+1,000,000 Coins"
+          ]
+        }
+      ]
+    },
+    "ALCHEMY": {
+      "name": "Alchemy",
+      "description": "Brew potions to earn Alchemy XP!",
+      "maxLevel": 50,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Brewer I   Potions that you brew have a 1% longer duration.",
+            "+1 ✎ Intelligence",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Brewer II   Potions that you brew have a 1➜2% longer duration.",
+            "+1 ✎ Intelligence",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Brewer III   Potions that you brew have a 2➜3% longer duration.",
+            "+1 ✎ Intelligence",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Brewer IV   Potions that you brew have a 3➜4% longer duration.",
+            "+1 ✎ Intelligence",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Brewer V   Potions that you brew have a 4➜5% longer duration.",
+            "+1 ✎ Intelligence",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Brewer VI   Potions that you brew have a 5➜6% longer duration.",
+            "+1 ✎ Intelligence",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Brewer VII   Potions that you brew have a 6➜7% longer duration.",
+            "+1 ✎ Intelligence",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Brewer VIII   Potions that you brew have a 7➜8% longer duration.",
+            "+1 ✎ Intelligence",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Brewer IX   Potions that you brew have a 8➜9% longer duration.",
+            "+1 ✎ Intelligence",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Brewer X   Potions that you brew have a 9➜10% longer duration.",
+            "+1 ✎ Intelligence",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Brewer XI   Potions that you brew have a 10➜11% longer duration.",
+            "+1 ✎ Intelligence",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Brewer XII   Potions that you brew have a 11➜12% longer duration.",
+            "+1 ✎ Intelligence",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Brewer XIII   Potions that you brew have a 12➜13% longer duration.",
+            "+1 ✎ Intelligence",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Brewer XIV   Potions that you brew have a 13➜14% longer duration.",
+            "+1 ✎ Intelligence",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Brewer XV   Potions that you brew have a 14➜15% longer duration.",
+            "+2 ✎ Intelligence",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Brewer XVI   Potions that you brew have a 15➜16% longer duration.",
+            "+2 ✎ Intelligence",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Brewer XVII   Potions that you brew have a 16➜17% longer duration.",
+            "+2 ✎ Intelligence",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Brewer XVIII   Potions that you brew have a 17➜18% longer duration.",
+            "+2 ✎ Intelligence",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Brewer XIX   Potions that you brew have a 18➜19% longer duration.",
+            "+2 ✎ Intelligence",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Brewer XX   Potions that you brew have a 19➜20% longer duration.",
+            "+2 ✎ Intelligence",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Brewer XXI   Potions that you brew have a 20➜21% longer duration.",
+            "+2 ✎ Intelligence",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Brewer XXII   Potions that you brew have a 21➜22% longer duration.",
+            "+2 ✎ Intelligence",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Brewer XXIII   Potions that you brew have a 22➜23% longer duration.",
+            "+2 ✎ Intelligence",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Brewer XXIV   Potions that you brew have a 23➜24% longer duration.",
+            "+2 ✎ Intelligence",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Brewer XXV   Potions that you brew have a 24➜25% longer duration.",
+            "+2 ✎ Intelligence",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Brewer XXVI   Potions that you brew have a 25➜26% longer duration.",
+            "+2 ✎ Intelligence",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Brewer XXVII   Potions that you brew have a 26➜27% longer duration.",
+            "+2 ✎ Intelligence",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Brewer XXVIII   Potions that you brew have a 27➜28% longer duration.",
+            "+2 ✎ Intelligence",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Brewer XXIX   Potions that you brew have a 28➜29% longer duration.",
+            "+2 ✎ Intelligence",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Brewer XXX   Potions that you brew have a 29➜30% longer duration.",
+            "+2 ✎ Intelligence",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Brewer XXXI   Potions that you brew have a 30➜31% longer duration.",
+            "+2 ✎ Intelligence",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Brewer XXXII   Potions that you brew have a 31➜32% longer duration.",
+            "+2 ✎ Intelligence",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Brewer XXXIII   Potions that you brew have a 32➜33% longer duration.",
+            "+2 ✎ Intelligence",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Brewer XXXIV   Potions that you brew have a 33➜34% longer duration.",
+            "+2 ✎ Intelligence",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Brewer XXXV   Potions that you brew have a 34➜35% longer duration.",
+            "+2 ✎ Intelligence",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Brewer XXXVI   Potions that you brew have a 35➜36% longer duration.",
+            "+2 ✎ Intelligence",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Brewer XXXVII   Potions that you brew have a 36➜37% longer duration.",
+            "+2 ✎ Intelligence",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Brewer XXXVIII   Potions that you brew have a 37➜38% longer duration.",
+            "+2 ✎ Intelligence",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Brewer XXXIX   Potions that you brew have a 38➜39% longer duration.",
+            "+2 ✎ Intelligence",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Brewer XL   Potions that you brew have a 39➜40% longer duration.",
+            "+2 ✎ Intelligence",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Brewer XLI   Potions that you brew have a 40➜41% longer duration.",
+            "+2 ✎ Intelligence",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Brewer XLII   Potions that you brew have a 41➜42% longer duration.",
+            "+2 ✎ Intelligence",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Brewer XLIII   Potions that you brew have a 42➜43% longer duration.",
+            "+2 ✎ Intelligence",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Brewer XLIV   Potions that you brew have a 43➜44% longer duration.",
+            "+2 ✎ Intelligence",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Brewer XLV   Potions that you brew have a 44➜45% longer duration.",
+            "+2 ✎ Intelligence",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Brewer XLVI   Potions that you brew have a 45➜46% longer duration.",
+            "+2 ✎ Intelligence",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Brewer XLVII   Potions that you brew have a 46➜47% longer duration.",
+            "+2 ✎ Intelligence",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Brewer XLVIII   Potions that you brew have a 47➜48% longer duration.",
+            "+2 ✎ Intelligence",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Brewer XLIX   Potions that you brew have a 48➜49% longer duration.",
+            "+2 ✎ Intelligence",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Brewer L   Potions that you brew have a 49➜50% longer duration.",
+            "+2 ✎ Intelligence",
+            "+200,000 Coins"
+          ]
+        }
+      ]
+    },
+    "CARPENTRY": {
+      "name": "Carpentry",
+      "description": "Craft items to earn Carpentry XP!",
+      "maxLevel": 50,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Minion Chair Furniture Recipe",
+            "Dark Oak Chair Furniture Recipe"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Flower Pot Furniture Recipe"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Dark Oak Bench Furniture Recipe",
+            "Access to Quick Crafting System"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Dark Oak Table Furniture Recipe"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Armor Stand Furniture Recipe"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Scarecrow Furniture Recipe"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Desk Furniture Recipe"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Bookcase Furniture Recipe"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Small Shelves Furniture Recipe"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Weapon Rack Furniture Recipe"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Fire Pit Furniture Recipe"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Tiki Torch Furniture Recipe"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Fireplace Furniture Recipe",
+            "Furnace+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Chest Storage Furniture Recipe"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Weapon Rack+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Hay Bed Furniture Recipe",
+            "Large Bed Furniture Recipe"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Water Trough Furniture Recipe",
+            "Food Trough Furniture Recipe"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Medium Shelves Furniture Recipe"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Crafting Table+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Wood Chest+ Furniture Recipe",
+            "Diamond Chest+ Furniture Recipe",
+            "Emerald Chest+ Furniture Recipe",
+            "Iron Chest+ Furniture Recipe",
+            "Gold Chest+ Furniture Recipe",
+            "Lapis Chest+ Furniture Recipe",
+            "Redstone Chest+ Furniture Recipe",
+            "Ender Chest+ Furniture Recipe",
+            "Endstone Chest+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Brewing+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Enchanting Table+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Blacksmith+ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Skull Chest++ Furniture Recipe"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Grandfather Clock Furniture Recipe"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Furniture Recipe (COMING SOON)"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": []
+        }
+      ]
+    },
+    "RUNECRAFTING": {
+      "name": "Runecrafting",
+      "description": "Slay bosses, runic mobs & fuse runes to earn Runecrafting XP!",
+      "maxLevel": 25,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Access to Level 1 Runes"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 150,
+          "unlocks": [
+            "Access to Level 2 Runes"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 275,
+          "unlocks": [
+            "Access to Level 3 Runes"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 435,
+          "unlocks": [
+            "Access to Level 4 Runes"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 635,
+          "unlocks": [
+            "Access to Level 5 Runes"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 885,
+          "unlocks": [
+            "Access to Level 6 Runes"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 1200,
+          "unlocks": [
+            "Access to Level 7 Runes"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 1600,
+          "unlocks": [
+            "Access to Level 8 Runes"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 2100,
+          "unlocks": [
+            "Access to Level 9 Runes"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 2725,
+          "unlocks": [
+            "Access to Level 10 Runes"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 3510,
+          "unlocks": [
+            "Access to Level 11 Runes"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 4510,
+          "unlocks": [
+            "Access to Level 12 Runes"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 5760,
+          "unlocks": [
+            "Access to Level 13 Runes"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 7325,
+          "unlocks": [
+            "Access to Level 14 Runes"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 9325,
+          "unlocks": [
+            "Access to Level 15 Runes"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 11825,
+          "unlocks": [
+            "Access to Level 16 Runes"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 14950,
+          "unlocks": [
+            "Access to Level 17 Runes"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 18950,
+          "unlocks": [
+            "Access to Level 18 Runes"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 23950,
+          "unlocks": [
+            "Access to Level 19 Runes"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 30200,
+          "unlocks": [
+            "Access to Level 20 Runes"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 38050,
+          "unlocks": [
+            "Access to Level 21 Runes"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 47850,
+          "unlocks": [
+            "Access to Level 22 Runes"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 60100,
+          "unlocks": [
+            "Access to Level 23 Runes"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 75400,
+          "unlocks": [
+            "Access to Level 24 Runes"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 94450,
+          "unlocks": [
+            "Access to Level 25 Runes"
+          ]
+        }
+      ]
+    },
+    "SOCIAL": {
+      "name": "Social",
+      "description": "Gain Social XP for every new unique guest, hosting guests and visiting islands!",
+      "maxLevel": 25,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Ability to purchase Parkour Blocks at Amelia in the Hub",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 150,
+          "unlocks": [
+            "Ability to purchase Social Display at Amelia in the Hub",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 300,
+          "unlocks": [
+            "Ability to purchase Egg Hunt at Amelia in the Hub",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 550,
+          "unlocks": [
+            "Unlock /social Commands",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1050,
+          "unlocks": [
+            "Ability to purchase Island NPCs at Amelia in the Hub",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1800,
+          "unlocks": [
+            "Ability to purchase Tic Tac Toe at Amelia in the Hub",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2800,
+          "unlocks": [
+            "Ability to purchase Four in a Row at Amelia in the Hub",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4050,
+          "unlocks": [
+            "Ability to purchase Rock Paper Shears at Amelia in the Hub",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 5550,
+          "unlocks": [
+            "Unlock Island Ranks",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 7550,
+          "unlocks": [
+            "Ability to purchase Showcase Block at Amelia in the Hub",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 10050,
+          "unlocks": [
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 13050,
+          "unlocks": [
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 16800,
+          "unlocks": [
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 21300,
+          "unlocks": [
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 27300,
+          "unlocks": [
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 35300,
+          "unlocks": [
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 45300,
+          "unlocks": [
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 57800,
+          "unlocks": [
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 72800,
+          "unlocks": [
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 92800,
+          "unlocks": [
+            "Unlock Island Naming",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 117800,
+          "unlocks": [
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 147800,
+          "unlocks": [
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 182800,
+          "unlocks": [
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 222800,
+          "unlocks": [
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 272800,
+          "unlocks": [
+            "+3,000 Coins"
+          ]
+        }
+      ]
+    },
+    "TAMING": {
+      "name": "Taming",
+      "description": "Level up pets to earn Taming XP!",
+      "maxLevel": 50,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Zoologist I   Gain 1% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Zoologist II   Gain 1➜2% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Zoologist III   Gain 2➜3% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Zoologist IV   Gain 3➜4% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Zoologist V   Gain 4➜5% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Zoologist VI   Gain 5➜6% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Zoologist VII   Gain 6➜7% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Zoologist VIII   Gain 7➜8% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Zoologist IX   Gain 8➜9% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Zoologist X   Gain 9➜10% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Zoologist XI   Gain 10➜11% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Zoologist XII   Gain 11➜12% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Zoologist XIII   Gain 12➜13% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Zoologist XIV   Gain 13➜14% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Zoologist XV   Gain 14➜15% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Zoologist XVI   Gain 15➜16% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Zoologist XVII   Gain 16➜17% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Zoologist XVIII   Gain 17➜18% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Zoologist XIX   Gain 18➜19% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Zoologist XX   Gain 19➜20% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Zoologist XXI   Gain 20➜21% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Zoologist XXII   Gain 21➜22% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Zoologist XXIII   Gain 22➜23% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Zoologist XXIV   Gain 23➜24% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Zoologist XXV   Gain 24➜25% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Zoologist XXVI   Gain 25➜26% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Zoologist XXVII   Gain 26➜27% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Zoologist XXVIII   Gain 27➜28% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Zoologist XXIX   Gain 28➜29% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Zoologist XXX   Gain 29➜30% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Zoologist XXXI   Gain 30➜31% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Zoologist XXXII   Gain 31➜32% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Zoologist XXXIII   Gain 32➜33% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Zoologist XXXIV   Gain 33➜34% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Zoologist XXXV   Gain 34➜35% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Zoologist XXXVI   Gain 35➜36% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Zoologist XXXVII   Gain 36➜37% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Zoologist XXXVIII   Gain 37➜38% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Zoologist XXXIX   Gain 38➜39% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Zoologist XL   Gain 39➜40% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Zoologist XLI   Gain 40➜41% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Zoologist XLII   Gain 41➜42% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Zoologist XLIII   Gain 42➜43% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Zoologist XLIV   Gain 43➜44% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Zoologist XLV   Gain 44➜45% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Zoologist XLVI   Gain 45➜46% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Zoologist XLVII   Gain 46➜47% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Zoologist XLVIII   Gain 47➜48% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Zoologist XLIX   Gain 48➜49% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Zoologist L   Gain 49➜50% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+200,000 Coins"
+          ]
+        }
+      ]
+    }
+  },
+  "skills": {
+    "FARMING": {
+      "name": "Farming",
+      "description": "Harvest crops and shear sheep to earn Farming XP!",
+      "maxLevel": 60,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Farmhand I   Grants +4 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "Access to The Barn",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Farmhand II   Grants +4➜8 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Farmhand III   Grants +8➜12 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Farmhand IV   Grants +12➜16 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Farmhand V   Grants +16➜20 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "Access to Mushroom Desert",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Farmhand VI   Grants +20➜24 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Farmhand VII   Grants +24➜28 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Farmhand VIII   Grants +28➜32 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Farmhand IX   Grants +32➜36 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Farmhand X   Grants +36➜40 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Farmhand XI   Grants +40➜44 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Farmhand XII   Grants +44➜48 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Farmhand XIII   Grants +48➜52 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Farmhand XIV   Grants +52➜56 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+2 HP ❤ Health",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Farmhand XV   Grants +56➜60 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+3 HP ❤ Health",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Farmhand XVI   Grants +60➜64 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+3 HP ❤ Health",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Farmhand XVII   Grants +64➜68 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+3 HP ❤ Health",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Farmhand XVIII   Grants +68➜72 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+3 HP ❤ Health",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Farmhand XIX   Grants +72➜76 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+3 HP ❤ Health",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Farmhand XX   Grants +76➜80 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+4 HP ❤ Health",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Farmhand XXI   Grants +80➜84 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+4 HP ❤ Health",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Farmhand XXII   Grants +84➜88 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+4 HP ❤ Health",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Farmhand XXIII   Grants +88➜92 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+4 HP ❤ Health",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Farmhand XXIV   Grants +92➜96 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+4 HP ❤ Health",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Farmhand XXV   Grants +96➜100 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+4 HP ❤ Health",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Farmhand XXVI   Grants +100➜104 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Farmhand XXVII   Grants +104➜108 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Farmhand XXVIII   Grants +108➜112 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Farmhand XXIX   Grants +112➜116 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Farmhand XXX   Grants +116➜120 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Farmhand XXXI   Grants +120➜124 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Farmhand XXXII   Grants +124➜128 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Farmhand XXXIII   Grants +128➜132 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Farmhand XXXIV   Grants +132➜136 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Farmhand XXXV   Grants +136➜140 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Farmhand XXXVI   Grants +140➜144 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Farmhand XXXVII   Grants +144➜148 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Farmhand XXXVIII   Grants +148➜152 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Farmhand XXXIX   Grants +152➜156 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Farmhand XL   Grants +156➜160 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Farmhand XLI   Grants +160➜164 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Farmhand XLII   Grants +164➜168 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Farmhand XLIII   Grants +168➜172 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Farmhand XLIV   Grants +172➜176 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Farmhand XLV   Grants +176➜180 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Farmhand XLVI   Grants +180➜184 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Farmhand XLVII   Grants +184➜188 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Farmhand XLVIII   Grants +188➜192 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Farmhand XLIX   Grants +192➜196 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Farmhand L   Grants +196➜200 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+200,000 Coins"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Farmhand LI   Grants +200➜204 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+250,000 Coins"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Farmhand LII   Grants +204➜208 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+300,000 Coins"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Farmhand LIII   Grants +208➜212 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+350,000 Coins"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Farmhand LIV   Grants +212➜216 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+400,000 Coins"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Farmhand LV   Grants +216➜220 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+450,000 Coins"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Farmhand LVI   Grants +220➜224 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+500,000 Coins"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Farmhand LVII   Grants +224➜228 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+600,000 Coins"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Farmhand LVIII   Grants +228➜232 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+700,000 Coins"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Farmhand LIX   Grants +232➜236 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+800,000 Coins"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Farmhand LX   Grants +236➜240 ☘ Farming Fortune, which increases your chance for multiple crops.",
+            "+5 HP ❤ Health",
+            "+1,000,000 Coins"
+          ]
+        }
+      ]
+    },
+    "MINING": {
+      "name": "Mining",
+      "description": "Spelunk islands for ores and valuable materials to earn Mining XP!",
+      "maxLevel": 60,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Spelunker I   Grants +4 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Access to Gold Mine",
+            "Jerry Stone Reforge",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Spelunker II   Grants +4➜8 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Onyx Reforge",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Spelunker III   Grants +8➜12 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Spelunker IV   Grants +12➜16 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Spelunker V   Grants +16➜20 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Access to Deep Caverns",
+            "Lapis Crystal Reforge",
+            "Moil Log Reforge",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Spelunker VI   Grants +20➜24 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Luxurious Spool Reforge",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Spelunker VII   Grants +24➜28 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Spelunker VIII   Grants +28➜32 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Rare Diamond Reforge",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Spelunker IX   Grants +32➜36 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Spelunker X   Grants +36➜40 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Molten Cube Reforge",
+            "Dirt Bottle Reforge",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Spelunker XI   Grants +40➜44 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Spelunker XII   Grants +44➜48 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "Hardened Wood Reforge",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Spelunker XIII   Grants +48➜52 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Spelunker XIV   Grants +52➜56 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+1 ❈ Defense",
+            "End Stone Geode Reforge",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Spelunker XV   Grants +56➜60 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Salmon Opal Reforge",
+            "Diamonite Reforge",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Spelunker XVI   Grants +60➜64 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Premium Flesh Reforge",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Spelunker XVII   Grants +64➜68 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Red Nose Reforge",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Spelunker XVIII   Grants +68➜72 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Beating Heart Reforge",
+            "Pure Mithril Reforge",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Spelunker XIX   Grants +72➜76 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Necromancer's Brooch Reforge",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Spelunker XX   Grants +76➜80 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Dragon Scale Reforge",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Spelunker XXI   Grants +80➜84 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Red Scarf Reforge",
+            "Rock Gemstone Reforge",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Spelunker XXII   Grants +84➜88 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Dragon Claw Reforge",
+            "Diamond Atom Reforge",
+            "Optical Lens Reforge",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Spelunker XXIII   Grants +88➜92 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Suspicious Vial Reforge",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Spelunker XXIV   Grants +92➜96 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Spirit Stone Reforge",
+            "Lucky Dice Reforge",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Spelunker XXV   Grants +96➜100 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Dragon Horn Reforge",
+            "Midas Jewel Reforge",
+            "Giant Tooth Reforge",
+            "Sadan's Brooch Reforge",
+            "Blessed Fruit Reforge",
+            "Refined Amber Reforge",
+            "Toil Log Reforge",
+            "Bulky Stone Reforge",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Spelunker XXVI   Grants +100➜104 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Warped Stone Reforge",
+            "Petrified Starfall Reforge",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Spelunker XXVII   Grants +104➜108 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Spelunker XXVIII   Grants +108➜112 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Spelunker XXIX   Grants +112➜116 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Spelunker XXX   Grants +116➜120 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "Wither Blood Reforge",
+            "Precursor Gear Reforge",
+            "Golden Ball Reforge",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Spelunker XXXI   Grants +120➜124 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Spelunker XXXII   Grants +124➜128 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Spelunker XXXIII   Grants +128➜132 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Spelunker XXXIV   Grants +132➜136 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Spelunker XXXV   Grants +136➜140 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Spelunker XXXVI   Grants +140➜144 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Spelunker XXXVII   Grants +144➜148 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Spelunker XXXVIII   Grants +148➜152 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Spelunker XXXIX   Grants +152➜156 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Spelunker XL   Grants +156➜160 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Spelunker XLI   Grants +160➜164 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Spelunker XLII   Grants +164➜168 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Spelunker XLIII   Grants +168➜172 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Spelunker XLIV   Grants +172➜176 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Spelunker XLV   Grants +176➜180 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Spelunker XLVI   Grants +180➜184 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Spelunker XLVII   Grants +184➜188 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Spelunker XLVIII   Grants +188➜192 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Spelunker XLIX   Grants +192➜196 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Spelunker L   Grants +196➜200 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+200,000 Coins"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Spelunker LI   Grants +200➜204 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+250,000 Coins"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Spelunker LII   Grants +204➜208 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+300,000 Coins"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Spelunker LIII   Grants +208➜212 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+350,000 Coins"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Spelunker LIV   Grants +212➜216 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+400,000 Coins"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Spelunker LV   Grants +216➜220 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+450,000 Coins"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Spelunker LVI   Grants +220➜224 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+500,000 Coins"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Spelunker LVII   Grants +224➜228 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+600,000 Coins"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Spelunker LVIII   Grants +228➜232 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+700,000 Coins"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Spelunker LIX   Grants +232➜236 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+800,000 Coins"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Spelunker LX   Grants +236➜240 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
+            "+2 ❈ Defense",
+            "+1,000,000 Coins"
+          ]
+        }
+      ]
+    },
+    "COMBAT": {
+      "name": "Combat",
+      "description": "Fight mobs and players to earn Combat XP!",
+      "maxLevel": 60,
+      "levels": [
+        {
+          "level": 1,
+          "totalExpRequired": 50,
+          "unlocks": [
+            "Warrior I   Deal 4% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "Access to Spider's Den",
+            "+25 Coins"
+          ]
+        },
+        {
+          "level": 2,
+          "totalExpRequired": 175,
+          "unlocks": [
+            "Warrior II   Deal 4➜8% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+50 Coins"
+          ]
+        },
+        {
+          "level": 3,
+          "totalExpRequired": 375,
+          "unlocks": [
+            "Warrior III   Deal 8➜12% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+100 Coins"
+          ]
+        },
+        {
+          "level": 4,
+          "totalExpRequired": 675,
+          "unlocks": [
+            "Warrior IV   Deal 12➜16% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+200 Coins"
+          ]
+        },
+        {
+          "level": 5,
+          "totalExpRequired": 1175,
+          "unlocks": [
+            "Warrior V   Deal 16➜20% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "Access to Blazing Fortress",
+            "Access to Wardrobe System in SkyBlock Menu",
+            "+300 Coins"
+          ]
+        },
+        {
+          "level": 6,
+          "totalExpRequired": 1925,
+          "unlocks": [
+            "Warrior VI   Deal 20➜24% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+400 Coins"
+          ]
+        },
+        {
+          "level": 7,
+          "totalExpRequired": 2925,
+          "unlocks": [
+            "Warrior VII   Deal 24➜28% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+500 Coins"
+          ]
+        },
+        {
+          "level": 8,
+          "totalExpRequired": 4425,
+          "unlocks": [
+            "Warrior VIII   Deal 28➜32% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+600 Coins"
+          ]
+        },
+        {
+          "level": 9,
+          "totalExpRequired": 6425,
+          "unlocks": [
+            "Warrior IX   Deal 32➜36% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+700 Coins"
+          ]
+        },
+        {
+          "level": 10,
+          "totalExpRequired": 9925,
+          "unlocks": [
+            "Warrior X   Deal 36➜40% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+800 Coins"
+          ]
+        },
+        {
+          "level": 11,
+          "totalExpRequired": 14925,
+          "unlocks": [
+            "Warrior XI   Deal 40➜44% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+900 Coins"
+          ]
+        },
+        {
+          "level": 12,
+          "totalExpRequired": 22425,
+          "unlocks": [
+            "Warrior XII   Deal 44➜48% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "Access to The End",
+            "+1,000 Coins"
+          ]
+        },
+        {
+          "level": 13,
+          "totalExpRequired": 32425,
+          "unlocks": [
+            "Warrior XIII   Deal 48➜52% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,100 Coins"
+          ]
+        },
+        {
+          "level": 14,
+          "totalExpRequired": 47425,
+          "unlocks": [
+            "Warrior XIV   Deal 52➜56% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,200 Coins"
+          ]
+        },
+        {
+          "level": 15,
+          "totalExpRequired": 67425,
+          "unlocks": [
+            "Warrior XV   Deal 56➜60% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,300 Coins"
+          ]
+        },
+        {
+          "level": 16,
+          "totalExpRequired": 97425,
+          "unlocks": [
+            "Warrior XVI   Deal 60➜64% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,400 Coins"
+          ]
+        },
+        {
+          "level": 17,
+          "totalExpRequired": 147425,
+          "unlocks": [
+            "Warrior XVII   Deal 64➜68% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,500 Coins"
+          ]
+        },
+        {
+          "level": 18,
+          "totalExpRequired": 222425,
+          "unlocks": [
+            "Warrior XVIII   Deal 68➜72% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,600 Coins"
+          ]
+        },
+        {
+          "level": 19,
+          "totalExpRequired": 322425,
+          "unlocks": [
+            "Warrior XIX   Deal 72➜76% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,800 Coins"
+          ]
+        },
+        {
+          "level": 20,
+          "totalExpRequired": 522425,
+          "unlocks": [
+            "Warrior XX   Deal 76➜80% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+2,000 Coins"
+          ]
+        },
+        {
+          "level": 21,
+          "totalExpRequired": 822425,
+          "unlocks": [
+            "Warrior XXI   Deal 80➜84% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+2,200 Coins"
+          ]
+        },
+        {
+          "level": 22,
+          "totalExpRequired": 1222425,
+          "unlocks": [
+            "Warrior XXII   Deal 84➜88% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+2,400 Coins"
+          ]
+        },
+        {
+          "level": 23,
+          "totalExpRequired": 1722425,
+          "unlocks": [
+            "Warrior XXIII   Deal 88➜92% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+2,600 Coins"
+          ]
+        },
+        {
+          "level": 24,
+          "totalExpRequired": 2322425,
+          "unlocks": [
+            "Warrior XXIV   Deal 92➜96% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+2,800 Coins"
+          ]
+        },
+        {
+          "level": 25,
+          "totalExpRequired": 3022425,
+          "unlocks": [
+            "Warrior XXV   Deal 96➜100% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+3,000 Coins"
+          ]
+        },
+        {
+          "level": 26,
+          "totalExpRequired": 3822425,
+          "unlocks": [
+            "Warrior XXVI   Deal 100➜104% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+3,500 Coins"
+          ]
+        },
+        {
+          "level": 27,
+          "totalExpRequired": 4722425,
+          "unlocks": [
+            "Warrior XXVII   Deal 104➜108% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+4,000 Coins"
+          ]
+        },
+        {
+          "level": 28,
+          "totalExpRequired": 5722425,
+          "unlocks": [
+            "Warrior XXVIII   Deal 108➜112% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+5,000 Coins"
+          ]
+        },
+        {
+          "level": 29,
+          "totalExpRequired": 6822425,
+          "unlocks": [
+            "Warrior XXIX   Deal 112➜116% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+6,000 Coins"
+          ]
+        },
+        {
+          "level": 30,
+          "totalExpRequired": 8022425,
+          "unlocks": [
+            "Warrior XXX   Deal 116➜120% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+7,500 Coins"
+          ]
+        },
+        {
+          "level": 31,
+          "totalExpRequired": 9322425,
+          "unlocks": [
+            "Warrior XXXI   Deal 120➜124% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+10,000 Coins"
+          ]
+        },
+        {
+          "level": 32,
+          "totalExpRequired": 10722425,
+          "unlocks": [
+            "Warrior XXXII   Deal 124➜128% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+12,500 Coins"
+          ]
+        },
+        {
+          "level": 33,
+          "totalExpRequired": 12222425,
+          "unlocks": [
+            "Warrior XXXIII   Deal 128➜132% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+15,000 Coins"
+          ]
+        },
+        {
+          "level": 34,
+          "totalExpRequired": 13822425,
+          "unlocks": [
+            "Warrior XXXIV   Deal 132➜136% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+17,500 Coins"
+          ]
+        },
+        {
+          "level": 35,
+          "totalExpRequired": 15522425,
+          "unlocks": [
+            "Warrior XXXV   Deal 136➜140% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+20,000 Coins"
+          ]
+        },
+        {
+          "level": 36,
+          "totalExpRequired": 17322425,
+          "unlocks": [
+            "Warrior XXXVI   Deal 140➜144% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+25,000 Coins"
+          ]
+        },
+        {
+          "level": 37,
+          "totalExpRequired": 19222425,
+          "unlocks": [
+            "Warrior XXXVII   Deal 144➜148% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+30,000 Coins"
+          ]
+        },
+        {
+          "level": 38,
+          "totalExpRequired": 21222425,
+          "unlocks": [
+            "Warrior XXXVIII   Deal 148➜152% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+35,000 Coins"
+          ]
+        },
+        {
+          "level": 39,
+          "totalExpRequired": 23322425,
+          "unlocks": [
+            "Warrior XXXIX   Deal 152➜156% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+40,000 Coins"
+          ]
+        },
+        {
+          "level": 40,
+          "totalExpRequired": 25522425,
+          "unlocks": [
+            "Warrior XL   Deal 156➜160% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+45,000 Coins"
+          ]
+        },
+        {
+          "level": 41,
+          "totalExpRequired": 27822425,
+          "unlocks": [
+            "Warrior XLI   Deal 160➜164% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+50,000 Coins"
+          ]
+        },
+        {
+          "level": 42,
+          "totalExpRequired": 30222425,
+          "unlocks": [
+            "Warrior XLII   Deal 164➜168% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+60,000 Coins"
+          ]
+        },
+        {
+          "level": 43,
+          "totalExpRequired": 32722425,
+          "unlocks": [
+            "Warrior XLIII   Deal 168➜172% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+70,000 Coins"
+          ]
+        },
+        {
+          "level": 44,
+          "totalExpRequired": 35322425,
+          "unlocks": [
+            "Warrior XLIV   Deal 172➜176% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+80,000 Coins"
+          ]
+        },
+        {
+          "level": 45,
+          "totalExpRequired": 38072425,
+          "unlocks": [
+            "Warrior XLV   Deal 176➜180% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+90,000 Coins"
+          ]
+        },
+        {
+          "level": 46,
+          "totalExpRequired": 40972425,
+          "unlocks": [
+            "Warrior XLVI   Deal 180➜184% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+100,000 Coins"
+          ]
+        },
+        {
+          "level": 47,
+          "totalExpRequired": 44072425,
+          "unlocks": [
+            "Warrior XLVII   Deal 184➜188% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+125,000 Coins"
+          ]
+        },
+        {
+          "level": 48,
+          "totalExpRequired": 47472425,
+          "unlocks": [
+            "Warrior XLVIII   Deal 188➜192% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+150,000 Coins"
+          ]
+        },
+        {
+          "level": 49,
+          "totalExpRequired": 51172425,
+          "unlocks": [
+            "Warrior XLIX   Deal 192➜196% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+175,000 Coins"
+          ]
+        },
+        {
+          "level": 50,
+          "totalExpRequired": 55172425,
+          "unlocks": [
+            "Warrior L   Deal 196➜200% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+200,000 Coins"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Warrior LI   Deal 200➜201% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+250,000 Coins"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Warrior LII   Deal 201➜202% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+300,000 Coins"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Warrior LIII   Deal 202➜203% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+350,000 Coins"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Warrior LIV   Deal 203➜204% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+400,000 Coins"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Warrior LV   Deal 204➜205% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+450,000 Coins"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Warrior LVI   Deal 205➜206% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+500,000 Coins"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Warrior LVII   Deal 206➜207% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+600,000 Coins"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Warrior LVIII   Deal 207➜208% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+700,000 Coins"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Warrior LIX   Deal 208➜209% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+800,000 Coins"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Warrior LX   Deal 209➜210% more damage to mobs.",
+            "+0.5% ☣ Crit Chance",
+            "+1,000,000 Coins"
           ]
         }
       ]
@@ -2752,7 +7355,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "??? Sea Creature",
+            "Great White Shark Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 HP ❤ Health",
             "+2,800 Coins"
@@ -2762,7 +7365,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "??? Sea Creature",
+            "Yeti Sea Creature",
             "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 HP ❤ Health",
             "+3,000 Coins"
@@ -2772,7 +7375,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Grim Reaper Sea Creature",
             "Treasure Hunter XXVI   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 HP ❤ Health",
             "+3,500 Coins"

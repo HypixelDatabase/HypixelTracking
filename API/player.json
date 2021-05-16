@@ -22619,7 +22619,8 @@
             },
             "seismic_slam": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "boulder": {
               "smashed_2v2": 0,
@@ -22689,7 +22690,11 @@
             },
             "friend_losses": 0,
             "friend_losses_normal": 0,
-            "losses_teams": 0
+            "losses_teams": 0,
+            "werepug": {
+              "smashed": 0,
+              "smashed_normal": 0
+            }
           },
           "GENERAL_CLUCK": {
             "damage_dealt_2v2": 0,

@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Sun, 16 May 2021 09:31:10 -0400</pubDate>
+    <pubDate>Mon, 17 May 2021 02:41:21 -0400</pubDate>
+    <item>
+      <title>Support Outage</title>
+      <description>
+&lt;p&gt;&lt;small&gt;May &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;02:40&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are aware of an issue causing the Hypixel Support site to be unavailable and are working to resolve as soon as possible.&lt;/p&gt;      </description>
+      <pubDate>Mon, 17 May 2021 02:41:21 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/lgx0vz6j43fr</link>
+      <guid>https://status.hypixel.net/incidents/lgx0vz6j43fr</guid>
+    </item>
     <item>
       <title>Forums Maintenance</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Wed, 23 Dec 2020 16:00:31 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/zdd5gppdtcc3</link>
       <guid>https://status.hypixel.net/incidents/zdd5gppdtcc3</guid>
-    </item>
-    <item>
-      <title>Network Issues</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:12&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:20&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:43&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
-      <pubDate>Thu, 17 Dec 2020 16:12:19 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/r9jcpzrfn7j2</link>
-      <guid>https://status.hypixel.net/incidents/r9jcpzrfn7j2</guid>
     </item>
   </channel>
 </rss>

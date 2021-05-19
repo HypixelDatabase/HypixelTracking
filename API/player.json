@@ -22654,7 +22654,8 @@
             },
             "dash": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "freezing_breath": {
               "smashed": 0,
@@ -38181,7 +38182,9 @@
         "WALLS3__protector_challenge": 0,
         "BATTLEGROUND__carry_challenge": 0,
         "BUILD_BATTLE__guesser_challenge": 0,
-        "BUILD_BATTLE__top_3_challenge": 0
+        "BUILD_BATTLE__top_3_challenge": 0,
+        "SUPER_SMASH__crystal_challenge": 0,
+        "SUPER_SMASH__flawless_challenge": 0
       },
       "day_i": {
         "UHC__threat_challenge": 0,

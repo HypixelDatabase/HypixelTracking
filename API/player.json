@@ -1813,7 +1813,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mm_power_play": 0
+          },
           "started": 0
         }
       },

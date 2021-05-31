@@ -552,7 +552,9 @@
           "kills_oasis_rabbit": 0,
           "kills_master_spirit_chicken": 0,
           "kills_master_spirit_miniboss": 0,
-          "deaths_master_spirit_miniboss": 0
+          "deaths_master_spirit_miniboss": 0,
+          "kills_voidling_fanatic": 0,
+          "kills_voidling_extremist": 0
         },
         "objectives": {
           "collect_log": {
@@ -2563,7 +2565,8 @@
           "zone_shepherds_keep",
           "zone_jake_house",
           "zone_windmill",
-          "flying_pig"
+          "flying_pig",
+          "zone_void_sepulture"
         ],
         "quests": {
           "collect_log": {
@@ -2878,7 +2881,8 @@
           "trappers_den_shop_area",
           "shepherds_keep",
           "jake_house",
-          "windmill"
+          "windmill",
+          "void_sepulture"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -2950,6 +2954,9 @@
             "boss_kills_tier_1": 0,
             "boss_kills_tier_2": 0,
             "boss_kills_tier_3": 0
+          },
+          "enderman": {
+            "claimed_levels": {}
           }
         },
         "pets": [

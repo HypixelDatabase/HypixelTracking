@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1622126096589,
-  "version": "0.11.188",
+  "lastUpdated": 1622495008106,
+  "version": "0.11.191",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -773,7 +773,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Aiming IV) Recipe"
+                "Enchanted Book (Dragon Tracer IV) Recipe"
               ]
             },
             {
@@ -2950,7 +2950,8 @@
               "tier": 7,
               "amountRequired": 15000,
               "unlocks": [
-                "Teleport Pad Trade"
+                "Teleport Pad Trade",
+                "Absolute Ender Pearl Recipe"
               ]
             },
             {

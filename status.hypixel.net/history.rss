@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Mon, 14 Jun 2021 12:38:07 -0400</pubDate>
+    <pubDate>Mon, 14 Jun 2021 19:47:30 -0400</pubDate>
+    <item>
+      <title>Intermittent connection issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:47&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue with an upstream provider and are working with them to resolve it as soon as possible.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var=&apos;date&apos;&gt;14&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:27&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue with intermittent connection issues to the Minecraft Server and Forums.&lt;/p&gt;      </description>
+      <pubDate>Mon, 14 Jun 2021 19:47:30 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/7fvf4rj4glcd</link>
+      <guid>https://status.hypixel.net/incidents/7fvf4rj4glcd</guid>
+    </item>
     <item>
       <title>Support Outage</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Fri, 15 Jan 2021 15:04:49 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/pdqy3kx7shyt</link>
       <guid>https://status.hypixel.net/incidents/pdqy3kx7shyt</guid>
-    </item>
-    <item>
-      <title>Forums Maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;23&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;22&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:59&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Hypixel Forums will be undergoing scheduled maintenance during this time to implement quality-of-life changes.&lt;/p&gt;      </description>
-      <pubDate>Wed, 23 Dec 2020 16:00:31 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/zdd5gppdtcc3</link>
-      <guid>https://status.hypixel.net/incidents/zdd5gppdtcc3</guid>
     </item>
   </channel>
 </rss>

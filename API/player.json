@@ -33851,44 +33851,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2200,
-              "requirements": {},
-              "progress": {},
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "fish_diamond_sword"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2400,
-              "requirements": {
-                "streak": 15
-              },
-              "progress": {
-                "streak": 0
-              },
-              "chunk_of_viles_reward": 1,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kill_streak"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2000,
-              "requirements": {
-                "ingots": 20
-              },
-              "progress": {},
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "collect_ingots"
-            }
-          ],
+          "contract_choices": null,
           "last_save": 0,
           "king_quest": {
             "kills": 0,

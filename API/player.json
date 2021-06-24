@@ -33851,7 +33851,48 @@
               "target": ""
             }
           ],
-          "contract_choices": null,
+          "contract_choices": [
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "shots": 125
+              },
+              "progress": {},
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "land_arrow_shots"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "kills": 8
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "kills_no_perk"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2200,
+              "requirements": {
+                "kills": 15
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "plain_kills"
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,
@@ -34014,7 +34055,8 @@
             "Pit_kotl_time_2021_spring": 0,
             "Pit_tdm_red_kills_2021_spring": 0,
             "Pit_rage_pit_damage_2021_summer": 0,
-            "Pit_tdm_red_kills_2021_summer": 0
+            "Pit_tdm_red_kills_2021_summer": 0,
+            "Pit_blockhead_blocks_2021_summer": 0
           },
           "selected_perk_3": "",
           "selected_perk_2": "",

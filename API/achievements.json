@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1625040267829,
+  "lastUpdated": 1625077167793,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11735,36 +11735,12 @@
           "description": "Knock a player into the void while using the Baseball Player Kit in SkyWars",
           "globalPercentUnlocked": 0.3761439652465078
         },
-        "WIN_PINK_SHEEP": {
-          "points": 15,
-          "name": "Bird? Plane? Nope, just a Pink Sheep",
-          "description": "Win a game of Farm Hunt as a Pink Sheep",
-          "globalPercentUnlocked": 0.020025926124585806
-        },
         "COLLECTORS_EDITION": {
           "points": 20,
           "name": "Collector's Edition",
           "description": "???",
           "secret": true,
           "legacy": true
-        },
-        "EXPERT_DIVER": {
-          "points": 15,
-          "name": "Expert Diver",
-          "description": "Reach 85 points in a game of Scuba Simulator",
-          "globalPercentUnlocked": 0.03230411689605317
-        },
-        "POOL_PARTY": {
-          "points": 10,
-          "name": "Pool Party",
-          "description": "Win a game of Hide and Seek: Party Pooper on the Pool Party map",
-          "globalPercentUnlocked": 0.564887687636362
-        },
-        "AUSTRALIAN_WINTER": {
-          "points": 10,
-          "name": "Australian Winter",
-          "description": "Have your snowmen hit players with snowballs 500 times while using Snowman in Mega Walls",
-          "globalPercentUnlocked": 0.01
         },
         "SHOCKWAVE": {
           "points": 10,
@@ -11778,11 +11754,111 @@
           "description": "Win a game of Warlords using the Thunderlord subclass of Shaman",
           "globalPercentUnlocked": 0.05065826961654367
         },
+        "THIS_ISNT_THE_LOBBY": {
+          "points": 5,
+          "name": "This isn't the Lobby!",
+          "description": "Catch a fish in The Pit"
+        },
         "LIGHTNING_ROD": {
           "points": 5,
           "name": "Lightning Rod",
           "description": "Get struck by lightning in Murder Mystery",
           "globalPercentUnlocked": 0.9867554130861169
+        },
+        "WRONG_SEASON": {
+          "points": 5,
+          "name": "Wrong Season",
+          "description": "Hit a player with a snowball in UHC"
+        },
+        "OASIS_JAKE": {
+          "points": 5,
+          "name": "Oasis Jake",
+          "description": "Bring an Oasis Sheep to Jake in SkyBlock"
+        },
+        "STAY_HYDRATED": {
+          "points": 5,
+          "name": "Stay Hydrated",
+          "description": "Give one of your Pets water in a lobby"
+        },
+        "EXPERT_DIVER": {
+          "points": 15,
+          "name": "Expert Diver",
+          "description": "Reach 85 points in a game of Scuba Simulator",
+          "globalPercentUnlocked": 0.03230411689605317
+        },
+        "POOL_PARTY": {
+          "points": 10,
+          "name": "Pool Party",
+          "description": "Win a game of Hide and Seek: Party Pooper on the Pool Party map",
+          "globalPercentUnlocked": 0.564887687636362
+        },
+        "COOL_OFF": {
+          "points": 5,
+          "name": "Cool Off",
+          "description": "Vote for Marina in a SkyBlock Election"
+        },
+        "SUN_DENIAL": {
+          "points": 10,
+          "name": "Sun Denial",
+          "description": "Use Healing Rain 6 times in a single game of Warlords"
+        },
+        "RULE_THE_HEAT": {
+          "points": 10,
+          "name": "Rule the Heat",
+          "description": "Kill 10 zombies using the Flamethrower in Arcade: Zombies"
+        },
+        "OCEAN_IN_A_BUCKET": {
+          "points": 10,
+          "name": "Ocean in a Bucket",
+          "description": "Craft a Magical Water Bucket in SkyBlock"
+        },
+        "GRILLMASTER": {
+          "points": 10,
+          "name": "Grillmaster",
+          "description": "Kill 5 players in a SkyWars game with the BBQ Kill Messages",
+          "globalPercentUnlocked": 0.07699753941218426
+        },
+        "BBQ_IN_THE_SKY": {
+          "points": 10,
+          "name": "BBQ in the Sky",
+          "description": "Win a game of SkyWars Mega while using the Pyromaniac Kit"
+        },
+        "SUNBURNT": {
+          "points": 5,
+          "name": "Sunburnt",
+          "description": "Win a game of Speed UHC using the Pyro Kit"
+        },
+        "BEAT_THE_HEAT": {
+          "points": 10,
+          "name": "Beat the Heat",
+          "description": "Kill 10 zombies using the Zombie Soaker in Arcade: Zombies"
+        },
+        "WIN_PINK_SHEEP": {
+          "points": 15,
+          "name": "Bird? Plane? Nope, just a Pink Sheep",
+          "description": "Win a game of Farm Hunt as a Pink Sheep",
+          "globalPercentUnlocked": 0.020025926124585806
+        },
+        "AUSTRALIAN_WINTER": {
+          "points": 10,
+          "name": "Australian Winter",
+          "description": "Have your snowmen hit players with snowballs 500 times while using Snowman in Mega Walls",
+          "globalPercentUnlocked": 0.01
+        },
+        "SEASIDE_SHOOTOUT": {
+          "points": 10,
+          "name": "Seaside Shootout",
+          "description": "Shoot the Murderer while drowning in Murder Mystery"
+        },
+        "DROUGHT": {
+          "points": 10,
+          "name": "Drought",
+          "description": "Fish up a Water Hydra in the Mushroom Desert in SkyBlock"
+        },
+        "OUT_FISHING": {
+          "points": 5,
+          "name": "Out Fishing",
+          "description": "Win a game of SkyWars while using the Fisherman Kit"
         },
         "PUNCH_OUT": {
           "points": 5,
@@ -11790,11 +11866,15 @@
           "description": "Knock a player into the void using a Punch enchanted bow in Bed Wars",
           "globalPercentUnlocked": 1.0186605266621593
         },
-        "GRILLMASTER": {
+        "KIND_REFRESHMENT": {
+          "points": 5,
+          "name": "Kind Refreshment",
+          "description": "Place water on an enemy team's island in Bed Wars"
+        },
+        "ICE_COLD": {
           "points": 10,
-          "name": "Grillmaster",
-          "description": "Kill 5 players in a SkyWars game with the BBQ Kill Messages",
-          "globalPercentUnlocked": 0.07699753941218426
+          "name": "Ice Cold",
+          "description": "Kill the Murderer in an ice trap in Murder Mystery"
         }
       },
       "tiered": {
@@ -11913,7 +11993,7 @@
           ]
         }
       },
-      "total_points": 365,
+      "total_points": 485,
       "total_legacy_points": 20
     },
     "supersmash": {

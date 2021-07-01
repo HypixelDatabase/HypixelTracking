@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1625087067766,
+  "lastUpdated": 1625101467815,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11784,7 +11784,7 @@
           "points": 15,
           "name": "Expert Diver",
           "description": "Reach 85 points in a game of Scuba Simulator",
-          "globalPercentUnlocked": 0.032313495842616315
+          "legacy": true
         },
         "POOL_PARTY": {
           "points": 10,
@@ -11902,6 +11902,7 @@
         "TREASURE_HOARDER": {
           "name": "Treasure Hoarder",
           "description": "Score %s points in Scuba Simulator",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -11933,6 +11934,7 @@
         "TREASURE_MASTER": {
           "name": "Treasure Master",
           "description": "Win %s games of Scuba Simulator",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -11993,8 +11995,8 @@
           ]
         }
       },
-      "total_points": 480,
-      "total_legacy_points": 20
+      "total_points": 315,
+      "total_legacy_points": 185
     },
     "supersmash": {
       "one_time": {

@@ -33884,7 +33884,50 @@
               "target": ""
             }
           ],
-          "contract_choices": null,
+          "contract_choices": [
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "kills": 1
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "no_weapon_kill"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2200,
+              "requirements": {
+                "kills": 12
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "kills_on_grass"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "streak": 20
+              },
+              "progress": {
+                "streak": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "kill_streak"
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

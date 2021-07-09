@@ -33886,7 +33886,48 @@
               "target": ""
             }
           ],
-          "contract_choices": null,
+          "contract_choices": [
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "shots": 100
+              },
+              "progress": {},
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "land_arrow_shots"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 3000,
+              "requirements": {
+                "kills": 25
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "diamond_sword_kill"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "kills": 5
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "sneaking_kills"
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

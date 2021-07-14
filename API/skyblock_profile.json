@@ -557,7 +557,9 @@
           "kills_voidling_extremist": 0,
           "deaths_voidling_extremist": 0,
           "deaths_voidling_fanatic": 0,
-          "kills_voidling_enderman": 0
+          "kills_voidling_enderman": 0,
+          "kills_thyst": 0,
+          "kills_sludge": 0
         },
         "objectives": {
           "collect_log": {
@@ -2382,6 +2384,46 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1626179261354
+          },
+          "talk_to_gwendolyn": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_braum": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "visit_greater_mines": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_the_goblin_king": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "kill_automatons": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "enter_divan_mines": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_a_jungle_key": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "mine_ruby": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2599,7 +2641,9 @@
           "zone_jake_house",
           "zone_windmill",
           "flying_pig",
-          "zone_void_sepulture"
+          "zone_void_sepulture",
+          "emisarry_braum",
+          "zone_greater_mines_jungle"
         ],
         "quests": {
           "collect_log": {
@@ -2818,6 +2862,41 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "talk_to_gwendolyn": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_the_goblin_king": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "kill_automatons": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "enter_divan_mines": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "find_a_jungle_key": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -2915,7 +2994,8 @@
           "shepherds_keep",
           "jake_house",
           "windmill",
-          "void_sepulture"
+          "void_sepulture",
+          "greater_mines_jungle"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3634,7 +3714,14 @@
           "LOG:2_10",
           "NETHERRACK_5",
           "NETHERRACK_4",
-          "MUTTON_10"
+          "MUTTON_10",
+          "GEMSTONE_COLLECTION_3",
+          "GEMSTONE_COLLECTION_2",
+          "GEMSTONE_COLLECTION_1",
+          "HARD_STONE_-1",
+          "HARD_STONE_2",
+          "HARD_STONE_1",
+          "GEMSTONE_COLLECTION_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -3723,7 +3810,9 @@
           "ENCHANTED_COOKED_SALMON": 0,
           "ENCHANTED_MELON_BLOCK": 0,
           "ENCHANTED_MELON": 0,
-          "RAW_SOULFLOW": 0
+          "RAW_SOULFLOW": 0,
+          "HARD_STONE": 0,
+          "GEMSTONE_COLLECTION": 0
         },
         "quiver": {
           "type": 0,
@@ -3934,7 +4023,8 @@
           "RUNE_DRAGON_1": 0,
           "ENCHANTED_NETHER_STALK": 0,
           "ENCHANTED_RED_MUSHROOM": 0,
-          "ENCHANTED_BROWN_MUSHROOM": 0
+          "ENCHANTED_BROWN_MUSHROOM": 0,
+          "HARD_STONE": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

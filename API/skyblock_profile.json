@@ -561,7 +561,12 @@
           "kills_thyst": 0,
           "kills_sludge": 0,
           "kills_automaton": 0,
-          "kills_key_guardian": 0
+          "kills_key_guardian": 0,
+          "deaths_automaton": 0,
+          "kills_team_treasurite_viper": 0,
+          "kills_team_treasurite_sebastian": 0,
+          "kills_yog": 0,
+          "kills_goblin_flamethrower": 0
         },
         "objectives": {
           "collect_log": {
@@ -2431,6 +2436,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "mine_amethyst": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_professor_robot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2658,7 +2673,8 @@
           "zone_greater_mines_crystal_room",
           "zone_greater_mines_precursor_uber_room",
           "zone_greater_mines_mithril",
-          "zone_greater_mines"
+          "zone_greater_mines",
+          "zone_greater_mines_goblin_uber_room"
         ],
         "quests": {
           "collect_log": {
@@ -3018,7 +3034,8 @@
           "greater_mines_crystal_room",
           "greater_mines_precursor_uber_room",
           "greater_mines_mithril",
-          "greater_mines"
+          "greater_mines",
+          "greater_mines_goblin_uber_room"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3746,7 +3763,8 @@
           "HARD_STONE_1",
           "GEMSTONE_COLLECTION_-1",
           "HARD_STONE_3",
-          "GEMSTONE_COLLECTION_4"
+          "GEMSTONE_COLLECTION_4",
+          "GEMSTONE_COLLECTION_5"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4053,7 +4071,9 @@
           "ROUGH_RUBY_GEM": 0,
           "ROUGH_AMETHYST_GEM": 0,
           "ROUGH_SAPPHIRE_GEM": 0,
-          "ROUGH_JADE_GEM": 0
+          "ROUGH_JADE_GEM": 0,
+          "ROUGH_TOPAZ_GEM": 0,
+          "ROUGH_AMBER_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

@@ -560,7 +560,8 @@
           "kills_voidling_enderman": 0,
           "kills_thyst": 0,
           "kills_sludge": 0,
-          "kills_automaton": 0
+          "kills_automaton": 0,
+          "kills_key_guardian": 0
         },
         "objectives": {
           "collect_log": {
@@ -2425,6 +2426,11 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "complete_trials_of_jungle_temple": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2648,7 +2654,11 @@
           "zone_greater_mines_jungle_uber_room",
           "zone_greater_mines_goblin_holdout",
           "zone_greater_mines_magma_fields",
-          "zone_greater_mines_precursor"
+          "zone_greater_mines_precursor",
+          "zone_greater_mines_crystal_room",
+          "zone_greater_mines_precursor_uber_room",
+          "zone_greater_mines_mithril",
+          "zone_greater_mines"
         ],
         "quests": {
           "collect_log": {
@@ -3004,7 +3014,11 @@
           "greater_mines_jungle_uber_room",
           "greater_mines_goblin_holdout",
           "greater_mines_magma_fields",
-          "greater_mines_precursor"
+          "greater_mines_precursor",
+          "greater_mines_crystal_room",
+          "greater_mines_precursor_uber_room",
+          "greater_mines_mithril",
+          "greater_mines"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3731,7 +3745,8 @@
           "HARD_STONE_2",
           "HARD_STONE_1",
           "GEMSTONE_COLLECTION_-1",
-          "HARD_STONE_3"
+          "HARD_STONE_3",
+          "GEMSTONE_COLLECTION_4"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4034,7 +4049,11 @@
           "ENCHANTED_NETHER_STALK": 0,
           "ENCHANTED_RED_MUSHROOM": 0,
           "ENCHANTED_BROWN_MUSHROOM": 0,
-          "HARD_STONE": 0
+          "HARD_STONE": 0,
+          "ROUGH_RUBY_GEM": 0,
+          "ROUGH_AMETHYST_GEM": 0,
+          "ROUGH_SAPPHIRE_GEM": 0,
+          "ROUGH_JADE_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

@@ -559,7 +559,8 @@
           "deaths_voidling_fanatic": 0,
           "kills_voidling_enderman": 0,
           "kills_thyst": 0,
-          "kills_sludge": 0
+          "kills_sludge": 0,
+          "kills_automaton": 0
         },
         "objectives": {
           "collect_log": {
@@ -2643,7 +2644,11 @@
           "flying_pig",
           "zone_void_sepulture",
           "emisarry_braum",
-          "zone_greater_mines_jungle"
+          "zone_greater_mines_jungle",
+          "zone_greater_mines_jungle_uber_room",
+          "zone_greater_mines_goblin_holdout",
+          "zone_greater_mines_magma_fields",
+          "zone_greater_mines_precursor"
         ],
         "quests": {
           "collect_log": {
@@ -2995,7 +3000,11 @@
           "jake_house",
           "windmill",
           "void_sepulture",
-          "greater_mines_jungle"
+          "greater_mines_jungle",
+          "greater_mines_jungle_uber_room",
+          "greater_mines_goblin_holdout",
+          "greater_mines_magma_fields",
+          "greater_mines_precursor"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3721,7 +3730,8 @@
           "HARD_STONE_-1",
           "HARD_STONE_2",
           "HARD_STONE_1",
-          "GEMSTONE_COLLECTION_-1"
+          "GEMSTONE_COLLECTION_-1",
+          "HARD_STONE_3"
         ],
         "fishing_bag": {
           "type": 0,

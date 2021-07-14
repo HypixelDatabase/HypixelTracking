@@ -569,7 +569,9 @@
           "kills_goblin_flamethrower": 0,
           "kills_team_treasurite_wendy": 0,
           "kills_belle": 0,
-          "kills_fire_bat": 0
+          "kills_fire_bat": 0,
+          "kills_worm": 0,
+          "kills_team_treasurite_grunt": 0
         },
         "objectives": {
           "collect_log": {
@@ -2459,6 +2461,21 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "mine_sapphire": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_four_missing_pieces": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "mine_jade": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2689,7 +2706,8 @@
           "zone_greater_mines",
           "zone_greater_mines_goblin_uber_room",
           "zone_greater_mines_magma_uber_room",
-          "shop_odawa"
+          "shop_odawa",
+          "zone_greater_mines_mithril_uber_room"
         ],
         "quests": {
           "collect_log": {
@@ -3051,7 +3069,8 @@
           "greater_mines_mithril",
           "greater_mines",
           "greater_mines_goblin_uber_room",
-          "greater_mines_magma_uber_room"
+          "greater_mines_magma_uber_room",
+          "greater_mines_mithril_uber_room"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -4090,7 +4109,8 @@
           "ROUGH_JADE_GEM": 0,
           "ROUGH_TOPAZ_GEM": 0,
           "ROUGH_AMBER_GEM": 0,
-          "FLAWED_AMBER_GEM": 0
+          "FLAWED_AMBER_GEM": 0,
+          "FLAWED_SAPPHIRE_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

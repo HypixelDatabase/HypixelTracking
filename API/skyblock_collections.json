@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1626217114816,
-  "version": "0.11.229",
+  "lastUpdated": 1626290914791,
+  "version": "0.12",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -119,7 +119,7 @@
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Catching Egg (COMING SOON)"
+                "Carrot Bait Recipe"
               ]
             },
             {
@@ -1537,44 +1537,44 @@
             },
             {
               "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Portal to the Gold Mine Recipe"
+              ]
+            },
+            {
+              "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Gold Recipe"
               ]
             },
             {
-              "tier": 5,
+              "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
                 "Absorption Potion Recipe"
               ]
             },
             {
-              "tier": 6,
+              "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
                 "Enchanted Book (Scavenger II) Recipe"
               ]
             },
             {
-              "tier": 7,
+              "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Gold Block Recipe"
               ]
             },
             {
-              "tier": 8,
+              "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
                 "Enchanted Book (Fortune II) Recipe"
-              ]
-            },
-            {
-              "tier": 9,
-              "amountRequired": 50000,
-              "unlocks": [
-                "Enchanted Clock (COMING SOON)"
               ]
             }
           ]
@@ -2517,7 +2517,7 @@
               "tier": 8,
               "amountRequired": 500000,
               "unlocks": [
-                "MITHRIL_INFUSION (COMING SOON)"
+                "Mithril Infusion Recipe"
               ]
             },
             {
@@ -2525,6 +2525,179 @@
               "amountRequired": 1000000,
               "unlocks": [
                 "Beacon I Recipe"
+              ]
+            }
+          ]
+        },
+        "HARD_STONE": {
+          "name": "Hard Stone",
+          "maxTiers": 7,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Hard Stone Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Heat Helmet Recipe",
+                "Heat Chestplate Recipe",
+                "Heat Leggings Recipe",
+                "Heat Boots Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Hard Stone Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Hot Stuff Dwarven Forge Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 150000,
+              "unlocks": [
+                "Flamebreaker Helmet Recipe",
+                "Flamebreaker Chestplate Recipe",
+                "Flamebreaker Leggings Recipe",
+                "Flamebreaker Boots Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 300000,
+              "unlocks": [
+                "Concentrated Stone Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Silex Recipe"
+              ]
+            }
+          ]
+        },
+        "GEMSTONE_COLLECTION": {
+          "name": "Gemstone",
+          "maxTiers": 11,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 100,
+              "unlocks": [
+                "Small Gemstone Sack Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Flawed Ruby Gemstone Recipe",
+                "Flawed Jade Gemstone Recipe",
+                "Flawed Sapphire Gemstone Recipe",
+                "Flawed Amethyst Gemstone Recipe",
+                "Flawed Amber Gemstone Recipe",
+                "Flawed Topaz Gemstone Recipe",
+                "Flawed Jasper Gemstone Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Medium Gemstone Sack Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Talisman of Power Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Fine Ruby Gemstone Recipe",
+                "Fine Jade Gemstone Recipe",
+                "Fine Sapphire Gemstone Recipe",
+                "Fine Amethyst Gemstone Recipe",
+                "Fine Amber Gemstone Recipe",
+                "Fine Topaz Gemstone Recipe",
+                "Fine Jasper Gemstone Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Ring of Power Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Ruby Power Scroll Recipe",
+                "Sapphire Power Scroll Recipe",
+                "Jasper Power Scroll Recipe",
+                "Amethyst Power Scroll Recipe",
+                "Amber Power Scroll Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Enchanted Book (Pristine I) Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 500000,
+              "unlocks": [
+                "Flawless Ruby Gemstone Recipe",
+                "Flawless Jade Gemstone Recipe",
+                "Flawless Sapphire Gemston Recipe",
+                "Flawless Amethyst Gemstone Recipe",
+                "Flawless Amber Gemstone Recipe",
+                "Flawless Topaz Gemstone Recipe",
+                "Flawless Jasper Gemstone Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Artifact of Power Recipe",
+                "Perfect Ruby Gemstone Dwarven Forge Recipe",
+                "Perfect Jade Gemstone Dwarven Forge Recipe",
+                "Perfect Sapphire Gemstone Dwarven Forge Recipe",
+                "Perfect Amethyst Gemstone Dwarven Forge Recipe",
+                "Perfect Amber Gemstone Dwarven Forge Recipe",
+                "Perfect Topaz Gemstone Dwarven Forge Recipe",
+                "Perfect Jasper Gemstone Dwarven Forge Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 2000000,
+              "unlocks": [
+                "Gemstone Gauntlet Recipe"
               ]
             }
           ]

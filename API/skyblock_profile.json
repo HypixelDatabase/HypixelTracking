@@ -579,7 +579,8 @@
           "kills_butterfly": 0,
           "kills_cavitak": 0,
           "deaths_sludge": 0,
-          "kills_trapped_sludge": 0
+          "kills_trapped_sludge": 0,
+          "kills_team_treasurite_corleone": 0
         },
         "objectives": {
           "collect_log": {
@@ -3813,7 +3814,8 @@
           "GEMSTONE_COLLECTION_5",
           "HARD_STONE_4",
           "GEMSTONE_COLLECTION_6",
-          "GEMSTONE_COLLECTION_7"
+          "GEMSTONE_COLLECTION_7",
+          "GEMSTONE_COLLECTION_8"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4138,7 +4140,8 @@
           "FINE_TOPAZ_GEM": 0,
           "FLAWLESS_TOPAZ_GEM": 0,
           "PERFECT_TOPAZ_GEM": 0,
-          "ENCHANTED_REDSTONE": 0
+          "ENCHANTED_REDSTONE": 0,
+          "FINE_JADE_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

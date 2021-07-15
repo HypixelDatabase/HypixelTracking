@@ -572,7 +572,11 @@
           "kills_fire_bat": 0,
           "kills_worm": 0,
           "kills_team_treasurite_grunt": 0,
-          "deaths_yog": 0
+          "deaths_yog": 0,
+          "kills_silvo": 0,
+          "deaths_kalhuiki_tribe_man": 0,
+          "deaths_kalhuiki_tribe_woman": 0,
+          "kills_butterfly": 0
         },
         "objectives": {
           "collect_log": {
@@ -2709,7 +2713,8 @@
           "zone_greater_mines_magma_uber_room",
           "shop_odawa",
           "zone_greater_mines_mithril_uber_room",
-          "talked_to_drill_fuel_mechanic_crystal_hollows"
+          "talked_to_drill_fuel_mechanic_crystal_hollows",
+          "zone_greater_mines_fairy_grotto"
         ],
         "quests": {
           "collect_log": {
@@ -3072,7 +3077,8 @@
           "greater_mines",
           "greater_mines_goblin_uber_room",
           "greater_mines_magma_uber_room",
-          "greater_mines_mithril_uber_room"
+          "greater_mines_mithril_uber_room",
+          "greater_mines_fairy_grotto"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3802,7 +3808,8 @@
           "HARD_STONE_3",
           "GEMSTONE_COLLECTION_4",
           "GEMSTONE_COLLECTION_5",
-          "HARD_STONE_4"
+          "HARD_STONE_4",
+          "GEMSTONE_COLLECTION_6"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4117,7 +4124,13 @@
           "ROUGH_JASPER_GEM": 0,
           "FLAWED_AMETHYST_GEM": 0,
           "FLAWED_TOPAZ_GEM": 0,
-          "FLAWED_RUBY_GEM": 0
+          "FLAWED_RUBY_GEM": 0,
+          "FLAWED_JASPER_GEM": 0,
+          "ENCHANTED_HARD_STONE": 0,
+          "ENCHANTED_COBBLESTONE": 0,
+          "FLAWED_JADE_GEM": 0,
+          "ENCHANTED_IRON": 0,
+          "ENCHANTED_COAL": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

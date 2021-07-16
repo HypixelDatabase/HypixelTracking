@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 16 Jul 2021 13:32:48 -0400</pubDate>
+    <pubDate>Fri, 16 Jul 2021 15:05:36 -0400</pubDate>
+    <item>
+      <title>Public API Endpoints Disabled</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Jul &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:03&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are investigating issues with an internal service and have disabled the following endpoints on the Public API:&lt;br /&gt;&lt;br /&gt;- /skyblock/auctions&lt;br /&gt;- /skyblock/auctions_ended&lt;br /&gt;- /skyblock/bazaar&lt;br /&gt;&lt;br /&gt;We do not currently have an ETA for when they will be re-enabled.&lt;/p&gt;      </description>
+      <pubDate>Fri, 16 Jul 2021 15:05:36 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/5xks1659psd2</link>
+      <guid>https://status.hypixel.net/incidents/5xks1659psd2</guid>
+    </item>
     <item>
       <title>SkyBlock Update 0.12</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Mon, 08 Feb 2021 20:54:13 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/75fjyll94pvx</link>
       <guid>https://status.hypixel.net/incidents/75fjyll94pvx</guid>
-    </item>
-    <item>
-      <title>Public API Outage</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:38&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:18&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:57&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:27&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
-      <pubDate>Mon, 08 Feb 2021 15:38:40 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/sn3gwlnfhlmw</link>
-      <guid>https://status.hypixel.net/incidents/sn3gwlnfhlmw</guid>
     </item>
   </channel>
 </rss>

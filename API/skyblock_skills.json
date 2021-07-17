@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1626470914788,
-  "version": "0.12.12",
+  "lastUpdated": 1626484414869,
+  "version": "0.12.13",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2194,7 +2194,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "??? Sea Creature",
+            "Frozen Steve Sea Creature",
             "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 HP ❤ Health",
             "+200 Coins"
@@ -2204,8 +2204,8 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Sea Guardian Sea Creature",
+            "Nurse Shark Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 HP ❤ Health",
             "+300 Coins"
@@ -2215,7 +2215,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "??? Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 HP ❤ Health",
             "+400 Coins"
@@ -2225,7 +2225,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Witch Sea Creature",
             "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
             "+2 HP ❤ Health",
             "+500 Coins"
@@ -2244,8 +2244,8 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Sea Archer Sea Creature",
+            "Scarecrow Sea Creature",
             "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
             "+2 HP ❤ Health",
             "+700 Coins"
@@ -2255,9 +2255,9 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Oasis Rabbit Sea Creature",
+            "Oasis Sheep Sea Creature",
+            "Blue Shark Sea Creature",
             "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 HP ❤ Health",
             "+800 Coins"
@@ -2267,7 +2267,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "??? Sea Creature",
+            "Monster of the Deep Sea Creature",
             "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 HP ❤ Health",
             "+900 Coins"
@@ -2286,8 +2286,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Grinch Sea Creature",
+            "Catfish Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
@@ -2297,7 +2297,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 HP ❤ Health",
             "+1,200 Coins"
@@ -2307,8 +2307,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -2318,7 +2318,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"
@@ -7165,7 +7165,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "??? Sea Creature",
+            "Frozen Steve Sea Creature",
             "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 HP ❤ Health",
             "+200 Coins"
@@ -7175,8 +7175,8 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Sea Guardian Sea Creature",
+            "Nurse Shark Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 HP ❤ Health",
             "+300 Coins"
@@ -7186,7 +7186,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "??? Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 HP ❤ Health",
             "+400 Coins"
@@ -7196,7 +7196,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Witch Sea Creature",
             "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
             "+2 HP ❤ Health",
             "+500 Coins"
@@ -7215,8 +7215,8 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Sea Archer Sea Creature",
+            "Scarecrow Sea Creature",
             "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
             "+2 HP ❤ Health",
             "+700 Coins"
@@ -7226,9 +7226,9 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Oasis Rabbit Sea Creature",
+            "Oasis Sheep Sea Creature",
+            "Blue Shark Sea Creature",
             "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 HP ❤ Health",
             "+800 Coins"
@@ -7238,7 +7238,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "??? Sea Creature",
+            "Monster of the Deep Sea Creature",
             "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 HP ❤ Health",
             "+900 Coins"
@@ -7257,8 +7257,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Grinch Sea Creature",
+            "Catfish Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 HP ❤ Health",
             "+1,100 Coins"
@@ -7268,7 +7268,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 HP ❤ Health",
             "+1,200 Coins"
@@ -7278,8 +7278,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 HP ❤ Health",
             "+1,300 Coins"
@@ -7289,7 +7289,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 HP ❤ Health",
             "+1,400 Coins"

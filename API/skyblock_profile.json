@@ -2724,7 +2724,8 @@
           "zone_greater_mines_mithril_uber_room",
           "talked_to_drill_fuel_mechanic_crystal_hollows",
           "zone_greater_mines_fairy_grotto",
-          "tutorial_npc_gemstone"
+          "tutorial_npc_gemstone",
+          "shop_lumina"
         ],
         "quests": {
           "collect_log": {
@@ -4175,7 +4176,9 @@
           "ENCHANTED_OBSIDIAN": 0,
           "ENCHANTED_GOLD": 0,
           "ENCHANTED_QUARTZ": 0,
-          "ENCHANTED_GLOWSTONE_DUST": 0
+          "ENCHANTED_GLOWSTONE_DUST": 0,
+          "FLAWLESS_JASPER_GEM": 0,
+          "PERFECT_JASPER_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1626484414869,
-  "version": "0.12.13",
+  "lastUpdated": 1626523114808,
+  "version": "0.12.14",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2328,9 +2328,9 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
@@ -2340,8 +2340,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Deep Sea Protector Sea Creature",
+            "Tiger Shark Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
@@ -2351,8 +2351,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
@@ -2362,8 +2362,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
@@ -2373,7 +2373,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 HP ❤ Health",
             "+2,200 Coins"
@@ -7299,9 +7299,9 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 HP ❤ Health",
             "+1,500 Coins"
@@ -7311,8 +7311,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Deep Sea Protector Sea Creature",
+            "Tiger Shark Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 HP ❤ Health",
             "+1,600 Coins"
@@ -7322,8 +7322,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 HP ❤ Health",
             "+1,800 Coins"
@@ -7333,8 +7333,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 HP ❤ Health",
             "+2,000 Coins"
@@ -7344,7 +7344,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 HP ❤ Health",
             "+2,200 Coins"

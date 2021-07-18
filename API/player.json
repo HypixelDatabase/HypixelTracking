@@ -26812,7 +26812,8 @@
             "laser_cannon": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "ki_blast": {
               "smashed": 0,
@@ -26999,7 +27000,12 @@
               "smashed": 0
             },
             "one_v_one_wins": 0,
-            "one_v_one_wins_normal": 0
+            "one_v_one_wins_normal": 0,
+            "losses_teams": 0,
+            "rocket_punch": {
+              "smashed": 0,
+              "smashed_teams": 0
+            }
           },
           "SANIC": {
             "kills_2v2": 0,

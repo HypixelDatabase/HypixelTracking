@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1627336714786,
+  "lastUpdated": 1627413214763,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -8961,6 +8961,12 @@
           "gamePercentUnlocked": 2.8512049713939227,
           "globalPercentUnlocked": 1.1538984774628664
         },
+        "ETERNAL_FLAME_RING": {
+          "points": 10,
+          "name": "The Ring",
+          "description": "???",
+          "secret": true
+        },
         "THE_REAL_ZOO_SHADY": {
           "points": 20,
           "name": "The Real Zoo Shady",
@@ -9164,6 +9170,11 @@
           "description": "Wear a full set of Fairy Armor",
           "gamePercentUnlocked": 2.055668615638566,
           "globalPercentUnlocked": 0.8319404986846243
+        },
+        "A_GOOD_REVIEW": {
+          "points": 5,
+          "name": "A Good Review",
+          "description": "Feed Don Expresso some Tasty Mithril."
         },
         "THIS_IS_FAIR": {
           "points": 5,
@@ -9652,6 +9663,11 @@
           "description": "Obtain a New Year's Cake from the Baker",
           "gamePercentUnlocked": 14.091068071985147,
           "globalPercentUnlocked": 5.702733460842733
+        },
+        "DRAGONS_EGG": {
+          "points": 10,
+          "name": "The Dragon's Egg",
+          "description": "Buy a Golden Dragon Egg from the dragon in the Crystal Hollows."
         },
         "GOTTAGOFAST": {
           "points": 5,
@@ -10202,7 +10218,7 @@
           ]
         }
       },
-      "total_points": 1930,
+      "total_points": 1955,
       "total_legacy_points": 0
     },
     "skyclash": {

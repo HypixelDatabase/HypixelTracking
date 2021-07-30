@@ -2361,6 +2361,141 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "fetchur-16-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1610814533273
+          },
+          "fetchur-17-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1610880198825
+          },
+          "fetchur-18-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1610987690992
+          },
+          "fetchur-19-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611076834259
+          },
+          "fetchur-24-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611501482235
+          },
+          "fetchur-25-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611610143693
+          },
+          "fetchur-26-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611659985359
+          },
+          "fetchur-27-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611767674760
+          },
+          "fetchur-28-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611888321542
+          },
+          "fetchur-29-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611945170765
+          },
+          "fetchur-8-1": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1612804664202
+          },
+          "fetchur-9-4": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1620584824949
+          },
+          "fetchur-10-4": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1620665279549
+          },
+          "fetchur-11-4": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1620760566846
+          },
+          "fetchur-30-5": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1625081512378
+          },
+          "fetchur-1-6": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1625185454934
+          },
+          "fetchur-12-6": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1626101638068
+          },
+          "fetchur-13-6": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1626179261354
+          },
+          "fetchur-27-2": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1616841499342
+          },
+          "fetchur-22-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611352127550
+          },
+          "fetchur-6-1": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1612598774599
+          },
+          "fetchur-7-1": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1612755238667
+          },
+          "fetchur-19-3": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1618879820065
+          },
+          "fetchur-20-3": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1618901811719
+          },
+          "fetchur-11-5": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1623434022604
+          },
+          "fetchur-5-6": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1625511394390
+          },
+          "fetchur-23-0": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1611408209405
           }
         },
         "tutorial": [
@@ -4853,10 +4988,10 @@
     },
     "community_upgrades": {
       "currently_upgrading": {
-        "upgrade": "",
-        "new_tier": 0,
-        "start_ms": 0,
-        "who_started": ""
+        "upgrade": "minion_slots",
+        "new_tier": 2,
+        "start_ms": 1605573846381,
+        "who_started": "64edd453088d4cc08ef6143b1b41da98"
       },
       "upgrade_states": [
         {

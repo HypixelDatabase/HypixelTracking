@@ -3,6 +3,8 @@ const async = require('async');
 const mc = require('minecraft-protocol');
 const merge = require('deepmerge')
 const fs = require('fs');
+const path = require('path')
+const puppeteer = require('puppeteer')
 const yauzl = require("yauzl");
 const beautify_js = require('js-beautify').js;
 const beautify_css = require('js-beautify').css;
@@ -186,3 +188,23 @@ async.each(sources, (s, cb) => {
     });
   })
 });
+
+// Get Hypixel API docs OpenAPI spec
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.goto('https://api.hypixel.net', { waitUntil: 'networkidle2' });
+
+  await page._client.send('Page.setDownloadBehavior', {
+    behavior: 'allow',
+    downloadPath: path.resolve('./API/')
+  })
+
+  await page.click('a[download="swagger.json"]')
+  await browser.close();
+  try {
+    fs.renameSync('./API/swagger.json', './API/docs.json')
+  } catch (e) {
+    // idc
+  }
+})();

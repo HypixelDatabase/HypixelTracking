@@ -48,6 +48,10 @@ module.exports = [
     dest: './API/quests.json'
   },
   {
+    url: 'https://api.hypixel.net/resources/games',
+    dest: './API/games.json'
+  },
+  {
     url: 'https://api.hypixel.net/resources/guilds/achievements',
     dest: './API/guild_achievements.json'
   },

@@ -14,7 +14,7 @@ const whiteListedArrays = [
   'tutorial', 'visited_zones', 'crafted_minions', 'achievement_spawned_island_types', 'unlocked_coll_tiers'
 ];
 
-const blacklistedValues = ['contract_choices'];
+const blacklistedValues = ['contract_choices', 'currently_upgrading'];
 
 function uniqueArrayElements(target, source) {
   const destination = target.slice().concat(source);

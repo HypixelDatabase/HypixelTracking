@@ -4,7 +4,15 @@
     <title>Hypixel Status - Incident History</title>
     <link>https://status.hypixel.net</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 12 Aug 2021 15:23:58 -0400</pubDate>
+    <pubDate>Fri, 13 Aug 2021 14:57:21 -0400</pubDate>
+    <item>
+      <title>Minecraft Server Issues</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:57&lt;/var&gt; EDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating issues with the Minecraft Server resulting in in-game commands being slow or non-responsive as well as other issues.&lt;/p&gt;      </description>
+      <pubDate>Fri, 13 Aug 2021 14:57:21 -0400</pubDate>
+      <link>https://status.hypixel.net/incidents/zdxq91j4gkt7</link>
+      <guid>https://status.hypixel.net/incidents/zdxq91j4gkt7</guid>
+    </item>
     <item>
       <title>Forums Outage</title>
       <description>
@@ -196,14 +204,6 @@
       <pubDate>Tue, 02 Mar 2021 11:24:43 -0500</pubDate>
       <link>https://status.hypixel.net/incidents/0nx7ksrjr4t9</link>
       <guid>https://status.hypixel.net/incidents/0nx7ksrjr4t9</guid>
-    </item>
-    <item>
-      <title>SkyBlock Update Maintenance</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:42&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:01&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var=&apos;date&apos;&gt;16&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:00&lt;/var&gt; EST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - SkyBlock is undergoing maintenance for the release SkyBlock v0.11.1.&lt;/p&gt;      </description>
-      <pubDate>Tue, 16 Feb 2021 13:42:29 -0500</pubDate>
-      <link>https://status.hypixel.net/incidents/jvm3bq4ygcln</link>
-      <guid>https://status.hypixel.net/incidents/jvm3bq4ygcln</guid>
     </item>
   </channel>
 </rss>

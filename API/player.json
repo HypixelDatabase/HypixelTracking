@@ -7007,7 +7007,9 @@
         "votes_Twinspire": 0,
         "votes_Mars": 0,
         "votes_The Vale": 0,
-        "lastTourneyAd": 0
+        "lastTourneyAd": 0,
+        "deaths_tourney_tnt_run_0": 0,
+        "wins_tourney_tnt_run_0": 0
       },
       "UHC": {
         "coins": 0,
@@ -39062,6 +39064,12 @@
         "first_win": 0,
         "tributes_earned": 0,
         "claimed_ranking_reward": 0
+      },
+      "tnt_run_0": {
+        "games_played": 0,
+        "playtime": 0,
+        "tributes_earned": 0,
+        "first_win": 0
       }
     },
     "currentGadget": "",

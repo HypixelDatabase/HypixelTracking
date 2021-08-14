@@ -4732,7 +4732,7 @@
         "wins_hunter": 0,
         "arrows_hit_troll": 0,
         "wins_troll": 0,
-        "togglekillcounter": 0,
+        "togglekillcounter": true,
         "votes_Egypt": 0,
         "votes_Caelum": 0,
         "CreepertamerInventory": {
@@ -7687,7 +7687,7 @@
         "no_starting_armor": true
       },
       "Walls3": {
-        "blood": "",
+        "blood": true,
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -33934,7 +33934,48 @@
               "target": ""
             }
           ],
-          "contract_choices": null,
+          "contract_choices": [
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2000,
+              "requirements": {
+                "kills": 10
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "kills_on_grass"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2400,
+              "requirements": {
+                "gapples": 16
+              },
+              "progress": {},
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "eat_gapples"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2200,
+              "requirements": {
+                "kills": 14
+              },
+              "progress": {
+                "kills": 0
+              },
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "kill_on_obsidian"
+            }
+          ],
           "last_save": 0,
           "king_quest": {
             "kills": 0,

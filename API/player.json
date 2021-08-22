@@ -1382,7 +1382,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "win": 0
+          },
           "started": 0
         }
       },

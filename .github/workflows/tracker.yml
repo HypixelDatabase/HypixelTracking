@@ -17,6 +17,7 @@ jobs:
         run: |
           npm install
           npm start
+          git diff --numstat | awk '$1 == $2{ a=(a "./"$3" ") } END { print a | "git restore "a }'
           echo "COMMIT_MESSAGE"="$(git status --porcelain | wc -l) files | $(git status --porcelain|awk '{print "basename " $2}'| sh | sed '{:q;N;s/\n/, /g;t q}')" >> $GITHUB_ENV
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.0.0

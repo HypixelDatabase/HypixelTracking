@@ -2740,7 +2740,12 @@
           "tutorial_npc_gemstone",
           "shop_lumina",
           "drop_exclusion_notice_coop",
-          "drop_exclusion_notice"
+          "drop_exclusion_notice",
+          "zone_archery_range",
+          "talked_to_arrow_forger",
+          "target_practice_0",
+          "arrow_forger_completed_first_challenge",
+          "target_practice_1"
         ],
         "quests": {
           "collect_log": {
@@ -3104,7 +3109,8 @@
           "greater_mines_goblin_uber_room",
           "greater_mines_magma_uber_room",
           "greater_mines_mithril_uber_room",
-          "greater_mines_fairy_grotto"
+          "greater_mines_fairy_grotto",
+          "archery_range"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

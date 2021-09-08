@@ -4990,7 +4990,197 @@
             "type": 0,
             "data": ""
           }
-        }
+        },
+        "perks": {
+          "permanent_health": 0,
+          "catacombs_boss_luck": 0,
+          "catacombs_defense": 0,
+          "catacombs_strength": 0,
+          "catacombs_health": 0,
+          "catacombs_crit_damage": 0,
+          "catacombs_intelligence": 0,
+          "permanent_defense": 0,
+          "permanent_speed": 0,
+          "permanent_intelligence": 0,
+          "permanent_strength": 0,
+          "forbidden_blessing": 0,
+          "catacombs_looting": 0
+        },
+        "active_effects": [
+          {
+            "effect": "",
+            "level": 0,
+            "modifiers": [],
+            "ticks_remaining": 0,
+            "infinite": true
+          }
+        ],
+        "visited_modes": [],
+        "harp_quest": {
+          "selected_song": "",
+          "selected_song_epoch": 0,
+          "song_hymn_joy_best_completion": 0,
+          "song_hymn_joy_completions": 0,
+          "song_hymn_joy_perfect_completions": 0,
+          "song_frere_jacques_best_completion": 0,
+          "song_frere_jacques_completions": 0,
+          "song_frere_jacques_perfect_completions": 0,
+          "song_amazing_grace_best_completion": 0,
+          "song_amazing_grace_completions": 0,
+          "song_amazing_grace_perfect_completions": 0,
+          "song_brahms_best_completion": 0,
+          "song_brahms_completions": 0,
+          "song_brahms_perfect_completions": 0,
+          "song_happy_birthday_best_completion": 0,
+          "song_happy_birthday_completions": 0,
+          "song_happy_birthday_perfect_completions": 0,
+          "song_greensleeves_best_completion": 0,
+          "song_greensleeves_completions": 0,
+          "song_greensleeves_perfect_completions": 0,
+          "song_jeopardy_best_completion": 0,
+          "song_jeopardy_completions": 0,
+          "song_jeopardy_perfect_completions": 0,
+          "song_minuet_best_completion": 0,
+          "song_minuet_completions": 0,
+          "song_minuet_perfect_completions": 0,
+          "song_joy_world_best_completion": 0,
+          "song_joy_world_completions": 0,
+          "song_joy_world_perfect_completions": 0,
+          "song_pure_imagination_best_completion": 0,
+          "song_pure_imagination_completions": 0,
+          "song_pure_imagination_perfect_completions": 0,
+          "song_vie_en_rose_best_completion": 0,
+          "song_vie_en_rose_completions": 0,
+          "song_vie_en_rose_perfect_completions": 0,
+          "claimed_talisman": true,
+          "song_fire_and_flames_best_completion": 0,
+          "song_fire_and_flames_completions": 0,
+          "song_fire_and_flames_perfect_completions": 0,
+          "song_pachelbel_best_completion": 0,
+          "song_pachelbel_completions": 0
+        },
+        "paused_effects": [],
+        "disabled_potion_effects": [],
+        "mining_core": {
+          "nodes": {
+            "mining_speed": 0,
+            "special_0": 0,
+            "mining_fortune": 0,
+            "titanium_insanium": 0,
+            "mining_speed_boost": 0,
+            "forge_time": 0,
+            "daily_powder": 0,
+            "efficient_miner": 0,
+            "mining_experience": 0,
+            "mining_madness": 0,
+            "daily_effect": 0,
+            "experience_orbs": 0,
+            "front_loaded": 0,
+            "fallen_star_bonus": 0,
+            "random_event": 0,
+            "goblin_killer": 0,
+            "mole": 0,
+            "fortunate": 0,
+            "professional": 0,
+            "precision_mining": 0
+          },
+          "received_free_tier": true,
+          "crystals": {
+            "jade_crystal": {
+              "state": "",
+              "total_placed": 0
+            },
+            "amber_crystal": {
+              "state": "",
+              "total_placed": 0
+            },
+            "amethyst_crystal": {
+              "state": "",
+              "total_placed": 0
+            },
+            "sapphire_crystal": {
+              "state": "",
+              "total_placed": 0
+            },
+            "topaz_crystal": {
+              "state": "",
+              "total_placed": 0
+            },
+            "jasper_crystal": {
+              "state": ""
+            },
+            "ruby_crystal": {}
+          },
+          "powder_mithril": 0,
+          "powder_mithril_total": 0,
+          "experience": 0,
+          "tokens_spent": 0,
+          "powder_spent_mithril": 0,
+          "retroactive_tier2_token": true,
+          "tokens": 0,
+          "selected_pickaxe_ability": "",
+          "daily_ores_mined_day_mithril_ore": 0,
+          "daily_ores_mined_mithril_ore": 0,
+          "last_reset": 0,
+          "greater_mines_last_access": 0,
+          "biomes": {
+            "dwarven": {
+              "statues_placed": []
+            },
+            "precursor": {
+              "parts_delivered": []
+            },
+            "goblin": {
+              "king_quest_active": true,
+              "king_quests_completed": 0
+            }
+          },
+          "powder_gemstone": 0,
+          "powder_gemstone_total": 0,
+          "daily_ores_mined_day": 0,
+          "daily_ores_mined": 0,
+          "daily_ores_mined_day_gemstone": 0,
+          "daily_ores_mined_gemstone": 0,
+          "powder_spent_gemstone": 0,
+          "current_daily_effect": "",
+          "current_daily_effect_last_changed": 0
+        },
+        "forge": {
+          "forge_processes": {
+            "forge_1": {
+              "1": {
+                "type": "",
+                "id": "",
+                "startTime": 0,
+                "slot": 0,
+                "notified": true
+              },
+              "2": {
+                "type": "",
+                "id": "",
+                "startTime": 0,
+                "slot": 0,
+                "notified": true
+              }
+            }
+          }
+        },
+        "essence_undead": 0,
+        "essence_diamond": 0,
+        "essence_dragon": 0,
+        "essence_wither": 0,
+        "essence_spider": 0,
+        "temp_stat_buffs": [
+          {
+            "stat": 0,
+            "key": "",
+            "amount": 0,
+            "expire_at": 0
+          }
+        ],
+        "essence_gold": 0,
+        "essence_ice": 0,
+        "experience_skill_social": 0
       }
     },
     "banking": {

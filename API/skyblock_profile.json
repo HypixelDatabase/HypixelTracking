@@ -5059,7 +5059,15 @@
           "song_pachelbel_best_completion": 0,
           "song_pachelbel_completions": 0
         },
-        "paused_effects": [],
+        "paused_effects": [
+          {
+            "effect": "",
+            "level": 0,
+            "modifiers": [],
+            "ticks_remaining": 0,
+            "infinite": true
+          }
+        ],
         "disabled_potion_effects": [],
         "mining_core": {
           "nodes": {

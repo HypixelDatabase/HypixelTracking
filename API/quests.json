@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1629760658199,
+  "lastUpdated": 1631721185329,
   "quests": {
     "quake": [
       {
@@ -3001,7 +3001,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Win a game in any mode"
+        "description": "Win a game in any mode."
       },
       {
         "id": "mm_daily_power_play",
@@ -3028,7 +3028,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Kill the murderer or win as murderer in Classic mode"
+        "description": "Kill the murderer or win as murderer in Classic mode."
       },
       {
         "id": "mm_daily_target_kill",
@@ -3055,7 +3055,34 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Kill 2 targets in Assassins mode"
+        "description": "Kill 2 targets in Assassins mode."
+      },
+      {
+        "id": "mm_daily_infector",
+        "name": "Daily Quest: Infector",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 1500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mm_infection_kills",
+            "type": "IntegerObjective",
+            "integer": 10
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Kill 10 players in Infection mode."
       },
       {
         "id": "mm_weekly_murderer_kills",
@@ -3078,7 +3105,7 @@
           {
             "id": "mm_weekly_kills_as_murderer",
             "type": "IntegerObjective",
-            "integer": 25
+            "integer": 40
           }
         ],
         "requirements": [
@@ -3086,7 +3113,7 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Kill 25 players as murderer in Classic or Double Up mode"
+        "description": "Kill 40 players in any mode."
       },
       {
         "id": "mm_weekly_wins",
@@ -3117,7 +3144,7 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Win 15 games in any mode"
+        "description": "Win 15 games in any mode."
       }
     ],
     "buildbattle": [

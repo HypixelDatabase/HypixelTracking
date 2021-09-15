@@ -233,7 +233,8 @@
       "christmas2017_best_presents": 0,
       "christmas2017_advent_2020": 0,
       "skyblock_hard_working_miner": 0,
-      "skyblock_goblin_killer": 0
+      "skyblock_goblin_killer": 0,
+      "murdermystery_hitman": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -2518,6 +2519,14 @@
       "mm_special_weekly_killer_instinct_2020": {
         "active": {
           "objectives": {},
+          "started": 0
+        }
+      },
+      "mm_daily_infector": {
+        "active": {
+          "objectives": {
+            "mm_infection_kills": 0
+          },
           "started": 0
         }
       }
@@ -32175,7 +32184,14 @@
         "trap_kills_snowglobe": 0,
         "trap_kills_snowglobe_MURDER_CLASSIC": 0,
         "shop_sort": "",
-        "wasSpecialRoleLastGame": true
+        "wasSpecialRoleLastGame": true,
+        "alpha_chance": 0,
+        "coins_pickedup_hollywood_MURDER_INFECTION": 0,
+        "kills_as_survivor_hollywood": 0,
+        "kills_as_survivor_hollywood_MURDER_INFECTION": 0,
+        "survivor_wins_hollywood": 0,
+        "survivor_wins_hollywood_MURDER_INFECTION": 0,
+        "wins_hollywood_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

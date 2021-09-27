@@ -67,6 +67,10 @@ module.exports = [
     url: 'https://api.hypixel.net/resources/skyblock/skills',
     dest: './API/skyblock_skills.json'
   },
+  {
+    url: 'https://api.hypixel.net/resources/skyblock/items',
+    dest: './API/skyblock_items.json'
+  },
   // hypixel.net
   {
     url: 'https://hypixel.net/js/hypixel/general.js',

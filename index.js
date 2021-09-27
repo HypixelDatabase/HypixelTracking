@@ -204,7 +204,7 @@ async.each(sources, (s, cb) => {
   await browser.close();
   try {
     fs.renameSync('./API/swagger.json', './API/docs.json')
-    fs.rmSync('./API/swagger.json.crdownload')
+    fs.unlinkSync('./API/swagger.json.crdownload')
   } catch (e) {
     // idc
   }

@@ -402,26 +402,81 @@
           }
         }
       },
+      "SkyBlockItem": {
+        "properties": {
+          "id": {
+            "description": "The unique identifier for this item",
+            "type": "string"
+          },
+          "material": {
+            "description": "The Bukkit material enum value for the item",
+            "type": "string"
+          },
+          "name": {
+            "description": "The name of the item",
+            "type": "string"
+          },
+          "tier": {
+            "description": "The rarity tier of the item",
+            "type": "string",
+            "enum": [
+              "COMMON",
+              "UNCOMMON",
+              "RARE",
+              "EPIC",
+              "LEGENDARY",
+              "MYTHIC",
+              "SUPREME",
+              "SPECIAL",
+              "VERY_SPECIAL"
+            ]
+          },
+          "color": {
+            "description": "The color metadata to be applied to an item, usually leather armor pieces",
+            "pattern": "^(?:(?:^|,\\s*)([01]?\\d\\d?|2[0-4]\\d|25[0-5])){3}$",
+            "type": "string"
+          },
+          "skin": {
+            "description": "The skin value for a skull based item",
+            "type": "string"
+          }
+        },
+        "example": {
+          "material": "LEATHER_CHESTPLATE",
+          "color": "255,215,0",
+          "name": "Farm Armor Chestplate",
+          "category": "CHESTPLATE",
+          "tier": "RARE",
+          "stats": {
+            "DEFENSE": 75,
+            "HEALTH": 20
+          },
+          "npc_sell_price": 5200,
+          "id": "FARM_ARMOR_CHESTPLATE"
+        }
+      },
       "Game": {
         "description": "Information about a specific game. When a field is not present you should fallback to the provided default if there is one, required fields will always exist.",
+        "required": [
+          "id",
+          "name",
+          "databaseName"
+        ],
         "properties": {
           "id": {
             "type": "integer",
             "description": "The backend ID of the game.",
-            "example": 1,
-            "required": true
+            "example": 1
           },
           "name": {
             "type": "string",
             "description": "The display name of the game.",
-            "example": "Bed Wars",
-            "required": true
+            "example": "Bed Wars"
           },
           "databaseName": {
             "type": "string",
             "description": "The key used for database storage, such as for stats.",
-            "example": "Bedwars",
-            "required": true
+            "example": "Bedwars"
           },
           "modeNames": {
             "type": "object",
@@ -1224,7 +1279,7 @@
     },
     "/resources/skyblock/collections": {
       "get": {
-        "summary": "Collections",
+        "summary": "Collections in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1259,7 +1314,7 @@
     },
     "/resources/skyblock/skills": {
       "get": {
-        "summary": "Skills",
+        "summary": "Skills in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1292,9 +1347,43 @@
         }
       }
     },
+    "/resources/skyblock/items": {
+      "get": {
+        "summary": "Items in SkyBlock",
+        "tags": [
+          "SkyBlock"
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "lastUpdated": {
+                      "type": "number"
+                    },
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/SkyBlockItem"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/skyblock/news": {
       "get": {
-        "summary": "News",
+        "summary": "In-Game SkyBlock News",
         "tags": [
           "SkyBlock"
         ],
@@ -1315,17 +1404,15 @@
                       "type": "boolean"
                     },
                     "items": {
-                      "type": "array",
                       "items": {
-                        "type": "object"
-                      },
-                      "example": {
-                        "item": {
-                          "material": "DIAMOND"
-                        },
-                        "link": "https://hypixel.net",
-                        "title": "SkyBlock v0.11",
-                        "text": "15th January 2021"
+                        "example": {
+                          "item": {
+                            "material": "DIAMOND"
+                          },
+                          "link": "https://hypixel.net",
+                          "title": "SkyBlock v0.11",
+                          "text": "15th January 2021"
+                        }
                       }
                     }
                   }

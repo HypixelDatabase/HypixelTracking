@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1632580769000,
+  "lastUpdated": 1632850075000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -804,16 +804,6 @@
       },
       "dungeon_item": true,
       "id": "WITHER_CHESTPLATE"
-    },
-    {
-      "material": "IRON_BOOTS",
-      "name": "Arborist Boots",
-      "category": "BOOTS",
-      "stats": {
-        "DEFENSE": 10
-      },
-      "npc_sell_price": 6,
-      "id": "ARBORIST_BOOTS"
     },
     {
       "material": "SKULL_ITEM",
@@ -2329,11 +2319,6 @@
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "PET_SKIN_SHEEP_ORANGE"
-    },
-    {
-      "material": "SAPLING",
-      "name": "Nether Wart Tree",
-      "id": "NETHER_WART_TREE"
     },
     {
       "material": "SHEARS",
@@ -5679,19 +5664,6 @@
       "id": "PORTABLE_BUILDER"
     },
     {
-      "material": "LEATHER_LEGGINGS",
-      "color": "122,232,44",
-      "name": "Elvish Leggings",
-      "category": "LEGGINGS",
-      "tier": "EPIC",
-      "stats": {
-        "WALK_SPEED": 1,
-        "HEALTH": 300
-      },
-      "npc_sell_price": 15000000,
-      "id": "ELVISH_LEGGINGS"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MzU0NzE4MzEsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2Y2M0ZTMyNDFjNTE4YWViOGU2NGUzMmEwYjZmNTM2ZDc2ODRjOGI1ZmU2YmM5Njk5ZGI5ZWU2MzMyY2Y3MGYifX19",
@@ -5728,11 +5700,6 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 320,
       "id": "FLAWED_JADE_GEM"
-    },
-    {
-      "material": "SAPLING",
-      "name": "Flower Tree",
-      "id": "FLOWER_TREE"
     },
     {
       "material": "LEATHER_HELMET",
@@ -7450,16 +7417,6 @@
       "generator_tier": 5,
       "tier": "RARE",
       "id": "OBSIDIAN_GENERATOR_5"
-    },
-    {
-      "material": "IRON_HELMET",
-      "name": "Advanced Arborist Helmet",
-      "category": "HELMET",
-      "stats": {
-        "DEFENSE": 10
-      },
-      "npc_sell_price": 7,
-      "id": "ADVANCED_ARBORIST_HELMET"
     },
     {
       "material": "WOOD_SWORD",
@@ -9575,16 +9532,6 @@
       "id": "RED_CLAW_EGG"
     },
     {
-      "material": "IRON_CHESTPLATE",
-      "name": "Advanced Arborist Chestplate",
-      "category": "CHESTPLATE",
-      "stats": {
-        "DEFENSE": 30
-      },
-      "npc_sell_price": 12,
-      "id": "ADVANCED_ARBORIST_CHESTPLATE"
-    },
-    {
       "material": "EXPLOSIVE_MINECART",
       "name": "Minecart with TNT",
       "npc_sell_price": 22,
@@ -9931,11 +9878,6 @@
       },
       "npc_sell_price": 1000,
       "id": "MUSIC_PANTS"
-    },
-    {
-      "material": "SAPLING",
-      "name": "Golden Apple Tree",
-      "id": "GOLDEN_APPLE_TREE"
     },
     {
       "material": "SKULL_ITEM",
@@ -14126,11 +14068,6 @@
       "id": "CROWN_OF_GREED"
     },
     {
-      "material": "SAPLING",
-      "name": "Tree o' Experience",
-      "id": "EXP_BOTTLE_TREE"
-    },
-    {
       "material": "DIAMOND",
       "name": "All Skills Exp Boost",
       "glowing": true,
@@ -14710,11 +14647,6 @@
       "id": "JERRY_BOX_GOLDEN"
     },
     {
-      "material": "SAPLING",
-      "name": "Mushroom Tree",
-      "id": "MUSHROOM_TREE"
-    },
-    {
       "material": "STONE_SWORD",
       "item_durability": -1,
       "name": "Fel Sword",
@@ -15080,17 +15012,6 @@
       "name": "Banana Bunch",
       "npc_sell_price": 10,
       "id": "BUILDER_BANANA_BUNCH"
-    },
-    {
-      "material": "RABBIT_HIDE",
-      "name": "Cloak of Eternal Night",
-      "category": "EQUIPMENT",
-      "tier": "LEGENDARY",
-      "stats": {
-        "DEFENSE": 100
-      },
-      "unstackable": true,
-      "id": "CLOAK_OF_ETERNAL_NIGHT"
     },
     {
       "material": "LAPIS_ORE",
@@ -16570,11 +16491,6 @@
       "id": "STAINED_CLAY:4"
     },
     {
-      "material": "SAPLING",
-      "name": "Glowstone Tree",
-      "id": "GLOWSTONE_TREE"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjIyMzMzNSwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U4MGUyYzIwNmYwNmI0MTYzZGVlNjc4MTYyYjJkN2EzZWQ2YjIwYzY0MTlmZWM0NGY5MWY2ZGQwMDFhMTJhMzkiCiAgICB9CiAgfQp9",
@@ -17390,16 +17306,6 @@
       "id": "WOOL:7"
     },
     {
-      "material": "IRON_LEGGINGS",
-      "name": "Advanced Arborist Leggings",
-      "category": "LEGGINGS",
-      "stats": {
-        "DEFENSE": 25
-      },
-      "npc_sell_price": 10,
-      "id": "ADVANCED_ARBORIST_LEGGINGS"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y0NjI0ZWJmN2Q0MTlhMTFlNDNlZDBjMjAzOGQzMmNkMDlhZDFkN2E2YzZlMjBmNjMzOWNiY2ZlMzg2ZmQxYyJ9fX0=",
@@ -17600,19 +17506,6 @@
       "tier": "MYTHIC",
       "unstackable": true,
       "id": "SUPERIOR_SHIMMER"
-    },
-    {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "122,232,44",
-      "name": "Elvish Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "EPIC",
-      "stats": {
-        "WALK_SPEED": 1,
-        "HEALTH": 400
-      },
-      "npc_sell_price": 20000000,
-      "id": "ELVISH_CHESTPLATE"
     },
     {
       "material": "POWERED_RAIL",
@@ -18638,16 +18531,6 @@
       "name": "Milk Bucket",
       "npc_sell_price": 4,
       "id": "MILK_BUCKET"
-    },
-    {
-      "material": "IRON_CHESTPLATE",
-      "name": "Arborist Chestplate",
-      "category": "CHESTPLATE",
-      "stats": {
-        "DEFENSE": 30
-      },
-      "npc_sell_price": 12,
-      "id": "ARBORIST_CHESTPLATE"
     },
     {
       "material": "SKULL_ITEM",
@@ -20341,19 +20224,6 @@
       "id": "STAINED_GLASS:7"
     },
     {
-      "material": "LEATHER_BOOTS",
-      "color": "122,232,44",
-      "name": "Elvish Leggings",
-      "category": "BOOTS",
-      "tier": "EPIC",
-      "stats": {
-        "WALK_SPEED": 1,
-        "HEALTH": 200
-      },
-      "npc_sell_price": 10000000,
-      "id": "ELVISH_BOOTS"
-    },
-    {
       "material": "GOLD_SWORD",
       "name": "Super Cleaver",
       "category": "SWORD",
@@ -20572,11 +20442,6 @@
       "generator_tier": 1,
       "tier": "RARE",
       "id": "COBBLESTONE_GENERATOR_1"
-    },
-    {
-      "material": "SAPLING",
-      "name": "Gunpowder Tree",
-      "id": "GUNPOWDER_TREE"
     },
     {
       "material": "BUCKET",
@@ -22182,16 +22047,6 @@
       "npc_sell_price": 421,
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG"
-    },
-    {
-      "material": "IRON_HELMET",
-      "name": "Arborist Helmet",
-      "category": "HELMET",
-      "stats": {
-        "DEFENSE": 10
-      },
-      "npc_sell_price": 7,
-      "id": "ARBORIST_HELMET"
     },
     {
       "material": "SKULL_ITEM",
@@ -24511,6 +24366,16 @@
       "id": "PACKED_ICE"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDgzNTcxZmY1ODlmMWE1OWJiMDJiODA4MDBmYzczNjExNmUyN2MzZGNmOWVmZWJlZGU4Y2YxZmRkZSJ9fX0=",
+      "name": "Nether Artifact",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "npc_sell_price": 2000,
+      "id": "NETHER_ARTIFACT"
+    },
+    {
       "material": "GLOWSTONE",
       "name": "Glowstone",
       "npc_sell_price": 8,
@@ -25900,11 +25765,6 @@
       "id": "REVENGE"
     },
     {
-      "material": "SAPLING",
-      "name": "Cobweb Tree",
-      "id": "COBWEB_TREE"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5NDYwMjI0NjgsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwZTkxMThiY2ViZjQ4MTM5NDEzMmE1MTExZmNiY2Q5OTgxYjlhOTk1MDQ5MjNiMDQ3OTQ5MTI2NjBlMjJjZWEifX19",
@@ -26230,11 +26090,6 @@
       "tier": "RARE",
       "npc_sell_price": 25600,
       "id": "FINE_JADE_GEM"
-    },
-    {
-      "material": "SAPLING",
-      "name": "Coins Tree",
-      "id": "COINS_TREE"
     },
     {
       "material": "GOLD_CHESTPLATE",
@@ -27514,12 +27369,6 @@
       "id": "MASTIFF_BOOTS"
     },
     {
-      "material": "SAPLING",
-      "durability": 1,
-      "name": "Snow Tree",
-      "id": "SNOW_TREE"
-    },
-    {
       "material": "LEATHER_CHESTPLATE",
       "color": "0,0,0",
       "name": "Obsidian Chestplate",
@@ -28523,20 +28372,6 @@
       "name": "Prehistoric Egg",
       "unstackable": true,
       "id": "PREHISTORIC_EGG"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI0ZjEzMmNiODZkY2ExZWRlODA5NTVlYTg2ZjlmMjI5MmJlNzg3OTIxNGVmYjBjZTEyNjA2ZTEwMjY4Y2U2In19fQ==",
-      "name": "Elvish Helmet",
-      "category": "HELMET",
-      "tier": "EPIC",
-      "stats": {
-        "WALK_SPEED": 1,
-        "HEALTH": 200
-      },
-      "npc_sell_price": 10000000,
-      "id": "ELVISH_HELMET"
     },
     {
       "material": "SKULL_ITEM",
@@ -32693,11 +32528,6 @@
       "id": "ENCHANTED_MITHRIL"
     },
     {
-      "material": "SAPLING",
-      "name": "Ender Pearl Tree",
-      "id": "ENDER_PEARL_TREE"
-    },
-    {
       "material": "IRON_SWORD",
       "name": "Combat Exp Boost",
       "glowing": true,
@@ -33923,16 +33753,6 @@
         }
       },
       "id": "LAPIS_ARMOR_LEGGINGS"
-    },
-    {
-      "material": "IRON_BOOTS",
-      "name": "Advanced Arborist Boots",
-      "category": "BOOTS",
-      "stats": {
-        "DEFENSE": 10
-      },
-      "npc_sell_price": 6,
-      "id": "ADVANCED_ARBORIST_BOOTS"
     },
     {
       "material": "SKULL_ITEM",
@@ -35305,16 +35125,6 @@
       "generator_tier": 4,
       "tier": "RARE",
       "id": "MITHRIL_GENERATOR_4"
-    },
-    {
-      "material": "IRON_LEGGINGS",
-      "name": "Arborist Leggings",
-      "category": "LEGGINGS",
-      "stats": {
-        "DEFENSE": 25
-      },
-      "npc_sell_price": 10,
-      "id": "ARBORIST_LEGGINGS"
     },
     {
       "material": "SKULL_ITEM",
@@ -39305,11 +39115,6 @@
       "id": "REDSTONE_GENERATOR_2"
     },
     {
-      "material": "SAPLING",
-      "name": "Music Tree",
-      "id": "MUSIC_TREE"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNlODMwZjIwZDBkZmIyNDI3Nzk3NTFmN2E1YzY4ZTY3ODg4OGY3Mjc1ODYxNDY1NGI2NTU2MjVjZjk0MzI0MyJ9fX0=",
@@ -40400,11 +40205,6 @@
       "generator_tier": 12,
       "tier": "RARE",
       "id": "OBSIDIAN_GENERATOR_12"
-    },
-    {
-      "material": "SAPLING",
-      "name": "Fish Tree",
-      "id": "FISH_TREE"
     },
     {
       "material": "BOW",

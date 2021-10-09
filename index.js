@@ -11,6 +11,8 @@ const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
 const apiKey = process.env.HYPIXEL_API_KEY;
 
+const wait = require('util').promisify(setTimeout);
+
 const whiteListedArrays = [
   'packages', 'cakes_found_by_name', 'unlockedColors', 'unlockedParts', 'custom_titles', 'bridgeMapWins',
   'tutorial', 'visited_zones', 'crafted_minions', 'achievement_spawned_island_types', 'unlocked_coll_tiers'
@@ -201,11 +203,16 @@ async.each(sources, (s, cb) => {
   })
 
   await page.click('a[download="swagger.json"]')
+  await wait(1000);
   await browser.close();
   try {
     fs.renameSync('./API/swagger.json', './API/docs.json')
-    fs.unlinkSync('./API/swagger.json.crdownload')
   } catch (e) {
     // idc
+  }
+  try {
+    fs.unlinkSync('./API/swagger.json.crdownload')
+  } catch (e) {
+    //
   }
 })();

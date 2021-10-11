@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1632850075000,
+  "lastUpdated": 1633963040000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -2963,6 +2963,15 @@
       "generator_tier": 8,
       "tier": "RARE",
       "id": "ZOMBIE_GENERATOR_8"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNGVkNjg3NTMwNGZhNGExZjBjNzg1YjJjYjZhNmE3MjU2M2U5ZjNlMjRlYTU1ZTE4MTc4NDUyMTE5YWE2NiJ9fX0=",
+      "name": "Skull Vase",
+      "furniture": "SKULL_VASE",
+      "tier": "EPIC",
+      "id": "SKULL_VASE"
     },
     {
       "material": "CLAY_BALL",
@@ -6874,6 +6883,15 @@
       },
       "dungeon_item": true,
       "id": "ZOMBIE_KNIGHT_HELMET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZkZGRkYjhlZWUxMWJjMzEyZDFhY2ZkNjIxYTQ0NmI1Njg2OGFhZjY2YTUwNzFjYTk0MjU1ODJiMThjZGQ2In19fQ==",
+      "name": "Candle Table",
+      "furniture": "CANDLE_TABLE",
+      "tier": "EPIC",
+      "id": "CANDLE_TABLE"
     },
     {
       "material": "IRON_INGOT",
@@ -29067,6 +29085,14 @@
       "id": "RED_SANDSTONE_STAIRS"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjE3MjQxNjg0MSwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWViYzZiZDE1YmViZDExOTNmNzhjMTJkMzVhZmVjMGJlNmEwN2EyZWFhOTE4MGMzZjQ5OWRjMzY2Mjg5ODk2MSIKICAgIH0KICB9Cn0=",
+      "name": "Scarecrow Minion Skin",
+      "category": "COSMETIC",
+      "id": "SCARECROW_PERSONALITY"
+    },
+    {
       "material": "WOOL",
       "durability": 12,
       "name": "Brown Wool",
@@ -32392,6 +32418,14 @@
       "id": "PET_ITEM_FORAGING_SKILL_BOOST_LEGENDARY"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzMzcyOTEyNTYyMCwKICAicHJvZmlsZUlkIiA6ICI3NWQ3OTQxMjI0OTM0OTI4YTE1Njc3NjYyODhjN2I1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWdpY01hamVzdGljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0M2Q4Zjc3NDQwMTlmMjNiN2ZkNjRiY2JjOGEyYTE2ZjhhYzIxZWVkZDExODY1ZDk3YjZiNmMxOTBmYjFhZjAiCiAgICB9CiAgfQp9",
+      "name": "Cyclops Minion Skin",
+      "category": "COSMETIC",
+      "id": "CYCLOPS_PERSONALITY"
+    },
+    {
       "material": "LAPIS_BLOCK",
       "name": "Weather Node",
       "tier": "UNCOMMON",
@@ -34308,6 +34342,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEzN2RiNTQ2YWI1OTkxNzA0ZWEwM2M1M2EwNTkyZThkNDM1MjFmMmM5OTczZmY3NmNiMGJkOWU5MTBjMjRhNCJ9fX0=",
+      "name": "Black Cat Plush",
+      "furniture": "BLACK_CAT_PLUSH",
+      "tier": "EPIC",
+      "id": "BLACK_CAT_PLUSH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
       "name": "Master Skull - Tier 3",
       "category": "ACCESSORY",
@@ -34405,6 +34448,15 @@
       "name": "Brewing Stand",
       "npc_sell_price": 12,
       "id": "BREWING_STAND_ITEM"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUxMzkxMzBkN2VmZDQxZmJhZDUzNzM1ZjY0ZjhhZmYyNjViZDdjNTQ5NzcxODljMDJiYWJiZWM0YjBkMDdiIn19fQ==",
+      "name": "Witch's Broomstick",
+      "furniture": "WITCH_BROOMSTICK",
+      "tier": "EPIC",
+      "id": "WITCH_BROOMSTICK"
     },
     {
       "material": "WOOL",

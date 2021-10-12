@@ -2540,7 +2540,9 @@
       },
       "skywars_halloween_harvest_2021": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_halloween_kills": 0
+          },
           "started": 0
         }
       },

@@ -16303,7 +16303,13 @@
           "favoritemap_canopy",
           "projectiletrail_cheese",
           "divisionskywars_skywars_rating_9_21",
-          "favoritemap_felkenheart"
+          "favoritemap_felkenheart",
+          "killeffect_pumpkin_rocket",
+          "victorydance_pumpkin_patch",
+          "cage_ghost",
+          "cage_creepy_eye",
+          "cage_spooky_lantern",
+          "cage_demon"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -41762,7 +41768,10 @@
       "staffPunishments": true
     },
     "recentServers": [],
-    "currentEmote": ""
+    "currentEmote": "",
+    "halloween2021Cooldowns": {
+      "NORMAL0": true
+    }
   },
   "cause": "",
   "throttle": true

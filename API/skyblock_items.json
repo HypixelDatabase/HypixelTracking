@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1633963040000,
+  "lastUpdated": 1634145507000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -18931,7 +18931,9 @@
       "id": "PET_SKIN_ROCK_EMBARRASSED"
     },
     {
-      "material": "MUSHROOM_SOUP",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI2ODMyODZhOTEyZWVkYzIyNDk3NGIyZDRhZmI3ZmE1NDViMTNhZTYxZDE5ZjNjZGY5OTBlNTFhNTA1YWVmMSJ9fX0=",
       "name": "Magical Mushroom Soup",
       "glowing": true,
       "tier": "UNCOMMON",
@@ -40328,7 +40330,9 @@
       "id": "PUMPKIN_LEGGINGS"
     },
     {
-      "material": "MUSHROOM_SOUP",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDEzMTY4MjkxOCwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWU1ZDBjMjNlYzFhMWY4MTNjMGM2M2YxMTJlNTViN2IxYzg3ZmVjZDMyNjljMGZkYmNlOTZkMDNiNTU4YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Mystical Mushroom Soup",
       "glowing": true,
       "tier": "RARE",

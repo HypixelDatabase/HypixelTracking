@@ -237,7 +237,8 @@
       "murdermystery_hitman": 0,
       "murdermystery_survival_skills": 0,
       "murdermystery_brainiac": 0,
-      "murdermystery_countermeasures": 0
+      "murdermystery_countermeasures": 0,
+      "bedwars_bedwars_challenger": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -29827,7 +29828,9 @@
           "killmessages_buzz",
           "islandtopper_yin_and_yang",
           "islandtopper_candles",
-          "killeffect_cow_rocket"
+          "killeffect_cow_rocket",
+          "bw_challenge_no_team_upgrades_collected",
+          "deathcry_cat_hit"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -30636,7 +30639,11 @@
         "two_four_losses_bedwars": 0,
         "two_four_magic_final_kills_bedwars": 0,
         "two_four_magic_kills_bedwars": 0,
-        "free_event_key_bedwars_halloween_boxes_2021": true
+        "free_event_key_bedwars_halloween_boxes_2021": true,
+        "selected_challenge_type": "",
+        "total_challenges_completed": 0,
+        "bw_challenge_no_team_upgrades": 0,
+        "bw_unique_challenges_completed": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,

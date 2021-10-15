@@ -29830,7 +29830,9 @@
           "islandtopper_candles",
           "killeffect_cow_rocket",
           "bw_challenge_no_team_upgrades_collected",
-          "deathcry_cat_hit"
+          "deathcry_cat_hit",
+          "islandtopper_toxic_rain",
+          "bw_challenge_toxic_rain_collected"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -30651,7 +30653,12 @@
         "bw_challenge_reset_armor": 0,
         "bw_challenge_invisible_shop": 0,
         "bw_challenge_collector": 0,
-        "bw_challenge_woodworker": 0
+        "bw_challenge_woodworker": 0,
+        "bw_challenge_sponge": 0,
+        "bw_challenge_toxic_rain": 0,
+        "bw_challenge_defuser": 0,
+        "bw_challenge_mining_fatigue": 0,
+        "bw_challenge_no_healing": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,

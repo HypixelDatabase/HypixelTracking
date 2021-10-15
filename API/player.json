@@ -29858,7 +29858,13 @@
           "islandtopper_bleeding_heart",
           "bw_challenge_no_healing_collected",
           "bw_challenge_hotbar_collected",
-          "islandtopper_bunny_in_hat"
+          "islandtopper_bunny_in_hat",
+          "killeffect_anvil_smash",
+          "bw_challenge_weighted_items_collected",
+          "bw_challenge_knockback_stick_only_collected",
+          "killmessages_social_distancing",
+          "projectiletrail_the_end_trail",
+          "bw_challenge_no_swords_collected"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -30687,7 +30693,9 @@
         "bw_challenge_no_healing": 0,
         "bw_challenge_hotbar": 0,
         "bw_challenge_weighted_items": 0,
-        "two_four_void_final_deaths_bedwars": 0
+        "two_four_void_final_deaths_bedwars": 0,
+        "bw_challenge_knockback_stick_only": 0,
+        "bw_challenge_no_swords": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,

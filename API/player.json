@@ -30696,7 +30696,12 @@
         "bw_challenge_weighted_items": 0,
         "two_four_void_final_deaths_bedwars": 0,
         "bw_challenge_knockback_stick_only": 0,
-        "bw_challenge_no_swords": 0
+        "bw_challenge_no_swords": 0,
+        "bw_challenge_stamina": 0,
+        "bw_challenge_no_sprint": 0,
+        "bw_challenge_capped_resources": 0,
+        "bw_challenge_stop_light": 0,
+        "bw_challenge_master_assassin": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,
@@ -30966,7 +30971,8 @@
           "deathcry_grumpy_villager",
           "knife_skin_mouse_trap",
           "knife_skin_timber",
-          "last_words_meow"
+          "last_words_meow",
+          "sep2021achievementsync"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,

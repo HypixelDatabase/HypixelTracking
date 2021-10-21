@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1634827782303,
+  "lastUpdated": 1634835882281,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11,47 +11,15 @@
           "gamePercentUnlocked": 6.147714656727662,
           "globalPercentUnlocked": 2.9171315740078345
         },
-        "FOOTBALL_FIVE_GOALS": {
+        "HIDE_AND_SEEK_CLOSE_CALL": {
           "points": 10,
-          "name": "Football: Pro",
-          "description": "Score 5 goals in one game of Football",
-          "gamePercentUnlocked": 0.3559335824692875,
-          "globalPercentUnlocked": 0.16889285688213035
+          "name": "Hide and Seek: Close Call",
+          "description": "Kill the last Hider whilst they have 1 Objective remaining in Party Pooper"
         },
-        "OVERPOWERED": {
-          "points": 5,
-          "name": "Ender Spleef: Overpowered",
-          "description": "Have a Triple Shot and a Big Shot active at the same time in Ender Spleef",
-          "gamePercentUnlocked": 1.8020021741572663,
-          "globalPercentUnlocked": 0.8550620404791166
-        },
-        "WORLD_ECONOMICS": {
-          "points": 5,
-          "name": "General: World Economics",
-          "description": "Exchange your coins for another minigame",
-          "gamePercentUnlocked": 20.752070901317047,
-          "globalPercentUnlocked": 9.846995937918805
-        },
-        "CANT_HIDE_FROM_ME": {
-          "points": 5,
-          "name": "Farm Hunt: Can't hide from me!",
-          "description": "Kill the last animal in Farm Hunt",
-          "gamePercentUnlocked": 2.5846512922688554,
-          "globalPercentUnlocked": 1.2264342627266531
-        },
-        "OVER_HERE": {
+        "PARTY_SHEEP_RIDER": {
           "points": 10,
-          "name": "Farm Hunt: I'm over here!",
-          "description": "Use all five of your fireworks in Farm Hunt",
-          "gamePercentUnlocked": 7.218984804028469,
-          "globalPercentUnlocked": 3.425456398024084
-        },
-        "GIDDY_UP_HORSEY": {
-          "points": 10,
-          "name": "Farm Hunt: Giddy up horsey!",
-          "description": "Win a game of Farm Hunt as a horse",
-          "gamePercentUnlocked": 1.1805252671437918,
-          "globalPercentUnlocked": 0.5601671064759932
+          "name": "Party Games: Sheep Rider",
+          "description": "Have a trail of at least 300 blocks in one game of Super Sheep"
         },
         "DRAGONTAMER": {
           "points": 15,
@@ -67,13 +35,6 @@
           "gamePercentUnlocked": 2.870308875716183,
           "globalPercentUnlocked": 1.3619806897419453
         },
-        "PIXEL_PAINTERS_ONE": {
-          "points": 10,
-          "name": "Pixel Painters: Number 1",
-          "description": "Achieve 1st place in Pixel Painters",
-          "gamePercentUnlocked": 1.7741643702543566,
-          "globalPercentUnlocked": 0.8418528170114415
-        },
         "SHOOTING_RANGE_EXPLOSIVE_ARROW": {
           "points": 10,
           "name": "Party Games: Explosive Archer",
@@ -87,20 +48,6 @@
           "description": "Win a game of Hypixel Says with over 30 points",
           "gamePercentUnlocked": 0.462060047051671,
           "globalPercentUnlocked": 0.21925057157084074
-        },
-        "NO_MUTINY_TODAY": {
-          "points": 10,
-          "name": "Bounty Hunters: No mutiny today",
-          "description": "Obtain a score of at least 70 in Bounty Hunters",
-          "gamePercentUnlocked": 0.3134024569959623,
-          "globalPercentUnlocked": 0.14871155441056022
-        },
-        "DRAGON_WARS_BLAST": {
-          "points": 5,
-          "name": "Dragon Wars: Blast",
-          "description": "Kill someone with your wither blast in Dragon Wars",
-          "gamePercentUnlocked": 3.8291952479134035,
-          "globalPercentUnlocked": 1.8169786635274183
         },
         "CTW_I_CAN_BE_ANYTHING": {
           "points": 5,
@@ -130,18 +77,16 @@
           "gamePercentUnlocked": 43.610821306080375,
           "globalPercentUnlocked": 20.693625339484637
         },
+        "PARTY_FAST_HANDS": {
+          "points": 10,
+          "name": "Party Games: Fast Hands",
+          "description": "Finish Jigsaw Rush in under 10 seconds"
+        },
         "PTB_RIDE_BAT": {
           "points": 5,
           "name": "Party Games: Batman",
           "description": "Ride a bat in Punch the Bat",
           "legacy": true
-        },
-        "HOEHOEHOE_SCORE": {
-          "points": 10,
-          "name": "Party Games: Spam Clicker",
-          "description": "Score 150 points in HoeHoeHoe",
-          "gamePercentUnlocked": 15.414998050527679,
-          "globalPercentUnlocked": 7.3145193030801945
         },
         "CREEPER_ATTACK_WAVES": {
           "points": 10,
@@ -150,26 +95,10 @@
           "gamePercentUnlocked": 17.75397246287742,
           "globalPercentUnlocked": 8.424378249053735
         },
-        "HIDE_AND_SEEK_PROP_HUNTER": {
-          "points": 5,
-          "name": "Hide and Seek: Prop Hunter",
-          "description": "Find and kill 5 props in a game of Prop Hunt",
-          "gamePercentUnlocked": 4.787937061781752,
-          "globalPercentUnlocked": 2.2719080434224805
-        },
-        "HOLE_SCORE": {
-          "points": 10,
-          "name": "Hole in The Wall: Score",
-          "description": "Reach 100 score in Hole in the Wall",
-          "gamePercentUnlocked": 1.6899901204707812,
-          "globalPercentUnlocked": 0.8019115745379675
-        },
-        "CTW_MVP": {
+        "PARTY_PERFECTION": {
           "points": 15,
-          "name": "Capture the Wool: MVP",
-          "description": "Capture two wools at once",
-          "gamePercentUnlocked": 0.2952500611275219,
-          "globalPercentUnlocked": 0.1400981216004072
+          "name": "Party Games: Perfection!",
+          "description": "Finish a game of Party Games with 24 stars"
         },
         "FOOTBALL_SPEED": {
           "points": 5,
@@ -185,12 +114,10 @@
           "gamePercentUnlocked": 0.059372170786992064,
           "globalPercentUnlocked": 0.02817249070442545
         },
-        "ZOMBES_SERIAL_KILLER": {
-          "points": 15,
-          "name": "Zombies: Serial Killer",
-          "description": "Kill 500 zombies in a single game",
-          "gamePercentUnlocked": 1.3373504027808065,
-          "globalPercentUnlocked": 0.6345816784444827
+        "HYPIXEL_SAYS_PIG_RIDER": {
+          "points": 5,
+          "name": "Hypixel Says: Pig Rider",
+          "description": "Ride a Pig in the \"Kill the Animals\" Task"
         },
         "PROFESSIONAL_MOWER": {
           "points": 5,
@@ -234,6 +161,11 @@
           "gamePercentUnlocked": 37.146214141273965,
           "globalPercentUnlocked": 17.626126158569182
         },
+        "PARTY_IN_SYNC": {
+          "points": 10,
+          "name": "Party Games: In Sync!",
+          "description": "Make it past round 25 in Fire Leapers"
+        },
         "MINI_HUNTER": {
           "points": 5,
           "name": "Mini Walls: Mini Hunter",
@@ -248,12 +180,10 @@
           "gamePercentUnlocked": 0.35329023016990146,
           "globalPercentUnlocked": 0.16763856860033335
         },
-        "GOTTA_CATCH_THEM_ALL": {
-          "points": 10,
-          "name": "Ender Spleef: Gotta catch them all!",
-          "description": "Have 10 seconds of powerups left at the end of an Ender Spleef game",
-          "gamePercentUnlocked": 0.034384231081858015,
-          "globalPercentUnlocked": 0.016315546790562914
+        "HYPIXEL_SAYS_TNT_DODGER": {
+          "points": 15,
+          "name": "Hypixel Says: TNT Dodger",
+          "description": "Win the \"Avoid the TNT\" task without being damaged by Explosions"
         },
         "ZOMBIES_TIME_TRIAL_BLOOD": {
           "points": 10,
@@ -261,20 +191,6 @@
           "description": "Complete the Bad Blood map in under 30 minutes",
           "gamePercentUnlocked": 0.10922414305822643,
           "globalPercentUnlocked": 0.05182758376894128
-        },
-        "ZOMBIES_TEAM_PLAYER": {
-          "points": 5,
-          "name": "Zombies: Team Player",
-          "description": "Use the Team Machine, revive a teammate, and open a door in one game of Zombies",
-          "gamePercentUnlocked": 3.161005349484216,
-          "globalPercentUnlocked": 1.4999181037944131
-        },
-        "HIDE_AND_SEEK_PROP": {
-          "points": 5,
-          "name": "Hide and Seek: Where am I?",
-          "description": "Win a game of Prop Hunt as a prop",
-          "gamePercentUnlocked": 12.162518255651818,
-          "globalPercentUnlocked": 5.771195965346562
         },
         "RPG_16_ROCKET_PIG": {
           "points": 10,
@@ -289,6 +205,266 @@
           "description": "Kill the enemy woolholder within 50m of them capturing",
           "gamePercentUnlocked": 0.878439662179576,
           "globalPercentUnlocked": 0.4168254737718766
+        },
+        "GALAXY_WARS_NEVER_FELT_BETTER": {
+          "points": 10,
+          "name": "Galaxy Wars: Never Felt Better",
+          "description": "Win a Galaxy Wars game without dying once"
+        },
+        "GALAXY_WARS_LETHALLY_BLIND": {
+          "points": 10,
+          "name": "Galaxy Wars: Lethally Blind",
+          "description": "Kill a player with a flashbang"
+        },
+        "CTW_MAGICIAN": {
+          "points": 15,
+          "name": "Capture the Wool: Magician",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 0.01,
+          "globalPercentUnlocked": 0.01
+        },
+        "PARTY_PICASSO": {
+          "points": 5,
+          "name": "Party Games: Picasso",
+          "description": "Win a game of Cannon Painting"
+        },
+        "NO_MERCY": {
+          "points": 5,
+          "name": "Blocking Dead: No Mercy",
+          "description": "Kill a player zombie with a knife in Blocking Dead",
+          "gamePercentUnlocked": 9.331054268022706,
+          "globalPercentUnlocked": 4.427647433870713
+        },
+        "THROW_OUT_POWERUP_KILL": {
+          "points": 5,
+          "name": "Throw Out: Superman",
+          "description": "Knock a player out using the Megapunch powerup in Throw Out",
+          "gamePercentUnlocked": 6.320389580566074,
+          "globalPercentUnlocked": 2.9990669761035056
+        },
+        "CTW_FIRST": {
+          "points": 5,
+          "name": "Capture the Wool: First",
+          "description": "Get the first kill in a game",
+          "gamePercentUnlocked": 2.0221748346252717,
+          "globalPercentUnlocked": 0.9595354351383277
+        },
+        "CTW_COMEBACK": {
+          "points": 5,
+          "name": "Capture the Wool: Comeback",
+          "description": "Win a game after the enemy captured the first wool",
+          "gamePercentUnlocked": 5.162539319865454,
+          "globalPercentUnlocked": 2.4496593112948024
+        },
+        "AVALANCE_WAVES": {
+          "points": 10,
+          "name": "Party Games: Avalanche!",
+          "description": "Survive 12 waves in Avalanche",
+          "gamePercentUnlocked": 9.081371057274836,
+          "globalPercentUnlocked": 4.309171086440502
+        },
+        "BOUNTY_HUNTERS_SNIPER": {
+          "points": 15,
+          "name": "Bounty Hunters: Sniper",
+          "description": "Kill your target from 50+ Blocks a way using a Bow"
+        },
+        "PARTY_GAMES_STARS": {
+          "points": 10,
+          "name": "Party Games: Partier",
+          "description": "Finish with 20 or more stars in Party Games",
+          "gamePercentUnlocked": 7.467418617791083,
+          "globalPercentUnlocked": 3.5433398982586017
+        },
+        "TRAMPOLINIO_RED_WOOL": {
+          "points": 5,
+          "name": "Party Games: Bouncy Bounce",
+          "description": "Collect a red wool in Trampolinio",
+          "gamePercentUnlocked": 25.77198277855977,
+          "globalPercentUnlocked": 12.228977577196176
+        },
+        "UNTOUCHABLE": {
+          "points": 5,
+          "name": "Farm Hunt: Untouchable",
+          "description": "Win a Farm Hunt game with full health",
+          "gamePercentUnlocked": 10.496524817773901,
+          "globalPercentUnlocked": 4.980670976616784
+        },
+        "LONE_SURVIVOR": {
+          "points": 10,
+          "name": "Blocking Dead: Lone Survivor",
+          "description": "Win a game of Blocking Dead as the last survivor",
+          "gamePercentUnlocked": 0.26128917943736246,
+          "globalPercentUnlocked": 0.12398345691747581
+        },
+        "HYPIXEL_SAYS_MOVEMENT": {
+          "points": 5,
+          "name": "Hypixel Says: Rebel Movement",
+          "description": "???",
+          "secret": true
+        },
+        "CREEPER_ATTACK_UPGRADES": {
+          "points": 10,
+          "name": "Creeper Attack: Getting an Upgrade",
+          "description": "Fully upgrade your sword, bow, and armor in Creeper Attack",
+          "gamePercentUnlocked": 0.18125549321649717,
+          "globalPercentUnlocked": 0.08600693944791031
+        },
+        "DW_QUICK_WIN": {
+          "points": 15,
+          "name": "Dragon Wars: Quick Win!",
+          "description": "Win a game of Dragon Wars by kills in under 4 minutes"
+        },
+        "ZOMBIES_SURVIVOR": {
+          "points": 10,
+          "name": "Zombies: Survivor",
+          "description": "Win a game of zombies without dying",
+          "gamePercentUnlocked": 0.8179729783311196,
+          "globalPercentUnlocked": 0.3881336293257696
+        },
+        "FOOTBALL_FIVE_GOALS": {
+          "points": 10,
+          "name": "Football: Pro",
+          "description": "Score 5 goals in one game of Football",
+          "gamePercentUnlocked": 0.3559335824692875,
+          "globalPercentUnlocked": 0.16889285688213035
+        },
+        "OVERPOWERED": {
+          "points": 5,
+          "name": "Ender Spleef: Overpowered",
+          "description": "Have a Triple Shot and a Big Shot active at the same time in Ender Spleef",
+          "gamePercentUnlocked": 1.8020021741572663,
+          "globalPercentUnlocked": 0.8550620404791166
+        },
+        "WORLD_ECONOMICS": {
+          "points": 5,
+          "name": "General: World Economics",
+          "description": "Exchange your coins for another minigame",
+          "gamePercentUnlocked": 20.752070901317047,
+          "globalPercentUnlocked": 9.846995937918805
+        },
+        "FOOTBALL_POTM": {
+          "points": 10,
+          "name": "Football: Player of the Match!",
+          "description": "Be the Player of the Match in a Football game!"
+        },
+        "CANT_HIDE_FROM_ME": {
+          "points": 5,
+          "name": "Farm Hunt: Can't hide from me!",
+          "description": "Kill the last animal in Farm Hunt",
+          "gamePercentUnlocked": 2.5846512922688554,
+          "globalPercentUnlocked": 1.2264342627266531
+        },
+        "OVER_HERE": {
+          "points": 10,
+          "name": "Farm Hunt: I'm over here!",
+          "description": "Use all five of your fireworks in Farm Hunt",
+          "gamePercentUnlocked": 7.218984804028469,
+          "globalPercentUnlocked": 3.425456398024084
+        },
+        "GIDDY_UP_HORSEY": {
+          "points": 10,
+          "name": "Farm Hunt: Giddy up horsey!",
+          "description": "Win a game of Farm Hunt as a horse",
+          "gamePercentUnlocked": 1.1805252671437918,
+          "globalPercentUnlocked": 0.5601671064759932
+        },
+        "HYPIXEL_SAYS_BAD_HEALTH_CHOICES": {
+          "points": 5,
+          "name": "Hypixel Says: Bad Health Choices",
+          "description": "Eat the Poisonous Potato in the Heal task"
+        },
+        "PIXEL_PAINTERS_ONE": {
+          "points": 10,
+          "name": "Pixel Painters: Number 1",
+          "description": "Achieve 1st place in Pixel Painters",
+          "gamePercentUnlocked": 1.7741643702543566,
+          "globalPercentUnlocked": 0.8418528170114415
+        },
+        "THROW_OUT_REGULAR_GUY": {
+          "points": 10,
+          "name": "Throw Out: Regular Guy",
+          "description": "Win a game of Throw Out without activating any powerups"
+        },
+        "NO_MUTINY_TODAY": {
+          "points": 10,
+          "name": "Bounty Hunters: No mutiny today",
+          "description": "Obtain a score of at least 70 in Bounty Hunters",
+          "gamePercentUnlocked": 0.3134024569959623,
+          "globalPercentUnlocked": 0.14871155441056022
+        },
+        "DRAGON_WARS_BLAST": {
+          "points": 5,
+          "name": "Dragon Wars: Blast",
+          "description": "Kill someone with your wither blast in Dragon Wars",
+          "gamePercentUnlocked": 3.8291952479134035,
+          "globalPercentUnlocked": 1.8169786635274183
+        },
+        "PARTY_SURVIVOR": {
+          "points": 15,
+          "name": "Party Games: Survivor",
+          "description": "Survive until Sudden Death in Bombardment"
+        },
+        "HOEHOEHOE_SCORE": {
+          "points": 10,
+          "name": "Party Games: Spam Clicker",
+          "description": "Score 150 points in HoeHoeHoe",
+          "gamePercentUnlocked": 15.414998050527679,
+          "globalPercentUnlocked": 7.3145193030801945
+        },
+        "HIDE_AND_SEEK_PROP_HUNTER": {
+          "points": 5,
+          "name": "Hide and Seek: Prop Hunter",
+          "description": "Find and kill 5 props in a game of Prop Hunt",
+          "gamePercentUnlocked": 4.787937061781752,
+          "globalPercentUnlocked": 2.2719080434224805
+        },
+        "GALAXY_WARS_PERFECT_DEFLECT": {
+          "points": 5,
+          "name": "Galaxy Wars: Perfect Deflect",
+          "description": "Kill a player by deflecting lasers"
+        },
+        "HOLE_SCORE": {
+          "points": 10,
+          "name": "Hole in The Wall: Score",
+          "description": "Reach 100 score in Hole in the Wall",
+          "gamePercentUnlocked": 1.6899901204707812,
+          "globalPercentUnlocked": 0.8019115745379675
+        },
+        "CTW_MVP": {
+          "points": 15,
+          "name": "Capture the Wool: MVP",
+          "description": "Capture two wools at once",
+          "gamePercentUnlocked": 0.2952500611275219,
+          "globalPercentUnlocked": 0.1400981216004072
+        },
+        "ZOMBES_SERIAL_KILLER": {
+          "points": 15,
+          "name": "Zombies: Serial Killer",
+          "description": "Kill 500 zombies in a single game",
+          "gamePercentUnlocked": 1.3373504027808065,
+          "globalPercentUnlocked": 0.6345816784444827
+        },
+        "GOTTA_CATCH_THEM_ALL": {
+          "points": 10,
+          "name": "Ender Spleef: Gotta catch them all!",
+          "description": "Have 10 seconds of powerups left at the end of an Ender Spleef game",
+          "gamePercentUnlocked": 0.034384231081858015,
+          "globalPercentUnlocked": 0.016315546790562914
+        },
+        "ZOMBIES_TEAM_PLAYER": {
+          "points": 5,
+          "name": "Zombies: Team Player",
+          "description": "Use the Team Machine, revive a teammate, and open a door in one game of Zombies",
+          "gamePercentUnlocked": 3.161005349484216,
+          "globalPercentUnlocked": 1.4999181037944131
+        },
+        "HIDE_AND_SEEK_PROP": {
+          "points": 5,
+          "name": "Hide and Seek: Where am I?",
+          "description": "Win a game of Prop Hunt as a prop",
+          "gamePercentUnlocked": 12.162518255651818,
+          "globalPercentUnlocked": 5.771195965346562
         },
         "ZOMBIES_HEROBRINE": {
           "points": 10,
@@ -332,13 +508,20 @@
           "gamePercentUnlocked": 1.772202507219656,
           "globalPercentUnlocked": 0.8409218999272954
         },
-        "CTW_MAGICIAN": {
-          "points": 15,
-          "name": "Capture the Wool: Magician",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 0.01,
-          "globalPercentUnlocked": 0.01
+        "HIDE_AND_SEEK_SPEEDRUNNER": {
+          "points": 10,
+          "name": "Hide and Seek: Speedrunner!",
+          "description": "Win a game in under 30 seconds"
+        },
+        "BLOCKING_DEAD_RESCUE": {
+          "points": 10,
+          "name": "Blocking Dead: Fuel Up",
+          "description": "Win a game of the Blocking Dead by being rescued at the Gas Station"
+        },
+        "GALAXY_WARS_TARGET_PRACTICE": {
+          "points": 5,
+          "name": "Galaxy Wars: Target Practice",
+          "description": "Kill 30 NPC troopers in one game"
         },
         "CREEPER_ATTACK_IRON_GOLEM": {
           "points": 5,
@@ -347,33 +530,12 @@
           "gamePercentUnlocked": 18.03542752919252,
           "globalPercentUnlocked": 8.557930553683514
         },
-        "NO_MERCY": {
-          "points": 5,
-          "name": "Blocking Dead: No Mercy",
-          "description": "Kill a player zombie with a knife in Blocking Dead",
-          "gamePercentUnlocked": 9.331054268022706,
-          "globalPercentUnlocked": 4.427647433870713
-        },
         "ZOMBIES_WIN": {
           "points": 10,
           "name": "Zombies: Winner",
           "description": "Win a game of Zombies",
           "gamePercentUnlocked": 2.205423167661228,
           "globalPercentUnlocked": 1.0464879903611866
-        },
-        "THROW_OUT_POWERUP_KILL": {
-          "points": 5,
-          "name": "Throw Out: Superman",
-          "description": "Knock a player out using the Megapunch powerup in Throw Out",
-          "gamePercentUnlocked": 6.320389580566074,
-          "globalPercentUnlocked": 2.9990669761035056
-        },
-        "CTW_FIRST": {
-          "points": 5,
-          "name": "Capture the Wool: First",
-          "description": "Get the first kill in a game",
-          "gamePercentUnlocked": 2.0221748346252717,
-          "globalPercentUnlocked": 0.9595354351383277
         },
         "ZOMBIES_ELECTRICIAN": {
           "points": 5,
@@ -382,6 +544,11 @@
           "gamePercentUnlocked": 12.717446703409262,
           "globalPercentUnlocked": 6.034513211942725
         },
+        "GALAXY_WARS_AIMED": {
+          "points": 10,
+          "name": "Galaxy Wars: Aimed",
+          "description": "Shoot and kill an enemy 50+ blocks away with your blaster"
+        },
         "TEAM_SLAYER": {
           "points": 5,
           "name": "Mini Walls: Complete Elimination",
@@ -389,12 +556,11 @@
           "gamePercentUnlocked": 2.2903511858739254,
           "globalPercentUnlocked": 1.0867869009775168
         },
-        "CTW_COMEBACK": {
-          "points": 5,
-          "name": "Capture the Wool: Comeback",
-          "description": "Win a game after the enemy captured the first wool",
-          "gamePercentUnlocked": 5.162539319865454,
-          "globalPercentUnlocked": 2.4496593112948024
+        "ENDER_SPLEEF_NO_POWERHOUSE": {
+          "points": 10,
+          "name": "Ender Spleef: No Powerhouse",
+          "description": "???",
+          "secret": true
         },
         "FARM_HUNT_KILLER": {
           "points": 5,
@@ -402,13 +568,6 @@
           "description": "Kill 5 animals in one game as hunter",
           "gamePercentUnlocked": 0.6704615293114728,
           "globalPercentUnlocked": 0.31813846372517446
-        },
-        "AVALANCE_WAVES": {
-          "points": 10,
-          "name": "Party Games: Avalanche!",
-          "description": "Survive 12 waves in Avalanche",
-          "gamePercentUnlocked": 9.081371057274836,
-          "globalPercentUnlocked": 4.309171086440502
         },
         "ZOMBIES_TIME_TRIAL_DEAD": {
           "points": 10,
@@ -424,19 +583,15 @@
           "gamePercentUnlocked": 1.2188538754848899,
           "globalPercentUnlocked": 0.5783542865620502
         },
-        "PARTY_GAMES_STARS": {
-          "points": 10,
-          "name": "Party Games: Partier",
-          "description": "Finish with 20 or more stars in Party Games",
-          "gamePercentUnlocked": 7.467418617791083,
-          "globalPercentUnlocked": 3.5433398982586017
+        "HYPIXEL_SAYS_PVE_EXPERT": {
+          "points": 15,
+          "name": "Hypixel Says: PVE Expert",
+          "description": "Win the \"Zombie Kill\" task without being damaged by Zombies"
         },
-        "TRAMPOLINIO_RED_WOOL": {
+        "PARTY_PARKOUR": {
           "points": 5,
-          "name": "Party Games: Bouncy Bounce",
-          "description": "Collect a red wool in Trampolinio",
-          "gamePercentUnlocked": 25.77198277855977,
-          "globalPercentUnlocked": 12.228977577196176
+          "name": "Party Games: PARKOUR!!",
+          "description": "Finish either Jungle Jump or The Floor is Lava in 15 seconds or less"
         },
         "DRAGON_SLAYER": {
           "points": 10,
@@ -444,20 +599,6 @@
           "description": "Get 15 kills in one game of Dragon Wars",
           "gamePercentUnlocked": 0.6200519749145866,
           "globalPercentUnlocked": 0.2942187942262171
-        },
-        "UNTOUCHABLE": {
-          "points": 5,
-          "name": "Farm Hunt: Untouchable",
-          "description": "Win a Farm Hunt game with full health",
-          "gamePercentUnlocked": 10.496524817773901,
-          "globalPercentUnlocked": 4.980670976616784
-        },
-        "LONE_SURVIVOR": {
-          "points": 10,
-          "name": "Blocking Dead: Lone Survivor",
-          "description": "Win a game of Blocking Dead as the last survivor",
-          "gamePercentUnlocked": 0.26128917943736246,
-          "globalPercentUnlocked": 0.12398345691747581
         },
         "ANIMAL_SLAUGHTER": {
           "points": 10,
@@ -480,22 +621,50 @@
           "gamePercentUnlocked": 10.537217987351559,
           "globalPercentUnlocked": 4.999980156767417
         },
-        "CREEPER_ATTACK_UPGRADES": {
-          "points": 10,
-          "name": "Creeper Attack: Getting an Upgrade",
-          "description": "Fully upgrade your sword, bow, and armor in Creeper Attack",
-          "gamePercentUnlocked": 0.18125549321649717,
-          "globalPercentUnlocked": 0.08600693944791031
+        "GALAXY_WARS_NOW_I_AM_THE_MASTER": {
+          "points": 15,
+          "name": "Galaxy Wars: Now I am the Master",
+          "description": "Get 30 Kills in a single game"
         },
-        "ZOMBIES_SURVIVOR": {
-          "points": 10,
-          "name": "Zombies: Survivor",
-          "description": "Win a game of zombies without dying",
-          "gamePercentUnlocked": 0.8179729783311196,
-          "globalPercentUnlocked": 0.3881336293257696
+        "DW_VOID": {
+          "points": 5,
+          "name": "Dragon Wars: Voidseeker",
+          "description": "???",
+          "secret": true
         }
       },
       "tiered": {
+        "HITW_PRACTICE_MAKES_PERFECT": {
+          "name": "Hole in the Wall: Practice Makes Perfect",
+          "description": "Obtain a total score of %s in Hole in the Wall Qualifying & Finals",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 200
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 300
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 350
+            }
+          ]
+        },
         "ZOMBIES_NICE_SHOT": {
           "name": "Zombies: Nice Shot",
           "description": "Get %s zombie kills",
@@ -524,6 +693,37 @@
               "tier": 5,
               "points": 25,
               "amount": 7500
+            }
+          ]
+        },
+        "DW_SLAYER": {
+          "name": "Dragon Wars: Slayer",
+          "description": "Get %s kills in Dragon Wars",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2000
             }
           ]
         },
@@ -586,6 +786,37 @@
               "tier": 5,
               "points": 25,
               "amount": 2000
+            }
+          ]
+        },
+        "PARTY_SUPER_STAR": {
+          "name": "Party Games: Super Star",
+          "description": "Earn %s stars in Party Games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 250
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 2500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 5000
             }
           ]
         },
@@ -713,6 +944,68 @@
             }
           ]
         },
+        "ENDER_SPLEEF_POWERUPS": {
+          "name": "Ender Spleef: Unmatched Power",
+          "description": "Activate %s Powerups in Ender Spleef",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 200
+            }
+          ]
+        },
+        "DW_DRAGONBORN": {
+          "name": "Dragon Wars: Dragonborn",
+          "description": "Mount a Dragon %s times in Dragon Wars",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
         "MINIWALLS_WINNER": {
           "name": "Mini Walls: Winner",
           "description": "Win %s games of Mini Walls",
@@ -744,6 +1037,37 @@
             }
           ]
         },
+        "HIDE_AND_SEEK_MASTER_HIDER": {
+          "name": "Hide and Seek: Master Hider",
+          "description": "Complete %s Objectives as Hider in \"Hide and Seek: Party Pooper\"",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 200
+            }
+          ]
+        },
         "BOUNTY_HUNTER": {
           "name": "Bounty Hunters: Kills",
           "description": "Kill %s players in Bounty Hunters",
@@ -772,6 +1096,37 @@
               "tier": 5,
               "points": 25,
               "amount": 3500
+            }
+          ]
+        },
+        "ENDER_SPLEEF_BLOCK_STEALER": {
+          "name": "Ender Spleef: Block Stealer",
+          "description": "Destroy %s Blocks in Ender Spleef",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 5000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 10000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 25000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 50000
             }
           ]
         },
@@ -837,6 +1192,37 @@
             }
           ]
         },
+        "GALAXY_WARS_KILLS": {
+          "name": "Galaxy Wars: Galactic Warrior",
+          "description": "Kill %s Players in Galaxy Wars",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2500
+            }
+          ]
+        },
         "FOOTBALL_PRO": {
           "name": "Football: Football Pro",
           "description": "Score %s Goals in Football",
@@ -860,6 +1246,11 @@
               "tier": 4,
               "points": 20,
               "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
             }
           ]
         },
@@ -891,6 +1282,37 @@
               "tier": 5,
               "points": 25,
               "amount": 1000
+            }
+          ]
+        },
+        "THROW_OUT_KILLS": {
+          "name": "Throw Out: Professional Yeeter",
+          "description": "Kill %s Players in Throw Out",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2500
             }
           ]
         },
@@ -926,7 +1348,7 @@
           ]
         }
       },
-      "total_points": 1600,
+      "total_points": 2565,
       "total_legacy_points": 5
     },
     "arena": {

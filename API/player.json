@@ -4849,7 +4849,7 @@
         "wins_hunter": 0,
         "arrows_hit_troll": 0,
         "wins_troll": 0,
-        "togglekillcounter": 0,
+        "togglekillcounter": true,
         "votes_Egypt": 0,
         "votes_Caelum": 0,
         "CreepertamerInventory": {
@@ -7810,7 +7810,7 @@
         "no_starting_armor": true
       },
       "Walls3": {
-        "blood": "",
+        "blood": true,
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -34707,43 +34707,41 @@
           ],
           "contract_choices": [
             {
-              "difficulty": "EASY",
-              "gold_reward": 700,
+              "difficulty": "HARD",
+              "gold_reward": 2000,
               "requirements": {
-                "kills": 1
+                "kills": 10
               },
               "progress": {
                 "kills": 0
               },
-              "chunk_of_viles_reward": 0,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kill_in_lava"
-            },
-            {
-              "difficulty": "EASY",
-              "gold_reward": 600,
-              "requirements": {
-                "kills": 1
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 0,
+              "chunk_of_viles_reward": 1,
               "completion_date": 0,
               "remaining_ticks": 6000,
               "key": "kills_on_grass"
             },
             {
-              "difficulty": "EASY",
-              "gold_reward": 700,
+              "difficulty": "HARD",
+              "gold_reward": 2400,
               "requirements": {
-                "kills": 1
+                "gapples": 16
+              },
+              "progress": {},
+              "chunk_of_viles_reward": 1,
+              "completion_date": 0,
+              "remaining_ticks": 6000,
+              "key": "eat_gapples"
+            },
+            {
+              "difficulty": "HARD",
+              "gold_reward": 2200,
+              "requirements": {
+                "kills": 14
               },
               "progress": {
                 "kills": 0
               },
-              "chunk_of_viles_reward": 0,
+              "chunk_of_viles_reward": 1,
               "completion_date": 0,
               "remaining_ticks": 6000,
               "key": "kill_on_obsidian"

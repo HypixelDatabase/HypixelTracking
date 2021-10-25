@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1634145507000,
+  "lastUpdated": 1635188150000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -9,6 +9,7 @@
       "name": "Barry Century Cake",
       "furniture": "EPOCH_CAKE_AQUA",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_AQUA"
     },
     {
@@ -35,6 +36,7 @@
       "name": "Jungle Heart",
       "tier": "LEGENDARY",
       "description": "%%gray%%Found in the deepest layers of the Jungle Temple",
+      "museum": true,
       "id": "JUNGLE_HEART"
     },
     {
@@ -211,6 +213,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_NEON_BLUE"
     },
     {
@@ -465,6 +468,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SILVERFISH"
     },
     {
@@ -811,6 +815,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgxMzY2ODU2NCwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI5ZGQ2OWRjNmQ1YzlmMTAzNjFkMzVmZWE1MDE2NWIwYWJjZmFiMDIzMGQ1ODhlYjlkNmUyYTY4ZDhjMzBkMyIKICAgIH0KICB9Cn0=",
       "name": "Hermit Crab Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "HERMIT_CRAB_PERSONALITY"
     },
     {
@@ -828,6 +833,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ROCK_COOL"
     },
     {
@@ -1104,6 +1110,7 @@
           "required_tier": 5
         }
       },
+      "museum": true,
       "id": "FLAMEBREAKER_CHESTPLATE"
     },
     {
@@ -1935,6 +1942,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_NEON_GREEN"
     },
     {
@@ -2065,6 +2073,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_THORN_HEAD"
     },
     {
@@ -2318,6 +2327,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_ORANGE"
     },
     {
@@ -2415,6 +2425,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 777,
+      "museum": true,
       "id": "GAME_BREAKER"
     },
     {
@@ -2549,7 +2560,18 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_BLUE"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "153,51,153",
+      "name": "Great Spook Leggings",
+      "category": "LEGGINGS",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_LEGGINGS"
     },
     {
       "material": "SKULL_ITEM",
@@ -2865,6 +2887,7 @@
       "category": "COSMETIC",
       "tier": "SPECIAL",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_WOLF_HENZO_DOGGO"
     },
     {
@@ -3090,7 +3113,18 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU3Mzk5MzgxODE0NGFiMDQ2NWY5ZmZhODBiNGZhYzk4MDZiNjlmYzliNTBjOWEzNGQ1NTYzNWIwMzgxY2QxMiJ9fX0=",
       "name": "Golden Treat",
       "tier": "LEGENDARY",
+      "museum": true,
       "id": "GOLD_CANDY"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "153,51,153",
+      "name": "Great Spook Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_CHESTPLATE"
     },
     {
       "material": "SKULL_ITEM",
@@ -3304,6 +3338,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTg0OTczMDgzOSwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2M2U4MWVmYzAzMTBiN2RhYjJiMWYzZjc4NjFmNmNkZmZhMzZjNDNmOTVhZjc4MDhhM2U3MWViYTc2YzgyYyIKICAgIH0KICB9Cn0=",
       "name": "Ghost Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "GHOST_PERSONALITY"
     },
     {
@@ -3677,6 +3712,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRhMzMyYWJkZTMzM2ExNWE2YzZmY2ZlY2E4M2YwMTU5ZWE5NGI2OGU4ZjI3NGJhZmMwNDg5MmI2ZGJmYyJ9fX0=",
       "name": "Game Annihilator",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "GAME_ANNIHILATOR"
     },
     {
@@ -3738,6 +3774,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_YETI_GROWN_UP"
     },
     {
@@ -3973,6 +4010,7 @@
       "name": "Name Tag",
       "tier": "UNCOMMON",
       "npc_sell_price": 50,
+      "museum": true,
       "id": "NAME_TAG"
     },
     {
@@ -4119,6 +4157,7 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 1,
       "dungeon_item": true,
+      "museum": true,
       "id": "DEFUSE_KIT"
     },
     {
@@ -4195,6 +4234,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFhOGZjOGRlNjQxN2I0OGQ0OGM4MGI0NDNjZjUzMjZlM2Q5ZGE0ZGJlOWIyNWZjZDQ5NTQ5ZDk2MTY4ZmMwIn19fQ==",
       "name": "Summoning Eye",
       "tier": "EPIC",
+      "museum": true,
       "id": "SUMMONING_EYE"
     },
     {
@@ -4249,6 +4289,7 @@
       "name": "Iron Horse Armor",
       "tier": "RARE",
       "npc_sell_price": 500,
+      "museum": true,
       "id": "IRON_BARDING"
     },
     {
@@ -4974,6 +5015,7 @@
         "HEALTH": 12
       },
       "npc_sell_price": 14,
+      "museum": true,
       "id": "GENERALS_ARMOR_OF_THE_RESISTANCE_LEGGINGS"
     },
     {
@@ -4982,6 +5024,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjMyMTYyNjA4OSwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVkZDViMDBhNWZiYzJkYWFiNThmMzNkODZiYmM0ZmY4ZDI1OGM5YmRhNjU3NTVjMDMwNTg5MGJiYTA5NjAxZiIKICAgIH0KICB9Cn0=",
       "name": "Reindeer Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "REINDEER_PERSONALITY"
     },
     {
@@ -4995,6 +5038,7 @@
         "HEALTH": 8
       },
       "npc_sell_price": 8,
+      "museum": true,
       "id": "ARMOR_OF_THE_RESISTANCE_BOOTS"
     },
     {
@@ -5297,6 +5341,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ROCK_THINKING"
     },
     {
@@ -5432,6 +5477,7 @@
       "name": "Helix",
       "glowing": true,
       "tier": "LEGENDARY",
+      "museum": true,
       "id": "HELIX"
     },
     {
@@ -5908,6 +5954,7 @@
         "WEAPON_ABILITY_DAMAGE": 1000
       },
       "ability_damage_scaling": 0.2,
+      "museum": true,
       "id": "GENERALS_HOPE_OF_THE_RESISTANCE"
     },
     {
@@ -6052,6 +6099,7 @@
       "name": "Nope the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "NOPE_THE_FISH"
     },
     {
@@ -6098,6 +6146,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzEyOTcwMDAsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczYTM3YzU4NmU4NTYxNGRhZWJiZDhjZDRlYmM1M2EwYzNhY2VhNjM2NmRkMDRjZTQ4MjNjN2U3MjU1YmQ0NzUifX19",
       "name": "Sun Minion Skin",
+      "museum": true,
       "id": "SUN_PERSONALITY"
     },
     {
@@ -6140,6 +6189,7 @@
       "durability": 9,
       "name": "Cake Soul",
       "tier": "MYTHIC",
+      "museum": true,
       "id": "CAKE_SOUL"
     },
     {
@@ -6220,6 +6270,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_THORN_HEAD"
     },
     {
@@ -6356,6 +6407,7 @@
         "WEAPON_ABILITY_DAMAGE": 500
       },
       "ability_damage_scaling": 0.2,
+      "museum": true,
       "id": "HOPE_OF_THE_RESISTANCE"
     },
     {
@@ -6413,6 +6465,7 @@
       "category": "COSMETIC",
       "tier": "LEGENDARY",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_MONKEY_GOLDEN"
     },
     {
@@ -6433,6 +6486,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_JERRY_GREEN_ELF"
     },
     {
@@ -6988,6 +7042,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzE4ODU0MjQsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAyMzdjNmYxZDJmNzE0YmM3ZTVkM2I3ODIyZmI3MWRlZjBkMWVkYWVkMmUzNjY1NDJmZDMyMDcxZjE4MDM5OCJ9fX0=",
       "name": "Happy Emoji Minion Skin",
+      "museum": true,
       "id": "HAPPY_EMOJI_PERSONALITY"
     },
     {
@@ -7311,6 +7366,7 @@
       "name": "Shrimp the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "SHRIMP_THE_FISH"
     },
     {
@@ -7338,6 +7394,7 @@
       "stats": {
         "DAMAGE": 1
       },
+      "museum": true,
       "id": "ASPECT_OF_THE_JERRY"
     },
     {
@@ -7391,6 +7448,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1ODU2MTMxOTE3OTUsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI3OGM1ZGQ0ZTg1Njk4OWMzYzk0NmNiODYxZDczYjMyNzY2MGYwN2E5OGVlYzY3NTg4Y2U3ZDc1NGNiMDhiYSJ9fX0=",
       "name": "Lady Bug Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "LADY_BUG_PERSONALITY"
     },
     {
@@ -7682,6 +7740,7 @@
       "category": "COSMETIC",
       "tier": "MYTHIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ENDERMITE_RADIANT"
     },
     {
@@ -8354,6 +8413,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ1NjY5OTY4NjUsInByb2ZpbGVJZCI6IjkxOGEwMjk1NTlkZDRjZTZiMTZmN2E1ZDUzZWZiNDEyIiwicHJvZmlsZU5hbWUiOiJCZWV2ZWxvcGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YTFkNDVmMDEwMmQxNDEwYTA2MWY3NGJlZjMyOWNlM2NmYWExNmQwNzYyZTVjOTU4MWZhNWViMDAzMmVhZjYwIn19fQ==",
       "name": "Grinch Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "GRINCH_PERSONALITY"
     },
     {
@@ -8485,6 +8545,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_MONOCHROME"
     },
     {
@@ -8559,6 +8620,7 @@
       "category": "COSMETIC",
       "tier": "MYTHIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_TIGER_TWILIGHT"
     },
     {
@@ -8603,6 +8665,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_JERRY_RED_ELF"
     },
     {
@@ -8751,6 +8814,7 @@
       "material": "QUARTZ_STAIRS",
       "name": "Ancient Elevator",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "ANCIENT_ELEVATOR"
     },
     {
@@ -8798,6 +8862,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 333,
+      "museum": true,
       "id": "DEAD_BUSH_OF_LOVE"
     },
     {
@@ -9077,6 +9142,7 @@
       "material": "PAPER",
       "name": "Stock of Stonks",
       "tier": "EPIC",
+      "museum": true,
       "id": "STOCK_OF_STONKS"
     },
     {
@@ -9143,6 +9209,7 @@
       "name": "Cluck the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "CLUCK_THE_FISH"
     },
     {
@@ -9436,6 +9503,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjU4MDA1MDY0NCwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EzYzg1NjMyNzFhMDE3ZDM0NTc1Y2M2ZmEyODM4MWM3MzRlYmE0NjE3ZmVlZjZjYTVmN2QwYTVmZWRhNDNkMyIKICAgIH0KICB9Cn0=",
       "name": "Present Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "PRESENT_PERSONALITY"
     },
     {
@@ -9454,6 +9522,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjk1MjcxNjE2NiwKICAicHJvZmlsZUlkIiA6ICIwYWFjMWRlZjUwZmI0N2RjODNmOGU2Njk3MTg1ODRkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YWdyaWQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWNlZGRjMjNmOWQ5NmJhYWEwZDJkN2I5ZWMxODBjZDdiZWE1NDQ3ZDM5YzQyNWNhOWU0NGQ4ODA4ZWExMWVhMCIKICAgIH0KICB9Cn0=",
       "name": "Easter Egg Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "EASTER_EGG_PERSONALITY"
     },
     {
@@ -9846,6 +9915,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_WOLF"
     },
     {
@@ -9951,6 +10021,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_WHITE"
     },
     {
@@ -10170,6 +10241,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDkwODU4MjcyOCwKICAicHJvZmlsZUlkIiA6ICJiN2ZkYmU2N2NkMDA0NjgzYjlmYTllM2UxNzczODI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkM2ZlMGE5NTQwZTYwNGYxMjQ5ZTE2YzEwNWNkYTQ1ODEyYjIwMzcwN2NmOTNmZTY2ZmJhNTExOWUzODc4ODMiCiAgICB9CiAgfQp9",
       "name": "Basketball Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "BASKETBALL_PERSONALITY"
     },
     {
@@ -10195,6 +10267,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1ODU1ODcxNjgyODAsInByb2ZpbGVJZCI6IjkxZmUxOTY4N2M5MDQ2NTZhYTFmYzA1OTg2ZGQzZmU3IiwicHJvZmlsZU5hbWUiOiJoaGphYnJpcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTIwYTM3YjVkMDc5ZWI3OWQ4N2VkNWVkYTJjZjk1YTVhZTc2MTA2MmViMDk0OTllZjMzMDc4NDEwODgzY2E3MiJ9fX0",
       "name": "Bunny Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "BUNNY_PERSONALITY"
     },
     {
@@ -10225,6 +10298,17 @@
       "generator_tier": 12,
       "tier": "RARE",
       "id": "SUGAR_CANE_GENERATOR_12"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTUyODI4NSwKICAicHJvZmlsZUlkIiA6ICI2MzMyMDgwZTY3YTI0Y2MxYjE3ZGJhNzZmM2MwMGYxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWFtSHlkcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1NjkyMmMyMWJjMTUxOGJmNjAzNTM1MDkzMGMzYjFmNGM5Yjc0YjEwYjBkNjIxYmFiYWE0ZTQxMTA5YzE3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Sweet Flesh",
+      "description": "%%gray%%It's strangely sweet and somewhat sticky...",
+      "tier": "UNCOMMON",
+      "glowing": true,
+      "npc_sell_price": 0,
+      "id": "SWEET_FLESH"
     },
     {
       "material": "SKULL_ITEM",
@@ -10425,6 +10509,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_RABBIT_ROSE"
     },
     {
@@ -10702,6 +10787,7 @@
           "required_tier": 5
         }
       },
+      "museum": true,
       "id": "FLAMEBREAKER_HELMET"
     },
     {
@@ -10810,6 +10896,7 @@
       "name": "Pet Rock Century Cake",
       "furniture": "EPOCH_CAKE_GREEN",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_GREEN"
     },
     {
@@ -10912,6 +10999,7 @@
       "name": "The Builder's Clay",
       "category": "HELMET",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "DUECES_BUILDER_CLAY"
     },
     {
@@ -10981,6 +11069,7 @@
       "name": "Oops the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "OOPS_THE_FISH"
     },
     {
@@ -11008,6 +11097,7 @@
           "required_tier": 5
         }
       },
+      "museum": true,
       "id": "FLAMEBREAKER_BOOTS"
     },
     {
@@ -11040,6 +11130,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_NECRON_HEAD"
     },
     {
@@ -11077,6 +11168,7 @@
       "name": "Dctr's Space Helmet",
       "category": "HELMET",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "DCTR_SPACE_HELM"
     },
     {
@@ -11867,6 +11959,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTQ2MzkzNTc3NSwKICAicHJvZmlsZUlkIiA6ICIwYTUzMDU0MTM4YWI0YjIyOTVhMGNlZmJiMGU4MmFkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQX0hpc2lybyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMWRiZTMwYjAyN2FjYmNlYjYxMjU2M2JkODc3Y2Q3ZWJiNzE5ZWE2ZWQxMzk5MDI3ZGNlZTU4YmI5MDQ5ZDRhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Ruby Crystal",
       "tier": "RARE",
+      "museum": true,
       "id": "RUBY_CRYSTAL"
     },
     {
@@ -11939,6 +12032,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ENDERMAN"
     },
     {
@@ -12047,6 +12141,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjU3ODkxNTIyMiwKICAicHJvZmlsZUlkIiA6ICI2MTI4MTA4MjU5M2Q0OGQ2OWIzMmI3YjlkMzIxMGUxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbGROaWNrVGhlUmVhcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E2N2Y1MzNmNjRiNWVkNDk3MGFkYjc5YThhYzMzYzBkNjFjNmQ4MDQzYmM5ZDIyZTcyMTA0NjQ0YTRhNDIxOGIiCiAgICB9CiAgfQp9",
       "name": "Penguin Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "PENGUIN_PERSONALITY"
     },
     {
@@ -12134,6 +12229,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzM3MDYwODQsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWIwZjhhMjc1MmU3MzNlOGQ5MTUyYjFjZjBhMzg1OTYxZmExYmE3N2RhZWQ4ZDJlNGUwMjM0ODY5MTYxMDUyOSJ9fX0=",
       "name": "Ender Minion Skin",
+      "museum": true,
       "id": "END_STONE_PERSONALITY"
     },
     {
@@ -12191,6 +12287,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_RED"
     },
     {
@@ -12251,6 +12348,7 @@
       "name": "Century Cake of the Next Dungeon Floor",
       "furniture": "EPOCH_CAKE_BLACK",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_BLACK"
     },
     {
@@ -12876,6 +12974,7 @@
         "MINING_SPEED": 1
       },
       "description": "%%gray%%%%italic%%The very first pickaxe model! Invented by the famous Thomas Pickson.",
+      "museum": true,
       "id": "ALPHA_PICK"
     },
     {
@@ -13061,6 +13160,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_PROFESSOR_HEAD"
     },
     {
@@ -13105,6 +13205,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_SADAN_HEAD"
     },
     {
@@ -13276,6 +13377,7 @@
       "name": "Experiment the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "EXPERIMENT_THE_FISH"
     },
     {
@@ -13293,6 +13395,7 @@
           "required_tier": 5
         }
       },
+      "museum": true,
       "id": "FLAMEBREAKER_LEGGINGS"
     },
     {
@@ -13407,6 +13510,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_GREEN"
     },
     {
@@ -13552,6 +13656,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDkwOTE3ODU0NywKICAicHJvZmlsZUlkIiA6ICI2NGExOGZiZmQ0YWY0Yzg0YjliN2FjZmNlNDRmMTAzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJieVJPTkFMX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIwOGNmMzI1OGYzYjk3YmM3MTlmZTNmMmZiN2UxOTUxMWZlODNlYTBiY2Q4NmYzOWUyYzk4NGQyM2Y2ZWM4MDYiCiAgICB9CiAgfQp9",
       "name": "Shark Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "SHARK_PERSONALITY"
     },
     {
@@ -13734,6 +13839,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ROCK_DERP"
     },
     {
@@ -13924,6 +14030,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "dungeon_item": true,
+      "museum": true,
       "id": "GIANT_THE_FISH"
     },
     {
@@ -13968,6 +14075,7 @@
       "name": "French Bread",
       "tier": "SPECIAL",
       "npc_sell_price": 1,
+      "museum": true,
       "id": "FRENCH_BREAD"
     },
     {
@@ -14328,6 +14436,7 @@
       "name": "Gift the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "GIFT_THE_FISH"
     },
     {
@@ -14488,6 +14597,7 @@
           "tier": 7
         }
       },
+      "museum": true,
       "id": "DIVAN_DRILL"
     },
     {
@@ -14495,6 +14605,7 @@
       "name": "Spooky Pie",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "SPOOKY_PIE"
     },
     {
@@ -15265,6 +15376,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_BONZO_HEAD"
     },
     {
@@ -15391,6 +15503,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMjUxNDYzMDIsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ4NTY0Y2ViYjQ2MDRiZDQ2ODdhYWQyNzRiNzNkZmI1MjRhODlmNWMwNTU2YWViZGY1ODBkODllN2Q4MWEyNyJ9fX0=",
       "name": "Sloth Minion Skin",
+      "museum": true,
       "id": "SLOTH_PERSONALITY"
     },
     {
@@ -15700,6 +15813,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzI5NzgyMDIsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyOGY0OTAzODhlYzdmNTRiYzk3NTViNGMxZGIwZTkwOGY0MDgyOWFhNTI2OGM2NmNjYTZlNmZhYmNiY2Y2OTMifX19",
       "name": "Ice Cream Minion Skin",
+      "museum": true,
       "id": "ICE_CREAM_PERSONALITY"
     },
     {
@@ -15780,6 +15894,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODY5OTE1NDEyNSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTIyZGM2MThlMzk2Zjk2YjBmZjdiYjUwMTM1ZTNjYjAwYjcxZjBkNjJmMzkyZWNiMGY4MjczMmNlMzM5ZjEwMiIKICAgIH0KICB9Cn0=",
       "name": "Shiny Relic",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "SHINY_RELIC"
     },
     {
@@ -15907,6 +16022,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_LIGHT_GREEN"
     },
     {
@@ -16049,6 +16165,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_LIGHT_GRAY"
     },
     {
@@ -16067,6 +16184,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ENDERMAN_SLAYER"
     },
     {
@@ -16652,6 +16770,7 @@
       "category": "COSMETIC",
       "tier": "LEGENDARY",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_DRAGON_PASTEL"
     },
     {
@@ -16778,6 +16897,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjgzNDU4ODM2OTUsInByb2ZpbGVJZCI6IjQ0MDNkYzU0NzViYzRiMTVhNTQ4Y2ZkYTZiMGViN2Q5IiwicHJvZmlsZU5hbWUiOiJHR0dhbWVyc1lUIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZjJlNzc2NzU3MDY0MzgyZDI4YTUxOGI4OGQ5OGJkNDhjNjZhMTQxNjhiNTdlNmI2NTc2ZWZlMzAwMTQxMTFhIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=",
       "name": "Skull Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "SKULL_PERSONALITY"
     },
     {
@@ -16921,6 +17041,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJjZGUwNjhlOTlhNGY5OGMzMWY4N2I0Y2MwNmJlMTRiMjI5YWNhNGY3MjgxYTQxNmM3ZTJmNTUzMjIzZGI3NCJ9fX0=",
       "name": "Shiny Orb",
       "tier": "LEGENDARY",
+      "museum": true,
       "id": "SHINY_ORB"
     },
     {
@@ -17034,6 +17155,16 @@
       "id": "SHADOW_ASSASSIN_LEGGINGS"
     },
     {
+      "material": "LEATHER_BOOTS",
+      "color": "153,51,153",
+      "name": "Great Spook Boots",
+      "category": "BOOTS",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_BOOTS"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVjNmRjMmJiZjUxYzM2Y2ZjNzcxNDU4NWE2YTU2ODNlZjJiMTRkNDdkOGZmNzE0NjU0YTg5M2Y1ZGE2MjIifX19",
@@ -17130,6 +17261,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzIxNzc2ODUsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0ZmI2NWVjODBkMTE5ZThmNjU3ZWU2NzVhMjczODgwMWFkNzMzMGYyYzYxY2Q2MGZhNWI4YTg4YzA2OTU2ZSJ9fX0=",
       "name": "Beach Ball Minion Skin",
+      "museum": true,
       "id": "BEACH_BALL_PERSONALITY"
     },
     {
@@ -17330,6 +17462,7 @@
       "name": "Potato Spreading",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "POTATO_SPREADING"
     },
     {
@@ -17571,6 +17704,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM3YzliODJiMTg2NjU2ZTlmNjM2M2EyYTFjNmE0YjViOTNjZmE5ZWY0ZGFkNmYxNmI5NGViYjVlMzYyNjc4In19fQ==",
       "name": "Pink Donut Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "PINK_DONUT_PERSONALITY"
     },
     {
@@ -17920,6 +18054,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_LIGHT_BLUE"
     },
     {
@@ -17969,6 +18104,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_GREEN"
     },
     {
@@ -18150,6 +18286,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjgzNDE1ODczODksInByb2ZpbGVJZCI6IjVmODMyZGMzNWM4MTQ4YjI5ZmQ1MTJjOTBjYmI0OTQ5IiwicHJvZmlsZU5hbWUiOiJ0b29nZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQyY2VmZDAyYjc0OThhM2UwYmY5ZDA1OTY0ZTFjNTIxYmU3ZmIyNjNhMjcyYTdlMTYxNzdkYTM1YTkzNjhiM2IifX19",
       "name": "Undead Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "UNDEAD_PERSONALITY"
     },
     {
@@ -18580,6 +18717,7 @@
       "material": "BOOK",
       "name": "The Art of War",
       "tier": "LEGENDARY",
+      "museum": true,
       "id": "THE_ART_OF_WAR"
     },
     {
@@ -18595,6 +18733,7 @@
       "material": "BOAT",
       "name": "Kloonboat",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "KLOONBOAT"
     },
     {
@@ -18928,6 +19067,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ROCK_EMBARRASSED"
     },
     {
@@ -19244,6 +19384,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
+      "museum": true,
       "id": "PIG_MASK"
     },
     {
@@ -19351,6 +19492,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_RABBIT_AQUAMARINE"
     },
     {
@@ -19431,6 +19573,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQzNzUzNjY4NDIsInByb2ZpbGVJZCI6IjkxOGEwMjk1NTlkZDRjZTZiMTZmN2E1ZDUzZWZiNDEyIiwicHJvZmlsZU5hbWUiOiJCZWV2ZWxvcGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NTJmNGM4NWUzZThkOTM3ZWM1OTg4NmM5ZDEyMmU0ZmEwNDU5YjM0NmUwNDMwMWNjZjEyZDNmMmY0Mjc5NTQzIn19fQ==",
       "name": "Gingerbread Man Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "GINGERBREAD_PERSONALITY"
     },
     {
@@ -19716,6 +19859,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY5ODc2MiwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZmIxODg0OGUzYWUyOGFkMmY4MThiNTEwN2FiZjkwYTIzYTRkYTczMzYwNGJmZmNmNmNhZTEwMjc0ODUwYWM0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Frozen Spider",
+      "description": "%%gray%%One lonely spider sitting in the pond. Then down came the hook that pulled the spider out.",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "id": "FROZEN_SPIDER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MTk0NzI5ODEsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNTRiYmU2MDRkZmU1OGJmOTJlNzcyOTczMGQwYzhlMzc4NDRlODMxZWUzODE2ZDdlODQyN2MyN2ExODI0YTIifX19",
       "name": "Diamond Minion I",
       "generator": "DIAMOND",
@@ -19822,6 +19975,7 @@
       "material": "IRON_INGOT",
       "name": "Potato War Silver Medal",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "POTATO_SILVER_MEDAL"
     },
     {
@@ -19866,6 +20020,7 @@
       "tier": "RARE",
       "npc_sell_price": 1000000,
       "description": "%%gold%%Sold to shops for 1,000,000 coins!",
+      "museum": true,
       "id": "BAG_OF_CASH"
     },
     {
@@ -19995,6 +20150,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_BLUE"
     },
     {
@@ -20005,6 +20161,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_BLACK_CAT_ONYX"
     },
     {
@@ -20146,6 +20303,7 @@
         "HEALTH": 15
       },
       "npc_sell_price": 16,
+      "museum": true,
       "id": "GENERALS_ARMOR_OF_THE_RESISTANCE_CHESTPLATE"
     },
     {
@@ -20309,6 +20467,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_SADAN_HEAD"
     },
     {
@@ -20407,6 +20566,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_BLACK"
     },
     {
@@ -20427,6 +20587,16 @@
       "generator_tier": 1,
       "tier": "RARE",
       "id": "CARROT_GENERATOR_1"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Wet Pumpkin",
+      "description": "%%gray%%A squishy moist mess.",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "id": "WET_PUMPKIN"
     },
     {
       "material": "ARROW",
@@ -20523,6 +20693,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 1337,
+      "museum": true,
       "id": "THE_CAKE"
     },
     {
@@ -20749,6 +20920,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ1NjU2Njc0MDgsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMTc4YWUwM2Q4NDIyN2YyMWZhMjM2ODJkOWM2MjAxMzEwMDBmZmI3NjczMzk1NTMzYjI3NDBmYTgzYWIxMDM3In19fQ==",
       "name": "Santa Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "SANTA_PERSONALITY"
     },
     {
@@ -20900,6 +21072,7 @@
       "name": "Winter Disc",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "museum": true,
       "id": "WINTER_DISC"
     },
     {
@@ -21249,6 +21422,15 @@
       "id": "SALMON_BOOTS_NEW"
     },
     {
+      "material": "DEAD_BUSH",
+      "name": "Great Spook Staff",
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_STAFF"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM4NDBiNjZjNjQ0MjA1OWJhMzFmYzM0OTk4ZTE1YzQ0NDdhNDI5ZDNmNzg5YTdlOWY2MmU2YTU3ZGRhMGFiMiJ9fX0K",
@@ -21256,6 +21438,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_YELLOW"
     },
     {
@@ -21283,6 +21466,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1Njk5ODQ2NDQzNTAsInByb2ZpbGVJZCI6IjQ0MDNkYzU0NzViYzRiMTVhNTQ4Y2ZkYTZiMGViN2Q5IiwicHJvZmlsZU5hbWUiOiJHR0dhbWVyc1lUIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjBjMzA2Y2ZlNGM3MmY5ZDg3MGNlYzQ3Zjk1YWM0ZjUxMDNmMjBjOTY2ZDkyMDRhNjc2MDIyYjQ2MDI4NmI3In19fQ==",
       "name": "Killer Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "KILLER_PERSONALITY"
     },
     {
@@ -21601,6 +21785,7 @@
       "name": "Candy the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "CANDY_THE_FISH"
     },
     {
@@ -21744,6 +21929,7 @@
       "name": "Streamer's Century Cake",
       "furniture": "EPOCH_CAKE_PURPLE",
       "tier": "EPIC",
+      "museum": true,
       "id": "EPOCH_CAKE_PURPLE"
     },
     {
@@ -21823,6 +22009,7 @@
       "name": "Chill the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "CHILL_THE_FISH_2"
     },
     {
@@ -22048,7 +22235,18 @@
       "glowing": true,
       "tier": "SPECIAL",
       "dungeon_item": true,
+      "museum": true,
       "id": "MAXOR_THE_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU5NjQ0NiwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYzE5NTA0NjFkNTQ2ODdmNDAxNjJlNGVjZmZhY2Y2MGE0NmU0MTZmMjUzNGZhMjNhMDA5MWQwZWE2ZjJlYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Decayed Bat",
+      "description": "%%gray%%A withering husk of its former self.",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "id": "DECAYED_BAT"
     },
     {
       "material": "SKULL_ITEM",
@@ -22111,6 +22309,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_BLACK_CAT_IVORY"
     },
     {
@@ -22122,6 +22321,7 @@
         "WEAPON_ABILITY_DAMAGE": 3000
       },
       "ability_damage_scaling": 0.2,
+      "museum": true,
       "id": "PUMPKIN_LAUNCHER"
     },
     {
@@ -22166,6 +22366,7 @@
       "name": "Crab-Colored Century Cake",
       "furniture": "EPOCH_CAKE_PINK",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_PINK"
     },
     {
@@ -22275,6 +22476,7 @@
       "name": "Diamond Horse Armor",
       "tier": "EPIC",
       "npc_sell_price": 1000,
+      "museum": true,
       "id": "DIAMOND_BARDING"
     },
     {
@@ -23378,6 +23580,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_NECRON_HEAD"
     },
     {
@@ -24544,6 +24747,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzMxODU5NTQsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUwOTAyY2RmMTUwN2RlODVmZTFlNjA1NzEzZDY1MjYyMjZlMjZhZGY0NjRkY2MyMzM3MWE3ZTQ2YjVjZWM2ZSJ9fX0=",
       "name": "Ice Lolly Minion Skin",
+      "museum": true,
       "id": "ICE_LOLLY_PERSONALITY"
     },
     {
@@ -24753,6 +24957,7 @@
       "name": "Rock the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "ROCK_THE_FISH"
     },
     {
@@ -24969,6 +25174,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_BONZO_HEAD"
     },
     {
@@ -25208,6 +25414,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_GRAY"
     },
     {
@@ -25516,6 +25723,7 @@
       "name": "Fairy Flute",
       "glowing": true,
       "tier": "RARE",
+      "museum": true,
       "id": "FAIRY_FLUTE"
     },
     {
@@ -25782,6 +25990,7 @@
       "name": "Music Disc - Revenge",
       "tier": "SPECIAL",
       "npc_sell_price": 20,
+      "museum": true,
       "id": "REVENGE"
     },
     {
@@ -25908,6 +26117,7 @@
       "material": "CARROT_STICK",
       "name": "Shiny Rod",
       "tier": "LEGENDARY",
+      "museum": true,
       "id": "SHINY_ROD"
     },
     {
@@ -25924,6 +26134,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_CHICKEN_BABY_CHICK"
     },
     {
@@ -26264,6 +26475,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_RED"
     },
     {
@@ -26272,6 +26484,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTk5ODg2NjkxMiwKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY2ZGM1NjUyMDEyZWVhOTI2YzBmNjM4YjY4MjBlMGQyMGViOTRjZjBhMDhiMTZiM2UxMDlkNWU1NDlhZWZiOSIKICAgIH0KICB9Cn0",
       "name": "Pumpkin Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "PUMPKIN_PERSONALITY"
     },
     {
@@ -26436,6 +26649,7 @@
       "name": "Divan's Alloy",
       "tier": "LEGENDARY",
       "description": "%%gray%%%%italic%%The legendary Divan explored where no other man has set foot, and came back with this incredibly rare alloy.",
+      "museum": true,
       "id": "DIVAN_ALLOY"
     },
     {
@@ -26864,6 +27078,7 @@
       "name": "Farming for Dummies",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "FARMING_FOR_DUMMIES"
     },
     {
@@ -26901,6 +27116,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLDOR_THE_FISH"
     },
     {
@@ -26945,6 +27161,7 @@
       "name": "Spook the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "SPOOK_THE_FISH"
     },
     {
@@ -26955,6 +27172,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_PINK"
     },
     {
@@ -27022,6 +27240,7 @@
       "name": "Latest Update Century Cake",
       "furniture": "EPOCH_CAKE_ORANGE",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_ORANGE"
     },
     {
@@ -27194,6 +27413,7 @@
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzA0MjA1NTU5ODMsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xN2JiNGM1ZGIyYzQ2YWJmOGE1ZGQ4MzdlNDM2ODZkYTI1MTEwNDQ5ZDNhMzk2ZGZmYzA5ODBjYmE3ZjNlMWExIn19fQ",
       "name": "Bee Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "BEE_PERSONALITY"
     },
     {
@@ -27280,6 +27500,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTQ2Mzk4NDEwMSwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UyYjVmZTllYTUyMzk1YTQxYWM2OGMwY2I1NzU4NjRmZWI1ZmRkOGVhMTU4MjYyZThmODI5MTI1ZWMzM2Q0ODciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Jasper Crystal",
       "tier": "RARE",
+      "museum": true,
       "id": "JASPER_CRYSTAL"
     },
     {
@@ -27351,6 +27572,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_SCARF_HEAD"
     },
     {
@@ -27700,6 +27922,7 @@
       "name": "Recombobulator 3000",
       "tier": "LEGENDARY",
       "dungeon_item": true,
+      "museum": true,
       "id": "RECOMBOBULATOR_3000"
     },
     {
@@ -27814,6 +28037,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_LIVID_HEAD"
     },
     {
@@ -27860,6 +28084,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzkzODU2NTE4NDVmOGJmZTE4NmMzMGRhODFiYWNkNjk3MWFhNTFiZTNiNTAwMWZjNGVhNWNmMWFmOGYyM2MzMyJ9fX0K",
       "name": "Eternal Flame Ring",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "ETERNAL_FLAME_RING"
     },
     {
@@ -27947,6 +28172,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_PURPLE"
     },
     {
@@ -28021,6 +28247,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU2NDMwNiwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk3NzkwNmFiZGIwMGI0OTVjYzVhNjg1MWU5MmNlYjY1ZTFiZjg5ZmFmMWJlOTE0YjVkMzZjODQ4NzU3NmE3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Poisoned Candy",
+      "description": "%%gray%%A delicious, vibrant, and round candy with an extra kick.",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 0,
+      "id": "POISONED_CANDY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUxMzk1MjAyNWEyMzI0YTY2NmY3ZWRmNjUzNTgzMjVhYzYzYmFhMzc5OTAyZTM5MGZjMjcyMDE0NjMxOTNlNyJ9fX0=",
       "name": "Griffin Upgrade Stone",
       "tier": "UNCOMMON",
@@ -28040,6 +28276,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjk2ODc4MzE3MywKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3Y2RkZjViMjBjYjUwZDY2MDBlNTMzM2M2YmIzZmIxNWI0NzQxZjE3ZTM2NzVmYzJiZmMwOWMyY2QwOWU2MTkiCiAgICB9CiAgfQp9",
       "name": "Pink Bunny Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "PINK_BUNNY_PERSONALITY"
     },
     {
@@ -28048,6 +28285,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTc1NjY1ODM3MSwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmYwNTdkMjVhYmM4MDgyYzlhY2Y1M2M3NzFiZjRiZmY1OTUzYjkzOTdkODdmYWE3ZDBiOGFiNjEyZDU5OWVmYiIKICAgIH0KICB9Cn0",
       "name": "Mummy Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "MUMMY_PERSONALITY"
     },
     {
@@ -28108,6 +28346,7 @@
       "name": "Clown the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "CLOWN_THE_FISH"
     },
     {
@@ -28284,6 +28523,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_NEON_RED"
     },
     {
@@ -28567,6 +28807,7 @@
       "name": "Nether Star",
       "tier": "LEGENDARY",
       "npc_sell_price": 1,
+      "museum": true,
       "id": "NETHER_STAR"
     },
     {
@@ -28618,6 +28859,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhjYTM2MTBiZjFlZDJkY2NlNWNhN2Y3ZjI5MTRhMWMyNWZiZmFiZDc0ZGNlNTFiM2Y1MTI2YmE0NGJhMWEyMCJ9fX0=",
       "name": "Fairy Wing's Charm",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "FAIRY_WINGS_CHARM"
     },
     {
@@ -28688,6 +28930,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_SCARF_HEAD"
     },
     {
@@ -29092,6 +29335,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjE3MjQxNjg0MSwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWViYzZiZDE1YmViZDExOTNmNzhjMTJkMzVhZmVjMGJlNmEwN2EyZWFhOTE4MGMzZjQ5OWRjMzY2Mjg5ODk2MSIKICAgIH0KICB9Cn0=",
       "name": "Scarecrow Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "SCARECROW_PERSONALITY"
     },
     {
@@ -29177,6 +29421,7 @@
       "name": "aPunch Century Cake",
       "furniture": "EPOCH_CAKE_RED",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_RED"
     },
     {
@@ -29206,6 +29451,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_MEGALODON_BULLHEAD"
     },
     {
@@ -29543,6 +29789,7 @@
       "category": "COSMETIC",
       "tier": "MYTHIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_MONKEY_GORILLA"
     },
     {
@@ -29874,6 +30121,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "unstackable": true,
+      "museum": true,
       "id": "WIKI_JOURNAL"
     },
     {
@@ -29923,6 +30171,7 @@
       "name": "Sea Emperor Century Cake",
       "furniture": "EPOCH_CAKE_BLUE",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_BLUE"
     },
     {
@@ -30214,6 +30463,7 @@
       "category": "COSMETIC",
       "tier": "LEGENDARY",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_DRAGON_NEON_BLUE"
     },
     {
@@ -30607,6 +30857,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_BROWN"
     },
     {
@@ -31005,6 +31256,7 @@
       "name": "Bat the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "BAT_THE_FISH"
     },
     {
@@ -31023,6 +31275,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_PINK"
     },
     {
@@ -31050,6 +31303,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
+      "museum": true,
       "id": "POTATO_CROWN"
     },
     {
@@ -31221,6 +31475,16 @@
       "tier": "RARE",
       "npc_sell_price": 1,
       "id": "MIDAS_JEWEL"
+    },
+    {
+      "material": "LEATHER_HELMET",
+      "color": "153,51,153",
+      "name": "Great Spook Helmet",
+      "category": "HELMET",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_HELMET"
     },
     {
       "material": "SKULL_ITEM",
@@ -31604,6 +31868,7 @@
       "category": "COSMETIC",
       "tier": "LEGENDARY",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_DRAGON_NEON_RED"
     },
     {
@@ -31984,6 +32249,7 @@
         "HEALTH": 8
       },
       "npc_sell_price": 8,
+      "museum": true,
       "id": "GENERALS_ARMOR_OF_THE_RESISTANCE_BOOTS"
     },
     {
@@ -32333,6 +32599,7 @@
       "name": "Gold Horse Armor",
       "tier": "EPIC",
       "npc_sell_price": 750,
+      "museum": true,
       "id": "GOLD_BARDING"
     },
     {
@@ -32383,6 +32650,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTgxMzQ4NTE3MiwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExOTgxMmNjNTdiNzhjMzM2NmQwNzY3Nzg3NDVmN2Q4MWU5MzY3NjlhOGQyOGNhYzY4ZDQ4MzZmZmU5NTgxMjEiCiAgICB9CiAgfQp9",
       "name": "Clownfish Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "CLOWNFISH_PERSONALITY"
     },
     {
@@ -32425,6 +32693,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzMzcyOTEyNTYyMCwKICAicHJvZmlsZUlkIiA6ICI3NWQ3OTQxMjI0OTM0OTI4YTE1Njc3NjYyODhjN2I1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWdpY01hamVzdGljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0M2Q4Zjc3NDQwMTlmMjNiN2ZkNjRiY2JjOGEyYTE2ZjhhYzIxZWVkZDExODY1ZDk3YjZiNmMxOTBmYjFhZjAiCiAgICB9CiAgfQp9",
       "name": "Cyclops Minion Skin",
       "category": "COSMETIC",
+      "museum": true,
       "id": "CYCLOPS_PERSONALITY"
     },
     {
@@ -32525,6 +32794,7 @@
       "name": "Flake the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "SNOWFLAKE_THE_FISH"
     },
     {
@@ -32864,6 +33134,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "DIAMOND_PROFESSOR_HEAD"
     },
     {
@@ -33012,6 +33283,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SILVERFISH_FOSSILIZED"
     },
     {
@@ -33114,6 +33386,7 @@
       "name": "Battle Disc",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "museum": true,
       "id": "BATTLE_DISC"
     },
     {
@@ -33351,6 +33624,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_GUARDIAN"
     },
     {
@@ -33458,6 +33732,7 @@
       "name": "Egg the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "EGG_THE_FISH"
     },
     {
@@ -33739,6 +34014,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_MAGENTA"
     },
     {
@@ -33945,6 +34221,7 @@
       "name": "Potato-Style Century Cake",
       "furniture": "EPOCH_CAKE_YELLOW",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "EPOCH_CAKE_YELLOW"
     },
     {
@@ -34684,6 +34961,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 1337,
+      "museum": true,
       "id": "QUALITY_MAP"
     },
     {
@@ -35121,6 +35399,7 @@
       "name": "God Potion",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "GOD_POTION_2"
     },
     {
@@ -35286,6 +35565,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_NEON_YELLOW"
     },
     {
@@ -35512,6 +35792,7 @@
       "name": "God Potion",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "GOD_POTION"
     },
     {
@@ -35585,6 +35866,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_RABBIT"
     },
     {
@@ -35953,6 +36235,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ROCK_LAUGH"
     },
     {
@@ -35989,6 +36272,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjhlNjBlYmQ4MGI2MDYzYTk2ZTlhYWY4NGYwMzgyNTcwNThlNzYyZjFiZWMzYmY1YzBmNjI1MWU2NWQ1YzVlZSJ9fX0=",
       "name": "Basket of Hope from the Great Potato War",
       "tier": "EPIC",
+      "museum": true,
       "id": "POTATO_BASKET"
     },
     {
@@ -36056,6 +36340,7 @@
         "HEALTH": 10
       },
       "npc_sell_price": 10,
+      "museum": true,
       "id": "GENERALS_ARMOR_OF_THE_RESISTANCE_HELMET"
     },
     {
@@ -36108,6 +36393,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_HORSE_ZOMBIE"
     },
     {
@@ -36165,6 +36451,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE3MmQwYTBkNjk2OTIxNmI3ZjBiMmY5OWFkYjQwOTk0NWM1ZGU5YjA4MzFmZjVlZjA2NGJhNWYzODM1ZTY5NiJ9fX0=",
       "name": "Golden Gift",
       "tier": "SPECIAL",
+      "museum": true,
       "id": "GOLD_GIFT"
     },
     {
@@ -36314,6 +36601,7 @@
       "category": "COSMETIC",
       "tier": "LEGENDARY",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_DRAGON_NEON_PURPLE"
     },
     {
@@ -36455,6 +36743,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_ORANGE"
     },
     {
@@ -36973,6 +37262,7 @@
       "name": "Dragon Egg",
       "tier": "LEGENDARY",
       "npc_sell_price": 100,
+      "museum": true,
       "id": "DRAGON_EGG"
     },
     {
@@ -36994,6 +37284,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzAxMDQ4ODgsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk1OTE0ZjUxMGYyOGE5MzY4YzI1YTEyNjBhZGU3NzllMDRkNWIwZDM5ODZiODI3OWEyZDFkYWJmYjBmYjg0MSJ9fX0=",
       "name": "Melon Minion Skin",
+      "museum": true,
       "id": "MELON_PERSONALITY"
     },
     {
@@ -37293,6 +37584,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_WITHER"
     },
     {
@@ -37657,6 +37949,7 @@
         "HEALTH": 10
       },
       "npc_sell_price": 10,
+      "museum": true,
       "id": "ARMOR_OF_THE_RESISTANCE_HELMET"
     },
     {
@@ -37801,6 +38094,7 @@
       "category": "COSMETIC",
       "tier": "UNCOMMON",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_SHEEP_AQUA"
     },
     {
@@ -38055,6 +38349,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 123,
+      "museum": true,
       "id": "CREATIVE_MIND"
     },
     {
@@ -38104,6 +38399,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "dungeon_item": true,
+      "museum": true,
       "id": "STORM_THE_FISH"
     },
     {
@@ -38283,6 +38579,7 @@
         ]
       },
       "dungeon_item": true,
+      "museum": true,
       "id": "GOLD_LIVID_HEAD"
     },
     {
@@ -38495,6 +38792,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_WHALE_ORCA"
     },
     {
@@ -38739,6 +39037,7 @@
       "name": "Spooky Disc",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "museum": true,
       "id": "SPOOKY_DISC"
     },
     {
@@ -38803,6 +39102,7 @@
       "name": "Happy Mask",
       "category": "HELMET",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "HAPPY_MASK"
     },
     {
@@ -38863,6 +39163,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_DOLPHIN_SNUBNOSE"
     },
     {
@@ -39469,6 +39770,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ELEPHANT_PURPLE"
     },
     {
@@ -39670,6 +39972,7 @@
       "glowing": true,
       "tier": "RARE",
       "npc_sell_price": 3000,
+      "museum": true,
       "id": "ENDSTONE_ROSE"
     },
     {
@@ -39711,6 +40014,7 @@
       "name": "Chill the Fish",
       "glowing": true,
       "tier": "SPECIAL",
+      "museum": true,
       "id": "CHILL_THE_FISH"
     },
     {
@@ -39723,6 +40027,7 @@
         "HEALTH": 15
       },
       "npc_sell_price": 16,
+      "museum": true,
       "id": "ARMOR_OF_THE_RESISTANCE_CHESTPLATE"
     },
     {
@@ -39807,6 +40112,7 @@
       "tier": "SPECIAL",
       "npc_sell_price": 777,
       "description": "%%gray%%Given to individuals who broke the game too many times. Thanks for your great help!",
+      "museum": true,
       "id": "GAME_FIXER"
     },
     {
@@ -39881,6 +40187,7 @@
       "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzI1Nzg0MjIsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MDk4YTQ3OThkOWE4YWM1YTEwNzdjMjg2Yzg1ZGNlOThjYmM1MjRiODZjMDAzNTAwY2YwYTA0ZjlkZGZhNSJ9fX0=",
       "name": "Sandcastle Minion Skin",
+      "museum": true,
       "id": "SANDCASTLE_PERSONALITY"
     },
     {
@@ -39889,6 +40196,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 100,
+      "museum": true,
       "id": "NEW_YEAR_CAKE"
     },
     {
@@ -40034,6 +40342,7 @@
         "HEALTH": 12
       },
       "npc_sell_price": 14,
+      "museum": true,
       "id": "ARMOR_OF_THE_RESISTANCE_LEGGINGS"
     },
     {
@@ -40347,6 +40656,7 @@
       "category": "COSMETIC",
       "tier": "EPIC",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_MEGALODON_BABY"
     },
     {
@@ -40425,6 +40735,7 @@
       "category": "COSMETIC",
       "tier": "RARE",
       "unstackable": true,
+      "museum": true,
       "id": "PET_SKIN_ROCK_SMILE"
     },
     {
@@ -40537,6 +40848,7 @@
       "tier": "LEGENDARY",
       "npc_sell_price": 1,
       "description": "%%red%%I guess you have this now.",
+      "museum": true,
       "id": "BEDROCK"
     },
     {

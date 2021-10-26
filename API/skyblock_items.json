@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1635188150000,
+  "lastUpdated": 1635279704000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -437,6 +437,7 @@
         "DAMAGE": 25
       },
       "npc_sell_price": 25,
+      "museum": true,
       "id": "SWEET_AXE"
     },
     {
@@ -564,6 +565,7 @@
         "HEALTH": 25
       },
       "npc_sell_price": 32,
+      "museum": true,
       "id": "MAGMA_CUBE_HEAD"
     },
     {
@@ -1058,6 +1060,7 @@
       "name": "Rookie Hoe",
       "category": "HOE",
       "npc_sell_price": 3,
+      "museum": true,
       "id": "ROOKIE_HOE"
     },
     {
@@ -1227,6 +1230,7 @@
         "STRENGTH": 15
       },
       "npc_sell_price": 40,
+      "museum": true,
       "id": "SALMON_HAT"
     },
     {
@@ -1464,6 +1468,7 @@
         "WALK_SPEED": 1
       },
       "npc_sell_price": 10,
+      "museum": true,
       "id": "SQUID_HAT"
     },
     {
@@ -1524,6 +1529,7 @@
         "HEALTH": 20
       },
       "npc_sell_price": 8,
+      "museum": true,
       "id": "CHICKEN_HEAD"
     },
     {
@@ -2164,6 +2170,7 @@
         "HEALTH": 50
       },
       "npc_sell_price": 20,
+      "museum": true,
       "id": "SLIME_HAT"
     },
     {
@@ -2300,6 +2307,7 @@
           "level": 10
         }
       },
+      "museum": true,
       "id": "WINTER_ROD"
     },
     {
@@ -3687,6 +3695,7 @@
         "DAMAGE": 20
       },
       "npc_sell_price": 6,
+      "museum": true,
       "id": "ROOKIE_AXE"
     },
     {
@@ -6166,6 +6175,7 @@
         "DAMAGE": 25
       },
       "npc_sell_price": 20,
+      "museum": true,
       "id": "PROMISING_AXE"
     },
     {
@@ -7062,6 +7072,7 @@
       "name": "Frosty the Snow Blaster",
       "tier": "EPIC",
       "npc_sell_price": 100,
+      "museum": true,
       "id": "SNOW_BLASTER"
     },
     {
@@ -7286,6 +7297,7 @@
           "level": 3
         }
       },
+      "museum": true,
       "id": "ICE_ROD"
     },
     {
@@ -7819,6 +7831,7 @@
         "INTELLIGENCE": -10
       },
       "npc_sell_price": 25,
+      "museum": true,
       "id": "BLOBFISH_HAT"
     },
     {
@@ -9136,6 +9149,7 @@
           60
         ]
       },
+      "museum": true,
       "id": "SKELETON_HAT"
     },
     {
@@ -9647,6 +9661,7 @@
           "level": 3
         }
       },
+      "museum": true,
       "id": "AATROX_BATPHONE"
     },
     {
@@ -9965,6 +9980,7 @@
         "DEFENSE": 35
       },
       "npc_sell_price": 1000,
+      "museum": true,
       "id": "MUSIC_PANTS"
     },
     {
@@ -11935,6 +11951,7 @@
           "level": 8
         }
       },
+      "museum": true,
       "id": "EMBER_ROD"
     },
     {
@@ -13781,6 +13798,7 @@
         "INTELLIGENCE": 5
       },
       "npc_sell_price": 16,
+      "museum": true,
       "id": "CREEPER_HAT"
     },
     {
@@ -14049,6 +14067,7 @@
         "STRENGTH": 90,
         "CRITICAL_DAMAGE": 25
       },
+      "museum": true,
       "id": "GHOUL_BUSTER"
     },
     {
@@ -16374,6 +16393,7 @@
         "HEALTH": 10
       },
       "npc_sell_price": 16,
+      "museum": true,
       "id": "COW_HEAD"
     },
     {
@@ -16555,6 +16575,7 @@
         "HEALTH": 5
       },
       "npc_sell_price": 24,
+      "museum": true,
       "id": "FISH_HAT"
     },
     {
@@ -16719,6 +16740,7 @@
         "MINING_SPEED": 190
       },
       "npc_sell_price": 10,
+      "museum": true,
       "id": "PROMISING_PICKAXE"
     },
     {
@@ -18038,6 +18060,7 @@
       "name": "Golem Hat",
       "category": "HELMET",
       "npc_sell_price": 100,
+      "museum": true,
       "id": "GOLEM_HAT"
     },
     {
@@ -20493,6 +20516,7 @@
         "MINING_SPEED": 150
       },
       "npc_sell_price": 2,
+      "museum": true,
       "id": "ROOKIE_PICKAXE"
     },
     {
@@ -21024,6 +21048,7 @@
           25
         ]
       },
+      "museum": true,
       "id": "SPIDER_HAT"
     },
     {
@@ -22665,6 +22690,7 @@
       "category": "HOE",
       "tier": "UNCOMMON",
       "npc_sell_price": 10,
+      "museum": true,
       "id": "PROMISING_HOE"
     },
     {
@@ -22674,6 +22700,7 @@
       "name": "Dante Talisman",
       "category": "ACCESSORY",
       "npc_sell_price": 22,
+      "museum": true,
       "id": "DANTE_TALISMAN"
     },
     {
@@ -25095,6 +25122,7 @@
           "level": 6
         }
       },
+      "museum": true,
       "id": "SPEEDSTER_ROD"
     },
     {
@@ -25621,6 +25649,7 @@
         "HEALTH": 100
       },
       "npc_sell_price": 64,
+      "museum": true,
       "id": "GHAST_HEAD"
     },
     {
@@ -25644,6 +25673,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
+      "museum": true,
       "id": "POTATO_TALISMAN"
     },
     {
@@ -25700,6 +25730,7 @@
         "INTELLIGENCE": 50
       },
       "npc_sell_price": 140,
+      "museum": true,
       "id": "CLOWNFISH_HAT"
     },
     {
@@ -26801,6 +26832,7 @@
       "stats": {
         "MAGIC_FIND": 1
       },
+      "museum": true,
       "id": "PARTY_HAT_CRAB"
     },
     {
@@ -27590,6 +27622,7 @@
       "name": "Sculptor's Axe",
       "category": "AXE",
       "npc_sell_price": 64,
+      "museum": true,
       "id": "SCULPTORS_AXE"
     },
     {
@@ -27673,6 +27706,7 @@
       "name": "Frosty the Snow Cannon",
       "tier": "RARE",
       "npc_sell_price": 10,
+      "museum": true,
       "id": "SNOW_CANNON"
     },
     {
@@ -28851,6 +28885,7 @@
           "level": 8
         }
       },
+      "museum": true,
       "id": "FARMER_ROD"
     },
     {
@@ -30939,6 +30974,7 @@
         "INTELLIGENCE": 5
       },
       "npc_sell_price": 10,
+      "museum": true,
       "id": "RABBIT_HAT"
     },
     {
@@ -31082,6 +31118,7 @@
         "STRENGTH": 10
       },
       "npc_sell_price": 60,
+      "museum": true,
       "id": "PUFFERFISH_HAT"
     },
     {
@@ -33576,6 +33613,7 @@
         "INTELLIGENCE": 2
       },
       "npc_sell_price": 500,
+      "museum": true,
       "id": "FALLEN_STAR_HAT"
     },
     {
@@ -33831,6 +33869,7 @@
       "name": "Jingle Bells",
       "tier": "RARE",
       "npc_sell_price": 100,
+      "museum": true,
       "id": "JINGLE_BELLS"
     },
     {
@@ -36254,6 +36293,7 @@
           "tier": 3
         }
       },
+      "museum": true,
       "id": "JUNGLE_PICKAXE"
     },
     {
@@ -37262,7 +37302,6 @@
       "name": "Dragon Egg",
       "tier": "LEGENDARY",
       "npc_sell_price": 100,
-      "museum": true,
       "id": "DRAGON_EGG"
     },
     {
@@ -38389,6 +38428,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdlYTRjMDE3ZTM0NTZjZjA5YTVjMjYzZjM0ZDNjYzVmNDE1NzdiNzRkNjBmNmY4MTk2YzYwZTA3ZjhjNWE5NiJ9fX0=",
       "name": "Royal Pigeon",
       "tier": "LEGENDARY",
+      "museum": true,
       "id": "ROYAL_PIGEON"
     },
     {
@@ -38610,6 +38650,7 @@
           60
         ]
       },
+      "museum": true,
       "id": "ZOMBIE_HAT"
     },
     {
@@ -39815,6 +39856,7 @@
           "level": 5
         }
       },
+      "museum": true,
       "id": "SPONGE_ROD"
     },
     {
@@ -39850,6 +39892,7 @@
     {
       "material": "FLINT",
       "name": "Polished Pebble",
+      "museum": true,
       "id": "POLISHED_PEBBLE"
     },
     {
@@ -40205,6 +40248,7 @@
       "category": "SPADE",
       "tier": "UNCOMMON",
       "npc_sell_price": 10,
+      "museum": true,
       "id": "PROMISING_SPADE"
     },
     {
@@ -40244,6 +40288,7 @@
           "level": 3
         }
       },
+      "museum": true,
       "id": "PRISMARINE_ROD"
     },
     {
@@ -40876,6 +40921,7 @@
       "tier": "RARE",
       "npc_sell_price": 77777,
       "description": "%%gray%%%%italic%%Boots made of pure ghost essense",
+      "museum": true,
       "id": "GHOST_BOOTS"
     },
     {

@@ -34253,6 +34253,7 @@
           "9": "",
           "29": "",
           "30": "",
+          "31": "",
           "32": "",
           "33": "",
           "34": "",
@@ -34447,6 +34448,8 @@
           "3": "",
           "4": "",
           "5": "",
+          "6": "",
+          "7": "",
           "8": "",
           "9": ""
         },
@@ -34536,7 +34539,10 @@
         "capture_threes_losses": 0,
         "capture_threes_melee_hits": 0,
         "capture_threes_melee_swings": 0,
-        "capture_threes_rounds_played": 0
+        "capture_threes_rounds_played": 0,
+        "equipped_prefix_color": "",
+        "capture_threes_captures": 0,
+        "captures": 0
       },
       "BuildBattle": {
         "wins": 0,

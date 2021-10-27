@@ -249,7 +249,8 @@
       "arcade_ender_spleef_block_stealer": 0,
       "arcade_ender_spleef_powerups": 0,
       "arcade_party_super_star": 0,
-      "arcade_dw_dragonborn": 0
+      "arcade_dw_dragonborn": 0,
+      "duels_duels_mastery": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -34473,7 +34474,11 @@
         "blitz_duel_reaper_kit_wins": 0,
         "reaper_kit_wins": 0,
         "astronaut_kit_wins": 0,
-        "blitz_duel_astronaut_kit_wins": 0
+        "blitz_duel_astronaut_kit_wins": 0,
+        "show_map_detail": "",
+        "matchHistory4": [],
+        "boxing_rookie_title_prestige": 0,
+        "parkour_rookie_title_prestige": 0
       },
       "BuildBattle": {
         "wins": 0,

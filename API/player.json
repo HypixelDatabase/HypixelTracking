@@ -34483,7 +34483,14 @@
         "parkour_rookie_title_prestige": 0,
         "old_winstreak": 0,
         "sw_duel_paladin_kit_wins": 0,
-        "moved_to_redis": true
+        "moved_to_redis": true,
+        "boxing_duel_kills": 0,
+        "boxing_duel_melee_hits": 0,
+        "boxing_duel_melee_swings": 0,
+        "boxing_duel_rounds_played": 0,
+        "boxing_duel_wins": 0,
+        "boxing_duel_losses": 0,
+        "boxing_duel_deaths": 0
       },
       "BuildBattle": {
         "wins": 0,

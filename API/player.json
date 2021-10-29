@@ -34545,7 +34545,18 @@
         "capture_threes_captures": 0,
         "captures": 0,
         "equipped_prefix_icon": "",
-        "capture_threes_wins": 0
+        "capture_threes_wins": 0,
+        "layout_combo_duel_layout": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": ""
+        }
       },
       "BuildBattle": {
         "wins": 0,
@@ -36321,7 +36332,8 @@
         "cloak_falling_angel",
         "gadget_tournament_banner_mcgo_defusal_1",
         "suit_skeleton_samurai_helmet",
-        "gadget_witch_cauldron"
+        "gadget_witch_cauldron",
+        "pet_spider_jockey"
       ]
     },
     "vanityTokens": 0,

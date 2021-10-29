@@ -34569,7 +34569,8 @@
         "bridge_threes_melee_swings": 0,
         "bridge_threes_rounds_played": 0,
         "bridge_threes_wins": 0,
-        "bridge_threes_losses": 0
+        "bridge_threes_losses": 0,
+        "moved_to_redis3": true
       },
       "BuildBattle": {
         "wins": 0,

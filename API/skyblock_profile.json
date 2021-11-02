@@ -2761,7 +2761,10 @@
           "arrow_forger_completed_first_challenge",
           "target_practice_1",
           "target_practice_2",
-          "boss_collection_claimed_necron_gold_necron_head"
+          "boss_collection_claimed_necron_gold_necron_head",
+          "zone_museum",
+          "talk_to_museum_curator",
+          "talk_to_museum_auctioneer"
         ],
         "quests": {
           "collect_log": {
@@ -3126,7 +3129,8 @@
           "greater_mines_magma_uber_room",
           "greater_mines_mithril_uber_room",
           "greater_mines_fairy_grotto",
-          "archery_range"
+          "archery_range",
+          "museum"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

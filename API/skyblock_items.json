@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1635439576000,
+  "lastUpdated": 1635875798000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -29744,6 +29744,15 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "id": "ELECTRIC_WAND_ITEM"
+    },
+    {
+      "material": "COOKED_FISH",
+      "durability": 1,
+      "name": "Dust the Fish",
+      "glowing": true,
+      "tier": "SPECIAL",
+      "museum": true,
+      "id": "DUST_THE_FISH"
     },
     {
       "material": "NAME_TAG",

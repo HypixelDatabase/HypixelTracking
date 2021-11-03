@@ -2669,7 +2669,10 @@
           "mob_trail",
           "red_trail",
           "blue_trail",
-          "green_trail"
+          "green_trail",
+          "victory_dance_guardians",
+          "projectile_trail_notes",
+          "movement_trail_green_star"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -2948,7 +2951,10 @@
         "hitwPerfectTitle": true,
         "avalanche_round_wins_party": 0,
         "persistArcadeResourcePack": "",
-        "pig_fishing_round_wins_party": 0
+        "pig_fishing_round_wins_party": 0,
+        "active_victory_dance": "",
+        "active_projectile_trail": "",
+        "active_movement_trail": ""
       },
       "Arena": {
         "coins": 0,

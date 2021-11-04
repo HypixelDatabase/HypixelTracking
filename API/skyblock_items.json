@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1635887157000,
+  "lastUpdated": 1636036596000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -1450,16 +1450,6 @@
       },
       "npc_sell_price": 50,
       "id": "FANCY_SWORD"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MzYyNzE1ODMsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZWZjMmQxZWJiNTNlZDEyNDIwODFmMjI2MTRhN2UzYWM5ODNiOWY2MTU5ODE0ZTZiY2JjNzNjZTdlMzEzMmEifX19",
-      "name": "Fishing Minion XII",
-      "generator": "FISHING",
-      "generator_tier": 12,
-      "tier": "RARE",
-      "id": "FISHING_GENERATOR_12"
     },
     {
       "material": "EMPTY_MAP",
@@ -5560,6 +5550,7 @@
           "level": 13
         }
       },
+      "museum": true,
       "id": "SALMON_BOOTS"
     },
     {
@@ -26118,6 +26109,7 @@
           "level": 13
         }
       },
+      "museum": true,
       "id": "SALMON_HELMET"
     },
     {
@@ -28306,6 +28298,7 @@
           "level": 13
         }
       },
+      "museum": true,
       "id": "SALMON_CHESTPLATE"
     },
     {
@@ -36458,6 +36451,7 @@
           "level": 13
         }
       },
+      "museum": true,
       "id": "SALMON_LEGGINGS"
     },
     {

@@ -33790,7 +33790,8 @@
           "%%gold%%✫ %%light_purple%%Challenger",
           "§8(§a§lS1§8) §6§lSkyWars §eTop 500",
           "§8(§a§lS1§8) §6§lSkyWars §eTop 1000",
-          "§8(§a§lS4§8) §6§lClassic §5§lDivision 1"
+          "§8(§a§lS4§8) §6§lClassic §5§lDivision 1",
+          "§8(§a§lS5§8) §6§lUHC §5§lDivision 1"
         ],
         "equipped_custom_titles": "",
         "classic_iron_title_prestige": 0,
@@ -34623,7 +34624,8 @@
         },
         "collected_reward_season_4": true,
         "toggle_proj_trail": "",
-        "moved_to_redis_2": true
+        "moved_to_redis_2": true,
+        "collected_reward_season_5": true
       },
       "BuildBattle": {
         "wins": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1636036596000,
+  "lastUpdated": 1636399694000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14672,6 +14672,13 @@
       "id": "SILVER_FANG"
     },
     {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Crystal Hollows",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL"
+    },
+    {
       "material": "GOLD_SWORD",
       "enchantments": {
         "sharpness": 10
@@ -22381,7 +22388,6 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE0YzZlNDFhNzYyZDM3ODYzYTlmZmY2ODg4YzczODkwNWI5MmNjNmMzODk4ODkyYTM4ZGZkZmUyYWM0YmYifX19",
       "name": "Titanium",
-      "glowing": true,
       "tier": "RARE",
       "npc_sell_price": 20,
       "description": "%%gray%%%%italic%%Its strength and resistance to corrosion are the highest of any metallic element.",
@@ -38123,6 +38129,13 @@
       },
       "npc_sell_price": 1,
       "id": "BIGGER_SPRING_BOOTS"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Dwarven Forge",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "FORGE_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",

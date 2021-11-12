@@ -2261,7 +2261,7 @@
           "fetchur-15-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610746359260
+            "completed_at": 1610763489825
           },
           "talk_to_archaeologist": {
             "status": "",
@@ -2376,17 +2376,17 @@
           "fetchur-16-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610814533273
+            "completed_at": 1610784540218
           },
           "fetchur-17-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610880198825
+            "completed_at": 1610863824219
           },
           "fetchur-18-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610987690992
+            "completed_at": 1610959661655
           },
           "fetchur-19-0": {
             "status": "COMPLETE",
@@ -5327,12 +5327,7 @@
       ]
     },
     "community_upgrades": {
-      "currently_upgrading": {
-        "upgrade": "minion_slots",
-        "new_tier": 2,
-        "start_ms": 1605573846381,
-        "who_started": "64edd453088d4cc08ef6143b1b41da98"
-      },
+      "currently_upgrading": null,
       "upgrade_states": [
         {
           "upgrade": "",

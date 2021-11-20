@@ -35510,7 +35510,9 @@
               "timestamp": 0
             }
           ],
-          "refunded_golden_pickaxe": true
+          "refunded_golden_pickaxe": true,
+          "disable_spawn_items": true,
+          "selected_megastreak_except_uber": ""
         },
         "pit_stats_ptl": {
           "deaths": 0,

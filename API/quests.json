@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1636508240419,
+  "lastUpdated": 1638286524621,
   "quests": {
     "quake": [
       {
@@ -2973,6 +2973,37 @@
           }
         ],
         "description": "Win 10 dream games in Bed Wars"
+      },
+      {
+        "id": "bedwars_weekly_challenges",
+        "name": "Weekly Quest: Challenger",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 5000
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 2500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 2500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_weekly_challenge_played",
+            "type": "IntegerObjective",
+            "integer": 10
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Play 10 games with Bed Wars Challenges active"
       }
     ],
     "murdermystery": [

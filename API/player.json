@@ -251,7 +251,8 @@
       "arcade_party_super_star": 0,
       "arcade_dw_dragonborn": 0,
       "duels_duels_mastery": 0,
-      "duels_arena_mastery": 0
+      "duels_arena_mastery": 0,
+      "christmas2017_advent_2021": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -42304,7 +42305,23 @@
       "SUPERSTAR3": true
     },
     "scorpius_bribe_168": 0,
-    "disabledProjectileTrails": true
+    "disabledProjectileTrails": true,
+    "seasonal": {
+      "christmas": {
+        "2021": {
+          "adventRewards": {
+            "day1": 0
+          },
+          "presents": {
+            "SKYWARS_1": true,
+            "SKYWARS_2": true,
+            "MAIN_LOBBY_1": true,
+            "MAIN_LOBBY_33": true,
+            "BLITZ_1": true
+          }
+        }
+      }
+    }
   },
   "cause": "",
   "throttle": true

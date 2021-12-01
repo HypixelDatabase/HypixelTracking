@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1636399694000,
+  "lastUpdated": 1638378603000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -6341,6 +6341,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNDI5YzYwOTMyZWJjMzY2ZTc5MWE0MmUxODZhZjg4OGRlMDhlNWQ4ZWI4YWM2ZjViNmY0ZDQ0MGRiNDg2YyJ9fX0=",
+      "name": "Ice Fireplace",
+      "furniture": "ICE_FIREPLACE",
+      "tier": "EPIC",
+      "id": "ICE_FIREPLACE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNTExNjEyMywKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OWM3NjIyODI2YTc4ZjkxMzFjYjE4NjU2YjliZGMzM2YzYjBjYTU5ZmI3M2M4OGU0ZWEzNzRkZDBlMDM3MmQzIgogICAgfQogIH0KfQ",
       "name": "Crimson Skin",
       "category": "COSMETIC",
@@ -10989,6 +10998,15 @@
       "category": "PET_ITEM",
       "tier": "UNCOMMON",
       "id": "PET_ITEM_FORAGING_SKILL_BOOST_UNCOMMON"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNDI5YzYwOTMyZWJjMzY2ZTc5MWE0MmUxODZhZjg4OGRlMDhlNWQ4ZWI4YWM2ZjViNmY0ZDQ0MGRiNDg2YyJ9fX0=",
+      "name": "Ice Knight Statue",
+      "furniture": "ICE_KNIGHT_STATUE",
+      "tier": "EPIC",
+      "id": "ICE_KNIGHT_STATUE"
     },
     {
       "material": "GHAST_TEAR",
@@ -23410,6 +23428,15 @@
       "id": "SILENCE_BLOCK"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODEyMjczMzU3NiwKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyZGMzZDJmMGQ1N2RiMzlkMGQwNDUzZTJiMGRlZjkxZGFhZTE1ZWVlMzE4Y2ZhZThjMDg2NjMzMTQzMGQxMTQiCiAgICB9CiAgfQp9",
+      "name": "Festive Jerry Minion Skin",
+      "category": "COSMETIC",
+      "museum": true,
+      "id": "FESTIVE_JERRY_PERSONALITY"
+    },
+    {
       "material": "DIAMOND_BARDING",
       "name": "Diamante's Handle",
       "tier": "EPIC",
@@ -23865,7 +23892,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg0ZDJmZjFlMTc3MzU3NTc0ZjlmNzFlMTkzOTdmZmYzYTIxMGE5NGU3OGMwZDJhNDM2MGNjNWRmMWViODA3YiJ9fX0K",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNzE4NDkwNDc0OSwKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzUzMjY0NjRjNmE3OTM2MjczMGQ3OWZlNDYxMWI5MTEzNTNjMWIzYzUxNDQxNzc3NzM1OTEzNTdmMWNkNWNhMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Large Enchanted Foraging Sack",
       "tier": "EPIC",
       "unstackable": true,
@@ -29834,6 +29861,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNDI5YzYwOTMyZWJjMzY2ZTc5MWE0MmUxODZhZjg4OGRlMDhlNWQ4ZWI4YWM2ZjViNmY0ZDQ0MGRiNDg2YyJ9fX0=",
+      "name": "Ice Chair",
+      "furniture": "ICE_CHAIR",
+      "tier": "RARE",
+      "id": "ICE_CHAIR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MTgwOTE5NjUsInByb2ZpbGVJZCI6IjZlZDg3NmUzZjg4MTRmYzhhMTNlMDU0MDU1ODFjNDZiIiwicHJvZmlsZU5hbWUiOiJBenVyZUJsdWUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyMDhmYmQ2NGU5N2M2ZTAwODUzZDM2YjNhMjAxZTQ4MDNjYWU0M2RjYmQ2OTM2YTNjZWNlMDUwOTEyZTFmMjAifX19",
       "name": "Blaze Minion I",
       "generator": "BLAZE",
@@ -34142,6 +34178,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODEyMzAxNjAxMSwKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWNjYjQxNWY4N2ExNzMyMjFkMWE5OWVlNzhkMTlmYjk4YzEyNmUyM2EwNjc3ZGQwZWUxNzgwM2QxN2JhNGI1YyIKICAgIH0KICB9Cn0=",
+      "name": "Festive Zombie Minion Skin",
+      "category": "COSMETIC",
+      "museum": true,
+      "id": "FESTIVE_ZOMBIE_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhhMDY1NTg4YzdkYmYxMjk0NTk1YWJhNzc3OTFjM2FkNjVmMTliZjFjOWFkN2E1YzIzZGE0MGI4Mjg2MGI3In19fQ==",
       "name": "Wishing Compass",
       "tier": "UNCOMMON",
@@ -34744,6 +34789,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwODEzODUwNzU3OSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZWM3NmZmZTJjZGRlMGEwY2UyZWI4NjEyMTg3OTZlOTIwYTIzYjEzNmNmMjkzZmIyZWM4YTljMjY1MGQ1ZjBlIgogICAgfQogIH0KfQ==",
+      "name": "Festive Skeleton Minion Skin",
+      "category": "COSMETIC",
+      "museum": true,
+      "id": "FESTIVE_SKELETON_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUxMzkxMzBkN2VmZDQxZmJhZDUzNzM1ZjY0ZjhhZmYyNjViZDdjNTQ5NzcxODljMDJiYWJiZWM0YjBkMDdiIn19fQ==",
       "name": "Witch's Broomstick",
       "furniture": "WITCH_BROOMSTICK",
@@ -35234,6 +35288,15 @@
       "generator_tier": 4,
       "tier": "RARE",
       "id": "CAVESPIDER_GENERATOR_4"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNDI5YzYwOTMyZWJjMzY2ZTc5MWE0MmUxODZhZjg4OGRlMDhlNWQ4ZWI4YWM2ZjViNmY0ZDQ0MGRiNDg2YyJ9fX0=",
+      "name": "Ice Dinner Table",
+      "furniture": "ICE_DINNER_TABLE",
+      "tier": "EPIC",
+      "id": "ICE_DINNER_TABLE"
     },
     {
       "material": "NETHER_STAR",
@@ -39707,6 +39770,15 @@
       "id": "MOIL_LOG"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNDI5YzYwOTMyZWJjMzY2ZTc5MWE0MmUxODZhZjg4OGRlMDhlNWQ4ZWI4YWM2ZjViNmY0ZDQ0MGRiNDg2YyJ9fX0=",
+      "name": "Ice Sofa",
+      "furniture": "ICE_SOFA",
+      "tier": "RARE",
+      "id": "ICE_SOFA"
+    },
+    {
       "material": "IRON_HOE",
       "name": "Newton Nether Warts Hoe",
       "category": "HOE",
@@ -40844,6 +40916,15 @@
       "generator_tier": 2,
       "tier": "RARE",
       "id": "COW_GENERATOR_2"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1ZGU1OTNiNjdmZTllNzUxZmRhNTk4M2EzMWI4MjdiNDNlYWNkZTQzZDU1YTVhYzUxNGU4OGVkYjY0In19fQ==",
+      "name": "Happy Snowman",
+      "furniture": "HAPPY_SNOWMAN",
+      "tier": "RARE",
+      "id": "HAPPY_SNOWMAN"
     },
     {
       "material": "NETHER_BRICK_ITEM",

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1638378603000,
+  "lastUpdated": 1638482954000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -4628,6 +4628,17 @@
       },
       "dungeon_item": true,
       "id": "SKELETON_MASTER_LEGGINGS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Golden Dante Statue",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQ4NTk1NTUwNSwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ODZhNGMxOTRhODFmMWQ5NTc5ZjBhYTBmZjU5ZjQ1ZDlmMjU5YzRiNTA2NzRkNjc2ZmQ0ZjM0ZWFjMTBiZTIiCiAgICB9CiAgfQp9",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "museum": true,
+      "id": "GOLDEN_DANTE_STATUE"
     },
     {
       "material": "SKULL_ITEM",
@@ -12216,6 +12227,17 @@
       "id": "TANK_WITHER_LEGGINGS"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNTk0NGI3NDY1ZmY0NTg2YTM0MWY4ODFmNDg4YjZmOWQ0YjNmZmMxMDBmNTBhNzcwODcwNzViM2NlYjFiIn19fQ==",
+      "name": "Bingo Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "soulbound": "COOP",
+      "museum": true,
+      "id": "BINGO_TALISMAN"
+    },
+    {
       "material": "LEATHER_BOOTS",
       "item_durability": -1,
       "color": "0,0,0",
@@ -13288,6 +13310,17 @@
         }
       },
       "id": "POCKET_ESPRESSO_MACHINE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmMjQ5OWFiNGNmYzk3ZTY1ZjBmYTlmZTYzY2M2MDY3MDdhNGFlOTZhZjQwNzg0NmIxYjUzNTRmM2ZhZDk5In19fQ==",
+      "name": "Bingo Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "soulbound": "COOP",
+      "museum": true,
+      "id": "BINGO_RING"
     },
     {
       "material": "SKULL_ITEM",
@@ -18924,6 +18957,16 @@
       "id": "SOLVED_PRISM"
     },
     {
+      "material": "COAL_BLOCK",
+      "name": "Bingo Display",
+      "category": "COSMETIC",
+      "tier": "COMMON",
+      "unstackable": true,
+      "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
+      "museum": true,
+      "id": "BINGO_DISPLAY"
+    },
+    {
       "material": "WEB",
       "name": "Web",
       "tier": "UNCOMMON",
@@ -22151,6 +22194,18 @@
       },
       "npc_sell_price": 12,
       "id": "LEATHER_CHESTPLATE"
+    },
+    {
+      "material": "CHAINMAIL_BOOTS",
+      "name": "Spring Boots",
+      "category": "BOOTS",
+      "tier": "RARE",
+      "enchantments": {
+        "feather_falling": 20
+      },
+      "unstackable": true,
+      "museum": true,
+      "id": "SPRING_BOOTS"
     },
     {
       "material": "WOOD_HOE",
@@ -27795,6 +27850,17 @@
       "id": "GLOWSTONE_GENERATOR_11"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Ditto Skull",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "museum": true,
+      "id": "DITTO_SKULL"
+    },
+    {
       "material": "IRON_BOOTS",
       "name": "Spider's Boots",
       "category": "BOOTS",
@@ -28209,6 +28275,16 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_SHEEP_PURPLE"
+    },
+    {
+      "material": "BOOK",
+      "name": "Book of Stats",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "description": "%%gray%%Combine with any weapon in an Anvil to start tracking its kills.",
+      "museum": true,
+      "id": "BOOK_OF_STATS"
     },
     {
       "material": "SKULL_ITEM",
@@ -28848,6 +28924,17 @@
       },
       "npc_sell_price": 12,
       "id": "DIAMOND_PICKAXE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Bonzo Statue",
+      "skin": "ewogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I1MzQxNjhjNTI2MThlNDc3MDE1ZGY3ZWVkNzlkMmQ1ZmU0ZDdmNzJmMDBkNGI3MTM2ZmNmYjkyNjFmNDAyYyIKICAgIH0KICB9Cn0=",
+      "category": "COSMETIC",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "museum": true,
+      "id": "BONZO_STATUE"
     },
     {
       "material": "SKULL_ITEM",
@@ -35036,6 +35123,16 @@
       "name": "§fChunk of the Moon",
       "tier": "RARE",
       "id": "MOON_CHUNK"
+    },
+    {
+      "material": "HAY_BLOCK",
+      "name": "Collection Display",
+      "category": "COSMETIC",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "description": "%%gray%%Show off your collection progress!",
+      "museum": true,
+      "id": "COLLECTION_DISPLAY"
     },
     {
       "material": "SKULL_ITEM",

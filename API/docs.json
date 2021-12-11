@@ -1246,6 +1246,74 @@
         }
       }
     },
+    "/resources/vanity/pets": {
+      "get": {
+        "summary": "Vanity Pets",
+        "tags": [
+          "Resources"
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "lastUpdated": {
+                      "type": "number"
+                    },
+                    "types": {
+                      "type": "object"
+                    },
+                    "rarities": {
+                      "type": "object"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/resources/vanity/companions": {
+      "get": {
+        "summary": "Vanity Companions",
+        "tags": [
+          "Resources"
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "lastUpdated": {
+                      "type": "number"
+                    },
+                    "types": {
+                      "type": "object"
+                    },
+                    "rarities": {
+                      "type": "object"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/resources/skyblock/collections": {
       "get": {
         "summary": "Information regarding collections in SkyBlock",

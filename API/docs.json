@@ -1214,7 +1214,7 @@
     },
     "/resources/guilds/achievements": {
       "get": {
-        "summary": "Achievements",
+        "summary": "Guild Achievements",
         "tags": [
           "Resources"
         ],
@@ -1246,40 +1246,9 @@
         }
       }
     },
-    "/resources/guilds/permissions": {
-      "get": {
-        "summary": "Permissions",
-        "tags": [
-          "Resources"
-        ],
-        "responses": {
-          "200": {
-            "description": "A successful response",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "success": {
-                      "type": "boolean"
-                    },
-                    "lastUpdated": {
-                      "type": "number"
-                    },
-                    "permissions": {
-                      "type": "object"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/resources/skyblock/collections": {
       "get": {
-        "summary": "Collections in SkyBlock",
+        "summary": "Information regarding collections in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1314,7 +1283,7 @@
     },
     "/resources/skyblock/skills": {
       "get": {
-        "summary": "Skills in SkyBlock",
+        "summary": "Information regarding skills in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1349,7 +1318,7 @@
     },
     "/resources/skyblock/items": {
       "get": {
-        "summary": "Items in SkyBlock",
+        "summary": "Information regarding items in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1383,7 +1352,7 @@
     },
     "/skyblock/news": {
       "get": {
-        "summary": "In-Game SkyBlock News",
+        "summary": "News",
         "tags": [
           "SkyBlock"
         ],

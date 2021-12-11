@@ -1,0 +1,834 @@
+{
+  "success": true,
+  "lastUpdated": 1639227729535,
+  "types": [
+    {
+      "key": "CAT_BLACK",
+      "name": "Cat: Black",
+      "rarity": "COMMON",
+      "package": "pet_cat_black"
+    },
+    {
+      "key": "CAT_RED",
+      "name": "Cat: Red",
+      "rarity": "COMMON",
+      "package": "pet_cat_red"
+    },
+    {
+      "key": "CAT_SIAMESE",
+      "name": "Cat: Siamese",
+      "rarity": "COMMON",
+      "package": "pet_cat_siamese"
+    },
+    {
+      "key": "SILVERFISH",
+      "name": "Silverfish",
+      "rarity": "COMMON",
+      "package": "pet_silverfish"
+    },
+    {
+      "key": "ZOMBIE",
+      "name": "Zombie",
+      "rarity": "COMMON",
+      "package": "pet_zombie"
+    },
+    {
+      "key": "PIG",
+      "name": "Pig",
+      "rarity": "COMMON",
+      "package": "pet_pig"
+    },
+    {
+      "key": "COW",
+      "name": "Cow",
+      "rarity": "COMMON",
+      "package": "pet_cow"
+    },
+    {
+      "key": "WOLF",
+      "name": "Wolf",
+      "rarity": "COMMON",
+      "package": "pet_wolf"
+    },
+    {
+      "key": "CHICKEN",
+      "name": "Chicken",
+      "rarity": "COMMON",
+      "package": "pet_chicken"
+    },
+    {
+      "key": "HORSE_BROWN",
+      "name": "Horse: Brown",
+      "rarity": "COMMON",
+      "package": "pet_horse_brown"
+    },
+    {
+      "key": "SHEEP_WHITE",
+      "name": "Sheep: White",
+      "rarity": "COMMON",
+      "package": "pet_sheep_white"
+    },
+    {
+      "key": "SHEEP_GRAY",
+      "name": "Sheep: Gray",
+      "rarity": "COMMON",
+      "package": "pet_sheep_gray"
+    },
+    {
+      "key": "SHEEP_BROWN",
+      "name": "Sheep: Brown",
+      "rarity": "COMMON",
+      "package": "pet_sheep_brown"
+    },
+    {
+      "key": "SHEEP_SILVER",
+      "name": "Sheep: Silver",
+      "rarity": "COMMON",
+      "package": "pet_sheep_silver"
+    },
+    {
+      "key": "HORSE_CREAMY",
+      "name": "Horse: Creamy",
+      "rarity": "RARE",
+      "package": "pet_horse_creamy"
+    },
+    {
+      "key": "HORSE_CHESTNUT",
+      "name": "Horse: Chestnut",
+      "rarity": "RARE",
+      "package": "pet_horse_chestnut"
+    },
+    {
+      "key": "HORSE_DARK_BROWN",
+      "name": "Horse: Dark Brown",
+      "rarity": "RARE",
+      "package": "pet_horse_dark_brown"
+    },
+    {
+      "key": "HORSE_GREY",
+      "name": "Horse: Gray",
+      "rarity": "RARE",
+      "package": "pet_horse_grey"
+    },
+    {
+      "key": "DONKEY",
+      "name": "Donkey",
+      "rarity": "RARE",
+      "package": "pet_donkey"
+    },
+    {
+      "key": "MULE",
+      "name": "Mule",
+      "rarity": "RARE",
+      "package": "pet_mule"
+    },
+    {
+      "key": "VILLAGER_FARMER",
+      "name": "Villager: Farmer",
+      "rarity": "RARE",
+      "package": "pet_villager_farmer"
+    },
+    {
+      "key": "VILLAGER_LIBRARIAN",
+      "name": "Villager: Librarian",
+      "rarity": "RARE",
+      "package": "pet_villager_librarian"
+    },
+    {
+      "key": "VILLAGER_PRIEST",
+      "name": "Villager: Priest",
+      "rarity": "RARE",
+      "package": "pet_villager_priest"
+    },
+    {
+      "key": "VILLAGER_BLACKSMITH",
+      "name": "Villager: Blacksmith",
+      "rarity": "RARE",
+      "package": "pet_villager_blacksmith"
+    },
+    {
+      "key": "VILLAGER_BUTCHER",
+      "name": "Villager: Butcher",
+      "rarity": "RARE",
+      "package": "pet_villager_butcher"
+    },
+    {
+      "key": "SHEEP_ORANGE",
+      "name": "Sheep: Orange",
+      "rarity": "RARE",
+      "package": "pet_sheep_orange"
+    },
+    {
+      "key": "SHEEP_MAGENTA",
+      "name": "Sheep: Magenta",
+      "rarity": "RARE",
+      "package": "pet_sheep_magenta"
+    },
+    {
+      "key": "SHEEP_LIGHT_BLUE",
+      "name": "Sheep: Light Blue",
+      "rarity": "RARE",
+      "package": "pet_sheep_light_blue"
+    },
+    {
+      "key": "SHEEP_YELLOW",
+      "name": "Sheep: Yellow",
+      "rarity": "RARE",
+      "package": "pet_sheep_yellow"
+    },
+    {
+      "key": "SHEEP_LIME",
+      "name": "Sheep: Lime",
+      "rarity": "RARE",
+      "package": "pet_sheep_lime"
+    },
+    {
+      "key": "SHEEP_CYAN",
+      "name": "Sheep: Cyan",
+      "rarity": "RARE",
+      "package": "pet_sheep_cyan"
+    },
+    {
+      "key": "SHEEP_PURPLE",
+      "name": "Sheep: Purple",
+      "rarity": "RARE",
+      "package": "pet_sheep_purple"
+    },
+    {
+      "key": "SHEEP_BLUE",
+      "name": "Sheep: Blue",
+      "rarity": "RARE",
+      "package": "pet_sheep_blue"
+    },
+    {
+      "key": "SHEEP_GREEN",
+      "name": "Sheep: Green",
+      "rarity": "RARE",
+      "package": "pet_sheep_green"
+    },
+    {
+      "key": "SHEEP_RED",
+      "name": "Sheep: Red",
+      "rarity": "RARE",
+      "package": "pet_sheep_red"
+    },
+    {
+      "key": "CAVE_SPIDER",
+      "name": "Cave Spider",
+      "rarity": "RARE",
+      "package": "pet_cave_spider"
+    },
+    {
+      "key": "SLIME_TINY",
+      "name": "Slime (Tiny)",
+      "rarity": "RARE",
+      "package": "pet_slime_tiny"
+    },
+    {
+      "key": "MAGMA_CUBE_TINY",
+      "name": "Magma Cube (Tiny)",
+      "rarity": "EPIC",
+      "package": "pet_magma_cube_tiny"
+    },
+    {
+      "key": "ZOMBIE_BABY",
+      "name": "Zombie (Baby)",
+      "rarity": "RARE",
+      "package": "pet_zombie_baby"
+    },
+    {
+      "key": "PIG_BABY",
+      "name": "Pig (Baby)",
+      "rarity": "RARE",
+      "package": "pet_pig_baby"
+    },
+    {
+      "key": "COW_BABY",
+      "name": "Cow (Baby)",
+      "rarity": "RARE",
+      "package": "pet_cow_baby"
+    },
+    {
+      "key": "WOLF_BABY",
+      "name": "Wolf (Baby)",
+      "rarity": "RARE",
+      "package": "pet_wolf_baby"
+    },
+    {
+      "key": "CHICKEN_BABY",
+      "name": "Chicken (Baby)",
+      "rarity": "RARE",
+      "package": "pet_chicken_baby"
+    },
+    {
+      "key": "CAT_BLACK_BABY",
+      "name": "Cat: Black (Baby)",
+      "rarity": "RARE",
+      "package": "pet_cat_black_baby"
+    },
+    {
+      "key": "CAT_RED_BABY",
+      "name": "Cat: Red (Baby)",
+      "rarity": "RARE",
+      "package": "pet_cat_red_baby"
+    },
+    {
+      "key": "CAT_SIAMESE_BABY",
+      "name": "Cat: Siamese (Baby)",
+      "rarity": "RARE",
+      "package": "pet_cat_siamese_baby"
+    },
+    {
+      "key": "BROWN_HORSE_BABY",
+      "name": "Horse: Brown (Baby)",
+      "rarity": "RARE",
+      "package": "pet_brown_horse_baby"
+    },
+    {
+      "key": "SHEEP_WHITE_BABY",
+      "name": "Sheep: White (Baby)",
+      "rarity": "RARE",
+      "package": "pet_sheep_white_baby"
+    },
+    {
+      "key": "SHEEP_GRAY_BABY",
+      "name": "Sheep: Gray (Baby)",
+      "rarity": "RARE",
+      "package": "pet_sheep_gray_baby"
+    },
+    {
+      "key": "SHEEP_BROWN_BABY",
+      "name": "Sheep: Brown (Baby)",
+      "rarity": "RARE",
+      "package": "pet_sheep_brown_baby"
+    },
+    {
+      "key": "SHEEP_SILVER_BABY",
+      "name": "Sheep: Silver (Baby)",
+      "rarity": "RARE",
+      "package": "pet_sheep_silver_baby"
+    },
+    {
+      "key": "SPIDER",
+      "name": "Spider",
+      "rarity": "EPIC",
+      "package": "pet_spider"
+    },
+    {
+      "key": "SKELETON",
+      "name": "Skeleton",
+      "rarity": "EPIC",
+      "package": "pet_skeleton"
+    },
+    {
+      "key": "HORSE_WHITE",
+      "name": "Horse: White",
+      "rarity": "EPIC",
+      "package": "pet_horse_white"
+    },
+    {
+      "key": "HORSE_BLACK",
+      "name": "Horse: Black",
+      "rarity": "EPIC",
+      "package": "pet_horse_black"
+    },
+    {
+      "key": "HORSE_UNDEAD",
+      "name": "Undead Horse",
+      "rarity": "EPIC",
+      "package": "pet_horse_undead"
+    },
+    {
+      "key": "ZOMBIE_VILLAGER",
+      "name": "Villager: Zombie",
+      "rarity": "EPIC",
+      "package": "pet_zombie_villager"
+    },
+    {
+      "key": "PIG_ZOMBIE",
+      "name": "Pig Zombie",
+      "rarity": "EPIC",
+      "package": "pet_pig_zombie"
+    },
+    {
+      "key": "SHEEP_BLACK",
+      "name": "Sheep: Black",
+      "rarity": "EPIC",
+      "package": "pet_sheep_black"
+    },
+    {
+      "key": "SHEEP_PINK",
+      "name": "Sheep: Pink",
+      "rarity": "EPIC",
+      "package": "pet_sheep_pink"
+    },
+    {
+      "key": "BAT",
+      "name": "Bat",
+      "rarity": "EPIC",
+      "package": "pet_bat"
+    },
+    {
+      "key": "SLIME_SMALL",
+      "name": "Slime (Small)",
+      "rarity": "EPIC",
+      "package": "pet_slime_small"
+    },
+    {
+      "key": "MAGMA_CUBE_SMALL",
+      "name": "Magma Cube (Small)",
+      "rarity": "EPIC",
+      "package": "pet_magma_cube_small"
+    },
+    {
+      "key": "MOOSHROOM",
+      "name": "Mooshroom",
+      "rarity": "EPIC",
+      "package": "pet_mooshroom"
+    },
+    {
+      "key": "CREEPER",
+      "name": "Creeper",
+      "rarity": "EPIC",
+      "package": "pet_creeper"
+    },
+    {
+      "key": "HORSE_CREAMY_BABY",
+      "name": "Horse: Creamy (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_horse_creamy_baby"
+    },
+    {
+      "key": "HORSE_CHESTNUT_BABY",
+      "name": "Horse: Chestnut (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_horse_chestnut_baby"
+    },
+    {
+      "key": "HORSE_DARK_BROWN_BABY",
+      "name": "Horse: Dark Brown (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_horse_dark_brown_baby"
+    },
+    {
+      "key": "HORSE_GRAY_BABY",
+      "name": "Horse: Gray (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_horse_gray_baby"
+    },
+    {
+      "key": "VILLAGER_FARMER_BABY",
+      "name": "Villager: Farmer (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_villager_farmer_baby"
+    },
+    {
+      "key": "VILLAGER_LIBRARIAN_BABY",
+      "name": "Villager: Librarian (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_villager_librarian_baby"
+    },
+    {
+      "key": "VILLAGER_PRIEST_BABY",
+      "name": "Villager: Priest (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_villager_priest_baby"
+    },
+    {
+      "key": "VILLAGER_BLACKSMITH_BABY",
+      "name": "Villager: Blacksmith (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_villager_blacksmith_baby"
+    },
+    {
+      "key": "VILLAGER_BUTCHER_BABY",
+      "name": "Villager: Butcher (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_villager_butcher_baby"
+    },
+    {
+      "key": "SHEEP_ORANGE_BABY",
+      "name": "Sheep: Orange (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_orange_baby"
+    },
+    {
+      "key": "SHEEP_MAGENTA_BABY",
+      "name": "Sheep: Magenta (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_magenta_baby"
+    },
+    {
+      "key": "SHEEP_LIGHT_BLUE_BABY",
+      "name": "Sheep: Light Blue (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_light_blue_baby"
+    },
+    {
+      "key": "SHEEP_YELLOW_BABY",
+      "name": "Sheep: Yellow (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_yellow_baby"
+    },
+    {
+      "key": "SHEEP_LIME_BABY",
+      "name": "Sheep: Lime (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_lime_baby"
+    },
+    {
+      "key": "SHEEP_CYAN_BABY",
+      "name": "Sheep: Cyan (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_cyan_baby"
+    },
+    {
+      "key": "SHEEP_PURPLE_BABY",
+      "name": "Sheep: Purple (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_purple_baby"
+    },
+    {
+      "key": "SHEEP_BLUE_BABY",
+      "name": "Sheep: Blue (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_blue_baby"
+    },
+    {
+      "key": "SHEEP_GREEN_BABY",
+      "name": "Sheep: Green (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_green_baby"
+    },
+    {
+      "key": "SHEEP_RED_BABY",
+      "name": "Sheep: Red (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_sheep_red_baby"
+    },
+    {
+      "key": "SHEEP_RAINBOW",
+      "name": "Sheep: Rainbow",
+      "rarity": "LEGENDARY",
+      "package": "pet_sheep_rainbow"
+    },
+    {
+      "key": "BOUNCY_SPIDER",
+      "name": "Bouncy Spider",
+      "rarity": "LEGENDARY",
+      "package": "pet_bouncy_spider"
+    },
+    {
+      "key": "IRON_GOLEM",
+      "name": "Golem",
+      "rarity": "LEGENDARY",
+      "package": "pet_iron_golem"
+    },
+    {
+      "key": "ENDERMAN",
+      "name": "Enderman",
+      "rarity": "LEGENDARY",
+      "package": "pet_enderman"
+    },
+    {
+      "key": "MOOSHROOM_BABY",
+      "name": "Mooshroom (Baby)",
+      "rarity": "LEGENDARY",
+      "package": "pet_mooshroom_baby"
+    },
+    {
+      "key": "PIG_ZOMBIE_BABY",
+      "name": "Pig Zombie (Baby)",
+      "rarity": "LEGENDARY",
+      "package": "pet_pig_zombie_baby"
+    },
+    {
+      "key": "SHEEP_PINK_BABY",
+      "name": "Sheep: Pink (Baby)",
+      "rarity": "LEGENDARY",
+      "package": "pet_sheep_pink_baby"
+    },
+    {
+      "key": "SHEEP_BLACK_BABY",
+      "name": "Sheep: Black (Baby)",
+      "rarity": "LEGENDARY",
+      "package": "pet_sheep_black_baby"
+    },
+    {
+      "key": "BLAZE",
+      "name": "Blaze",
+      "rarity": "LEGENDARY",
+      "package": "pet_blaze"
+    },
+    {
+      "key": "WITCH",
+      "name": "Witch",
+      "rarity": "EPIC",
+      "package": "pet_witch"
+    },
+    {
+      "key": "HORSE_SKELETON",
+      "name": "Skeleton Horse",
+      "rarity": "LEGENDARY",
+      "package": "pet_horse_skeleton"
+    },
+    {
+      "key": "SNOWMAN",
+      "name": "Snowman",
+      "rarity": "LEGENDARY",
+      "package": "pet_snowman"
+    },
+    {
+      "key": "SLIME_BIG",
+      "name": "Slime (Big)",
+      "rarity": "LEGENDARY",
+      "package": "pet_slime_big"
+    },
+    {
+      "key": "MAGMA_CUBE_BIG",
+      "name": "Magma Cube (Big)",
+      "rarity": "LEGENDARY",
+      "package": "pet_magma_cube_big"
+    },
+    {
+      "key": "WITHER_SKELETON",
+      "name": "Wither Skeleton",
+      "rarity": "LEGENDARY",
+      "package": "pet_wither_skeleton"
+    },
+    {
+      "key": "GREEN_HELPER",
+      "name": "Green Little Helper",
+      "rarity": "EPIC",
+      "package": "pet_green_helper"
+    },
+    {
+      "key": "RED_HELPER",
+      "name": "Red Little Helper",
+      "rarity": "EPIC",
+      "package": "pet_red_helper"
+    },
+    {
+      "key": "WILD_OCELOT",
+      "name": "Wild Ocelot",
+      "rarity": null,
+      "package": "pet_wild_ocelot"
+    },
+    {
+      "key": "WILD_OCELOT_BABY",
+      "name": "Wild Ocelot (Baby)",
+      "rarity": null,
+      "package": "pet_wild_ocelot_baby"
+    },
+    {
+      "key": "SQUID",
+      "name": "Squid",
+      "rarity": null,
+      "package": "pet_squid"
+    },
+    {
+      "key": "BROWN_RABBIT",
+      "name": "Rabbit: Brown",
+      "rarity": "RARE",
+      "package": "pet_brown_rabbit"
+    },
+    {
+      "key": "WHITE_RABBIT",
+      "name": "Rabbit: White",
+      "rarity": "RARE",
+      "package": "pet_white_rabbit"
+    },
+    {
+      "key": "BLACK_RABBIT",
+      "name": "Rabbit: Black",
+      "rarity": "RARE",
+      "package": "pet_black_rabbit"
+    },
+    {
+      "key": "BLACK_WHITE_RABBIT",
+      "name": "Rabbit: Black & White",
+      "rarity": "EPIC",
+      "package": "pet_black_white_rabbit"
+    },
+    {
+      "key": "GOLD_RABBIT",
+      "name": "Rabbit: Gold",
+      "rarity": "EPIC",
+      "package": "pet_gold_rabbit"
+    },
+    {
+      "key": "SALT_PEPPER_RABBIT",
+      "name": "Rabbit: Salt & Pepper",
+      "rarity": "EPIC",
+      "package": "pet_salt_pepper_rabbit"
+    },
+    {
+      "key": "HEROBRINE",
+      "name": "Herobrine",
+      "rarity": "LEGENDARY",
+      "package": "pet_herobrine"
+    },
+    {
+      "key": "CREEPER_POWERED",
+      "name": "Powered Creeper",
+      "rarity": "LEGENDARY",
+      "package": "pet_creeper_powered"
+    },
+    {
+      "key": "ENDERMITE",
+      "name": "Endermite",
+      "rarity": "LEGENDARY",
+      "package": "pet_endermite"
+    },
+    {
+      "key": "MINI_WITHER",
+      "name": "Mini Wither",
+      "rarity": "LEGENDARY",
+      "package": "pet_mini_wither"
+    },
+    {
+      "key": "KILLER_RABBIT",
+      "name": "Killer Rabbit",
+      "rarity": "EPIC",
+      "package": "pet_killer_rabbit"
+    },
+    {
+      "key": "GUARDIAN",
+      "name": "Guardian",
+      "rarity": "RARE",
+      "package": "pet_guardian"
+    },
+    {
+      "key": "ELDER_GUARDIAN",
+      "name": "Elder Guardian",
+      "rarity": "LEGENDARY",
+      "package": "pet_elder_guardian"
+    },
+    {
+      "key": "FROZEN_ZOMBIE",
+      "name": "Frozen Zombie",
+      "rarity": "EPIC",
+      "package": "pet_frozen_zombie"
+    },
+    {
+      "key": "FROZEN_SKELETON",
+      "name": "Frozen Skeleton",
+      "rarity": "EPIC",
+      "package": "pet_frozen_skeleton"
+    },
+    {
+      "key": "CLONE",
+      "name": "Clone",
+      "rarity": "LEGENDARY",
+      "package": "pet_clone"
+    },
+    {
+      "key": "MINECART",
+      "name": "Minecart",
+      "rarity": "LEGENDARY",
+      "package": "pet_minecart"
+    },
+    {
+      "key": "TNT",
+      "name": "TNT",
+      "rarity": "LEGENDARY",
+      "package": "pet_tnt"
+    },
+    {
+      "key": "GROWING_ZOMBIE",
+      "name": "Growing Zombie",
+      "rarity": "EPIC",
+      "package": "pet_growing_zombie"
+    },
+    {
+      "key": "FLYING_SQUID",
+      "name": "Flying Squid",
+      "rarity": "LEGENDARY",
+      "package": "pet_flying_squid"
+    },
+    {
+      "key": "BOUNCY_SHEEP",
+      "name": "Bouncy Sheep",
+      "rarity": "EPIC",
+      "package": "pet_bouncy_sheep"
+    },
+    {
+      "key": "BURNING_ZOMBIE",
+      "name": "Burning Zombie",
+      "rarity": "EPIC",
+      "package": "pet_burning_zombie"
+    },
+    {
+      "key": "SMOLDERING_SKELETON",
+      "name": "Smoldering Skeleton",
+      "rarity": "EPIC",
+      "package": "pet_smoldering_skeleton"
+    },
+    {
+      "key": "MERRY_SHEEP",
+      "name": "Merry Sheep",
+      "rarity": "EPIC",
+      "package": "pet_merry_sheep"
+    },
+    {
+      "key": "GRINCH",
+      "name": "Grinch",
+      "rarity": "LEGENDARY",
+      "package": "pet_grinch"
+    },
+    {
+      "key": "BEE",
+      "name": "Bee",
+      "rarity": "LEGENDARY",
+      "package": "pet_bee"
+    },
+    {
+      "key": "FIREFLY",
+      "name": "Firefly",
+      "rarity": "LEGENDARY",
+      "package": "pet_firefly"
+    },
+    {
+      "key": "SPIDER_JOCKEY",
+      "name": "Spider Jockey",
+      "rarity": "EPIC",
+      "package": "pet_spider_jockey"
+    },
+    {
+      "key": "CHICKEN_JOCKEY",
+      "name": "Chicken Jockey",
+      "rarity": "LEGENDARY",
+      "package": "pet_chicken_jockey"
+    },
+    {
+      "key": "CYCLOPS",
+      "name": "Cyclops",
+      "rarity": "LEGENDARY",
+      "package": "pet_cyclops"
+    },
+    {
+      "key": "SNOWMAN_JOCKEY",
+      "name": "Snowman Jockey",
+      "rarity": "LEGENDARY",
+      "package": "pet_snowman_jockey"
+    }
+  ],
+  "rarities": [
+    {
+      "name": "COMMON",
+      "color": "GREEN"
+    },
+    {
+      "name": "RARE",
+      "color": "BLUE"
+    },
+    {
+      "name": "EPIC",
+      "color": "DARK_PURPLE"
+    },
+    {
+      "name": "LEGENDARY",
+      "color": "GOLD"
+    }
+  ]
+}

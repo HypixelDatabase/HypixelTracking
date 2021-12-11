@@ -1,0 +1,156 @@
+{
+  "success": true,
+  "lastUpdated": 1639227729556,
+  "types": [
+    {
+      "key": "PENGUIN",
+      "name": "Penguin",
+      "rarity": null,
+      "package": "pet_penguin"
+    },
+    {
+      "key": "TURTLE",
+      "name": "Turtle",
+      "rarity": null,
+      "package": "pet_turtle"
+    },
+    {
+      "key": "GIFTERINO",
+      "name": "Gifterino",
+      "rarity": "LEGENDARY",
+      "package": "pet_gifterino"
+    },
+    {
+      "key": "BLACK_PUG",
+      "name": "Black Pug",
+      "rarity": null,
+      "package": "pet_black_pug"
+    },
+    {
+      "key": "DUCK",
+      "name": "Duck",
+      "rarity": null,
+      "package": "pet_duck"
+    },
+    {
+      "key": "FROG",
+      "name": "Frog",
+      "rarity": null,
+      "package": "pet_frog"
+    },
+    {
+      "key": "SLOTH",
+      "name": "Sloth",
+      "rarity": null,
+      "package": "pet_sloth"
+    },
+    {
+      "key": "HP8",
+      "name": "HP8",
+      "rarity": null,
+      "package": "pet_hp8"
+    },
+    {
+      "key": "WHITE_PUG",
+      "name": "White Pug",
+      "rarity": null,
+      "package": "pet_white_pug"
+    },
+    {
+      "key": "SHIBE",
+      "name": "Shibe",
+      "rarity": null,
+      "package": "pet_shibe"
+    },
+    {
+      "key": "CHIMP",
+      "name": "Chimp",
+      "rarity": null,
+      "package": "pet_chimp"
+    },
+    {
+      "key": "GORRILA",
+      "name": "Gorilla",
+      "rarity": null,
+      "package": "pet_gorrila"
+    },
+    {
+      "key": "PANDA",
+      "name": "Panda",
+      "rarity": null,
+      "package": "pet_panda"
+    },
+    {
+      "key": "ELEPHANT",
+      "name": "Elephant",
+      "rarity": null,
+      "package": "pet_elephant"
+    },
+    {
+      "key": "JACK_DOG",
+      "name": "Magic Dog",
+      "rarity": null,
+      "package": "pet_jack_dog"
+    },
+    {
+      "key": "TOTEM",
+      "name": "Achievements Totem",
+      "rarity": "LEGENDARY",
+      "package": "pet_totem"
+    },
+    {
+      "key": "HP8_2",
+      "name": "HP9-B",
+      "rarity": null,
+      "package": "pet_hp8_2"
+    },
+    {
+      "key": "LITTLE_YOU",
+      "name": "Little You",
+      "rarity": "LEGENDARY",
+      "package": "pet_little_you"
+    },
+    {
+      "key": "GHOST",
+      "name": "Spooky Ghost",
+      "rarity": "LEGENDARY",
+      "package": "pet_ghost"
+    },
+    {
+      "key": "BUGGY",
+      "name": "Buggy",
+      "rarity": "LEGENDARY",
+      "package": "pet_buggy"
+    },
+    {
+      "key": "JACK_O_LANTERN",
+      "name": "Jack o' Lantern",
+      "rarity": "LEGENDARY",
+      "package": "pet_jack_o_lantern"
+    },
+    {
+      "key": "PRESENT",
+      "name": "Present",
+      "rarity": "LEGENDARY",
+      "package": "pet_present"
+    }
+  ],
+  "rarities": [
+    {
+      "name": "COMMON",
+      "color": "GREEN"
+    },
+    {
+      "name": "RARE",
+      "color": "BLUE"
+    },
+    {
+      "name": "EPIC",
+      "color": "DARK_PURPLE"
+    },
+    {
+      "name": "LEGENDARY",
+      "color": "GOLD"
+    }
+  ]
+}

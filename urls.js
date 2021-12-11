@@ -52,6 +52,14 @@ module.exports = [
     dest: './API/games.json'
   },
   {
+    url: 'https://api.hypixel.net/resources/vanity/pets',
+    dest: './API/pets.json'
+  },
+  {
+    url: 'https://api.hypixel.net/resources/vanity/companions',
+    dest: './API/companions.json'
+  },
+  {
     url: 'https://api.hypixel.net/resources/guilds/achievements',
     dest: './API/guild_achievements.json'
   },

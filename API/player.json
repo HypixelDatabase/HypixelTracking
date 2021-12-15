@@ -4064,7 +4064,11 @@
           "blaze_7",
           "blaze_8",
           "blaze_9",
-          "diver_9"
+          "diver_9",
+          "shark",
+          "switcheroo",
+          "zookeeper",
+          "gladiator"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -6048,7 +6052,8 @@
         "wins_blaze": 0,
         "arrows_hit_blaze": 0,
         "wins_teams_reaper": 0,
-        "wins_teams_astronaut": 0
+        "wins_teams_astronaut": 0,
+        "shark": 0
       },
       "MCGO": {
         "bombs_defused": 0,

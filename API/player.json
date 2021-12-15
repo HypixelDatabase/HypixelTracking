@@ -4068,7 +4068,8 @@
           "shark",
           "switcheroo",
           "zookeeper",
-          "gladiator"
+          "gladiator",
+          "used_kit_milkman"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -6060,7 +6061,18 @@
           "4": "",
           "5": "",
           "20": ""
-        }
+        },
+        "arrows_hit_milkman": 0,
+        "chests_opened_milkman": 0,
+        "damage_milkman": 0,
+        "damage_taken_milkman": 0,
+        "exp_milkman": 0,
+        "games_played_milkman": 0,
+        "kills_milkman": 0,
+        "potions_drunk_milkman": 0,
+        "potions_thrown_milkman": 0,
+        "time_played_milkman": 0,
+        "arrows_fired_milkman": 0
       },
       "MCGO": {
         "bombs_defused": 0,

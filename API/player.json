@@ -4070,7 +4070,11 @@
           "switcheroo",
           "zookeeper",
           "gladiator",
-          "used_kit_milkman"
+          "used_kit_milkman",
+          "warlock_6",
+          "warlock_7",
+          "warlock_8",
+          "warlock_9"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -6074,7 +6078,28 @@
         "potions_thrown_milkman": 0,
         "time_played_milkman": 0,
         "arrows_fired_milkman": 0,
-        "afterkill": ""
+        "afterkill": "",
+        "WarlockInventory": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "6": "",
+          "8": ""
+        },
+        "arrows_fired_warlock": 0,
+        "chests_opened_warlock": 0,
+        "damage_taken_warlock": 0,
+        "damage_warlock": 0,
+        "exp_warlock": 0,
+        "games_played_warlock": 0,
+        "kills_warlock": 0,
+        "potions_drunk_warlock": 0,
+        "potions_thrown_warlock": 0,
+        "taunt_kills_warlock": 0,
+        "time_played_warlock": 0,
+        "wins_warlock": 0
       },
       "MCGO": {
         "bombs_defused": 0,

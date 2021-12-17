@@ -6063,10 +6063,14 @@
         "shark": 0,
         "MilkmanInventory": {
           "0": "",
+          "1": "",
           "3": "",
           "4": "",
           "5": "",
-          "20": ""
+          "6": "",
+          "8": "",
+          "20": "",
+          "27": ""
         },
         "arrows_hit_milkman": 0,
         "chests_opened_milkman": 0,
@@ -6105,7 +6109,10 @@
         "kit_item_rename_Donkeytamer_saddle": "",
         "kit_item_rename_Warlock_stone_sword": "",
         "wins_teams_warlock": 0,
-        "inGamePresentsCap_2021_16": 0
+        "inGamePresentsCap_2021_16": 0,
+        "taunt_kills_milkman": 0,
+        "wins_milkman": 0,
+        "wins_teams_milkman": 0
       },
       "MCGO": {
         "bombs_defused": 0,

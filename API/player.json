@@ -6740,7 +6740,15 @@
         "wins_timeattack": 0,
         "wins_dm_team": 0,
         "lastTourneyAd": 0,
-        "kills_tourney_unknown": 0
+        "kills_tourney_unknown": 0,
+        "wins_tourney_quake_solo2_1": 0,
+        "kills_tourney_quake_solo2_1": 0,
+        "distance_travelled_tourney_quake_solo2_1": 0,
+        "kills_since_update_feb_2017_tourney_quake_solo2_1": 0,
+        "deaths_tourney_quake_solo2_1": 0,
+        "killstreaks_tourney_quake_solo2_1": 0,
+        "headshots_tourney_quake_solo2_1": 0,
+        "shots_fired_tourney_quake_solo2_1": 0
       },
       "TNTGames": {
         "bloodwizard_explode": 0,
@@ -40264,6 +40272,12 @@
         "playtime": 0,
         "first_win": 0,
         "claimed_ranking_reward": 0
+      },
+      "quake_solo2_1": {
+        "games_played": 0,
+        "playtime": 0,
+        "tributes_earned": 0,
+        "first_game": 0
       }
     },
     "currentGadget": "",

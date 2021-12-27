@@ -2266,7 +2266,7 @@
           "fetchur-15-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610746359260
+            "completed_at": 1610767694014
           },
           "talk_to_archaeologist": {
             "status": "",
@@ -2381,27 +2381,27 @@
           "fetchur-16-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610814533273
+            "completed_at": 1610779085400
           },
           "fetchur-17-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610880198825
+            "completed_at": 1610863454057
           },
           "fetchur-18-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1610987690992
+            "completed_at": 1610950841646
           },
           "fetchur-19-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1611076834259
+            "completed_at": 1611045760920
           },
           "fetchur-24-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1611501482235
+            "completed_at": 1611518314916
           },
           "fetchur-25-0": {
             "status": "COMPLETE",
@@ -2411,17 +2411,17 @@
           "fetchur-26-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1611659985359
+            "completed_at": 1611688926785
           },
           "fetchur-27-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1611767674760
+            "completed_at": 1611774739130
           },
           "fetchur-28-0": {
             "status": "COMPLETE",
             "progress": 0,
-            "completed_at": 1611888321542
+            "completed_at": 1611812843474
           },
           "fetchur-29-0": {
             "status": "COMPLETE",
@@ -5343,12 +5343,7 @@
       ]
     },
     "community_upgrades": {
-      "currently_upgrading": {
-        "upgrade": "minion_slots",
-        "new_tier": 2,
-        "start_ms": 1605573846381,
-        "who_started": "64edd453088d4cc08ef6143b1b41da98"
-      },
+      "currently_upgrading": null,
       "upgrade_states": [
         {
           "upgrade": "",

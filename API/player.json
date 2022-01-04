@@ -2578,7 +2578,9 @@
       },
       "bedwars_weekly_challenges": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "bedwars_weekly_challenge_played": 0
+          },
           "started": 0
         }
       }
@@ -6146,7 +6148,8 @@
         "mobs_spawned_warlock": 0,
         "inGamePresentsCap_2022_1": 0,
         "inGamePresentsCap_2022_2": 0,
-        "inGamePresentsCap_2022_3": 0
+        "inGamePresentsCap_2022_3": 0,
+        "inGamePresentsCap_2022_4": 0
       },
       "MCGO": {
         "bombs_defused": 0,
@@ -31070,7 +31073,10 @@
         "bw_challenge_no_hitting": 0,
         "bw_challenge_cant_touch_this": 0,
         "two_four_magic_deaths_bedwars": 0,
-        "two_four_magic_final_deaths_bedwars": 0
+        "two_four_magic_final_deaths_bedwars": 0,
+        "challenges": {
+          "bw_challenge_selfish_best_time": 0
+        }
       },
       "MurderMystery": {
         "knife_kills_library": 0,

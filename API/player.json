@@ -1064,7 +1064,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "vampirez_daily_win": 0
+          },
           "started": 0
         }
       },

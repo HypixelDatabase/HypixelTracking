@@ -27459,7 +27459,8 @@
             },
             "spooder_buddies": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "ricochet": {
               "smashed_2v2": 0,
@@ -40096,7 +40097,8 @@
         "DUELS__teams_challenge": 0,
         "ARCADE__galaxy_wars_challenge": 0,
         "ARCADE__football_challenge": 0,
-        "BATTLEGROUND__capture_challenge": 0
+        "BATTLEGROUND__capture_challenge": 0,
+        "SUPER_SMASH__smash_challenge": 0
       },
       "day_e": {
         "UHC__perfect_start_challenge": 0,

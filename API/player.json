@@ -28003,7 +28003,9 @@
             "egg_bazooka": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "damage_dealt": 0,
+              "damage_dealt_2v2": 0
             },
             "dash": {
               "smashed": 0,

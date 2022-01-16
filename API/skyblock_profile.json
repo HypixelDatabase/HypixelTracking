@@ -5295,7 +5295,11 @@
                 "id": "",
                 "startTime": 0,
                 "slot": 0,
-                "notified": true
+                "notified": true,
+                "oldItem": {
+                  "type": 0,
+                  "data": ""
+                }
               },
               "3": {
                 "type": "",

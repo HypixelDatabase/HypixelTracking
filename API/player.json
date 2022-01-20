@@ -26492,7 +26492,11 @@
               "smashed_2v2": 0
             },
             "one_v_one_losses": 0,
-            "one_v_one_losses_normal": 0
+            "one_v_one_losses_normal": 0,
+            "kame_beam": {
+              "smashed": 0,
+              "smashed_2v2": 0
+            }
           },
           "SHOOP_DA_WHOOP": {
             "damage_dealt": 0,
@@ -40046,7 +40050,8 @@
         "ARCADE__galaxy_wars_challenge": 0,
         "ARCADE__throw_out_challenge": 0,
         "ARCADE__dragon_wars_challenge": 0,
-        "WALLS3__berserk_challenge": 0
+        "WALLS3__berserk_challenge": 0,
+        "PAINTBALL__nuke_challenge": 0
       },
       "day_c": {
         "BATTLEGROUND__brute_challenge": 0,

@@ -35029,7 +35029,8 @@
         "best_boxing_winstreak": 0,
         "best_all_modes_winstreak": 0,
         "bridge_four_golden_apples_eaten": 0,
-        "bridge_threes_golden_apples_eaten": 0
+        "bridge_threes_golden_apples_eaten": 0,
+        "moved_to_redis_3": true
       },
       "BuildBattle": {
         "wins": 0,

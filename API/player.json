@@ -35050,7 +35050,12 @@
         "best_all_modes_winstreak": 0,
         "bridge_four_golden_apples_eaten": 0,
         "bridge_threes_golden_apples_eaten": 0,
-        "moved_to_redis_3": true
+        "moved_to_redis_3": true,
+        "best_winstreak_mode_boxing_duel": 0,
+        "best_winstreak_mode_capture_threes": 0,
+        "best_winstreak_mode_bridge_threes": 0,
+        "best_winstreak_mode_parkour_eight": 0,
+        "best_winstreak_mode_duel_arena": 0
       },
       "BuildBattle": {
         "wins": 0,

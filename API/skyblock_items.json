@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1638482954000,
+  "lastUpdated": 1643383808000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8082,7 +8082,7 @@
       "name": "Lapis Crystal",
       "category": "REFORGE_STONE",
       "tier": "RARE",
-      "npc_sell_price": 1,
+      "npc_sell_price": 50,
       "id": "LAPIS_CRYSTAL"
     },
     {
@@ -12233,7 +12233,6 @@
       "name": "Bingo Talisman",
       "category": "ACCESSORY",
       "tier": "COMMON",
-      "soulbound": "COOP",
       "museum": true,
       "id": "BINGO_TALISMAN"
     },
@@ -13318,7 +13317,6 @@
       "name": "Bingo Ring",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
-      "soulbound": "COOP",
       "museum": true,
       "id": "BINGO_RING"
     },
@@ -37443,7 +37441,7 @@
       "material": "SADDLE",
       "name": "Saddle",
       "tier": "UNCOMMON",
-      "npc_sell_price": 250,
+      "npc_sell_price": 5,
       "id": "SADDLE"
     },
     {

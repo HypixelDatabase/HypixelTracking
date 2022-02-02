@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1643383808000,
+  "lastUpdated": 1643821619000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -645,7 +645,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTE1OTk2OSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhMTk0MzZmNjE1MWE3YjY2ZDY1ZWQ3NjI0YWRkNDMyNWNmYmJjMmVlZTgxNWZjZjc2ZjRjMjlkZGYwOGY3NWIiCiAgICB9CiAgfQp9",
       "name": "Rough Amber Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_AMBER_GEM"
     },
     {
@@ -3157,7 +3157,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4Mzg4ODc3MSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhYzE1ZjZmY2YyY2U5NjNlZjRjYTcxZjFhODY4NWFkYjk3ZWI3NjllMWQxMTE5NGNiYmQyZTk2NGE4ODk3OGMiCiAgICB9CiAgfQp9",
       "name": "Fine Jasper Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_JASPER_GEM"
     },
     {
@@ -4396,7 +4396,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjQxMjI5MSwKICAicHJvZmlsZUlkIiA6ICI1N2IzZGZiNWY4YTY0OWUyOGI1NDRlNGZmYzYzMjU2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYaWthcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDEwOTY0ZjNjNDc5YWQ3ZDlhZmFmNjhhNDJjYWI3YzEwN2QyZDg4NGY1NzVjYWUyZjA3MGVjNmY5MzViM2JlIgogICAgfQogIH0KfQ",
       "name": "Flawless Topaz Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_TOPAZ_GEM"
     },
     {
@@ -5772,7 +5772,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4Mzg2Mjc2NCwKICAicHJvZmlsZUlkIiA6ICJmMGIzYmRkMjEwNDg0Y2VlYjZhNTQyYmZiOGEyNTdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm9uaW1ZVFQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ExZWU1ZmZjZTA0ZWI3ZGE1OTJkNDI0MTRmZjM1ZTFiZjM4MTk0ZDZiODJlMzEwZGJjNjI2MWI0N2ZiOWM5MSIKICAgIH0KICB9Cn0",
       "name": "Fine Amethyst Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_AMETHYST_GEM"
     },
     {
@@ -5781,7 +5781,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTYyMTA0NSwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMjgyYzZiYjgzNDNlMGYwZDYxZWUwNzQ3ZGFkYTc1MzQ0ZjMzMmU5ZmYwYWNhYTNhZGNkZjA5MzIxZDNkZCIKICAgIH0KICB9Cn0",
       "name": "Flawed Jade Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_JADE_GEM"
     },
     {
@@ -6627,7 +6627,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTYzODM3OCwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjRjMmFmZDU0NGQwYTYxMzllNmFlOGVmOGYwYmZjMDlhOWZkODM3ZDBjYWQ0ZjVjZDBmZTdmNjA3YjdkMWEwIgogICAgfQogIH0KfQ",
       "name": "Rough Jade Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_JADE_GEM"
     },
     {
@@ -7176,7 +7176,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjIzMjc2OSwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NTdjZmE5Yzc1YmE1ODQ2NDVlZTJhZjZkOTg2N2Q3NjdkZGVhNDY2N2NkZmM3MmRjMTA2MWRkMTk3NWNhN2QwIgogICAgfQogIH0KfQ",
       "name": "Flawless Sapphire Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_SAPPHIRE_GEM"
     },
     {
@@ -7913,7 +7913,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjIwMzYzNiwKICAicHJvZmlsZUlkIiA6ICI4OGU0YWNiYTQwOTc0YWZkYmE0ZDM1YjdlYzdmNmJmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2FvMDkxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTBhZjk5ZThkODcwMzE5NGE4NDdhNTUyNjhjZjVlZjRhYzRlYjNiMjRjMGVkODY1NTEzMzlkMTBiNjQ2NTI5IgogICAgfQogIH0KfQ",
       "name": "Flawed Sapphire Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_SAPPHIRE_GEM"
     },
     {
@@ -8139,7 +8139,7 @@
         "WALK_SPEED": 30,
         "DEFENSE": 80,
         "HEALTH": 180,
-        "CRITICAL_DAMAGE": 30,
+        "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 15
       },
       "essence": {
@@ -8805,7 +8805,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTQzNDMwMSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWRiNTkyNjA4OTU1NzhkMzdlNTk1MDU4ODA2MDJkZTk0MGIwODhlNWZmZjhkYTNlNjUyMDFkNzM5Yzg2ZTg0IgogICAgfQogIH0KfQ",
       "name": "Flawed Amethyst Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_AMETHYST_GEM"
     },
     {
@@ -8884,7 +8884,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4Mzg0Njc1MCwKICAicHJvZmlsZUlkIiA6ICIyNzc1MmQ2ZTUyYmM0MzVjYmNhOWQ5NzY1MjQ2YWNhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZW1pbWVkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiMWNjZTIyZGUxOWVkNjcyN2FiYzVlNmMyZDU3ODY0Yzg3MWE0NGM5NTZiYmUyZWIzOTYwMjY5YjY4NmI4YjMiCiAgICB9CiAgfQp9",
       "name": "Fine Amber Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_AMBER_GEM"
     },
     {
@@ -12084,7 +12084,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTQ2NjY1MiwKICAicHJvZmlsZUlkIiA6ICI2MWVhMDkyM2FhNDQ0OTEwYmNlZjViZmQ2ZDNjMGQ1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVEYXJ0aEZhdGhlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMzYyMzUyMWM4MTExYWQyOWU5ZGNmN2FjYzU2MDg1YTlhYjA3ZGE3MzJkMTUxODk3NmFlZTYxZDBiM2UzYmQ2IgogICAgfQogIH0KfQ",
       "name": "Flawless Amethyst Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_AMETHYST_GEM"
     },
     {
@@ -13771,7 +13771,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTExYTNjZWM3YWFmOTA0MjEyY2NmOTNiYjY3YTNjYWYzZDY0OTc4M2JhOTBiOGI2MGJiNjNjNzY4N2ViMzlmIn19fQ==",
       "name": "Mutant Nether Wart",
       "tier": "RARE",
-      "npc_sell_price": 76800,
+      "npc_sell_price": 51200,
       "id": "MUTANT_NETHER_STALK"
     },
     {
@@ -14182,6 +14182,7 @@
       "material": "MYCEL",
       "name": "Mycelium",
       "npc_sell_price": 5,
+      "soulbound": "COOP",
       "id": "MYCEL"
     },
     {
@@ -14317,7 +14318,7 @@
         "WALK_SPEED": 30,
         "DEFENSE": 65,
         "HEALTH": 145,
-        "CRITICAL_DAMAGE": 30,
+        "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 10
       },
       "essence": {
@@ -15619,7 +15620,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjM4MDM3MywKICAicHJvZmlsZUlkIiA6ICJmMGIzYmRkMjEwNDg0Y2VlYjZhNTQyYmZiOGEyNTdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm9uaW1ZVFQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjYzOTI3NzNkMTE0YmUzMGFlYjNjMDljOTBjYmU2OTFmZmVhY2ViMzk5YjUzMGZlNmZiNTNkZGMwY2VkMzcxNCIKICAgIH0KICB9Cn0",
       "name": "Flawed Topaz Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_TOPAZ_GEM"
     },
     {
@@ -16503,7 +16504,7 @@
         "WALK_SPEED": 30,
         "DEFENSE": 120,
         "HEALTH": 260,
-        "CRITICAL_DAMAGE": 30,
+        "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 10
       },
       "essence": {
@@ -17086,7 +17087,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzU0NDYyMywKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZDgxMDY4Y2JkZjRhMzY0MjMxYTI2NDUzZDZjZDY2MGEwMDk1ZjljZDg3OTUzMDdjNWJlNjY3NDI3NzEyZSIKICAgIH0KICB9Cn0",
       "name": "Flawed Ruby Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_RUBY_GEM"
     },
     {
@@ -19557,7 +19558,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzUyMzU5MywKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTY3Mjk1OTAyOGYyNzRiMzc5ZDQzMGYwNjhmMGYxNWE0Zjc5M2VhYzEyYWZiOTRhZTBiNGU1MGNmODk1ZGYwZiIKICAgIH0KICB9Cn0",
       "name": "Fine Ruby Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_RUBY_GEM"
     },
     {
@@ -21100,7 +21101,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzkwNDYxNSwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNjE2MWRhYTM1ODllYzljODE4NzQ1OWFjMzZmZDRkZDI2NDZjMDQwNjc4ZDNiZmFjYjcyYTIyMTBjNmM4MDFjIgogICAgfQogIH0KfQ",
       "name": "Fine Sapphire Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_SAPPHIRE_GEM"
     },
     {
@@ -21224,7 +21225,7 @@
         "WALK_SPEED": 30,
         "DEFENSE": 105,
         "HEALTH": 230,
-        "CRITICAL_DAMAGE": 30,
+        "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 10
       },
       "essence": {
@@ -21915,7 +21916,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTY1NzA0NywKICAicHJvZmlsZUlkIiA6ICIxYWZhZjc2NWI1ZGY0NjA3YmY3ZjY1ZGYzYWIwODhhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3lfQmxvb2RBbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODlmNzVlMGIwMDM3OGE1ODNkYmJhNzI4ZGNkYzZlOTM0NmYzMWRkNjAxZDQ0OGYzZDYwNjE1Yzc0NjVjYzNlIgogICAgfQogIH0KfQ",
       "name": "Flawless Jade Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_JADE_GEM"
     },
     {
@@ -23409,7 +23410,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjM5ODMwNiwKICAicHJvZmlsZUlkIiA6ICJkODAwZDI4MDlmNTE0ZjkxODk4YTU4MWYzODE0Yzc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVCTFJ4eCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmQ5NjA3MjJlYzI5YzY2NzE2YWU1Y2E5N2I5YjZiMjYyODk4NGUxZDZmOWQyNTkyY2QwODk5MTQyMDZhMWIiCiAgICB9CiAgfQp9",
       "name": "Rough Topaz Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_TOPAZ_GEM"
     },
     {
@@ -26404,7 +26405,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4Mzg3NjAxNywKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI4ZjFjMGM1MDkyZTEyZDMzNzcwZGY0NWM1ODQ1YTk2MTA4ODYwMzliMzRhYmU5M2ExNmM1ZTk0MmRmYzhlNCIKICAgIH0KICB9Cn0",
       "name": "Fine Jade Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_JADE_GEM"
     },
     {
@@ -27282,7 +27283,7 @@
     {
       "material": "NETHER_STALK",
       "name": "Nether Wart",
-      "npc_sell_price": 3,
+      "npc_sell_price": 2,
       "id": "NETHER_STALK"
     },
     {
@@ -27561,7 +27562,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjAxODU1MCwKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzZDA2NGVjMTUwMTcyZDA1ODQ0YzExYTE4NjE5YzE0MjFiYmZiMmRkZDFkYmI4N2NkYzEwZTIyMjUyYjc3M2IiCiAgICB9CiAgfQp9",
       "name": "Rough Jasper Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_JASPER_GEM"
     },
     {
@@ -27730,7 +27731,7 @@
       "name": "Enchanted Nether Wart",
       "glowing": true,
       "tier": "UNCOMMON",
-      "npc_sell_price": 480,
+      "npc_sell_price": 320,
       "id": "ENCHANTED_NETHER_STALK"
     },
     {
@@ -28800,7 +28801,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzkxOTUyNywKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyY2I2ZTUxYzQ2MWU3MzU5NTI2YmVhNWUwNjIwOWNkZGRlN2M2NDY5YTgxOWYzNDA1Y2YwYTAzOGMxNTk1MDIiCiAgICB9CiAgfQp9",
       "name": "Fine Topaz Gemstone",
       "tier": "RARE",
-      "npc_sell_price": 25600,
+      "npc_sell_price": 19200,
       "id": "FINE_TOPAZ_GEM"
     },
     {
@@ -29919,7 +29920,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjAwMzU1NywKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E3MzUxMWU1MDRjMzE2YjEzOWVkYjM1ZmViZTczZWY1OTFjMGY0NTVlOGNhZjllZTM1M2JjMTJiNmMxNGE5MjIiCiAgICB9CiAgfQp9",
       "name": "Flawed Jasper Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_JASPER_GEM"
     },
     {
@@ -30486,7 +30487,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzU1ODUzNCwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxNTliMDMyNDNiZTE4YTE0ZjNlYWU3NjNjNDU2NWM3OGYxZjMzOWE4NzQyZDI2ZmRlNTQxYmU1OWI3ZGUwNyIKICAgIH0KICB9Cn0",
       "name": "Rough Ruby Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_RUBY_GEM"
     },
     {
@@ -31103,6 +31104,7 @@
       "durability": 1,
       "name": "Red Sand",
       "npc_sell_price": 2,
+      "soulbound": "COOP",
       "id": "SAND:1"
     },
     {
@@ -33988,7 +33990,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjIxNDY1MiwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NmY2ViZTU0ZGJjMzQ1ZWE3ZTIyMjA2ZjcwM2U2YjMzYmVmYmU5NWI2YTkxOGJkMTc1NGI3NjE4OGJjNjViYjUiCiAgICB9CiAgfQp9",
       "name": "Rough Sapphire Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_SAPPHIRE_GEM"
     },
     {
@@ -35137,7 +35139,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTQ0OTk5NCwKICAicHJvZmlsZUlkIiA6ICIxYTc1ZTNiYmI1NTk0MTc2OTVjMmY4NTY1YzNlMDAzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZXJvZmFyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0OTNjNmY1NDBjNzAwMWZlZDk3YjA3ZjZiNGM4OTEyOGUzYTdjMzc1NjNhYTIyM2YwYWNjYTMxNGYxNzU1MTUiCiAgICB9CiAgfQp9",
       "name": "Rough Amethyst Gemstone",
-      "npc_sell_price": 4,
+      "npc_sell_price": 3,
       "id": "ROUGH_AMETHYST_GEM"
     },
     {
@@ -35780,7 +35782,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzU3MzU0NywKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyNmEyNDhmYmJjMDZjZjA2ZTJjOTIwZWNhMWNhYzhhMmM5NjE2NGQzMjYwNDk0YmVkMTQyZDU1MzAyNmNjNiIKICAgIH0KICB9Cn0",
       "name": "Flawless Ruby Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_RUBY_GEM"
     },
     {
@@ -35953,7 +35955,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTE0NTE4MywKICAicHJvZmlsZUlkIiA6ICIwYTUzMDU0MTM4YWI0YjIyOTVhMGNlZmJiMGU4MmFkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQX0hpc2lybyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNzNiY2ZjMzllYjg1ZGYxODQ4NTM1OTg1MjE0MDYwYTFiZDFiM2JiNDdkZWZlNDIwMTQ3NmVkYzMxNjcxNzQ0IgogICAgfQogIH0KfQ",
       "name": "Flawed Amber Gemstone",
       "tier": "UNCOMMON",
-      "npc_sell_price": 320,
+      "npc_sell_price": 240,
       "id": "FLAWED_AMBER_GEM"
     },
     {
@@ -38553,7 +38555,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTE3NjQ5NiwKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkY2U2MmY3MGFjMDQ2Yjg4MTExM2M2Y2Y4NjI5ODc3Mjc3NzRlMjY1ODg1NTAxYzlhMjQ1YjE4MGRiMDhjMGQiCiAgICB9CiAgfQp9",
       "name": "Flawless Amber Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_AMBER_GEM"
     },
     {
@@ -38648,7 +38650,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjAzNDI0NywKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZjk5M2QzYTQzZDQwNTk3YjQ3NDQ4NTk3NjE2MGQwY2Y1MmFjNjRkMTU3MzA3ZDNiMWM5NDFkYjIyNGQwYWM2IgogICAgfQogIH0KfQ",
       "name": "Flawless Jasper Gemstone",
       "tier": "EPIC",
-      "npc_sell_price": 2048000,
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_JASPER_GEM"
     },
     {

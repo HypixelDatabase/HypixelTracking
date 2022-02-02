@@ -1316,7 +1316,8 @@
     },
     "/resources/skyblock/collections": {
       "get": {
-        "summary": "Information regarding collections in SkyBlock",
+        "summary": "Collections",
+        "description": "Information regarding Collections in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1351,7 +1352,8 @@
     },
     "/resources/skyblock/skills": {
       "get": {
-        "summary": "Information regarding skills in SkyBlock",
+        "summary": "Skills",
+        "description": "Information regarding skills in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1386,7 +1388,8 @@
     },
     "/resources/skyblock/items": {
       "get": {
-        "summary": "Information regarding items in SkyBlock",
+        "summary": "Items",
+        "description": "Information regarding items in SkyBlock",
         "tags": [
           "SkyBlock"
         ],
@@ -1409,6 +1412,43 @@
                       "items": {
                         "$ref": "#/components/schemas/SkyBlockItem"
                       }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/resources/skyblock/election": {
+      "get": {
+        "summary": "Election and Mayor",
+        "description": "Information regarding the current mayor and ongoing election in SkyBlock",
+        "tags": [
+          "SkyBlock"
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "lastUpdated": {
+                      "type": "number"
+                    },
+                    "mayor": {
+                      "type": "object",
+                      "description": "Data regarding the current mayor"
+                    },
+                    "current": {
+                      "type": "object",
+                      "description": "Data regarding the current election, will not be provided if there is no open election ongoing"
                     }
                   }
                 }

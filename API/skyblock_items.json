@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1643821619000,
+  "lastUpdated": 1644421018000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -27234,6 +27234,12 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "id": "DUNGEON_GOLDEN_KEY"
+    },
+    {
+      "material": "ACACIA_FENCE",
+      "name": "Test Item Plz Ignore",
+      "npc_sell_price": 1,
+      "id": "TEST_ITEM"
     },
     {
       "material": "WOOL",

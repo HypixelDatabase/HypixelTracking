@@ -28165,7 +28165,8 @@
               "smasher": 0,
               "smashed_normal": 0,
               "kills_normal": 0,
-              "damage_dealt_teams": 0
+              "damage_dealt_teams": 0,
+              "smasher_normal": 0
             },
             "freezing_breath": {
               "smashed": 0,
@@ -28260,7 +28261,9 @@
             "werepug": {
               "smashed": 0,
               "smashed_normal": 0
-            }
+            },
+            "one_v_one_wins": 0,
+            "one_v_one_wins_normal": 0
           }
         },
         "damage_dealt": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1644421018000,
+  "lastUpdated": 1644436491000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -10346,6 +10346,17 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTUyODI4NSwKICAicHJvZmlsZUlkIiA6ICI2MzMyMDgwZTY3YTI0Y2MxYjE3ZGJhNzZmM2MwMGYxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWFtSHlkcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1NjkyMmMyMWJjMTUxOGJmNjAzNTM1MDkzMGMzYjFmNGM5Yjc0YjEwYjBkNjIxYmFiYWE0ZTQxMTA5YzE3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Sweet Flesh",
+      "description": "%%gray%%It's strangely sweet and somewhat sticky...",
+      "tier": "UNCOMMON",
+      "glowing": true,
+      "npc_sell_price": 0,
+      "id": "SWEET_FLESH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzNjU2MzgwNywKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVmNWFjZjEzNGZhOTUyZjEzZmRmMGIzODk5MDYwY2MxOGViYzBhOTcxMzQ3ZTQ1YTMxZWNmOTVhNGIwYjMxYyIKICAgIH0KICB9Cn0=",
       "name": "Titanium-Infused Fuel Tank",
       "tier": "RARE",
@@ -19946,6 +19957,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY5ODc2MiwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZmIxODg0OGUzYWUyOGFkMmY4MThiNTEwN2FiZjkwYTIzYTRkYTczMzYwNGJmZmNmNmNhZTEwMjc0ODUwYWM0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Frozen Spider",
+      "description": "%%gray%%One lonely spider sitting in the pond. Then down came the hook that pulled the spider out.",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "id": "FROZEN_SPIDER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MTk0NzI5ODEsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNTRiYmU2MDRkZmU1OGJmOTJlNzcyOTczMGQwYzhlMzc4NDRlODMxZWUzODE2ZDdlODQyN2MyN2ExODI0YTIifX19",
       "name": "Diamond Minion I",
       "generator": "DIAMOND",
@@ -20665,6 +20686,16 @@
       "generator_tier": 1,
       "tier": "RARE",
       "id": "CARROT_GENERATOR_1"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Wet Pumpkin",
+      "description": "%%gray%%A squishy moist mess.",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "id": "WET_PUMPKIN"
     },
     {
       "material": "ARROW",
@@ -22318,6 +22349,16 @@
       "dungeon_item": true,
       "museum": true,
       "id": "MAXOR_THE_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU5NjQ0NiwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYzE5NTA0NjFkNTQ2ODdmNDAxNjJlNGVjZmZhY2Y2MGE0NmU0MTZmMjUzNGZhMjNhMDA5MWQwZWE2ZjJlYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Decayed Bat",
+      "description": "%%gray%%A withering husk of its former self.",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "id": "DECAYED_BAT"
     },
     {
       "material": "SKULL_ITEM",
@@ -27236,12 +27277,6 @@
       "id": "DUNGEON_GOLDEN_KEY"
     },
     {
-      "material": "ACACIA_FENCE",
-      "name": "Test Item Plz Ignore",
-      "npc_sell_price": 1,
-      "id": "TEST_ITEM"
-    },
-    {
       "material": "WOOL",
       "durability": 14,
       "name": "Red Wool",
@@ -28359,6 +28394,16 @@
       },
       "dungeon_item": true,
       "id": "WITHER_GOGGLES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU2NDMwNiwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk3NzkwNmFiZGIwMGI0OTVjYzVhNjg1MWU5MmNlYjY1ZTFiZjg5ZmFmMWJlOTE0YjVkMzZjODQ4NzU3NmE3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Poisoned Candy",
+      "description": "%%gray%%A delicious, vibrant, and round candy with an extra kick.",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 0,
+      "id": "POISONED_CANDY"
     },
     {
       "material": "SKULL_ITEM",

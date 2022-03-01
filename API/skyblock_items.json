@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1644436491000,
+  "lastUpdated": 1646150365000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -245,6 +245,16 @@
       "tier": "MYTHIC",
       "npc_sell_price": 50000,
       "id": "PLASMA_BUCKET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUxNWFjZjRhNmFjNjk4NzM2ZTU0ZGVmMGJjNzgxNDNjMTQ0NDk5NzhlNzUwYWZiYjhkN2FkZTBhZGYwZWYwMCJ9fX0=",
+      "name": "Bingo Relic",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "museum": true,
+      "id": "BINGO_RELIC"
     },
     {
       "material": "SKULL_ITEM",
@@ -696,6 +706,14 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 320,
       "id": "ENCHANTED_BIRCH_LOG"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 6,
+      "name": "Livid Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_LIVID"
     },
     {
       "material": "SKULL_ITEM",
@@ -5421,7 +5439,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzU2Mzg5NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmExNTNhZmVkYTFmODBjYjM4MmI1Y2MzMTcxNzUxMDJhMWQ5ZmJkMWQ2YzI2YzkyNTQzMzk3OWE2MzU2NTAxNCIKICAgIH0KICB9Cn0=",
       "name": "Master Skull - Tier 4",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
@@ -8283,6 +8301,14 @@
       "id": "WOOD_TALISMAN"
     },
     {
+      "material": "RECORD_8",
+      "name": "Dungeon Disc",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "museum": true,
+      "id": "DUNGEON_DISC_1"
+    },
+    {
       "material": "SPRUCE_DOOR_ITEM",
       "name": "Spruce Door",
       "npc_sell_price": 1,
@@ -8328,6 +8354,14 @@
       "tier": "RARE",
       "dungeon_item": true,
       "id": "MASTER_CATACOMBS_PASS_4"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 1,
+      "name": "Brick Red Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_BRICK_RED"
     },
     {
       "material": "SKULL_ITEM",
@@ -9532,6 +9566,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIzYTA1YjE4MDI2MGRkMDc0Nzk5ZDA1YjkwZjY3OTBiOTYwZDZlNWNiYTNkZDEyNWJhM2JmZDljYzE1NDA4OSJ9fX0=",
+      "name": "Bingo Heirloom",
+      "category": "ACCESSORY",
+      "tier": "LEGENDARY",
+      "museum": true,
+      "id": "BINGO_HEIRLOOM"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5NDYwNjMyOTMsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzFhNTE3NWExY2FmN2E4OGE4MmI4OGI0NzM3MTU5MTMyYTY4ZGM5ZmM5OTkzNjY5NmIxNTczZWE1YTdiYjc2ZCJ9fX0=",
       "name": "Redstone Minion III",
       "generator": "REDSTONE",
@@ -9712,7 +9756,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1ZGUwODcyNDg3M2ZlMGNkZTY2M2FjNTJkMWU1NDg0NzlhYzNmOGYzNmViZDAxNzE1YjcxNzFmNDgxZDUxOSJ9fX0",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjU1MzEyOSwKICAicHJvZmlsZUlkIiA6ICIyNzZlMDQ2YjI0MDM0M2VkOTk2NmU0OTRlN2U2Y2IzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBRFJBTlM3MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDcxYjk1NGU4OWFlZDE1NmY5MGZhZmNlNmRjNzc4OGFjNzZiNjQ2NmNlY2NhM2E0ZjRlYzFlNDYzZWI5MTRhMSIKICAgIH0KICB9Cn0",
       "name": "Third Master Star",
       "tier": "EPIC",
       "dungeon_item": true,
@@ -9769,6 +9813,13 @@
       "category": "TRAVEL_SCROLL",
       "tier": "RARE",
       "id": "FARMING_1_TRAVEL_SCROLL"
+    },
+    {
+      "material": "PAPER",
+      "name": "Bingo Card",
+      "tier": "SPECIAL",
+      "museum": true,
+      "id": "BINGO_CARD"
     },
     {
       "material": "DIAMOND_BOOTS",
@@ -10525,7 +10576,7 @@
       "name": "Infinityboom TNT",
       "glowing": true,
       "tier": "RARE",
-      "npc_sell_price": 1,
+      "npc_sell_price": 0,
       "id": "INFINITE_SUPERBOOM_TNT"
     },
     {
@@ -11272,6 +11323,14 @@
       "id": "POISONOUS_POTATO"
     },
     {
+      "material": "INK_SACK",
+      "durability": 13,
+      "name": "Wild Strawberry Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_WILD_STRAWBERRY"
+    },
+    {
       "material": "BED",
       "name": "Bed",
       "npc_sell_price": 5,
@@ -11445,6 +11504,14 @@
       "id": "MASTER_CATACOMBS_PASS_5"
     },
     {
+      "material": "RECORD_11",
+      "name": "Old Disc",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 1,
+      "museum": true,
+      "id": "DUNGEON_DISC_4"
+    },
+    {
       "material": "LEATHER_LEGGINGS",
       "color": "168,43,118",
       "name": "Salmon Leggings",
@@ -11526,6 +11593,14 @@
       "name": "Book",
       "npc_sell_price": 12,
       "id": "BOOK"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 15,
+      "name": "Pure White Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_PURE_WHITE"
     },
     {
       "material": "STAINED_GLASS_PANE",
@@ -11862,6 +11937,14 @@
       "id": "ZOMBIE_COMMANDER_CHESTPLATE"
     },
     {
+      "material": "INK_SACK",
+      "durability": 12,
+      "name": "Celeste Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_CELESTE"
+    },
+    {
       "material": "STAINED_CLAY",
       "durability": 7,
       "name": "Gray Hardened Clay",
@@ -12077,6 +12160,14 @@
         }
       },
       "id": "STARLIGHT_CHESTPLATE"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 12,
+      "name": "Aquamarine Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_AQUAMARINE"
     },
     {
       "material": "SKULL_ITEM",
@@ -12747,6 +12838,14 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "id": "HEALING_CIRCLE_ITEM"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 5,
+      "name": "Midnight Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_MIDNIGHT"
     },
     {
       "material": "SKULL_ITEM",
@@ -14233,6 +14332,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJkYWQ4NjhmOGQ4NjViYWEzMmQ2MTU4NjcyZDFiMTM0ZGI2MWVhNTZkMzNlZmEwYzA5ZjZiYTZmMjc2ZmYyIn19fQ==",
+      "name": "Bingo Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "museum": true,
+      "id": "BINGO_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmE1MjYzMmE5YzhmN2JkZTk0NzE5MDY0MjM0OTIwZGVkNDg2MTRlMmJkOGJjOTFhZmU3ZmZjMmNkOGE0NmYxOSJ9fX0=",
       "name": "Gravity Talisman",
       "category": "ACCESSORY",
@@ -14714,7 +14823,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzUyMjUxMiwKICAicHJvZmlsZUlkIiA6ICJiMjdjMjlkZWZiNWU0OTEyYjFlYmQ5NDVkMmI2NzE0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIRUtUMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNDZkMGQzZDEwNjkxNjVhNDUyM2E4NTgwNThhMDkwYzcwYjc0Mjk5MjlhYmM4NjkwMDljYjZlYmZjZGU3NTA2IgogICAgfQogIH0KfQ",
       "name": "Master Skull - Tier 1",
       "category": "ACCESSORY",
       "dungeon_item": true,
@@ -14819,7 +14928,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzU5NDY5MCwKICAicHJvZmlsZUlkIiA6ICI1YjY2YzNkZWZhYTI0NWMzYTcwNjM3OTA3NTQ0Yjg3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFuX1JhaWNvMDgxNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTBmOWYxMDg1ZDQwNzE0MWViNzc2MTdhNGFiZGFhYTA4ZDhhZjMzYjk2MDIwMGZlOGMxMjZjMWQxNDQ1NjgyIgogICAgfQogIH0KfQ",
       "name": "Master Skull - Tier 5",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -15271,6 +15380,14 @@
       "id": "DUNGEON_STONE"
     },
     {
+      "material": "INK_SACK",
+      "durability": 10,
+      "name": "Celadon Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_CELADON"
+    },
+    {
       "material": "LEATHER_LEGGINGS",
       "color": "212,212,212",
       "name": "Fancy Tuxedo Pants",
@@ -15589,6 +15706,14 @@
       "name": "Sloth Minion Skin",
       "museum": true,
       "id": "SLOTH_PERSONALITY"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 9,
+      "name": "Cyclamen Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_CYCLAMEN"
     },
     {
       "material": "VINE",
@@ -16470,6 +16595,14 @@
       },
       "npc_sell_price": 2,
       "id": "LEAFLET_HELMET"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 1,
+      "name": "Carmine Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_CARMINE"
     },
     {
       "material": "SKULL_ITEM",
@@ -18825,6 +18958,14 @@
       "id": "KLOONBOAT"
     },
     {
+      "material": "GOLD_RECORD",
+      "name": "Necron Disc",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "museum": true,
+      "id": "DUNGEON_DISC_5"
+    },
+    {
       "material": "LEATHER_CHESTPLATE",
       "color": "255,188,11",
       "name": "Skeleton Soldier Chestplate",
@@ -19244,6 +19385,16 @@
       "name": "Furnace",
       "npc_sell_price": 8,
       "id": "FURNACE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MzY0NTM0NzEsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExNDJmZTUzNTg1NWRkNmIwNmY0ZjA4MTdkYmM4YmY5OGRhMzEyNjVhZTkxOGI4NTRjZDExZmNhY2Q2ZmFiNGMifX19",
+      "name": "Flower Minion XII",
+      "generator": "FLOWER",
+      "generator_tier": 12,
+      "tier": "RARE",
+      "id": "FLOWER_GENERATOR_12"
     },
     {
       "material": "SUGAR",
@@ -20959,6 +21110,14 @@
       "id": "KISMET_FEATHER"
     },
     {
+      "material": "INK_SACK",
+      "durability": 13,
+      "name": "Byzantium Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_BYZANTIUM"
+    },
+    {
       "material": "LEATHER_LEGGINGS",
       "color": "255,220,81",
       "name": "Sponge Leggings",
@@ -21494,7 +21653,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzYyOTgxNSwKICAicHJvZmlsZUlkIiA6ICJiOTE5M2NiMjkzMWI0M2FhYmM1OGQ2NjAwMTg3NGRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiMmJsYWtlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNGU0N2M0MzU3NmY4ZDcyZWJhYmI0NTg3NjRhZmZiNTg4ZmMwMTgyNjI3MzJlODUxNDlkZjliYmFhYjc3NjciCiAgICB9CiAgfQp9",
       "name": "Master Skull - Tier 7",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
@@ -21925,6 +22084,13 @@
       "generator_tier": 9,
       "tier": "RARE",
       "id": "QUARTZ_GENERATOR_9"
+    },
+    {
+      "material": "ICE",
+      "name": "Iceberg Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_ICEBERG"
     },
     {
       "material": "SKULL_ITEM",
@@ -22645,6 +22811,14 @@
       "id": "LEAFLET_CHESTPLATE"
     },
     {
+      "material": "INK_SACK",
+      "durability": 14,
+      "name": "Mango Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_MANGO"
+    },
+    {
       "material": "MONSTER_EGG",
       "name": "Super Enchanted Egg",
       "glowing": true,
@@ -22870,6 +23044,14 @@
       "generator_tier": 2,
       "tier": "RARE",
       "id": "BIRCH_GENERATOR_2"
+    },
+    {
+      "material": "RECORD_7",
+      "name": "Clown Disc",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "museum": true,
+      "id": "DUNGEON_DISC_2"
     },
     {
       "material": "IRON_CHESTPLATE",
@@ -23418,6 +23600,14 @@
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
       "id": "BEASTMASTER_CREST_UNCOMMON"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 5,
+      "name": "Dark Purple Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_DARK_PURPLE"
     },
     {
       "material": "IRON_INGOT",
@@ -24076,7 +24266,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1ZGUwODcyNDg3M2ZlMGNkZTY2M2FjNTJkMWU1NDg0NzlhYzNmOGYzNmViZDAxNzE1YjcxNzFmNDgxZDUxOSJ9fX0",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjU4MDE1OSwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxMzY3MjQ3NDVjOGM5YWJjNzVjZGYyMjA1ZjJjZDFkMzNlNmJmZWZhNDE1Zjk5NWJlNzY5MjI5MTIxNjllYzkiCiAgICB9CiAgfQp9",
       "name": "First Master Star",
       "tier": "EPIC",
       "dungeon_item": true,
@@ -25178,7 +25368,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1ZGUwODcyNDg3M2ZlMGNkZTY2M2FjNTJkMWU1NDg0NzlhYzNmOGYzNmViZDAxNzE1YjcxNzFmNDgxZDUxOSJ9fX0",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjU5NjQ3OSwKICAicHJvZmlsZUlkIiA6ICI4ZGU4ZWU3MTMyMTY0NGNhYTllZjJlNTVjODRjNGU4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIdW5kZXNjaG9uVE0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQ5OTEzYTY2MWMzOGY1ZjcwMGI4MDc5OGE4YzQ4NWQzMzJkNzgzNDViNzY3MWQwYTI0OGE4NGIyMDk5YmY0ZSIKICAgIH0KICB9Cn0",
       "name": "Second Master Star",
       "tier": "EPIC",
       "dungeon_item": true,
@@ -27304,6 +27494,13 @@
       "id": "PET_SKIN_ELEPHANT_PINK"
     },
     {
+      "material": "INK_SACK",
+      "name": "Pure Black Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_PURE_BLACK"
+    },
+    {
       "material": "DIAMOND",
       "name": "Scythe Blade",
       "glowing": true,
@@ -27320,6 +27517,12 @@
       "generator_tier": 11,
       "tier": "RARE",
       "id": "IRON_GENERATOR_11"
+    },
+    {
+      "material": "GLASS",
+      "name": "Museum Item Display",
+      "tier": "EPIC",
+      "id": "MUSEUM_ITEM_DISPLAY"
     },
     {
       "material": "NETHER_STALK",
@@ -27385,6 +27588,14 @@
         }
       },
       "id": "RADIANT_POWER_ORB"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 9,
+      "name": "Nadeshiko Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_NADESHIKO"
     },
     {
       "material": "SKULL_ITEM",
@@ -27638,6 +27849,14 @@
       "name": "Fireplace",
       "furniture": "FIREPLACE",
       "id": "FIREPLACE"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 2,
+      "name": "Emerald Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_EMERALD"
     },
     {
       "material": "SKULL_ITEM",
@@ -28081,6 +28300,14 @@
       "tier": "EPIC",
       "npc_sell_price": 1,
       "id": "SUPERB_CARROT_CANDY"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 10,
+      "name": "Nyanza Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_NYANZA"
     },
     {
       "material": "RECORD_4",
@@ -30200,6 +30427,14 @@
       "id": "REAPER_SCYTHE"
     },
     {
+      "material": "INK_SACK",
+      "durability": 11,
+      "name": "Pure Yellow Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_PURE_YELLOW"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ==",
@@ -30325,7 +30560,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzUyMjUxMiwKICAicHJvZmlsZUlkIiA6ICJiMjdjMjlkZWZiNWU0OTEyYjFlYmQ5NDVkMmI2NzE0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIRUtUMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNDZkMGQzZDEwNjkxNjVhNDUyM2E4NTgwNThhMDkwYzcwYjc0Mjk5MjlhYmM4NjkwMDljYjZlYmZjZGU3NTA2IgogICAgfQogIH0KfQ",
       "name": "Master Skull - Tier 2",
       "category": "ACCESSORY",
       "dungeon_item": true,
@@ -31318,6 +31553,14 @@
       "id": "CARPET:14"
     },
     {
+      "material": "INK_SACK",
+      "durability": 4,
+      "name": "Pure Blue Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_PURE_BLUE"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBmNDg1NTkzNjc3YWFiMjhkYmNhNDViMTAyMmYyMWIxYmM3ODk2YmM5ZmU0NDA2YWJlNGQ2MDcwNTc4MjYifX19",
@@ -31733,6 +31976,14 @@
       "id": "CRYSTAL_LEGGINGS"
     },
     {
+      "material": "INK_SACK",
+      "durability": 1,
+      "name": "Flame Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_FLAME"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE1YWIwNWVhMjU0YzMyZTNjNDhmM2ZkY2Y5ZmQ5ZDc3ZDNjYmEwNGU2YjVlYzJlNjhiM2NiZGNmYWMzZmQifX19",
@@ -32016,6 +32267,14 @@
       "id": "LIVID_FRAGMENT"
     },
     {
+      "material": "INK_SACK",
+      "durability": 14,
+      "name": "Necron Dye",
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "id": "DYE_NECRON"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA2MGE0NjQ5N2NlZTc2MTEzNDZjOWRkOGViOGY1ZGU0NDgzZGUyNTkxNDcyMTEzNTM4NDgzNTZkZTE1ZDE5In19fQ==",
@@ -32039,7 +32298,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1ZGUwODcyNDg3M2ZlMGNkZTY2M2FjNTJkMWU1NDg0NzlhYzNmOGYzNmViZDAxNzE1YjcxNzFmNDgxZDUxOSJ9fX0",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjUyNDkxMywKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFjODA0MjUyN2Y4MWM4ZTI5M2UyODEwMTEzNDg5ZjQzOTRjYzZlZmUxNWQxYWZhYzQzMTU3MWM3M2I2MmRjNCIKICAgIH0KICB9Cn0=",
       "name": "Fifth Master Star",
       "tier": "EPIC",
       "dungeon_item": true,
@@ -32266,7 +32525,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1ZGUwODcyNDg3M2ZlMGNkZTY2M2FjNTJkMWU1NDg0NzlhYzNmOGYzNmViZDAxNzE1YjcxNzFmNDgxZDUxOSJ9fX0",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjU0MDA2NywKICAicHJvZmlsZUlkIiA6ICIyYWQwZDlmMGUxMTM0ODM0OGVmNDQ0OWRmNTRlYTFkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlQjB5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzN2ExNTk2ODdiZTM2ODc3ZDRlM2IwNWY2MWJiNTk4ZDgzMzFjNzkxMDhhY2MzYzFhZjgwZjIyNTM4OTJiYjIiCiAgICB9CiAgfQp9",
       "name": "Fourth Master Star",
       "tier": "EPIC",
       "dungeon_item": true,
@@ -34826,7 +35085,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzU2Mzg5NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmExNTNhZmVkYTFmODBjYjM4MmI1Y2MzMTcxNzUxMDJhMWQ5ZmJkMWQ2YzI2YzkyNTQzMzk3OWE2MzU2NTAxNCIKICAgIH0KICB9Cn0=",
       "name": "Master Skull - Tier 3",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
@@ -35920,7 +36179,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ4OTM1NTA5YjVkZWUxZTBkYWEyOGY1MWEzY2M3NDFiMmIyZTE4YjRlZmExYWFiNTg4M2E1Mzc4NjIzIn19fQ",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzYxMjYyOCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWFiNWUzZjg3NWIxMDFlOTI5ZTg4OTU2ZDAxODM1NjgyZDM5ZGI1Njc4MGFkZWVhMzcwMTRkOGVlNDc2YTY1IgogICAgfQogIH0KfQ",
       "name": "Master Skull - Tier 6",
       "category": "ACCESSORY",
       "tier": "EPIC",
@@ -36101,6 +36360,14 @@
       "tier": "EPIC",
       "npc_sell_price": 10,
       "id": "DWARVEN_TANKARD"
+    },
+    {
+      "material": "RECORD_9",
+      "name": "Watcher Disc",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "museum": true,
+      "id": "DUNGEON_DISC_3"
     },
     {
       "material": "INK_SACK",
@@ -36620,6 +36887,14 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_HORSE_ZOMBIE"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 15,
+      "name": "Bone Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_BONE"
     },
     {
       "material": "SKULL_ITEM",

@@ -613,7 +613,8 @@
           "kills_poisoned_water_worm": 0,
           "deaths_goldor": 0,
           "deaths_storm": 0,
-          "deaths_necron": 0
+          "deaths_necron": 0,
+          "kills_master_sadan_statue": 0
         },
         "objectives": {
           "collect_log": {
@@ -4824,7 +4825,8 @@
               "most_damage_berserk": {
                 "1": 0,
                 "2": 0,
-                "3": 0
+                "3": 0,
+                "6": 0
               },
               "fastest_time_s_plus": {
                 "1": 0,
@@ -4838,7 +4840,8 @@
               },
               "most_damage_healer": {
                 "3": 0,
-                "4": 0
+                "4": 0,
+                "6": 0
               },
               "times_played": {},
               "watcher_kills": {}

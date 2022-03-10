@@ -2789,7 +2789,8 @@
           "zone_harp_minigame",
           "talk_to_slayer",
           "shop_banker",
-          "shop_dwarf_banker"
+          "shop_dwarf_banker",
+          "target_practice_3"
         ],
         "quests": {
           "collect_log": {
@@ -5378,7 +5379,8 @@
         ],
         "essence_gold": 0,
         "essence_ice": 0,
-        "experience_skill_social": 0
+        "experience_skill_social": 0,
+        "fastest_target_practice": 0
       }
     },
     "banking": {

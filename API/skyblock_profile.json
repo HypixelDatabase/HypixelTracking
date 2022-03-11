@@ -619,7 +619,11 @@
           "deaths_master_sadan_golem": 0,
           "kills_master_mimic": 0,
           "deaths_watcher_giant_diamond": 0,
-          "kills_master_crypt_undead_alexander": 0
+          "kills_master_crypt_undead_alexander": 0,
+          "kills_master_skeleton_lord": 0,
+          "kills_master_zombie_commander": 0,
+          "kills_master_wither_guard": 0,
+          "deaths_master_maxor": 0
         },
         "objectives": {
           "collect_log": {
@@ -4787,7 +4791,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "mobs_killed": {
                 "1": 0,
@@ -4795,7 +4800,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "most_mobs_killed": {
                 "1": 0,
@@ -4803,7 +4809,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "most_damage_tank": {
                 "1": 0,
@@ -4819,7 +4826,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "most_damage_mage": {
                 "1": 0,
@@ -4827,7 +4835,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "most_damage_berserk": {
                 "1": 0,

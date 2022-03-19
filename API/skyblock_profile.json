@@ -626,7 +626,10 @@
           "deaths_master_maxor": 0,
           "kills_master_crypt_undead_marius": 0,
           "deaths_master_super_archer": 0,
-          "kills_master_sadan_golem": 0
+          "kills_master_sadan_golem": 0,
+          "deaths_master_zombie_commander": 0,
+          "kills_master_wither_miner": 0,
+          "deaths_master_goldor": 0
         },
         "objectives": {
           "collect_log": {
@@ -4651,7 +4654,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "milestone_completions": {
                 "1": 0,
@@ -4659,7 +4663,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "highest_tier_completed": 0,
               "fastest_time": {
@@ -4668,7 +4673,8 @@
                 "3": 0,
                 "4": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "fastest_time_s": {
                 "1": 0,
@@ -4786,6 +4792,23 @@
                     "damage_mitigated": 0,
                     "ally_healing": 0
                   }
+                ],
+                "7": [
+                  {
+                    "timestamp": 0,
+                    "score_exploration": 0,
+                    "score_speed": 0,
+                    "score_skill": 0,
+                    "score_bonus": 0,
+                    "dungeon_class": "",
+                    "teammates": [],
+                    "elapsed_time": 0,
+                    "damage_dealt": 0,
+                    "deaths": 0,
+                    "mobs_killed": 0,
+                    "secrets_found": 0,
+                    "damage_mitigated": 0
+                  }
                 ]
               },
               "best_score": {
@@ -4852,7 +4875,8 @@
                 "1": 0,
                 "3": 0,
                 "5": 0,
-                "6": 0
+                "6": 0,
+                "7": 0
               },
               "most_damage_archer": {
                 "1": 0,

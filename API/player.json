@@ -6474,7 +6474,14 @@
         "handgun_cost_reduction": 0,
         "handgun_reload_speed_reduction": 0,
         "handgun_recoil_reduction": 0,
-        "handgun_damage_increase": 0
+        "handgun_damage_increase": 0,
+        "deaths_gungame": 0,
+        "kills_gungame": 0,
+        "assists_gungame": 0,
+        "care_packages_collected_gungame": 0,
+        "cop_kills_gungame": 0,
+        "game_plays_gungame": 0,
+        "criminal_kills_gungame": 0
       },
       "Paintball": {
         "coins": 0,

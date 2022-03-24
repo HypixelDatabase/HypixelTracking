@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1646150365000,
+  "lastUpdated": 1648157371000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8108,7 +8108,7 @@
       "durability": 3,
       "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
-      "name": "Adaptive Helm",
+      "name": "Adaptive Helmet",
       "category": "HELMET",
       "tier": "EPIC",
       "stats": {
@@ -21619,7 +21619,7 @@
       "durability": 3,
       "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
-      "name": "Adaptive Helm",
+      "name": "Adaptive Helmet",
       "category": "HELMET",
       "tier": "EPIC",
       "stats": {
@@ -32936,7 +32936,6 @@
       "material": "NETHER_STAR",
       "name": "Energy Crystal",
       "tier": "SPECIAL",
-      "npc_sell_price": 1,
       "dungeon_item": true,
       "id": "MAXOR_ENERGY_CRYSTAL"
     },

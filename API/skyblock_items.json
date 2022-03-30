@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1648157371000,
+  "lastUpdated": 1648640304000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -4568,6 +4568,26 @@
       },
       "dungeon_item": true,
       "id": "BOUNCY_CHESTPLATE"
+    },
+    {
+      "material": "FEATHER",
+      "name": "Editor's Pencil",
+      "glowing": true,
+      "tier": "VERY_SPECIAL",
+      "unstackable": true,
+      "soulbound": "COOP",
+      "museum": true,
+      "id": "EDITOR_PENCIL"
+    },
+    {
+      "material": "BOOK",
+      "name": "Wiki Journal",
+      "glowing": true,
+      "tier": "SPECIAL",
+      "unstackable": true,
+      "soulbound": "COOP",
+      "museum": true,
+      "id": "WIKI_JOURNAL"
     },
     {
       "material": "LEATHER_LEGGINGS",
@@ -30531,15 +30551,6 @@
       "generator_tier": 12,
       "tier": "RARE",
       "id": "MELON_GENERATOR_12"
-    },
-    {
-      "material": "BOOK",
-      "name": "Wiki Journal",
-      "glowing": true,
-      "tier": "SPECIAL",
-      "unstackable": true,
-      "museum": true,
-      "id": "WIKI_JOURNAL"
     },
     {
       "material": "SKULL_ITEM",

@@ -31372,7 +31372,10 @@
         "tourney_bedwars_eight_two_0_fire_tick_deaths_bedwars": 0,
         "tourney_bedwars_eight_two_0_magic_final_deaths_bedwars": 0,
         "tourney_bedwars_eight_two_0_entity_explosion_deaths_bedwars": 0,
-        "two_four_entity_explosion_kills_bedwars": 0
+        "two_four_entity_explosion_kills_bedwars": 0,
+        "four_four_swap_magic_kills_bedwars": 0,
+        "four_four_swap_fall_deaths_bedwars": 0,
+        "four_four_swap_void_final_deaths_bedwars": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,
@@ -43169,7 +43172,8 @@
           "mainlobby_egghunt_64_104_-129": true,
           "mainlobby_egghunt_-88_65_-90": true,
           "mainlobby_egghunt_reward": true,
-          "duelsWinsAchievement": 0
+          "duelsWinsAchievement": 0,
+          "bedWarsDreamWinsAchievement": 0
         }
       }
     },

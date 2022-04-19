@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1629760658200,
+  "lastUpdated": 1650406065694,
   "challenges": {
     "arcade": [
       {
@@ -1072,6 +1072,38 @@
           {
             "type": "MultipliedExperienceReward",
             "amount": 3360
+          }
+        ]
+      }
+    ],
+    "woolgames": [
+      {
+        "id": "WOOL_GAMES__flawless_challenge",
+        "name": "Flawless Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3500
+          }
+        ]
+      },
+      {
+        "id": "WOOL_GAMES__builder_challenge",
+        "name": "Builder Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3500
+          }
+        ]
+      },
+      {
+        "id": "WOOL_GAMES__merciless_killer_challenge",
+        "name": "Merciless Killer Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3500
           }
         ]
       }

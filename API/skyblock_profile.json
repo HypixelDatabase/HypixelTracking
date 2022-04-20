@@ -638,7 +638,8 @@
           "kills_vanquisher": 0,
           "kills_baby_magma_slug": 0,
           "deaths_barbarians_guard": 0,
-          "kills_flaming_spider": 0
+          "kills_flaming_spider": 0,
+          "kills_magma_cube_rider": 0
         },
         "objectives": {
           "collect_log": {
@@ -2860,7 +2861,12 @@
           "zone_dragontail_town_bazaar",
           "zone_scarleton",
           "zone_forgotten_skull",
-          "zone_thaumaturgist"
+          "zone_thaumaturgist",
+          "thaumaturgist_1",
+          "zone_scarleton_courtyard",
+          "shop_lamp_shop",
+          "zone_scarleton_bank",
+          "shop_belanor"
         ],
         "quests": {
           "collect_log": {
@@ -3259,7 +3265,9 @@
           "dragontail_town_bazaar",
           "scarleton",
           "forgotten_skull",
-          "thaumaturgist"
+          "thaumaturgist",
+          "scarleton_courtyard",
+          "scarleton_bank"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -4004,7 +4012,9 @@
           "GEMSTONE_COLLECTION_10",
           "GEMSTONE_COLLECTION_11",
           "HARD_STONE_7",
-          "MAGMA_FISH_-1"
+          "MAGMA_FISH_-1",
+          "MYCEL_-1",
+          "MYCEL_1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4103,7 +4113,8 @@
           "ENCHANTED_OBSIDIAN": 0,
           "ENCHANTED_QUARTZ": 0,
           "ENCHANTED_ENDER_PEARL": 0,
-          "MAGMA_FISH": 0
+          "MAGMA_FISH": 0,
+          "MYCEL": 0
         },
         "quiver": {
           "type": 0,

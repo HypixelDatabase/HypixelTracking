@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1643133871680,
+  "lastUpdated": 1650468165681,
   "quests": {
     "quake": [
       {
@@ -3404,6 +3404,221 @@
           }
         ],
         "description": "Win 50 games of Duels"
+      }
+    ],
+    "woolgames": [
+      {
+        "id": "wool_wars_daily_play",
+        "name": "Daily Quest: First Play of the Day",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 2500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "wool_daily_play",
+            "type": "IntegerObjective",
+            "integer": 1
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Play 1 Wool Game"
+      },
+      {
+        "id": "wool_wars_daily_shears",
+        "name": "Daily Quest: Wool Collector",
+        "rewards": [
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 1000
+          },
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "wool_daily_shears",
+            "type": "IntegerObjective",
+            "integer": 25
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Shear 25 Layers from your sheep"
+      },
+      {
+        "id": "wool_wars_daily_wins",
+        "name": "Daily Quest: Winner Winner Lamb Dinner",
+        "rewards": [
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 1500
+          },
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 750
+          }
+        ],
+        "objectives": [
+          {
+            "id": "win",
+            "type": "IntegerObjective",
+            "integer": 3
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Win 3 Wool Games"
+      },
+      {
+        "id": "wool_wars_daily_kills",
+        "name": "Daily Quest: Kills",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 1000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 3000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "kill",
+            "type": "IntegerObjective",
+            "integer": 20
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Kill 20 players"
+      },
+      {
+        "id": "wool_wars_daily_block_place",
+        "name": "Daily Quest: Builder",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 1000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 3000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "wool_wars_daily_block_place",
+            "type": "IntegerObjective",
+            "integer": 120
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Place 120 blocks"
+      },
+      {
+        "id": "wool_wars_daily_block_break",
+        "name": "Daily Quest: Block Smasher",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 1000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 3000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "wool_wars_daily_block_break",
+            "type": "IntegerObjective",
+            "integer": 120
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Break 120 blocks"
+      },
+      {
+        "id": "wool_weekly_play",
+        "name": "Weekly Quest: King of the heard",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 10000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "wool_weekly_play",
+            "type": "IntegerObjective",
+            "integer": 15
+          },
+          {
+            "id": "wool_weekly_play",
+            "type": "IntegerObjective",
+            "integer": 100
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Win 15 Wool Games\nKill 100 players"
+      },
+      {
+        "id": "wool_wars_weekly_shears",
+        "name": "Weekly Quest: Wool Connoisseur",
+        "rewards": [
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 10000
+          },
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 5000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "wool_weekly_shears",
+            "type": "IntegerObjective",
+            "integer": 200
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Shear 200 Layers from your sheep"
       }
     ]
   }

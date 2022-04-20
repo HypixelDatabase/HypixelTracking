@@ -639,7 +639,10 @@
           "kills_baby_magma_slug": 0,
           "deaths_barbarians_guard": 0,
           "kills_flaming_spider": 0,
-          "kills_magma_cube_rider": 0
+          "kills_magma_cube_rider": 0,
+          "kills_magma_slug": 0,
+          "kills_moogma": 0,
+          "kills_lava_leech": 0
         },
         "objectives": {
           "collect_log": {
@@ -2866,7 +2869,10 @@
           "zone_scarleton_courtyard",
           "shop_lamp_shop",
           "zone_scarleton_bank",
-          "shop_belanor"
+          "shop_belanor",
+          "zone_cathedral",
+          "zone_scarleton_community_center",
+          "zone_dojo"
         ],
         "quests": {
           "collect_log": {
@@ -3267,7 +3273,10 @@
           "forgotten_skull",
           "thaumaturgist",
           "scarleton_courtyard",
-          "scarleton_bank"
+          "scarleton_bank",
+          "cathedral",
+          "scarleton_community_center",
+          "dojo"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -4014,7 +4023,9 @@
           "HARD_STONE_7",
           "MAGMA_FISH_-1",
           "MYCEL_-1",
-          "MYCEL_1"
+          "MYCEL_1",
+          "SAND:1_-1",
+          "SULPHUR_ORE_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4114,7 +4125,9 @@
           "ENCHANTED_QUARTZ": 0,
           "ENCHANTED_ENDER_PEARL": 0,
           "MAGMA_FISH": 0,
-          "MYCEL": 0
+          "MYCEL": 0,
+          "SAND:1": 0,
+          "SULPHUR_ORE": 0
         },
         "quiver": {
           "type": 0,

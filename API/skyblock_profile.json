@@ -644,7 +644,8 @@
           "kills_moogma": 0,
           "kills_lava_leech": 0,
           "deaths_barbarian_duke_x": 0,
-          "kills_dojo_knockback_zombie": 0
+          "kills_dojo_knockback_zombie": 0,
+          "deaths_charging_mushroom_cow": 0
         },
         "objectives": {
           "collect_log": {
@@ -2884,7 +2885,14 @@
           "dojo_challenge_unlocked_sword_swap",
           "dojo_challenge_completed_sword_swap",
           "dojo_challenge_unlocked_snake",
-          "yellow_combat_exp"
+          "yellow_combat_exp",
+          "dojo_yellow_belt_upgrade",
+          "green_combat_exp",
+          "dojo_green_belt_upgrade",
+          "dojo_challenge_completed_snake",
+          "dojo_challenge_unlocked_lock_head",
+          "dojo_challenge_completed_archer",
+          "dojo_challenge_unlocked_fireball"
         ],
         "quests": {
           "collect_log": {

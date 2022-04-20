@@ -642,7 +642,9 @@
           "kills_magma_cube_rider": 0,
           "kills_magma_slug": 0,
           "kills_moogma": 0,
-          "kills_lava_leech": 0
+          "kills_lava_leech": 0,
+          "deaths_barbarian_duke_x": 0,
+          "kills_dojo_knockback_zombie": 0
         },
         "objectives": {
           "collect_log": {
@@ -2874,7 +2876,15 @@
           "zone_scarleton_community_center",
           "zone_dojo",
           "dojo_white_belt_item",
-          "talked_to_dojo_master"
+          "talked_to_dojo_master",
+          "dojo_challenge_completed_mob_kb",
+          "dojo_challenge_unlocked_wall_jump",
+          "dojo_challenge_completed_wall_jump",
+          "dojo_challenge_unlocked_archer",
+          "dojo_challenge_unlocked_sword_swap",
+          "dojo_challenge_completed_sword_swap",
+          "dojo_challenge_unlocked_snake",
+          "yellow_combat_exp"
         ],
         "quests": {
           "collect_log": {
@@ -3278,7 +3288,8 @@
           "scarleton_bank",
           "cathedral",
           "scarleton_community_center",
-          "dojo"
+          "dojo",
+          "dojo_arena"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

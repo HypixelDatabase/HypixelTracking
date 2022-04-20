@@ -3259,7 +3259,8 @@
             "boss_kills_tier_1": 0,
             "boss_kills_tier_2": 0,
             "boss_kills_tier_3": 0
-          }
+          },
+          "blaze": {}
         },
         "pets": [
           {
@@ -5454,7 +5455,7 @@
         }
       ]
     },
-    "last_save": ""
+    "last_save": 0
   },
   "cause": "",
   "throttle": true

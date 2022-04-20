@@ -2554,6 +2554,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "increase_combat_skill_24": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "warp_crimson_isle": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3066,6 +3076,13 @@
             "completed_at_sb": 0
           },
           "talk_to_elle_1": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "increase_combat_skill_24": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,

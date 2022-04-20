@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1629721958231,
-  "version": "0.12.51",
+  "lastUpdated": 1650474765702,
+  "version": "0.13.1",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -219,7 +219,7 @@
         },
         "RAW_CHICKEN": {
           "name": "Raw Chicken",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -282,6 +282,13 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Super Enchanted Egg Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Omega Enchanted Egg Recipe"
               ]
             }
           ]
@@ -600,7 +607,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Mycelium Trade"
+                "Coming Soon (COMING SOON)"
               ]
             },
             {
@@ -886,7 +893,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Polymorph Wand (COMING SOON)",
+                "Horns of Torment Recipe",
                 "Large Husbandry Sack Recipe"
               ]
             },
@@ -1535,6 +1542,85 @@
             }
           ]
         },
+        "MYCEL": {
+          "name": "Mycelium",
+          "maxTiers": 10,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Mycelium Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 500,
+              "unlocks": [
+                "Suspicious Stew Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 750,
+              "unlocks": [
+                "Enchanted Mycelium Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Mushroom Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Mycelium Dust Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Corrupt Soil Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Enchanted Mycelium Cube Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Mystery Mooshroom Cow Pet Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Shimmering Light Hood Recipe",
+                "Shimmering Light Tunic Recipe",
+                "Shimmering Light Trousers Recipe",
+                "Shimmering Light Slippers Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Gauntlet of Contagion Recipe"
+              ]
+            }
+          ]
+        },
         "ENDER_STONE": {
           "name": "End Stone",
           "maxTiers": 10,
@@ -1695,7 +1781,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Red Sand Trade"
+                "Coming Soon (COMING SOON)"
               ]
             },
             {
@@ -1844,13 +1930,14 @@
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Flawed Ruby Gemstone Recipe",
-                "Flawed Jade Gemstone Recipe",
-                "Flawed Sapphire Gemstone Recipe",
-                "Flawed Amethyst Gemstone Recipe",
-                "Flawed Amber Gemstone Recipe",
-                "Flawed Topaz Gemstone Recipe",
-                "Flawed Jasper Gemstone Recipe"
+                "❤ Flawed Ruby Gemstone Recipe",
+                "☘ Flawed Jade Gemstone Recipe",
+                "✎ Flawed Sapphire Gemstone Recipe",
+                "❈ Flawed Amethyst Gemstone Recipe",
+                "⸕ Flawed Amber Gemstone Recipe",
+                "✧ Flawed Topaz Gemstone Recipe",
+                "❁ Flawed Jasper Gemstone Recipe",
+                "❂ Flawed Opal Gemstone Recipe"
               ]
             },
             {
@@ -1871,13 +1958,14 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Fine Ruby Gemstone Recipe",
-                "Fine Jade Gemstone Recipe",
-                "Fine Sapphire Gemstone Recipe",
-                "Fine Amethyst Gemstone Recipe",
-                "Fine Amber Gemstone Recipe",
-                "Fine Topaz Gemstone Recipe",
-                "Fine Jasper Gemstone Recipe"
+                "❤ Fine Ruby Gemstone Recipe",
+                "☘ Fine Jade Gemstone Recipe",
+                "✎ Fine Sapphire Gemstone Recipe",
+                "❈ Fine Amethyst Gemstone Recipe",
+                "⸕ Fine Amber Gemstone Recipe",
+                "✧ Fine Topaz Gemstone Recipe",
+                "❁ Fine Jasper Gemstone Recipe",
+                "❂ Fine Opal Gemstone Recipe"
               ]
             },
             {
@@ -1895,7 +1983,8 @@
                 "Sapphire Power Scroll Recipe",
                 "Jasper Power Scroll Recipe",
                 "Amethyst Power Scroll Recipe",
-                "Amber Power Scroll Recipe"
+                "Amber Power Scroll Recipe",
+                "Opal Power Scroll Recipe"
               ]
             },
             {
@@ -1909,13 +1998,14 @@
               "tier": 9,
               "amountRequired": 500000,
               "unlocks": [
-                "Flawless Ruby Gemstone Recipe",
-                "Flawless Jade Gemstone Recipe",
-                "Flawless Sapphire Gemstone Recipe",
-                "Flawless Amethyst Gemstone Recipe",
-                "Flawless Amber Gemstone Recipe",
-                "Flawless Topaz Gemstone Recipe",
-                "Flawless Jasper Gemstone Recipe"
+                "❤ Flawless Ruby Gemstone Recipe",
+                "☘ Flawless Jade Gemstone Recipe",
+                "✎ Flawless Sapphire Gemstone Recipe",
+                "❈ Flawless Amethyst Gemstone Recipe",
+                "⸕ Flawless Amber Gemstone Recipe",
+                "✧ Flawless Topaz Gemstone Recipe",
+                "❁ Flawless Jasper Gemstone Recipe",
+                "❂ Flawless Opal Gemstone Recipe"
               ]
             },
             {
@@ -1923,13 +2013,14 @@
               "amountRequired": 1000000,
               "unlocks": [
                 "Artifact of Power Recipe",
-                "Perfect Ruby Gemstone Dwarven Forge Recipe",
-                "Perfect Jade Gemstone Dwarven Forge Recipe",
-                "Perfect Sapphire Gemstone Dwarven Forge Recipe",
-                "Perfect Amethyst Gemstone Dwarven Forge Recipe",
-                "Perfect Amber Gemstone Dwarven Forge Recipe",
-                "Perfect Topaz Gemstone Dwarven Forge Recipe",
-                "Perfect Jasper Gemstone Dwarven Forge Recipe"
+                "❤ Perfect Ruby Gemstone Dwarven Forge Recipe",
+                "☘ Perfect Jade Gemstone Dwarven Forge Recipe",
+                "✎ Perfect Sapphire Gemstone Dwarven Forge Recipe",
+                "❈ Perfect Amethyst Gemstone Dwarven Forge Recipe",
+                "⸕ Perfect Amber Gemstone Dwarven Forge Recipe",
+                "✧ Perfect Topaz Gemstone Dwarven Forge Recipe",
+                "❁ Perfect Jasper Gemstone Dwarven Forge Recipe",
+                "❂ Perfect Opal Gemstone Dwarven Forge Recipe"
               ]
             },
             {
@@ -2005,7 +2096,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Coming Soon (COMING SOON)"
+                "Obsidian Tablet Recipe"
               ]
             },
             {
@@ -2173,7 +2264,7 @@
         },
         "GLOWSTONE_DUST": {
           "name": "Glowstone Dust",
-          "maxTiers": 9,
+          "maxTiers": 7,
           "tiers": [
             {
               "tier": 1,
@@ -2186,56 +2277,44 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Portal to Blazing Fortress Recipe"
+                "Portal to the Crimson Isle Recipe"
               ]
             },
             {
               "tier": 3,
-              "amountRequired": 250,
-              "unlocks": [
-                "+75 Mining Experience"
-              ]
-            },
-            {
-              "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Glowstone Dust Recipe"
               ]
             },
             {
-              "tier": 5,
+              "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Travel Scroll to Blazing Fortress Recipe"
+                "Travel Scroll to the Crimson Isle Recipe",
+                "Glowstone Gauntlet Recipe"
               ]
             },
             {
-              "tier": 6,
+              "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
                 "Enchanted Glowstone Recipe"
               ]
             },
             {
-              "tier": 7,
+              "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Redstone Lamp Recipe"
+                "Enchanted Redstone Lamp Recipe",
+                "Shiny Prism Recipe"
               ]
             },
             {
-              "tier": 8,
+              "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Glowstone Hat (COMING SOON)"
-              ]
-            },
-            {
-              "tier": 9,
-              "amountRequired": 50000,
-              "unlocks": [
-                "+15,000 Mining Experience"
+                "Vanquished Glowstone Gauntlet Recipe"
               ]
             }
           ]
@@ -2581,6 +2660,71 @@
             }
           ]
         },
+        "SAND:1": {
+          "name": "Red Sand",
+          "maxTiers": 8,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Red Sand Minion Recipes"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 500,
+              "unlocks": [
+                "Enchanted Red Sand Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Mesa Biome Stick Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Red Sand Cube Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Ancient Cloak Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Mystery Snail Pet Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Berserker Helmet Recipe",
+                "Berserker Chestplate Recipe",
+                "Berserker Leggings Recipe",
+                "Berserker Boots Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Everburning Flame Recipe"
+              ]
+            }
+          ]
+        },
         "ICE": {
           "name": "Ice",
           "maxTiers": 10,
@@ -2656,6 +2800,75 @@
               "amountRequired": 250000,
               "unlocks": [
                 "Auger Rod Recipe"
+              ]
+            }
+          ]
+        },
+        "SULPHUR_ORE": {
+          "name": "Sulphur",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 200,
+              "unlocks": [
+                "Match-Sticks Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Sulphur Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Small Nether Sack Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Totem of Corruption Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Medium Nether Sack Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Enchanted Sulphur Cube Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Sulphur Bow Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Large Nether Sack Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Implosion Belt Recipe"
               ]
             }
           ]
@@ -2847,7 +3060,7 @@
         },
         "MAGMA_CREAM": {
           "name": "Magma Cream",
-          "maxTiers": 9,
+          "maxTiers": 8,
           "tiers": [
             {
               "tier": 1,
@@ -2858,68 +3071,60 @@
             },
             {
               "tier": 2,
-              "amountRequired": 100,
-              "unlocks": [
-                "Magma Cube Head Recipe"
-              ]
-            },
-            {
-              "tier": 3,
               "amountRequired": 250,
               "unlocks": [
                 "Enchanted Book (Fire Protection IV) Recipe"
               ]
             },
             {
-              "tier": 4,
+              "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Nether Biome Stick Recipe"
-              ]
-            },
-            {
-              "tier": 5,
-              "amountRequired": 2500,
-              "unlocks": [
+                "Nether Biome Stick Recipe",
                 "Enchanted Magma Cream Recipe"
               ]
             },
             {
-              "tier": 6,
+              "tier": 4,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Magma Necklace Recipe"
+              ]
+            },
+            {
+              "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
                 "Lava Bucket Trade"
               ]
             },
             {
-              "tier": 7,
+              "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Lava Talisman Recipe"
+                "Lava Talisman Recipe",
+                "Searing Stone Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Vanquished Magma Necklace Recipe"
               ]
             },
             {
               "tier": 8,
-              "amountRequired": 25000,
-              "unlocks": [
-                "Armor of Magma Helmet Recipe",
-                "Armor of Magma Chestplate Recipe",
-                "Armor of Magma Leggings Recipe",
-                "Armor of Magma Boots Recipe"
-              ]
-            },
-            {
-              "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Magma Bow Recipe"
+                "Whipped Magma Cream Recipe"
               ]
             }
           ]
         },
         "GHAST_TEAR": {
           "name": "Ghast Tear",
-          "maxTiers": 9,
+          "maxTiers": 7,
           "tiers": [
             {
               "tier": 1,
@@ -2930,58 +3135,45 @@
             },
             {
               "tier": 2,
-              "amountRequired": 100,
-              "unlocks": [
-                "Ghast Head Recipe"
-              ]
-            },
-            {
-              "tier": 3,
               "amountRequired": 250,
               "unlocks": [
                 "Enchanted Book (Giant Killer IV) Recipe"
               ]
             },
             {
-              "tier": 4,
+              "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Ghast Tear Recipe"
               ]
             },
             {
-              "tier": 5,
+              "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Book (Vampirism IV) Recipe"
+                "Enchanted Book (Vampirism IV) Recipe",
+                "Ghast Cloak Recipe"
               ]
             },
             {
-              "tier": 6,
+              "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
                 "Silver Fang Recipe"
               ]
             },
             {
-              "tier": 7,
+              "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Ghast Armor (COMING SOON)"
+                "Meteor Shard Recipe"
               ]
             },
             {
-              "tier": 8,
+              "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "+2,500 Combat Experience"
-              ]
-            },
-            {
-              "tier": 9,
-              "amountRequired": 50000,
-              "unlocks": [
-                "+5,000 Combat Experience"
+                "Vanquished Ghast Cloak Recipe"
               ]
             }
           ]
@@ -3283,7 +3475,7 @@
         },
         "BLAZE_ROD": {
           "name": "Blaze Rod",
-          "maxTiers": 9,
+          "maxTiers": 8,
           "tiers": [
             {
               "tier": 1,
@@ -3294,58 +3486,54 @@
             },
             {
               "tier": 2,
-              "amountRequired": 100,
-              "unlocks": [
-                "Blaze Hat (COMING SOON)"
-              ]
-            },
-            {
-              "tier": 3,
               "amountRequired": 250,
               "unlocks": [
                 "Enchanted Book (Fire Aspect I) Recipe"
               ]
             },
             {
-              "tier": 4,
+              "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Blaze Powder Recipe"
               ]
             },
             {
-              "tier": 5,
+              "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Fire Talisman Recipe"
+                "Fire Talisman Recipe",
+                "Blaze Belt Recipe"
               ]
             },
             {
-              "tier": 6,
+              "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
                 "Enchanted Book (Flame I) Recipe"
               ]
             },
             {
-              "tier": 7,
+              "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Blaze Rod Recipe"
+                "Enchanted Blaze Rod Recipe",
+                "Blaze Wax Recipe"
               ]
             },
             {
-              "tier": 8,
+              "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
                 "Blaze Helmet Recipe",
                 "Blaze Chestplate Recipe",
                 "Blaze Leggings Recipe",
-                "Blaze Boots Recipe"
+                "Blaze Boots Recipe",
+                "Vanquished Blaze Belt Recipe"
               ]
             },
             {
-              "tier": 9,
+              "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
                 "Mystery Blaze Pet Recipe"
@@ -3486,7 +3674,7 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Foraging Experience"
+                "Acacia Birdhouse Recipe"
               ]
             },
             {
@@ -4335,6 +4523,96 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Salmon Hat (COMING SOON)"
+              ]
+            }
+          ]
+        },
+        "MAGMA_FISH": {
+          "name": "Magmafish",
+          "maxTiers": 12,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Magmafish Hat Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Hot Bait Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Silver Magmafish Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Magma Rod Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Corrupted Bait Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Small Lava Fishing Sack Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 30000,
+              "unlocks": [
+                "Gold Magmafish Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Inferno Rod Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 75000,
+              "unlocks": [
+                "Medium Lava Fishing Sack Recipe"
+              ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Diamond Magmafish Recipe"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 250000,
+              "unlocks": [
+                "Large Lava Fishing Sack Recipe"
+              ]
+            },
+            {
+              "tier": 12,
+              "amountRequired": 500000,
+              "unlocks": [
+                "Hellfire Rod Recipe"
               ]
             }
           ]

@@ -629,7 +629,16 @@
           "kills_master_sadan_golem": 0,
           "deaths_master_zombie_commander": 0,
           "kills_master_wither_miner": 0,
-          "deaths_master_goldor": 0
+          "deaths_master_goldor": 0,
+          "kills_dive_ghast": 0,
+          "kills_intro_blaze": 0,
+          "kills_barbarian": 0,
+          "kills_fire_mage": 0,
+          "kills_charging_mushroom_cow": 0,
+          "kills_vanquisher": 0,
+          "kills_baby_magma_slug": 0,
+          "deaths_barbarians_guard": 0,
+          "kills_flaming_spider": 0
         },
         "objectives": {
           "collect_log": {
@@ -2564,6 +2573,21 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "help_elle": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_elle_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_nether_items": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2820,7 +2844,23 @@
           "target_practice_3",
           "dojo_challenge_unlocked_mob_kb",
           "zone_crimson_isle",
-          "zone_stronghold"
+          "zone_stronghold",
+          "zone_crimson_fields",
+          "zone_burning_desert",
+          "zone_dragontail_town",
+          "zone_bastion",
+          "zone_ashfang_ruins",
+          "zone_barbarian_outpost",
+          "zone_the_dukedom",
+          "zone_wasteland",
+          "zone_mystic_marsh",
+          "zone_mage_outpost",
+          "zone_blazing_volcano",
+          "zone_dragontail_town_square",
+          "zone_dragontail_town_bazaar",
+          "zone_scarleton",
+          "zone_forgotten_skull",
+          "zone_thaumaturgist"
         ],
         "quests": {
           "collect_log": {
@@ -3203,7 +3243,23 @@
           "museum",
           "harp_minigame",
           "crimson_isle",
-          "stronghold"
+          "stronghold",
+          "crimson_fields",
+          "burning_desert",
+          "dragontail_town",
+          "bastion",
+          "ashfang_ruins",
+          "barbarian_outpost",
+          "the_dukedom",
+          "wasteland",
+          "mystic_marsh",
+          "mage_outpost",
+          "blazing_volcano",
+          "dragontail_town_square",
+          "dragontail_town_bazaar",
+          "scarleton",
+          "forgotten_skull",
+          "thaumaturgist"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3947,7 +4003,8 @@
           "GEMSTONE_COLLECTION_9",
           "GEMSTONE_COLLECTION_10",
           "GEMSTONE_COLLECTION_11",
-          "HARD_STONE_7"
+          "HARD_STONE_7",
+          "MAGMA_FISH_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -4045,7 +4102,8 @@
           "ENCHANTED_DIAMOND_BLOCK": 0,
           "ENCHANTED_OBSIDIAN": 0,
           "ENCHANTED_QUARTZ": 0,
-          "ENCHANTED_ENDER_PEARL": 0
+          "ENCHANTED_ENDER_PEARL": 0,
+          "MAGMA_FISH": 0
         },
         "quiver": {
           "type": 0,

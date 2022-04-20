@@ -2549,6 +2549,11 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1645407243202
+          },
+          "talk_to_elle_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2802,7 +2807,10 @@
           "talk_to_slayer",
           "shop_banker",
           "shop_dwarf_banker",
-          "target_practice_3"
+          "target_practice_3",
+          "dojo_challenge_unlocked_mob_kb",
+          "zone_crimson_isle",
+          "zone_stronghold"
         ],
         "quests": {
           "collect_log": {
@@ -3056,6 +3064,13 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "talk_to_elle_1": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -3169,7 +3184,9 @@
           "greater_mines_fairy_grotto",
           "archery_range",
           "museum",
-          "harp_minigame"
+          "harp_minigame",
+          "crimson_isle",
+          "stronghold"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -3260,7 +3277,9 @@
             "boss_kills_tier_2": 0,
             "boss_kills_tier_3": 0
           },
-          "blaze": {}
+          "blaze": {
+            "claimed_levels": {}
+          }
         },
         "pets": [
           {

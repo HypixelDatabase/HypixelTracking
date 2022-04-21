@@ -2899,7 +2899,9 @@
           "zone_dragontail_chief_hut",
           "dojo_challenge_completed_fireball",
           "blue_combat_exp",
-          "dojo_blue_belt_upgrade"
+          "dojo_blue_belt_upgrade",
+          "zone_odger_hut",
+          "odger_first_time"
         ],
         "quests": {
           "collect_log": {
@@ -3307,7 +3309,8 @@
           "dojo_arena",
           "smoldering_tomb",
           "magma_chamber",
-          "dragontail_chief_hut"
+          "dragontail_chief_hut",
+          "odger_hut"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -4057,7 +4060,8 @@
           "MYCEL_1",
           "SAND:1_-1",
           "SULPHUR_ORE_-1",
-          "RAW_CHICKEN_10"
+          "RAW_CHICKEN_10",
+          "MAGMA_FISH_1"
         ],
         "fishing_bag": {
           "type": 0,

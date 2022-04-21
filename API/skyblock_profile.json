@@ -645,7 +645,8 @@
           "kills_lava_leech": 0,
           "deaths_barbarian_duke_x": 0,
           "kills_dojo_knockback_zombie": 0,
-          "deaths_charging_mushroom_cow": 0
+          "deaths_charging_mushroom_cow": 0,
+          "deaths_smoldering_blaze": 0
         },
         "objectives": {
           "collect_log": {
@@ -2892,7 +2893,10 @@
           "dojo_challenge_completed_snake",
           "dojo_challenge_unlocked_lock_head",
           "dojo_challenge_completed_archer",
-          "dojo_challenge_unlocked_fireball"
+          "dojo_challenge_unlocked_fireball",
+          "zone_smoldering_tomb",
+          "zone_magma_chamber",
+          "zone_dragontail_chief_hut"
         ],
         "quests": {
           "collect_log": {
@@ -3297,7 +3301,10 @@
           "cathedral",
           "scarleton_community_center",
           "dojo",
-          "dojo_arena"
+          "dojo_arena",
+          "smoldering_tomb",
+          "magma_chamber",
+          "dragontail_chief_hut"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

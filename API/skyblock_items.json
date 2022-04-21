@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1650488342000,
+  "lastUpdated": 1650564987000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -48962,7 +48962,16 @@
         "FEROCITY": 1
       },
       "can_have_attributes": true,
-      "salvageable_from_recipe": true,
+      "salvages": [
+        {
+          "essence_type": "CRIMSON",
+          "amount": 50
+        },
+        {
+          "item_id": "LEATHER_CLOTH",
+          "amount": 3
+        }
+      ],
       "upgrade_costs": [
         [
           {

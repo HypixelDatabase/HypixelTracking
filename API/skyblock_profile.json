@@ -646,7 +646,11 @@
           "deaths_barbarian_duke_x": 0,
           "kills_dojo_knockback_zombie": 0,
           "deaths_charging_mushroom_cow": 0,
-          "deaths_smoldering_blaze": 0
+          "deaths_smoldering_blaze": 0,
+          "kills_fire_eel": 0,
+          "items_fished_trophy_fish": 0,
+          "kills_pyroclastic_worm": 0,
+          "kills_lava_flame": 0
         },
         "objectives": {
           "collect_log": {
@@ -4061,7 +4065,9 @@
           "SAND:1_-1",
           "SULPHUR_ORE_-1",
           "RAW_CHICKEN_10",
-          "MAGMA_FISH_1"
+          "MAGMA_FISH_1",
+          "MAGMA_FISH_3",
+          "MAGMA_FISH_2"
         ],
         "fishing_bag": {
           "type": 0,

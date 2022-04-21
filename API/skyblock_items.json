@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1650473353000,
+  "lastUpdated": 1650488342000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -18108,7 +18108,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNlODMwZjIwZDBkZmIyNDI3Nzk3NTFmN2E1YzY4ZTY3ODg4OGY3Mjc1ODYxNDY1NGI2NTU2MjVjZjk0MzI0MyJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDMzMjE4MjYxOCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YWJkNjMzNTU0ZjdmZDI1OTZjMjg0Mjc1OGU5NWMwNWE5YjdkNzIzMTFkNTgyOWVlNWVkMjhhOTYwZTc0Y2ZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Arachne Fragment",
       "tier": "RARE",
       "id": "ARACHNE_FRAGMENT"
@@ -63225,8 +63225,8 @@
       "npc_sell_price": 93750,
       "requirements": {
         "skill": {
-          "type": "COMBAT",
-          "level": 21
+          "type": "FISHING",
+          "level": 45
         }
       },
       "stats": {
@@ -67477,6 +67477,7 @@
       "tier": "RARE",
       "unstackable": true,
       "soulbound": "SOLO",
+      "category": "ACCESSORY",
       "stats": {
         "TRUE_DEFENSE": 3
       },
@@ -70557,7 +70558,7 @@
       "name": "Maddox Batphone",
       "tier": "UNCOMMON",
       "unstackable": true,
-      "soulbound": "SOLO",
+      "soulbound": "COOP",
       "requirements": {
         "slayer": {
           "slayer_boss_type": "wolf",

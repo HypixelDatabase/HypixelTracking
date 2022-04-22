@@ -2700,6 +2700,61 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_elle_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "infiltrate_the_bastion": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "elle_phone_call": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_the_dean": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "go_to_mage_council": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "meet_dean_at_academy": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_the_apprentice": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "look_for_apprentice": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "call_for_help": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "wait_for_help": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_dean_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3014,7 +3069,9 @@
           "shop_hilda",
           "zone_underground_lava_pool",
           "zone_scarleton_blacksmith",
-          "zone_scarleton_throne_room"
+          "zone_scarleton_throne_room",
+          "zone_scarleton_bazaar",
+          "zone_scarleton_mage_council"
         ],
         "quests": {
           "collect_log": {
@@ -3303,6 +3360,13 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "meet_dean_at_academy": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -3452,7 +3516,9 @@
           "scarleton_minion_shop",
           "underground_lava_pool",
           "scarleton_blacksmith",
-          "scarleton_throne_room"
+          "scarleton_throne_room",
+          "scarleton_bazaar",
+          "scarleton_mage_council"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

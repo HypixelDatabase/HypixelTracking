@@ -656,7 +656,9 @@
           "deaths_mage_outlaw": 0,
           "deaths_magma_boss": 0,
           "kills_magma_glare": 0,
-          "kills_unstable_magma": 0
+          "kills_unstable_magma": 0,
+          "kills_mage_skull": 0,
+          "kills_mage_outlaw": 0
         },
         "objectives": {
           "collect_log": {
@@ -2917,7 +2919,8 @@
           "zone_dragontail_town_auction_house",
           "zone_scarleton_plaza",
           "zone_scarleton_minion_shop",
-          "shop_hilda"
+          "shop_hilda",
+          "zone_underground_lava_pool"
         ],
         "quests": {
           "collect_log": {
@@ -3331,7 +3334,8 @@
           "dragontail_town_blacksmith",
           "dragontail_town_auction_house",
           "scarleton_plaza",
-          "scarleton_minion_shop"
+          "scarleton_minion_shop",
+          "underground_lava_pool"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

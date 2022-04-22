@@ -2619,6 +2619,87 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "explore_nether_island": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0,
+            "faction": ""
+          },
+          "faction_villagers": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0,
+            "barbarians_talked_to": 0,
+            "barbarian_emissary": 0,
+            "suus_child": 0,
+            "suus": 0,
+            "plenk": 0,
+            "mages_talked_to": 0,
+            "Offea": 0,
+            "Ulyn": 0,
+            "lamp_shop": 0,
+            "Kheharad": 0
+          },
+          "choose_faction": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "select_mage_faction": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_dean": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "maddox_batphone": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "interested_in_magic": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "bring_the_letter_to_the_queen": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_the_queen": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_abiphone_shop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "purchase_abiphone": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "call_dean_on_abiphone": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_elle": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "follow_elle": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -2931,7 +3012,9 @@
           "zone_scarleton_plaza",
           "zone_scarleton_minion_shop",
           "shop_hilda",
-          "zone_underground_lava_pool"
+          "zone_underground_lava_pool",
+          "zone_scarleton_blacksmith",
+          "zone_scarleton_throne_room"
         ],
         "quests": {
           "collect_log": {
@@ -3199,6 +3282,27 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "select_mage_faction": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "find_abiphone_shop": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "find_elle": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -3346,7 +3450,9 @@
           "dragontail_town_auction_house",
           "scarleton_plaza",
           "scarleton_minion_shop",
-          "underground_lava_pool"
+          "underground_lava_pool",
+          "scarleton_blacksmith",
+          "scarleton_throne_room"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

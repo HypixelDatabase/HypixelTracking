@@ -653,7 +653,10 @@
           "kills_lava_flame": 0,
           "kills_pig_rider": 0,
           "kills_wither_spectre": 0,
-          "deaths_mage_outlaw": 0
+          "deaths_mage_outlaw": 0,
+          "deaths_magma_boss": 0,
+          "kills_magma_glare": 0,
+          "kills_unstable_magma": 0
         },
         "objectives": {
           "collect_log": {
@@ -2911,7 +2914,10 @@
           "odger_first_time",
           "zone_dragontail_town_bank",
           "zone_dragontail_town_blacksmith",
-          "zone_dragontail_town_auction_house"
+          "zone_dragontail_town_auction_house",
+          "zone_scarleton_plaza",
+          "zone_scarleton_minion_shop",
+          "shop_hilda"
         ],
         "quests": {
           "collect_log": {
@@ -3323,7 +3329,9 @@
           "odger_hut",
           "dragontail_town_bank",
           "dragontail_town_blacksmith",
-          "dragontail_town_auction_house"
+          "dragontail_town_auction_house",
+          "scarleton_plaza",
+          "scarleton_minion_shop"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

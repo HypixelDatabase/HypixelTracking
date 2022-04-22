@@ -2910,7 +2910,8 @@
           "zone_odger_hut",
           "odger_first_time",
           "zone_dragontail_town_bank",
-          "zone_dragontail_town_blacksmith"
+          "zone_dragontail_town_blacksmith",
+          "zone_dragontail_town_auction_house"
         ],
         "quests": {
           "collect_log": {
@@ -3321,7 +3322,8 @@
           "dragontail_chief_hut",
           "odger_hut",
           "dragontail_town_bank",
-          "dragontail_town_blacksmith"
+          "dragontail_town_blacksmith",
+          "dragontail_town_auction_house"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -4075,7 +4077,13 @@
           "MAGMA_FISH_1",
           "MAGMA_FISH_3",
           "MAGMA_FISH_2",
-          "MAGMA_FISH_4"
+          "MAGMA_FISH_4",
+          "SAND:1_1",
+          "SAND:1_3",
+          "SAND:1_2",
+          "SAND:1_5",
+          "SAND:1_4",
+          "SAND:1_6"
         ],
         "fishing_bag": {
           "type": 0,

@@ -2755,6 +2755,56 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "collect_items_for_dean": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_igrupan": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "help_igrupan": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_odexar": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_odexars_fish_to_odger": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fish_a_better_trophy_fish": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_odgers_fish_to_odexar": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_dean_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_hallowed_skull_to_dean": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_lumino_fiber_to_dean": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3071,7 +3121,10 @@
           "zone_scarleton_blacksmith",
           "zone_scarleton_throne_room",
           "zone_scarleton_bazaar",
-          "zone_scarleton_mage_council"
+          "zone_scarleton_mage_council",
+          "zone_igrupan_chicken_coop",
+          "zone_igrupan_house",
+          "odexar_first_time"
         ],
         "quests": {
           "collect_log": {
@@ -3367,6 +3420,13 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "collect_items_for_dean": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -3518,7 +3578,9 @@
           "scarleton_blacksmith",
           "scarleton_throne_room",
           "scarleton_bazaar",
-          "scarleton_mage_council"
+          "scarleton_mage_council",
+          "igrupan_chicken_coop",
+          "igrupan_house"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

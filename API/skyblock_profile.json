@@ -2812,6 +2812,37 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "give_leather_cloth_to_dean": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_captain_ahone": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "meet_captain_ahone": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_elle_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "defeat_the_monster": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0,
+            "completions": 0
+          },
+          "talk_to_dean_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3439,6 +3470,13 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "talk_to_captain_ahone": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -3594,7 +3632,8 @@
           "igrupan_chicken_coop",
           "igrupan_house",
           "dragontail_minion_shop",
-          "scarleton_auction_house"
+          "scarleton_auction_house",
+          "instanced"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

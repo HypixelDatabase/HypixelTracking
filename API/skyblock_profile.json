@@ -3177,7 +3177,9 @@
           "shop_marthos",
           "duel_training_mages",
           "zone_scarleton_auction_house",
-          "mages_emissary_first_time"
+          "mages_emissary_first_time",
+          "zone_matriarch_lair",
+          "zone_matriarch_stomach"
         ],
         "quests": {
           "collect_log": {
@@ -3643,7 +3645,9 @@
           "igrupan_house",
           "dragontail_minion_shop",
           "scarleton_auction_house",
-          "instanced"
+          "instanced",
+          "matriarch_lair",
+          "matriarch_stomach"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

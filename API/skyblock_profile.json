@@ -669,7 +669,8 @@
           "kills_mutated_blaze": 0,
           "deaths_bladesoul": 0,
           "kills_bladesoul": 0,
-          "kills_wither_defender_guard": 0
+          "kills_wither_defender_guard": 0,
+          "kills_duelist_rollim": 0
         },
         "objectives": {
           "collect_log": {
@@ -2639,7 +2640,13 @@
             "Offea": 0,
             "Ulyn": 0,
             "lamp_shop": 0,
-            "Kheharad": 0
+            "Kheharad": 0,
+            "sulphurcare_1": 0,
+            "crafter0": 0,
+            "bruuh": 0,
+            "mage_emissary": 0,
+            "Colore": 0,
+            "crafter1": 0
           },
           "choose_faction": {
             "status": "",
@@ -3124,7 +3131,12 @@
           "zone_scarleton_mage_council",
           "zone_igrupan_chicken_coop",
           "zone_igrupan_house",
-          "odexar_first_time"
+          "odexar_first_time",
+          "shop_bruto",
+          "zone_dragontail_minion_shop",
+          "shop_marthos",
+          "duel_training_mages",
+          "zone_scarleton_auction_house"
         ],
         "quests": {
           "collect_log": {
@@ -3580,7 +3592,9 @@
           "scarleton_bazaar",
           "scarleton_mage_council",
           "igrupan_chicken_coop",
-          "igrupan_house"
+          "igrupan_house",
+          "dragontail_minion_shop",
+          "scarleton_auction_house"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

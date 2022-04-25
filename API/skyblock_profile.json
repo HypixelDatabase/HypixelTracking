@@ -3746,7 +3746,9 @@
             "boss_kills_tier_3": 0
           },
           "blaze": {
-            "claimed_levels": {}
+            "claimed_levels": {},
+            "boss_kills_tier_0": 0,
+            "xp": 0
           }
         },
         "pets": [
@@ -4827,7 +4829,8 @@
           "RUNE_ENCHANT_1": 0,
           "RUNE_ENCHANT_3": 0,
           "RUNE_DRAGON_2": 0,
-          "STONE": 0
+          "STONE": 0,
+          "DERELICT_ASHE": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

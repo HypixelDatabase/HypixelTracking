@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1650474765728,
-  "version": "0.13.1",
+  "lastUpdated": 1650900165770,
+  "version": "0.13.16",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -14,7 +14,7 @@
           "unlocks": [
             "Farmhand I   Grants +4 ☘ Farming Fortune, which increases your chance for multiple crops.",
             "+2 ❤ Health",
-            "Access to The Barn",
+            "+Access to The Barn",
             "+25 Coins"
           ]
         },
@@ -51,7 +51,7 @@
           "unlocks": [
             "Farmhand V   Grants +16➜20 ☘ Farming Fortune, which increases your chance for multiple crops.",
             "+2 ❤ Health",
-            "Access to Mushroom Desert",
+            "+Access to Mushroom Desert",
             "+300 Coins"
           ]
         },
@@ -563,7 +563,7 @@
           "unlocks": [
             "Spelunker I   Grants +4 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
-            "Access to Gold Mine",
+            "+Access to Gold Mine",
             "Jerry Stone Reforge",
             "+25 Coins"
           ]
@@ -602,7 +602,7 @@
           "unlocks": [
             "Spelunker V   Grants +16➜20 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
-            "Access to Deep Caverns",
+            "+Access to Deep Caverns",
             "Lapis Crystal Reforge",
             "Moil Log Reforge",
             "+300 Coins"
@@ -1156,7 +1156,7 @@
           "unlocks": [
             "Warrior I   Deal 4% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Access to Spider's Den",
+            "+Access to Spider's Den",
             "+25 Coins"
           ]
         },
@@ -1193,7 +1193,7 @@
           "unlocks": [
             "Warrior V   Deal 16➜20% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Access to Wardrobe System in SkyBlock Menu",
+            "+Access to Wardrobe System in SkyBlock Menu",
             "+300 Coins"
           ]
         },
@@ -1203,6 +1203,7 @@
           "unlocks": [
             "Warrior VI   Deal 20➜24% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
+            "+Auto-pickup block and mob drops",
             "+400 Coins"
           ]
         },
@@ -1257,7 +1258,7 @@
           "unlocks": [
             "Warrior XII   Deal 44➜48% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Access to The End",
+            "+Access to The End",
             "+1,000 Coins"
           ]
         },
@@ -1374,7 +1375,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Access to Crimson Isle",
+            "+Access to Crimson Isle",
             "Warrior XXIV   Deal 92➜96% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
             "+2,800 Coins"
@@ -1725,7 +1726,7 @@
           "unlocks": [
             "Logger I   Grants +4 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Birch Park",
+            "+Access to Birch Park",
             "+25 Coins"
           ]
         },
@@ -1735,7 +1736,7 @@
           "unlocks": [
             "Logger II   Grants +4➜8 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Spruce Woods",
+            "+Access to Spruce Woods",
             "+50 Coins"
           ]
         },
@@ -1745,7 +1746,7 @@
           "unlocks": [
             "Logger III   Grants +8➜12 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Dark Thicket",
+            "+Access to Dark Thicket",
             "+100 Coins"
           ]
         },
@@ -1755,7 +1756,7 @@
           "unlocks": [
             "Logger IV   Grants +12➜16 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Savanna Woodland",
+            "+Access to Savanna Woodland",
             "+200 Coins"
           ]
         },
@@ -1765,7 +1766,7 @@
           "unlocks": [
             "Logger V   Grants +16➜20 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Jungle Island",
+            "+Access to Jungle Island",
             "+300 Coins"
           ]
         },
@@ -2319,7 +2320,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 ❤ Health",
             "+1,200 Coins"
@@ -2329,8 +2330,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 ❤ Health",
             "+1,300 Coins"
@@ -2340,7 +2341,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 ❤ Health",
             "+1,400 Coins"
@@ -2350,9 +2351,9 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 ❤ Health",
             "+1,500 Coins"
@@ -2362,8 +2363,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Deep Sea Protector Sea Creature",
+            "Tiger Shark Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 ❤ Health",
             "+1,600 Coins"
@@ -2373,8 +2374,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins"
@@ -2384,8 +2385,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins"
@@ -2395,7 +2396,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins"
@@ -2405,7 +2406,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Pigman Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins"
@@ -2424,8 +2425,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Great White Shark Sea Creature",
+            "Zombie Miner Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
             "+2,800 Coins"
@@ -2435,7 +2436,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "??? Sea Creature",
+            "Yeti Sea Creature",
             "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 ❤ Health",
             "+3,000 Coins"
@@ -2445,7 +2446,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Grim Reaper Sea Creature",
             "Treasure Hunter XXVI   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 ❤ Health",
             "+3,500 Coins"
@@ -2455,7 +2456,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "??? Sea Creature",
+            "Magma Slug Sea Creature",
             "Treasure Hunter XXVII   Increases the chance to find treasure when fishing by 5.2➜5.4%.",
             "+5 ❤ Health",
             "+4,000 Coins"
@@ -2465,7 +2466,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "??? Sea Creature",
+            "Moogma Sea Creature",
             "Treasure Hunter XXVIII   Increases the chance to find treasure when fishing by 5.4➜5.6%.",
             "+5 ❤ Health",
             "+5,000 Coins"
@@ -3020,7 +3021,7 @@
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Titan Killer Enchantment",
-            "Don't Tell Me Twice Enchantment",
+            "Duplex Enchantment",
             "+5,000 Coins"
           ]
         },
@@ -5026,7 +5027,7 @@
           "unlocks": [
             "Farmhand I   Grants +4 ☘ Farming Fortune, which increases your chance for multiple crops.",
             "+2 ❤ Health",
-            "Access to The Barn",
+            "+Access to The Barn",
             "+25 Coins"
           ]
         },
@@ -5063,7 +5064,7 @@
           "unlocks": [
             "Farmhand V   Grants +16➜20 ☘ Farming Fortune, which increases your chance for multiple crops.",
             "+2 ❤ Health",
-            "Access to Mushroom Desert",
+            "+Access to Mushroom Desert",
             "+300 Coins"
           ]
         },
@@ -5575,7 +5576,7 @@
           "unlocks": [
             "Spelunker I   Grants +4 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
-            "Access to Gold Mine",
+            "+Access to Gold Mine",
             "Jerry Stone Reforge",
             "+25 Coins"
           ]
@@ -5614,7 +5615,7 @@
           "unlocks": [
             "Spelunker V   Grants +16➜20 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
-            "Access to Deep Caverns",
+            "+Access to Deep Caverns",
             "Lapis Crystal Reforge",
             "Moil Log Reforge",
             "+300 Coins"
@@ -6168,7 +6169,7 @@
           "unlocks": [
             "Warrior I   Deal 4% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Access to Spider's Den",
+            "+Access to Spider's Den",
             "+25 Coins"
           ]
         },
@@ -6205,7 +6206,7 @@
           "unlocks": [
             "Warrior V   Deal 16➜20% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Access to Wardrobe System in SkyBlock Menu",
+            "+Access to Wardrobe System in SkyBlock Menu",
             "+300 Coins"
           ]
         },
@@ -6215,6 +6216,7 @@
           "unlocks": [
             "Warrior VI   Deal 20➜24% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
+            "+Auto-pickup block and mob drops",
             "+400 Coins"
           ]
         },
@@ -6269,7 +6271,7 @@
           "unlocks": [
             "Warrior XII   Deal 44➜48% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Access to The End",
+            "+Access to The End",
             "+1,000 Coins"
           ]
         },
@@ -6386,7 +6388,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Access to Crimson Isle",
+            "+Access to Crimson Isle",
             "Warrior XXIV   Deal 92➜96% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
             "+2,800 Coins"
@@ -6737,7 +6739,7 @@
           "unlocks": [
             "Logger I   Grants +4 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Birch Park",
+            "+Access to Birch Park",
             "+25 Coins"
           ]
         },
@@ -6747,7 +6749,7 @@
           "unlocks": [
             "Logger II   Grants +4➜8 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Spruce Woods",
+            "+Access to Spruce Woods",
             "+50 Coins"
           ]
         },
@@ -6757,7 +6759,7 @@
           "unlocks": [
             "Logger III   Grants +8➜12 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Dark Thicket",
+            "+Access to Dark Thicket",
             "+100 Coins"
           ]
         },
@@ -6767,7 +6769,7 @@
           "unlocks": [
             "Logger IV   Grants +12➜16 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Savanna Woodland",
+            "+Access to Savanna Woodland",
             "+200 Coins"
           ]
         },
@@ -6777,7 +6779,7 @@
           "unlocks": [
             "Logger V   Grants +16➜20 ☘ Foraging Fortune, which increases your chance for multiple logs.",
             "+1 ❁ Strength",
-            "Access to Jungle Island",
+            "+Access to Jungle Island",
             "+300 Coins"
           ]
         },
@@ -7331,7 +7333,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 ❤ Health",
             "+1,200 Coins"
@@ -7341,8 +7343,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 ❤ Health",
             "+1,300 Coins"
@@ -7352,7 +7354,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 ❤ Health",
             "+1,400 Coins"
@@ -7362,9 +7364,9 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 ❤ Health",
             "+1,500 Coins"
@@ -7374,8 +7376,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Deep Sea Protector Sea Creature",
+            "Tiger Shark Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 ❤ Health",
             "+1,600 Coins"
@@ -7385,8 +7387,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins"
@@ -7396,8 +7398,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins"
@@ -7407,7 +7409,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins"
@@ -7417,7 +7419,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Pigman Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins"
@@ -7436,8 +7438,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Great White Shark Sea Creature",
+            "Zombie Miner Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
             "+2,800 Coins"
@@ -7447,7 +7449,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "??? Sea Creature",
+            "Yeti Sea Creature",
             "Treasure Hunter XXV   Increases the chance to find treasure when fishing by 4.8➜5%.",
             "+4 ❤ Health",
             "+3,000 Coins"
@@ -7457,7 +7459,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Grim Reaper Sea Creature",
             "Treasure Hunter XXVI   Increases the chance to find treasure when fishing by 5➜5.2%.",
             "+5 ❤ Health",
             "+3,500 Coins"
@@ -7467,7 +7469,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "??? Sea Creature",
+            "Magma Slug Sea Creature",
             "Treasure Hunter XXVII   Increases the chance to find treasure when fishing by 5.2➜5.4%.",
             "+5 ❤ Health",
             "+4,000 Coins"
@@ -7477,7 +7479,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "??? Sea Creature",
+            "Moogma Sea Creature",
             "Treasure Hunter XXVIII   Increases the chance to find treasure when fishing by 5.4➜5.6%.",
             "+5 ❤ Health",
             "+5,000 Coins"
@@ -8032,7 +8034,7 @@
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Titan Killer Enchantment",
-            "Don't Tell Me Twice Enchantment",
+            "Duplex Enchantment",
             "+5,000 Coins"
           ]
         },

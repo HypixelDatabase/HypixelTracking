@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1650564987000,
+  "lastUpdated": 1650863758000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -7806,6 +7806,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzk1NDY2NDEyNywKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjdjZmJiNmFmNzAwZTQ5YmZkYjYwMjM2OTIwYzUyMjA4NGJiODA4YWI2MTI0NzRmYjFmODNlYTQxMGQ1NDg0IgogICAgfQogIH0KfQ",
+      "name": "Century Cake of Hype",
+      "furniture": "EPOCH_CAKE_CYAN",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_CYAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDQ2MzA0MzI2NywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjU4Y2QyNzUwODg0NDcxYzA4MzYzNDMzNDNlYzZlMTg4MjI5ZGEwNTRlZjM2NzEwMTNhZThkNDNkNmIwMjU0OCIKICAgIH0KICB9Cn0=",
       "name": "Latest Update Century Cake",
       "furniture": "EPOCH_CAKE_ORANGE",
@@ -7842,6 +7852,26 @@
       "tier": "UNCOMMON",
       "museum": true,
       "id": "EPOCH_CAKE_YELLOW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzk1NDY0ODIwMCwKICAicHJvZmlsZUlkIiA6ICI4Zjk3NzhmNWVhMTY0MDVmOWEwMDM0YjU4YjljMWM2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bm5hbWVkYXV0aG9yIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhMGE1YjUxMGE4ZDgyNGZmNDkxMGNhNWIyNjk4YWEzZDAzMGY4Mzc4MTBlOGQ3ZjBiYmNhOGNmMDZjZTIwMjMiCiAgICB9CiAgfQp9",
+      "name": "Cloudy Century Cake",
+      "furniture": "EPOCH_CAKE_WHITE",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_WHITE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzk1NDY4MzMwMCwKICAicHJvZmlsZUlkIiA6ICJlMmVkYTM1YjMzZGU0M2UxOTVhZmRkNDgxNzQ4ZDlhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGFsa19SaWNlR0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIzN2NkZmQ3ZDNmMjBlMGY1YjY5N2EyMGM4NTMyNGZiYjdiY2Q0MDllNjUzMzM3Y2NkNWE5Y2U4Y2NhZmMxZCIKICAgIH0KICB9Cn0",
+      "name": "Chocolate Century Cake",
+      "furniture": "EPOCH_CAKE_BROWN",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_BROWN"
     },
     {
       "material": "SKULL_ITEM",
@@ -17180,6 +17210,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
+      "soulbound": "COOP",
       "id": "WOLF_PAW"
     },
     {
@@ -18454,6 +18485,7 @@
       "name": "Travel Scroll to Dwarven Mines",
       "category": "TRAVEL_SCROLL",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "MINING_3_TRAVEL_SCROLL"
     },
     {
@@ -21006,6 +21038,7 @@
       "glowing": true,
       "tier": "SPECIAL",
       "museum": true,
+      "soulbound": "COOP",
       "id": "NOPE_THE_FISH"
     },
     {
@@ -23719,6 +23752,7 @@
       "name": "Frozen Chicken",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "npc_sell_price": 1,
       "id": "FROZEN_CHICKEN"
     },
@@ -23910,7 +23944,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmIzOWMwZTUzZTc5ZTdlYmQ0ZGI2YzZkMDk2YzlkOWExNjBjZmYyNzgyMmMwNzdmYjhmNWQ0NTk2OWNjNDk3MiJ9fX0=",
       "name": "Corrupted Fragment",
       "tier": "EPIC",
-      "npc_sell_price": 500,
+      "npc_sell_price": 20,
       "description": "%%gray%%%%italic%%Spreads fast.",
       "soulbound": "COOP",
       "id": "CORRUPTED_FRAGMENT"
@@ -27238,6 +27272,7 @@
       "material": "COMPASS",
       "name": "Gift Compass",
       "tier": "UNCOMMON",
+      "soulbound": "COOP",
       "npc_sell_price": 1,
       "id": "GIFT_COMPASS"
     },
@@ -28209,6 +28244,7 @@
       "stats": {
         "WALK_SPEED": 3
       },
+      "soulbound": "COOP",
       "npc_sell_price": 1000,
       "id": "CHEETAH_TALISMAN"
     },
@@ -36537,6 +36573,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
+      "soulbound": "COOP",
       "npc_sell_price": 1000,
       "id": "PIGS_FOOT"
     },
@@ -44400,6 +44437,7 @@
         "WALK_SPEED": 40,
         "DAMAGE": 50
       },
+      "soulbound": "COOP",
       "id": "HUNTER_KNIFE"
     },
     {
@@ -46646,6 +46684,7 @@
       "durability": 2,
       "name": "Silky Lichen",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "SILKY_LICHEN"
     },
     {
@@ -53501,6 +53540,7 @@
         "STRENGTH": 1,
         "INTELLIGENCE": -99
       },
+      "soulbound": "COOP",
       "npc_sell_price": 10,
       "id": "ENDERMAN_MASK"
     },
@@ -54464,7 +54504,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU5ODg1MjcwNSwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJiY2RkZDQ1Y2QzNDc4NjViY2VhYjNlM2RjNWQzODI3MjM0NjM5NjNmODVlY2NlODFjZGQ2MWI1M2RiMTRlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Corrupted Bait",
       "category": "BAIT",
-      "npc_sell_price": 150,
+      "npc_sell_price": 1,
       "id": "CORRUPTED_BAIT"
     },
     {
@@ -55266,6 +55306,7 @@
       "stats": {
         "WALK_SPEED": 2
       },
+      "soulbound": "COOP",
       "npc_sell_price": 1000,
       "id": "LYNX_TALISMAN"
     },
@@ -56868,6 +56909,7 @@
       "stats": {
         "DAMAGE": 20
       },
+      "soulbound": "COOP",
       "npc_sell_price": 3,
       "dungeon_item_conversion_cost": {
         "essence_type": "GOLD",
@@ -57643,6 +57685,7 @@
       },
       "npc_sell_price": 500,
       "museum": true,
+      "soulbound": "COOP",
       "id": "FALLEN_STAR_HAT"
     },
     {
@@ -57823,6 +57866,7 @@
       "name": "King Talisman",
       "category": "ACCESSORY",
       "npc_sell_price": 2000,
+      "soulbound": "COOP",
       "id": "KING_TALISMAN"
     },
     {
@@ -57989,6 +58033,7 @@
       "name": "Jingle Bells",
       "tier": "RARE",
       "npc_sell_price": 100,
+      "soulbound": "COOP",
       "museum": true,
       "id": "JINGLE_BELLS"
     },
@@ -58412,8 +58457,7 @@
     {
       "material": "GOLD_PICKAXE",
       "enchantments": {
-        "efficiency": 6,
-        "telekinesis": 1
+        "efficiency": 6
       },
       "name": "Stonk",
       "category": "PICKAXE",
@@ -62153,6 +62197,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
+      "soulbound": "COOP",
       "npc_sell_price": 1000,
       "id": "CAT_TALISMAN"
     },
@@ -63260,6 +63305,7 @@
       "name": "Royal Pigeon",
       "tier": "LEGENDARY",
       "museum": true,
+      "soulbound": "COOP",
       "id": "ROYAL_PIGEON"
     },
     {
@@ -64610,6 +64656,7 @@
       "stats": {
         "INTELLIGENCE": 6
       },
+      "soulbound": "COOP",
       "id": "MELODY_HAIR"
     },
     {
@@ -65520,6 +65567,7 @@
       "material": "FLINT",
       "name": "Polished Pebble",
       "museum": true,
+      "soulbound": "COOP",
       "id": "POLISHED_PEBBLE"
     },
     {
@@ -67505,6 +67553,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MDM2Nzk3NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U1MDlmMDZiOGRjMzg0MzU4ZmYyNDcyYWI2MmNlNmZkYzJmNjQ2ZTMzOGVmZGMzYzlmYjA1ZGRjNDMxZjY0IgogICAgfQogIH0KfQ==",
       "name": "Perfect Opal Gemstone",
       "tier": "LEGENDARY",
+      "unstackable": true,
       "id": "PERFECT_OPAL_GEM"
     },
     {
@@ -67522,6 +67571,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MDM1MzA0NywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQxNWVkNzBlNzIwMDQwYWQ3MzExZTY5MzU5ZGZkZjVlMTE0ZWFkZDJhNGMxZjk3MWE5NTAxMzQxYTQ1MjY0YiIKICAgIH0KICB9Cn0=",
       "name": "Flawless Opal Gemstone",
       "tier": "EPIC",
+      "unstackable": true,
       "id": "FLAWLESS_OPAL_GEM"
     },
     {
@@ -69410,6 +69460,7 @@
       "name": "Survivor Cube",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "requirements": {
         "slayer": {
           "slayer_boss_type": "spider",
@@ -69878,6 +69929,7 @@
       "glowing": true,
       "category": "PET_ITEM",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "REAPER_GEM"
     },
     {
@@ -84642,6 +84694,7 @@
       "name": "Campfire Cultist Badge",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_8"
     },
     {
@@ -84651,6 +84704,7 @@
       "name": "Campfire Cultist Badge",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_11"
     },
     {
@@ -84660,6 +84714,7 @@
       "name": "Campfire Cultist Badge",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_9"
     },
     {
@@ -84669,6 +84724,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_23"
     },
     {
@@ -84678,6 +84734,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_26"
     },
     {
@@ -84687,6 +84744,7 @@
       "name": "Campfire Adept Badge",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_5"
     },
     {
@@ -84696,6 +84754,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_21"
     },
     {
@@ -84705,6 +84764,7 @@
       "name": "Campfire Adept Badge",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_6"
     },
     {
@@ -84714,6 +84774,7 @@
       "name": "Campfire Cultist Badge",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_10"
     },
     {
@@ -84723,6 +84784,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_13"
     },
     {
@@ -84731,6 +84793,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY0MWNjMjI1MGQyZjVjZmNmNDM4NGFhMGNmM2UyM2MxOTc2NzU0OWEyYThhYmQ3NTMyYmQ1MmM1YTFkZSJ9fX0=",
       "name": "Campfire Initiate Badge",
       "category": "ACCESSORY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_1"
     },
     {
@@ -84740,6 +84803,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_29"
     },
     {
@@ -84749,6 +84813,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_28"
     },
     {
@@ -84758,6 +84823,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_25"
     },
     {
@@ -84767,6 +84833,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_14"
     },
     {
@@ -84776,6 +84843,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_19"
     },
     {
@@ -84785,6 +84853,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_15"
     },
     {
@@ -84793,6 +84862,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY0MWNjMjI1MGQyZjVjZmNmNDM4NGFhMGNmM2UyM2MxOTc2NzU0OWEyYThhYmQ3NTMyYmQ1MmM1YTFkZSJ9fX0=",
       "name": "Campfire Initiate Badge",
       "category": "ACCESSORY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_2"
     },
     {
@@ -84802,6 +84872,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_18"
     },
     {
@@ -84811,6 +84882,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_24"
     },
     {
@@ -84820,6 +84892,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_27"
     },
     {
@@ -84829,6 +84902,7 @@
       "name": "Campfire Adept Badge",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_4"
     },
     {
@@ -84838,6 +84912,7 @@
       "name": "Campfire Adept Badge",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_7"
     },
     {
@@ -84847,6 +84922,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_16"
     },
     {
@@ -84855,6 +84931,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY0MWNjMjI1MGQyZjVjZmNmNDM4NGFhMGNmM2UyM2MxOTc2NzU0OWEyYThhYmQ3NTMyYmQ1MmM1YTFkZSJ9fX0=",
       "name": "Campfire Initiate Badge",
       "category": "ACCESSORY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_3"
     },
     {
@@ -84864,6 +84941,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_20"
     },
     {
@@ -84873,6 +84951,7 @@
       "name": "Campfire Scion Badge",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_17"
     },
     {
@@ -84882,6 +84961,7 @@
       "name": "Campfire God Badge",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_22"
     },
     {
@@ -84891,7 +84971,21 @@
       "name": "Campfire Cultist Badge",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "soulbound": "COOP",
       "id": "CAMPFIRE_TALISMAN_12"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI0Zjc2OWM5NDUwZjIyZTQ4NGUwODljYTAyZTMyNGZlMzdiMThmNGMxOGVmMjk2MDIxODcxYmE0YWQwYzM5NiJ9fX0=",
+      "name": "Eccentric Painting Bundle",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 5,
+      "item_specific": {
+        "bundled_item_id": "ECCENTRIC_PAINTING",
+        "bundled_amount": 5
+      },
+      "id": "ECCENTRIC_PAINTING_BUNDLE"
     },
     {
       "material": "SKULL_ITEM",

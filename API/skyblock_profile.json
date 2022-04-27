@@ -693,7 +693,8 @@
           "deaths_ashfang_blue_blaze": 0,
           "kills_ashfang": 0,
           "deaths_dive_ghast": 0,
-          "kills_flare": 0
+          "kills_flare": 0,
+          "deaths_lord_jawbus": 0
         },
         "objectives": {
           "collect_log": {
@@ -5970,7 +5971,12 @@
       ]
     },
     "community_upgrades": {
-      "currently_upgrading": null,
+      "currently_upgrading": {
+        "upgrade": "minion_slots",
+        "new_tier": 2,
+        "start_ms": 1605573846381,
+        "who_started": "64edd453088d4cc08ef6143b1b41da98"
+      },
       "upgrade_states": [
         {
           "upgrade": "",

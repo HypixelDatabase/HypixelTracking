@@ -698,7 +698,8 @@
           "kills_pack_magma_cube": 0,
           "kills_kada_knight": 0,
           "kills_lord_jawbus": 0,
-          "deaths_magma_slug": 0
+          "deaths_magma_slug": 0,
+          "deaths_lava_flame": 0
         },
         "objectives": {
           "collect_log": {
@@ -4453,7 +4454,8 @@
           "MAGMA_FISH_7",
           "MAGMA_FISH_8",
           "SULPHUR_ORE_1",
-          "MAGMA_FISH_9"
+          "MAGMA_FISH_9",
+          "SULPHUR_ORE_2"
         ],
         "fishing_bag": {
           "type": 0,

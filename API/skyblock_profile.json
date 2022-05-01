@@ -5986,12 +5986,7 @@
       ]
     },
     "community_upgrades": {
-      "currently_upgrading": {
-        "upgrade": "minion_slots",
-        "new_tier": 2,
-        "start_ms": 1605573846381,
-        "who_started": "64edd453088d4cc08ef6143b1b41da98"
-      },
+      "currently_upgrading": null,
       "upgrade_states": [
         {
           "upgrade": "",

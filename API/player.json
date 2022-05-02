@@ -8010,7 +8010,7 @@
         "no_starting_armor": true
       },
       "Walls3": {
-        "blood": "",
+        "blood": true,
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -35469,48 +35469,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "HARD",
-              "gold_reward": 1800,
-              "requirements": {
-                "streak": 15
-              },
-              "progress": {
-                "streak": 0
-              },
-              "chunk_of_viles_reward": 2,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kill_streak"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2750,
-              "requirements": {
-                "multikill": 3
-              },
-              "progress": {},
-              "chunk_of_viles_reward": 2,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "multikill"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2750,
-              "requirements": {
-                "kills": 20
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 2,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "sneaking_kills"
-            }
-          ],
+          "contract_choices": null,
           "last_save": 0,
           "king_quest": {
             "kills": 0,

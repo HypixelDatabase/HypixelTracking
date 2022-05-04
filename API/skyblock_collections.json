@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1650474765702,
-  "version": "0.13.1",
+  "lastUpdated": 1651683819253,
+  "version": "0.13.35",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1376,8 +1376,7 @@
               "tier": 5,
               "amountRequired": 3000,
               "unlocks": [
-                "Weather Stick Recipe",
-                "Weather Node Recipe"
+                "Weather Stick Recipe"
               ]
             },
             {

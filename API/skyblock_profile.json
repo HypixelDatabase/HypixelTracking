@@ -2681,7 +2681,8 @@
             "sulphurcare_0": 0,
             "An": 0,
             "pomtair": 0,
-            "azax": 0
+            "azax": 0,
+            "forast": 0
           },
           "choose_faction": {
             "status": "",
@@ -2875,6 +2876,71 @@
             "completions": 0
           },
           "talk_to_dean_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "select_barbarian_faction": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "follow_elle_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_elle_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "defeat_corrupted_spider": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_elle_6": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "follow_elle_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_elle_7": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_sulphur_to_pig": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_ugo": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "escort_elle_and_ugo_to_the_chief": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_chief": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_ugo_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "follow_elle_4": {
             "status": "",
             "progress": 0,
             "completed_at": 0
@@ -3523,6 +3589,20 @@
             "completed_at_sb": 0
           },
           "talk_to_captain_ahone": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "select_barbarian_faction": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_ugo_2": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,
@@ -4469,7 +4549,8 @@
           "MAGMA_FISH_11",
           "MYCEL_6",
           "SULPHUR_ORE_3",
-          "SULPHUR_ORE_4"
+          "SULPHUR_ORE_4",
+          "SULPHUR_ORE_5"
         ],
         "fishing_bag": {
           "type": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1647645876782,
+  "lastUpdated": 1652295340694,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -74,6 +74,11 @@
       "databaseName": "MCGO",
       "name": "Cops and Crims",
       "id": 21
+    },
+    "WOOL_GAMES": {
+      "databaseName": "WoolGames",
+      "name": "Wool Wars",
+      "id": 68
     },
     "SURVIVAL_GAMES": {
       "databaseName": "HungerGames",

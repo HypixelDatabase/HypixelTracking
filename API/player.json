@@ -258,7 +258,9 @@
       "general_luckiest_of_the_sea": 0,
       "general_master_lure": 0,
       "general_trashiest_diver": 0,
-      "woolgames_wool_contest": 0
+      "woolgames_wool_contest": 0,
+      "woolgames_wool_kills": 0,
+      "woolgames_wool_wins": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -2604,7 +2606,10 @@
       },
       "wool_weekly_play": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "kill": 0,
+            "win": 0
+          },
           "started": 0
         }
       },
@@ -2620,17 +2625,29 @@
         "active": {
           "objectives": {},
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "wool_wars_daily_play": {
         "active": {
           "objectives": {},
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "wool_wars_daily_kills": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "kill": 0
+          },
           "started": 0
         }
       }
@@ -39855,7 +39872,9 @@
         "BEDWARS__defensive": 0,
         "SPEED_UHC__marksman_challenge": 0,
         "ARCADE__galaxy_wars_challenge": 0,
-        "ARCADE__throw_out_challenge": 0
+        "ARCADE__throw_out_challenge": 0,
+        "WOOL_GAMES__merciless_killer_challenge": 0,
+        "WOOL_GAMES__builder_challenge": 0
       },
       "day_g": {
         "TNTGAMES__pvp_run_challenge": 0,
@@ -40557,7 +40576,9 @@
         "MCGO__knife_challenge": 0,
         "GINGERBREAD__leaderboard_challenge": 0,
         "SPEED_UHC__wizard_challenge": 0,
-        "MCGO__grenade_challenge": 0
+        "MCGO__grenade_challenge": 0,
+        "WOOL_GAMES__merciless_killer_challenge": 0,
+        "WOOL_GAMES__builder_challenge": 0
       },
       "day_f": {
         "BEDWARS__offensive": 0,

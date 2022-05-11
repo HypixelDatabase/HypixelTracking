@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1650468165681,
+  "lastUpdated": 1652271766891,
   "quests": {
     "quake": [
       {
@@ -3412,8 +3412,12 @@
         "name": "Daily Quest: First Play of the Day",
         "rewards": [
           {
-            "type": "MultipliedExperienceReward",
-            "amount": 2500
+            "type": "MultipliedCoinReward",
+            "amount": 3500
+          },
+          {
+            "type": "WoolWarsWoolReward",
+            "amount": 30
           }
         ],
         "objectives": [
@@ -3431,43 +3435,16 @@
         "description": "Play 1 Wool Game"
       },
       {
-        "id": "wool_wars_daily_shears",
-        "name": "Daily Quest: Wool Collector",
-        "rewards": [
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 1000
-          },
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "wool_daily_shears",
-            "type": "IntegerObjective",
-            "integer": 25
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Shear 25 Layers from your sheep"
-      },
-      {
         "id": "wool_wars_daily_wins",
         "name": "Daily Quest: Winner Winner Lamb Dinner",
         "rewards": [
           {
             "type": "MultipliedCoinReward",
-            "amount": 1500
+            "amount": 3500
           },
           {
-            "type": "MultipliedExperienceReward",
-            "amount": 750
+            "type": "WoolWarsExpReward",
+            "amount": 400
           }
         ],
         "objectives": [
@@ -3489,12 +3466,12 @@
         "name": "Daily Quest: Kills",
         "rewards": [
           {
-            "type": "MultipliedExperienceReward",
-            "amount": 1000
+            "type": "MultipliedCoinReward",
+            "amount": 3500
           },
           {
-            "type": "MultipliedCoinReward",
-            "amount": 3000
+            "type": "WoolWarsWoolReward",
+            "amount": 400
           }
         ],
         "objectives": [
@@ -3512,66 +3489,20 @@
         "description": "Kill 20 players"
       },
       {
-        "id": "wool_wars_daily_block_place",
-        "name": "Daily Quest: Builder",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 1000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 3000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "wool_wars_daily_block_place",
-            "type": "IntegerObjective",
-            "integer": 120
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Place 120 blocks"
-      },
-      {
-        "id": "wool_wars_daily_block_break",
-        "name": "Daily Quest: Block Smasher",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 1000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 3000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "wool_wars_daily_block_break",
-            "type": "IntegerObjective",
-            "integer": 120
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Break 120 blocks"
-      },
-      {
         "id": "wool_weekly_play",
         "name": "Weekly Quest: King of the heard",
         "rewards": [
           {
+            "type": "WoolWarsExpReward",
+            "amount": 3000
+          },
+          {
+            "type": "WoolWarsWoolReward",
+            "amount": 500
+          },
+          {
             "type": "MultipliedExperienceReward",
-            "amount": 10000
+            "amount": 7000
           }
         ],
         "objectives": [
@@ -3598,12 +3529,16 @@
         "name": "Weekly Quest: Wool Connoisseur",
         "rewards": [
           {
-            "type": "MultipliedCoinReward",
-            "amount": 10000
+            "type": "WoolWarsExpReward",
+            "amount": 300
+          },
+          {
+            "type": "WoolWarsWoolReward",
+            "amount": 500
           },
           {
             "type": "MultipliedExperienceReward",
-            "amount": 5000
+            "amount": 7000
           }
         ],
         "objectives": [

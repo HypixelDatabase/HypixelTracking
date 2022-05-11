@@ -6090,7 +6090,35 @@
         "essence_gold": 0,
         "essence_ice": 0,
         "experience_skill_social": 0,
-        "fastest_target_practice": 0
+        "fastest_target_practice": 0,
+        "accessory_bag_storage": {
+          "tuning": {
+            "slot_0": {
+              "health": 0,
+              "defense": 0,
+              "walk_speed": 0,
+              "strength": 0,
+              "critical_damage": 0,
+              "critical_chance": 0,
+              "attack_speed": 0,
+              "intelligence": 0
+            },
+            "highest_unlocked_slot": 0,
+            "slot_1": {
+              "health": 0,
+              "defense": 0,
+              "walk_speed": 0,
+              "strength": 0,
+              "critical_damage": 0,
+              "critical_chance": 0,
+              "attack_speed": 0,
+              "intelligence": 0
+            }
+          },
+          "unlocked_powers": [],
+          "selected_power": "",
+          "bag_upgrades_purchased": 0
+        }
       }
     },
     "banking": {

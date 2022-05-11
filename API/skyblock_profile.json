@@ -3038,6 +3038,23 @@
           "catch_laseas_fish": {
             "status": "",
             "progress": 0,
+            "completed_at": 0,
+            "flyfish_fished": 0,
+            "skeleton_fish_fished": 0
+          },
+          "give_fish_to_lasea": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_gris": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "obtain_heavy_pearl": {
+            "status": "",
+            "progress": 0,
             "completed_at": 0
           }
         },
@@ -3705,6 +3722,13 @@
             "completed_at_sb": 0
           },
           "talk_to_ugo_4": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "obtain_heavy_pearl": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,

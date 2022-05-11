@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1651727665000,
+  "lastUpdated": 1652281631000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -165,7 +165,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTQxNjgyNjc2MywKICAicHJvZmlsZUlkIiA6ICJlZThjNWMzMGY3NWU0N2QxOTBmOTllNjI5NDgyOGZjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGFya19QaGFudG9tIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxZjA5NDg3OWRmNTIwMDZiNzMxYjM2YzIyZjhkZjNmNGU1NzEwYWMyNGMxNDUzNDI0ZGVjYjVjZjdmOGQzMDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MTgwNzEwOTUyNSwKICAicHJvZmlsZUlkIiA6ICJhMWU4OThjNWEyNmY0MTYyOTQyYmNmNmM1MzRiMTE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b21keGlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMjRkNTkzOWM3MTZkNDdkODgzNDVhMGVjMzZmMjU2ZGRkNzMzYWQxNjlkM2M2NGIzOGM3MzQxNmQ1MzA4NTk5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0",
       "name": "Vitamin Death",
       "category": "REFORGE_STONE",
       "tier": "LEGENDARY",
@@ -644,7 +644,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MTEwNzM5NTcyOSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRmYmM3N2QyN2RhYjEwZGU1YWJmOWQwYmNjNDcxOThmOTIzYjBlNmMxNzlhM2MzOTgzZTc3ZjEyZjdjMDMzZSIKICAgIH0KICB9Cn0=",
       "name": "Small Fishing Sack",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_FISHING_SACK"
     },
@@ -13059,7 +13059,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODIzMzEwNTIyOSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzRjZjNjNWYyNGM5YmY4YjkwMzFlOGFlZDUzMzdiNmEwN2Y4MTljZGU4YzYyMjA4NTU0NTE2MmY4YTY5MzA2MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Jungle Heart",
       "tier": "LEGENDARY",
-      "description": "%%gray%%Found in the deepest layers of the Jungle Temple",
+      "description": "%%gray%%Found in the deepest layers of the Jungle Temple.",
       "museum": true,
       "id": "JUNGLE_HEART"
     },
@@ -13103,15 +13103,6 @@
       },
       "npc_sell_price": 5200,
       "id": "FARM_ARMOR_CHESTPLATE"
-    },
-    {
-      "material": "ENDER_PEARL",
-      "name": "Spirit Leap",
-      "glowing": true,
-      "tier": "RARE",
-      "npc_sell_price": 100,
-      "dungeon_item": true,
-      "id": "SPIRIT_LEAP"
     },
     {
       "material": "LEATHER_HELMET",
@@ -13172,7 +13163,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNiN2MyMWNjNDNkYzE3Njc4ZWU2ZjE2NTkxZmZhYWIxZjYzN2MzN2Y0ZjZiYmQ4Y2VhNDk3NDUxZDc2ZGI2ZCJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjU0MzEyMywKICAicHJvZmlsZUlkIiA6ICJjOWRlZTM4MDUzYjg0YzI5YjZlZjA5YjJlMDM5OTc0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQVJfRGVjZW1iZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0ZDQ4YWM3ZTY1YjkxNDY3OTA0ZjJmNGQxNTQ1NTY3NzZmZmE5Y2QyZDUyNmIxMmEwNDk5YmI1OWNjNjU2YzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Warped Stone",
       "category": "REFORGE_STONE",
       "tier": "RARE",
@@ -13252,13 +13243,6 @@
       "furniture": "LAPIS_CHEST",
       "tier": "RARE",
       "id": "LAPIS_CHEST"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Dragontail",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "DRAGONTAIL_TRAVEL_SCROLL"
     },
     {
       "material": "EMERALD_BLOCK",
@@ -13778,13 +13762,6 @@
       "category": "ACCESSORY",
       "tier": "RARE",
       "id": "INTIMIDATION_ARTIFACT"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Jungle Island",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "PARK_JUNGLE_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -14828,13 +14805,6 @@
       },
       "npc_sell_price": 50,
       "id": "FANCY_SWORD"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Museum",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "MUSEUM_TRAVEL_SCROLL"
     },
     {
       "material": "LEAVES",
@@ -18159,13 +18129,6 @@
       "id": "ROOKIE_AXE"
     },
     {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Deep Caverns",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "MINING_2_TRAVEL_SCROLL"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRhMzMyYWJkZTMzM2ExNWE2YzZmY2ZlY2E4M2YwMTU5ZWE5NGI2OGU4ZjI3NGJhZmMwNDg5MmI2ZGJmYyJ9fX0=",
@@ -18479,14 +18442,6 @@
       "name": "Gravel",
       "npc_sell_price": 3,
       "id": "GRAVEL"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Dwarven Mines",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "soulbound": "COOP",
-      "id": "MINING_3_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -22768,7 +22723,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTZmNGU4NDc5NWMxNmRhYTNkZjc5NTM4ZjJlYjdhOWRiNmJjMjQ4OGYyMTUzMzEzM2IyNjZhNWZmOWQyYjFmMSJ9fX0=",
-      "name": "Bitter Ice Tea",
+      "name": "Bitter Iced Tea",
       "unstackable": true,
       "id": "BITTER_ICE_TEA"
     },
@@ -25148,16 +25103,10 @@
     {
       "material": "GLOWSTONE_DUST",
       "name": "Sulphur",
+      "description": "%%gray%%%%italic%%\"Give me some Sulphur and I'll make a wand. Give me all the Sulphur and I'll conquer the world.\" - Unnamed Mage.",
       "tier": "UNCOMMON",
       "npc_sell_price": 10,
       "id": "SULPHUR_ORE"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the Barn",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "FARMING_1_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -25950,13 +25899,6 @@
       "name": "Dark Oak Door",
       "npc_sell_price": 1,
       "id": "DARK_OAK_DOOR_ITEM"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Mushroom Island",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "FARMING_2_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -28002,13 +27944,6 @@
       "name": "Book",
       "npc_sell_price": 12,
       "id": "BOOK"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the Kuudra Passage",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "WASTELAND_TRAVEL_SCROLL"
     },
     {
       "material": "STAINED_GLASS_PANE",
@@ -33032,13 +32967,6 @@
       "id": "SILVER_FANG"
     },
     {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the Crystal Hollows",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL"
-    },
-    {
       "material": "GOLD_SWORD",
       "enchantments": {
         "sharpness": 10
@@ -34383,13 +34311,6 @@
       "furniture": "RABBIT_HUTCH",
       "tier": "EPIC",
       "id": "RABBIT_HUTCH"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Spider's Den",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "DANGER_1_TRAVEL_SCROLL"
     },
     {
       "material": "WOOD_STEP",
@@ -36366,7 +36287,6 @@
     {
       "material": "SULPHUR",
       "name": "Gunpowder",
-      "description": "%%gray%%%%italic%%\"Give me some Sulphur and I'll make a wand. Give me all the Sulphur and I'll conquer the world.\" - Unnamed Mage.",
       "npc_sell_price": 4,
       "id": "SULPHUR"
     },
@@ -37680,13 +37600,6 @@
         }
       ],
       "id": "STARRED_SHADOW_ASSASSIN_BOOTS"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the Crimson Isle",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "DANGER_2_TRAVEL_SCROLL"
     },
     {
       "material": "NETHER_STAR",
@@ -40323,13 +40236,6 @@
       },
       "npc_sell_price": 10,
       "id": "END_SWORD"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Hub Castle",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "HUB_CASTLE_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -45301,7 +45207,7 @@
       "name": "Jungle Key",
       "glowing": true,
       "tier": "EPIC",
-      "description": "%%gray%%Used to open the entrance to the Jungle Temple",
+      "description": "%%gray%%Used to open the entrance to the Jungle Temple.",
       "id": "JUNGLE_KEY"
     },
     {
@@ -45841,13 +45747,6 @@
       "tier": "EPIC",
       "npc_sell_price": 1,
       "id": "WATCHER_EYE"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Dragon's Nest",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "DRAGON_NEST_TRAVEL_SCROLL"
     },
     {
       "material": "INK_SACK",
@@ -47716,13 +47615,6 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_CHICKEN_BABY_CHICK"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Howling Cave",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "PARK_CAVE_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -50260,7 +50152,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNiN2MyMWNjNDNkYzE3Njc4ZWU2ZjE2NTkxZmZhYWIxZjYzN2MzN2Y0ZjZiYmQ4Y2VhNDk3NDUxZDc2ZGI2ZCJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjQ4ODk4NiwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82N2Q5ZmUwNjUwMjRmZmY0YjM0Yzc4ZjkyY2QzMTUwZDZiZGZhYWI3YzM3NWEwZWU3ODUwNzZlMWE0YTI1NGU5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Absolute Ender Pearl",
       "tier": "RARE",
       "npc_sell_price": 11200,
@@ -50437,13 +50329,6 @@
       "description": "%%gray%%Combine with any weapon in an Anvil to start tracking its kills.",
       "museum": true,
       "id": "BOOK_OF_STATS"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to The Park",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "FORAGING_1_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -54084,7 +53969,7 @@
     },
     {
       "material": "INK_SACK",
-      "name": "Ink Sack",
+      "name": "Ink Sac",
       "npc_sell_price": 2,
       "id": "INK_SACK"
     },
@@ -55599,13 +55484,6 @@
       "name": "Rose Bush",
       "npc_sell_price": 1,
       "id": "DOUBLE_PLANT:4"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Scarleton",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "SCARLETON_TRAVEL_SCROLL"
     },
     {
       "material": "FISHING_ROD",
@@ -60848,13 +60726,6 @@
       "id": "GENERALS_ARMOR_OF_THE_RESISTANCE_HELMET"
     },
     {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Dark Auction",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "HUB_DA_TRAVEL_SCROLL"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTQwMjg1NDk2NCwKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NzgyMTFlMWI0ZDk5ZDFjN2JmZGE0ODM4ZTQ4ZmM4ODRjM2VhZTM3NmY1OGQ5MzJiYzJmNzhiMGE5MTlmOGU3IgogICAgfQogIH0KfQ==",
@@ -61474,14 +61345,6 @@
       "id": "NETHER_WART_ISLAND_CRYSTAL"
     },
     {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the End",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "npc_sell_price": 100,
-      "id": "DANGER_3_TRAVEL_SCROLL"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVjNmRjMmJiZjUxYzM2Y2ZjNzcxNDU4NWE2YTU2ODNlZjJiMTRkNDdkOGZmNzE0NjU0YTg5M2Y1ZGE2MjIifX19",
@@ -61521,6 +61384,59 @@
       "name": "KnockOff™ Cola",
       "unstackable": true,
       "id": "KNOCKOFF_COLA"
+    },
+    {
+      "material": "STONE_SWORD",
+      "name": "Dark Claymore",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "description": "%%gray%%%%italic%%That thing was too big to be called a sword, it was more like a large hunk of stone.",
+      "stats": {
+        "DAMAGE": 500,
+        "STRENGTH": 100
+      },
+      "npc_sell_price": 0,
+      "upgrade_costs": [
+        [
+          {
+            "essence_type": "WITHER",
+            "amount": 150
+          }
+        ],
+        [
+          {
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "essence_type": "WITHER",
+            "amount": 500
+          }
+        ],
+        [
+          {
+            "essence_type": "WITHER",
+            "amount": 900
+          }
+        ],
+        [
+          {
+            "essence_type": "WITHER",
+            "amount": 1500
+          }
+        ]
+      ],
+      "requirements": {
+        "dungeon_completion": {
+          "type": "MASTER_CATACOMBS",
+          "tier": 7
+        }
+      },
+      "item_durability": -1,
+      "dungeon_item": true,
+      "id": "DARK_CLAYMORE"
     },
     {
       "material": "SAPLING",
@@ -62944,13 +62860,6 @@
       },
       "npc_sell_price": 1,
       "id": "BIGGER_SPRING_BOOTS"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the Dwarven Forge",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "FORGE_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",
@@ -65275,13 +65184,6 @@
       "id": "ICE_SOFA"
     },
     {
-      "material": "EMPTY_MAP",
-      "name": "Dusty Travel Scroll to the Kuudra Skull",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODU5OTQ1NCwKICAicHJvZmlsZUlkIiA6ICI1NzdhNGViOGFjNzE0Y2M0OTQxOThhOGM2ODkyOTkxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1wYXJvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzMzYwNTRjODU4YzBhZDY1MWYwOGJhYjZjNmIzZmRmMWM0N2Y1ZjY1NmZkOTZkNDU0ZTk4MWQzZmNlYjk5YzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -66444,15 +66346,6 @@
       "id": "TREASURE_ARTIFACT"
     },
     {
-      "material": "ENDER_PEARL",
-      "name": "Aspiring Leap",
-      "glowing": true,
-      "tier": "EPIC",
-      "npc_sell_price": 16000,
-      "dungeon_item": true,
-      "id": "ASPIRING_LEAP"
-    },
-    {
       "material": "LEATHER_LEGGINGS",
       "color": "206,44,44",
       "name": "Moogma Leggings",
@@ -66598,13 +66491,6 @@
         }
       ],
       "id": "MOOGMA_LEGGINGS"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to the Gold Mine",
-      "category": "TRAVEL_SCROLL",
-      "tier": "RARE",
-      "id": "MINING_1_TRAVEL_SCROLL"
     },
     {
       "material": "PRISMARINE_SHARD",
@@ -67429,13 +67315,6 @@
       "description": "%%gray%%%%italic%%Boots made of pure ghost essense",
       "museum": true,
       "id": "GHOST_BOOTS"
-    },
-    {
-      "material": "EMPTY_MAP",
-      "name": "Travel Scroll to Spider's Den Top of Nest",
-      "category": "TRAVEL_SCROLL",
-      "tier": "EPIC",
-      "id": "SPIDERS_DEN_TOP_TRAVEL_SCROLL"
     },
     {
       "material": "EMPTY_MAP",
@@ -71229,6 +71108,36 @@
       "id": "GOBLIN_OMELETTE"
     },
     {
+      "material": "ENDER_PEARL",
+      "name": "Spirit Leap",
+      "glowing": true,
+      "tier": "RARE",
+      "npc_sell_price": 100,
+      "dungeon_item": true,
+      "id": "SPIRIT_LEAP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjYxMjc0MiwKICAicHJvZmlsZUlkIiA6ICI5ZWU3NTUxOGQyZWE0Y2Q4OGJiNGI1YTZkNmVhNTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWNyb3MxMTgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2Q0YTIwNmQ3NzU3ZjQ3OWYzMzJlYzFhMmJiYmVlNTdjZWY5NzU2OGRkODhkZjgxZjQ4NjRhZWU3ZDNkOTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Infinite Spirit Leap",
+      "tier": "EPIC",
+      "unstackable": true,
+      "npc_sell_price": 1000,
+      "dungeon_item": true,
+      "id": "INFINITE_SPIRIT_LEAP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjkwNTM1OCwKICAicHJvZmlsZUlkIiA6ICJhMWU4OThjNWEyNmY0MTYyOTQyYmNmNmM1MzRiMTE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b21keGlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMzgyNjE4MWNlOTAxMmI2NjU4NjVmM2FjMDA2NjMwN2I0ZDAyZGEyODE1NDAxMDRlMDQ2MWZmZWZhNzQ1OWZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Aspiring Leap",
+      "tier": "EPIC",
+      "npc_sell_price": 16000,
+      "dungeon_item": true,
+      "id": "ASPIRING_LEAP"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njg5ODk5NiwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNjllYmI2YzQ1NGMyZTIwZDJmNTMxN2FhOGYwOWNkODMzMzYxNGRhOWViMGRjYzI3Y2ZkYzdmYTAwMDBjNGExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
@@ -71307,6 +71216,8 @@
       "name": "Netherrack-Looking Sunshade",
       "category": "ACCESSORY",
       "tier": "COMMON",
+      "soulbound": "COOP",
+      "npc_sell_price": 10000,
       "id": "NETHERRACK_LOOKING_SUNSHADE"
     },
     {
@@ -85028,6 +84939,170 @@
       "category": "COSMETIC",
       "museum": true,
       "id": "TROPICAL_BIRD_1_PERSONALITY"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Dragontail",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "DRAGONTAIL_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Jungle Island",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "PARK_JUNGLE_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Museum",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "MUSEUM_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Deep Caverns",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "MINING_2_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Dwarven Mines",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "soulbound": "COOP",
+      "id": "MINING_3_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Barn",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "FARMING_1_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Mushroom Island",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "FARMING_2_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Kuudra Passage",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "WASTELAND_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Crystal Hollows",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "CRYSTAL_HOLLOWS_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Spider's Den",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "DANGER_1_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Crimson Isle",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "DANGER_2_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Hub Castle",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "HUB_CASTLE_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Dragon's Nest",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "DRAGON_NEST_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Howling Cave",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "PARK_CAVE_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to The Park",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "FORAGING_1_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Crystal Nucleus",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "soulbound": "SOLO",
+      "id": "CRYSTAL_NUCLEUS_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Scarleton",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "SCARLETON_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Dark Auction",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "HUB_DA_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the End",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "npc_sell_price": 100,
+      "id": "DANGER_3_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Dwarven Forge",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "FORGE_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Dusty Travel Scroll to the Kuudra Skull",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Gold Mine",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "MINING_1_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Spider's Den Top of Nest",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "SPIDERS_DEN_TOP_TRAVEL_SCROLL"
     },
     {
       "material": "SKULL_ITEM",

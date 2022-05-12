@@ -699,7 +699,8 @@
           "kills_kada_knight": 0,
           "kills_lord_jawbus": 0,
           "deaths_magma_slug": 0,
-          "deaths_lava_flame": 0
+          "deaths_lava_flame": 0,
+          "deaths_master_wither_miner": 0
         },
         "objectives": {
           "collect_log": {
@@ -5443,6 +5444,7 @@
                 "7": 0
               },
               "most_damage_archer": {
+                "0": 0,
                 "1": 0,
                 "2": 0,
                 "3": 0,

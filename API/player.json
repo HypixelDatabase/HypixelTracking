@@ -36415,6 +36415,7 @@
               "1": "",
               "2": "",
               "3": "",
+              "4": "",
               "6": "",
               "7": "",
               "8": "",
@@ -36453,6 +36454,24 @@
               "2": "",
               "6": "",
               "8": ""
+            },
+            "swordsman": {
+              "0": "",
+              "1": "",
+              "2": "",
+              "3": "",
+              "6": "",
+              "8": ""
+            },
+            "assault": {
+              "0": "",
+              "2": "",
+              "3": "",
+              "4": "",
+              "5": "",
+              "6": "",
+              "7": "",
+              "8": ""
             }
           },
           "stats": {
@@ -36484,13 +36503,18 @@
                 "powerups_gotten": 0,
                 "wins": 0,
                 "wool_placed": 0,
-                "games_played": 0
+                "games_played": 0,
+                "deaths": 0
               },
               "golem": {
                 "deaths": 0,
                 "powerups_gotten": 0,
                 "games_played": 0,
-                "assists": 0
+                "assists": 0,
+                "blocks_broken": 0,
+                "kills": 0,
+                "wool_placed": 0,
+                "wins": 0
               }
             },
             "games_played": 0,
@@ -40754,7 +40778,9 @@
         "TNTGAMES__bow_spleef_challenge": 0,
         "QUAKECRAFT__powerup_challenge": 0,
         "MCGO__grenade_challenge": 0,
-        "MCGO__knife_challenge": 0
+        "MCGO__knife_challenge": 0,
+        "WOOL_GAMES__merciless_killer_challenge": 0,
+        "WOOL_GAMES__builder_challenge": 0
       }
     },
     "parkourCheckpointBests": {

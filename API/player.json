@@ -2634,7 +2634,9 @@
       },
       "wool_wars_daily_wins": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "win": 0
+          },
           "started": 0
         },
         "completions": [

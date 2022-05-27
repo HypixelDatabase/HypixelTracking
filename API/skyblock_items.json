@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1652283819000,
+  "lastUpdated": 1653676145000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -7629,6 +7629,14 @@
     },
     {
       "material": "INK_SACK",
+      "durability": 4,
+      "name": "Bingo Blue Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_BINGO_BLUE"
+    },
+    {
+      "material": "INK_SACK",
       "durability": 10,
       "name": "Celadon Dye",
       "tier": "EPIC",
@@ -12886,6 +12894,149 @@
       "id": "BLUE_SHARK_TOOTH"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUxNWFjZjRhNmFjNjk4NzM2ZTU0ZGVmMGJjNzgxNDNjMTQ0NDk5NzhlNzUwYWZiYjhkN2FkZTBhZGYwZWYwMCJ9fX0=",
+      "name": "Bingo Relic",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "museum": true,
+      "id": "BINGO_RELIC"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Golden Dante Statue",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQ4NTk1NTUwNSwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ODZhNGMxOTRhODFmMWQ5NTc5ZjBhYTBmZjU5ZjQ1ZDlmMjU5YzRiNTA2NzRkNjc2ZmQ0ZjM0ZWFjMTBiZTIiCiAgICB9CiAgfQp9",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "museum": true,
+      "id": "GOLDEN_DANTE_STATUE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIzYTA1YjE4MDI2MGRkMDc0Nzk5ZDA1YjkwZjY3OTBiOTYwZDZlNWNiYTNkZDEyNWJhM2JmZDljYzE1NDA4OSJ9fX0=",
+      "name": "Bingo Heirloom",
+      "category": "ACCESSORY",
+      "tier": "LEGENDARY",
+      "museum": true,
+      "id": "BINGO_HEIRLOOM"
+    },
+    {
+      "material": "PAPER",
+      "name": "Bingo Card",
+      "tier": "SPECIAL",
+      "museum": true,
+      "id": "BINGO_CARD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNTk0NGI3NDY1ZmY0NTg2YTM0MWY4ODFmNDg4YjZmOWQ0YjNmZmMxMDBmNTBhNzcwODcwNzViM2NlYjFiIn19fQ==",
+      "name": "Bingo Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "museum": true,
+      "id": "BINGO_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmMjQ5OWFiNGNmYzk3ZTY1ZjBmYTlmZTYzY2M2MDY3MDdhNGFlOTZhZjQwNzg0NmIxYjUzNTRmM2ZhZDk5In19fQ==",
+      "name": "Bingo Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "BINGO_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJkYWQ4NjhmOGQ4NjViYWEzMmQ2MTU4NjcyZDFiMTM0ZGI2MWVhNTZkMzNlZmEwYzA5ZjZiYTZmMjc2ZmYyIn19fQ==",
+      "name": "Bingo Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "museum": true,
+      "id": "BINGO_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Ditto Skin",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "museum": true,
+      "id": "DITTO_SKIN"
+    },
+    {
+      "material": "COAL_BLOCK",
+      "name": "Bingo Display",
+      "category": "COSMETIC",
+      "tier": "COMMON",
+      "unstackable": true,
+      "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
+      "museum": true,
+      "id": "BINGO_DISPLAY"
+    },
+    {
+      "material": "CHAINMAIL_BOOTS",
+      "name": "Spring Boots",
+      "category": "BOOTS",
+      "tier": "RARE",
+      "enchantments": {
+        "feather_falling": 20
+      },
+      "unstackable": true,
+      "museum": true,
+      "id": "SPRING_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Ditto Skull",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "museum": true,
+      "id": "DITTO_SKULL"
+    },
+    {
+      "material": "BOOK",
+      "name": "Book of Stats",
+      "category": "COSMETIC",
+      "tier": "EPIC",
+      "unstackable": true,
+      "description": "%%gray%%Combine with any weapon in an Anvil to start tracking its kills.",
+      "museum": true,
+      "id": "BOOK_OF_STATS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Bonzo Statue",
+      "skin": "ewogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I1MzQxNjhjNTI2MThlNDc3MDE1ZGY3ZWVkNzlkMmQ1ZmU0ZDdmNzJmMDBkNGI3MTM2ZmNmYjkyNjFmNDAyYyIKICAgIH0KICB9Cn0=",
+      "category": "COSMETIC",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "museum": true,
+      "id": "BONZO_STATUE"
+    },
+    {
+      "material": "HAY_BLOCK",
+      "name": "Collection Display",
+      "category": "COSMETIC",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "description": "%%gray%%Show off your collection progress!",
+      "museum": true,
+      "id": "COLLECTION_DISPLAY"
+    },
+    {
       "material": "IRON_SWORD",
       "name": "Combat Exp Boost",
       "glowing": true,
@@ -13208,16 +13359,6 @@
       "tier": "MYTHIC",
       "npc_sell_price": 50000,
       "id": "PLASMA_BUCKET"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUxNWFjZjRhNmFjNjk4NzM2ZTU0ZGVmMGJjNzgxNDNjMTQ0NDk5NzhlNzUwYWZiYjhkN2FkZTBhZGYwZWYwMCJ9fX0=",
-      "name": "Bingo Relic",
-      "category": "ACCESSORY",
-      "tier": "EPIC",
-      "museum": true,
-      "id": "BINGO_RELIC"
     },
     {
       "material": "COMPASS",
@@ -19128,17 +19269,6 @@
       "id": "SKELETON_MASTER_LEGGINGS"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "name": "Golden Dante Statue",
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQ4NTk1NTUwNSwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3ODZhNGMxOTRhODFmMWQ5NTc5ZjBhYTBmZjU5ZjQ1ZDlmMjU5YzRiNTA2NzRkNjc2ZmQ0ZjM0ZWFjMTBiZTIiCiAgICB9CiAgfQp9",
-      "category": "COSMETIC",
-      "tier": "EPIC",
-      "unstackable": true,
-      "museum": true,
-      "id": "GOLDEN_DANTE_STATUE"
-    },
-    {
       "material": "BAKED_POTATO",
       "name": "Enchanted Baked Potato",
       "glowing": true,
@@ -24920,16 +25050,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIzYTA1YjE4MDI2MGRkMDc0Nzk5ZDA1YjkwZjY3OTBiOTYwZDZlNWNiYTNkZDEyNWJhM2JmZDljYzE1NDA4OSJ9fX0=",
-      "name": "Bingo Heirloom",
-      "category": "ACCESSORY",
-      "tier": "LEGENDARY",
-      "museum": true,
-      "id": "BINGO_HEIRLOOM"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjU4MDA1MDY0NCwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EzYzg1NjMyNzFhMDE3ZDM0NTc1Y2M2ZmEyODM4MWM3MzRlYmE0NjE3ZmVlZjZjYTVmN2QwYTVmZWRhNDNkMyIKICAgIH0KICB9Cn0=",
       "name": "Present Minion Skin",
       "category": "COSMETIC",
@@ -25181,13 +25301,6 @@
         ]
       ],
       "id": "DOJO_YELLOW_BELT"
-    },
-    {
-      "material": "PAPER",
-      "name": "Bingo Card",
-      "tier": "SPECIAL",
-      "museum": true,
-      "id": "BINGO_CARD"
     },
     {
       "material": "DIAMOND_BOOTS",
@@ -28796,16 +28909,6 @@
       "id": "TANK_WITHER_LEGGINGS"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNTk0NGI3NDY1ZmY0NTg2YTM0MWY4ODFmNDg4YjZmOWQ0YjNmZmMxMDBmNTBhNzcwODcwNzViM2NlYjFiIn19fQ==",
-      "name": "Bingo Talisman",
-      "category": "ACCESSORY",
-      "tier": "COMMON",
-      "museum": true,
-      "id": "BINGO_TALISMAN"
-    },
-    {
       "material": "LEATHER_BOOTS",
       "item_durability": -1,
       "color": "0,0,0",
@@ -30341,16 +30444,6 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 640,
       "id": "ENCHANTED_QUARTZ"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmMjQ5OWFiNGNmYzk3ZTY1ZjBmYTlmZTYzY2M2MDY3MDdhNGFlOTZhZjQwNzg0NmIxYjUzNTRmM2ZhZDk5In19fQ==",
-      "name": "Bingo Ring",
-      "category": "ACCESSORY",
-      "tier": "UNCOMMON",
-      "museum": true,
-      "id": "BINGO_RING"
     },
     {
       "material": "IRON_HOE",
@@ -32026,16 +32119,6 @@
         }
       ],
       "id": "RAGNAROCK_AXE"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJkYWQ4NjhmOGQ4NjViYWEzMmQ2MTU4NjcyZDFiMTM0ZGI2MWVhNTZkMzNlZmEwYzA5ZjZiYTZmMjc2ZmYyIn19fQ==",
-      "name": "Bingo Artifact",
-      "category": "ACCESSORY",
-      "tier": "RARE",
-      "museum": true,
-      "id": "BINGO_ARTIFACT"
     },
     {
       "material": "SKULL_ITEM",
@@ -38823,16 +38906,6 @@
       "id": "SOLVED_PRISM"
     },
     {
-      "material": "COAL_BLOCK",
-      "name": "Bingo Display",
-      "category": "COSMETIC",
-      "tier": "COMMON",
-      "unstackable": true,
-      "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
-      "museum": true,
-      "id": "BINGO_DISPLAY"
-    },
-    {
       "material": "WEB",
       "name": "Web",
       "tier": "UNCOMMON",
@@ -42833,18 +42906,6 @@
       },
       "npc_sell_price": 12,
       "id": "LEATHER_CHESTPLATE"
-    },
-    {
-      "material": "CHAINMAIL_BOOTS",
-      "name": "Spring Boots",
-      "category": "BOOTS",
-      "tier": "RARE",
-      "enchantments": {
-        "feather_falling": 20
-      },
-      "unstackable": true,
-      "museum": true,
-      "id": "SPRING_BOOTS"
     },
     {
       "material": "WOOD_HOE",
@@ -49507,17 +49568,6 @@
       "id": "ENCHANTED_CHARCOAL"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "name": "Ditto Skull",
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODE5NzI2OTE2NywKICAicHJvZmlsZUlkIiA6ICIxNzU1N2FjNTEzMWE0YTUzODAwODg3Y2E4ZTQ4YWQyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW50YXRpbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWFhODU5ZWMzZjU2NWViMDA2ZWQ3ZGYyNjQxOWRlYWM5YTE1NDIwZDA5Y2ZkM2JkZWVjNDBlYTA3ZDEzNjZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-      "category": "COSMETIC",
-      "tier": "EPIC",
-      "unstackable": true,
-      "museum": true,
-      "id": "DITTO_SKULL"
-    },
-    {
       "material": "IRON_BOOTS",
       "name": "Spider's Boots",
       "category": "BOOTS",
@@ -50319,16 +50369,6 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_SHEEP_PURPLE"
-    },
-    {
-      "material": "BOOK",
-      "name": "Book of Stats",
-      "category": "COSMETIC",
-      "tier": "EPIC",
-      "unstackable": true,
-      "description": "%%gray%%Combine with any weapon in an Anvil to start tracking its kills.",
-      "museum": true,
-      "id": "BOOK_OF_STATS"
     },
     {
       "material": "SKULL_ITEM",
@@ -51310,17 +51350,6 @@
       },
       "npc_sell_price": 12,
       "id": "DIAMOND_PICKAXE"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "name": "Bonzo Statue",
-      "skin": "ewogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I1MzQxNjhjNTI2MThlNDc3MDE1ZGY3ZWVkNzlkMmQ1ZmU0ZDdmNzJmMDBkNGI3MTM2ZmNmYjkyNjFmNDAyYyIKICAgIH0KICB9Cn0=",
-      "category": "COSMETIC",
-      "tier": "UNCOMMON",
-      "unstackable": true,
-      "museum": true,
-      "id": "BONZO_STATUE"
     },
     {
       "material": "SKULL_ITEM",
@@ -59090,16 +59119,6 @@
       "name": "§fChunk of the Moon",
       "tier": "RARE",
       "id": "MOON_CHUNK"
-    },
-    {
-      "material": "HAY_BLOCK",
-      "name": "Collection Display",
-      "category": "COSMETIC",
-      "tier": "UNCOMMON",
-      "unstackable": true,
-      "description": "%%gray%%Show off your collection progress!",
-      "museum": true,
-      "id": "COLLECTION_DISPLAY"
     },
     {
       "material": "PRISMARINE_CRYSTALS",
@@ -68000,7 +68019,7 @@
     {
       "material": "MONSTER_EGG",
       "durability": 52,
-      "name": "Amalgamated Crimsonite",
+      "name": "Amalgamated Crimsonite (Old)",
       "tier": "RARE",
       "glowing": true,
       "id": "AMALGAMATED_CRIMSONITE"
@@ -71128,7 +71147,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjYxMjc0MiwKICAicHJvZmlsZUlkIiA6ICI5ZWU3NTUxOGQyZWE0Y2Q4OGJiNGI1YTZkNmVhNTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWNyb3MxMTgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2Q0YTIwNmQ3NzU3ZjQ3OWYzMzJlYzFhMmJiYmVlNTdjZWY5NzU2OGRkODhkZjgxZjQ4NjRhZWU3ZDNkOTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-      "name": "Infinite Spirit Leap",
+      "name": "Infinileap",
       "tier": "EPIC",
       "unstackable": true,
       "npc_sell_price": 1000,

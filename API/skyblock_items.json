@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1654871868000,
+  "lastUpdated": 1656003054000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -7539,6 +7539,24 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1NTc2MjM1NzU4NiwKICAicHJvZmlsZUlkIiA6ICI1ZmI5NjkwZGEyNzI0OWQxYjgxNGE4MDk2NGU1ZGY1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZWV2aWFoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMjAyNmM1NzY3NmJjOTU3N2JjN2QxZWQ2YTNmOGFiYThjM2NjYWRhZTg5NmE1NDE0ZDAzMTVlN2VlMTAzZmYiCiAgICB9CiAgfQp9",
+      "name": "Pufferfish Minion Skin",
+      "category": "COSMETIC",
+      "museum": true,
+      "id": "PUFFERFISH_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjEwMDAzMzMzNywKICAicHJvZmlsZUlkIiA6ICI2MTI4MTA4MjU5M2Q0OGQ2OWIzMmI3YjlkMzIxMGUxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaWNyb25pYzcyMTk2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxMDMwZjYzYzBlMGQwN2VjMjEyOGQyNThiNTFhZWE5ZWUyYmUwZThjZjhjY2ExYTU5MzA1MzIxMmNmNWRlOSIKICAgIH0KICB9Cn0=",
+      "name": "Fish Minion Skin",
+      "category": "COSMETIC",
+      "museum": true,
+      "id": "FISH_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzVhMzViNWNhMTUyNjg2ODVjNDY2MDUzNWU1ODgzZDIxYTVlYzU3YzU1ZDM5NzIzNDI2OWFjYjVkYzI5NTRmIn19fQ==",
       "name": "Bird House",
       "furniture": "BIRD_HOUSE",
@@ -12892,6 +12910,51 @@
       "glowing": true,
       "tier": "RARE",
       "id": "BLUE_SHARK_TOOTH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWU2ZGYxYzJiZjViOTE4ZjZjODg3OWFmNGM0ZWNjMWRhYmJlMzcyMjkyODRlMWY4ZjZiY2NkYjFlYTNkMGFjIn19fQ==",
+      "name": "Volleyball Court",
+      "furniture": "VOLLEYBALL",
+      "tier": "EPIC",
+      "id": "VOLLEYBALL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZkZjljMjEyYThhZDgyNTQ1ZjBlNTk0MTBiZmE5OTBmZjNlN2FhYmU4YmE4YzlmZGMzZDRhNWVhMjcyMjY0OCJ9fX0=",
+      "name": "Ice Cream Cart",
+      "furniture": "ICE_CREAM_CART",
+      "tier": "EPIC",
+      "id": "ICE_CREAM_CART"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc5N2ZlNTQ5OTE5MWRkZWM5NGY1MGZhNmFiOWNiYzE4YzljZDZmYTFiOTdlMzZiNGQ1MTliNjIzMTkzZDUifX19",
+      "name": "Crab",
+      "furniture": "CRAB",
+      "tier": "RARE",
+      "id": "CRAB"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYzZTY2NDZmMWMwZDQxZmQzYmY1NTg0YTFjZTA0NGY1YzQ2ZDU5ODI1OGRiNDYyMTYxMTc4NTlmNTdhZjE5NyJ9fX0=",
+      "name": "Hammock",
+      "furniture": "HAMMOCK",
+      "tier": "RARE",
+      "id": "HAMMOCK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ0MjE3ODJmYTllMDQxY2E4Y2NlNmFhYzNhMGIzMzdlY2MxYjk3MWIxNjhlY2JlZWY2OGI4ODEzZWUzOTZkYiJ9fX0=",
+      "name": "Small Pool",
+      "furniture": "SMALL_POOL",
+      "tier": "RARE",
+      "id": "SMALL_POOL"
     },
     {
       "material": "SKULL_ITEM",
@@ -42301,7 +42364,7 @@
     },
     {
       "material": "INK_SACK",
-      "name": "Enchanted Ink Sack",
+      "name": "Enchanted Ink Sac",
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 160,
@@ -59088,7 +59151,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhiZThhYmQ2NmQwOWE1OGNlMTJkMzc3NTQ0ZDcyNmQyNWNhZDdlOTc5ZThjMjQ4MTg2NmJlOTRkM2IzMmYifX19",
-      "name": "Tesselated Ender Pearl",
+      "name": "Tessellated Ender Pearl",
       "tier": "LEGENDARY",
       "npc_sell_price": 96000,
       "id": "TESSELLATED_ENDER_PEARL"
@@ -60536,7 +60599,7 @@
       },
       "requirements": {
         "heart_of_the_mountain": {
-          "tier": 7
+          "tier": 6
         }
       },
       "gemstone_slots": [
@@ -67362,7 +67425,7 @@
       "name": "Blaze Talisman",
       "tier": "RARE",
       "unstackable": true,
-      "soulbound": "SOLO",
+      "soulbound": "COOP",
       "category": "ACCESSORY",
       "stats": {
         "TRUE_DEFENSE": 3

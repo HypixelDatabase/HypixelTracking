@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1649815901507,
+  "lastUpdated": 1656002241661,
   "types": [
     {
       "key": "CAT_BLACK",
@@ -817,6 +817,18 @@
       "name": "Rabbit Jockey",
       "rarity": "LEGENDARY",
       "package": "pet_rabbit_jockey"
+    },
+    {
+      "key": "FISH",
+      "name": "Fish",
+      "rarity": "EPIC",
+      "package": "pet_fish"
+    },
+    {
+      "key": "PUFFERFISH",
+      "name": "Pufferfish",
+      "rarity": "LEGENDARY",
+      "package": "pet_pufferfish"
     }
   ],
   "rarities": [

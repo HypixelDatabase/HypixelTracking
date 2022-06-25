@@ -3075,7 +3075,8 @@
         "hunter_kills_farm_hunt": 0,
         "hunters_bow_kills_farm_hunt": 0,
         "kills_farm_hunt": 0,
-        "poop_collected_farm_hunt": 0
+        "poop_collected_farm_hunt": 0,
+        "animal_wins_farm_hunt": 0
       },
       "Arena": {
         "coins": 0,
@@ -37290,7 +37291,8 @@
         "suit_fish_monger_helmet",
         "suit_fish_monger_leggings",
         "pet_rabbit_jockey",
-        "gadget_anniversary_trampoline"
+        "gadget_anniversary_trampoline",
+        "pet_fish"
       ]
     },
     "vanityTokens": 0,

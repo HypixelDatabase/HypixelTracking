@@ -36575,7 +36575,11 @@
           "available_layers": 0,
           "experience": 0
         },
-        "coins": 0
+        "coins": 0,
+        "hat": "",
+        "packages": [
+          "hat_enderdragon"
+        ]
       }
     },
     "testPass": true,

@@ -2774,7 +2774,9 @@
           "victory_dance_guardians",
           "projectile_trail_notes",
           "movement_trail_green_star",
-          "movement_trail_black_smoke"
+          "movement_trail_black_smoke",
+          "victory_dance_heat_wave",
+          "projectile_trail_stormy"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -16730,7 +16732,10 @@
           "killeffect_raining_eggs",
           "sprays_puppy_surprise",
           "sprays_year_of_the_tiger",
-          "killmessages_wrapped_up"
+          "killmessages_wrapped_up",
+          "killeffect_shockwave",
+          "victorydance_heat_wave",
+          "projectiletrail_stormy"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -30557,7 +30562,10 @@
           "glyph_rabbit",
           "npcskin_bao",
           "sprays_sweets",
-          "npcskin_clown"
+          "npcskin_clown",
+          "killeffect_shockwave",
+          "victorydance_heat_wave",
+          "projectiletrail_stormy"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -31762,7 +31770,9 @@
           "kill_note_curled_ox",
           "kill_note_puppy_surprise",
           "knife_skin_prickly",
-          "kill_note_bunny_gg"
+          "kill_note_bunny_gg",
+          "victory_dance_heat_wave",
+          "projectile_trail_stormy"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -33987,7 +33997,10 @@
           "iron_classic",
           "prefix_color_purple",
           "iron_skywars",
-          "prefix_color_blue"
+          "prefix_color_blue",
+          "kill_effect_shockwave",
+          "victory_dance_heat_wave",
+          "projectile_trail_stormy"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -35507,7 +35520,8 @@
           "suits_soldier",
           "suits_elite",
           "rockin_around_the_christmas_tree",
-          "buildbattlesuit"
+          "buildbattlesuit",
+          "victory_dance_heat_wave"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -36578,7 +36592,9 @@
         "coins": 0,
         "hat": "",
         "packages": [
-          "hat_enderdragon"
+          "hat_enderdragon",
+          "victorydance_heat_wave",
+          "projectiletrail_stormy"
         ]
       }
     },

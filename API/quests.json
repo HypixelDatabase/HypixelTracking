@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1656085921800,
+  "lastUpdated": 1656344249729,
   "quests": {
     "quake": [
       {
@@ -276,6 +276,10 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 3000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3500
           }
         ],
         "objectives": [
@@ -303,6 +307,10 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 3000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 2500
           }
         ],
         "objectives": [
@@ -330,6 +338,10 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 20000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 21000
           }
         ],
         "objectives": [
@@ -1696,6 +1708,10 @@
           {
             "type": "CoinReward",
             "amount": 1250
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3000
           }
         ],
         "objectives": [
@@ -1722,6 +1738,10 @@
           {
             "type": "CoinReward",
             "amount": 1250
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3000
           }
         ],
         "objectives": [
@@ -1748,6 +1768,10 @@
           {
             "type": "CoinReward",
             "amount": 4000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 19500
           }
         ],
         "objectives": [
@@ -3070,6 +3094,10 @@
           {
             "type": "PitGold",
             "amount": 1000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 2000
           }
         ],
         "objectives": [
@@ -3097,6 +3125,10 @@
           {
             "type": "PitGold",
             "amount": 1000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3000
           }
         ],
         "objectives": [
@@ -3124,6 +3156,10 @@
           {
             "type": "PitGold",
             "amount": 10000
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 7000
           }
         ],
         "objectives": [

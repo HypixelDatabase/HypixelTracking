@@ -15640,7 +15640,15 @@
         "herobrine_b_activations": 0,
         "herobrine_b_activations_standard": 0,
         "herobrine_c_activations": 0,
-        "herobrine_c_activations_standard": 0
+        "herobrine_c_activations_standard": 0,
+        "herobrine_b_activations_deathmatch": 0,
+        "herobrine_b_activations_deathmatch_standard": 0,
+        "herobrine_c_activations_deathmatch": 0,
+        "herobrine_c_activations_deathmatch_standard": 0,
+        "herobrine_kills_with_strength": 0,
+        "herobrine_kills_with_strength_standard": 0,
+        "kills_with_strength": 0,
+        "kills_with_strength_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -40162,7 +40170,8 @@
         "ARCADE__football_challenge": 0,
         "BATTLEGROUND__capture_challenge": 0,
         "PAINTBALL__nuke_challenge": 0,
-        "SUPER_SMASH__crystal_challenge": 0
+        "SUPER_SMASH__crystal_challenge": 0,
+        "WALLS3__berserk_challenge": 0
       },
       "day_h": {
         "UHC__threat_challenge": 0,

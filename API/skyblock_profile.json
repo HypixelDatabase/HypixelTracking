@@ -7937,7 +7937,13 @@
           "barbarians_reputation": 0,
           "last_minibosses_killed": [],
           "selected_faction": "",
-          "mages_reputation": 0
+          "mages_reputation": 0,
+          "npc_path": {
+            "npc_id": "",
+            "path_id": "",
+            "skin": "",
+            "path_index": 0
+          }
         },
         "personal_bank_upgrade": 0,
         "equippment_contents": {

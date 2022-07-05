@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1652709564051,
+  "lastUpdated": 1657009952024,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -103,7 +103,8 @@
     },
     "ARCADE": {
       "modeNames": {
-        "PVP_CTW": "Capture the Wool"
+        "PVP_CTW": "Capture the Wool",
+        "DRAW_THEIR_THING": "Pixel Painters"
       },
       "databaseName": "Arcade",
       "name": "Arcade",

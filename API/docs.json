@@ -511,6 +511,30 @@
             "BEDWARS_EIGHT_ONE": "Solo"
           }
         }
+      },
+      "SkyBlockFireSale": {
+        "properties": {
+          "item_id": {
+            "description": "The SkyBlock item ID for this sale",
+            "type": "string"
+          },
+          "start": {
+            "description": "The start time in unix milliseconds for the sale",
+            "type": "number"
+          },
+          "end": {
+            "description": "The end time in unix milliseconds for the sale",
+            "type": "number"
+          },
+          "amount": {
+            "description": "The amount of items available for this sale",
+            "type": "integer"
+          },
+          "price": {
+            "description": "The price in Gems for this sale",
+            "type": "integer"
+          }
+        }
       }
     }
   },
@@ -2076,6 +2100,38 @@
           },
           "429": {
             "$ref": "#/components/responses/RateLimited"
+          }
+        }
+      }
+    },
+    "/skyblock/firesales": {
+      "get": {
+        "summary": "Active/Upcoming Fire Sales",
+        "description": "Retrieve the currently active or upcoming Fire Sales for SkyBlock.",
+        "tags": [
+          "SkyBlock"
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "events": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/SkyBlockFireSale"
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }

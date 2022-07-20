@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1658268455000,
+  "lastUpdated": 1658288110000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -41395,6 +41395,7 @@
       "tier": "SPECIAL",
       "npc_sell_price": 1337,
       "museum": true,
+      "soulbound": "SOLO",
       "id": "THE_CAKE"
     },
     {

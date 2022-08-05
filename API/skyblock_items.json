@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1659371268000,
+  "lastUpdated": 1659709787000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -12844,6 +12844,7 @@
       "material": "GOLD_AXE",
       "name": "Daedalus Axe",
       "category": "SWORD",
+      "sword_type": "AXE",
       "tier": "LEGENDARY",
       "gemstone_slots": [
         {
@@ -14235,6 +14236,7 @@
       "material": "IRON_HOE",
       "name": "Frozen Scythe",
       "category": "SWORD",
+      "sword_type": "SCYTHE",
       "tier": "RARE",
       "stats": {
         "DAMAGE": 80,
@@ -32478,6 +32480,7 @@
       "material": "GOLD_AXE",
       "name": "Ragnarock Axe",
       "category": "SWORD",
+      "sword_type": "AXE",
       "tier": "RARE",
       "stats": {
         "DAMAGE": 250,
@@ -34241,6 +34244,7 @@
       "material": "IRON_AXE",
       "name": "Raider Axe",
       "category": "SWORD",
+      "sword_type": "AXE",
       "tier": "RARE",
       "stats": {
         "DAMAGE": 80,
@@ -38069,7 +38073,7 @@
       "stats": {
         "MAGIC_FIND": 5,
         "MINING_FORTUNE": 20,
-        "TRUE_DEFENSE": 75,
+        "TRUE_DEFENSE": 40,
         "MINING_SPEED": 50
       },
       "npc_sell_price": 60000,
@@ -44850,7 +44854,7 @@
       "stats": {
         "MAGIC_FIND": 5,
         "MINING_FORTUNE": 20,
-        "TRUE_DEFENSE": 150,
+        "TRUE_DEFENSE": 70,
         "MINING_SPEED": 50
       },
       "npc_sell_price": 105000,
@@ -46219,6 +46223,7 @@
       "material": "IRON_AXE",
       "name": "Mercenary Axe",
       "category": "SWORD",
+      "sword_type": "AXE",
       "tier": "RARE",
       "stats": {
         "STRENGTH": 20,
@@ -53422,7 +53427,7 @@
       "stats": {
         "MAGIC_FIND": 5,
         "MINING_FORTUNE": 20,
-        "TRUE_DEFENSE": 200,
+        "TRUE_DEFENSE": 80,
         "MINING_SPEED": 50
       },
       "npc_sell_price": 120000,
@@ -58547,6 +58552,7 @@
       "item_durability": -1,
       "name": "Livid Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 210,
@@ -58993,7 +58999,7 @@
       "stats": {
         "MAGIC_FIND": 5,
         "MINING_FORTUNE": 20,
-        "TRUE_DEFENSE": 100,
+        "TRUE_DEFENSE": 50,
         "MINING_SPEED": 50
       },
       "npc_sell_price": 75000,
@@ -67579,7 +67585,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVmNzgxMDQxNGEyY2VlMmJjMWRlMTJlY2VmN2E0Yzg5ZmM5YjM4ZTlkMDQxNGE5MDk5MTI0MWE1ODYzNzA1ZiJ9fX0=",
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmIzMWE4MTEyNWI1M2VjOGZmMTFkMDlkYjM3YTJkZDQ0MmM0MjdiNWMzNmQ0YzZiYTVjMTlkY2QwMmU2MzEifX19",
       "name": "Reaper Pepper",
       "tier": "LEGENDARY",
       "id": "REAPER_PEPPER"
@@ -67812,6 +67818,35 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODczMDU4NDQ2OCwKICAicHJvZmlsZUlkIiA6ICJjOWRlZTM4MDUzYjg0YzI5YjZlZjA5YjJlMDM5OTc0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQVJfRGVjZW1iZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1OTlmOTU5ZjBlYmNiMWViMGYyZTU4NTJkMTIyY2E1NWJmNTI1OGZkNDYxM2FiNTBkNzJhZDhjZjVlMTI2MDMiCiAgICB9CiAgfQp9",
+      "name": "Stuffed Chili Pepper",
+      "tier": "RARE",
+      "description": "It's red hot, but green and stuffed!",
+      "npc_sell_price": 200000,
+      "id": "STUFFED_CHILI_PEPPER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjg1OWM4ZGYxMTA5YzA4YTc1NjI3NWYxZDI4ODdjMjc0ODA0OWZlMzM4Nzc3NjlhN2I0MTVkNTZlZGE0NjlkOCJ9fX0=",
+      "name": "Chili Pepper",
+      "tier": "UNCOMMON",
+      "description": "It's red hot, but green!",
+      "npc_sell_price": 5000,
+      "id": "CHILI_PEPPER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODQ3MzIwNTEwMiwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NWQ1ZWJlZjk5ODY4YTliNmFjZTk0ODljOTM5N2U5NzlmZTBmMmI1NmNhZmIyZjY5Yjk0YThjNTlhODU2ODYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0",
+      "name": "Hypergolic Ionized Ceramics",
+      "tier": "EPIC",
+      "description": "Obtained from expired hypergolic fuel.\n\n%%dark_gray%%First the gabagool fuel is vitrified through calcination, then stabilized using a phosphate-based crystalline ceramic host through an ion exchange, or something...",
+      "id": "HYPERGOLIC_IONIZED_CERAMICS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NDM0MzYyNCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRkZmFmZTdhYjhlODY5NWE1NmQzMWNjODY2NjcwNWQ2MWVkOTNiMWM1MTkxMGMyMmY0YTk1MGViNTVmMDRkZCIKICAgIH0KICB9Cn0=",
       "name": "Bundle of Magma Arrows",
       "tier": "EPIC",
@@ -67855,6 +67890,7 @@
       "material": "STONE_SWORD",
       "name": "Kindlebane Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 130,
@@ -67892,6 +67928,7 @@
       "material": "IRON_SWORD",
       "name": "Mawdredge Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 130,
@@ -67929,6 +67966,7 @@
       "material": "IRON_SWORD",
       "name": "Twilight Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "RARE",
       "stats": {
         "DAMAGE": 90,
@@ -67957,6 +67995,7 @@
       "material": "STONE_SWORD",
       "name": "Firedust Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "RARE",
       "stats": {
         "DAMAGE": 90,
@@ -67985,6 +68024,7 @@
       "material": "IRON_SWORD",
       "name": "Deathripper Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 160,
@@ -68023,6 +68063,7 @@
       "material": "STONE_SWORD",
       "name": "Pyrochaos Dagger",
       "category": "SWORD",
+      "sword_type": "DAGGER",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 160,
@@ -68056,6 +68097,41 @@
         }
       ],
       "id": "HEARTFIRE_DAGGER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDMwNjU4N2VjMzhjMjQ0NmQzODlhNTgxZTA2OTE1NTZmYTU4ZmNlMGEwMmQwODQ2ZDIzZmQ2OGUzNjU2YTI0OSJ9fX0=",
+      "name": "Re-heated Gummy Polar Bear",
+      "tier": "UNCOMMON",
+      "id": "REHEATED_GUMMY_POLAR_BEAR"
+    },
+    {
+      "material": "BOOK",
+      "name": "Jalapeno Book",
+      "glowing": true,
+      "tier": "EPIC",
+      "npc_sell_price": 56000,
+      "unstackable": true,
+      "id": "JALAPENO_BOOK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU5MjhjMjc4NTAyN2U3YmM0OWZiOTZmZjQ4MDFhNjczZDJhNTllZjMwYjU2MWY5ZjI0NTIxNDZiNDVkZTg5OSJ9fX0=",
+      "name": "Capsaicin Eyedrops",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "CAPSAICIN_EYEDROPS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM4NTgyZTM3ZmJmZWMzMTdmMzkzMzVjYTU4MTYwMTRmMzIyNjJlMjZhYWEyY2I2YjcwYzllOThjM2MyMzk5MSJ9fX0=",
+      "name": "Entropy Suppressor",
+      "category": "REFORGE_STONE",
+      "tier": "RARE",
+      "id": "ENTROPY_SUPPRESSOR"
     },
     {
       "material": "BLAZE_POWDER",
@@ -68882,6 +68958,7 @@
       "material": "DIAMOND_SWORD",
       "name": "Voidedge Katana",
       "category": "SWORD",
+      "sword_type": "KATANA",
       "tier": "RARE",
       "stats": {
         "DAMAGE": 125,
@@ -68927,6 +69004,7 @@
       "material": "DIAMOND_SWORD",
       "name": "Vorpal Katana",
       "category": "SWORD",
+      "sword_type": "KATANA",
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 155,
@@ -68972,6 +69050,7 @@
       "material": "IRON_SWORD",
       "name": "Voidwalker Katana",
       "category": "SWORD",
+      "sword_type": "KATANA",
       "tier": "UNCOMMON",
       "stats": {
         "DAMAGE": 80,
@@ -68985,6 +69064,7 @@
       "name": "Atomsplit Katana",
       "glowing": true,
       "category": "SWORD",
+      "sword_type": "KATANA",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 245,
@@ -70204,6 +70284,7 @@
       "material": "DIAMOND_AXE",
       "name": "Axe of the Shredded",
       "category": "SWORD",
+      "sword_type": "AXE",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 140,
@@ -70435,6 +70516,7 @@
       "material": "DIAMOND_HOE",
       "name": "Reaper Scythe",
       "category": "SWORD",
+      "sword_type": "SCYTHE",
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 10,

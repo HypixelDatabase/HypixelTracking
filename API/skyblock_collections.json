@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1651683819253,
-  "version": "0.13.35",
+  "lastUpdated": 1659710318479,
+  "version": "0.13.168",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2988,6 +2988,75 @@
             }
           ]
         },
+        "CHILI_PEPPER": {
+          "name": "Chili Pepper",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Re-heated Gummy Polar Bear Recipe"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 25,
+              "unlocks": [
+                "Sulphuric Coal Recipe"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 75,
+              "unlocks": [
+                "Capsaicin Eyedrops Recipe"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 250,
+              "unlocks": [
+                "Entropy Suppressor Recipe"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Book (Cayenne IV) Recipe"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Stuffed Chili Pepper Recipe"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Jalapeno Book Recipe"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Book (Habanero Tactics IV) Recipe"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 20000,
+              "unlocks": [
+                "Enchanted Book (Tabasco II) Recipe"
+              ]
+            }
+          ]
+        },
         "SLIME_BALL": {
           "name": "Slimeball",
           "maxTiers": 9,
@@ -4168,7 +4237,7 @@
           ]
         },
         "INK_SACK": {
-          "name": "Ink Sack",
+          "name": "Ink Sac",
           "maxTiers": 9,
           "tiers": [
             {
@@ -4189,7 +4258,7 @@
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Ink Sack Recipe"
+                "Enchanted Ink Sac Recipe"
               ]
             },
             {

@@ -16771,7 +16771,8 @@
           "ender_elixir",
           "level_up_energy",
           "kit_mythical_chronobreaker",
-          "kit_mythical_cryomancer"
+          "kit_mythical_cryomancer",
+          "gilded_tonic"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -23017,12 +23018,15 @@
         "toggle_fireproof": true,
         "brewery": {
           "ender_elixir": 0,
-          "level_up_energy": 0
+          "level_up_energy": 0,
+          "gilded_tonic": 0
         },
         "brewery_active": "",
         "heads_salty_kit_basic_solo_cactus": 0,
         "heads_succulent_kit_basic_solo_cactus": 0,
-        "heads_divine_kit_basic_solo_cactus": 0
+        "heads_divine_kit_basic_solo_cactus": 0,
+        "fall_kills_kit_basic_solo_cactus": 0,
+        "heads_heavenly_kit_basic_solo_cactus": 0
       },
       "TrueCombat": {
         "coins": 0,

@@ -22929,7 +22929,14 @@
             "2": "",
             "3": "",
             "4": "",
-            "5": ""
+            "5": "",
+            "6": ""
+          },
+          "mega": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
           }
         },
         "toggle_mega_arrow_recovery": true,
@@ -23027,7 +23034,20 @@
         "heads_succulent_kit_basic_solo_cactus": 0,
         "heads_divine_kit_basic_solo_cactus": 0,
         "fall_kills_kit_basic_solo_cactus": 0,
-        "heads_heavenly_kit_basic_solo_cactus": 0
+        "heads_heavenly_kit_basic_solo_cactus": 0,
+        "toggle_grand_slam": true,
+        "toggle_avarice": true,
+        "toggle_shard_seeker": true,
+        "toggle_meticulous_miner": true,
+        "toggle_midas_gift": true,
+        "toggle_first_blood": true,
+        "toggle_corrupted_coinage": true,
+        "kit_mythical_chronobreaker_inventory": {
+          "LEATHER_CHESTPLATE:0": "",
+          "LEATHER_LEGGINGS:0": "",
+          "LEATHER_BOOTS:0": "",
+          "WATCH:0": ""
+        }
       },
       "TrueCombat": {
         "coins": 0,

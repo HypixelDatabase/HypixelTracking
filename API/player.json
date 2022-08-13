@@ -3093,7 +3093,15 @@
         "risky_taunts_used_farm_hunt": 0,
         "safe_taunts_used_farm_hunt": 0,
         "taunts_used_farm_hunt": 0,
-        "hunter_wins_farm_hunt": 0
+        "hunter_wins_farm_hunt": 0,
+        "arrows_hit_tourney_mini_walls_0": 0,
+        "arrows_shot_tourney_mini_walls_0": 0,
+        "deaths_tourney_mini_walls_0": 0,
+        "final_kills_tourney_mini_walls_0": 0,
+        "kills_tourney_mini_walls_0": 0,
+        "wins_tourney_mini_walls_0": 0,
+        "wither_damage_tourney_mini_walls_0": 0,
+        "wither_kills_tourney_mini_walls_0": 0
       },
       "Arena": {
         "coins": 0,
@@ -40906,7 +40914,8 @@
         "ARCADE__hide_and_seek_challenge": 0,
         "VAMPIREZ__purifying_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
-        "WOOL_GAMES__merciless_killer_challenge": 0
+        "WOOL_GAMES__merciless_killer_challenge": 0,
+        "ARCADE__mini_walls_challenge": 0
       },
       "day_d": {
         "SUPER_SMASH__leaderboard_challenge": 0,
@@ -41372,6 +41381,12 @@
         "playtime": 0,
         "tributes_earned": 0,
         "first_win": 0
+      },
+      "mini_walls_0": {
+        "games_played": 0,
+        "playtime": 0,
+        "first_win": 0,
+        "tributes_earned": 0
       }
     },
     "currentGadget": "",

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1650406065694,
+  "lastUpdated": 1660591614809,
   "challenges": {
     "arcade": [
       {
@@ -618,16 +618,6 @@
         ]
       },
       {
-        "id": "SKYWARS__ranked_challenge",
-        "name": "Ranked Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3360
-          }
-        ]
-      },
-      {
         "id": "SKYWARS__enderman_challenge",
         "name": "Enderman Challenge",
         "rewards": [
@@ -1083,7 +1073,7 @@
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 3500
+            "amount": 3360
           }
         ]
       },
@@ -1093,7 +1083,7 @@
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 3500
+            "amount": 3360
           }
         ]
       },
@@ -1103,7 +1093,7 @@
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 3500
+            "amount": 3360
           }
         ]
       }

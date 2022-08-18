@@ -3595,7 +3595,9 @@
           "zone_aura_laboratory",
           "commission_milestone_reward_travel_scroll_2",
           "commission_milestone_reward_mining_xp_tier_6",
-          "duel_training_complete_mages"
+          "duel_training_complete_mages",
+          "zone_hex",
+          "zone_shen_auction"
         ],
         "quests": {
           "collect_log": {
@@ -4109,7 +4111,9 @@
           "lonely_island",
           "melancholic_viking",
           "desert_mountain",
-          "aura_laboratory"
+          "aura_laboratory",
+          "hex",
+          "shen_auction"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -5363,7 +5367,9 @@
           "last_killed_mob_island": "",
           "xp_on_last_follower_spawn": 0,
           "spawn_timestamp": 0,
-          "kill_timestamp": 0
+          "kill_timestamp": 0,
+          "used_armor": true,
+          "solo": true
         },
         "dungeons": {
           "dungeon_types": {

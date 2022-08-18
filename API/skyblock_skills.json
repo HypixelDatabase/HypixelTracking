@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1659710318551,
-  "version": "0.13.168",
+  "lastUpdated": 1660842243306,
+  "version": "0.14.3",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1157,7 +1157,7 @@
           "unlocks": [
             "Warrior I   Deal 4% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "+Access to Spider's Den",
+            "+Access to Spiders Den",
             "+25 Coins"
           ]
         },
@@ -2187,8 +2187,8 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Plhlegblast Sea Creature",
+            "Squid Sea Creature",
             "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
             "+2 ❤ Health",
             "+25 Coins"
@@ -2198,7 +2198,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Walker Sea Creature",
             "Treasure Hunter II   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
             "+2 ❤ Health",
             "+50 Coins"
@@ -2208,7 +2208,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "??? Sea Creature",
+            "Night Squid Sea Creature",
             "Treasure Hunter III   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
             "+2 ❤ Health",
             "+100 Coins"
@@ -2218,7 +2218,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "??? Sea Creature",
+            "Frozen Steve Sea Creature",
             "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 ❤ Health",
             "+200 Coins"
@@ -2228,8 +2228,8 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Nurse Shark Sea Creature",
+            "Sea Guardian Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 ❤ Health",
             "+300 Coins"
@@ -2239,7 +2239,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "??? Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 ❤ Health",
             "+400 Coins"
@@ -2249,7 +2249,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Witch Sea Creature",
             "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
             "+2 ❤ Health",
             "+500 Coins"
@@ -2268,8 +2268,8 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Scarecrow Sea Creature",
+            "Sea Archer Sea Creature",
             "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
             "+2 ❤ Health",
             "+700 Coins"
@@ -2279,9 +2279,9 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Blue Shark Sea Creature",
+            "Oasis Rabbit Sea Creature",
+            "Oasis Sheep Sea Creature",
             "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 ❤ Health",
             "+800 Coins"
@@ -2291,7 +2291,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "??? Sea Creature",
+            "Rider of the Deep Sea Creature",
             "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 ❤ Health",
             "+900 Coins"
@@ -2310,8 +2310,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Catfish Sea Creature",
+            "Grinch Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 ❤ Health",
             "+1,100 Coins"
@@ -2321,7 +2321,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 ❤ Health",
             "+1,200 Coins"
@@ -2331,8 +2331,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Worm Sea Creature",
+            "Carrot King Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 ❤ Health",
             "+1,300 Coins"
@@ -2342,7 +2342,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 ❤ Health",
             "+1,400 Coins"
@@ -2352,9 +2352,9 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Poisoned Water Worm Sea Creature",
+            "Werewolf Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 ❤ Health",
             "+1,500 Coins"
@@ -2364,8 +2364,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Tiger Shark Sea Creature",
+            "Deep Sea Protector Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 ❤ Health",
             "+1,600 Coins"
@@ -2375,8 +2375,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins"
@@ -2386,8 +2386,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins"
@@ -2397,7 +2397,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins"
@@ -2407,7 +2407,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Pigman Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins"
@@ -2426,8 +2426,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Zombie Miner Sea Creature",
+            "Great White Shark Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
             "+2,800 Coins"
@@ -3826,362 +3826,462 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
+            "+1 ❤ Health",
             "Minion Chair Furniture Recipe",
-            "Dark Oak Chair Furniture Recipe"
+            "Dark Oak Chair Furniture Recipe",
+            "+25 Coins"
           ]
         },
         {
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Flower Pot Furniture Recipe"
+            "+1 ❤ Health",
+            "Flower Pot Furniture Recipe",
+            "+50 Coins"
           ]
         },
         {
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
+            "+1 ❤ Health",
             "Dark Oak Bench Furniture Recipe",
-            "Access to Quick Crafting System"
+            "Access to Quick Crafting System",
+            "+100 Coins"
           ]
         },
         {
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Dark Oak Table Furniture Recipe"
+            "+1 ❤ Health",
+            "Dark Oak Table Furniture Recipe",
+            "+200 Coins"
           ]
         },
         {
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Armor Stand Furniture Recipe"
+            "+1 ❤ Health",
+            "Armor Stand Furniture Recipe",
+            "+300 Coins"
           ]
         },
         {
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Scarecrow Furniture Recipe"
+            "+1 ❤ Health",
+            "Scarecrow Furniture Recipe",
+            "+400 Coins"
           ]
         },
         {
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Desk Furniture Recipe"
+            "+1 ❤ Health",
+            "Desk Furniture Recipe",
+            "+500 Coins"
           ]
         },
         {
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Bookcase Furniture Recipe"
+            "+1 ❤ Health",
+            "Bookcase Furniture Recipe",
+            "+600 Coins"
           ]
         },
         {
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Small Shelves Furniture Recipe"
+            "+1 ❤ Health",
+            "Small Shelves Furniture Recipe",
+            "+700 Coins"
           ]
         },
         {
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Weapon Rack Furniture Recipe"
+            "+1 ❤ Health",
+            "Weapon Rack Furniture Recipe",
+            "+800 Coins"
           ]
         },
         {
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Fire Pit Furniture Recipe"
+            "+1 ❤ Health",
+            "Fire Pit Furniture Recipe",
+            "+900 Coins"
           ]
         },
         {
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Tiki Torch Furniture Recipe"
+            "+1 ❤ Health",
+            "Tiki Torch Furniture Recipe",
+            "+1,000 Coins"
           ]
         },
         {
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Furnace+ Furniture Recipe",
             "Fireplace Furniture Recipe",
-            "Furnace+ Furniture Recipe"
+            "+1,100 Coins"
           ]
         },
         {
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Chest Storage Furniture Recipe"
+            "+1 ❤ Health",
+            "Chest Storage Furniture Recipe",
+            "+1,200 Coins"
           ]
         },
         {
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Weapon Rack+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Weapon Rack+ Furniture Recipe",
+            "+1,300 Coins"
           ]
         },
         {
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Large Bed Furniture Recipe",
             "Hay Bed Furniture Recipe",
-            "Large Bed Furniture Recipe"
+            "+1,400 Coins"
           ]
         },
         {
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Food Trough Furniture Recipe",
             "Water Trough Furniture Recipe",
-            "Food Trough Furniture Recipe"
+            "+1,500 Coins"
           ]
         },
         {
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Medium Shelves Furniture Recipe"
+            "+1 ❤ Health",
+            "Medium Shelves Furniture Recipe",
+            "+1,600 Coins"
           ]
         },
         {
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Crafting Table+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Crafting Table+ Furniture Recipe",
+            "+1,800 Coins"
           ]
         },
         {
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Ender Chest+ Furniture Recipe",
+            "Endstone Chest+ Furniture Recipe",
+            "Gold Chest+ Furniture Recipe",
             "Wood Chest+ Furniture Recipe",
             "Diamond Chest+ Furniture Recipe",
-            "Emerald Chest+ Furniture Recipe",
-            "Iron Chest+ Furniture Recipe",
-            "Gold Chest+ Furniture Recipe",
             "Lapis Chest+ Furniture Recipe",
+            "Iron Chest+ Furniture Recipe",
             "Redstone Chest+ Furniture Recipe",
-            "Ender Chest+ Furniture Recipe",
-            "Endstone Chest+ Furniture Recipe"
+            "Emerald Chest+ Furniture Recipe",
+            "+2,000 Coins"
           ]
         },
         {
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Brewing+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Brewing+ Furniture Recipe",
+            "+2,200 Coins"
           ]
         },
         {
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Enchanting Table+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Enchanting Table+ Furniture Recipe",
+            "+2,400 Coins"
           ]
         },
         {
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Blacksmith+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Blacksmith+ Furniture Recipe",
+            "+2,600 Coins"
           ]
         },
         {
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Skull Chest++ Furniture Recipe"
+            "+1 ❤ Health",
+            "Skull Chest++ Furniture Recipe",
+            "+2,800 Coins"
           ]
         },
         {
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Grandfather Clock Furniture Recipe"
+            "+1 ❤ Health",
+            "Grandfather Clock Furniture Recipe",
+            "+3,000 Coins"
           ]
         },
         {
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+3,500 Coins"
           ]
         },
         {
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+4,000 Coins"
           ]
         },
         {
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+5,000 Coins"
           ]
         },
         {
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+6,000 Coins"
           ]
         },
         {
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+7,500 Coins"
           ]
         },
         {
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+10,000 Coins"
           ]
         },
         {
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+12,500 Coins"
           ]
         },
         {
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+15,000 Coins"
           ]
         },
         {
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+17,500 Coins"
           ]
         },
         {
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+20,000 Coins"
           ]
         },
         {
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+25,000 Coins"
           ]
         },
         {
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+30,000 Coins"
           ]
         },
         {
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+35,000 Coins"
           ]
         },
         {
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+40,000 Coins"
           ]
         },
         {
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+45,000 Coins"
           ]
         },
         {
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+50,000 Coins"
           ]
         },
         {
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+60,000 Coins"
           ]
         },
         {
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+70,000 Coins"
           ]
         },
         {
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+80,000 Coins"
           ]
         },
         {
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+90,000 Coins"
           ]
         },
         {
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+100,000 Coins"
           ]
         },
         {
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+125,000 Coins"
           ]
         },
         {
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+150,000 Coins"
           ]
         },
         {
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+175,000 Coins"
           ]
         },
         {
           "level": 50,
           "totalExpRequired": 55172425,
-          "unlocks": []
+          "unlocks": [
+            "+200,000 Coins"
+          ]
         }
       ]
     },
@@ -6173,7 +6273,7 @@
           "unlocks": [
             "Warrior I   Deal 4% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "+Access to Spider's Den",
+            "+Access to Spiders Den",
             "+25 Coins"
           ]
         },
@@ -7203,8 +7303,8 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Plhlegblast Sea Creature",
+            "Squid Sea Creature",
             "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
             "+2 ❤ Health",
             "+25 Coins"
@@ -7214,7 +7314,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Walker Sea Creature",
             "Treasure Hunter II   Increases the chance to find treasure when fishing by 0.2➜0.4%.",
             "+2 ❤ Health",
             "+50 Coins"
@@ -7224,7 +7324,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "??? Sea Creature",
+            "Night Squid Sea Creature",
             "Treasure Hunter III   Increases the chance to find treasure when fishing by 0.4➜0.6%.",
             "+2 ❤ Health",
             "+100 Coins"
@@ -7234,7 +7334,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "??? Sea Creature",
+            "Frozen Steve Sea Creature",
             "Treasure Hunter IV   Increases the chance to find treasure when fishing by 0.6➜0.8%.",
             "+2 ❤ Health",
             "+200 Coins"
@@ -7244,8 +7344,8 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Nurse Shark Sea Creature",
+            "Sea Guardian Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 ❤ Health",
             "+300 Coins"
@@ -7255,7 +7355,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "??? Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 ❤ Health",
             "+400 Coins"
@@ -7265,7 +7365,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Witch Sea Creature",
             "Treasure Hunter VII   Increases the chance to find treasure when fishing by 1.2➜1.4%.",
             "+2 ❤ Health",
             "+500 Coins"
@@ -7284,8 +7384,8 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Scarecrow Sea Creature",
+            "Sea Archer Sea Creature",
             "Treasure Hunter IX   Increases the chance to find treasure when fishing by 1.6➜1.8%.",
             "+2 ❤ Health",
             "+700 Coins"
@@ -7295,9 +7395,9 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Blue Shark Sea Creature",
+            "Oasis Rabbit Sea Creature",
+            "Oasis Sheep Sea Creature",
             "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 ❤ Health",
             "+800 Coins"
@@ -7307,7 +7407,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "??? Sea Creature",
+            "Rider of the Deep Sea Creature",
             "Treasure Hunter XI   Increases the chance to find treasure when fishing by 2➜2.2%.",
             "+2 ❤ Health",
             "+900 Coins"
@@ -7326,8 +7426,8 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Catfish Sea Creature",
+            "Grinch Sea Creature",
             "Treasure Hunter XIII   Increases the chance to find treasure when fishing by 2.4➜2.6%.",
             "+2 ❤ Health",
             "+1,100 Coins"
@@ -7337,7 +7437,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "??? Sea Creature",
+            "Nightmare Sea Creature",
             "Treasure Hunter XIV   Increases the chance to find treasure when fishing by 2.6➜2.8%.",
             "+2 ❤ Health",
             "+1,200 Coins"
@@ -7347,8 +7447,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Worm Sea Creature",
+            "Carrot King Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 ❤ Health",
             "+1,300 Coins"
@@ -7358,7 +7458,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "??? Sea Creature",
+            "Sea Leech Sea Creature",
             "Treasure Hunter XVI   Increases the chance to find treasure when fishing by 3➜3.2%.",
             "+3 ❤ Health",
             "+1,400 Coins"
@@ -7368,9 +7468,9 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Guardian Defender Sea Creature",
+            "Poisoned Water Worm Sea Creature",
+            "Werewolf Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 ❤ Health",
             "+1,500 Coins"
@@ -7380,8 +7480,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Tiger Shark Sea Creature",
+            "Deep Sea Protector Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 ❤ Health",
             "+1,600 Coins"
@@ -7391,8 +7491,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins"
@@ -7402,8 +7502,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins"
@@ -7413,7 +7513,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins"
@@ -7423,7 +7523,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Pigman Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins"
@@ -7442,8 +7542,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Zombie Miner Sea Creature",
+            "Great White Shark Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
             "+2,800 Coins"
@@ -8842,362 +8942,462 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
+            "+1 ❤ Health",
             "Minion Chair Furniture Recipe",
-            "Dark Oak Chair Furniture Recipe"
+            "Dark Oak Chair Furniture Recipe",
+            "+25 Coins"
           ]
         },
         {
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Flower Pot Furniture Recipe"
+            "+1 ❤ Health",
+            "Flower Pot Furniture Recipe",
+            "+50 Coins"
           ]
         },
         {
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
+            "+1 ❤ Health",
             "Dark Oak Bench Furniture Recipe",
-            "Access to Quick Crafting System"
+            "Access to Quick Crafting System",
+            "+100 Coins"
           ]
         },
         {
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Dark Oak Table Furniture Recipe"
+            "+1 ❤ Health",
+            "Dark Oak Table Furniture Recipe",
+            "+200 Coins"
           ]
         },
         {
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Armor Stand Furniture Recipe"
+            "+1 ❤ Health",
+            "Armor Stand Furniture Recipe",
+            "+300 Coins"
           ]
         },
         {
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Scarecrow Furniture Recipe"
+            "+1 ❤ Health",
+            "Scarecrow Furniture Recipe",
+            "+400 Coins"
           ]
         },
         {
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Desk Furniture Recipe"
+            "+1 ❤ Health",
+            "Desk Furniture Recipe",
+            "+500 Coins"
           ]
         },
         {
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Bookcase Furniture Recipe"
+            "+1 ❤ Health",
+            "Bookcase Furniture Recipe",
+            "+600 Coins"
           ]
         },
         {
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Small Shelves Furniture Recipe"
+            "+1 ❤ Health",
+            "Small Shelves Furniture Recipe",
+            "+700 Coins"
           ]
         },
         {
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Weapon Rack Furniture Recipe"
+            "+1 ❤ Health",
+            "Weapon Rack Furniture Recipe",
+            "+800 Coins"
           ]
         },
         {
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Fire Pit Furniture Recipe"
+            "+1 ❤ Health",
+            "Fire Pit Furniture Recipe",
+            "+900 Coins"
           ]
         },
         {
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Tiki Torch Furniture Recipe"
+            "+1 ❤ Health",
+            "Tiki Torch Furniture Recipe",
+            "+1,000 Coins"
           ]
         },
         {
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Furnace+ Furniture Recipe",
             "Fireplace Furniture Recipe",
-            "Furnace+ Furniture Recipe"
+            "+1,100 Coins"
           ]
         },
         {
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Chest Storage Furniture Recipe"
+            "+1 ❤ Health",
+            "Chest Storage Furniture Recipe",
+            "+1,200 Coins"
           ]
         },
         {
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Weapon Rack+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Weapon Rack+ Furniture Recipe",
+            "+1,300 Coins"
           ]
         },
         {
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Large Bed Furniture Recipe",
             "Hay Bed Furniture Recipe",
-            "Large Bed Furniture Recipe"
+            "+1,400 Coins"
           ]
         },
         {
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Food Trough Furniture Recipe",
             "Water Trough Furniture Recipe",
-            "Food Trough Furniture Recipe"
+            "+1,500 Coins"
           ]
         },
         {
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Medium Shelves Furniture Recipe"
+            "+1 ❤ Health",
+            "Medium Shelves Furniture Recipe",
+            "+1,600 Coins"
           ]
         },
         {
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Crafting Table+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Crafting Table+ Furniture Recipe",
+            "+1,800 Coins"
           ]
         },
         {
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
+            "+1 ❤ Health",
+            "Ender Chest+ Furniture Recipe",
+            "Endstone Chest+ Furniture Recipe",
+            "Gold Chest+ Furniture Recipe",
             "Wood Chest+ Furniture Recipe",
             "Diamond Chest+ Furniture Recipe",
-            "Emerald Chest+ Furniture Recipe",
-            "Iron Chest+ Furniture Recipe",
-            "Gold Chest+ Furniture Recipe",
             "Lapis Chest+ Furniture Recipe",
+            "Iron Chest+ Furniture Recipe",
             "Redstone Chest+ Furniture Recipe",
-            "Ender Chest+ Furniture Recipe",
-            "Endstone Chest+ Furniture Recipe"
+            "Emerald Chest+ Furniture Recipe",
+            "+2,000 Coins"
           ]
         },
         {
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Brewing+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Brewing+ Furniture Recipe",
+            "+2,200 Coins"
           ]
         },
         {
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Enchanting Table+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Enchanting Table+ Furniture Recipe",
+            "+2,400 Coins"
           ]
         },
         {
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Blacksmith+ Furniture Recipe"
+            "+1 ❤ Health",
+            "Blacksmith+ Furniture Recipe",
+            "+2,600 Coins"
           ]
         },
         {
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Skull Chest++ Furniture Recipe"
+            "+1 ❤ Health",
+            "Skull Chest++ Furniture Recipe",
+            "+2,800 Coins"
           ]
         },
         {
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Grandfather Clock Furniture Recipe"
+            "+1 ❤ Health",
+            "Grandfather Clock Furniture Recipe",
+            "+3,000 Coins"
           ]
         },
         {
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+3,500 Coins"
           ]
         },
         {
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+4,000 Coins"
           ]
         },
         {
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+5,000 Coins"
           ]
         },
         {
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+6,000 Coins"
           ]
         },
         {
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+7,500 Coins"
           ]
         },
         {
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+10,000 Coins"
           ]
         },
         {
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+12,500 Coins"
           ]
         },
         {
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+15,000 Coins"
           ]
         },
         {
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+17,500 Coins"
           ]
         },
         {
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+20,000 Coins"
           ]
         },
         {
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+25,000 Coins"
           ]
         },
         {
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+30,000 Coins"
           ]
         },
         {
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+35,000 Coins"
           ]
         },
         {
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+40,000 Coins"
           ]
         },
         {
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+45,000 Coins"
           ]
         },
         {
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+50,000 Coins"
           ]
         },
         {
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+60,000 Coins"
           ]
         },
         {
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+70,000 Coins"
           ]
         },
         {
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+80,000 Coins"
           ]
         },
         {
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+90,000 Coins"
           ]
         },
         {
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+100,000 Coins"
           ]
         },
         {
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+125,000 Coins"
           ]
         },
         {
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+150,000 Coins"
           ]
         },
         {
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Furniture Recipe (COMING SOON)"
+            "+1 ❤ Health",
+            "Furniture Recipe (COMING SOON)",
+            "+175,000 Coins"
           ]
         },
         {
           "level": 50,
           "totalExpRequired": 55172425,
-          "unlocks": []
+          "unlocks": [
+            "+200,000 Coins"
+          ]
         }
       ]
     },

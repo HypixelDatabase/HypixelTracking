@@ -3246,6 +3246,11 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1659430902087
+          },
+          "increase_combat_skill_20": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3944,6 +3949,13 @@
             "completed_at_sb": 0
           },
           "talk_to_chief_3": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "increase_combat_skill_20": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,
@@ -5345,7 +5357,8 @@
           "REVENANT_CATALYST": 0,
           "CRUDE_GABAGOOL": 0,
           "RUNE_LAVATEARS_1": 0,
-          "SAPLING:1": 0
+          "SAPLING:1": 0,
+          "SPIDER_CATALYST": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {

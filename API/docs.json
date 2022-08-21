@@ -1018,100 +1018,6 @@
         }
       }
     },
-    "/player/ranked/skywars": {
-      "get": {
-        "summary": "Ranked SkyWars data of a specific player",
-        "tags": [
-          "Player Data"
-        ],
-        "security": [
-          {
-            "ApiKey": []
-          }
-        ],
-        "parameters": [
-          {
-            "in": "query",
-            "name": "uuid",
-            "description": "The UUID of the player you wish to request",
-            "schema": {
-              "type": "string"
-            },
-            "required": true
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "SkyWars ranked rating and position.",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "success": {
-                      "type": "boolean",
-                      "example": true
-                    },
-                    "result": {
-                      "type": "object",
-                      "properties": {
-                        "key": {
-                          "type": "string",
-                          "description": "A key built with the current month and year.",
-                          "example": "7_21"
-                        },
-                        "position": {
-                          "type": "number",
-                          "description": "The position of the player on the leaderboards, this is not zero indexed and is the display position.",
-                          "example": 50
-                        },
-                        "score": {
-                          "type": "number",
-                          "description": "The current score of the player for this season.",
-                          "example": 2500
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "400": {
-            "$ref": "#/components/responses/DataMissing"
-          },
-          "403": {
-            "$ref": "#/components/responses/InvalidKey"
-          },
-          "404": {
-            "description": "No data could be found for the requested player.",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "success": {
-                      "type": "boolean",
-                      "example": false
-                    },
-                    "cause": {
-                      "type": "string",
-                      "example": "No result was found"
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "422": {
-            "$ref": "#/components/responses/MalformedData"
-          },
-          "429": {
-            "$ref": "#/components/responses/RateLimited"
-          }
-        }
-      }
-    },
     "/resources/games": {
       "get": {
         "summary": "Game Information",
@@ -2122,7 +2028,7 @@
                     "success": {
                       "type": "boolean"
                     },
-                    "events": {
+                    "sales": {
                       "type": "array",
                       "items": {
                         "$ref": "#/components/schemas/SkyBlockFireSale"

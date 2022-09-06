@@ -263,7 +263,8 @@
       "woolgames_wool_wins": 0,
       "woolgames_mountain_of_wool": 0,
       "skywars_tonic_taker": 0,
-      "arcade_pixel_party_color_coordinated": 0
+      "arcade_pixel_party_color_coordinated": 0,
+      "arcade_pixel_party_powered_up": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -3109,7 +3110,11 @@
           "games_played_hyper": 0,
           "highest_round": 0,
           "rounds_completed": 0,
-          "rounds_completed_hyper": 0
+          "rounds_completed_hyper": 0,
+          "games_played_normal": 0,
+          "rounds_completed_normal": 0,
+          "power_ups_collected": 0,
+          "power_ups_collected_normal": 0
         }
       },
       "Arena": {

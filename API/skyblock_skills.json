@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1660842243306,
-  "version": "0.14.3",
+  "lastUpdated": 1662493188352,
+  "version": "0.14.58",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -730,6 +730,7 @@
           "unlocks": [
             "Spelunker XVIII   Grants +68➜72 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Pitchin' Koi Reforge",
             "Pure Mithril Reforge",
             "+1,600 Coins"
           ]
@@ -2364,8 +2365,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Tiger Shark Sea Creature",
-            "Deep Sea Protector Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 ❤ Health",
             "+1,600 Coins"
@@ -2375,8 +2376,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Water Hydra Sea Creature",
-            "Flaming Worm Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins"
@@ -2386,8 +2387,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "The Sea Emperor Sea Creature",
-            "Lava Blaze Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins"
@@ -2397,7 +2398,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Phantom Fisher Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins"
@@ -2407,7 +2408,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Lava Pigman Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins"
@@ -2426,8 +2427,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Zombie Miner Sea Creature",
-            "Great White Shark Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
             "+2,800 Coins"
@@ -2689,7 +2690,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Conjurer I   Gain 4% more experience orbs from any source.",
+            "Conjurer I   Gain 5% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Scavenger Enchantment",
@@ -2700,7 +2701,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Conjurer II   Gain 4➜8% more experience orbs from any source.",
+            "Conjurer II   Gain 5➜10% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Infinite Quiver Enchantment",
@@ -2712,7 +2713,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Conjurer III   Gain 8➜12% more experience orbs from any source.",
+            "Conjurer III   Gain 10➜15% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Access to the Wizard Portal",
@@ -2726,7 +2727,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Conjurer IV   Gain 12➜16% more experience orbs from any source.",
+            "Conjurer IV   Gain 15➜20% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Cleave Enchantment",
@@ -2738,7 +2739,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Conjurer V   Gain 16➜20% more experience orbs from any source.",
+            "Conjurer V   Gain 20➜25% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Life Steal Enchantment",
@@ -2750,7 +2751,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Conjurer VI   Gain 20➜24% more experience orbs from any source.",
+            "Conjurer VI   Gain 25➜30% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Snipe Enchantment",
@@ -2762,7 +2763,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Conjurer VII   Gain 24➜28% more experience orbs from any source.",
+            "Conjurer VII   Gain 30➜35% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Replenish Enchantment",
@@ -2774,10 +2775,11 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Conjurer VIII   Gain 28➜32% more experience orbs from any source.",
+            "Conjurer VIII   Gain 35➜40% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Giant Killer Enchantment",
+            "Piscary Enchantment",
             "Dragon Tracer Enchantment",
             "+600 Coins"
           ]
@@ -2786,7 +2788,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Conjurer IX   Gain 32➜36% more experience orbs from any source.",
+            "Conjurer IX   Gain 40➜45% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Blessing Enchantment",
@@ -2798,7 +2800,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Conjurer X   Gain 36➜40% more experience orbs from any source.",
+            "Conjurer X   Gain 45➜50% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "First Strike Enchantment",
@@ -2811,7 +2813,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Conjurer XI   Gain 40➜44% more experience orbs from any source.",
+            "Conjurer XI   Gain 50➜55% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Ender Slayer Enchantment",
@@ -2823,7 +2825,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Conjurer XII   Gain 44➜48% more experience orbs from any source.",
+            "Conjurer XII   Gain 55➜60% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Impaling Enchantment",
@@ -2834,7 +2836,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Conjurer XIII   Gain 48➜52% more experience orbs from any source.",
+            "Conjurer XIII   Gain 60➜65% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Magnet Enchantment",
@@ -2845,7 +2847,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Conjurer XIV   Gain 52➜56% more experience orbs from any source.",
+            "Conjurer XIV   Gain 65➜70% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Lethality Enchantment",
@@ -2859,11 +2861,12 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Conjurer XV   Gain 56➜60% more experience orbs from any source.",
+            "Conjurer XV   Gain 70➜75% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Syphon Enchantment",
             "Caster Enchantment",
+            "Bobbin' Time Enchantment",
             "True Protection Enchantment",
             "Vampirism Enchantment",
             "+1,300 Coins"
@@ -2873,7 +2876,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Conjurer XVI   Gain 60➜64% more experience orbs from any source.",
+            "Conjurer XVI   Gain 75➜80% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Dragon Hunter Enchantment",
@@ -2885,7 +2888,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Conjurer XVII   Gain 64➜68% more experience orbs from any source.",
+            "Conjurer XVII   Gain 80➜85% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Piercing Enchantment",
@@ -2897,7 +2900,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Conjurer XVIII   Gain 68➜72% more experience orbs from any source.",
+            "Conjurer XVIII   Gain 85➜90% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Spiked Hook Enchantment",
@@ -2909,7 +2912,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Conjurer XIX   Gain 72➜76% more experience orbs from any source.",
+            "Conjurer XIX   Gain 90➜95% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Triple-Strike Enchantment",
@@ -2920,7 +2923,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Conjurer XX   Gain 76➜80% more experience orbs from any source.",
+            "Conjurer XX   Gain 95➜100% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Thunderbolt Enchantment",
@@ -2933,7 +2936,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Conjurer XXI   Gain 80➜84% more experience orbs from any source.",
+            "Conjurer XXI   Gain 100➜105% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Big Brain Enchantment",
@@ -2945,7 +2948,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Conjurer XXII   Gain 84➜88% more experience orbs from any source.",
+            "Conjurer XXII   Gain 105➜110% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Mana Vampire Enchantment",
@@ -2961,7 +2964,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Conjurer XXIII   Gain 88➜92% more experience orbs from any source.",
+            "Conjurer XXIII   Gain 110➜115% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Respite Enchantment",
@@ -2972,7 +2975,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Conjurer XXIV   Gain 92➜96% more experience orbs from any source.",
+            "Conjurer XXIV   Gain 115➜120% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Combo Enchantment",
@@ -2983,7 +2986,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Conjurer XXV   Gain 96➜100% more experience orbs from any source.",
+            "Conjurer XXV   Gain 120➜125% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Corruption Enchantment",
@@ -2996,7 +2999,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Conjurer XXVI   Gain 100➜104% more experience orbs from any source.",
+            "Conjurer XXVI   Gain 125➜130% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Vicious Enchantment",
@@ -3007,7 +3010,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Conjurer XXVII   Gain 104➜108% more experience orbs from any source.",
+            "Conjurer XXVII   Gain 130➜135% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Wisdom Enchantment",
@@ -3018,7 +3021,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Conjurer XXVIII   Gain 108➜112% more experience orbs from any source.",
+            "Conjurer XXVIII   Gain 135➜140% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Habanero Tactics Enchantment",
@@ -3031,7 +3034,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Conjurer XXIX   Gain 112➜116% more experience orbs from any source.",
+            "Conjurer XXIX   Gain 140➜145% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "No Pain No Gain Enchantment",
@@ -3042,7 +3045,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Conjurer XXX   Gain 116➜120% more experience orbs from any source.",
+            "Conjurer XXX   Gain 145➜150% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Flash Enchantment",
@@ -3054,7 +3057,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Conjurer XXXI   Gain 120➜124% more experience orbs from any source.",
+            "Conjurer XXXI   Gain 150➜155% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Chimera Enchantment",
@@ -3065,7 +3068,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Conjurer XXXII   Gain 124➜128% more experience orbs from any source.",
+            "Conjurer XXXII   Gain 155➜160% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Rend Enchantment",
@@ -3076,7 +3079,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Conjurer XXXIII   Gain 128➜132% more experience orbs from any source.",
+            "Conjurer XXXIII   Gain 160➜165% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Overload Enchantment",
@@ -3087,7 +3090,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Conjurer XXXIV   Gain 132➜136% more experience orbs from any source.",
+            "Conjurer XXXIV   Gain 165➜170% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Legion Enchantment",
@@ -3098,7 +3101,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Conjurer XXXV   Gain 136➜140% more experience orbs from any source.",
+            "Conjurer XXXV   Gain 170➜175% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Swarm Enchantment",
@@ -3109,7 +3112,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Conjurer XXXVI   Gain 140➜144% more experience orbs from any source.",
+            "Conjurer XXXVI   Gain 175➜180% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Soul Eater Enchantment",
@@ -3120,7 +3123,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Conjurer XXXVII   Gain 144➜148% more experience orbs from any source.",
+            "Conjurer XXXVII   Gain 180➜185% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Fatal Tempo Enchantment",
@@ -3132,7 +3135,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Conjurer XXXVIII   Gain 148➜152% more experience orbs from any source.",
+            "Conjurer XXXVIII   Gain 185➜190% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+35,000 Coins"
@@ -3142,7 +3145,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Conjurer XXXIX   Gain 152➜156% more experience orbs from any source.",
+            "Conjurer XXXIX   Gain 190➜195% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+40,000 Coins"
@@ -3152,7 +3155,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Conjurer XL   Gain 156➜160% more experience orbs from any source.",
+            "Conjurer XL   Gain 195➜200% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+45,000 Coins"
@@ -3162,7 +3165,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Conjurer XLI   Gain 160➜164% more experience orbs from any source.",
+            "Conjurer XLI   Gain 200➜205% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+50,000 Coins"
@@ -3172,7 +3175,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Conjurer XLII   Gain 164➜168% more experience orbs from any source.",
+            "Conjurer XLII   Gain 205➜210% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+60,000 Coins"
@@ -3182,7 +3185,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Conjurer XLIII   Gain 168➜172% more experience orbs from any source.",
+            "Conjurer XLIII   Gain 210➜215% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+70,000 Coins"
@@ -3192,7 +3195,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Conjurer XLIV   Gain 172➜176% more experience orbs from any source.",
+            "Conjurer XLIV   Gain 215➜220% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+80,000 Coins"
@@ -3202,7 +3205,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Conjurer XLV   Gain 176➜180% more experience orbs from any source.",
+            "Conjurer XLV   Gain 220➜225% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+90,000 Coins"
@@ -3212,7 +3215,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Conjurer XLVI   Gain 180➜184% more experience orbs from any source.",
+            "Conjurer XLVI   Gain 225➜230% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+100,000 Coins"
@@ -3222,7 +3225,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Conjurer XLVII   Gain 184➜188% more experience orbs from any source.",
+            "Conjurer XLVII   Gain 230➜235% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+125,000 Coins"
@@ -3232,7 +3235,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Conjurer XLVIII   Gain 188➜192% more experience orbs from any source.",
+            "Conjurer XLVIII   Gain 235➜240% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+150,000 Coins"
@@ -3242,7 +3245,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Conjurer XLIX   Gain 192➜196% more experience orbs from any source.",
+            "Conjurer XLIX   Gain 240➜245% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+175,000 Coins"
@@ -3252,7 +3255,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Conjurer L   Gain 196➜200% more experience orbs from any source.",
+            "Conjurer L   Gain 245➜250% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+200,000 Coins"
@@ -3262,7 +3265,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Conjurer LI   Gain 200➜204% more experience orbs from any source.",
+            "Conjurer LI   Gain 250➜255% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+250,000 Coins"
@@ -3272,7 +3275,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Conjurer LII   Gain 204➜208% more experience orbs from any source.",
+            "Conjurer LII   Gain 255➜260% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+300,000 Coins"
@@ -3282,7 +3285,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Conjurer LIII   Gain 208➜212% more experience orbs from any source.",
+            "Conjurer LIII   Gain 260➜265% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+350,000 Coins"
@@ -3292,7 +3295,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Conjurer LIV   Gain 212➜216% more experience orbs from any source.",
+            "Conjurer LIV   Gain 265➜270% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+400,000 Coins"
@@ -3302,7 +3305,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Conjurer LV   Gain 216➜220% more experience orbs from any source.",
+            "Conjurer LV   Gain 270➜275% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+450,000 Coins"
@@ -3312,7 +3315,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Conjurer LVI   Gain 220➜224% more experience orbs from any source.",
+            "Conjurer LVI   Gain 275➜280% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+500,000 Coins"
@@ -3322,7 +3325,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Conjurer LVII   Gain 224➜228% more experience orbs from any source.",
+            "Conjurer LVII   Gain 280➜285% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+600,000 Coins"
@@ -3332,7 +3335,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Conjurer LVIII   Gain 228➜232% more experience orbs from any source.",
+            "Conjurer LVIII   Gain 285➜290% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+700,000 Coins"
@@ -3342,7 +3345,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Conjurer LIX   Gain 232➜236% more experience orbs from any source.",
+            "Conjurer LIX   Gain 290➜295% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+800,000 Coins"
@@ -3352,7 +3355,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Conjurer LX   Gain 236➜240% more experience orbs from any source.",
+            "Conjurer LX   Gain 295➜300% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+1,000,000 Coins"
@@ -5846,6 +5849,7 @@
           "unlocks": [
             "Spelunker XVIII   Grants +68➜72 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Pitchin' Koi Reforge",
             "Pure Mithril Reforge",
             "+1,600 Coins"
           ]
@@ -7480,8 +7484,8 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Tiger Shark Sea Creature",
-            "Deep Sea Protector Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XVIII   Increases the chance to find treasure when fishing by 3.4➜3.6%.",
             "+3 ❤ Health",
             "+1,600 Coins"
@@ -7491,8 +7495,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Water Hydra Sea Creature",
-            "Flaming Worm Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins"
@@ -7502,8 +7506,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "The Sea Emperor Sea Creature",
-            "Lava Blaze Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins"
@@ -7513,7 +7517,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Phantom Fisher Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins"
@@ -7523,7 +7527,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Lava Pigman Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins"
@@ -7542,8 +7546,8 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Zombie Miner Sea Creature",
-            "Great White Shark Sea Creature",
+            "??? Sea Creature",
+            "??? Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
             "+2,800 Coins"
@@ -7805,7 +7809,7 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Conjurer I   Gain 4% more experience orbs from any source.",
+            "Conjurer I   Gain 5% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Scavenger Enchantment",
@@ -7816,7 +7820,7 @@
           "level": 2,
           "totalExpRequired": 175,
           "unlocks": [
-            "Conjurer II   Gain 4➜8% more experience orbs from any source.",
+            "Conjurer II   Gain 5➜10% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Infinite Quiver Enchantment",
@@ -7828,7 +7832,7 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Conjurer III   Gain 8➜12% more experience orbs from any source.",
+            "Conjurer III   Gain 10➜15% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Access to the Wizard Portal",
@@ -7842,7 +7846,7 @@
           "level": 4,
           "totalExpRequired": 675,
           "unlocks": [
-            "Conjurer IV   Gain 12➜16% more experience orbs from any source.",
+            "Conjurer IV   Gain 15➜20% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Cleave Enchantment",
@@ -7854,7 +7858,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Conjurer V   Gain 16➜20% more experience orbs from any source.",
+            "Conjurer V   Gain 20➜25% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Life Steal Enchantment",
@@ -7866,7 +7870,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
-            "Conjurer VI   Gain 20➜24% more experience orbs from any source.",
+            "Conjurer VI   Gain 25➜30% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Snipe Enchantment",
@@ -7878,7 +7882,7 @@
           "level": 7,
           "totalExpRequired": 2925,
           "unlocks": [
-            "Conjurer VII   Gain 24➜28% more experience orbs from any source.",
+            "Conjurer VII   Gain 30➜35% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Replenish Enchantment",
@@ -7890,10 +7894,11 @@
           "level": 8,
           "totalExpRequired": 4425,
           "unlocks": [
-            "Conjurer VIII   Gain 28➜32% more experience orbs from any source.",
+            "Conjurer VIII   Gain 35➜40% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Giant Killer Enchantment",
+            "Piscary Enchantment",
             "Dragon Tracer Enchantment",
             "+600 Coins"
           ]
@@ -7902,7 +7907,7 @@
           "level": 9,
           "totalExpRequired": 6425,
           "unlocks": [
-            "Conjurer IX   Gain 32➜36% more experience orbs from any source.",
+            "Conjurer IX   Gain 40➜45% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Blessing Enchantment",
@@ -7914,7 +7919,7 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
-            "Conjurer X   Gain 36➜40% more experience orbs from any source.",
+            "Conjurer X   Gain 45➜50% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "First Strike Enchantment",
@@ -7927,7 +7932,7 @@
           "level": 11,
           "totalExpRequired": 14925,
           "unlocks": [
-            "Conjurer XI   Gain 40➜44% more experience orbs from any source.",
+            "Conjurer XI   Gain 50➜55% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Ender Slayer Enchantment",
@@ -7939,7 +7944,7 @@
           "level": 12,
           "totalExpRequired": 22425,
           "unlocks": [
-            "Conjurer XII   Gain 44➜48% more experience orbs from any source.",
+            "Conjurer XII   Gain 55➜60% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Impaling Enchantment",
@@ -7950,7 +7955,7 @@
           "level": 13,
           "totalExpRequired": 32425,
           "unlocks": [
-            "Conjurer XIII   Gain 48➜52% more experience orbs from any source.",
+            "Conjurer XIII   Gain 60➜65% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Magnet Enchantment",
@@ -7961,7 +7966,7 @@
           "level": 14,
           "totalExpRequired": 47425,
           "unlocks": [
-            "Conjurer XIV   Gain 52➜56% more experience orbs from any source.",
+            "Conjurer XIV   Gain 65➜70% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Lethality Enchantment",
@@ -7975,11 +7980,12 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Conjurer XV   Gain 56➜60% more experience orbs from any source.",
+            "Conjurer XV   Gain 70➜75% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Syphon Enchantment",
             "Caster Enchantment",
+            "Bobbin' Time Enchantment",
             "True Protection Enchantment",
             "Vampirism Enchantment",
             "+1,300 Coins"
@@ -7989,7 +7995,7 @@
           "level": 16,
           "totalExpRequired": 97425,
           "unlocks": [
-            "Conjurer XVI   Gain 60➜64% more experience orbs from any source.",
+            "Conjurer XVI   Gain 75➜80% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Dragon Hunter Enchantment",
@@ -8001,7 +8007,7 @@
           "level": 17,
           "totalExpRequired": 147425,
           "unlocks": [
-            "Conjurer XVII   Gain 64➜68% more experience orbs from any source.",
+            "Conjurer XVII   Gain 80➜85% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Piercing Enchantment",
@@ -8013,7 +8019,7 @@
           "level": 18,
           "totalExpRequired": 222425,
           "unlocks": [
-            "Conjurer XVIII   Gain 68➜72% more experience orbs from any source.",
+            "Conjurer XVIII   Gain 85➜90% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Spiked Hook Enchantment",
@@ -8025,7 +8031,7 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "Conjurer XIX   Gain 72➜76% more experience orbs from any source.",
+            "Conjurer XIX   Gain 90➜95% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Triple-Strike Enchantment",
@@ -8036,7 +8042,7 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "Conjurer XX   Gain 76➜80% more experience orbs from any source.",
+            "Conjurer XX   Gain 95➜100% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Thunderbolt Enchantment",
@@ -8049,7 +8055,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "Conjurer XXI   Gain 80➜84% more experience orbs from any source.",
+            "Conjurer XXI   Gain 100➜105% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Big Brain Enchantment",
@@ -8061,7 +8067,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "Conjurer XXII   Gain 84➜88% more experience orbs from any source.",
+            "Conjurer XXII   Gain 105➜110% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Mana Vampire Enchantment",
@@ -8077,7 +8083,7 @@
           "level": 23,
           "totalExpRequired": 1722425,
           "unlocks": [
-            "Conjurer XXIII   Gain 88➜92% more experience orbs from any source.",
+            "Conjurer XXIII   Gain 110➜115% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Respite Enchantment",
@@ -8088,7 +8094,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Conjurer XXIV   Gain 92➜96% more experience orbs from any source.",
+            "Conjurer XXIV   Gain 115➜120% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Combo Enchantment",
@@ -8099,7 +8105,7 @@
           "level": 25,
           "totalExpRequired": 3022425,
           "unlocks": [
-            "Conjurer XXV   Gain 96➜100% more experience orbs from any source.",
+            "Conjurer XXV   Gain 120➜125% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Corruption Enchantment",
@@ -8112,7 +8118,7 @@
           "level": 26,
           "totalExpRequired": 3822425,
           "unlocks": [
-            "Conjurer XXVI   Gain 100➜104% more experience orbs from any source.",
+            "Conjurer XXVI   Gain 125➜130% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Vicious Enchantment",
@@ -8123,7 +8129,7 @@
           "level": 27,
           "totalExpRequired": 4722425,
           "unlocks": [
-            "Conjurer XXVII   Gain 104➜108% more experience orbs from any source.",
+            "Conjurer XXVII   Gain 130➜135% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Wisdom Enchantment",
@@ -8134,7 +8140,7 @@
           "level": 28,
           "totalExpRequired": 5722425,
           "unlocks": [
-            "Conjurer XXVIII   Gain 108➜112% more experience orbs from any source.",
+            "Conjurer XXVIII   Gain 135➜140% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Habanero Tactics Enchantment",
@@ -8147,7 +8153,7 @@
           "level": 29,
           "totalExpRequired": 6822425,
           "unlocks": [
-            "Conjurer XXIX   Gain 112➜116% more experience orbs from any source.",
+            "Conjurer XXIX   Gain 140➜145% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "No Pain No Gain Enchantment",
@@ -8158,7 +8164,7 @@
           "level": 30,
           "totalExpRequired": 8022425,
           "unlocks": [
-            "Conjurer XXX   Gain 116➜120% more experience orbs from any source.",
+            "Conjurer XXX   Gain 145➜150% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Flash Enchantment",
@@ -8170,7 +8176,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
-            "Conjurer XXXI   Gain 120➜124% more experience orbs from any source.",
+            "Conjurer XXXI   Gain 150➜155% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Chimera Enchantment",
@@ -8181,7 +8187,7 @@
           "level": 32,
           "totalExpRequired": 10722425,
           "unlocks": [
-            "Conjurer XXXII   Gain 124➜128% more experience orbs from any source.",
+            "Conjurer XXXII   Gain 155➜160% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Rend Enchantment",
@@ -8192,7 +8198,7 @@
           "level": 33,
           "totalExpRequired": 12222425,
           "unlocks": [
-            "Conjurer XXXIII   Gain 128➜132% more experience orbs from any source.",
+            "Conjurer XXXIII   Gain 160➜165% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Overload Enchantment",
@@ -8203,7 +8209,7 @@
           "level": 34,
           "totalExpRequired": 13822425,
           "unlocks": [
-            "Conjurer XXXIV   Gain 132➜136% more experience orbs from any source.",
+            "Conjurer XXXIV   Gain 165➜170% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Legion Enchantment",
@@ -8214,7 +8220,7 @@
           "level": 35,
           "totalExpRequired": 15522425,
           "unlocks": [
-            "Conjurer XXXV   Gain 136➜140% more experience orbs from any source.",
+            "Conjurer XXXV   Gain 170➜175% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Swarm Enchantment",
@@ -8225,7 +8231,7 @@
           "level": 36,
           "totalExpRequired": 17322425,
           "unlocks": [
-            "Conjurer XXXVI   Gain 140➜144% more experience orbs from any source.",
+            "Conjurer XXXVI   Gain 175➜180% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Soul Eater Enchantment",
@@ -8236,7 +8242,7 @@
           "level": 37,
           "totalExpRequired": 19222425,
           "unlocks": [
-            "Conjurer XXXVII   Gain 144➜148% more experience orbs from any source.",
+            "Conjurer XXXVII   Gain 180➜185% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "Fatal Tempo Enchantment",
@@ -8248,7 +8254,7 @@
           "level": 38,
           "totalExpRequired": 21222425,
           "unlocks": [
-            "Conjurer XXXVIII   Gain 148➜152% more experience orbs from any source.",
+            "Conjurer XXXVIII   Gain 185➜190% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+35,000 Coins"
@@ -8258,7 +8264,7 @@
           "level": 39,
           "totalExpRequired": 23322425,
           "unlocks": [
-            "Conjurer XXXIX   Gain 152➜156% more experience orbs from any source.",
+            "Conjurer XXXIX   Gain 190➜195% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+40,000 Coins"
@@ -8268,7 +8274,7 @@
           "level": 40,
           "totalExpRequired": 25522425,
           "unlocks": [
-            "Conjurer XL   Gain 156➜160% more experience orbs from any source.",
+            "Conjurer XL   Gain 195➜200% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+45,000 Coins"
@@ -8278,7 +8284,7 @@
           "level": 41,
           "totalExpRequired": 27822425,
           "unlocks": [
-            "Conjurer XLI   Gain 160➜164% more experience orbs from any source.",
+            "Conjurer XLI   Gain 200➜205% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+50,000 Coins"
@@ -8288,7 +8294,7 @@
           "level": 42,
           "totalExpRequired": 30222425,
           "unlocks": [
-            "Conjurer XLII   Gain 164➜168% more experience orbs from any source.",
+            "Conjurer XLII   Gain 205➜210% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+60,000 Coins"
@@ -8298,7 +8304,7 @@
           "level": 43,
           "totalExpRequired": 32722425,
           "unlocks": [
-            "Conjurer XLIII   Gain 168➜172% more experience orbs from any source.",
+            "Conjurer XLIII   Gain 210➜215% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+70,000 Coins"
@@ -8308,7 +8314,7 @@
           "level": 44,
           "totalExpRequired": 35322425,
           "unlocks": [
-            "Conjurer XLIV   Gain 172➜176% more experience orbs from any source.",
+            "Conjurer XLIV   Gain 215➜220% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+80,000 Coins"
@@ -8318,7 +8324,7 @@
           "level": 45,
           "totalExpRequired": 38072425,
           "unlocks": [
-            "Conjurer XLV   Gain 176➜180% more experience orbs from any source.",
+            "Conjurer XLV   Gain 220➜225% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+90,000 Coins"
@@ -8328,7 +8334,7 @@
           "level": 46,
           "totalExpRequired": 40972425,
           "unlocks": [
-            "Conjurer XLVI   Gain 180➜184% more experience orbs from any source.",
+            "Conjurer XLVI   Gain 225➜230% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+100,000 Coins"
@@ -8338,7 +8344,7 @@
           "level": 47,
           "totalExpRequired": 44072425,
           "unlocks": [
-            "Conjurer XLVII   Gain 184➜188% more experience orbs from any source.",
+            "Conjurer XLVII   Gain 230➜235% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+125,000 Coins"
@@ -8348,7 +8354,7 @@
           "level": 48,
           "totalExpRequired": 47472425,
           "unlocks": [
-            "Conjurer XLVIII   Gain 188➜192% more experience orbs from any source.",
+            "Conjurer XLVIII   Gain 235➜240% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+150,000 Coins"
@@ -8358,7 +8364,7 @@
           "level": 49,
           "totalExpRequired": 51172425,
           "unlocks": [
-            "Conjurer XLIX   Gain 192➜196% more experience orbs from any source.",
+            "Conjurer XLIX   Gain 240➜245% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+175,000 Coins"
@@ -8368,7 +8374,7 @@
           "level": 50,
           "totalExpRequired": 55172425,
           "unlocks": [
-            "Conjurer L   Gain 196➜200% more experience orbs from any source.",
+            "Conjurer L   Gain 245➜250% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+200,000 Coins"
@@ -8378,7 +8384,7 @@
           "level": 51,
           "totalExpRequired": 59472425,
           "unlocks": [
-            "Conjurer LI   Gain 200➜204% more experience orbs from any source.",
+            "Conjurer LI   Gain 250➜255% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+250,000 Coins"
@@ -8388,7 +8394,7 @@
           "level": 52,
           "totalExpRequired": 64072425,
           "unlocks": [
-            "Conjurer LII   Gain 204➜208% more experience orbs from any source.",
+            "Conjurer LII   Gain 255➜260% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+300,000 Coins"
@@ -8398,7 +8404,7 @@
           "level": 53,
           "totalExpRequired": 68972425,
           "unlocks": [
-            "Conjurer LIII   Gain 208➜212% more experience orbs from any source.",
+            "Conjurer LIII   Gain 260➜265% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+350,000 Coins"
@@ -8408,7 +8414,7 @@
           "level": 54,
           "totalExpRequired": 74172425,
           "unlocks": [
-            "Conjurer LIV   Gain 212➜216% more experience orbs from any source.",
+            "Conjurer LIV   Gain 265➜270% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+400,000 Coins"
@@ -8418,7 +8424,7 @@
           "level": 55,
           "totalExpRequired": 79672425,
           "unlocks": [
-            "Conjurer LV   Gain 216➜220% more experience orbs from any source.",
+            "Conjurer LV   Gain 270➜275% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+450,000 Coins"
@@ -8428,7 +8434,7 @@
           "level": 56,
           "totalExpRequired": 85472425,
           "unlocks": [
-            "Conjurer LVI   Gain 220➜224% more experience orbs from any source.",
+            "Conjurer LVI   Gain 275➜280% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+500,000 Coins"
@@ -8438,7 +8444,7 @@
           "level": 57,
           "totalExpRequired": 91572425,
           "unlocks": [
-            "Conjurer LVII   Gain 224➜228% more experience orbs from any source.",
+            "Conjurer LVII   Gain 280➜285% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+600,000 Coins"
@@ -8448,7 +8454,7 @@
           "level": 58,
           "totalExpRequired": 97972425,
           "unlocks": [
-            "Conjurer LVIII   Gain 228➜232% more experience orbs from any source.",
+            "Conjurer LVIII   Gain 285➜290% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+700,000 Coins"
@@ -8458,7 +8464,7 @@
           "level": 59,
           "totalExpRequired": 104672425,
           "unlocks": [
-            "Conjurer LIX   Gain 232➜236% more experience orbs from any source.",
+            "Conjurer LIX   Gain 290➜295% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+800,000 Coins"
@@ -8468,7 +8474,7 @@
           "level": 60,
           "totalExpRequired": 111672425,
           "unlocks": [
-            "Conjurer LX   Gain 236➜240% more experience orbs from any source.",
+            "Conjurer LX   Gain 295➜300% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
             "+1,000,000 Coins"

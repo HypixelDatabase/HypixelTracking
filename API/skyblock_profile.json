@@ -715,7 +715,8 @@
           "kills_old_blaze": 0,
           "deaths_inferno_blaze": 0,
           "deaths_wandering_blaze": 0,
-          "deaths_bezal": 0
+          "deaths_bezal": 0,
+          "glowing_mushrooms_broken": 0
         },
         "objectives": {
           "collect_log": {
@@ -3251,6 +3252,11 @@
             "completed_at": 1659430902087
           },
           "increase_combat_skill_20": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_moby_1": {
             "status": "",
             "progress": 0,
             "completed_at": 0

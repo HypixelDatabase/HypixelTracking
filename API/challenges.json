@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1660591614809,
+  "lastUpdated": 1662477888264,
   "challenges": {
     "arcade": [
       {
@@ -166,6 +166,16 @@
       {
         "id": "ARCADE__hide_and_seek_challenge",
         "name": "Hide and Seek Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3360
+          }
+        ]
+      },
+      {
+        "id": "ARCADE__pixel_party_challenge",
+        "name": "Pixel Party Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",

@@ -262,7 +262,8 @@
       "woolgames_wool_kills": 0,
       "woolgames_wool_wins": 0,
       "woolgames_mountain_of_wool": 0,
-      "skywars_tonic_taker": 0
+      "skywars_tonic_taker": 0,
+      "arcade_pixel_party_color_coordinated": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -3101,7 +3102,15 @@
         "kills_tourney_mini_walls_0": 0,
         "wins_tourney_mini_walls_0": 0,
         "wither_damage_tourney_mini_walls_0": 0,
-        "wither_kills_tourney_mini_walls_0": 0
+        "wither_kills_tourney_mini_walls_0": 0,
+        "pixel_party_music_volume": 0,
+        "pixel_party": {
+          "games_played": 0,
+          "games_played_hyper": 0,
+          "highest_round": 0,
+          "rounds_completed": 0,
+          "rounds_completed_hyper": 0
+        }
       },
       "Arena": {
         "coins": 0,

@@ -3114,7 +3114,9 @@
           "games_played_normal": 0,
           "rounds_completed_normal": 0,
           "power_ups_collected": 0,
-          "power_ups_collected_normal": 0
+          "power_ups_collected_normal": 0,
+          "wins": 0,
+          "wins_normal": 0
         }
       },
       "Arena": {
@@ -40377,7 +40379,8 @@
         "ARCADE__galaxy_wars_challenge": 0,
         "ARCADE__throw_out_challenge": 0,
         "WOOL_GAMES__merciless_killer_challenge": 0,
-        "WOOL_GAMES__builder_challenge": 0
+        "WOOL_GAMES__builder_challenge": 0,
+        "ARCADE__pixel_party_challenge": 0
       },
       "day_g": {
         "TNTGAMES__pvp_run_challenge": 0,
@@ -40975,7 +40978,8 @@
         "VAMPIREZ__purifying_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
         "WOOL_GAMES__merciless_killer_challenge": 0,
-        "ARCADE__mini_walls_challenge": 0
+        "ARCADE__mini_walls_challenge": 0,
+        "ARCADE__pixel_party_challenge": 0
       },
       "day_d": {
         "SUPER_SMASH__leaderboard_challenge": 0,

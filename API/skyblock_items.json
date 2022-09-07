@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1662492621000,
+  "lastUpdated": 1662540389000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -77374,6 +77374,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTAzODIzNCwKICAicHJvZmlsZUlkIiA6ICIzY2MxMTY3MWU0MTM0ODM0YjhjMmZjMTY1OGE4OWU3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NzaTU2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYWIwOTY1YzIwZjFkZTAzZTc5OTgxM2FlOWNiNWUwOTQyZWJmNmVkZmU5OWEwMzAyNTQ3NzU1Y2JhNzg5NzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Abiphone XIV Enormous",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 100,
+      "id": "ABIPHONE_XIV_ENORMOUS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njg5ODk5NiwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNjllYmI2YzQ1NGMyZTIwZDJmNTMxN2FhOGYwOWNkODMzMzYxNGRhOWViMGRjYzI3Y2ZkYzdmYTAwMDBjNGExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Abiphone XI Ultra",
       "tier": "UNCOMMON",
@@ -77392,11 +77401,29 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTE4NTEzMSwKICAicHJvZmlsZUlkIiA6ICJmNTgyNGRmNGIwMTU0MDA4OGRhMzUyYTQxODU1MDQ0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGb3hHYW1lcjUzOTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMyNDRhNGUzMDZmZDE0NzQwNWViYTZiZjY3MDIxZDUwYjgxNWQxMDdjYzE1ZDk3YjgwMmI3ODUyMTAwOTllNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Abiphone XIV Enormous",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 100,
+      "id": "ABIPHONE_XIV_ENORMOUS_PURPLE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDI0Njg0MzAwMSwKICAicHJvZmlsZUlkIiA6ICI5NTE3OTkxNjljYzE0MGY1OGM2MmRjOGZmZTU3NjBiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmRpbmFsQ2FyZGluYWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdhMzZiMmU2ZTA3MGMzZGZhMWMyNTcxOWIzNzZmYTAyZDU4NGQ3MDIwNmQxOGE1NjlhNzliYWE3MmU3MDkyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Abiphone X Plus",
       "tier": "UNCOMMON",
       "npc_sell_price": 100,
       "id": "ABIPHONE_X_PLUS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTIxNTk5NCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI1YWNhNjFlMWI4YmVjYTliZWZjYWRkMDgyNjJjNTgyMWUyNzViZTQxNGQ5NGYwYjI3ZTg1ODBmMjBkYmYzYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Abiphone XIV Enormous",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 100,
+      "id": "ABIPHONE_XIV_ENORMOUS_BLACK"
     },
     {
       "material": "SKULL_ITEM",

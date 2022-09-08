@@ -3628,7 +3628,8 @@
           "zone_hex",
           "zone_shen_auction",
           "shen_damia_open_menu",
-          "shen_damia"
+          "shen_damia",
+          "dojo_challenge_completed_lock_head"
         ],
         "quests": {
           "collect_log": {
@@ -8024,7 +8025,9 @@
             "dojo_points_snake": 0,
             "dojo_time_snake": 0,
             "dojo_points_fireball": 0,
-            "dojo_time_fireball": 0
+            "dojo_time_fireball": 0,
+            "dojo_points_lock_head": 0,
+            "dojo_time_lock_head": 0
           },
           "abiphone": {
             "contact_data": {

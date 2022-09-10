@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1662561451000,
+  "lastUpdated": 1662788324000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -11856,6 +11856,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTIzNzA3NywKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2M2Y5OTFiOGUwMzhlNDZiOGVkNzYzMmY0NGNhMmUzMGMxNWY0Mjk3NzA3MGE4YzhkODcyOGUzZmMwNGZjN2MiCiAgICB9CiAgfQp9",
       "name": "Perfect Jasper Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_JASPER_GEM"
     },
     {
@@ -11906,6 +11907,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTI3NDk3OSwKICAicHJvZmlsZUlkIiA6ICJiNjM2OWQ0MzMwNTU0NGIzOWE5OTBhODYyNWY5MmEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2JpbmhvXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODg2ZTBmNDExODViMThhM2FmZDg5NDg4ZDJlZTRjYWEwNzM1MDA5MjQ3Y2NjZjAzOWNlZDZhZWQ3NTJmZjFhIgogICAgfQogIH0KfQ",
       "name": "Perfect Amethyst Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_AMETHYST_GEM"
     },
     {
@@ -11932,6 +11934,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTIxNzI5OCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5YjZlMDQ3ZDNiMmJjYTg1ZThjYzQ5ZTU0ODBmOTc3NGQ4YTBlYWZlNmRmYTk1NTk1MzA1OTAyODM3MTUxNDIiCiAgICB9CiAgfQp9",
       "name": "Perfect Ruby Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_RUBY_GEM"
     },
     {
@@ -11991,6 +11994,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTI5MzQ4MCwKICAicHJvZmlsZUlkIiA6ICI5OTdjZjFlMmY1NGQ0YzEyOWY2ZjU5ZTVlNjU1YjZmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbzEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3YWUyMzZjZGVjM2YyYTZmNTFlYWUxNWUyYzhmNjIyOGIzNGYxMzdkYTE1NjlmZWM5ZTgwM2Y5Y2Q4MTc1OWQiCiAgICB9CiAgfQp9",
       "name": "Perfect Amber Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_AMBER_GEM"
     },
     {
@@ -12008,6 +12012,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTE3NjQ5NiwKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkY2U2MmY3MGFjMDQ2Yjg4MTExM2M2Y2Y4NjI5ODc3Mjc3NzRlMjY1ODg1NTAxYzlhMjQ1YjE4MGRiMDhjMGQiCiAgICB9CiAgfQp9",
       "name": "Flawless Amber Gemstone",
       "tier": "EPIC",
+      "npc_sell_price": 1536000,
       "id": "FLAWLESS_AMBER_GEM"
     },
     {
@@ -12050,6 +12055,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTI1NjAxMiwKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNmY2VkNzk3NzM4MmJmNzFkNGVlMTdmZjViOTE5ZTBlYjc5NzIwODNjNGNjY2ZhMTc1Yzg3NTNhZTQwYmEwMDYiCiAgICB9CiAgfQp9",
       "name": "Perfect Jade Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_JADE_GEM"
     },
     {
@@ -12093,6 +12099,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTE5NzMwNSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhlOTNlYmFjYjYwYjcxNzkzMzU1ZmRlMGQ0YmJhNDNhOWM1ZWMwOWMzZjM4ODk3YzQ4YzFmODU3NTIzYTBhMjkiCiAgICB9CiAgfQp9",
       "name": "Perfect Sapphire Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_SAPPHIRE_GEM"
     },
     {
@@ -12143,6 +12150,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDk3OTE3ODQ1MywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkYTZlY2RjYmMzZmUzNTVjYTA2MTExOTJhM2ZiZDM1ZGQ1NjM1ZDVmY2RmM2ZiYzc5ZWQyYmMxZjRhMDE3ZmUiCiAgICB9CiAgfQp9",
       "name": "Perfect Topaz Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "id": "PERFECT_TOPAZ_GEM"
     },
     {
@@ -71397,6 +71405,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MDM2Nzk3NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U1MDlmMDZiOGRjMzg0MzU4ZmYyNDcyYWI2MmNlNmZkYzJmNjQ2ZTMzOGVmZGMzYzlmYjA1ZGRjNDMxZjY0IgogICAgfQogIH0KfQ==",
       "name": "Perfect Opal Gemstone",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10240000,
       "unstackable": true,
       "id": "PERFECT_OPAL_GEM"
     },
@@ -71415,6 +71424,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MDM1MzA0NywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQxNWVkNzBlNzIwMDQwYWQ3MzExZTY5MzU5ZGZkZjVlMTE0ZWFkZDJhNGMxZjk3MWE5NTAxMzQxYTQ1MjY0YiIKICAgIH0KICB9Cn0=",
       "name": "Flawless Opal Gemstone",
       "tier": "EPIC",
+      "npc_sell_price": 1536000,
       "unstackable": true,
       "id": "FLAWLESS_OPAL_GEM"
     },

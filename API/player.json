@@ -2787,7 +2787,9 @@
           "victory_dance_heat_wave",
           "projectile_trail_stormy",
           "projectile_trail_rose",
-          "mini_walls_mini_me"
+          "mini_walls_mini_me",
+          "spaceman_pixel_party_disco_helmet",
+          "red_pixel_party_disco_helmet"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -3119,7 +3121,8 @@
           "wins_normal": 0,
           "power_ups_collected_hyper": 0,
           "wins_hyper": 0
-        }
+        },
+        "pixelparty_helmet": ""
       },
       "Arena": {
         "coins": 0,

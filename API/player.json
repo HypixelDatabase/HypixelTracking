@@ -2789,7 +2789,8 @@
           "projectile_trail_rose",
           "mini_walls_mini_me",
           "spaceman_pixel_party_disco_helmet",
-          "red_pixel_party_disco_helmet"
+          "red_pixel_party_disco_helmet",
+          "disco_pixel_party_pants"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -3122,7 +3123,8 @@
           "power_ups_collected_hyper": 0,
           "wins_hyper": 0
         },
-        "pixelparty_helmet": ""
+        "pixelparty_helmet": "",
+        "pixelparty_pants": ""
       },
       "Arena": {
         "coins": 0,
@@ -41185,7 +41187,8 @@
         "MCGO__knife_challenge": 0,
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
-        "TNTGAMES__tnt_wizards_challenge": 0
+        "TNTGAMES__tnt_wizards_challenge": 0,
+        "ARCADE__pixel_party_challenge": 0
       }
     },
     "parkourCheckpointBests": {

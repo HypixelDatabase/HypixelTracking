@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1662788324000,
+  "lastUpdated": 1664375983000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -15802,7 +15802,8 @@
       "stats": {
         "WALK_SPEED": 40,
         "DAMAGE": 310,
-        "STRENGTH": 130
+        "STRENGTH": 160,
+        "CRITICAL_DAMAGE": 60
       },
       "npc_sell_price": 500000,
       "upgrade_costs": [
@@ -19714,6 +19715,13 @@
           }
         ]
       ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
       "dungeon_item": true,
       "gemstone_slots": [
         {
@@ -23177,7 +23185,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -23189,7 +23197,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -23201,7 +23209,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -23213,7 +23221,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -23225,7 +23233,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -30452,8 +30460,8 @@
       "category": "LEGGINGS",
       "tier": "LEGENDARY",
       "stats": {
-        "DEFENSE": 220,
-        "HEALTH": 250,
+        "DEFENSE": 240,
+        "HEALTH": 260,
         "INTELLIGENCE": 20
       },
       "upgrade_costs": [
@@ -31362,7 +31370,8 @@
       "stats": {
         "WALK_SPEED": 30,
         "DAMAGE": 300,
-        "STRENGTH": 125
+        "STRENGTH": 130,
+        "CRITICAL_DAMAGE": 30
       },
       "npc_sell_price": 500000,
       "upgrade_costs": [
@@ -33850,7 +33859,7 @@
       "sword_type": "AXE",
       "tier": "RARE",
       "stats": {
-        "DAMAGE": 250,
+        "DAMAGE": 200,
         "STRENGTH": 70
       },
       "requirements": [
@@ -39172,7 +39181,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -39184,7 +39193,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -39196,7 +39205,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -39208,7 +39217,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -39220,7 +39229,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -40887,7 +40896,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -40899,7 +40908,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -40911,7 +40920,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -40923,7 +40932,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -40935,7 +40944,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -42959,8 +42968,9 @@
       "category": "SWORD",
       "tier": "EPIC",
       "stats": {
-        "DAMAGE": 170,
-        "STRENGTH": 60
+        "DAMAGE": 235,
+        "STRENGTH": 95,
+        "CRITICAL_DAMAGE": 95
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -43596,8 +43606,9 @@
       "category": "SWORD",
       "tier": "RARE",
       "stats": {
-        "DAMAGE": 85,
-        "STRENGTH": 20
+        "DAMAGE": 105,
+        "STRENGTH": 20,
+        "CRITICAL_DAMAGE": 20
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -49784,9 +49795,8 @@
       "stats": {
         "DEFENSE": 111,
         "HEALTH": 66,
-        "WEAPON_ABILITY_DAMAGE": 3000
+        "WEAPON_ABILITY_DAMAGE": 4000
       },
-      "ability_damage_scaling": 0.2,
       "id": "WITCH_MASK"
     },
     {
@@ -61816,7 +61826,7 @@
       "stats": {
         "DAMAGE": 210,
         "STRENGTH": 60,
-        "ATTACK_SPEED": 100,
+        "ATTACK_SPEED": 50,
         "CRITICAL_DAMAGE": 50,
         "CRITICAL_CHANCE": 100
       },
@@ -61989,8 +61999,9 @@
       "category": "SWORD",
       "tier": "EPIC",
       "stats": {
-        "DAMAGE": 145,
-        "STRENGTH": 50
+        "DAMAGE": 175,
+        "STRENGTH": 50,
+        "CRITICAL_DAMAGE": 50
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -64968,7 +64979,8 @@
       "description": "%%gray%%%%italic%%That thing was too big to be called a sword, it was more like a large hunk of stone.",
       "stats": {
         "DAMAGE": 500,
-        "STRENGTH": 100
+        "STRENGTH": 100,
+        "CRITICAL_DAMAGE": 30
       },
       "npc_sell_price": 0,
       "upgrade_costs": [
@@ -65017,6 +65029,36 @@
       ],
       "item_durability": -1,
       "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 100000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 40
+            }
+          ]
+        }
+      ],
       "id": "DARK_CLAYMORE"
     },
     {
@@ -70192,7 +70234,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -70204,7 +70246,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -70216,7 +70258,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -70228,7 +70270,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -70240,7 +70282,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -72970,7 +73012,7 @@
         {
           "type": "SLAYER",
           "slayer_boss_type": "enderman",
-          "level": 3
+          "level": 5
         }
       ],
       "catacombs_requirements": [
@@ -77668,7 +77710,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -77680,7 +77722,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -77692,7 +77734,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -77704,7 +77746,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -77716,7 +77758,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -77899,7 +77941,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -77911,7 +77953,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -77923,7 +77965,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -77935,7 +77977,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -77947,7 +77989,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -78131,7 +78173,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -78143,7 +78185,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -78155,7 +78197,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -78167,7 +78209,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -78179,7 +78221,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -78362,7 +78404,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -78374,7 +78416,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -78386,7 +78428,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -78398,7 +78440,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -78410,7 +78452,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -81569,7 +81611,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -81581,7 +81623,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -81593,7 +81635,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -81605,7 +81647,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -81617,7 +81659,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -81800,7 +81842,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -81812,7 +81854,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -81824,7 +81866,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -81836,7 +81878,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -81848,7 +81890,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -82031,7 +82073,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -82043,7 +82085,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -82055,7 +82097,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -82067,7 +82109,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -82079,7 +82121,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -82263,7 +82305,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -82275,7 +82317,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -82287,7 +82329,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -82299,7 +82341,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -82311,7 +82353,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -85469,7 +85511,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -85481,7 +85523,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -85493,7 +85535,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -85505,7 +85547,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -85517,7 +85559,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -85698,7 +85740,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -85710,7 +85752,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -85722,7 +85764,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -85734,7 +85776,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -85746,7 +85788,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -85927,7 +85969,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -85939,7 +85981,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -85951,7 +85993,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -85963,7 +86005,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -85975,7 +86017,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -86156,7 +86198,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -86168,7 +86210,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -86180,7 +86222,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -86192,7 +86234,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -86204,7 +86246,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -89329,7 +89371,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -89341,7 +89383,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -89353,7 +89395,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -89365,7 +89407,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -89377,7 +89419,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -89559,7 +89601,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -89571,7 +89613,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -89583,7 +89625,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -89595,7 +89637,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -89607,7 +89649,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -89788,7 +89830,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -89800,7 +89842,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -89812,7 +89854,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -89824,7 +89866,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -89836,7 +89878,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],
@@ -90017,7 +90059,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 10
+            "amount": 6
           }
         ],
         [
@@ -90029,7 +90071,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 15
+            "amount": 7
           }
         ],
         [
@@ -90041,7 +90083,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 20
+            "amount": 8
           }
         ],
         [
@@ -90053,7 +90095,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 30
+            "amount": 9
           }
         ],
         [
@@ -90065,7 +90107,7 @@
           {
             "type": "ITEM",
             "item_id": "HEAVY_PEARL",
-            "amount": 40
+            "amount": 10
           }
         ]
       ],

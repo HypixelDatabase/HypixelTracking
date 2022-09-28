@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1659710318479,
-  "version": "0.13.168",
+  "lastUpdated": 1664376749576,
+  "version": "0.15",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -14,63 +14,72 @@
               "tier": 1,
               "amountRequired": 75,
               "unlocks": [
-                "Cocoa Beans Minion Recipes"
+                "Cocoa Beans Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 200,
               "unlocks": [
-                "+20 Farming Experience"
+                "+20 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Portal to Mushroom Island Recipe"
+                "Portal to Mushroom Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Cocoa Bean Recipe"
+                "Enchanted Cocoa Bean Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Travel Scroll to Mushroom Island Recipe"
+                "Travel Scroll to Mushroom Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Cookie Recipe"
+                "Enchanted Cookie Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 20000,
               "unlocks": [
-                "Adrenaline Potion Recipe"
+                "Adrenaline Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Enchanted Book (Replenish I) Recipe"
+                "Enchanted Book (Replenish I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 100000,
               "unlocks": [
-                "+10,000 Farming Experience"
+                "+10,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -83,35 +92,40 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Carrot Minion Recipes"
+                "Carrot Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Simple Carrot Candy Recipe"
+                "Simple Carrot Candy Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Carrot Bait Recipe"
+                "Carrot Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1750,
               "unlocks": [
-                "Enchanted Carrot Recipe"
+                "Enchanted Carrot Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Carrot on a Stick Recipe"
+                "Enchanted Carrot on a Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -119,28 +133,32 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Great Carrot Candy Recipe",
-                "Super Catching Egg (COMING SOON)"
+                "Super Catching Egg (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Golden Carrot Recipe"
+                "Enchanted Golden Carrot Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Superb Carrot Candy Recipe"
+                "Superb Carrot Candy Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 100000,
               "unlocks": [
-                "Mega Catching Egg (COMING SOON)"
+                "Mega Catching Egg (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -153,7 +171,8 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Cactus Minion Recipes"
+                "Cactus Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -163,56 +182,64 @@
                 "Cactus Helmet Recipe",
                 "Cactus Chestplate Recipe",
                 "Cactus Leggings Recipe",
-                "Cactus Boots Recipe"
+                "Cactus Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Resistance Potion Recipe"
+                "Resistance Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Cactus Green Recipe"
+                "Enchanted Cactus Green Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Desert Island Recipe"
+                "Desert Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Piercing I) Recipe"
+                "Enchanted Book (Piercing I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Book (Thorns II) Recipe"
+                "Enchanted Book (Thorns II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Cactus Recipe"
+                "Enchanted Cactus Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Farming Experience"
+                "+5,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -225,70 +252,80 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Chicken Minion Recipes"
+                "Chicken Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Bridge Egg Recipe"
+                "Bridge Egg Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Chicken Head Recipe"
+                "Chicken Head Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Raw Chicken Recipe"
+                "Enchanted Raw Chicken Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Egg Recipe"
+                "Enchanted Egg Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Chicken Pet Recipe"
+                "Mystery Chicken Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Cake Recipe"
+                "Enchanted Cake Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Agility Potion Recipe"
+                "Agility Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Super Enchanted Egg Recipe"
+                "Super Enchanted Egg Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Omega Enchanted Egg Recipe"
+                "Omega Enchanted Egg Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -301,28 +338,32 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Sugar Cane Minion Recipes"
+                "Sugar Cane Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Speed Talisman Recipe"
+                "Speed Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "+50 Farming Experience"
+                "+50 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Sugar Recipe"
+                "Enchanted Sugar Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -330,21 +371,24 @@
               "amountRequired": 2000,
               "unlocks": [
                 "Enchanted Paper Recipe",
-                "Speed Ring Recipe"
+                "Speed Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Bookshelf Recipe"
+                "Enchanted Bookshelf Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Random Book (COMING SOON)"
+                "Random Book (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -352,7 +396,8 @@
               "amountRequired": 20000,
               "unlocks": [
                 "Enchanted Sugar Cane Recipe",
-                "Speed Artifact Recipe"
+                "Speed Artifact Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -362,7 +407,8 @@
                 "Speedster Helmet Recipe",
                 "Speedster Chestplate Recipe",
                 "Speedster Leggings Recipe",
-                "Speedster Boots Recipe"
+                "Speedster Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -375,7 +421,8 @@
               "tier": 1,
               "amountRequired": 40,
               "unlocks": [
-                "Pumpkin Minion Recipes"
+                "Pumpkin Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -385,70 +432,80 @@
                 "Pumpkin Helmet Recipe",
                 "Pumpkin Chestplate Recipe",
                 "Pumpkin Leggings Recipe",
-                "Pumpkin Boots Recipe"
+                "Pumpkin Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Pumpkin Recipe"
+                "Enchanted Pumpkin Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Cubism IV) Recipe"
+                "Enchanted Book (Cubism IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Training Dummy Recipe"
+                "Training Dummy Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Farmer Orb Recipe"
+                "Farmer Orb Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Lantern Helmet Recipe"
+                "Lantern Helmet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Farm Crystal Recipe"
+                "Farm Crystal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Farmer Boots Recipe"
+                "Farmer Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Polished Pumpkin Recipe"
+                "Polished Pumpkin Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 11,
               "amountRequired": 250000,
               "unlocks": [
-                "Rancher's Boots Recipe"
+                "Rancher's Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -461,14 +518,16 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Wheat Minion Recipes"
+                "Wheat Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Harvesting V) Recipe"
+                "Enchanted Book (Harvesting V) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -478,28 +537,32 @@
                 "Farm Suit Helmet Recipe",
                 "Farm Suit Chestplate Recipe",
                 "Farm Suit Leggings Recipe",
-                "Farm Suit Boots Recipe"
+                "Farm Suit Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Farming Talisman Recipe"
+                "Farming Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Bread Recipe"
+                "Enchanted Bread Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
-                "Farming Island Recipe"
+                "Farming Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -507,14 +570,16 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Hay Bale Recipe",
-                "Small Agronomy Sack Recipe"
+                "Small Agronomy Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Medium Agronomy Sack Recipe"
+                "Medium Agronomy Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -524,14 +589,16 @@
                 "Farm Armor Helmet Recipe",
                 "Farm Armor Chestplate Recipe",
                 "Farm Armor Leggings Recipe",
-                "Farm Armor Boots Recipe"
+                "Farm Armor Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
-                "Large Agronomy Sack Recipe"
+                "Large Agronomy Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -539,7 +606,8 @@
               "amountRequired": 100000,
               "unlocks": [
                 "Tightly-Tied Hay Bale Recipe",
-                "Large Enchanted Agronomy Sack Recipe"
+                "Large Enchanted Agronomy Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -552,42 +620,48 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Dirt Trade"
+                "Dirt Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Clay Trade"
+                "Clay Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Long Grass Trade"
+                "Long Grass Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Fern Trade"
+                "Fern Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Dead Bush Trade"
+                "Dead Bush Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Double Tallgrass Trade"
+                "Double Tallgrass Trade",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -600,14 +674,16 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Mushroom Minion Recipes"
+                "Mushroom Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Coming Soon (COMING SOON)"
+                "Coming Soon (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -617,14 +693,16 @@
                 "Mushroom Helmet Recipe",
                 "Mushroom Chestplate Recipe",
                 "Mushroom Leggings Recipe",
-                "Mushroom Boots Recipe"
+                "Mushroom Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Magical Mushroom Soup Recipe"
+                "Magical Mushroom Soup Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -632,7 +710,8 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Brown Mushroom Block Recipe",
-                "Red Mushroom Block Recipe"
+                "Red Mushroom Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -640,7 +719,8 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Enchanted Red Mushroom Recipe",
-                "Enchanted Brown Mushroom Recipe"
+                "Enchanted Brown Mushroom Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -648,7 +728,8 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Night Vision Charm Recipe",
-                "Mystical Mushroom Soup Recipe"
+                "Mystical Mushroom Soup Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -656,14 +737,16 @@
               "amountRequired": 25000,
               "unlocks": [
                 "Enchanted Brown Mushroom Block Recipe",
-                "Enchanted Red Mushroom Block Recipe"
+                "Enchanted Red Mushroom Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Bat Pet Recipe"
+                "Mystery Bat Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -676,63 +759,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Rabbit Minion Recipes"
+                "Rabbit Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Mystery Rabbit Pet Recipe"
+                "Mystery Rabbit Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Rabbit Potion Recipe"
+                "Rabbit Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Rabbit Foot Recipe"
+                "Enchanted Rabbit Foot Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Book (Luck IV) Recipe"
+                "Enchanted Book (Luck IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Rabbit Hide Recipe"
+                "Enchanted Rabbit Hide Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Book (Luck of the Sea IV) Recipe"
+                "Enchanted Book (Luck of the Sea IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Pet Luck Potion Recipe"
+                "Pet Luck Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Farming Experience"
+                "+5,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -745,84 +837,96 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Nether Wart Minion Recipes"
+                "Nether Wart Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Small Potion Bag Upgrade"
+                "Small Potion Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Potion Affinity Talisman Recipe"
+                "Potion Affinity Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Nether Wart Recipe"
+                "Enchanted Nether Wart Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Medium Potion Bag Upgrade"
+                "Medium Potion Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "+500 Alchemy Experience"
+                "+500 Alchemy Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Potion Affinity Ring Recipe"
+                "Potion Affinity Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Large Potion Bag Upgrade"
+                "Large Potion Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Potion Affinity Artifact Recipe"
+                "Potion Affinity Artifact Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 75000,
               "unlocks": [
-                "Giant Potion Bag Upgrade"
+                "Giant Potion Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 11,
               "amountRequired": 100000,
               "unlocks": [
-                "Massive Potion Bag Upgrade"
+                "Massive Potion Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 12,
               "amountRequired": 250000,
               "unlocks": [
-                "Mutant Nether Wart Recipe"
+                "Mutant Nether Wart Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -835,28 +939,32 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Sheep Minion Recipes"
+                "Sheep Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "+10 Farming Experience"
+                "+10 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "+25 Farming Experience"
+                "+25 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Mana Potion Recipe"
+                "Mana Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -864,14 +972,16 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Enchanted Mutton Recipe",
-                "Small Husbandry Sack Recipe"
+                "Small Husbandry Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Rainbow I) Recipe"
+                "Enchanted Book (Rainbow I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -879,14 +989,16 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Mystery Sheep Pet Recipe",
-                "Medium Husbandry Sack Recipe"
+                "Medium Husbandry Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Cooked Mutton Recipe"
+                "Enchanted Cooked Mutton Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -894,14 +1006,16 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Horns of Torment Recipe",
-                "Large Husbandry Sack Recipe"
+                "Large Husbandry Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Large Enchanted Husbandry Sack Recipe"
+                "Large Enchanted Husbandry Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -914,63 +1028,72 @@
               "tier": 1,
               "amountRequired": 250,
               "unlocks": [
-                "Melon Minion Recipes"
+                "Melon Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 500,
               "unlocks": [
-                "+50 Farming Experience"
+                "+50 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1250,
               "unlocks": [
-                "+125 Farming Experience"
+                "+125 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Melon Recipe"
+                "Enchanted Melon Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 15000,
               "unlocks": [
-                "Enchanted Glistering Melon Recipe"
+                "Enchanted Glistering Melon Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Melon Block Recipe"
+                "Enchanted Melon Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Farming Experience"
+                "+5,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 100000,
               "unlocks": [
-                "+10,000 Farming Experience"
+                "+10,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 250000,
               "unlocks": [
-                "+25,000 Farming Experience"
+                "+25,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -983,63 +1106,72 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Potato Minion Recipes"
+                "Potato Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 200,
               "unlocks": [
-                "Portal to the Barn Recipe"
+                "Portal to the Barn Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Vaccine Talisman Recipe"
+                "Vaccine Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1750,
               "unlocks": [
-                "Enchanted Potato Recipe"
+                "Enchanted Potato Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Venomous Potion Recipe"
+                "Venomous Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to the Barn Recipe"
+                "Travel Scroll to the Barn Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Baked Potato Recipe"
+                "Enchanted Baked Potato Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Hot Potato Book Recipe"
+                "Hot Potato Book Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 100000,
               "unlocks": [
-                "+10,000 Farming Experience"
+                "+10,000 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1052,7 +1184,8 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Cow Minion Recipes"
+                "Cow Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1060,63 +1193,72 @@
               "amountRequired": 100,
               "unlocks": [
                 "Cow Head Recipe",
-                "Milk Bucket Trade"
+                "Milk Bucket Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Small Backpack Recipe"
+                "Small Backpack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Raw Beef Recipe"
+                "Enchanted Raw Beef Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Medium Backpack Recipe"
+                "Medium Backpack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Leather Recipe"
+                "Enchanted Leather Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Saddle Recipe"
+                "Saddle Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Large Backpack Recipe"
+                "Large Backpack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Horse Pet Recipe"
+                "Mystery Horse Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Greater Backpack Recipe"
+                "Greater Backpack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1129,63 +1271,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Pig Minion Recipes"
+                "Pig Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "+10 Farming Experience"
+                "+10 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Mystery Pig Pet Recipe"
+                "Mystery Pig Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Pork Recipe"
+                "Enchanted Pork Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Piggy Bank Recipe"
+                "Piggy Bank Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "+500 Farming Experience"
+                "+500 Farming Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Grilled Pork Recipe"
+                "Enchanted Grilled Pork Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Pigman Pet Recipe"
+                "Mystery Pigman Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Pigman Sword Recipe"
+                "Pigman Sword Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1198,63 +1349,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Enchanted Book (Projectile Protection IV) Recipe"
+                "Enchanted Book (Projectile Protection IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Feather Falling IV) Recipe"
+                "Enchanted Book (Feather Falling IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Archery Potion Recipe"
+                "Archery Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Feather Talisman Recipe"
+                "Feather Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Feather Recipe"
+                "Enchanted Feather Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Dragon Tracer IV) Recipe"
+                "Enchanted Book (Dragon Tracer IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Feather Ring Recipe"
+                "Feather Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Book (Snipe II) Recipe"
+                "Enchanted Book (Snipe II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Feather Artifact Recipe"
+                "Feather Artifact Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1272,70 +1432,80 @@
               "tier": 1,
               "amountRequired": 250,
               "unlocks": [
-                "Lapis Minion Recipes"
+                "Lapis Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 500,
               "unlocks": [
-                "Experience Bottle Recipe"
+                "Experience Bottle Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Experience II) Recipe"
+                "Enchanted Book (Experience II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Lapis Lazuli Recipe"
+                "Enchanted Lapis Lazuli Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 10000,
               "unlocks": [
-                "Grand Experience Bottle Recipe"
+                "Grand Experience Bottle Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 25000,
               "unlocks": [
-                "Experience Potion Recipe"
+                "Experience Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 50000,
               "unlocks": [
-                "Enchanted Lapis Block Recipe"
+                "Enchanted Lapis Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 100000,
               "unlocks": [
-                "Titanic Experience Bottle Recipe"
+                "Titanic Experience Bottle Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 150000,
               "unlocks": [
-                "Experience Artifact Recipe"
+                "Experience Artifact Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 250000,
               "unlocks": [
-                "Textbook Recipe"
+                "Textbook Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1348,56 +1518,64 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Redstone Minion Recipes"
+                "Redstone Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Small Accessory Bag Upgrade"
+                "Small Accessory Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 750,
               "unlocks": [
-                "Enchanted Book (Efficiency IV) Recipe"
+                "Enchanted Book (Efficiency IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1500,
               "unlocks": [
-                "Enchanted Redstone Recipe"
+                "Enchanted Redstone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 3000,
               "unlocks": [
-                "Weather Stick Recipe"
+                "Weather Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Medium Accessory Bag Upgrade"
+                "Medium Accessory Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to Deep Caverns Recipe"
+                "Travel Scroll to Deep Caverns Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Redstone Block Recipe"
+                "Enchanted Redstone Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1405,14 +1583,16 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Large Accessory Bag Upgrade",
-                "Personal Compactor 4000 Recipe"
+                "Personal Compactor 4000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 200000,
               "unlocks": [
-                "Greater Accessory Bag Upgrade"
+                "Greater Accessory Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1420,14 +1600,16 @@
               "amountRequired": 400000,
               "unlocks": [
                 "Giant Accessory Bag Upgrade",
-                "Personal Compactor 5000 Recipe"
+                "Personal Compactor 5000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 12,
               "amountRequired": 600000,
               "unlocks": [
-                "Massive Accessory Bag Upgrade"
+                "Massive Accessory Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1435,7 +1617,8 @@
               "amountRequired": 800000,
               "unlocks": [
                 "Humongous Accessory Bag Upgrade",
-                "Personal Compactor 6000 Recipe"
+                "Personal Compactor 6000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1443,21 +1626,24 @@
               "amountRequired": 1000000,
               "unlocks": [
                 "Colossal Accessory Bag Upgrade",
-                "Personal Compactor 7000 Recipe"
+                "Personal Compactor 7000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 15,
               "amountRequired": 1200000,
               "unlocks": [
-                "Titanic Accessory Bag Upgrade"
+                "Titanic Accessory Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 16,
               "amountRequired": 1400000,
               "unlocks": [
-                "Preposterous Accessory Bag Upgrade"
+                "Preposterous Accessory Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1470,28 +1656,32 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Coal Minion Recipes"
+                "Coal Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Smelting Touch I) Recipe"
+                "Enchanted Book (Smelting Touch I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Haste Potion Recipe"
+                "Haste Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Coal Recipe"
+                "Enchanted Coal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1499,14 +1689,16 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Enchanted Charcoal Recipe",
-                "Small Mining Sack Recipe"
+                "Small Mining Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Travel Scroll to the Gold Mine Recipe"
+                "Travel Scroll to the Gold Mine Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1514,14 +1706,16 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Block of Coal Recipe",
-                "Medium Mining Sack Recipe"
+                "Medium Mining Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Lava Bucket Recipe"
+                "Enchanted Lava Bucket Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1529,14 +1723,16 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Mystery Wither Skeleton Pet Recipe",
-                "Large Mining Sack Recipe"
+                "Large Mining Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Large Enchanted Mining Sack Recipe"
+                "Large Enchanted Mining Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1549,56 +1745,64 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Mycelium Minion Recipes"
+                "Mycelium Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 500,
               "unlocks": [
-                "Suspicious Stew Recipe"
+                "Suspicious Stew Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 750,
               "unlocks": [
-                "Enchanted Mycelium Recipe"
+                "Enchanted Mycelium Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Mushroom Biome Stick Recipe"
+                "Mushroom Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Mycelium Dust Recipe"
+                "Mycelium Dust Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Corrupt Soil Recipe"
+                "Corrupt Soil Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 15000,
               "unlocks": [
-                "Enchanted Mycelium Cube Recipe"
+                "Enchanted Mycelium Cube Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Mooshroom Cow Pet Recipe"
+                "Mystery Mooshroom Cow Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1608,14 +1812,16 @@
                 "Shimmering Light Hood Recipe",
                 "Shimmering Light Tunic Recipe",
                 "Shimmering Light Trousers Recipe",
-                "Shimmering Light Slippers Recipe"
+                "Shimmering Light Slippers Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Gauntlet of Contagion Recipe"
+                "Gauntlet of Contagion Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1628,70 +1834,80 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "End Stone Minion Recipes"
+                "End Stone Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "End Biome Stick Recipe"
+                "End Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to The End Recipe"
+                "Portal to The End Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted End Stone Recipe"
+                "Enchanted End Stone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Silence Block Recipe"
+                "Silence Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Haste Block Recipe"
+                "Haste Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Mystery Endermite Pet Recipe"
+                "Mystery Endermite Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Travel Scroll to the End Recipe"
+                "Travel Scroll to the End Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Catalyst Recipe"
+                "Catalyst Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
-                "End Stone Sword Recipe"
+                "End Stone Sword Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1704,63 +1920,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Quartz Minion Recipes"
+                "Quartz Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Night Saver Recipe"
+                "Night Saver Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Day Saver Recipe"
+                "Day Saver Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Quartz Recipe"
+                "Enchanted Quartz Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Minion Expander Recipe"
+                "Minion Expander Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Quartz Block Recipe"
+                "Enchanted Quartz Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Night Crystal Recipe"
+                "Night Crystal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Day Crystal Recipe"
+                "Day Crystal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Solar Panel Recipe"
+                "Solar Panel Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1773,49 +1998,56 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Sand Minion Recipes"
+                "Sand Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Coming Soon (COMING SOON)"
+                "Coming Soon (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Soul Sand Trade"
+                "Soul Sand Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Desert Biome Stick Recipe"
+                "Desert Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Sand Recipe"
+                "Enchanted Sand Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
-                "Burning Potion Recipe"
+                "Burning Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Hard Glass Recipe"
+                "Hard Glass Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1828,35 +2060,40 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Iron Minion Recipes"
+                "Iron Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Golem Hat Recipe"
+                "Golem Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Protection IV) Recipe"
+                "Enchanted Book (Protection IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Iron Recipe"
+                "Enchanted Iron Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Budget Hopper Recipe"
+                "Budget Hopper Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1866,21 +2103,24 @@
                 "Golem Armor Helmet Recipe",
                 "Golem Armor Chestplate Recipe",
                 "Golem Armor Leggings Recipe",
-                "Golem Armor Boots Recipe"
+                "Golem Armor Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Iron Block Recipe"
+                "Enchanted Iron Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Golem Sword Recipe"
+                "Golem Sword Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1888,28 +2128,32 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Enchanted Hopper Recipe",
-                "Personal Deletor 4000 Recipe"
+                "Personal Deletor 4000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Personal Deletor 5000 Recipe"
+                "Personal Deletor 5000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 11,
               "amountRequired": 200000,
               "unlocks": [
-                "Personal Deletor 6000 Recipe"
+                "Personal Deletor 6000 Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 12,
               "amountRequired": 400000,
               "unlocks": [
-                "Personal Deletor 7000 Recipe"
+                "Personal Deletor 7000 Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -1922,7 +2166,8 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Small Gemstone Sack Recipe"
+                "Small Gemstone Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1936,21 +2181,24 @@
                 "⸕ Flawed Amber Gemstone Recipe",
                 "✧ Flawed Topaz Gemstone Recipe",
                 "❁ Flawed Jasper Gemstone Recipe",
-                "❂ Flawed Opal Gemstone Recipe"
+                "❂ Flawed Opal Gemstone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Medium Gemstone Sack Recipe"
+                "Medium Gemstone Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Talisman of Power Recipe"
+                "Talisman of Power Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1964,14 +2212,16 @@
                 "⸕ Fine Amber Gemstone Recipe",
                 "✧ Fine Topaz Gemstone Recipe",
                 "❁ Fine Jasper Gemstone Recipe",
-                "❂ Fine Opal Gemstone Recipe"
+                "❂ Fine Opal Gemstone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 25000,
               "unlocks": [
-                "Ring of Power Recipe"
+                "Ring of Power Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -1983,14 +2233,16 @@
                 "Jasper Power Scroll Recipe",
                 "Amethyst Power Scroll Recipe",
                 "Amber Power Scroll Recipe",
-                "Opal Power Scroll Recipe"
+                "Opal Power Scroll Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 250000,
               "unlocks": [
-                "Enchanted Book (Pristine I) Recipe"
+                "Enchanted Book (Pristine I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2004,7 +2256,8 @@
                 "⸕ Flawless Amber Gemstone Recipe",
                 "✧ Flawless Topaz Gemstone Recipe",
                 "❁ Flawless Jasper Gemstone Recipe",
-                "❂ Flawless Opal Gemstone Recipe"
+                "❂ Flawless Opal Gemstone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2019,14 +2272,16 @@
                 "⸕ Perfect Amber Gemstone Dwarven Forge Recipe",
                 "✧ Perfect Topaz Gemstone Dwarven Forge Recipe",
                 "❁ Perfect Jasper Gemstone Dwarven Forge Recipe",
-                "❂ Perfect Opal Gemstone Dwarven Forge Recipe"
+                "❂ Perfect Opal Gemstone Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 11,
               "amountRequired": 2000000,
               "unlocks": [
-                "Gemstone Gauntlet Recipe"
+                "Gemstone Gauntlet Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2039,70 +2294,80 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Obsidian Minion Recipes"
+                "Obsidian Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Lethality IV) Recipe"
+                "Enchanted Book (Lethality IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Gravity Talisman Recipe"
+                "Gravity Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Obsidian Recipe"
+                "Enchanted Obsidian Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Coming Soon (COMING SOON)"
+                "Coming Soon (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Stun Potion Recipe"
+                "Stun Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Coming Soon (COMING SOON)"
+                "Coming Soon (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Treecapitator Recipe"
+                "Treecapitator Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Obsidian Tablet Recipe"
+                "Obsidian Tablet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Reforge Anvil Recipe"
+                "Reforge Anvil Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2115,42 +2380,48 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Diamond Minion Recipes"
+                "Diamond Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Execute IV) Recipe"
+                "Enchanted Book (Execute IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to the Deep Caverns Recipe"
+                "Portal to the Deep Caverns Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Diamond Recipe"
+                "Enchanted Diamond Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Book (Critical IV) Recipe"
+                "Enchanted Book (Critical IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Diamond Spreading Recipe"
+                "Diamond Spreading Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2160,14 +2431,16 @@
                 "Hardened Diamond Helmet Recipe",
                 "Hardened Diamond Chestplate Recipe",
                 "Hardened Diamond Leggings Recipe",
-                "Hardened Diamond Boots Recipe"
+                "Hardened Diamond Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Diamond Block Recipe"
+                "Enchanted Diamond Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2177,7 +2450,8 @@
                 "Perfect Helmet - Tier I Recipe",
                 "Perfect Chestplate - Tier I Recipe",
                 "Perfect Leggings - Tier I Recipe",
-                "Perfect Boots - Tier I Recipe"
+                "Perfect Boots - Tier I Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2190,42 +2464,48 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Cobblestone Minion Recipes"
+                "Cobblestone Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Stone Platform Recipe"
+                "Stone Platform Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Auto Smelter Recipe"
+                "Auto Smelter Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Cobblestone Recipe"
+                "Enchanted Cobblestone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Compactor Recipe"
+                "Compactor Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Silverfish Pet Recipe"
+                "Mystery Silverfish Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2235,28 +2515,32 @@
                 "Miner's Outfit Helmet Recipe",
                 "Miner's Outfit Chestplate Recipe",
                 "Miner's Outfit Leggings Recipe",
-                "Miner's Outfit Boots Recipe"
+                "Miner's Outfit Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Hyper Furnace Recipe"
+                "Hyper Furnace Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 40000,
               "unlocks": [
-                "Haste Ring Recipe"
+                "Haste Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 70000,
               "unlocks": [
-                "Super Compactor 3000 Recipe"
+                "Super Compactor 3000 Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2269,21 +2553,24 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Glowstone Minion Recipes"
+                "Glowstone Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Portal to the Crimson Isle Recipe"
+                "Portal to the Crimson Isle Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Glowstone Dust Recipe"
+                "Enchanted Glowstone Dust Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2291,14 +2578,16 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Travel Scroll to the Crimson Isle Recipe",
-                "Glowstone Gauntlet Recipe"
+                "Glowstone Gauntlet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Glowstone Recipe"
+                "Enchanted Glowstone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2306,14 +2595,16 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Redstone Lamp Recipe",
-                "Shiny Prism Recipe"
+                "Shiny Prism Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Vanquished Glowstone Gauntlet Recipe"
+                "Vanquished Glowstone Gauntlet Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2326,63 +2617,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Gold Minion Recipes"
+                "Gold Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Cleaver Recipe"
+                "Cleaver Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Looting II) Recipe"
+                "Enchanted Book (Looting II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Portal to the Gold Mine Recipe"
+                "Portal to the Gold Mine Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Gold Recipe"
+                "Enchanted Gold Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
-                "Absorption Potion Recipe"
+                "Absorption Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Scavenger II) Recipe"
+                "Enchanted Book (Scavenger II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Gold Block Recipe"
+                "Enchanted Gold Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Book (Fortune II) Recipe"
+                "Enchanted Book (Fortune II) Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2395,63 +2695,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Gravel Minion Recipes"
+                "Gravel Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Flint Shovel Recipe"
+                "Flint Shovel Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Spider's Den Recipe"
+                "Portal to Spider's Den Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Sharpness IV) Recipe"
+                "Enchanted Book (Sharpness IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Flint Recipe"
+                "Enchanted Flint Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (First Strike III) Recipe"
+                "Enchanted Book (First Strike III) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Critical Potion Recipe"
+                "Critical Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Travel Scroll to Spider's Den Recipe"
+                "Travel Scroll to Spider's Den Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Mining Experience"
+                "+5,000 Mining Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2464,7 +2773,8 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Hard Stone Minion Recipes"
+                "Hard Stone Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2474,21 +2784,24 @@
                 "Heat Helmet Recipe",
                 "Heat Chestplate Recipe",
                 "Heat Leggings Recipe",
-                "Heat Boots Recipe"
+                "Heat Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Hard Stone Recipe"
+                "Enchanted Hard Stone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 50000,
               "unlocks": [
-                "Hot Stuff Dwarven Forge Recipe"
+                "Hot Stuff Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2498,21 +2811,24 @@
                 "Flamebreaker Helmet Recipe",
                 "Flamebreaker Chestplate Recipe",
                 "Flamebreaker Leggings Recipe",
-                "Flamebreaker Boots Recipe"
+                "Flamebreaker Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 300000,
               "unlocks": [
-                "Concentrated Stone Recipe"
+                "Concentrated Stone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 1000000,
               "unlocks": [
-                "Silex Recipe"
+                "Silex Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2525,63 +2841,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Mithril Minion Recipes"
+                "Mithril Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Spelunker Potion Recipe"
+                "Spelunker Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Mithril Recipe"
+                "Enchanted Mithril Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Mithril Crystal Recipe"
+                "Mithril Crystal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Mithril Coat Recipe"
+                "Mithril Coat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Dwarven Super Compactor Recipe"
+                "Dwarven Super Compactor Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 250000,
               "unlocks": [
-                "Mystery Mithril Golem Pet Recipe"
+                "Mystery Mithril Golem Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 500000,
               "unlocks": [
-                "Mithril Infusion Recipe"
+                "Mithril Infusion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 1000000,
               "unlocks": [
-                "Beacon I Recipe"
+                "Beacon I Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2594,35 +2919,40 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Emerald Minion Recipes"
+                "Emerald Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Talisman of Coins Recipe"
+                "Talisman of Coins Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Magnetic Talisman Recipe"
+                "Magnetic Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Emerald Recipe"
+                "Enchanted Emerald Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Emerald Ring Recipe"
+                "Emerald Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2630,21 +2960,24 @@
               "amountRequired": 15000,
               "unlocks": [
                 "Personal Bank Upgrade",
-                "Personal Bank Item Recipe"
+                "Personal Bank Item Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 30000,
               "unlocks": [
-                "Enchanted Emerald Block Recipe"
+                "Enchanted Emerald Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Emerald Blade Recipe"
+                "Emerald Blade Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2654,7 +2987,8 @@
                 "Emerald Armor Helmet Recipe",
                 "Emerald Armor Chestplate Recipe",
                 "Emerald Armor Leggings Recipe",
-                "Emerald Armor Boots Recipe"
+                "Emerald Armor Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2667,42 +3001,48 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Red Sand Minion Recipes"
+                "Red Sand Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 500,
               "unlocks": [
-                "Enchanted Red Sand Recipe"
+                "Enchanted Red Sand Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 2500,
               "unlocks": [
-                "Mesa Biome Stick Recipe"
+                "Mesa Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Red Sand Cube Recipe"
+                "Enchanted Red Sand Cube Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 15000,
               "unlocks": [
-                "Ancient Cloak Recipe"
+                "Ancient Cloak Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Snail Pet Recipe"
+                "Mystery Snail Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2712,14 +3052,16 @@
                 "Berserker Helmet Recipe",
                 "Berserker Chestplate Recipe",
                 "Berserker Leggings Recipe",
-                "Berserker Boots Recipe"
+                "Berserker Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 100000,
               "unlocks": [
-                "Everburning Flame Recipe"
+                "Everburning Flame Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2732,56 +3074,64 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Ice Minion Recipes"
+                "Ice Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Frost Walker I) Recipe"
+                "Enchanted Book (Frost Walker I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Packed Ice Recipe"
+                "Packed Ice Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Enchanted Ice Recipe"
+                "Enchanted Ice Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Magical Water Bucket Recipe"
+                "Magical Water Bucket Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Ice Bait Recipe"
+                "Ice Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Packed Ice Recipe"
+                "Enchanted Packed Ice Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Frozen Scythe Recipe"
+                "Frozen Scythe Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2791,14 +3141,16 @@
                 "Frozen Blaze Helmet Recipe",
                 "Frozen Blaze Chestplate Recipe",
                 "Frozen Blaze Leggings Recipe",
-                "Frozen Blaze Boots Recipe"
+                "Frozen Blaze Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 250000,
               "unlocks": [
-                "Auger Rod Recipe"
+                "Auger Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2811,63 +3163,72 @@
               "tier": 1,
               "amountRequired": 200,
               "unlocks": [
-                "Match-Sticks Recipe"
+                "Match-Sticks Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Sulphur Recipe"
+                "Enchanted Sulphur Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 2500,
               "unlocks": [
-                "Small Nether Sack Recipe"
+                "Small Nether Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 5000,
               "unlocks": [
-                "Totem of Corruption Recipe"
+                "Totem of Corruption Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 10000,
               "unlocks": [
-                "Medium Nether Sack Recipe"
+                "Medium Nether Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 15000,
               "unlocks": [
-                "Enchanted Sulphur Cube Recipe"
+                "Enchanted Sulphur Cube Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Sulphur Bow Recipe"
+                "Sulphur Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Large Nether Sack Recipe"
+                "Large Nether Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 100000,
               "unlocks": [
-                "Implosion Belt Recipe"
+                "Implosion Belt Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2880,35 +3241,40 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Nether Wart Island Recipe"
+                "Nether Wart Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Wounded Potion Recipe"
+                "Wounded Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Nether Brick Trade"
+                "Nether Brick Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Netherrack Recipe"
+                "Enchanted Netherrack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Magical Lava Bucket Recipe"
+                "Magical Lava Bucket Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2926,42 +3292,48 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Enderman Minion Recipes"
+                "Enderman Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Ender Pearl Recipe"
+                "Enchanted Ender Pearl Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Ender Slayer IV) Recipe"
+                "Enchanted Book (Ender Slayer IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "End Island (COMING SOON)"
+                "End Island (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Ender Bow Recipe"
+                "Ender Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Eye of Ender Recipe"
+                "Enchanted Eye of Ender Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -2969,21 +3341,24 @@
               "amountRequired": 15000,
               "unlocks": [
                 "Teleport Pad Trade",
-                "Absolute Ender Pearl Recipe"
+                "Absolute Ender Pearl Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Aspect of the End Recipe"
+                "Aspect of the End Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Saving Grace Recipe"
+                "Saving Grace Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -2996,63 +3371,72 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Re-heated Gummy Polar Bear Recipe"
+                "Re-heated Gummy Polar Bear Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 25,
               "unlocks": [
-                "Sulphuric Coal Recipe"
+                "Sulphuric Coal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 75,
               "unlocks": [
-                "Capsaicin Eyedrops Recipe"
+                "Capsaicin Eyedrops Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 250,
               "unlocks": [
-                "Entropy Suppressor Recipe"
+                "Entropy Suppressor Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Cayenne IV) Recipe"
+                "Enchanted Book (Cayenne IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
-                "Stuffed Chili Pepper Recipe"
+                "Stuffed Chili Pepper Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Jalapeno Book Recipe"
+                "Jalapeno Book Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Book (Habanero Tactics IV) Recipe"
+                "Enchanted Book (Habanero Tactics IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 20000,
               "unlocks": [
-                "Enchanted Book (Tabasco II) Recipe"
+                "Enchanted Book (Tabasco II) Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3065,63 +3449,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Slime Minion Recipes"
+                "Slime Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Slime Hat Recipe"
+                "Slime Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Knockback I) Recipe"
+                "Enchanted Book (Knockback I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Knockback Potion Recipe"
+                "Knockback Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Slimeball Recipe"
+                "Enchanted Slimeball Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Punch I) Recipe"
+                "Enchanted Book (Punch I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Launch Pad Recipe"
+                "Launch Pad Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Slime Block Recipe"
+                "Enchanted Slime Block Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Slime Bow Recipe"
+                "Slime Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3134,14 +3527,16 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Magma Cube Minion Recipes"
+                "Magma Cube Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Fire Protection IV) Recipe"
+                "Enchanted Book (Fire Protection IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3149,21 +3544,24 @@
               "amountRequired": 1000,
               "unlocks": [
                 "Nether Biome Stick Recipe",
-                "Enchanted Magma Cream Recipe"
+                "Enchanted Magma Cream Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Magma Necklace Recipe"
+                "Magma Necklace Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Lava Bucket Trade"
+                "Lava Bucket Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3171,21 +3569,24 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Lava Talisman Recipe",
-                "Searing Stone Recipe"
+                "Searing Stone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Vanquished Magma Necklace Recipe"
+                "Vanquished Magma Necklace Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Whipped Magma Cream Recipe"
+                "Whipped Magma Cream Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3198,21 +3599,24 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Ghast Minion Recipes"
+                "Ghast Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Giant Killer IV) Recipe"
+                "Enchanted Book (Giant Killer IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Ghast Tear Recipe"
+                "Enchanted Ghast Tear Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3220,28 +3624,32 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Enchanted Book (Vampirism IV) Recipe",
-                "Ghast Cloak Recipe"
+                "Ghast Cloak Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Silver Fang Recipe"
+                "Silver Fang Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Meteor Shard Recipe"
+                "Meteor Shard Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 25000,
               "unlocks": [
-                "Vanquished Ghast Cloak Recipe"
+                "Vanquished Ghast Cloak Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3254,63 +3662,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Creeper Minion Recipes"
+                "Creeper Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Creeper Hat Recipe"
+                "Creeper Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Blast Protection IV) Recipe"
+                "Enchanted Book (Blast Protection IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Gunpowder Recipe"
+                "Enchanted Gunpowder Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Book (Thunderlord IV) Recipe"
+                "Enchanted Book (Thunderlord IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Firework Rocket Recipe"
+                "Enchanted Firework Rocket Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Random Firework (COMING SOON)"
+                "Random Firework (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Creeper Pants Recipe"
+                "Creeper Pants Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Explosive Bow Recipe"
+                "Explosive Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3323,28 +3740,32 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Zombie Minion Recipes"
+                "Zombie Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Zombie Pickaxe Recipe"
+                "Zombie Pickaxe Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Smite IV) Recipe"
+                "Enchanted Book (Smite IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Rotten Flesh Recipe"
+                "Enchanted Rotten Flesh Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3352,14 +3773,16 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Zombie Hat Recipe",
-                "Small Combat Sack Recipe"
+                "Small Combat Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Zombie's Heart Recipe"
+                "Zombie's Heart Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3367,7 +3790,8 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Zombie Sword Recipe",
-                "Medium Combat Sack Recipe"
+                "Medium Combat Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3376,7 +3800,8 @@
               "unlocks": [
                 "Zombie Chestplate Recipe",
                 "Zombie Leggings Recipe",
-                "Zombie Boots Recipe"
+                "Zombie Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3384,14 +3809,16 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Mystery Zombie Pet Recipe",
-                "Large Combat Sack Recipe"
+                "Large Combat Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Large Enchanted Combat Sack Recipe"
+                "Large Enchanted Combat Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3404,63 +3831,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Cave Spider Minion Recipes"
+                "Cave Spider Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Spider Sword Recipe"
+                "Spider Sword Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Spider Hat Recipe"
+                "Spider Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Spider Eye Recipe"
+                "Enchanted Spider Eye Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Book (Bane of Arthropods IV) Recipe"
+                "Enchanted Book (Bane of Arthropods IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Venomous IV) Recipe"
+                "Enchanted Book (Venomous IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Fermented Spider Eye Recipe"
+                "Enchanted Fermented Spider Eye Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "+25,000 Combat Experience"
+                "+25,000 Combat Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Leaping Sword Recipe"
+                "Leaping Sword Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3473,70 +3909,80 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Skeleton Minion Recipes"
+                "Skeleton Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Bone Meal Trade"
+                "Enchanted Bone Meal Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Power IV) Recipe"
+                "Enchanted Book (Power IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Skeleton Hat Recipe"
+                "Skeleton Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Bone Recipe"
+                "Enchanted Bone Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Skeleton Pet Recipe"
+                "Mystery Skeleton Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Hurricane Bow Recipe"
+                "Hurricane Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Skeleton's Helmet Recipe"
+                "Skeleton's Helmet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Runaan's Bow Recipe"
+                "Runaan's Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 150000,
               "unlocks": [
-                "Enchanted Bone Block Recipe"
+                "Enchanted Bone Block Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3549,21 +3995,24 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Blaze Minion Recipes"
+                "Blaze Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Fire Aspect I) Recipe"
+                "Enchanted Book (Fire Aspect I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Blaze Powder Recipe"
+                "Enchanted Blaze Powder Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3571,14 +4020,16 @@
               "amountRequired": 2500,
               "unlocks": [
                 "Fire Talisman Recipe",
-                "Blaze Belt Recipe"
+                "Blaze Belt Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Book (Flame I) Recipe"
+                "Enchanted Book (Flame I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3586,7 +4037,8 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Blaze Rod Recipe",
-                "Blaze Wax Recipe"
+                "Blaze Wax Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3597,14 +4049,16 @@
                 "Blaze Chestplate Recipe",
                 "Blaze Leggings Recipe",
                 "Blaze Boots Recipe",
-                "Vanquished Blaze Belt Recipe"
+                "Vanquished Blaze Belt Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Blaze Pet Recipe"
+                "Mystery Blaze Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3617,35 +4071,40 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Spider Minion Recipes"
+                "Spider Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Web Recipe"
+                "Web Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Quiver Upgrade"
+                "Quiver Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted String Recipe"
+                "Enchanted String Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Book (Silk Touch I) Recipe"
+                "Enchanted Book (Silk Touch I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3653,21 +4112,24 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Enchanted Book (Infinite Quiver IV) Recipe",
-                "Large Quiver Upgrade"
+                "Large Quiver Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Grappling Hook Recipe"
+                "Grappling Hook Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Spider's Boots Recipe"
+                "Spider's Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3675,7 +4137,8 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Mystery Spider Pet Recipe",
-                "Giant Quiver Upgrade"
+                "Giant Quiver Upgrade",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3693,63 +4156,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Acacia Minion Recipes"
+                "Acacia Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Acacia Leaves Trade"
+                "Acacia Leaves Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Savanna Woodland Recipe"
+                "Portal to Savanna Woodland Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "+50 Foraging Experience"
+                "+50 Foraging Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Savanna Biome Stick Recipe"
+                "Savanna Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Acacia Wood Recipe"
+                "Enchanted Acacia Wood Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Savanna Bow Recipe"
+                "Savanna Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Acacia Birdhouse Recipe"
+                "Acacia Birdhouse Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Repelling Candle Recipe"
+                "Repelling Candle Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3762,63 +4234,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Spruce Minion Recipes"
+                "Spruce Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Spruce Leaves Trade"
+                "Spruce Leaves Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Spruce Woods Recipe"
+                "Portal to Spruce Woods Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Taiga Biome Stick Recipe"
+                "Taiga Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Spruce Wood Recipe"
+                "Enchanted Spruce Wood Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Sawmill (COMING SOON)"
+                "Sawmill (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Foraging Experience"
+                "+1,000 Foraging Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Wolf Pet Recipe"
+                "Mystery Wolf Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Foraging Experience"
+                "+5,000 Foraging Experience",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3831,63 +4312,72 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Jungle Minion Recipes"
+                "Jungle Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Jungle Leaves Trade"
+                "Jungle Leaves Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Jungle Island Recipe"
+                "Portal to Jungle Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Vines Trade"
+                "Vines Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Jungle Biome Stick Recipe"
+                "Jungle Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Jungle Wood Recipe"
+                "Enchanted Jungle Wood Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Jungle Axe Recipe"
+                "Jungle Axe Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Foraging Experience"
+                "+1,000 Foraging Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Ocelot Pet Recipe"
+                "Mystery Ocelot Pet Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3900,35 +4390,40 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Birch Minion Recipes"
+                "Birch Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Birch Leaves Trade"
+                "Birch Leaves Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Birch Park Recipe"
+                "Portal to Birch Park Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Sculptor's Axe Recipe"
+                "Sculptor's Axe Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Birch Forest Biome Stick Recipe"
+                "Birch Forest Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3936,7 +4431,8 @@
               "amountRequired": 2000,
               "unlocks": [
                 "Small Foraging Sack Recipe",
-                "Enchanted Birch Wood Recipe"
+                "Enchanted Birch Wood Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3944,28 +4440,32 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Medium Foraging Sack Recipe",
-                "Woodcutting Crystal Recipe"
+                "Woodcutting Crystal Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to The Park Recipe"
+                "Travel Scroll to The Park Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Large Foraging Sack Recipe"
+                "Large Foraging Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
-                "Large Enchanted Foraging Sack Recipe"
+                "Large Enchanted Foraging Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -3978,14 +4478,16 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Oak Minion Recipes"
+                "Oak Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Oak Leaves Trade"
+                "Oak Leaves Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -3995,49 +4497,56 @@
                 "Leaflet Hat Recipe",
                 "Leaflet Tunic Recipe",
                 "Leaflet Pants Recipe",
-                "Leaflet Sandals Recipe"
+                "Leaflet Sandals Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Small Storage Recipe"
+                "Small Storage Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Forest Biome Stick Recipe"
+                "Forest Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Oak Wood Recipe"
+                "Enchanted Oak Wood Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Medium Storage Recipe"
+                "Medium Storage Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Wood Affinity Talisman Recipe"
+                "Wood Affinity Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 30000,
               "unlocks": [
-                "Large Storage Recipe"
+                "Large Storage Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4050,56 +4559,64 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Dark Oak Minion Recipes"
+                "Dark Oak Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Dark Oak Leaves Trade"
+                "Dark Oak Leaves Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Dark Thicket Recipe"
+                "Portal to Dark Thicket Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Roofed Forest Biome Stick Recipe"
+                "Roofed Forest Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Dark Oak Wood Recipe"
+                "Enchanted Dark Oak Wood Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Roofed Forest Island Recipe"
+                "Roofed Forest Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Book (Growth IV) Recipe"
+                "Enchanted Book (Growth IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "+2,500 Foraging Experience"
+                "+2,500 Foraging Experience",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -4109,7 +4626,8 @@
                 "Helmet of Growth Recipe",
                 "Chestplate of Growth Recipe",
                 "Leggings of Growth Recipe",
-                "Boots of Growth Recipe"
+                "Boots of Growth Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4127,63 +4645,72 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Spooky Bait Recipe"
+                "Spooky Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 50,
               "unlocks": [
-                "Blobfish Hat Recipe"
+                "Blobfish Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Healing Talisman Recipe"
+                "Healing Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 200,
               "unlocks": [
-                "Enchanted Lily Pad Recipe"
+                "Enchanted Lily Pad Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 500,
               "unlocks": [
-                "Challenging Rod Recipe"
+                "Challenging Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 1500,
               "unlocks": [
-                "Whale Bait Recipe"
+                "Whale Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 3000,
               "unlocks": [
-                "Rod of Champions Recipe"
+                "Rod of Champions Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 6000,
               "unlocks": [
-                "Healing Ring Recipe"
+                "Healing Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 10000,
               "unlocks": [
-                "Rod of Legends Recipe"
+                "Rod of Legends Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4196,42 +4723,48 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Enchanted Book (Impaling II) Recipe"
+                "Enchanted Book (Impaling II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 25,
               "unlocks": [
-                "Prismarine Blade Recipe"
+                "Prismarine Blade Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 50,
               "unlocks": [
-                "Enchanted Prismarine Shard Recipe"
+                "Enchanted Prismarine Shard Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 100,
               "unlocks": [
-                "Prismarine Rod Recipe"
+                "Prismarine Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 200,
               "unlocks": [
-                "Prismarine Bow Recipe"
+                "Prismarine Bow Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 400,
               "unlocks": [
-                "Weather Node Recipe"
+                "Weather Node Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4244,63 +4777,72 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Squid Hat Recipe"
+                "Squid Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 40,
               "unlocks": [
-                "Dark Bait Recipe"
+                "Dark Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Ink Sac Recipe"
+                "Enchanted Ink Sac Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 200,
               "unlocks": [
-                "Deep Ocean Biome Stick Recipe"
+                "Deep Ocean Biome Stick Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 400,
               "unlocks": [
-                "Enchanted Book (Caster IV) Recipe"
+                "Enchanted Book (Caster IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 800,
               "unlocks": [
-                "Blindness Potion Recipe"
+                "Blindness Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 1500,
               "unlocks": [
-                "Enchanted Book (Angler IV) Recipe"
+                "Enchanted Book (Angler IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 2500,
               "unlocks": [
-                "Bait Ring Recipe"
+                "Bait Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 4000,
               "unlocks": [
-                "Ink Wand Recipe"
+                "Ink Wand Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4313,28 +4855,32 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Fish Hat Recipe"
+                "Fish Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 50,
               "unlocks": [
-                "Fishing Minion Recipes"
+                "Fishing Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Small Fishing Bag Upgrade"
+                "Small Fishing Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 250,
               "unlocks": [
-                "Pond Island Recipe"
+                "Pond Island Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -4344,49 +4890,56 @@
                 "Angler Helmet Recipe",
                 "Angler Chestplate Recipe",
                 "Angler Leggings Recipe",
-                "Angler Boots Recipe"
+                "Angler Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Raw Fish Recipe"
+                "Enchanted Raw Fish Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 2500,
               "unlocks": [
-                "Medium Fishing Bag Upgrade"
+                "Medium Fishing Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Enchanted Cooked Fish Recipe"
+                "Enchanted Cooked Fish Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 30000,
               "unlocks": [
-                "Large Fishing Bag Upgrade"
+                "Large Fishing Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 45000,
               "unlocks": [
-                "Giant Fishing Bag Upgrade"
+                "Giant Fishing Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 11,
               "amountRequired": 60000,
               "unlocks": [
-                "Massive Fishing Bag Upgrade"
+                "Massive Fishing Bag Upgrade",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4399,28 +4952,32 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Pufferfish Hat Recipe"
+                "Pufferfish Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 50,
               "unlocks": [
-                "Enchanted Pufferfish Recipe"
+                "Enchanted Pufferfish Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Cleave IV) Recipe"
+                "Enchanted Book (Cleave IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 150,
               "unlocks": [
-                "Enchanted Book (Depth Strider II) Recipe"
+                "Enchanted Book (Depth Strider II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -4428,42 +4985,48 @@
               "amountRequired": 400,
               "unlocks": [
                 "Spiked Bait Recipe",
-                "Small Fishing Sack Recipe"
+                "Small Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 800,
               "unlocks": [
-                "Enchanted Book (Spiked Hook IV) Recipe"
+                "Enchanted Book (Spiked Hook IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 2400,
               "unlocks": [
-                "Medium Fishing Sack Recipe"
+                "Medium Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 4800,
               "unlocks": [
-                "Puffer Boat (COMING SOON)"
+                "Puffer Boat (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 9000,
               "unlocks": [
-                "Large Fishing Sack Recipe"
+                "Large Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 18000,
               "unlocks": [
-                "Large Enchanted Fishing Sack Recipe"
+                "Large Enchanted Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4476,49 +5039,56 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Clownfish Hat Recipe"
+                "Clownfish Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 25,
               "unlocks": [
-                "Water Bucket Trade"
+                "Water Bucket Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 50,
               "unlocks": [
-                "Enchanted Book (Magnet IV) Recipe"
+                "Enchanted Book (Magnet IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 100,
               "unlocks": [
-                "Small Sack of Sacks Upgrade"
+                "Small Sack of Sacks Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 200,
               "unlocks": [
-                "Medium Sack of Sacks Upgrade"
+                "Medium Sack of Sacks Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 400,
               "unlocks": [
-                "Large Sack of Sacks Upgrade"
+                "Large Sack of Sacks Upgrade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 800,
               "unlocks": [
-                "Greater Sack of Sacks Upgrade"
+                "Greater Sack of Sacks Upgrade",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4531,42 +5101,48 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Minnow Bait Recipe"
+                "Minnow Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 50,
               "unlocks": [
-                "Dodge Potion Recipe"
+                "Dodge Potion Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Lure IV) Recipe"
+                "Enchanted Book (Lure IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Raw Salmon Recipe"
+                "Enchanted Raw Salmon Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 500,
               "unlocks": [
-                "Speedster Rod Recipe"
+                "Speedster Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 1000,
               "unlocks": [
-                "Fish Bait Recipe"
+                "Fish Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -4576,21 +5152,24 @@
                 "Salmon Helmet Recipe",
                 "Salmon Chestplate Recipe",
                 "Salmon Leggings Recipe",
-                "Salmon Boots Recipe"
+                "Salmon Boots Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Cooked Salmon Recipe"
+                "Enchanted Cooked Salmon Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 10000,
               "unlocks": [
-                "Salmon Hat (COMING SOON)"
+                "Salmon Hat (COMING SOON)",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4603,84 +5182,96 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Magmafish Hat Recipe"
+                "Magmafish Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Hot Bait Recipe"
+                "Hot Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Silver Magmafish Recipe"
+                "Silver Magmafish Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Magma Rod Recipe"
+                "Magma Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Corrupted Bait Recipe"
+                "Corrupted Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 15000,
               "unlocks": [
-                "Small Lava Fishing Sack Recipe"
+                "Small Lava Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 30000,
               "unlocks": [
-                "Gold Magmafish Recipe"
+                "Gold Magmafish Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Inferno Rod Recipe"
+                "Inferno Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
               "amountRequired": 75000,
               "unlocks": [
-                "Medium Lava Fishing Sack Recipe"
+                "Medium Lava Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 10,
               "amountRequired": 100000,
               "unlocks": [
-                "Diamond Magmafish Recipe"
+                "Diamond Magmafish Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 11,
               "amountRequired": 250000,
               "unlocks": [
-                "Large Lava Fishing Sack Recipe"
+                "Large Lava Fishing Sack Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 12,
               "amountRequired": 500000,
               "unlocks": [
-                "Hellfire Rod Recipe"
+                "Hellfire Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4693,49 +5284,56 @@
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Sea Lantern Hat Recipe"
+                "Sea Lantern Hat Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 25,
               "unlocks": [
-                "Light Bait Recipe"
+                "Light Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 50,
               "unlocks": [
-                "Enchanted Prismarine Crystals Recipe"
+                "Enchanted Prismarine Crystals Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Book (Aqua Affinity I) Recipe"
+                "Enchanted Book (Aqua Affinity I) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 200,
               "unlocks": [
-                "Guardian Chestplate Recipe"
+                "Guardian Chestplate Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 400,
               "unlocks": [
-                "Blessed Bait Recipe"
+                "Blessed Bait Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 800,
               "unlocks": [
-                "Enchanted Book (Blessing IV) Recipe"
+                "Enchanted Book (Blessing IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4748,35 +5346,40 @@
               "tier": 1,
               "amountRequired": 50,
               "unlocks": [
-                "Clay Minion Recipes"
+                "Clay Minion Recipes",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Clay Recipe"
+                "Enchanted Clay Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Enchanted Book (Respiration II) Recipe"
+                "Enchanted Book (Respiration II) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Frail IV) Recipe"
+                "Enchanted Book (Frail IV) Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Farmer's Rod Recipe"
+                "Farmer's Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]
@@ -4789,56 +5392,64 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Sponge Rod Recipe"
+                "Sponge Rod Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
               "amountRequired": 40,
               "unlocks": [
-                "Sponge Trade"
+                "Sponge Trade",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Sponge Recipe"
+                "Enchanted Sponge Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
               "amountRequired": 200,
               "unlocks": [
-                "Sea Creature Talisman Recipe"
+                "Sea Creature Talisman Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
               "amountRequired": 400,
               "unlocks": [
-                "Stereo Pants Recipe"
+                "Stereo Pants Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
               "amountRequired": 800,
               "unlocks": [
-                "Sea Creature Ring Recipe"
+                "Sea Creature Ring Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
               "amountRequired": 1500,
               "unlocks": [
-                "Enchanted Wet Sponge Recipe"
+                "Enchanted Wet Sponge Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
               "amountRequired": 2500,
               "unlocks": [
-                "Sea Creature Artifact Recipe"
+                "Sea Creature Artifact Recipe",
+                "+4 SkyBlock XP"
               ]
             },
             {
@@ -4848,7 +5459,8 @@
                 "Sponge Helmet Recipe",
                 "Sponge Chestplate Recipe",
                 "Sponge Leggings Recipe",
-                "Spongy Shoes Recipe"
+                "Spongy Shoes Recipe",
+                "+4 SkyBlock XP"
               ]
             }
           ]

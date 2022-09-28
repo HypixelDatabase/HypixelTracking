@@ -3637,7 +3637,8 @@
           "commission_milestone_reward_skyblock_xp_tier_3",
           "commission_milestone_reward_skyblock_xp_tier_4",
           "commission_milestone_reward_skyblock_xp_tier_5",
-          "commission_milestone_reward_skyblock_xp_tier_6"
+          "commission_milestone_reward_skyblock_xp_tier_6",
+          "talked_croesus"
         ],
         "quests": {
           "collect_log": {
@@ -6032,7 +6033,38 @@
             "current_day_stamp": 0,
             "completed_runs_count": 0
           },
-          "treasures": {}
+          "treasures": {
+            "runs": [
+              {
+                "run_id": "",
+                "completion_ts": 0,
+                "dungeon_type": "",
+                "dungeon_tier": 0,
+                "participants": [
+                  {
+                    "player_uuid": "",
+                    "display_name": "",
+                    "class_milestone": 0
+                  }
+                ]
+              }
+            ],
+            "chests": [
+              {
+                "run_id": "",
+                "chest_id": "",
+                "treasure_type": "",
+                "rewards": {
+                  "rewards": [],
+                  "rolled_rng_meter_randomly": true
+                },
+                "quality": 0,
+                "shiny_eligible": true,
+                "paid": true,
+                "rerolls": 0
+              }
+            ]
+          }
         },
         "personal_vault_contents": {
           "type": 0,

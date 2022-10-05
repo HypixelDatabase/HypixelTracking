@@ -36919,6 +36919,108 @@
         "barrier": "",
         "projectiletrail": "",
         "killmessages": ""
+      },
+      "MainLobby": {
+        "fishing": {
+          "special_fish": {
+            "hot_potato": true,
+            "knockback_slimeball": true,
+            "nemo": true,
+            "oops_the_fish": true,
+            "puffer_emoji": true,
+            "sea_bass": true,
+            "shark": true,
+            "barnacle": true,
+            "clay_ball": true,
+            "egg_the_fish": true,
+            "fish_monger_suit_boots": true,
+            "fish_monger_suit_chestplate": true,
+            "fish_monger_suit_helmet": true,
+            "fish_monger_suit_leggings": true,
+            "leviathan": true,
+            "star_eater_scales": true
+          },
+          "stats": {
+            "permanent": {
+              "water": {
+                "fish": 0,
+                "junk": 0,
+                "treasure": 0
+              }
+            }
+          }
+        },
+        "cauldron_ingredient_2021_bone_3": true,
+        "cauldron_ingredient_2021_pumpkin_pie_0": true,
+        "cauldron_ingredient_2021_spider_eye_2": true,
+        "cauldron_ingredient_2021_rotten_flesh_1": true,
+        "cauldron_recipe_halloween_skull_pack": true,
+        "cauldron_recipe_arcade_coins": true,
+        "cauldron_recipe_halloween_mystery_box": true,
+        "cauldron_recipe_hypixel_experience": true,
+        "cauldron_recipe_skywars_souls": true,
+        "cauldron_recipe_bedwars_coins": true,
+        "cauldron_recipe_spooked_punch_message": true,
+        "questNPCTutorials": {
+          "zone_spawn": true,
+          "zone_port": true,
+          "zone_village": true,
+          "zone_fishing_hut": true,
+          "dockmaster": true,
+          "zone_mines": true,
+          "zone_castle": true,
+          "zone_labyrinth": true,
+          "zone_ruins": true,
+          "zone_farm": true,
+          "zone_paintball_fight": true,
+          "achievement_guide": true,
+          "zone_ancient_statues": true,
+          "summer_guide_2022": true
+        },
+        "discoveredZones": {
+          "port": true,
+          "village": true,
+          "fishing_hut": true,
+          "mines": true,
+          "castle": true,
+          "labyrinth": true,
+          "ruins": true,
+          "farm": true,
+          "paintball_fight": true,
+          "ancient_statues": true
+        },
+        "historicalRecords": {
+          "guilds_release": true,
+          "mystery_update": true,
+          "wiki_release": true,
+          "skywars_release": true,
+          "warlords_beta": true,
+          "august_mega_update": true,
+          "build_battle_release": true,
+          "ptl_release": true,
+          "hytale": true,
+          "guild_update": true,
+          "smp_beta": true,
+          "mm_beta": true,
+          "bedwars_release": true,
+          "skyblock_release": true,
+          "website_alpha": true
+        },
+        "relics": {
+          "code": true,
+          "quake": true,
+          "blitz": true,
+          "bow_spleef": true,
+          "tnt_games": true,
+          "vampirez": true,
+          "golem": true,
+          "tkr": true,
+          "mega_walls": true
+        },
+        "fishing_enchant_DUMPSTER_DIVER_toggle": true,
+        "fishing_enchant_LUCK_toggle": true,
+        "fishing_enchant_LURE_toggle": true,
+        "fishing_reward_tracked": ""
       }
     },
     "testPass": true,
@@ -43909,7 +44011,14 @@
           }
         }
       },
-      "silver": 0
+      "silver": 0,
+      "halloween": {
+        "2022": {
+          "levelling": {
+            "experience": 0
+          }
+        }
+      }
     },
     "completed_christmas_quests_2022": 0,
     "scorpius_bribe_192": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1664986954000,
+  "lastUpdated": 1664989796000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -18442,15 +18442,6 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_SHEEP_ORANGE"
-    },
-    {
-      "material": "SHEARS",
-      "name": "Enchanted Shears",
-      "glowing": true,
-      "category": "SHEARS",
-      "npc_sell_price": 2,
-      "hide_from_viewrecipe_command": true,
-      "id": "ENCHANTED_SHEARS"
     },
     {
       "material": "WOOL",

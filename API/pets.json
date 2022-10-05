@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1656002241661,
+  "lastUpdated": 1664986895504,
   "types": [
     {
       "key": "CAT_BLACK",
@@ -829,6 +829,18 @@
       "name": "Pufferfish",
       "rarity": "LEGENDARY",
       "package": "pet_pufferfish"
+    },
+    {
+      "key": "SALMON",
+      "name": "Salmon",
+      "rarity": "EPIC",
+      "package": "pet_salmon"
+    },
+    {
+      "key": "CLOWNFISH",
+      "name": "Clownfish",
+      "rarity": "EPIC",
+      "package": "pet_clownfish"
     }
   ],
   "rarities": [

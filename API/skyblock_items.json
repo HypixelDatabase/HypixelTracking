@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1664375983000,
+  "lastUpdated": 1664986954000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -12708,6 +12708,185 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA5NTQzMiwKICAicHJvZmlsZUlkIiA6ICJhYzM2YmVkZGQxNGQ0YjVmYmQyYzc5OThlMWMwOTg3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWlzYWthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjZGUyZmY2MGU0ZjVjZDFjMmIxM2M2MDk3MDUzOWRiZGMzY2U5NDQyZTdlNjEyNDdkMWIxZjEyMmYwNDU4ZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Great Spook Necklace",
+      "category": "NECKLACE",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_NECKLACE"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "153,51,153",
+      "name": "Great Spook Leggings",
+      "category": "LEGGINGS",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_LEGGINGS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzAyMTQ2MSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I4ZjVkN2IyYmUwOTQ5NDAyZDU5YTZjOGRhNjdiYmIxZDg1NjI1ZWY0MzY0YjUxYTUzZmVmZGRhZjU5ZDc0N2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Great Spook Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_BELT"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "153,51,153",
+      "name": "Great Spook Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_CHESTPLATE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTYwNDI2MywKICAicHJvZmlsZUlkIiA6ICIyNDIyZWM1ZWFiZDM0MDQ5YmYzNjBlOTFiMTFhMmFmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXJnZWJyZWFzdHMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjgzYWRmNjQ4ZDRlOTdkZTNiOTI4YTRlODJkMTE2OWMxOTc4ZDcxZTE4NzU3Y2JhZWUzNjYyN2I5YjBkM2YyZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Great Spook Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "npc_sell_price": 0,
+      "museum": true,
+      "id": "GREAT_SPOOK_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTUyODI4NSwKICAicHJvZmlsZUlkIiA6ICI2MzMyMDgwZTY3YTI0Y2MxYjE3ZGJhNzZmM2MwMGYxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWFtSHlkcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1NjkyMmMyMWJjMTUxOGJmNjAzNTM1MDkzMGMzYjFmNGM5Yjc0YjEwYjBkNjIxYmFiYWE0ZTQxMTA5YzE3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Sweet Flesh",
+      "description": "%%gray%%It's strangely sweet and somewhat sticky...",
+      "tier": "UNCOMMON",
+      "glowing": true,
+      "npc_sell_price": 0,
+      "id": "SWEET_FLESH"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "153,51,153",
+      "name": "Great Spook Boots",
+      "category": "BOOTS",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Wet Pumpkin",
+      "description": "%%gray%%A squishy moist mess.",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "id": "WET_PUMPKIN"
+    },
+    {
+      "material": "DEAD_BUSH",
+      "name": "Great Spook Staff",
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_STAFF"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU5NjQ0NiwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYzE5NTA0NjFkNTQ2ODdmNDAxNjJlNGVjZmZhY2Y2MGE0NmU0MTZmMjUzNGZhMjNhMDA5MWQwZWE2ZjJlYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Decayed Bat",
+      "description": "%%gray%%A withering husk of its former self.",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "id": "DECAYED_BAT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTY1MDI2OSwKICAicHJvZmlsZUlkIiA6ICIwMzdlNzQwNGMyMjk0OTIxOTdkZjBlZWJmYWIyNTNjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMX0FfWl9FX1JfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4OWNjMWVkZTc1NTcwOWRlYmI3ZDFmZTdhYjgxMjlhYzg5MDE3ODhkOGQ4NjEzYjAzZWFjMTU3YzIzY2M0OWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Great Spook Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "museum": true,
+      "id": "GREAT_SPOOK_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA3MzYxMCwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNWY0YTBmZmE4MjJkYzA5YzM1M2NjYTZhN2QxNmZjODlmZTIwYzBkOTYwYmFmMzA0MjAxNDgwNmJkNTMzYmE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Great Spook Gloves",
+      "category": "GLOVES",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_GLOVES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA0ODY2MSwKICAicHJvZmlsZUlkIiA6ICI2NmI0ZDRlMTFlNmE0YjhjYTFkN2Q5YzliZTBhNjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFzdG9vWXNmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkYzEyMzFiYmI5Nzc2NDFiOWI0YTg1NDNlY2Y2NjA2ZjNhOTkwYmJhYmFlMzAwMTBiZDE1Y2RmMDcxOTM0OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Great Spook Cloak",
+      "category": "CLOAK",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_CLOAK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU2NDMwNiwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk3NzkwNmFiZGIwMGI0OTVjYzVhNjg1MWU5MmNlYjY1ZTFiZjg5ZmFmMWJlOTE0YjVkMzZjODQ4NzU3NmE3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Poisoned Candy",
+      "description": "%%gray%%A delicious, vibrant, and round candy with an extra kick.",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 0,
+      "hide_from_viewrecipe_command": true,
+      "id": "POISONED_CANDY"
+    },
+    {
+      "material": "LEATHER_HELMET",
+      "color": "153,51,153",
+      "name": "Great Spook Helmet",
+      "category": "HELMET",
+      "tier": "EPIC",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "GREAT_SPOOK_HELMET"
+    },
+    {
+      "material": "WOOD_SWORD",
+      "name": "Great Spook Sword",
+      "category": "SWORD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 0
+      },
+      "museum": true,
+      "id": "GREAT_SPOOK_SWORD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTYyNTMwNSwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg1NjZiMGI3NWY5YTE3M2U4MTU1MDA3YmRjM2EzNDk5ODc0YjE3MzI3ZDk4NjQ1Y2RlNmQxMWEyMjU1NzUwYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Great Spook Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 0,
+      "museum": true,
+      "id": "GREAT_SPOOK_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlmMjlmZmE0YzViMTU4MmMyMWFlZjUzZTQwNmI0ZTQ2NmFlMTQ2YjA3ZDI5YmEzMGRlNDU1NzE2ZmI5ZTc0MyJ9fX0=",
       "name": "Wind Chimes",
       "furniture": "WIND_CHIMES",
@@ -13804,11 +13983,47 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBjZjY0OTVmZjRhMzYwYWExZDY4MWE0ZjNhYTM0YWFkODc0MDljNWY3YzdkYmM5MjBjNzRkMDY5ZjY0ODhjOCJ9fX0=",
+      "name": "Witch Hat",
+      "furniture": "WITCH_HAT",
+      "tier": "RARE",
+      "id": "WITCH_HAT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZkZjljMjEyYThhZDgyNTQ1ZjBlNTk0MTBiZmE5OTBmZjNlN2FhYmU4YmE4YzlmZGMzZDRhNWVhMjcyMjY0OCJ9fX0=",
       "name": "Ice Cream Cart",
       "furniture": "ICE_CREAM_CART",
       "tier": "EPIC",
       "id": "ICE_CREAM_CART"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI1NGYzMzdjZDY0Mzk3OTczYTZlZTEwMzI4MzVhZDFjZjQ4NjFlNzdiZDZmYWFmMDA4Y2IyNjY5ZmI2ODVkNiJ9fX0=",
+      "name": "Halloween Scarecrow",
+      "furniture": "HALLOWEEN_SCARECROW",
+      "tier": "RARE",
+      "id": "HALLOWEEN_SCARECROW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTkzMzQ4NTMzNWZjOWMzOGFiMzJlNmJkMmNkNDgwYzNiYWY2MWIwZTNmNmJjYTYxZTBlM2NmMWY3NzQ3YzlkYSJ9fX0=",
+      "name": "Hanging Reaper",
+      "furniture": "HANGING_REAPER",
+      "tier": "RARE",
+      "id": "HANGING_REAPER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNmY2RjOGQ4N2I0NTAxOTEyM2MwYjI3ZGI0NzhiYWViMTdjYjEwODdhYWUzYTFiMWQwNTkxMmZlZDc1NDJhOSJ9fX0=",
+      "name": "Pumpkin Crafting Table",
+      "furniture": "PUMPKIN_CRAFTING_TABLE",
+      "tier": "EPIC",
+      "id": "PUMPKIN_CRAFTING_TABLE"
     },
     {
       "material": "SKULL_ITEM",
@@ -13827,6 +14042,15 @@
       "furniture": "HAMMOCK",
       "tier": "RARE",
       "id": "HAMMOCK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYyNGVkNjg3NTMwNGZhNGExZjBjNzg1YjJjYjZhNmE3MjU2M2U5ZjNlMjRlYTU1ZTE4MTc4NDUyMTE5YWE2NiJ9fX0=",
+      "name": "Skeleton Statue",
+      "furniture": "SKELETON_STATUE",
+      "tier": "EPIC",
+      "id": "SKELETON_STATUE"
     },
     {
       "material": "SKULL_ITEM",
@@ -18225,6 +18449,7 @@
       "glowing": true,
       "category": "SHEARS",
       "npc_sell_price": 2,
+      "hide_from_viewrecipe_command": true,
       "id": "ENCHANTED_SHEARS"
     },
     {
@@ -18569,16 +18794,6 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_ELEPHANT_BLUE"
-    },
-    {
-      "material": "LEATHER_LEGGINGS",
-      "color": "153,51,153",
-      "name": "Great Spook Leggings",
-      "category": "LEGGINGS",
-      "tier": "EPIC",
-      "museum": true,
-      "npc_sell_price": 0,
-      "id": "GREAT_SPOOK_LEGGINGS"
     },
     {
       "material": "PISTON_STICKY_BASE",
@@ -19211,16 +19426,6 @@
       "tier": "LEGENDARY",
       "museum": true,
       "id": "GOLD_CANDY"
-    },
-    {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "153,51,153",
-      "name": "Great Spook Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "EPIC",
-      "museum": true,
-      "npc_sell_price": 0,
-      "id": "GREAT_SPOOK_CHESTPLATE"
     },
     {
       "material": "IRON_SWORD",
@@ -27440,17 +27645,6 @@
       "furniture": "BUNNY",
       "tier": "RARE",
       "id": "BUNNY"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTUyODI4NSwKICAicHJvZmlsZUlkIiA6ICI2MzMyMDgwZTY3YTI0Y2MxYjE3ZGJhNzZmM2MwMGYxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWFtSHlkcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1NjkyMmMyMWJjMTUxOGJmNjAzNTM1MDkzMGMzYjFmNGM5Yjc0YjEwYjBkNjIxYmFiYWE0ZTQxMTA5YzE3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Sweet Flesh",
-      "description": "%%gray%%It's strangely sweet and somewhat sticky...",
-      "tier": "UNCOMMON",
-      "glowing": true,
-      "npc_sell_price": 0,
-      "id": "SWEET_FLESH"
     },
     {
       "material": "SKULL_ITEM",
@@ -39547,16 +39741,6 @@
       "id": "SHADOW_ASSASSIN_LEGGINGS"
     },
     {
-      "material": "LEATHER_BOOTS",
-      "color": "153,51,153",
-      "name": "Great Spook Boots",
-      "category": "BOOTS",
-      "tier": "EPIC",
-      "museum": true,
-      "npc_sell_price": 0,
-      "id": "GREAT_SPOOK_BOOTS"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVjNmRjMmJiZjUxYzM2Y2ZjNzcxNDU4NWE2YTU2ODNlZjJiMTRkNDdkOGZmNzE0NjU0YTg5M2Y1ZGE2MjIifX19",
@@ -42928,16 +43112,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY5ODc2MiwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZmIxODg0OGUzYWUyOGFkMmY4MThiNTEwN2FiZjkwYTIzYTRkYTczMzYwNGJmZmNmNmNhZTEwMjc0ODUwYWM0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-      "name": "Frozen Spider",
-      "description": "%%gray%%One lonely spider sitting in the pond. Then down came the hook that pulled the spider out.",
-      "tier": "LEGENDARY",
-      "npc_sell_price": 0,
-      "id": "FROZEN_SPIDER"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjY3ODAzMiwKICAicHJvZmlsZUlkIiA6ICI1ZjE4ZmY4NTEyZGQ0NmQ1OGY1MjJlYjg2MDg2ZjU5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWtlb3MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlZjcyMmRhMDVhZThiZDgxMzI5MDVhMTFiNWI2ZGZiZjhlN2FlMGFmNTk5YzgyNjZlMTYwZmIwNWU2MTU5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Gemstone Fuel Tank",
       "tier": "RARE",
@@ -44054,16 +44228,6 @@
       "id": "SPOOKY_BAIT"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-      "name": "Wet Pumpkin",
-      "description": "%%gray%%A squishy moist mess.",
-      "tier": "EPIC",
-      "npc_sell_price": 0,
-      "id": "WET_PUMPKIN"
-    },
-    {
       "material": "ARROW",
       "name": "Bouncy Arrow",
       "glowing": true,
@@ -45065,15 +45229,6 @@
       "id": "SALMON_BOOTS_NEW"
     },
     {
-      "material": "DEAD_BUSH",
-      "name": "Great Spook Staff",
-      "tier": "LEGENDARY",
-      "unstackable": true,
-      "museum": true,
-      "npc_sell_price": 0,
-      "id": "GREAT_SPOOK_STAFF"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM4NDBiNjZjNjQ0MjA1OWJhMzFmYzM0OTk4ZTE1YzQ0NDdhNDI5ZDNmNzg5YTdlOWY2MmU2YTU3ZGRhMGFiMiJ9fX0K",
@@ -45867,16 +46022,6 @@
       "dungeon_item": true,
       "museum": true,
       "id": "MAXOR_THE_FISH"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU5NjQ0NiwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYzE5NTA0NjFkNTQ2ODdmNDAxNjJlNGVjZmZhY2Y2MGE0NmU0MTZmMjUzNGZhMjNhMDA5MWQwZWE2ZjJlYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-      "name": "Decayed Bat",
-      "description": "%%gray%%A withering husk of its former self.",
-      "tier": "RARE",
-      "npc_sell_price": 0,
-      "id": "DECAYED_BAT"
     },
     {
       "material": "SKULL_ITEM",
@@ -53572,16 +53717,6 @@
       "id": "WITHER_GOGGLES"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU2NDMwNiwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk3NzkwNmFiZGIwMGI0OTVjYzVhNjg1MWU5MmNlYjY1ZTFiZjg5ZmFmMWJlOTE0YjVkMzZjODQ4NzU3NmE3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Poisoned Candy",
-      "description": "%%gray%%A delicious, vibrant, and round candy with an extra kick.",
-      "tier": "UNCOMMON",
-      "npc_sell_price": 0,
-      "id": "POISONED_CANDY"
-    },
-    {
       "material": "BANNER",
       "name": "Black Banner",
       "npc_sell_price": 2,
@@ -58390,16 +58525,6 @@
       "tier": "RARE",
       "npc_sell_price": 1,
       "id": "MIDAS_JEWEL"
-    },
-    {
-      "material": "LEATHER_HELMET",
-      "color": "153,51,153",
-      "name": "Great Spook Helmet",
-      "category": "HELMET",
-      "tier": "EPIC",
-      "museum": true,
-      "npc_sell_price": 0,
-      "id": "GREAT_SPOOK_HELMET"
     },
     {
       "material": "SKULL_ITEM",

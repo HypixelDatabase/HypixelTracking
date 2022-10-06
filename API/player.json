@@ -36941,13 +36941,50 @@
             "star_eater_scales": true
           },
           "stats": {
+            "2022": {
+              "halloween": {
+                "water": {
+                  "fish": 0
+                },
+                "lava": {
+                  "fish": 0,
+                  "treasure": 0,
+                  "junk": 0
+                }
+              }
+            },
             "permanent": {
               "water": {
                 "fish": 0,
                 "junk": 0,
                 "treasure": 0
+              },
+              "individual": {
+                "fish": {
+                  "salmon": 0,
+                  "clownfish": 0,
+                  "cooked_salmon": 0,
+                  "charred_pufferfish": 0,
+                  "cooked_cod": 0
+                },
+                "treasure": {
+                  "eye_of_ender": 0
+                },
+                "junk": {
+                  "charcoal": 0
+                }
+              },
+              "lava": {
+                "fish": 0,
+                "treasure": 0,
+                "junk": 0
               }
             }
+          },
+          "fireproofing": {
+            "scales": 0,
+            "sealant": 0,
+            "flame": 0
           }
         },
         "cauldron_ingredient_2021_bone_3": true,
@@ -44057,6 +44094,13 @@
     "scorpius_bribe_216": 0,
     "leveling": {
       "claimedRewards": []
+    },
+    "fishing": {
+      "enchants": {
+        "vulcans_blessing": {
+          "level": 0
+        }
+      }
     }
   },
   "cause": "",

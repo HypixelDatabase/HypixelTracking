@@ -2686,7 +2686,9 @@
       },
       "skywars_halloween_harvest_2022": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_halloween_corrupted_wins": 0
+          },
           "started": 0
         }
       },

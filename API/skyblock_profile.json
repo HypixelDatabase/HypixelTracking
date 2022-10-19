@@ -8104,13 +8104,17 @@
               "slayer": {
                 "talked_to": true,
                 "completed_quest": true
+              },
+              "arrow_forger": {
+                "specific": {}
               }
             },
             "games": {
               "snake_best_score": 0,
               "tic_tac_toe_draws": 0
             },
-            "active_contacts": []
+            "active_contacts": [],
+            "operator_chip": {}
           },
           "matriarch": {
             "pearls_collected": 0,

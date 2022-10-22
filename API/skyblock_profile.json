@@ -722,7 +722,16 @@
           "kills_professor_mage_guardian": 0,
           "kills_professor_warrior_guardian": 0,
           "kills_professor": 0,
-          "kills_nest_endermite": 0
+          "kills_nest_endermite": 0,
+          "dragon_most_damage": 0,
+          "dragon_most_damage_unstable": 0,
+          "dragon_highest_rank": 0,
+          "dragon_highest_rank_unstable": 0,
+          "dragon_fastest_kill": 0,
+          "dragon_fastest_kill_unstable": 0,
+          "dragon_most_damage_protector": 0,
+          "dragon_highest_rank_protector": 0,
+          "dragon_fastest_kill_protector": 0
         },
         "objectives": {
           "collect_log": {

@@ -731,7 +731,20 @@
           "dragon_fastest_kill_unstable": 0,
           "dragon_most_damage_protector": 0,
           "dragon_highest_rank_protector": 0,
-          "dragon_fastest_kill_protector": 0
+          "dragon_fastest_kill_protector": 0,
+          "dragon_amount_summoned": 0,
+          "dragon_amount_summoned_protector": 0,
+          "dragon_summoning_eyes_contributed": 0,
+          "dragon_summoning_eyes_contributed_protector": 0,
+          "dragon_most_damage_wise": 0,
+          "dragon_highest_rank_wise": 0,
+          "dragon_fastest_kill_wise": 0,
+          "kills_zealot_bruiser": 0,
+          "dragon_amount_summoned_young": 0,
+          "dragon_summoning_eyes_contributed_young": 0,
+          "dragon_most_damage_young": 0,
+          "dragon_highest_rank_young": 0,
+          "dragon_fastest_kill_young": 0
         },
         "objectives": {
           "collect_log": {
@@ -7834,7 +7847,8 @@
           "kills_professor_mage_guardian_1": 0,
           "kills_professor_warrior_guardian_1": 0,
           "kills_professor_1": 0,
-          "kills_nest_endermite_50": 0
+          "kills_nest_endermite_50": 0,
+          "kills_zealot_bruiser_100": 0
         },
         "trophy_fish": {
           "rewards": [],

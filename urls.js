@@ -35,10 +35,10 @@ module.exports = [
     ],
     dest: "./API/guild.json"
   },
-  {
-    url: 'https://api.hypixel.net/resources/achievements',
-    dest: './API/achievements.json'
-  },
+  //{
+  //  url: 'https://api.hypixel.net/resources/achievements',
+  //  dest: './API/achievements.json'
+  //},
   {
     url: 'https://api.hypixel.net/resources/challenges',
     dest: './API/challenges.json'
@@ -71,10 +71,10 @@ module.exports = [
     url: 'https://api.hypixel.net/resources/skyblock/collections',
     dest: './API/skyblock_collections.json'
   },
-  {
-    url: 'https://api.hypixel.net/resources/skyblock/skills',
-    dest: './API/skyblock_skills.json'
-  },
+  //{
+  //  url: 'https://api.hypixel.net/resources/skyblock/skills',
+  //  dest: './API/skyblock_skills.json'
+  //},
   {
     url: 'https://api.hypixel.net/resources/skyblock/items',
     dest: './API/skyblock_items.json'

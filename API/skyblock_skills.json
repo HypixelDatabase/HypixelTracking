@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1664376749615,
-  "version": "0.15",
+  "lastUpdated": 1666656577822,
+  "version": "0.16.25",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1278,7 +1278,7 @@
           "unlocks": [
             "Warrior I   Deal 4% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "+Access to Spiders Den",
+            "+Access to Spider's Den",
             "+25 Coins",
             "+5 SkyBlock XP"
           ]
@@ -1500,6 +1500,7 @@
           "unlocks": [
             "Warrior XXII   Deal 84➜88% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
+            "+Access to Zealot Bruiser Hideout",
             "+2,400 Coins",
             "+10 SkyBlock XP"
           ]
@@ -1518,9 +1519,9 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "+Access to Crimson Isle",
             "Warrior XXIV   Deal 92➜96% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
+            "+Access to Crimson Isle",
             "+2,800 Coins",
             "+10 SkyBlock XP"
           ]
@@ -2622,8 +2623,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins",
@@ -2634,8 +2635,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins",
@@ -2646,7 +2647,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins",
@@ -2657,7 +2658,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Pigman Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins",
@@ -6885,7 +6886,7 @@
           "unlocks": [
             "Warrior I   Deal 4% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "+Access to Spiders Den",
+            "+Access to Spider's Den",
             "+25 Coins",
             "+5 SkyBlock XP"
           ]
@@ -7107,6 +7108,7 @@
           "unlocks": [
             "Warrior XXII   Deal 84➜88% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
+            "+Access to Zealot Bruiser Hideout",
             "+2,400 Coins",
             "+10 SkyBlock XP"
           ]
@@ -7125,9 +7127,9 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "+Access to Crimson Isle",
             "Warrior XXIV   Deal 92➜96% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
+            "+Access to Crimson Isle",
             "+2,800 Coins",
             "+10 SkyBlock XP"
           ]
@@ -8229,8 +8231,8 @@
           "level": 19,
           "totalExpRequired": 322425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "Water Hydra Sea Creature",
+            "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Increases the chance to find treasure when fishing by 3.6➜3.8%.",
             "+3 ❤ Health",
             "+1,800 Coins",
@@ -8241,8 +8243,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "??? Sea Creature",
-            "??? Sea Creature",
+            "The Sea Emperor Sea Creature",
+            "Lava Blaze Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+2,000 Coins",
@@ -8253,7 +8255,7 @@
           "level": 21,
           "totalExpRequired": 822425,
           "unlocks": [
-            "??? Sea Creature",
+            "Phantom Fisher Sea Creature",
             "Treasure Hunter XXI   Increases the chance to find treasure when fishing by 4➜4.2%.",
             "+4 ❤ Health",
             "+2,200 Coins",
@@ -8264,7 +8266,7 @@
           "level": 22,
           "totalExpRequired": 1222425,
           "unlocks": [
-            "??? Sea Creature",
+            "Lava Pigman Sea Creature",
             "Treasure Hunter XXII   Increases the chance to find treasure when fishing by 4.2➜4.4%.",
             "+4 ❤ Health",
             "+2,400 Coins",

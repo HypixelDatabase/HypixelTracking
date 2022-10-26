@@ -8136,7 +8136,8 @@
           "abiphone": {
             "contact_data": {
               "dusk": {
-                "talked_to": true
+                "talked_to": true,
+                "completed_quest": true
               },
               "dean": {},
               "elle": {
@@ -8238,7 +8239,24 @@
                 "talked_to": true,
                 "completed_quest": true
               },
-              "kaus": {}
+              "kaus": {},
+              "suus": {},
+              "rollim": {},
+              "pablo": {
+                "last_call": 0
+              },
+              "blacksmith": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "st_jerry": {},
+              "duncan": {},
+              "tomioka": {},
+              "oringo": {},
+              "trinity": {},
+              "queen": {},
+              "sirih": {},
+              "spooky": {}
             },
             "games": {
               "snake_best_score": 0,

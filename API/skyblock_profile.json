@@ -3673,7 +3673,9 @@
           "commission_milestone_reward_skyblock_xp_tier_6",
           "talked_croesus",
           "zone_void_slate",
-          "zone_zealot_bruiser_hideout"
+          "zone_zealot_bruiser_hideout",
+          "target_practice_4",
+          "shop_bartender_ezekiel"
         ],
         "quests": {
           "collect_log": {
@@ -5452,7 +5454,8 @@
           "SAPLING:3": 0,
           "CHILI_PEPPER": 0,
           "RUNE_FIERY_BURST_1": 0,
-          "NULL_ATOM": 0
+          "NULL_ATOM": 0,
+          "APPLE": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {
@@ -8132,7 +8135,9 @@
           },
           "abiphone": {
             "contact_data": {
-              "dusk": {},
+              "dusk": {
+                "talked_to": true
+              },
               "dean": {},
               "elle": {
                 "last_call": 0
@@ -8148,7 +8153,10 @@
                 "completed_quest": true
               },
               "arrow_forger": {
-                "specific": {}
+                "specific": {
+                  "unlocked_target_practice_iv": true
+                },
+                "completed_quest": true
               },
               "drill_fuel_mechanic": {
                 "talked_to": true,
@@ -8159,18 +8167,88 @@
                 "completed_quest": true
               },
               "forge_foreman": {
-                "talked_to": true
+                "talked_to": true,
+                "completed_quest": true
               },
               "community_shop": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "aranya": {
+                "last_call": 0
+              },
+              "thaumaturgist": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "jacob": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "anita": {
                 "talked_to": true
-              }
+              },
+              "pet_collector": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "pet_sitter": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "zog": {
+                "talked_to": true
+              },
+              "plumber": {
+                "completed_quest": true
+              },
+              "fairy": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "shady_bartender": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "telekinesis_applier": {
+                "completed_quest": true
+              },
+              "gemstone": {
+                "specific": {
+                  "color_index_given": 0
+                },
+                "completed_quest": true
+              },
+              "gatekeeper": {
+                "specific": {
+                  "gave_saving_grace": true
+                },
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "walter": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "trevor_the_trapper": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "ophelia": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "kaus": {}
             },
             "games": {
               "snake_best_score": 0,
               "tic_tac_toe_draws": 0
             },
             "active_contacts": [],
-            "operator_chip": {}
+            "operator_chip": {
+              "repaired_index": 0
+            },
+            "trio_contact_addons": 0
           },
           "matriarch": {
             "pearls_collected": 0,

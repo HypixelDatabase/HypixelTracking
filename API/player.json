@@ -15968,7 +15968,25 @@
         "GingerBread_tkr_points__1_2022_points": 0,
         "GingerBread_tkr_points__1_2022_position": 0,
         "GingerBread_tkr_points__2_2022_position": 0,
-        "GingerBread_tkr_points__2_2022_points": 0
+        "GingerBread_tkr_points__2_2022_points": 0,
+        "tourney_gingerbread_solo_1_banana_hits_sent": 0,
+        "tourney_gingerbread_solo_1_blue_torpedo_hit": 0,
+        "tourney_gingerbread_solo_1_box_pickups": 0,
+        "tourney_gingerbread_solo_1_box_pickups_hypixelgp": 0,
+        "tourney_gingerbread_solo_1_box_pickups_monthly_a": 0,
+        "tourney_gingerbread_solo_1_box_pickups_weekly_b": 0,
+        "tourney_gingerbread_solo_1_coins_picked_up": 0,
+        "tourney_gingerbread_solo_1_gold_trophy": 0,
+        "tourney_gingerbread_solo_1_gold_trophy_hypixelgp": 0,
+        "tourney_gingerbread_solo_1_gold_trophy_monthly_a": 0,
+        "tourney_gingerbread_solo_1_gold_trophy_weekly_b": 0,
+        "tourney_gingerbread_solo_1_hypixelgp_plays": 0,
+        "tourney_gingerbread_solo_1_laps_completed": 0,
+        "tourney_gingerbread_solo_1_wins": 0,
+        "tourney_gingerbread_solo_1_banana_hits_received": 0,
+        "tourney_gingerbread_solo_1_box_pickups_retro": 0,
+        "tourney_gingerbread_solo_1_gold_trophy_retro": 0,
+        "tourney_gingerbread_solo_1_retro_plays": 0
       },
       "SkyWars": {
         "coins": 0,
@@ -40712,7 +40730,11 @@
         "MCGO__grenade_challenge": 0,
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
-        "ARCADE__pixel_party_challenge": 0
+        "ARCADE__pixel_party_challenge": 0,
+        "GINGERBREAD__first_place_challenge": 0,
+        "GINGERBREAD__banana_challenge": 0,
+        "GINGERBREAD__coin_challenge": 0,
+        "GINGERBREAD__leaderboard_challenge": 0
       },
       "day_i": {
         "UHC__threat_challenge": 0,
@@ -41656,6 +41678,13 @@
         "first_win": 0,
         "tributes_earned": 0,
         "claimed_ranking_reward": 0
+      },
+      "gingerbread_solo_1": {
+        "seenRPbook": true,
+        "games_played": 0,
+        "playtime": 0,
+        "first_win": 0,
+        "tributes_earned": 0
       }
     },
     "currentGadget": "",

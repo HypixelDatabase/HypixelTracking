@@ -8259,7 +8259,10 @@
               "trinity": {},
               "queen": {},
               "sirih": {},
-              "spooky": {}
+              "spooky": {
+                "talked_to": true,
+                "completed_quest": true
+              }
             },
             "games": {
               "snake_best_score": 0,

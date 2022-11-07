@@ -750,7 +750,15 @@
           "summoning_eyes_collected": 0,
           "deaths_aranya": 0,
           "dragon_most_damage_strong": 0,
-          "dragon_fastest_kill_strong": 0
+          "dragon_fastest_kill_strong": 0,
+          "dragon_amount_summoned_wise": 0,
+          "dragon_summoning_eyes_contributed_wise": 0,
+          "dragon_most_damage_superior": 0,
+          "dragon_highest_rank_superior": 0,
+          "dragon_fastest_kill_superior": 0,
+          "dragon_highest_rank_strong": 0,
+          "dragon_amount_summoned_unstable": 0,
+          "dragon_summoning_eyes_contributed_unstable": 0
         },
         "objectives": {
           "collect_log": {
@@ -6373,7 +6381,15 @@
           "permanent_intelligence": 0,
           "permanent_strength": 0,
           "forbidden_blessing": 0,
-          "catacombs_looting": 0
+          "catacombs_looting": 0,
+          "flat_damage_vs_ender": 0,
+          "mana_after_ender_kill": 0,
+          "fero_vs_dragons": 0,
+          "inc_zealots_odds": 0,
+          "combat_wisdom_in_end": 0,
+          "edrag_cd": 0,
+          "dragon_reforges_buff": 0,
+          "increased_sup_chances": 0
         },
         "active_effects": [
           {

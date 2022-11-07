@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1666189255000,
+  "lastUpdated": 1667829657000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14278,7 +14278,7 @@
           "holo_name": "The Forge",
           "description_name": "The Forge",
           "destination_mode": "mining_3",
-          "location_tag": "forge",
+          "location_tag": "forge-warp",
           "schematic_file": "sb_portal_forge",
           "offset": "NEW",
           "skill_requirement": {
@@ -14301,7 +14301,7 @@
           "description_name": "the Top of the Nest",
           "destination_mode": "combat_1",
           "location_tag": "top_of_nest",
-          "schematic_file": "sb_portal_park_cave",
+          "schematic_file": "sb_portal_spiders_den_top",
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
@@ -14315,12 +14315,12 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk1MjIxNGM0NThhNjY2YjcyMjg4M2EzMDQ2ZGYzODM5OTEyZmJkNTNmZjg4N2NkNzU4MWIxMzNmMTFmIn19fQ==",
-      "name": "Portal to the Wasteland",
+      "name": "Portal to The Wasteland",
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "holo_name": "Wasteland",
-          "description_name": "the Wasteland",
+          "holo_name": "The Wasteland",
+          "description_name": "The Wasteland",
           "destination_mode": "crimson_isle",
           "location_tag": "wasteland",
           "schematic_file": "sb_portal_wasteland",
@@ -14518,7 +14518,7 @@
           "holo_name": "Smoldering Tomb",
           "description_name": "the Smoldering Tomb",
           "destination_mode": "crimson_isle",
-          "location_tag": "smoldering_tomb",
+          "location_tag": "smoldering_chambers",
           "schematic_file": "sb_portal_smoldering_chambers",
           "offset": "NEW",
           "skill_requirement": {
@@ -14584,7 +14584,7 @@
           "holo_name": "Scarleton",
           "description_name": "Scarleton",
           "destination_mode": "crimson_isle",
-          "location_tag": "Scarleton",
+          "location_tag": "scarleton",
           "schematic_file": "sb_portal_scarleton",
           "offset": "NEW",
           "skill_requirement": {
@@ -14714,7 +14714,7 @@
         "portal": {
           "holo_name": "Crimson Isle",
           "description_name": "the Crimson Isle",
-          "destination_mode": "combat_2",
+          "destination_mode": "crimson_isle",
           "schematic_file": "sb_portal_danger2",
           "skill_requirement": {
             "skill": "COMBAT",
@@ -14755,7 +14755,7 @@
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "name": "Spider's Den",
+          "holo_name": "Spider's Den",
           "description_name": "Spider's Den",
           "destination_mode": "combat_1",
           "schematic_file": "sb_portal_danger1",
@@ -14778,7 +14778,7 @@
           "description_name": "the Dark Thicket",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
-          "schematic_file": "sb_portal_foraging3",
+          "schematic_file": "sb_portal_foraging5",
           "location_tag": "dark",
           "skill_requirement": {
             "skill": "FORAGING",
@@ -14864,6 +14864,7 @@
           "holo_name": "The Barn",
           "destination_mode": "farming_1",
           "schematic_file": "sb_portal_farming_1",
+          "offset": "NEW",
           "skill_requirement": {
             "skill": "FARMING",
             "level": 1
@@ -61656,7 +61657,7 @@
       "tier": "RARE",
       "glowing": true,
       "soulbound": "COOP",
-      "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breath fire. Fire bats are much cuter though.",
+      "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Fire bats are much cuter though.",
       "npc_sell_price": 200,
       "id": "FLAMES"
     },
@@ -86333,380 +86334,6 @@
     {
       "material": "LEATHER_CHESTPLATE",
       "color": "255,203,13",
-      "name": "Hot Hollow Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 6,
-        "DEFENSE": 82,
-        "HEALTH": 290,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 107
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 170
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 190
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 215
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 240
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 340
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 390
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 440
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "BURNING_AURORA_CHESTPLATE",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 800
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 20
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOT_HOLLOW_CHESTPLATE"
-    },
-    {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "255,203,13",
-      "name": "Fiery Hollow Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 10,
-        "DEFENSE": 130,
-        "HEALTH": 460,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 170
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5600
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 6300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 7000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 8000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 9000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 10200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 11500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 13000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 14500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "INFERNAL_AURORA_CHESTPLATE",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 25500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 80
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "FIERY_HOLLOW_CHESTPLATE"
-    },
-    {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "255,203,13",
       "name": "Infernal Hollow Chestplate",
       "category": "CHESTPLATE",
       "tier": "LEGENDARY",
@@ -86935,778 +86562,6 @@
         ]
       ],
       "id": "INFERNAL_HOLLOW_CHESTPLATE"
-    },
-    {
-      "material": "LEATHER_BOOTS",
-      "color": "227,255,250",
-      "name": "Hot Hollow Boots",
-      "category": "BOOTS",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 6,
-        "DEFENSE": 50,
-        "HEALTH": 164,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 107
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 170
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 190
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 215
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 240
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 340
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 390
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 440
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "BURNING_AURORA_BOOTS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 800
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 20
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOT_HOLLOW_BOOTS"
-    },
-    {
-      "material": "FEATHER",
-      "name": "Hollow Wand",
-      "glowing": true,
-      "category": "WAND",
-      "tier": "LEGENDARY",
-      "stats": {
-        "DAMAGE": 150,
-        "STRENGTH": 20,
-        "INTELLIGENCE": 120,
-        "WEAPON_ABILITY_DAMAGE": 15000
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "npc_sell_price": 10000,
-      "can_have_attributes": true,
-      "salvageable_from_recipe": true,
-      "id": "HOLLOW_WAND"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDIwNjg0MCwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJhYTE3YzMyZDI3YjkyODE2YjAwMzYyYzJmNjlkODY3Y2Q5OWJhMzc2ZDEwYjA5Nzc5NjM2ODI4NzgzNGVhMSIKICAgIH0KICB9Cn0",
-      "name": "Burning Hollow Helmet",
-      "category": "HELMET",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 8,
-        "DEFENSE": 79,
-        "HEALTH": 254,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 206
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 900
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1125
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1450
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1650
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1850
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2100
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2350
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2650
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "FIERY_AURORA_HELMET",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 4500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 50
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "BURNING_HOLLOW_HELMET"
-    },
-    {
-      "material": "LEATHER_LEGGINGS",
-      "color": "255,246,163",
-      "name": "Hot Hollow Leggings",
-      "category": "LEGGINGS",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 6,
-        "DEFENSE": 69,
-        "HEALTH": 258,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 107
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 170
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 190
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 215
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 240
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 340
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 390
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 440
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "BURNING_AURORA_LEGGINGS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 800
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 20
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOT_HOLLOW_LEGGINGS"
-    },
-    {
-      "material": "LEATHER_LEGGINGS",
-      "color": "255,246,163",
-      "name": "Hollow Leggings",
-      "category": "LEGGINGS",
-      "tier": "LEGENDARY",
-      "stats": {
-        "WALK_SPEED": 5,
-        "DEFENSE": 55,
-        "HEALTH": 205,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 85
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 30
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 35
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 40
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 45
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 55
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 60
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 70
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 2
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 90
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "HOT_AURORA_LEGGINGS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 150
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 10
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOLLOW_LEGGINGS"
     },
     {
       "material": "LEATHER_BOOTS",
@@ -88173,1876 +87028,6 @@
       "id": "INFERNAL_HOLLOW_LEGGINGS"
     },
     {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "255,203,13",
-      "name": "Burning Hollow Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 8,
-        "DEFENSE": 103,
-        "HEALTH": 365,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 135
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 900
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1125
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1450
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1650
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1850
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2100
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2350
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2650
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "FIERY_AURORA_CHESTPLATE",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 4500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 50
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "BURNING_HOLLOW_CHESTPLATE"
-    },
-    {
-      "material": "LEATHER_LEGGINGS",
-      "color": "255,246,163",
-      "name": "Fiery Hollow Leggings",
-      "category": "LEGGINGS",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 10,
-        "DEFENSE": 110,
-        "HEALTH": 410,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 170
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5600
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 6300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 7000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 8000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 9000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 10200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 11500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 13000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 14500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "INFERNAL_AURORA_LEGGINGS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 25500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 80
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "FIERY_HOLLOW_LEGGINGS"
-    },
-    {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "255,203,13",
-      "name": "Hollow Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "LEGENDARY",
-      "stats": {
-        "WALK_SPEED": 5,
-        "DEFENSE": 65,
-        "HEALTH": 230,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 85
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 30
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 35
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 40
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 45
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 55
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 60
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 70
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 2
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 90
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "HOT_AURORA_CHESTPLATE",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 150
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 10
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOLLOW_CHESTPLATE"
-    },
-    {
-      "material": "LEATHER_BOOTS",
-      "color": "227,255,250",
-      "name": "Burning Hollow Boots",
-      "category": "BOOTS",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 8,
-        "DEFENSE": 64,
-        "HEALTH": 206,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 135
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 900
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1125
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1450
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1650
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1850
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2100
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2350
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 2650
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "FIERY_AURORA_BOOTS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 4500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 50
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "BURNING_HOLLOW_BOOTS"
-    },
-    {
-      "material": "LEATHER_LEGGINGS",
-      "color": "255,246,163",
-      "name": "Burning Hollow Leggings",
-      "category": "LEGGINGS",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 8,
-        "DEFENSE": 87,
-        "HEALTH": 325,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 135
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5600
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 6300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 7000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 8000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 9000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 10200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 11500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 13000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 14500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "INFERNAL_AURORA_LEGGINGS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 25500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 80
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "BURNING_HOLLOW_LEGGINGS"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDE4OTk2NywKICAicHJvZmlsZUlkIiA6ICIyNzZlMDQ2YjI0MDM0M2VkOTk2NmU0OTRlN2U2Y2IzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBRFJBTlM3MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhjNmJkYmZmNmYwMzNjNjFiYzMzNWRkOWE3ODk1NmU2Y2RmZGQ2MTNlYmI1YTc3ZWMzOGQyNzFhODMzMjYxMiIKICAgIH0KICB9Cn0",
-      "name": "Fiery Hollow Helmet",
-      "category": "HELMET",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 10,
-        "DEFENSE": 100,
-        "HEALTH": 320,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 260
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5600
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 6300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 7000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 8000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 9000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 10200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 11500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 13000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 14500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "INFERNAL_AURORA_HELMET",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 25500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 80
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "FIERY_HOLLOW_HELMET"
-    },
-    {
-      "material": "LEATHER_BOOTS",
-      "color": "227,255,250",
-      "name": "Fiery Hollow Boots",
-      "category": "BOOTS",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 10,
-        "DEFENSE": 80,
-        "HEALTH": 260,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 170
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 5600
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 6300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 7000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 8000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 9000
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 10200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 11500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 13000
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 14500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "INFERNAL_AURORA_BOOTS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 25500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 80
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "FIERY_HOLLOW_BOOTS"
-    },
-    {
-      "material": "LEATHER_BOOTS",
-      "color": "227,255,250",
-      "name": "Hollow Boots",
-      "category": "BOOTS",
-      "tier": "LEGENDARY",
-      "stats": {
-        "WALK_SPEED": 5,
-        "DEFENSE": 40,
-        "HEALTH": 130,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 85
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 30
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 35
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 40
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 45
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 55
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 60
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 70
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 2
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 90
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "HOT_AURORA_BOOTS",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 150
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 10
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOLLOW_BOOTS"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDIyMjk5MSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjMzQ0ZDY1YWU2YmMyMjMwZWUyMjBkNzZkZGExZTA4MGY5MDI4MmNhMGY5ZjBkOWJjOTY2N2QyMjA0OGNlOWYiCiAgICB9CiAgfQp9",
-      "name": "Hot Hollow Helmet",
-      "category": "HELMET",
-      "tier": "LEGENDARY",
-      "soulbound": "COOP",
-      "stats": {
-        "WALK_SPEED": 6,
-        "DEFENSE": 63,
-        "HEALTH": 202,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 164
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 170
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 190
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 215
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 240
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 270
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 340
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 390
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 440
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 500
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "BURNING_AURORA_HELMET",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 800
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 20
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOT_HOLLOW_HELMET"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDI0MjExMCwKICAicHJvZmlsZUlkIiA6ICIxZjEyNTNhYTVkYTQ0ZjU5YWU1YWI1NmFhZjRlNTYxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNaUt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhYWNkNzA1YTI5Yjc5MDUyOGE3MGVlOTNhMWNiZDkyYzAyOTYwMWE3NjJkNTI4MDVmNjA0NjBlN2E3ZmY4ZjciCiAgICB9CiAgfQp9",
-      "name": "Hollow Helmet",
-      "category": "HELMET",
-      "tier": "LEGENDARY",
-      "stats": {
-        "WALK_SPEED": 5,
-        "DEFENSE": 50,
-        "HEALTH": 160,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 130
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "can_have_attributes": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 30
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 35
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 40
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 45
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 55
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 60
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 70
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 2
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 90
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          }
-        ]
-      ],
-      "prestige": {
-        "item_id": "HOT_AURORA_HELMET",
-        "costs": [
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 150
-          },
-          {
-            "type": "ITEM",
-            "item_id": "KUUDRA_TEETH",
-            "amount": 10
-          }
-        ]
-      },
-      "gemstone_slots": [
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "slot_type": "COMBAT",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 250000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_JASPER_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_SAPPHIRE_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_RUBY_GEM",
-              "amount": 1
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FLAWLESS_AMETHYST_GEM",
-              "amount": 1
-            }
-          ]
-        }
-      ],
-      "id": "HOLLOW_HELMET"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDE3MjcwNSwKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NGVlZTlmMjM5NTJmOTc3N2QwNTE5YzExMTY1NTA2Njg1MWZiNGMxNzkzNjI5ZDM3NjdhMDBkYWNlZTZmMjUwIgogICAgfQogIH0KfQ==",
@@ -90274,6 +87259,3022 @@
         ]
       ],
       "id": "INFERNAL_HOLLOW_HELMET"
+    },
+    {
+      "material": "FEATHER",
+      "name": "Hollow Wand",
+      "glowing": true,
+      "category": "WAND",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 150,
+        "STRENGTH": 20,
+        "INTELLIGENCE": 120,
+        "WEAPON_ABILITY_DAMAGE": 15000
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "npc_sell_price": 10000,
+      "can_have_attributes": true,
+      "salvageable_from_recipe": true,
+      "id": "HOLLOW_WAND"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,246,163",
+      "name": "Hollow Leggings",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 5,
+        "DEFENSE": 55,
+        "HEALTH": 205,
+        "STRENGTH": 15,
+        "CRITICAL_DAMAGE": 10,
+        "INTELLIGENCE": 85
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 45
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 55
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 70
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 2
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 90
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "HOT_HOLLOW_LEGGINGS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 150
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 10
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOLLOW_LEGGINGS"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "255,203,13",
+      "name": "Hollow Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 5,
+        "DEFENSE": 65,
+        "HEALTH": 230,
+        "STRENGTH": 15,
+        "CRITICAL_DAMAGE": 10,
+        "INTELLIGENCE": 85
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 45
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 55
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 70
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 2
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 90
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "HOT_HOLLOW_CHESTPLATE",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 150
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 10
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOLLOW_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "227,255,250",
+      "name": "Hollow Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 5,
+        "DEFENSE": 40,
+        "HEALTH": 130,
+        "STRENGTH": 15,
+        "CRITICAL_DAMAGE": 10,
+        "INTELLIGENCE": 85
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 45
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 55
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 70
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 2
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 90
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "HOT_HOLLOW_BOOTS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 150
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 10
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOLLOW_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDI0MjExMCwKICAicHJvZmlsZUlkIiA6ICIxZjEyNTNhYTVkYTQ0ZjU5YWU1YWI1NmFhZjRlNTYxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNaUt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhYWNkNzA1YTI5Yjc5MDUyOGE3MGVlOTNhMWNiZDkyYzAyOTYwMWE3NjJkNTI4MDVmNjA0NjBlN2E3ZmY4ZjciCiAgICB9CiAgfQp9",
+      "name": "Hollow Helmet",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 5,
+        "DEFENSE": 50,
+        "HEALTH": 160,
+        "STRENGTH": 15,
+        "CRITICAL_DAMAGE": 10,
+        "INTELLIGENCE": 130
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 45
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 55
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 70
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 2
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 90
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "HOT_HOLLOW_HELMET",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 150
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 10
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOLLOW_HELMET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDIwNjg0MCwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJhYTE3YzMyZDI3YjkyODE2YjAwMzYyYzJmNjlkODY3Y2Q5OWJhMzc2ZDEwYjA5Nzc5NjM2ODI4NzgzNGVhMSIKICAgIH0KICB9Cn0",
+      "name": "Burning Hollow Helmet",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 8,
+        "DEFENSE": 79,
+        "HEALTH": 254,
+        "STRENGTH": 24,
+        "CRITICAL_DAMAGE": 16,
+        "INTELLIGENCE": 206
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 900
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1450
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1650
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1850
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2100
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2350
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2650
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "FIERY_HOLLOW_HELMET",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 4500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 50
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "BURNING_HOLLOW_HELMET"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "255,203,13",
+      "name": "Burning Hollow Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 8,
+        "DEFENSE": 103,
+        "HEALTH": 365,
+        "STRENGTH": 24,
+        "CRITICAL_DAMAGE": 16,
+        "INTELLIGENCE": 135
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 900
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1450
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1650
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1850
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2100
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2350
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2650
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "FIERY_HOLLOW_CHESTPLATE",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 4500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 50
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "BURNING_HOLLOW_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "227,255,250",
+      "name": "Burning Hollow Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 8,
+        "DEFENSE": 64,
+        "HEALTH": 206,
+        "STRENGTH": 24,
+        "CRITICAL_DAMAGE": 16,
+        "INTELLIGENCE": 135
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 900
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1450
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1650
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1850
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2100
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2350
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 2650
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "FIERY_HOLLOW_BOOTS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 4500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 50
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "BURNING_HOLLOW_BOOTS"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,246,163",
+      "name": "Burning Hollow Leggings",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 8,
+        "DEFENSE": 87,
+        "HEALTH": 325,
+        "STRENGTH": 24,
+        "CRITICAL_DAMAGE": 16,
+        "INTELLIGENCE": 135
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5600
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 6300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 7000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 8000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 9000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 10200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 11500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 13000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 14500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "FIERY_HOLLOW_LEGGINGS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 25500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 80
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "BURNING_HOLLOW_LEGGINGS"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "255,203,13",
+      "name": "Hot Hollow Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 6,
+        "DEFENSE": 82,
+        "HEALTH": 290,
+        "STRENGTH": 19,
+        "CRITICAL_DAMAGE": 13,
+        "INTELLIGENCE": 107
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 170
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 190
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 215
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 240
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 340
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 390
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 440
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "BURNING_HOLLOW_CHESTPLATE",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 800
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 20
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOT_HOLLOW_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "227,255,250",
+      "name": "Hot Hollow Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 6,
+        "DEFENSE": 50,
+        "HEALTH": 164,
+        "STRENGTH": 19,
+        "CRITICAL_DAMAGE": 13,
+        "INTELLIGENCE": 107
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 170
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 190
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 215
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 240
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 340
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 390
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 440
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "BURNING_HOLLOW_BOOTS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 800
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 20
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOT_HOLLOW_BOOTS"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,246,163",
+      "name": "Hot Hollow Leggings",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 6,
+        "DEFENSE": 69,
+        "HEALTH": 258,
+        "STRENGTH": 19,
+        "CRITICAL_DAMAGE": 13,
+        "INTELLIGENCE": 107
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 170
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 190
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 215
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 240
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 340
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 390
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 440
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "BURNING_HOLLOW_LEGGINGS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 800
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 20
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOT_HOLLOW_LEGGINGS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDIyMjk5MSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjMzQ0ZDY1YWU2YmMyMjMwZWUyMjBkNzZkZGExZTA4MGY5MDI4MmNhMGY5ZjBkOWJjOTY2N2QyMjA0OGNlOWYiCiAgICB9CiAgfQp9",
+      "name": "Hot Hollow Helmet",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 6,
+        "DEFENSE": 63,
+        "HEALTH": 202,
+        "STRENGTH": 19,
+        "CRITICAL_DAMAGE": 13,
+        "INTELLIGENCE": 164
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 170
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 190
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 215
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 240
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 270
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 340
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 390
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 440
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "BURNING_HOLLOW_HELMET",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 800
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 20
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "HOT_HOLLOW_HELMET"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "255,203,13",
+      "name": "Fiery Hollow Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 10,
+        "DEFENSE": 130,
+        "HEALTH": 460,
+        "STRENGTH": 30,
+        "CRITICAL_DAMAGE": 20,
+        "INTELLIGENCE": 170
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5600
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 6300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 7000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 8000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 9000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 10200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 11500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 13000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 14500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "INFERNAL_HOLLOW_CHESTPLATE",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 25500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 80
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "FIERY_HOLLOW_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,246,163",
+      "name": "Fiery Hollow Leggings",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 10,
+        "DEFENSE": 110,
+        "HEALTH": 410,
+        "STRENGTH": 30,
+        "CRITICAL_DAMAGE": 20,
+        "INTELLIGENCE": 170
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5600
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 6300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 7000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 8000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 9000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 10200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 11500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 13000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 14500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "INFERNAL_HOLLOW_LEGGINGS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 25500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 80
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "FIERY_HOLLOW_LEGGINGS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDE4OTk2NywKICAicHJvZmlsZUlkIiA6ICIyNzZlMDQ2YjI0MDM0M2VkOTk2NmU0OTRlN2U2Y2IzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBRFJBTlM3MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhjNmJkYmZmNmYwMzNjNjFiYzMzNWRkOWE3ODk1NmU2Y2RmZGQ2MTNlYmI1YTc3ZWMzOGQyNzFhODMzMjYxMiIKICAgIH0KICB9Cn0",
+      "name": "Fiery Hollow Helmet",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 10,
+        "DEFENSE": 100,
+        "HEALTH": 320,
+        "STRENGTH": 30,
+        "CRITICAL_DAMAGE": 20,
+        "INTELLIGENCE": 260
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5600
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 6300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 7000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 8000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 9000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 10200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 11500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 13000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 14500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "INFERNAL_HOLLOW_HELMET",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 25500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 80
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "FIERY_HOLLOW_HELMET"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "227,255,250",
+      "name": "Fiery Hollow Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "soulbound": "COOP",
+      "stats": {
+        "WALK_SPEED": 10,
+        "DEFENSE": 80,
+        "HEALTH": 260,
+        "STRENGTH": 30,
+        "CRITICAL_DAMAGE": 20,
+        "INTELLIGENCE": 170
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "COMBAT",
+          "level": 24
+        }
+      ],
+      "can_have_attributes": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 5600
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 6300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 7000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 8000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 9000
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 10200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 11500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 13000
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 14500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          }
+        ]
+      ],
+      "prestige": {
+        "item_id": "INFERNAL_HOLLOW_BOOTS",
+        "costs": [
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 25500
+          },
+          {
+            "type": "ITEM",
+            "item_id": "KUUDRA_TEETH",
+            "amount": 80
+          }
+        ]
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_JASPER_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_SAPPHIRE_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_RUBY_GEM",
+              "amount": 1
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_AMETHYST_GEM",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "id": "FIERY_HOLLOW_BOOTS"
     },
     {
       "material": "LEATHER_LEGGINGS",

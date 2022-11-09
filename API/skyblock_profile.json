@@ -3345,6 +3345,26 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1668004971105
+          },
+          "talk_to_shaggy_new_0": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_spider_tamer": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "kill_arachne": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_spider_tamer_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3713,7 +3733,10 @@
           "zone_zealot_bruiser_hideout",
           "target_practice_4",
           "shop_bartender_ezekiel",
-          "talked_to_npc_hex"
+          "talked_to_npc_hex",
+          "zone_spider_mound",
+          "zone_arachnes_burrow",
+          "zone_arachnes_sanctuary"
         ],
         "quests": {
           "collect_log": {
@@ -4079,6 +4102,20 @@
             "activated_at_sb": 0,
             "completed_at": 0,
             "completed_at_sb": 0
+          },
+          "talk_to_shaggy_new_0": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_spider_tamer": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
           }
         },
         "coin_purse": 0,
@@ -4245,7 +4282,10 @@
           "hex",
           "shen_auction",
           "void_slate",
-          "zealot_bruiser_hideout"
+          "zealot_bruiser_hideout",
+          "spider_mound",
+          "arachnes_burrow",
+          "arachnes_sanctuary"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -6428,7 +6468,10 @@
           "combat_wisdom_in_end": 0,
           "edrag_cd": 0,
           "dragon_reforges_buff": 0,
-          "increased_sup_chances": 0
+          "increased_sup_chances": 0,
+          "empowered_agility": 0,
+          "bane": 0,
+          "vermin_control": 0
         },
         "active_effects": [
           {

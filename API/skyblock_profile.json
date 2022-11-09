@@ -3370,6 +3370,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "summon_arachne": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_shaggy_new_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3742,7 +3752,9 @@
           "zone_spider_mound",
           "zone_arachnes_burrow",
           "zone_arachnes_sanctuary",
-          "zone_grandmas_house"
+          "zone_grandmas_house",
+          "zone_archaeologist_camp",
+          "zone_gravel_mines"
         ],
         "quests": {
           "collect_log": {
@@ -4292,7 +4304,9 @@
           "spider_mound",
           "arachnes_burrow",
           "arachnes_sanctuary",
-          "grandmas_house"
+          "grandmas_house",
+          "archaeologist_camp",
+          "gravel_mines"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

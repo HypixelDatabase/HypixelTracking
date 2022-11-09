@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1667986480000,
+  "lastUpdated": 1668009857000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -188,6 +188,251 @@
         "HEALTH": 200
       },
       "id": "HELMET_OF_LIVE_RELOADING"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Arack",
+      "category": "SWORD",
+      "tier": "EPIC",
+      "npc_sell_price": 5000,
+      "stats": {
+        "damage": 90
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "id": "ARACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDMzMjE4MjYxOCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YWJkNjMzNTU0ZjdmZDI1OTZjMjg0Mjc1OGU5NWMwNWE5YjdkNzIzMTFkNTgyOWVlNWVkMjhhOTYwZTc0Y2ZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Arachne Fragment",
+      "npc_sell_price": 500,
+      "tier": "RARE",
+      "id": "ARACHNE_FRAGMENT"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "139,0,0",
+      "name": "Arachne's Boots",
+      "category": "BOOTS",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 30,
+        "health": 45
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzkxOTY5OTk5MywKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTEyN2EyYzk5YzYwNTAwNzk4ZmI1ODgyNjY4N2IzNDU2ZWJlMzVjMTgwZjUwNmMxZTgzMzg2MzgxNzgzMGY4MSIKICAgIH0KICB9Cn0",
+      "name": "Arachne's Belt",
+      "category": "BELT",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 5,
+        "health": 10
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_BELT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzkxOTc1MDY2NiwKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmVjOTlmY2UzZWU4Y2U1ZjFiYjU2YjhlMDdmZTI1NzZjNDcwNDI1ZDgyMGFjYjU1OGM4YTVmMzIwYmQyYjkiCiAgICB9CiAgfQp9",
+      "name": "Arachne's Necklace",
+      "category": "NECKLACE",
+      "npc_sell_price": 2000,
+      "tier": "RARE",
+      "stats": {
+        "defense": 5,
+        "health": 10
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_NECKLACE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzkxOTczMzkyMywKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjYThmZDg1NjQwZWVjNGZhOTc1Yjg2MGM5ZTE0NWEzZTM0ODNmODU1M2QzZTRiODVkMTM3NjA2MTE0OGQxZWEiCiAgICB9CiAgfQp9",
+      "name": "Arachne's Gloves",
+      "category": "GLOVES",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 5,
+        "health": 10
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_GLOVES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRhYWNiOGEzNmUyMjdkODYxZWE0NDM2NmNlM2IzNTEwZWU3YzI3MjJjNGVhNTFiMmYyZTgzNzQ5YmYxMjQifX19",
+      "name": "Arachne's Calling",
+      "npc_sell_price": 400,
+      "tier": "RARE",
+      "id": "ARACHNE_KEEPER_FRAGMENT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjcxNDQyNCwKICAicHJvZmlsZUlkIiA6ICIwMDc4NzVkOTI0ZWI0ZGMxODUxZGY5MWFiYTdmZjg3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphMkIyVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMDUwNWYxZTk3NjVlNDdlN2ZiOTIwOGUyYWQ4ZjE3MTY2OGRlY2YzOTQ2NWVjNDBkM2E1ODlmOGNiZWI5NzIyIgogICAgfQogIH0KfQ",
+      "name": "Arachne's Helmet",
+      "category": "HELMET",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 40,
+        "health": 55
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_HELMET"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "139,0,0",
+      "name": "Arachne's Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 60,
+        "health": 85
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_CHESTPLATE"
+    },
+    {
+      "material": "COMPASS",
+      "name": "Archaeologist's Compass",
+      "tier": "COMMON",
+      "category": "ACCESSORY",
+      "npc_sell_price": 1000,
+      "soulbound": "COOP",
+      "id": "ARCHAEOLOGIST_COMPASS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzkxOTcyMDQzMywKICAicHJvZmlsZUlkIiA6ICJhODUxNzQ0MDNlNjg0MDgwYWNkODU3MzhlMjI5NGNhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYVJpdmVyc09uZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZWYwOTU0OTUyODAwOWFlNTM1YTU4NjA2NGYwNjMxMmZkZjQxNWRhMjZmYzM4Y2EyY2Q0NzczODg3OTQ3ZWRkIgogICAgfQogIH0KfQ",
+      "name": "Arachne's Cloak",
+      "category": "CLOAK",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 5,
+        "health": 10
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_CLOAK"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "139,0,0",
+      "name": "Arachne's Leggings",
+      "category": "LEGGINGS",
+      "tier": "RARE",
+      "npc_sell_price": 2000,
+      "stats": {
+        "defense": 50,
+        "health": 75
+      },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 5
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "ARACHNE_LEGGINGS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjY3OTEwNywKICAicHJvZmlsZUlkIiA6ICI3MDQ0ZDlkY2I5OGI0YzgzYWFjNjIzNjFlYTY5YmNmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfV2F0cnlzaGthXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDk3ZDA4YWRhOGJkZTY5MjI4MzQ1YjZkMTA1NjVjODU0ZjdhZTlkMjQ0YTEyODlmMWJmOWYyZTg0OTQ1NTgwIgogICAgfQogIH0KfQ",
+      "name": "Arachne's Fang",
+      "npc_sell_price": 500,
+      "tier": "UNCOMMON",
+      "id": "ARACHNE_FANG"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjczMzY1NSwKICAicHJvZmlsZUlkIiA6ICJiYTcyN2MzM2YwZWE0ZGVjYmI0ZGRjNTcyZWZhNDhlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2ZmZU1hblRNIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4MDg5OWU0NjM1MGNmMDEzNGM2NzU2OWUyZDc2MjE4MWEwNGYzMDc4ZjY0YWNkZDJmZWFkZDk3MTI1MTU0MDYiCiAgICB9CiAgfQp9",
+      "name": "Poison Sample",
+      "npc_sell_price": 500,
+      "tier": "UNCOMMON",
+      "id": "POISON_SAMPLE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNlODMwZjIwZDBkZmIyNDI3Nzk3NTFmN2E1YzY4ZTY3ODg4OGY3Mjc1ODYxNDY1NGI2NTU2MjVjZjk0MzI0MyJ9fX0=",
+      "name": "Arachne Crystal",
+      "npc_sell_price": 1000,
+      "tier": "RARE",
+      "id": "ARACHNE_CRYSTAL"
     },
     {
       "material": "GOLD_AXE",
@@ -14532,6 +14777,28 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyJ9fX0=",
+      "name": "Portal to Arachne's Sanctuary",
+      "category": "PORTAL",
+      "item_specific": {
+        "portal": {
+          "holo_name": "Arachne's Sanctuary",
+          "description_name": "Arachne's Sanctuary",
+          "destination_mode": "combat_1",
+          "location_tag": "arachne_sanctuary",
+          "schematic_file": "sb_portal_arachne_sanctuary",
+          "offset": "NEW",
+          "skill_requirement": {
+            "skill": "COMBAT",
+            "level": 5
+          }
+        }
+      },
+      "id": "ARACHNE_SANCTUARY_PORTAL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFjZDZkMmQwM2YxMzVlN2M2YjVkNmNkYWUxYjNhNjg3NDNkYjRlYjc0OWZhZjczNDFlOWZiMzQ3YWEyODNiIn19fQ==",
       "name": "Portal to the Dragon's Nest",
       "category": "PORTAL",
@@ -14572,6 +14839,27 @@
         }
       },
       "id": "HUB_CRYPTS_PORTAL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI2MzEwNDI4NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjEwMmY4MjE0ODQ2MWNlZDFmN2I2MmUzMjZlYjJkYjNhOTRhMzNjYmE4MWQ0MjgxNDUyYWY0ZDhhZWNhNDk5MSIKICAgIH0KICB9Cn0=",
+      "name": "Portal to the Trapper's Den",
+      "category": "PORTAL",
+      "item_specific": {
+        "portal": {
+          "holo_name": "Trapper's Den",
+          "description_name": "the Trapper's Den",
+          "destination_mode": "farming_1",
+          "schematic_file": "sb_portal_farming_1",
+          "offset": "NEW",
+          "skill_requirement": {
+            "skill": "MINING",
+            "level": 12
+          }
+        }
+      },
+      "id": "TRAPPER_DEN_PORTAL"
     },
     {
       "material": "SKULL_ITEM",
@@ -20120,14 +20408,6 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 4346,
       "id": "MITHRIL_INFUSION"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDMzMjE4MjYxOCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YWJkNjMzNTU0ZjdmZDI1OTZjMjg0Mjc1OGU5NWMwNWE5YjdkNzIzMTFkNTgyOWVlNWVkMjhhOTYwZTc0Y2ZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-      "name": "Arachne Fragment",
-      "tier": "RARE",
-      "id": "ARACHNE_FRAGMENT"
     },
     {
       "material": "STONE_AXE",
@@ -26316,9 +26596,20 @@
     },
     {
       "material": "CLAY_BALL",
-      "name": "Dark Queen's Soul Drop",
+      "name": "Dark Queen's Soul",
+      "npc_sell_price": 5000,
       "tier": "EPIC",
       "id": "DARK_QUEENS_SOUL_DROP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjY2NDM2NCwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YjJjYTExMTUwNGRkZTUwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0OGVlOTJiOWVmMWRkOWY2MDgzZGFiMTEzZmUxNzA4ZmRlNGY0MDM5YWQyZjg1ZjA2ZjMxN2NlZmU0OWYzYWQiCiAgICB9CiAgfQp9",
+      "name": "Vaccine Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 100,
+      "id": "VACCINE_RING"
     },
     {
       "material": "ARROW",
@@ -34259,8 +34550,9 @@
       "category": "BOW",
       "tier": "EPIC",
       "stats": {
-        "DAMAGE": 300
+        "DAMAGE": 600
       },
+      "npc_sell_price": 8000,
       "id": "STARRED_SPIDER_QUEENS_STINGER"
     },
     {
@@ -43849,6 +44141,16 @@
       "id": "SIL_EX"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjY5NzQwMCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNDMzMjA2N2Y5ZmExNjk1YzNkNTc3YzNlZjI2NDM1NWJlZTE2MWI1ZTNhMzAxOTA2YTRmNDQzYjAwMmI5MmZhIgogICAgfQogIH0KfQ",
+      "name": "Vaccine Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "npc_sell_price": 500,
+      "id": "VACCINE_ARTIFACT"
+    },
+    {
       "material": "STAINED_CLAY",
       "durability": 13,
       "name": "Green Hardened Clay",
@@ -45247,14 +45549,6 @@
         }
       ],
       "id": "FLAME_BREAKER_HELMET"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRhYWNiOGEzNmUyMjdkODYxZWE0NDM2NmNlM2IzNTEwZWU3YzI3MjJjNGVhNTFiMmYyZTgzNzQ5YmYxMjQifX19",
-      "name": "Arachne's Keeper Fragment",
-      "tier": "RARE",
-      "id": "ARACHNE_KEEPER_FRAGMENT"
     },
     {
       "material": "SKULL_ITEM",
@@ -48571,10 +48865,10 @@
       "category": "BOW",
       "tier": "EPIC",
       "stats": {
-        "DAMAGE": 300,
+        "DAMAGE": 370,
         "STRENGTH": 180
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 8000,
       "id": "STARRED_VENOMS_TOUCH"
     },
     {
@@ -59505,10 +59799,10 @@
       "category": "BOW",
       "tier": "EPIC",
       "stats": {
-        "DAMAGE": 200,
+        "DAMAGE": 250,
         "STRENGTH": 100
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 5000,
       "id": "VENOMS_TOUCH"
     },
     {
@@ -61669,6 +61963,7 @@
     {
       "material": "STRING",
       "name": "Soul String",
+      "npc_sell_price": 5000,
       "tier": "RARE",
       "id": "SOUL_STRING"
     },
@@ -65561,9 +65856,9 @@
       "category": "BOW",
       "tier": "EPIC",
       "stats": {
-        "DAMAGE": 180
+        "DAMAGE": 360
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 5000,
       "id": "SPIDER_QUEENS_STINGER"
     },
     {
@@ -65774,14 +66069,6 @@
       "tier": "RARE",
       "npc_sell_price": 20,
       "id": "MAGMA_FISH"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNlODMwZjIwZDBkZmIyNDI3Nzk3NTFmN2E1YzY4ZTY3ODg4OGY3Mjc1ODYxNDY1NGI2NTU2MjVjZjk0MzI0MyJ9fX0=",
-      "name": "Arachne Crystal",
-      "tier": "RARE",
-      "id": "ARACHNE_CRYSTAL"
     },
     {
       "material": "BANNER",
@@ -72960,6 +73247,13 @@
     },
     {
       "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Trapper's Den",
+      "category": "TRAVEL_SCROLL",
+      "tier": "RARE",
+      "id": "TRAPPER_DEN_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
       "name": "Travel Scroll to Dragon's Nest",
       "category": "TRAVEL_SCROLL",
       "tier": "EPIC",
@@ -72971,6 +73265,13 @@
       "category": "TRAVEL_SCROLL",
       "tier": "EPIC",
       "id": "PARK_CAVE_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to Arachne's Sanctuary",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "id": "ARACHNE_SANCTUARY_TRAVEL_SCROLL"
     },
     {
       "material": "EMPTY_MAP",
@@ -74404,6 +74705,22 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzM4NTU1MjgyNiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjM1MTBjMDg2YmNmZGJiNmNkNWM3YTk5ZDMzNGYzZTNkMmJiNThiZDEwOWIyOGRiZDE4MWEzODQ3MWE3OTk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Pelt Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "stats": {
+        "farming_wisdom": 1
+      },
+      "item_specific": {
+        "speed_on_farming_island": 30,
+        "extra_pelts": 1
+      },
+      "id": "PELT_BELT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTgwMTIzMDIwMiwKICAicHJvZmlsZUlkIiA6ICIxOTQzY2VmYzM4NWM0YTJjYWJiZGViODBjZTIwM2RjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzb29vb29vb29vb29vb29wIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlOTdmOTllOWVkYjg5ZWQ3YjEzMDkwYjkxODM5N2RhYzQ3ZmE3YTZlYTEwODBlNDM5Y2QzMzgwYTE2MDMxYzgiCiAgICB9CiAgfQp9",
       "name": "Luminous Bracelet",
       "tier": "UNCOMMON",
@@ -74420,6 +74737,14 @@
         }
       ],
       "id": "LUMINOUS_BRACELET"
+    },
+    {
+      "material": "DIODE",
+      "name": "Talbot's Theodolite",
+      "tier": "RARE",
+      "npc_sell_price": 10,
+      "unstackable": true,
+      "id": "TALBOTS_THEODOLITE"
     },
     {
       "material": "FISHING_ROD",
@@ -74441,6 +74766,15 @@
         }
       ],
       "id": "CHUM_ROD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FlMGRhMjBjODU5OGU5MWYzMjJiNmU4YTdiMGVlMmM4MWYxYjYxZTc0Mzg2YzQzN2U3NWY0NDZmZmNjYzVlIn19fQ==",
+      "name": "Trapper Crest",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "id": "TRAPPER_CREST"
     },
     {
       "material": "ENDER_PEARL",

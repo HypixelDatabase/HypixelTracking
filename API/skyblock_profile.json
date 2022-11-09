@@ -3365,6 +3365,11 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "defeat_arachne_keeper": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3736,7 +3741,8 @@
           "talked_to_npc_hex",
           "zone_spider_mound",
           "zone_arachnes_burrow",
-          "zone_arachnes_sanctuary"
+          "zone_arachnes_sanctuary",
+          "zone_grandmas_house"
         ],
         "quests": {
           "collect_log": {
@@ -4285,7 +4291,8 @@
           "zealot_bruiser_hideout",
           "spider_mound",
           "arachnes_burrow",
-          "arachnes_sanctuary"
+          "arachnes_sanctuary",
+          "grandmas_house"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1667829657000,
+  "lastUpdated": 1667986480000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -51715,6 +51715,11 @@
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
           "level": 23
+        },
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 26
         }
       ],
       "id": "SOUL_WHIP"

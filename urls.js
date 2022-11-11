@@ -42,8 +42,12 @@ module.exports = [
       const o = { ...obj };
       Object.keys(obj.achievements).forEach((game) => {
         Object.keys(obj.achievements[game].one_time || {}).forEach((achievement) => {
-          o.achievements[game].one_time[achievement].gamePercentUnlocked = 1;
-          o.achievements[game].one_time[achievement].globalPercentUnlocked = 1;
+          if (o.achievements[game].one_time[achievement].hasOwnProperty('gamePercentUnlocked')) {
+            o.achievements[game].one_time[achievement].gamePercentUnlocked = 1;
+          }
+          if (o.achievements[game].one_time[achievement].hasOwnProperty('globalPercentUnlocked')) {
+            o.achievements[game].one_time[achievement].globalPercentUnlocked = 1;
+          }
         });
       });
       return o;

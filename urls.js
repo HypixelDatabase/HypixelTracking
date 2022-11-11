@@ -35,10 +35,20 @@ module.exports = [
     ],
     dest: "./API/guild.json"
   },
-  //{
-  //  url: 'https://api.hypixel.net/resources/achievements',
-  //  dest: './API/achievements.json'
-  //},
+  {
+    url: 'https://api.hypixel.net/resources/achievements',
+    dest: './API/achievements.json',
+    transform: (obj) => {
+      const o = { ...obj };
+      Object.keys(obj.achievements).forEach((game) => {
+        Object.keys(obj.achievements[game].one_time || {}).forEach((achievement) => {
+          o.achievements[game].one_time[achievement].gamePercentUnlocked = 1;
+          o.achievements[game].one_time[achievement].globalPercentUnlocked = 1;
+        });
+      });
+      return o;
+    }
+  },
   {
     url: 'https://api.hypixel.net/resources/challenges',
     dest: './API/challenges.json'

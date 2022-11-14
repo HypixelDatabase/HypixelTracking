@@ -761,7 +761,8 @@
           "dragon_summoning_eyes_contributed_unstable": 0,
           "dragon_most_damage_old": 0,
           "dragon_highest_rank_old": 0,
-          "deaths_omegagma": 0
+          "deaths_omegagma": 0,
+          "deaths_magma_bacteria": 0
         },
         "objectives": {
           "collect_log": {
@@ -8079,7 +8080,11 @@
           "kills_duelist_rollim_4": 0,
           "kills_trapper_cow_5": 0,
           "kills_duelist_rollim_6": 0,
-          "kills_creeper_1": 0
+          "kills_creeper_1": 0,
+          "deaths_omegagma_300": 0,
+          "deaths_magma_bacteria_300": 0,
+          "deaths_wandering_blaze_300": 0,
+          "deaths_kuudra_landmine_300": 0
         },
         "trophy_fish": {
           "rewards": [],
@@ -8345,7 +8350,8 @@
           },
           "kuudra_completed_tiers": {
             "none": 0,
-            "hot": 0
+            "hot": 0,
+            "burning": 0
           },
           "dojo": {
             "dojo_points_mob_kb": 0,

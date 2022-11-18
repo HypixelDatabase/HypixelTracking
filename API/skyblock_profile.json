@@ -8529,7 +8529,9 @@
                 "talked_to": true,
                 "completed_quest": true
               },
-              "st_jerry": {},
+              "st_jerry": {
+                "completed_quest": true
+              },
               "duncan": {},
               "tomioka": {},
               "oringo": {},

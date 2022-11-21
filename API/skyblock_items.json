@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1668009857000,
+  "lastUpdated": 1669051466000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14852,6 +14852,7 @@
           "description_name": "the Trapper's Den",
           "destination_mode": "farming_1",
           "schematic_file": "sb_portal_farming_1",
+          "location_tag": "trappers_den",
           "offset": "NEW",
           "skill_requirement": {
             "skill": "MINING",

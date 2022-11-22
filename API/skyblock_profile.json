@@ -8235,7 +8235,8 @@
           "skeleton_fish_diamond": 0,
           "sulphur_skitter_diamond": 0,
           "moldfin_diamond": 0,
-          "flyfish_diamond": 0
+          "flyfish_diamond": 0,
+          "steaming_hot_flounder_gold": 0
         },
         "nether_island_player_data": {
           "quests": {
@@ -8557,7 +8558,8 @@
               "tomioka": {},
               "oringo": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "last_call": 0
               },
               "trinity": {},
               "queen": {},

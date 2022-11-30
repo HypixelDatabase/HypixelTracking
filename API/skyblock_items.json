@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1669464441000,
+  "lastUpdated": 1669843815000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -1423,6 +1423,16 @@
       "generator_tier": 3,
       "tier": "RARE",
       "id": "ICE_GENERATOR_3"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTU4NDA5NzI5MywKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlOWM1ODUwMzFlNDcwNTZkYWM1ZjljZDE2M2Q1ZmU2NDQ4OTk2NWJmOWUyMzUxZDg5MzViNTUzNWNmYTE3MGEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Ice Minion XII",
+      "generator": "ICE",
+      "generator_tier": 12,
+      "tier": "RARE",
+      "id": "ICE_GENERATOR_12"
     },
     {
       "material": "SKULL_ITEM",
@@ -3547,6 +3557,16 @@
       "generator_tier": 9,
       "tier": "RARE",
       "id": "SNOW_GENERATOR_9"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTU4Mjg1NTI4NCwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc4OTZhYzg5NTAzZjlmMzdmZTExNzMxMGMxMjBhYTJkM2QwMjE2MzBlMDEzMzY1YWFmMmFjMTMxMjliYjg1NDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Snow Minion XII",
+      "generator": "SNOW",
+      "generator_tier": 12,
+      "tier": "RARE",
+      "id": "SNOW_GENERATOR_12"
     },
     {
       "material": "SKULL_ITEM",
@@ -7802,6 +7822,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTY3MjEzODA2MCwKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk1ODU2MWMwMjdlMDM2OGE4M2Y4NDk0NjNkNDJhMzA1NmU3MDk3NjRjNGMzYjQwZDgxYzhmM2VhN2EwZDZkMDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Snowman Minion Skin",
+      "category": "COSMETIC",
+      "museum": true,
+      "id": "SNOWMAN_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1NTc2MjM1NzU4NiwKICAicHJvZmlsZUlkIiA6ICI1ZmI5NjkwZGEyNzI0OWQxYjgxNGE4MDk2NGU1ZGY1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZWV2aWFoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMjAyNmM1NzY3NmJjOTU3N2JjN2QxZWQ2YTNmOGFiYThjM2NjYWRhZTg5NmE1NDE0ZDAzMTVlN2VlMTAzZmYiCiAgICB9CiAgfQp9",
       "name": "Pufferfish Minion Skin",
       "category": "COSMETIC",
@@ -7867,6 +7896,14 @@
       "tier": "EPIC",
       "unstackable": true,
       "id": "DYE_BRICK_RED"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 2,
+      "name": "Holly Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_HOLLY"
     },
     {
       "material": "INK_SACK",
@@ -14282,11 +14319,29 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE1YmEzMWNkZTI2NzFiOGYxNzZkZTZhOWZmZDAwODAzNWYwNTkwZDYzZWUyNDBiZTZlODkyMWNkMjAzN2E0NSJ9fX0=",
+      "name": "Christmas Tree",
+      "furniture": "CHRISTMAS_TREE",
+      "tier": "EPIC",
+      "id": "CHRISTMAS_TREE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBjZjY0OTVmZjRhMzYwYWExZDY4MWE0ZjNhYTM0YWFkODc0MDljNWY3YzdkYmM5MjBjNzRkMDY5ZjY0ODhjOCJ9fX0=",
       "name": "Witch Hat",
       "furniture": "WITCH_HAT",
       "tier": "RARE",
       "id": "WITCH_HAT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBkNmFmMTVhMGYzYzMwZDdlNzFjMTk0MWMzMzc0MzBmYzA5NTQzN2E2NjI0NTA5ZDk2NTY5N2FlYjI2ZmEwOCJ9fX0=",
+      "name": "Bundled Snowman",
+      "furniture": "BUNDLED_SNOWMAN",
+      "tier": "EPIC",
+      "id": "BUNDLED_SNOWMAN"
     },
     {
       "material": "SKULL_ITEM",
@@ -14323,6 +14378,33 @@
       "furniture": "PUMPKIN_CRAFTING_TABLE",
       "tier": "EPIC",
       "id": "PUMPKIN_CRAFTING_TABLE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTMyMjlmODUyNTcyNjY4NGZiMDIyN2RhZDc2MjFmMDVmMGI4YjVkNThhODY5M2ZkMGVhMDY4ODM0OWYxZDUzYyJ9fX0=",
+      "name": "Snowglobe",
+      "furniture": "SNOWGLOBE",
+      "tier": "EPIC",
+      "id": "SNOWGLOBE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAwZmM3MmU5MGI3NDhkYzI5MzZjNDA5M2Q2MmEyMmZlZjljOTM3ZWY4M2M3MGNhNzZiY2Q1MDBiNDQyMWMwYiJ9fX0=",
+      "name": "Rocking Chair",
+      "furniture": "ROCKING_CHAIR",
+      "tier": "EPIC",
+      "id": "ROCKING_CHAIR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRiZDlkZDEyOGM5NGMxMGM5NDVlYWRhYTM0MmZjNmQ5NzY1ZjM3YjNkZjJlMzhmN2IwNTZkYzdjOTI3ZWQifX19",
+      "name": "Festive Mailbox",
+      "furniture": "FESTIVE_MAILBOX",
+      "tier": "EPIC",
+      "id": "FESTIVE_MAILBOX"
     },
     {
       "material": "SKULL_ITEM",
@@ -14368,6 +14450,33 @@
       "furniture": "WISHING_WELL",
       "tier": "LEGENDARY",
       "id": "WISHING_WELL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVmMzU5OWMxNDVkMzcyZWE5ODY5ODc3NjNlMjQ5OGQyMWI1NjdkNzFmYmY3ZTIzZDVmYTgxOTdlOWFkMWQifX19",
+      "name": "Holiday Train",
+      "furniture": "HOLIDAY_TRAIN",
+      "tier": "EPIC",
+      "id": "HOLIDAY_TRAIN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjY4ZDgxZjJhNDk1Y2Y3NjdlOTdkNTZlYmNiNGRmN2JiMWRmMDU1OWQyNzM1Y2JjOTlmN2M3OGVlZmY0ZjY4ZiJ9fX0=",
+      "name": "Hot Chocolate and Cookies",
+      "furniture": "HOT_CHOCOLATE_AND_COOKIES",
+      "tier": "EPIC",
+      "id": "HOT_CHOCOLATE_AND_COOKIES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVmZGE0MmNhZjE1OWIxMTY0MDQ5Mjk3OTVmMjgxMmNiODAwOTI5ZTM0Y2I0NWJkZGZkMzA4MGFjMjg5ZjdhOSJ9fX0=",
+      "name": "Advent Calendar Display",
+      "furniture": "ADVENT_CALENDAR_DISPLAY",
+      "tier": "EPIC",
+      "id": "ADVENT_CALENDAR_DISPLAY"
     },
     {
       "material": "PAPER",
@@ -15551,68 +15660,6 @@
       "unstackable": true,
       "museum": true,
       "id": "PET_SKIN_SILVERFISH"
-    },
-    {
-      "material": "IRON_HOE",
-      "name": "Frozen Scythe",
-      "category": "SWORD",
-      "sword_type": "SCYTHE",
-      "tier": "RARE",
-      "stats": {
-        "DAMAGE": 80,
-        "WEAPON_ABILITY_DAMAGE": 1000
-      },
-      "ability_damage_scaling": 0.3,
-      "npc_sell_price": 100,
-      "dungeon_item_conversion_cost": {
-        "essence_type": "ICE",
-        "amount": 50
-      },
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "ICE",
-            "amount": 10
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "ICE",
-            "amount": 15
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "ICE",
-            "amount": 20
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "ICE",
-            "amount": 25
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "ICE",
-            "amount": 30
-          }
-        ]
-      ],
-      "catacombs_requirements": [
-        {
-          "type": "DUNGEON_SKILL",
-          "dungeon_type": "CATACOMBS",
-          "level": 10
-        }
-      ],
-      "id": "FROZEN_SCYTHE"
     },
     {
       "material": "SKULL_ITEM",
@@ -20271,6 +20318,16 @@
       "category": "PET_ITEM",
       "tier": "LEGENDARY",
       "id": "PET_ITEM_FARMING_SKILL_BOOST_LEGENDARY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhkYzdlNzdjMjFjNGUzMjI4ZTJjMDI1MWJmZTE3NDc0MWY3YTMzYmYzMjY3YjBjYzFmNThlMjM0YmMyYjljNSJ9fX0=",
+      "name": "Frosty the Howitzer",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 100,
+      "museum": true,
+      "id": "SNOW_HOWITZER"
     },
     {
       "material": "LEATHER_LEGGINGS",
@@ -25111,6 +25168,14 @@
       "tier": "RARE",
       "dungeon_item": true,
       "id": "FEL_PEARL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTY1NTkwOTY4OSwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTk1MTBkN2RkMDllY2Q2NzljYjcwOWVhZDg5NGQ0OWEwOGJlNmJlYTRmOTFmYTA1ZmI2YjE5ZWNhMmE1NTc0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Winter Island",
+      "private_island": "WINTER",
+      "id": "WINTER_ISLAND"
     },
     {
       "material": "HAY_BLOCK",
@@ -32660,6 +32725,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI2NWY5NmY1NGI3ODg4NWM0NmU3ZDJmODZiMWMxZGJmZTY0M2M2MDYwZmM3ZmNjOTgzNGMzZTNmZDU5NTEzNSJ9fX0=",
+      "name": "Winter Crystal",
+      "crystal": "WINTER_ISLAND",
+      "tier": "RARE",
+      "id": "WINTER_ISLAND_CRYSTAL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNTA3MTY0OCwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkNTBiYjgzM2NjYzg0ZTcwYTI0NjlmNmU0N2Q1ZDUxYWM2MGFhZTViOWY2NTFlZTdhZTM4M2ZlYTRhNDBlZCIKICAgIH0KICB9Cn0",
       "name": "Mauve Skin",
       "category": "COSMETIC",
@@ -36365,19 +36439,6 @@
       "id": "PET_ITEM_TOY_JERRY"
     },
     {
-      "material": "LEATHER_CHESTPLATE",
-      "color": "255,255,255",
-      "name": "Snow Suit Chestplate",
-      "category": "CHESTPLATE",
-      "tier": "EPIC",
-      "stats": {
-        "DEFENSE": 40,
-        "HEALTH": 100
-      },
-      "npc_sell_price": 1000,
-      "id": "SNOW_SUIT_CHESTPLATE"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDY2YTgyYWUxOTEwODNmODE3OGY0MjUwZjVlNzNlNDAwOGFiMDk4ZjBlZGUxYzBhZTVmNmE3ZjI2MTM2MzBjZiJ9fX0=",
@@ -37619,6 +37680,14 @@
       "npc_sell_price": 16,
       "museum": true,
       "id": "COW_HEAD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ2NDg3NGRmNDUyYzFkNzE3ZWRkZDBmYjNiODQ4MjAyYWQxNTU3MTI0NWFmNmZhZGUyZWNmNTE0ZjNjODBiYiJ9fX0=",
+      "name": "Cryopowder Shard",
+      "tier": "LEGENDARY",
+      "id": "CRYOPOWDER_SHARD"
     },
     {
       "material": "LEAVES",
@@ -43902,19 +43971,6 @@
       ],
       "museum": true,
       "id": "SPIDER_HAT"
-    },
-    {
-      "material": "LEATHER_LEGGINGS",
-      "color": "255,255,255",
-      "name": "Snow Suit Leggings",
-      "category": "LEGGINGS",
-      "tier": "EPIC",
-      "stats": {
-        "DEFENSE": 30,
-        "HEALTH": 75
-      },
-      "npc_sell_price": 1000,
-      "id": "SNOW_SUIT_LEGGINGS"
     },
     {
       "material": "SKULL_ITEM",
@@ -52302,19 +52358,6 @@
       "id": "BERSERKER_LEGGINGS"
     },
     {
-      "material": "LEATHER_BOOTS",
-      "color": "255,255,255",
-      "name": "Snow Suit Boots",
-      "category": "BOOTS",
-      "tier": "EPIC",
-      "stats": {
-        "DEFENSE": 25,
-        "HEALTH": 65
-      },
-      "npc_sell_price": 1000,
-      "id": "SNOW_SUIT_BOOTS"
-    },
-    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjQ4ODk4NiwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82N2Q5ZmUwNjUwMjRmZmY0YjM0Yzc4ZjkyY2QzMTUwZDZiZGZhYWI3YzM3NWEwZWU3ODUwNzZlMWE0YTI1NGU5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
@@ -56969,20 +57012,6 @@
       "name": "Cyan Lamp",
       "npc_sell_price": 500,
       "id": "LAMP_CYAN"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QxMTE5NjQzY2VjZmJlMDA0MTQxYTFlYTQwNjJmODMxNWNhNzhlNTAzOTU4YWM1MDUwNWU4NTkyYzQ0YTYwMSJ9fX0=",
-      "name": "Snow Suit Helmet",
-      "category": "HELMET",
-      "tier": "EPIC",
-      "stats": {
-        "DEFENSE": 30,
-        "HEALTH": 70
-      },
-      "npc_sell_price": 1000,
-      "id": "SNOW_SUIT_HELMET"
     },
     {
       "material": "LEATHER_LEGGINGS",
@@ -73356,6 +73385,455 @@
       "category": "COSMETIC",
       "museum": true,
       "id": "TROPICAL_BIRD_2_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk3ODk1NiwKICAicHJvZmlsZUlkIiA6ICJmYzg3ZTI3YTYwZjY0NjdhOGMwMDgyMmI2ZWY5ZTMyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbmRyZWlvX28iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjEyNGJmYjIyZDZmZjZjMDBhNzNkNWY2NzY5YjkwNzIzMTFiZGU2YzgwMTBkZjU1MWU4Njc1OGU4OTg0YjhiZiIKICAgIH0KICB9Cn0",
+      "name": "Snow Cloak",
+      "category": "CLOAK",
+      "tier": "RARE",
+      "stats": {
+        "HEALTH": 5,
+        "INTELLIGENCE": 5,
+        "WALK_SPEED": 2
+      },
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "SNOW_CLOAK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk1MzIwMywKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODg3NDUwNDk3OGJkODY4ODgwYjAwNGU4ZTYxMTEzYmI1OGExMDIzYWY4NjczN2U3NzUxMTEwOGEyNmVjMDViIgogICAgfQogIH0KfQ",
+      "name": "Snow Gloves",
+      "category": "GLOVES",
+      "stats": {
+        "HEALTH": 5,
+        "INTELLIGENCE": 5,
+        "WALK_SPEED": 2
+      },
+      "tier": "RARE",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "SNOW_GLOVES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk2Nzc3NSwKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjMDNlODdmYmZhOTAzMjQ4OTRlOTY4YmU5NmI5OTMwZDk5OGVjY2NmNjYzMmRlMDQ3YjNlOWNjNjkxMTFjYzciCiAgICB9CiAgfQp9",
+      "name": "Snow Belt",
+      "category": "BELT",
+      "stats": {
+        "HEALTH": 5,
+        "INTELLIGENCE": 5,
+        "WALK_SPEED": 2
+      },
+      "tier": "RARE",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "SNOW_BELT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk5MzM4NSwKICAicHJvZmlsZUlkIiA6ICJkMmM1MThjMzJjNTY0OGJmOTM2ZjY0YjhmZDQ1ZThjZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFjb0JlbGxzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxMmZhYTJlNzk4OTg5ZDkxMGVmYmY5MjgxYjhjYmEyNDE4NTYyMmU5YWEzNTdjNzUyODVhYTRiN2UzMzE0YmMiCiAgICB9CiAgfQp9",
+      "name": "Snow Necklace",
+      "category": "NECKLACE",
+      "stats": {
+        "HEALTH": 5,
+        "INTELLIGENCE": 5,
+        "WALK_SPEED": 2
+      },
+      "tier": "RARE",
+      "museum": true,
+      "npc_sell_price": 0,
+      "id": "SNOW_NECKLACE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI0MDdlNjZjODFiMTQ0M2MyZTdkZmM0ZDY1ODNlYjE5YzYyMmZhMjJmMzRmYmY5OWZlNmM0NWY3NmEifX19",
+      "name": "Nutcracker Helmet",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 35,
+        "HEALTH": 80,
+        "SEA_CREATURE_CHANCE": 1.5,
+        "MAGIC_FIND": 2
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 30
+        }
+      ],
+      "npc_sell_price": 1000,
+      "id": "NUTCRACKER_HELMET"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "255,255,255",
+      "name": "Snow Suit Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "EPIC",
+      "stats": {
+        "DEFENSE": 40,
+        "HEALTH": 100
+      },
+      "npc_sell_price": 1000,
+      "id": "SNOW_SUIT_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "70,52,58",
+      "name": "Nutcracker Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 30,
+        "HEALTH": 75,
+        "SEA_CREATURE_CHANCE": 1.5,
+        "MAGIC_FIND": 2
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 30
+        }
+      ],
+      "npc_sell_price": 1000,
+      "id": "NUTCRACKER_BOOTS"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,255,255",
+      "name": "Snow Suit Leggings",
+      "category": "LEGGINGS",
+      "tier": "EPIC",
+      "stats": {
+        "DEFENSE": 30,
+        "HEALTH": 75
+      },
+      "npc_sell_price": 1000,
+      "id": "SNOW_SUIT_LEGGINGS"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "255,255,255",
+      "name": "Snow Suit Boots",
+      "category": "BOOTS",
+      "tier": "EPIC",
+      "stats": {
+        "DEFENSE": 25,
+        "HEALTH": 65
+      },
+      "npc_sell_price": 1000,
+      "id": "SNOW_SUIT_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QxMTE5NjQzY2VjZmJlMDA0MTQxYTFlYTQwNjJmODMxNWNhNzhlNTAzOTU4YWM1MDUwNWU4NTkyYzQ0YTYwMSJ9fX0=",
+      "name": "Snow Suit Helmet",
+      "category": "HELMET",
+      "tier": "EPIC",
+      "stats": {
+        "DEFENSE": 30,
+        "HEALTH": 70
+      },
+      "npc_sell_price": 1000,
+      "id": "SNOW_SUIT_HELMET"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "252,47,60",
+      "name": "Nutcracker Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 45,
+        "HEALTH": 115,
+        "SEA_CREATURE_CHANCE": 1.5,
+        "MAGIC_FIND": 2
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 30
+        }
+      ],
+      "npc_sell_price": 1000,
+      "id": "NUTCRACKER_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,249,235",
+      "name": "Nutcracker Leggings",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 35,
+        "HEALTH": 85,
+        "SEA_CREATURE_CHANCE": 1.5,
+        "MAGIC_FIND": 2
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 30
+        }
+      ],
+      "npc_sell_price": 1000,
+      "id": "NUTCRACKER_LEGGINGS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjU2NjdiMTgzZDgyNGJlNmY4MjQ5MzE4NDcyYTcyN2M4OWYxMTQ2OTI2YzQ2OTVkZDA1ZjllYTk5ODRjZWQ0NSJ9fX0=",
+      "name": "Glacial Fragment",
+      "description": "A small piece of a giant glacier. Doesn't ever melt.",
+      "category": "NONE",
+      "tier": "EPIC",
+      "npc_sell_price": 200,
+      "id": "GLACIAL_FRAGMENT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4NzhhOTFlZTQyNzhkMTZlZjE1MTc1ZWQ4ZTI4NjE1NDFkZTc5NzQ3NWNmNGE0NzMyOTE1ODc2YzZlOWEifX19",
+      "name": "Walnut",
+      "category": "NONE",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 200,
+      "id": "WALNUT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDEyNDM5NCwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI4NWUyOWYyOWVjOWE5MGU0ODJlYTViODM5MWJjYjQ1NjBiYmFlMGRjZDE1ZDdjZTFkODYwMTZiNDM1NmU5OCIKICAgIH0KICB9Cn0=",
+      "name": "Blue Gift Talisman",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "id": "BLUE_GIFT_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE3ODQzMSwKICAicHJvZmlsZUlkIiA6ICJiMDU4MTFjYTdmNDk0YTM5OTZiNDU4ZjcwMmQ2MzJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVeWlsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5ZTM5ZDkxYzA0YzMwY2MxZjUzMGZlZTc5OGVlZDI3OWRkZTYwZjk1YzJlMWQxNTVjMGZkZDM2MWQwOTYyZWQiCiAgICB9CiAgfQp9",
+      "name": "Purple Gift Talisman",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "id": "PURPLE_GIFT_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE0NjQyNywKICAicHJvZmlsZUlkIiA6ICIxMzdmMjg3MjUwOTE0ZmI4YjA0ZTYwYjg4MWUwZWE2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3JtYWxpc2luZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYmQ5ODc5MmRkOTJkOTcxOTg5NDM0MWFjOTAxMmE1ODRjNDQyODU1OGZkMmM3MTJmNzhlNWYwZDRkYTg1NDcwIgogICAgfQogIH0KfQ==",
+      "name": "Gold Gift Talisman",
+      "category": "ACCESSORY",
+      "tier": "LEGENDARY",
+      "id": "GOLD_GIFT_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE5NTI3NCwKICAicHJvZmlsZUlkIiA6ICI3NmRjOWY4OTI3Y2Q0NzY5OWQ2NmYzYjBjZTZlOTRmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJQW1Ob3REcnVuayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNDdiMzdlNjdhODkxNTliZjRhY2M0YTQ0ZDQzMjhmNGVmYzAxODE2MDUxNDIyODhlNWVlZDFhYjhhZWQ5MTNjIgogICAgfQogIH0KfQ==",
+      "name": "White Gift Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "id": "WHITE_GIFT_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE2NTExMywKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOGRjM2M4NDQ5MWM0ZmYxMDNkZTZlYTAxODgwZTJkODM0MzJjZDQ4NzhiODRkNmI0MzI1M2NjNTFmZDk3OGU3IgogICAgfQogIH0KfQ==",
+      "name": "Green Gift Talisman",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "id": "GREEN_GIFT_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNlMWViYzZjMzFlZmU1NjIxMTQyNzc5YTZjNjY5MjIxYTI3MWJhZTNiMzExNTE3NWJmMDNjOTc2NjkxIn19fQ==",
+      "name": "Glacial Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "id": "GLACIAL_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJjMWE2YjI5NGFlZDQ5ZGJmMTFjNTg5NTIwODg2YjlmNWQ1M2IzMmE4OTU1YWRjZDU3ZTJkZTNiNjI5YTMxIn19fQ==",
+      "name": "Glacial Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "id": "GLACIAL_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIwYjYyZmFmMTJiOTFmNGE4ZTE0OWEyZjljYjVmOGQxNzQ0M2Y1MWVjNGQ3ZDU4ZjU5NjdlY2JiYjI5NTgifX19",
+      "name": "Glacial Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "id": "GLACIAL_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcwNTA5YTY0YzQ5NmNkZGJhNDEzNWU2NzEyYmIwNWQ5YWFkNDIwNTJhMThmZWVlZWQ3ZDQ0ZGEyYzNiZDBjYyJ9fX0=",
+      "name": "Rusty Anchor",
+      "category": "REFORGE_STONE",
+      "tier": "RARE",
+      "npc_sell_price": 1,
+      "id": "RUSTY_ANCHOR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUxNmFkYWM3OTRlNjQxY2Q4ZjJjZDY1ZmFmMmIyYzRhMDI1ZmY0YTE3ZGFlODhlNmYxYWMxNzNiZTJiOCJ9fX0=",
+      "name": "Salt Cube",
+      "category": "REFORGE_STONE",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1,
+      "id": "SALT_CUBE"
+    },
+    {
+      "material": "IRON_HOE",
+      "name": "Frozen Scythe",
+      "category": "SWORD",
+      "sword_type": "SCYTHE",
+      "tier": "RARE",
+      "stats": {
+        "DAMAGE": 80,
+        "WEAPON_ABILITY_DAMAGE": 1000
+      },
+      "ability_damage_scaling": 0.3,
+      "npc_sell_price": 100,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "ICE",
+        "amount": 50
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 10
+        }
+      ],
+      "id": "FROZEN_SCYTHE"
+    },
+    {
+      "material": "DIAMOND_HOE",
+      "name": "Glacial Scythe",
+      "category": "SWORD",
+      "sword_type": "SCYTHE",
+      "tier": "EPIC",
+      "stats": {
+        "DAMAGE": 120,
+        "INTELLIGENCE": 30,
+        "WEAPON_ABILITY_DAMAGE": 1500
+      },
+      "ability_damage_scaling": 0.3,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE"
+        }
+      ],
+      "npc_sell_price": 500,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "ICE",
+        "amount": 50
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 10
+        }
+      ],
+      "id": "GLACIAL_SCYTHE"
     },
     {
       "material": "SKULL_ITEM",

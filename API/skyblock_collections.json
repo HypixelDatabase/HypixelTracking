@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1667398735382,
-  "version": "0.16.34",
+  "lastUpdated": 1669844848942,
+  "version": "0.17.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -3069,7 +3069,7 @@
         },
         "ICE": {
           "name": "Ice",
-          "maxTiers": 10,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -3116,6 +3116,7 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Ice Bait Recipe",
+                "Glacial Ring Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3132,6 +3133,7 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Frozen Scythe Recipe",
+                "Glacial Artifact Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3151,6 +3153,14 @@
               "amountRequired": 250000,
               "unlocks": [
                 "Auger Rod Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 11,
+              "amountRequired": 500000,
+              "unlocks": [
+                "Glacial Scythe Recipe",
                 "+4 SkyBlock XP"
               ]
             }

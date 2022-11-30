@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1667943337376,
+  "lastUpdated": 1669824509524,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3755,6 +3755,123 @@
           "description": "Steal 42 presents in a single game of Grinch Simulator",
           "globalPercentUnlocked": 1
         },
+        "SNOWBALL_SNIPER": {
+          "points": 10,
+          "name": "Snowball Sniper",
+          "description": "Throw 3 players into the void using snowballs in a game of SkyWars",
+          "globalPercentUnlocked": 1
+        },
+        "RUSH": {
+          "points": 10,
+          "name": "Rush Rush Rush",
+          "description": "Complete the Holiday Madness Special Weekly Quest in Build Battle",
+          "globalPercentUnlocked": 1
+        },
+        "REAL_SANTA_2022": {
+          "points": 15,
+          "name": "Real Santa (2022)",
+          "description": "Find all 95 presents in every lobby"
+        },
+        "HOLIDAY_MIRACLE": {
+          "points": 10,
+          "name": "Holiday Miracle",
+          "description": "Claim 2 legendary gifts at the same time in Bed Wars",
+          "globalPercentUnlocked": 1
+        },
+        "BOUNCY_CASTLE": {
+          "points": 5,
+          "name": "Bouncy Castle",
+          "description": "Jump on the Bouncy Castle in the Main Lobby",
+          "globalPercentUnlocked": 1
+        },
+        "PRESENT_PRIORITIES": {
+          "points": 5,
+          "name": "Present Priorities",
+          "description": "Win a game as Murderer after collecting at least 3 presents in Murder Mystery",
+          "globalPercentUnlocked": 1
+        },
+        "HUNT_BEGINS_2022": {
+          "points": 5,
+          "name": "The Hunt Begins (2022)",
+          "description": "Find 2 lobby presents"
+        },
+        "LEGENDARY": {
+          "points": 10,
+          "name": "LEGENDARY!",
+          "description": "Find a Legendary Gift in Bed Wars, SkyWars, Blitz or Murder Mystery",
+          "globalPercentUnlocked": 1
+        },
+        "SNOW_PROBLEM": {
+          "points": 5,
+          "name": "Snow Problem",
+          "description": "Throw a snowball at a Murderer right before shooting them in Murder Mystery",
+          "globalPercentUnlocked": 1
+        },
+        "CHRISTMAS_QUEST": {
+          "points": 10,
+          "name": "Seasonal Quester",
+          "description": "Complete 5 Winter Seasonal Quests",
+          "globalPercentUnlocked": 1
+        },
+        "UH_UH": {
+          "points": 5,
+          "name": "Uh uh",
+          "description": "When tasked to shoot yourself with an arrow in Santa Says, shoot someone else",
+          "globalPercentUnlocked": 1
+        },
+        "BLACKSMITH": {
+          "points": 10,
+          "name": "Ultimate Blacksmith",
+          "description": "When given ingots in Santa Says, craft a Clock",
+          "globalPercentUnlocked": 1
+        },
+        "SUGAR_RUSH": {
+          "points": 5,
+          "name": "Sugar Rush",
+          "description": "Give sugar to a horse in Santa Says",
+          "globalPercentUnlocked": 1
+        },
+        "TODAYS_THE_DAY": {
+          "points": 5,
+          "name": "Today's the Day",
+          "description": "Claim the 25th day of an Advent Calendar",
+          "globalPercentUnlocked": 1
+        },
+        "SWEGMAS": {
+          "points": 5,
+          "name": "Swegmas",
+          "description": "Teleport at least 7 players using the Sweg Move Blitz Star in Blitz Survival Games",
+          "globalPercentUnlocked": 1
+        },
+        "ICE_KING": {
+          "points": 10,
+          "name": "Ice King",
+          "description": "Win a game of Frozen Floor in Arcade: Party Games",
+          "globalPercentUnlocked": 1
+        },
+        "FESTIVITIES": {
+          "points": 5,
+          "name": "The Snap",
+          "description": "Win any game with the Cold Snap cosmetic equipped",
+          "globalPercentUnlocked": 1
+        },
+        "EMPTY_HOUSE": {
+          "points": 10,
+          "name": "True Grinch",
+          "description": "Steal 70 presents in a game of Grinch Simulator",
+          "globalPercentUnlocked": 1
+        },
+        "NOM_NOM": {
+          "points": 5,
+          "name": "Nom nom",
+          "description": "Craft a Santa Cookie in UHC",
+          "globalPercentUnlocked": 1
+        },
+        "FRESHLY_BAKED": {
+          "points": 10,
+          "name": "Freshly Baked",
+          "description": "Get 10 kills in one game using the Cookie Cannon in Quakecraft"
+        },
         "RESPECT_YOUR_ELDER": {
           "points": 5,
           "name": "Respect your Elder",
@@ -3779,12 +3896,6 @@
           "description": "Win a SkyWars game using the Snowman Kit",
           "globalPercentUnlocked": 1
         },
-        "REAL_SANTA_2021": {
-          "points": 15,
-          "name": "Real Santa (2021)",
-          "description": "Find all 94 presents in every lobby",
-          "globalPercentUnlocked": 1
-        },
         "TO_WAR": {
           "points": 5,
           "name": "To War!",
@@ -3797,22 +3908,10 @@
           "description": "Get a kill with the Merry Projectile Trail in SkyWars",
           "globalPercentUnlocked": 1
         },
-        "SNOWBALL_SNIPER": {
-          "points": 10,
-          "name": "Snowball Sniper",
-          "description": "Throw 3 players into the void using snowballs in a game of SkyWars",
-          "globalPercentUnlocked": 1
-        },
         "BIG_BAG_O_GIFTS": {
           "points": 5,
           "name": "Big Bag o' Gifts",
           "description": "Claim 6 gifts at the same time in Bed Wars",
-          "globalPercentUnlocked": 1
-        },
-        "RUSH": {
-          "points": 10,
-          "name": "Rush Rush Rush",
-          "description": "Complete the Holiday Madness Special Weekly Quest in Build Battle",
           "globalPercentUnlocked": 1
         },
         "NEW_YEARS_CELEBRATIONS": {
@@ -3822,23 +3921,16 @@
           "secret": true,
           "globalPercentUnlocked": 1
         },
-        "HOLIDAY_MIRACLE": {
-          "points": 10,
-          "name": "Holiday Miracle",
-          "description": "Claim 2 legendary gifts at the same time in Bed Wars",
-          "globalPercentUnlocked": 1
-        },
         "DO_YOU_WANNA_BUILD_A_SNOWMAN": {
           "points": 5,
           "name": "Do you wanna build a Snowman?",
           "description": "Build a Snowman in UHC",
           "globalPercentUnlocked": 1
         },
-        "BOUNCY_CASTLE": {
-          "points": 5,
-          "name": "Bouncy Castle",
-          "description": "Jump on the Bouncy Castle in the Main Lobby",
-          "globalPercentUnlocked": 1
+        "SANTAS_NEXT_TOP_ELF": {
+          "points": 10,
+          "name": "Santa's Next Top Elf",
+          "description": "Win a round of Workshop in Party Games"
         },
         "NOT_MY_MOM": {
           "points": 5,
@@ -3852,28 +3944,26 @@
           "description": "Kill a player who was holding an Epic or Legendary gift in Bed Wars",
           "globalPercentUnlocked": 1
         },
+        "SLICE_AND_ICE": {
+          "points": 5,
+          "name": "Slice and Ice",
+          "description": "Kill a player while sliding on ice in SkyWars"
+        },
         "CLOSE_ENOUGH": {
           "points": 5,
           "name": "Close enough",
           "description": "Win a Farm Hunt game as a Chicken... Turkey?",
           "globalPercentUnlocked": 1
         },
-        "PRESENT_PRIORITIES": {
+        "NOT_SO_SECRET_SANTA": {
           "points": 5,
-          "name": "Present Priorities",
-          "description": "Win a game as Murderer after collecting at least 3 presents in Murder Mystery",
-          "globalPercentUnlocked": 1
+          "name": "Not-So-Secret Santa",
+          "description": "Buy and give someone a gift on Snowfall"
         },
         "WINTER_RUNNER": {
           "points": 5,
           "name": "Winter Runner",
           "description": "Win a game of TNT Run while wearing the Winter Hat",
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY": {
-          "points": 10,
-          "name": "LEGENDARY!",
-          "description": "Find a Legendary Gift in Bed Wars, SkyWars, Blitz or Murder Mystery",
           "globalPercentUnlocked": 1
         },
         "ICE_BREAKER": {
@@ -3901,47 +3991,21 @@
           "description": "Get hit by your own Snowman in Murder Mystery",
           "globalPercentUnlocked": 1
         },
-        "SNOW_PROBLEM": {
+        "RUDOLPHS_FAVOURITE_CARROT": {
           "points": 5,
-          "name": "Snow Problem",
-          "description": "Throw a snowball at a Murderer right before shooting them in Murder Mystery",
-          "globalPercentUnlocked": 1
-        },
-        "CHRISTMAS_QUEST": {
-          "points": 10,
-          "name": "Seasonal Quester",
-          "description": "Complete 5 Winter Seasonal Quests",
-          "globalPercentUnlocked": 1
-        },
-        "HUNT_BEGINS_2021": {
-          "points": 5,
-          "name": "The Hunt Begins (2021)",
-          "description": "Find 2 lobby presents",
-          "globalPercentUnlocked": 1
-        },
-        "UH_UH": {
-          "points": 5,
-          "name": "Uh uh",
-          "description": "When tasked to shoot yourself with an arrow in Santa Says, shoot someone else",
-          "globalPercentUnlocked": 1
-        },
-        "BLACKSMITH": {
-          "points": 10,
-          "name": "Ultimate Blacksmith",
-          "description": "When given ingots in Santa Says, craft a Clock",
-          "globalPercentUnlocked": 1
-        },
-        "SUGAR_RUSH": {
-          "points": 5,
-          "name": "Sugar Rush",
-          "description": "Give sugar to a horse in Santa Says",
-          "globalPercentUnlocked": 1
+          "name": "Rudolph's Favorite Carrot",
+          "description": "Win a game of Murder Mystery as the murderer using the Rudolphs Favourite Snack weapon skin"
         },
         "DEM_COWS": {
           "points": 5,
           "name": "Worth it",
           "description": "When tasked to kill a chicken in Santa Says, kill a cow instead",
           "globalPercentUnlocked": 1
+        },
+        "WHAT_COULD_THIS_BE": {
+          "points": 5,
+          "name": "What Could This Be?",
+          "description": "Obtain 5 Mystery Gifts in Pixel Party"
         },
         "SNOW_TURRET": {
           "points": 5,
@@ -3967,23 +4031,15 @@
           "description": "Speak to the Festive Guide in the Main Lobby",
           "globalPercentUnlocked": 1
         },
-        "TODAYS_THE_DAY": {
+        "OOOO_CHILLY": {
           "points": 5,
-          "name": "Today's the Day",
-          "description": "Claim the 25th day of an Advent Calendar",
-          "globalPercentUnlocked": 1
+          "name": "Oooo Chilly!",
+          "description": "Win a game of TNT Tag wearing the snow suit and either the Polar Bear Hat, Winter Hat or the Canada Hat"
         },
-        "SWEGMAS": {
-          "points": 5,
-          "name": "Swegmas",
-          "description": "Teleport at least 7 players using the Sweg Move Blitz Star in Blitz Survival Games",
-          "globalPercentUnlocked": 1
-        },
-        "ICE_KING": {
-          "points": 10,
-          "name": "Ice King",
-          "description": "Win a game of Frozen Floor in Arcade: Party Games",
-          "globalPercentUnlocked": 1
+        "FREEZE_DONT_MOVE": {
+          "points": 15,
+          "name": "Freeze! Don't Move",
+          "description": "Freeze 15 players in one game of TNT Wizards using the Ice Wizard class"
         },
         "ICE_SPREADER": {
           "points": 5,
@@ -3991,28 +4047,10 @@
           "description": "Punch a Frozen Skeleton Pet in a lobby",
           "globalPercentUnlocked": 1
         },
-        "FESTIVITIES": {
-          "points": 5,
-          "name": "The Snap",
-          "description": "Win any game with the Cold Snap cosmetic equipped",
-          "globalPercentUnlocked": 1
-        },
         "MELTING_KILLER": {
           "points": 10,
           "name": "Melting...",
           "description": "Obtain a kill in Mega Walls playing the Snowman class, while in water",
-          "globalPercentUnlocked": 1
-        },
-        "EMPTY_HOUSE": {
-          "points": 10,
-          "name": "True Grinch",
-          "description": "Steal 70 presents in a game of Grinch Simulator",
-          "globalPercentUnlocked": 1
-        },
-        "NOM_NOM": {
-          "points": 5,
-          "name": "Nom nom",
-          "description": "Craft a Santa Cookie in UHC",
           "globalPercentUnlocked": 1
         },
         "SHARING_IS_CARING": {
@@ -4037,6 +4075,18 @@
           "points": 15,
           "name": "Real Santa (2020)",
           "description": "Find all 94 presents in every lobby",
+          "legacy": true
+        },
+        "REAL_SANTA_2021": {
+          "points": 15,
+          "name": "Real Santa (2021)",
+          "description": "Find all 94 presents in every lobby",
+          "legacy": true
+        },
+        "HUNT_BEGINS_2021": {
+          "points": 5,
+          "name": "The Hunt Begins (2021)",
+          "description": "Find 2 lobby presents",
           "legacy": true
         },
         "STEAL_FAIRLY": {
@@ -4126,8 +4176,8 @@
             }
           ]
         },
-        "ADVENT_2021": {
-          "name": "Advent Calendar (2021)",
+        "ADVENT_2022": {
+          "name": "Advent Calendar (2022)",
           "description": "Claim %s days in the Advent Calendar",
           "tiers": [
             {
@@ -4247,6 +4297,38 @@
               "tier": 5,
               "points": 25,
               "amount": 300
+            }
+          ]
+        },
+        "ADVENT_2021": {
+          "name": "Advent Calendar (2021)",
+          "description": "Claim %s days in the Advent Calendar",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 3
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 7
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 14
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 21
             }
           ]
         },
@@ -4411,8 +4493,8 @@
           ]
         }
       },
-      "total_points": 675,
-      "total_legacy_points": 495
+      "total_points": 735,
+      "total_legacy_points": 590
     },
     "copsandcrims": {
       "one_time": {
@@ -8023,8 +8105,8 @@
         },
         "KALI_FAVOR": {
           "points": 10,
-          "name": "Kali's Favourite",
-          "description": "Raise your favour with Kali to 10 or above on Ancient Tomb",
+          "name": "Kali's Favorite",
+          "description": "Raise your favor with Kali to 10 or above on Ancient Tomb",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

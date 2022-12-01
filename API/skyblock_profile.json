@@ -3899,7 +3899,13 @@
           "zone_archaeologist_camp",
           "zone_gravel_mines",
           "zone_einarys_emporium",
-          "shop_einary"
+          "shop_einary",
+          "zone_glacial_cave",
+          "zone_reflective_pond",
+          "shop_essence_npc",
+          "zone_sherrys_showroom",
+          "zone_mount_jerry",
+          "zone_hot_springs"
         ],
         "quests": {
           "collect_log": {
@@ -4452,7 +4458,12 @@
           "grandmas_house",
           "archaeologist_camp",
           "gravel_mines",
-          "einarys_emporium"
+          "einarys_emporium",
+          "glacial_cave",
+          "reflective_pond",
+          "sherrys_showroom",
+          "mount_jerry",
+          "hot_springs"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

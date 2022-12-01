@@ -3897,7 +3897,9 @@
           "zone_arachnes_sanctuary",
           "zone_grandmas_house",
           "zone_archaeologist_camp",
-          "zone_gravel_mines"
+          "zone_gravel_mines",
+          "zone_einarys_emporium",
+          "shop_einary"
         ],
         "quests": {
           "collect_log": {
@@ -4449,7 +4451,8 @@
           "arachnes_sanctuary",
           "grandmas_house",
           "archaeologist_camp",
-          "gravel_mines"
+          "gravel_mines",
+          "einarys_emporium"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

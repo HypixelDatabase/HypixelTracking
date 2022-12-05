@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1670007148882,
+  "lastUpdated": 1670261561374,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3902,7 +3902,7 @@
         "TO_WAR": {
           "points": 5,
           "name": "To War!",
-          "description": "Join the Snowball Fight in the Main Lobby",
+          "description": "Pick up Snowballs in the Main Lobby",
           "globalPercentUnlocked": 1
         },
         "SPREADING_LOVE": {
@@ -3976,13 +3976,6 @@
           "points": 5,
           "name": "Ice Breaker",
           "description": "Punch a Frozen Zombie Pet in a lobby",
-          "globalPercentUnlocked": 1
-        },
-        "GROOPO_RETURNS": {
-          "points": 5,
-          "name": "Groopo Returns",
-          "description": "???",
-          "secret": true,
           "globalPercentUnlocked": 1
         },
         "CHRISTMAS_TOPPER": {
@@ -4079,6 +4072,12 @@
           "points": 15,
           "name": "Real Santa (2017)",
           "description": "Find all 88 presents in every lobby",
+          "legacy": true
+        },
+        "GROOPO_RETURNS": {
+          "points": 5,
+          "name": "Groopo Returns",
+          "description": "Find Groopo's hideout",
           "legacy": true
         },
         "REAL_SANTA_2020": {
@@ -4503,8 +4502,8 @@
           ]
         }
       },
-      "total_points": 735,
-      "total_legacy_points": 590
+      "total_points": 730,
+      "total_legacy_points": 595
     },
     "copsandcrims": {
       "one_time": {

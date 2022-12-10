@@ -3523,6 +3523,11 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1669399847576
+          },
+          "fetchur-9-11-2022": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1670647431429
           }
         },
         "tutorial": [
@@ -3907,7 +3912,9 @@
           "zone_mount_jerry",
           "zone_hot_springs",
           "zone_sunken_ice_pond",
-          "zone_garys_shack"
+          "zone_garys_shack",
+          "zone_terrys_shack",
+          "shop_ice_fisherman"
         ],
         "quests": {
           "collect_log": {
@@ -4467,7 +4474,8 @@
           "mount_jerry",
           "hot_springs",
           "sunken_ice_pond",
-          "garys_shack"
+          "garys_shack",
+          "terrys_shack"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

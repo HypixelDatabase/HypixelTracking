@@ -551,7 +551,8 @@
           "started": 0,
           "objectives": {
             "bowspleef": 0,
-            "tntrun": 0
+            "tntrun": 0,
+            "wizards": 0
           }
         }
       },
@@ -572,14 +573,29 @@
           {
             "time": 0
           }
-        ]
+        ],
+        "active": {
+          "started": 0,
+          "objectives": {
+            "kill": 0
+          }
+        }
       },
       "nugget_warriors": {
         "completions": [
           {
             "time": 0
           }
-        ]
+        ],
+        "active": {
+          "started": 0,
+          "objectives": {
+            "walls": 0,
+            "quake": 0,
+            "paintball": 0,
+            "vampirez": 0
+          }
+        }
       },
       "paintball_expert": {
         "completions": [
@@ -600,7 +616,17 @@
           {
             "time": 0
           }
-        ]
+        ],
+        "active": {
+          "started": 0,
+          "objectives": {
+            "blitz": 0,
+            "quake": 0,
+            "tnt": 0,
+            "paintball": 0,
+            "megawalls": 0
+          }
+        }
       },
       "space_mission": {
         "completions": [
@@ -614,7 +640,13 @@
           {
             "time": 0
           }
-        ]
+        ],
+        "active": {
+          "started": 0,
+          "objectives": {
+            "win": 0
+          }
+        }
       },
       "waller": {
         "active": {
@@ -693,7 +725,8 @@
             "tntwin": 0,
             "quake25kill": 0,
             "paintballwin": 0,
-            "vampirezkillhuman": 0
+            "vampirezkillhuman": 0,
+            "arenawin2": 0
           }
         }
       },
@@ -1954,7 +1987,9 @@
         ],
         "active": {
           "started": 0,
-          "objectives": {}
+          "objectives": {
+            "bedwars_special_weekly_santa": 0
+          }
         }
       },
       "uhc_weekly_special_cookie": {
@@ -2262,7 +2297,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "play": 0
+          },
           "started": 0
         }
       },
@@ -2604,7 +2641,9 @@
       },
       "mm_special_weekly_killer_instinct_2021": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mm_target_kills": 0
+          },
           "started": 0
         }
       },
@@ -3145,7 +3184,9 @@
         },
         "pixelparty_helmet": "",
         "pixelparty_pants": "",
-        "mystery_gifts_obtained": 0
+        "mystery_gifts_obtained": 0,
+        "delivered_santa_simulator": 0,
+        "spotted_santa_simulator": 0
       },
       "Arena": {
         "coins": 0,
@@ -3305,7 +3346,10 @@
           "packagearena_arena_rating_1_21",
           "packagearena_arena_rating_2_21",
           "kill_effect_heart_aura",
-          "packagearena_arena_rating_3_21"
+          "packagearena_arena_rating_3_21",
+          "packagearena_arena_rating_3_17",
+          "packagearena_arena_rating_6_17",
+          "packagearena_arena_rating_1_18"
         ],
         "penalty": 0,
         "rating": 0,
@@ -3587,7 +3631,11 @@
           "1587560337484_42",
           "1587560337484_5",
           "1580721173072_35",
-          "1580721173072_0"
+          "1580721173072_0",
+          "1457697956810_21",
+          "1470245863754_22",
+          "1470669752807_39",
+          "1477934719336_46"
         ],
         "paladin_plays": 0,
         "paladin_spec": "",
@@ -4268,7 +4316,33 @@
           "warlock_9",
           "horsetamer",
           "tim_8",
-          "tim_9"
+          "tim_9",
+          "scout_9",
+          "donkeytamer_pres_2",
+          "reddragon_9",
+          "pigman_7",
+          "pigman_8",
+          "pigman_9",
+          "fisherman_8",
+          "fisherman_9",
+          "creepertamer_7",
+          "creepertamer_8",
+          "creepertamer_9",
+          "phoenix_pres_1",
+          "slimeyslime_6",
+          "slimeyslime_7",
+          "slimeyslime_8",
+          "hype train_6",
+          "hype train_7",
+          "hype train_8",
+          "hype train_9",
+          "shark_1",
+          "shark_2",
+          "shark_3",
+          "shark_4",
+          "shark_5",
+          "shark_6",
+          "shark_7"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -4306,6 +4380,8 @@
           "6": "",
           "8": "",
           "9": "",
+          "10": "",
+          "11": "",
           "27": "",
           "28": "",
           "29": "",
@@ -4320,7 +4396,11 @@
           "3": "",
           "4": "",
           "7": "",
-          "8": ""
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
         },
         "BakerInventory": {
           "0": "",
@@ -4332,7 +4412,10 @@
           "6": "",
           "7": "",
           "8": "",
+          "9": "",
           "10": "",
+          "11": "",
+          "12": "",
           "14": "",
           "15": "",
           "16": "",
@@ -4354,8 +4437,13 @@
           "1": "",
           "2": "",
           "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
           "8": "",
           "9": "",
+          "10": "",
           "11": "",
           "12": "",
           "13": "",
@@ -4376,9 +4464,13 @@
           "0": "",
           "1": "",
           "2": "",
+          "3": "",
           "4": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
           "22": "",
           "24": "",
           "28": "",
@@ -4411,6 +4503,10 @@
           "6": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
           "30": "",
           "31": "",
           "32": "",
@@ -4431,6 +4527,7 @@
           "3": "",
           "4": "",
           "5": "",
+          "6": "",
           "7": "",
           "8": "",
           "28": "",
@@ -4448,6 +4545,7 @@
           "4": "",
           "5": "",
           "6": "",
+          "7": "",
           "8": "",
           "9": "",
           "10": "",
@@ -4741,6 +4839,9 @@
           "3": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
           "21": "",
           "22": "",
           "23": "",
@@ -4765,6 +4866,10 @@
           "6": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
           "31": "",
           "32": "",
           "33": "",
@@ -4780,6 +4885,8 @@
           "5": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
           "21": "",
           "22": ""
         },
@@ -4868,7 +4975,10 @@
           "3": "",
           "4": "",
           "6": "",
+          "7": "",
           "8": "",
+          "9": "",
+          "10": "",
           "28": "",
           "31": "",
           "32": "",
@@ -4886,6 +4996,8 @@
           "7": "",
           "8": "",
           "9": "",
+          "10": "",
+          "11": "",
           "24": "",
           "27": "",
           "28": "",
@@ -4967,7 +5079,9 @@
           "5": "",
           "7": "",
           "8": "",
+          "9": "",
           "10": "",
+          "11": "",
           "21": "",
           "22": "",
           "23": "",
@@ -5020,6 +5134,10 @@
           "3": "",
           "4": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
           "27": "",
           "30": "",
           "31": "",
@@ -5069,14 +5187,16 @@
         "wins_hunter": 0,
         "arrows_hit_troll": 0,
         "wins_troll": 0,
-        "togglekillcounter": true,
+        "togglekillcounter": 0,
         "votes_Egypt": 0,
         "votes_Caelum": 0,
         "CreepertamerInventory": {
           "0": "",
           "1": "",
+          "3": "",
           "4": "",
           "8": "",
+          "9": "",
           "29": "",
           "30": ""
         },
@@ -5084,11 +5204,15 @@
           "0": "",
           "1": "",
           "2": "",
+          "3": "",
           "4": "",
-          "8": ""
+          "8": "",
+          "9": "",
+          "10": ""
         },
         "MeatMasterInventory": {
           "0": "",
+          "3": "",
           "4": "",
           "7": "",
           "8": ""
@@ -5102,6 +5226,10 @@
           "5": "",
           "6": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
           "31": "",
           "32": "",
           "33": "",
@@ -5120,6 +5248,7 @@
           "2": "",
           "3": "",
           "4": "",
+          "7": "",
           "8": "",
           "9": "",
           "10": "",
@@ -5133,11 +5262,16 @@
           "0": "",
           "1": "",
           "2": "",
+          "3": "",
           "4": "",
           "5": "",
           "6": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "16": "",
+          "17": "",
           "23": "",
           "27": "",
           "31": ""
@@ -5155,6 +5289,7 @@
           "10": "",
           "11": "",
           "12": "",
+          "18": "",
           "27": "",
           "28": "",
           "29": "",
@@ -5169,7 +5304,11 @@
           "5": "",
           "6": "",
           "7": "",
-          "8": ""
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
         },
         "kit_item_rename_Archer_bow": "",
         "fancyMode": true,
@@ -5177,6 +5316,7 @@
           "0": "",
           "1": "",
           "3": "",
+          "4": "",
           "7": "",
           "8": "",
           "9": "",
@@ -5202,14 +5342,24 @@
           "6": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
           "28": "",
           "29": ""
         },
         "Hype TrainInventory": {
           "0": "",
           "1": "",
+          "3": "",
           "4": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "18": "",
+          "19": "",
           "20": "",
           "21": "",
           "23": "",
@@ -5276,8 +5426,13 @@
         "VikingInventory": {
           "0": "",
           "1": "",
+          "3": "",
           "5": "",
+          "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
           "28": "",
           "29": "",
           "30": ""
@@ -5536,6 +5691,9 @@
           "3": "",
           "8": "",
           "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
           "16": "",
           "17": "",
           "19": "",
@@ -5946,7 +6104,12 @@
           "0": "",
           "1": "",
           "2": "",
-          "3": ""
+          "3": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
         },
         "kit_item_rename_Jockey_stone_sword_dust": "",
         "kit_item_rename_Wolftamer_stone_sword_dust": "",
@@ -5977,6 +6140,9 @@
           "6": "",
           "7": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
           "30": "",
           "31": "",
           "32": "",
@@ -6166,6 +6332,9 @@
           "4": "",
           "6": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
           "21": "",
           "22": "",
           "30": "",
@@ -6220,6 +6389,9 @@
           "4": "",
           "5": "",
           "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
           "29": "",
           "30": "",
           "31": "",
@@ -6289,7 +6461,10 @@
           "3": "",
           "4": "",
           "6": "",
-          "8": ""
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": ""
         },
         "arrows_fired_warlock": 0,
         "chests_opened_warlock": 0,
@@ -6348,7 +6523,154 @@
         "inGamePresentsCap_2022_23": 0,
         "inGamePresentsCap_2022_24": 0,
         "inGamePresentsCap_2022_25": 0,
-        "wins_teams_blaze": 0
+        "wins_teams_blaze": 0,
+        "arrows_fired_hype train": 0,
+        "tourney_blitz_duo_1_chests_opened_archer": 0,
+        "tourney_blitz_duo_1_damage_archer": 0,
+        "tourney_blitz_duo_1_damage_taken_archer": 0,
+        "tourney_blitz_duo_1_exp_archer": 0,
+        "tourney_blitz_duo_1_games_played_archer": 0,
+        "tourney_blitz_duo_1_time_played_archer": 0,
+        "tourney_blitz_duo_1_arrows_fired_archer": 0,
+        "tourney_blitz_duo_1_potions_drunk_archer": 0,
+        "tourney_blitz_duo_1_arrows_hit_archer": 0,
+        "votes_Citadel": 0,
+        "votes_Aelin's Tower": 0,
+        "votes_Egypt ": 0,
+        "kit_permutations_knight": "",
+        "votes_Mirador Basin": 0,
+        "votes_Mithril Revived": 0,
+        "votes_Cattle Drive": 0,
+        "kit_item_rename_Knight_stone_sword": "",
+        "votes_Pixelville": 0,
+        "kit_permutations_hunter": "",
+        "kit_permutations_scout": "",
+        "kit_permutations_armorer": "",
+        "kit_permutations_meatmaster": "",
+        "kit_permutations_astronaut": "",
+        "kit_permutations_creepertamer": "",
+        "kit_permutations_shadow knight": "",
+        "kit_permutations_blaze": "",
+        "kit_permutations_paladin": "",
+        "kit_permutations_wolftamer": "",
+        "kit_permutations_toxicologist": "",
+        "kit_permutations_necromancer": "",
+        "kit_permutations_arachnologist": "",
+        "kit_permutations_reddragon": "",
+        "kit_permutations_horsetamer": "",
+        "kit_permutations_tim": "",
+        "votes_Greece": 0,
+        "kit_item_rename_Arachnologist_stone_sword": "",
+        "votes_KTulu Island": 0,
+        "kit_item_rename_RedDragon_stone_axe": "",
+        "votes_Peaks": 0,
+        "kit_item_rename_Hunter_leather_chestplate": "",
+        "kit_item_rename_Hunter_leather_leggings": "",
+        "kit_item_rename_Hunter_leather_boots": "",
+        "kit_item_rename_MeatMaster_diamond_helmet": "",
+        "kit_item_rename_MeatMaster_iron_boots": "",
+        "RedDragonInventory": {
+          "0": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        "TimInventory": {
+          "0": "",
+          "3": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": ""
+        },
+        "kit_item_rename_RedDragon_leather_chestplate": "",
+        "kit_item_rename_RedDragon_leather_leggings": "",
+        "kit_item_rename_RedDragon_iron_boots": "",
+        "kit_item_rename_Pigman_leather_leggings": "",
+        "kit_item_rename_Pigman_leather_boots": "",
+        "potions_drunk_arachnologist": 0,
+        "arrows_fired_arachnologist": 0,
+        "wins_teams_arachnologist": 0,
+        "votes_Pandora": 0,
+        "wins_teams_toxicologist": 0,
+        "potions_drunk_reddragon": 0,
+        "mobs_spawned_reddragon": 0,
+        "kills_reddragon": 0,
+        "games_played_reddragon": 0,
+        "damage_reddragon": 0,
+        "damage_taken_reddragon": 0,
+        "chests_opened_reddragon": 0,
+        "potions_thrown_reddragon": 0,
+        "exp_reddragon": 0,
+        "time_played_reddragon": 0,
+        "DiverInventory": {
+          "0": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": ""
+        },
+        "taunt_kills_reddragon": 0,
+        "arrows_hit_reddragon": 0,
+        "kit_item_rename_Donkeytamer_iron_sword": "",
+        "inGamePresentsCap_2019_8": 0,
+        "inGamePresentsCap_2019_10": 0,
+        "inGamePresentsCap_2019_15": 0,
+        "inGamePresentsCap_2019_17": 0,
+        "inGamePresentsCap_2019_22": 0,
+        "inGamePresentsCap_2019_27": 0,
+        "inGamePresentsCap_2019_28": 0,
+        "inGamePresentsCap_2019_30": 0,
+        "mobs_spawned_viking": 0,
+        "pphoenix": 0,
+        "kit_item_rename_Phoenix_leather_leggings": "",
+        "kit_item_rename_Phoenix_gold_helmet": "",
+        "kit_item_rename_Phoenix_leather_chestplate": "",
+        "kit_item_rename_Phoenix_gold_boots": "",
+        "kit_item_rename_Phoenix_gold_sword": "",
+        "tourney_blitz_duo_1_arrows_fired_blaze": 0,
+        "tourney_blitz_duo_1_potions_thrown_blaze": 0,
+        "tourney_blitz_duo_1_taunt_kills_blaze": 0,
+        "tourney_blitz_duo_1_exp_scout": 0,
+        "tourney_blitz_duo_1_taunt_kills_warrior": 0,
+        "tourney_blitz_duo_1_arrows_fired_hunter": 0,
+        "tourney_blitz_duo_1_arrows_hit_hunter": 0,
+        "tourney_blitz_duo_1_chests_opened_hunter": 0,
+        "tourney_blitz_duo_1_damage_hunter": 0,
+        "tourney_blitz_duo_1_damage_taken_hunter": 0,
+        "tourney_blitz_duo_1_exp_hunter": 0,
+        "tourney_blitz_duo_1_games_played_hunter": 0,
+        "tourney_blitz_duo_1_kills_hunter": 0,
+        "tourney_blitz_duo_1_mobs_spawned_hunter": 0,
+        "tourney_blitz_duo_1_potions_drunk_hunter": 0,
+        "tourney_blitz_duo_1_potions_thrown_hunter": 0,
+        "tourney_blitz_duo_1_time_played_hunter": 0,
+        "tourney_blitz_duo_1_arrows_fired_scout": 0,
+        "tourney_blitz_duo_1_arrows_hit_scout": 0,
+        "tourney_blitz_duo_1_kills_scout": 0,
+        "tourney_blitz_duo_1_arrows_fired_meatmaster": 0,
+        "tourney_blitz_duo_1_arrows_hit_meatmaster": 0,
+        "tourney_blitz_duo_1_chests_opened_meatmaster": 0,
+        "tourney_blitz_duo_1_damage_meatmaster": 0,
+        "tourney_blitz_duo_1_damage_taken_meatmaster": 0,
+        "tourney_blitz_duo_1_exp_meatmaster": 0,
+        "tourney_blitz_duo_1_games_played_meatmaster": 0,
+        "tourney_blitz_duo_1_kills_meatmaster": 0,
+        "tourney_blitz_duo_1_mobs_spawned_meatmaster": 0,
+        "tourney_blitz_duo_1_potions_drunk_meatmaster": 0,
+        "tourney_blitz_duo_1_potions_thrown_meatmaster": 0,
+        "tourney_blitz_duo_1_taunt_kills_meatmaster": 0,
+        "tourney_blitz_duo_1_time_played_meatmaster": 0,
+        "tourney_blitz_duo_1_wins_teams_meatmaster": 0,
+        "privategames": {
+          "enable_max_kits_and_kill_effects": true
+        }
       },
       "MCGO": {
         "bombs_defused": 0,
@@ -6489,7 +6811,17 @@
           "desert_eagle_plus",
           "auto_shotgun_clip",
           "handgun_clip",
-          "achievement_flag_8"
+          "achievement_flag_8",
+          "bowie",
+          "p90_plus",
+          "mp5_plus",
+          "ak_47_plus",
+          "m4_plus",
+          "steyr_aug_plus",
+          "pump_action_plus",
+          "spas_12_plus",
+          "bullpup_clip",
+          "usp_whisper_plus"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -6649,7 +6981,9 @@
         "speed_boosts_collected_gungame": 0,
         "game_wins_castle": 0,
         "game_wins_ruins": 0,
-        "game_wins_atomic v2": 0
+        "game_wins_atomic v2": 0,
+        "selectedScopedRifleDev": "",
+        "selectedAutoShotgunDev": ""
       },
       "Paintball": {
         "coins": 0,
@@ -6921,7 +7255,27 @@
           "achievement_flag_2",
           "trigger.one_point_eight_five",
           "budderkit_boots",
-          "beam.power"
+          "beam.power",
+          "invaderkit_boots",
+          "spacekit_boots",
+          "slimekit_boots",
+          "snowkit_boots",
+          "specopskit_boots",
+          "swatkit_boots",
+          "marinekit_boots",
+          "commander_boots",
+          "majestic_boots",
+          "budderkit_leggings",
+          "snowkit_leggings",
+          "slimekit_leggings",
+          "spacekit_leggings",
+          "revengekit_leggings",
+          "invaderkit_leggings",
+          "librarianhat",
+          "bouncyhat",
+          "radianthat",
+          "beam.bubbles",
+          "beam.flames"
         ],
         "sight": "",
         "trigger": "",
@@ -7301,7 +7655,64 @@
           "dje_magic",
           "troll",
           "rainbow",
-          "snow"
+          "snow",
+          "slime",
+          "water",
+          "lava",
+          "dje_shovel",
+          "trail_smoke",
+          "elite",
+          "majestic",
+          "marine",
+          "swat",
+          "special_ops",
+          "invader",
+          "revenge",
+          "space",
+          "medieval",
+          "magic",
+          "enchantment",
+          "emeralds",
+          "portal",
+          "dje_spell",
+          "dje_lava",
+          "dje_flame",
+          "final",
+          "friedchicken",
+          "heartbreak",
+          "hypnotic",
+          "artist",
+          "vacation",
+          "tripped",
+          "bet",
+          "fighter",
+          "boogie",
+          "call_of_the_void",
+          "eaten",
+          "staring",
+          "spleefed",
+          "oops",
+          "trail_white_smoke",
+          "new_tntrun_slowness_potions_2_3",
+          "new_tntrun_speed_potions_2_3",
+          "new_pvprun_regeneration_2_5",
+          "new_pvprun_notoriety_2_5",
+          "new_pvprun_fortitude_2_5",
+          "crayon",
+          "trail_ender",
+          "golden",
+          "lapis",
+          "nature",
+          "dje_portal",
+          "dje_snow",
+          "trail_lava",
+          "trail_angry_villager",
+          "trail_fire",
+          "trail_magic",
+          "trail_water",
+          "sunrise",
+          "ocean",
+          "pastel"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -7484,7 +7895,8 @@
         "deaths_tourney_tnt_run_0": 0,
         "wins_tourney_tnt_run_0": 0,
         "deaths_tntag": 0,
-        "new_hydrowizard_assists": 0
+        "new_hydrowizard_assists": 0,
+        "votes_Dome": 0
       },
       "UHC": {
         "coins": 0,
@@ -7754,7 +8166,14 @@
         "perk_toolsmithing_prestige": 0,
         "perk_armorsmith_prestige": 0,
         "privategames": {
-          "team_size": ""
+          "team_size": "",
+          "mode": "",
+          "border_shrink": "",
+          "game_length": "",
+          "grace_period": "",
+          "disable_recipes": true,
+          "all_recipes": true,
+          "infinite_crafts": true
         },
         "perk_survivalism_prestige": 0,
         "kit_ECOLOGIST": 0,
@@ -7793,7 +8212,10 @@
         "kills_red_vs_blue": 0,
         "kills_vanilla_doubles": 0,
         "wins_red_vs_blue": 0,
-        "wins_solo_brawl": 0
+        "wins_solo_brawl": 0,
+        "monthly_wins_a": 0,
+        "monthly_kills_a": 0,
+        "monthly_wins__b": 0
       },
       "VampireZ": {
         "blood": true,
@@ -7991,7 +8413,9 @@
           "grim_reaper_toggle",
           "guitarist_toggle",
           "bomberman_toggle",
-          "ready_toggle"
+          "ready_toggle",
+          "master_troll_toggle",
+          "chemist_toggle"
         ],
         "ready": 0,
         "redstone_expert": 0,
@@ -8087,6 +8511,7 @@
           "31": "",
           "32": "",
           "33": "",
+          "34": "",
           "35": ""
         },
         "InventoryLayout": {
@@ -8171,7 +8596,14 @@
         },
         "blacksmith_starter": 0,
         "no_starting_tools": true,
-        "no_starting_armor": true
+        "no_starting_armor": true,
+        "votes_Dwarven": 0,
+        "votes_Castle": 0,
+        "votes_LoveLand": 0,
+        "votes_Jungle": 0,
+        "votes_Candyland": 0,
+        "votes_Egypt": 0,
+        "votes_Saraat": 0
       },
       "Walls3": {
         "blood": true,
@@ -8362,8 +8794,10 @@
           "10": "",
           "17": "",
           "23": "",
+          "26": "",
           "28": "",
-          "32": ""
+          "32": "",
+          "35": ""
         },
         "skeleton_a": 0,
         "skeleton_b": 0,
@@ -9238,7 +9672,8 @@
             "skill_level_a": 0,
             "skill_level_b": 0,
             "skill_level_c": 0,
-            "skill_level_g": 0
+            "skill_level_g": 0,
+            "prestige": 0
           },
           "cow": {
             "unlocked": true,
@@ -15728,7 +16163,47 @@
         "assassin_c_activations": 0,
         "assassin_c_activations_standard": 0,
         "assassin_g_activations": 0,
-        "assassin_g_activations_standard": 0
+        "assassin_g_activations_standard": 0,
+        "weeklyKills_Creeper": 0,
+        "assists_Creeper": 0,
+        "weeklyDeaths_Creeper": 0,
+        "votes_City": 0,
+        "zombie_b_defender_assists": 0,
+        "zombie_b_total_kills_face_off": 0,
+        "zombie_b_defender_assists_face_off": 0,
+        "zombie_b_assists_face_off": 0,
+        "herobrine_b_total_final_kills_face_off": 0,
+        "herobrine_b_final_assists_face_off": 0,
+        "arcanist_a_kills_melee_behind_face_off": 0,
+        "arcanist_a_kills_face_off": 0,
+        "arcanist_a_kills_melee_face_off": 0,
+        "arcanist_losses_face_off": 0,
+        "arcanist_a_total_kills_face_off": 0,
+        "arcanist_a_defender_kills_face_off": 0,
+        "skeleton_damage_dealt_face_off": 0,
+        "skeleton_a_damage_dealt_face_off": 0,
+        "werewolf_a_defender_assists_face_off": 0,
+        "wins_Creeper": 0,
+        "weeklyWins_practice_Skeleton": 0,
+        "wins_practice_Skeleton": 0,
+        "kills_new_Skeleton": 0,
+        "deaths_new_Skeleton": 0,
+        "skeleton_beds_placed_standard": 0,
+        "skeleton_games_beds_placed": 0,
+        "skeleton_beds_crafted": 0,
+        "skeleton_games_beds_placed_standard": 0,
+        "skeleton_beds_placed": 0,
+        "skeleton_beds_crafted_standard": 0,
+        "dreadlord_new_d": 0,
+        "herobrine_new_d": 0,
+        "herobrine_new_a": 0,
+        "herobrine_new_b": 0,
+        "herobrine_new_c": 0,
+        "herobrine_new_g": 0,
+        "zombie_new_d": 0,
+        "zombie_new_a": 0,
+        "enderman_new_d": 0,
+        "enderman_new_a": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -15840,7 +16315,48 @@
           "divisiongingerbread_tkr_points__1_2022",
           "yellow_kart_dragon_tamer_unlocked",
           "helmet_5_5_unlocked",
-          "divisiongingerbread_tkr_points__2_2022"
+          "divisiongingerbread_tkr_points__2_2022",
+          "helmet_4_1_unlocked",
+          "helmet_5_1_unlocked",
+          "helmet_5_2_unlocked",
+          "helmet_7_3_unlocked",
+          "helmet_7_2_unlocked",
+          "helmet_6_1_unlocked",
+          "helmet_6_2_unlocked",
+          "helmet_7_1_unlocked",
+          "helmet_9_3_unlocked",
+          "helmet_9_2_unlocked",
+          "helmet_8_3_unlocked",
+          "helmet_8_2_unlocked",
+          "kloon_unlocked",
+          "road_driver_unlocked",
+          "tricycle_unlocked",
+          "klaxon_unlocked",
+          "busy_taxi_unlocked",
+          "alien_unlocked",
+          "helmet_10_4_unlocked",
+          "helmet_1_4_unlocked",
+          "helmet_1_6_unlocked",
+          "helmet_1_7_unlocked",
+          "helmet_4_4_unlocked",
+          "helmet_7_6_unlocked",
+          "helmet_11_2_unlocked",
+          "helmet_6_4_unlocked",
+          "blue_kart_joyful_beamer_unlocked",
+          "white_kart_blue_eagle_unlocked",
+          "white_kart_ocean_breezer_unlocked",
+          "yellow_kart_cyber_circuit_unlocked",
+          "helmet_7_5_unlocked",
+          "helmet_7_4_unlocked",
+          "helmet_8_4_unlocked",
+          "helmet_5_4_unlocked",
+          "helmet_9_7_unlocked",
+          "helmet_4_5_unlocked",
+          "helmet_4_7_unlocked",
+          "helmet_9_4_unlocked",
+          "helmet_4_6_unlocked",
+          "helmet_9_5_unlocked",
+          "helmet_7_8_unlocked"
         ],
         "horn": "",
         "box_pickups": 0,
@@ -16890,7 +17406,38 @@
           "victorydance_winter_twister",
           "victorydance_snow_bomber",
           "killeffect_present_rain",
-          "cage_penguin"
+          "cage_penguin",
+          "favoritemap_firelink shrine",
+          "mega_tank0",
+          "cage_pumpkin_lockup",
+          "solo_necromancer0",
+          "solo_necromancer1",
+          "balloon_mistletoe",
+          "balloon_carrot",
+          "deathcry_squeal",
+          "killmessages_buzz",
+          "balloon_easter_bunny",
+          "sprays_easter_basket",
+          "sprays_egg_hunt",
+          "balloon_painted_egg",
+          "sprays_rabbit_costume",
+          "sprays_egg_surprise",
+          "projectiletrail_bee",
+          "balloon_bee",
+          "sprays_golden_egg",
+          "balloon_creeper_egg",
+          "balloon_chick",
+          "sprays_choc_feast",
+          "victorydance_swarm",
+          "deathcry_squeak",
+          "projectiletrail_crayon",
+          "cage_potion",
+          "sprays_skeleton_wave",
+          "sprays_fake_vampire",
+          "sprays_perfect_sword_throw",
+          "cage_disco-cage",
+          "killeffect_shattered",
+          "killeffect_pumpkin_popper"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -20406,7 +20953,10 @@
         "kit_mega_mega_armorer_inventory": {
           "DIAMOND_BOOTS:0": "",
           "POTION:8": "",
-          "DIAMOND_CHESTPLATE:0": ""
+          "DIAMOND_CHESTPLATE:0": "",
+          "POTION:1": "",
+          "IRON_BOOTS:0": "",
+          "IRON_CHESTPLATE:0": ""
         },
         "kit_mega_mega_baseball-player_inventory": {
           "LEATHER_CHESTPLATE:0": "",
@@ -23211,7 +23761,121 @@
         "inGamePresentsCap_2022_1": 0,
         "assists_kit_mythical_cryomancer": 0,
         "longest_bow_kill_kit_mythical_cryomancer": 0,
-        "melee_kills_kit_mythical_cryomancer": 0
+        "melee_kills_kit_mythical_cryomancer": 0,
+        "assists_kit_ranked_ranked_default": 0,
+        "combatTracker": true,
+        "kit_mega_mega_armorer_inventory_auto_equip_armor": true,
+        "votes_Firelink Shrine": 0,
+        "bow_kills_kit_basic_solo_snowman": 0,
+        "longest_bow_kill_tourney_kit_defending_team_armorer": 0,
+        "fall_kills_kit_defending_team_farmer": 0,
+        "challenge_attempts_8_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_archer_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_no_block_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_no_chest_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_paper_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_rookie_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_uhc_kit_basic_solo_baseball-player": 0,
+        "challenge_attempts_ultimate_warrior_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_8_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_archer_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_no_block_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_no_chest_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_paper_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_rookie_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_uhc_kit_basic_solo_baseball-player": 0,
+        "challenge_wins_ultimate_warrior_kit_basic_solo_baseball-player": 0,
+        "skywars_golden_boxes": 0,
+        "shard_tourney_kit_defending_team_farmer": 0,
+        "deaths_kit_mega_mega_paladin": 0,
+        "losses_kit_mega_mega_paladin": 0,
+        "assists_kit_mega_mega_paladin": 0,
+        "most_kills_game_lab_kit_attacking_team_default": 0,
+        "kills_lab_kit_attacking_team_default": 0,
+        "melee_kills_lab_kit_attacking_team_default": 0,
+        "fastest_win_lab_kit_attacking_team_default": 0,
+        "void_kills_lab_kit_attacking_team_default": 0,
+        "killstreak_lab_kit_attacking_team_default": 0,
+        "assists_lab_kit_attacking_team_default": 0,
+        "winstreak_lab_kit_attacking_team_default": 0,
+        "wins_lab_kit_attacking_team_default": 0,
+        "time_played_lab_kit_advanced_solo_cannoneer": 0,
+        "kills_lab_kit_advanced_solo_cannoneer": 0,
+        "losses_lab_kit_advanced_solo_cannoneer": 0,
+        "games_lab_kit_advanced_solo_cannoneer": 0,
+        "melee_kills_lab_kit_advanced_solo_cannoneer": 0,
+        "deaths_lab_kit_advanced_solo_cannoneer": 0,
+        "chests_opened_lab_kit_advanced_solo_cannoneer": 0,
+        "survived_players_lab_kit_advanced_solo_cannoneer": 0,
+        "fastest_win_lab_kit_advanced_solo_cannoneer": 0,
+        "killstreak_lab_kit_advanced_solo_cannoneer": 0,
+        "wins_lab_kit_advanced_solo_cannoneer": 0,
+        "winstreak_lab_kit_advanced_solo_cannoneer": 0,
+        "most_kills_game_lab_kit_advanced_solo_cannoneer": 0,
+        "void_kills_lab_kit_advanced_solo_cannoneer": 0,
+        "mob_kills_lab_kit_advanced_solo_cannoneer": 0,
+        "arrows_shot_kit_ranked_ranked_default": 0,
+        "lab_win_tnt_madness_lab_kit_basic_solo_speleologist": 0,
+        "heads_eww_kit_attacking_team_fisherman": 0,
+        "heads_succulent_kit_supporting_team_armorsmith": 0,
+        "heads_eww_kit_supporting_team_armorsmith": 0,
+        "challenge_attempts_no_block_kit_supporting_team_troll": 0,
+        "losses_kit_supporting_team_troll": 0,
+        "challenge_attempts_paper_kit_supporting_team_troll": 0,
+        "challenge_attempts_no_chest_kit_supporting_team_troll": 0,
+        "deaths_kit_supporting_team_troll": 0,
+        "challenge_attempts_archer_kit_supporting_team_troll": 0,
+        "challenge_attempts_uhc_kit_supporting_team_troll": 0,
+        "challenge_attempts_kit_supporting_team_troll": 0,
+        "challenge_attempts_ultimate_warrior_kit_supporting_team_troll": 0,
+        "challenge_attempts_half_health_kit_supporting_team_troll": 0,
+        "challenge_attempts_8_kit_supporting_team_troll": 0,
+        "challenge_attempts_rookie_kit_supporting_team_troll": 0,
+        "challenge_wins_ultimate_warrior_kit_supporting_team_pyro": 0,
+        "challenge_wins_rookie_kit_supporting_team_pyro": 0,
+        "challenge_attempts_archer_kit_supporting_team_pyro": 0,
+        "challenge_wins_kit_supporting_team_pyro": 0,
+        "challenge_wins_archer_kit_supporting_team_pyro": 0,
+        "challenge_attempts_uhc_kit_supporting_team_pyro": 0,
+        "challenge_wins_paper_kit_supporting_team_pyro": 0,
+        "challenge_attempts_kit_supporting_team_pyro": 0,
+        "challenge_attempts_8_kit_supporting_team_pyro": 0,
+        "challenge_wins_half_health_kit_supporting_team_pyro": 0,
+        "challenge_attempts_half_health_kit_supporting_team_pyro": 0,
+        "challenge_attempts_rookie_kit_supporting_team_pyro": 0,
+        "challenge_wins_8_kit_supporting_team_pyro": 0,
+        "challenge_attempts_ultimate_warrior_kit_supporting_team_pyro": 0,
+        "challenge_attempts_paper_kit_supporting_team_pyro": 0,
+        "challenge_wins_uhc_kit_supporting_team_pyro": 0,
+        "challenge_attempts_no_block_kit_supporting_team_pyro": 0,
+        "challenge_attempts_no_chest_kit_supporting_team_pyro": 0,
+        "challenge_wins_no_chest_kit_supporting_team_pyro": 0,
+        "challenge_wins_no_block_kit_supporting_team_pyro": 0,
+        "heads_kit_attacking_team_hunter": 0,
+        "heads_tasty_kit_attacking_team_hunter": 0,
+        "winstreak_kit_supporting_team_zookeeper": 0,
+        "bow_kills_kit_supporting_team_zookeeper": 0,
+        "assists_tourney_kit_attacking_team_knight": 0,
+        "void_kills_tourney_kit_attacking_team_knight": 0,
+        "longest_bow_shot_tourney_kit_attacking_team_knight": 0,
+        "chests_opened_tourney_kit_mythical_end-lord": 0,
+        "deaths_tourney_kit_mythical_end-lord": 0,
+        "losses_tourney_kit_mythical_end-lord": 0,
+        "survived_players_tourney_kit_mythical_end-lord": 0,
+        "time_played_tourney_kit_mythical_end-lord": 0,
+        "games_tourney_kit_supporting_team_zookeeper": 0,
+        "bow_kills_tourney_kit_attacking_team_scout": 0,
+        "longest_bow_kill_tourney_kit_attacking_team_scout": 0,
+        "void_kills_tourney_kit_mining_team_speleologist": 0,
+        "heads_decent_kit_supporting_team_zookeeper": 0,
+        "heads_eww_kit_supporting_team_zookeeper": 0,
+        "heads_kit_supporting_team_zookeeper": 0,
+        "heads_meh_kit_supporting_team_zookeeper": 0,
+        "heads_salty_kit_supporting_team_zookeeper": 0,
+        "heads_decent_kit_supporting_team_pharaoh": 0,
+        "heads_kit_supporting_team_pharaoh": 0,
+        "heads_meh_kit_supporting_team_pharaoh": 0,
+        "heads_salty_kit_supporting_team_pharaoh": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -23474,7 +24138,8 @@
               "smasher_normal": 0,
               "smashed_normal": 0,
               "smashed_teams": 0,
-              "kills_teams": 0
+              "kills_teams": 0,
+              "smasher_teams": 0
             },
             "damage_dealt_2v2": 0,
             "win_streak_2v2": 0,
@@ -23514,7 +24179,8 @@
             "reinforcements": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "kills_normal": 0,
             "smasher_normal": 0,
@@ -23618,12 +24284,14 @@
             "homing_missiles": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "monster_charge": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "frostbolt": {
               "smashed": 0,
@@ -23804,7 +24472,9 @@
             },
             "cake_storm": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "smashed": 0,
             "smasher_2v2": 0,
@@ -23846,7 +24516,8 @@
             },
             "botmubile": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "laser_cannon": {
               "smashed": 0,
@@ -23872,11 +24543,13 @@
             "losses_2v2": 0,
             "frostbolt": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "swing_pin": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "monster_charge": {
               "smashed_2v2": 0,
@@ -23885,7 +24558,8 @@
             },
             "force_pull": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "smasher_teams": 0,
             "ki_blast": {
@@ -23903,7 +24577,8 @@
             "throw_cake": {
               "smashed_teams": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "rocket_punch": {
               "smashed": 0,
@@ -23913,7 +24588,8 @@
             "flaming_desert_eagle": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "void_slash": {
               "smashed_teams": 0,
@@ -23954,16 +24630,19 @@
             },
             "force_lightning": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "seismic_slam": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "homing_missiles": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "grappling_hook": {
               "smashed_2v2": 0,
@@ -23993,11 +24672,13 @@
             },
             "fir_ma_lazer": {
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_2v2": 0
             },
             "defecake": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "boom": {
               "smashed": 0,
@@ -24005,13 +24686,22 @@
             },
             "notched_bow": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "shield_bash": {
               "smashed_2v2": 0,
               "smashed": 0
             },
-            "losses_teams": 0
+            "losses_teams": 0,
+            "friend_losses": 0,
+            "friend_losses_normal": 0,
+            "friend_wins": 0,
+            "friend_wins_normal": 0,
+            "telepunch": {
+              "smashed_2v2": 0,
+              "smashed": 0
+            }
           },
           "TINMAN": {
             "kills": 0,
@@ -24430,7 +25120,8 @@
               "smashed": 0,
               "smashed_teams": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "damage_dealt_3v3": 0
             },
             "melee": {
               "kills": 0,
@@ -24448,7 +25139,8 @@
               "damage_dealt_teams": 0,
               "kills_teams": 0,
               "smasher_teams": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "damage_dealt_3v3": 0
             },
             "monster_charge": {
               "damage_dealt": 0,
@@ -24465,7 +25157,11 @@
               "smasher_teams": 0,
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "damage_dealt_3v3": 0,
+              "smasher_3v3": 0,
+              "kills_3v3": 0,
+              "smashed_teams": 0
             },
             "games": 0,
             "deaths_normal": 0,
@@ -24486,7 +25182,10 @@
               "smasher_teams": 0,
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "kills_3v3": 0,
+              "damage_dealt_3v3": 0,
+              "smasher_3v3": 0
             },
             "deaths": 0,
             "damage_dealt_normal": 0,
@@ -24508,7 +25207,8 @@
               "smashed": 0,
               "smashed_normal": 0,
               "smashed_2v2": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "damage_dealt_3v3": 0
             },
             "smashed": 0,
             "smashed_normal": 0,
@@ -24535,7 +25235,8 @@
               "smashed": 0,
               "smashed_2v2": 0,
               "smashed_normal": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_3v3": 0
             },
             "win_streak_2v2": 0,
             "kills_2v2": 0,
@@ -24561,7 +25262,9 @@
             "force_lightning": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_3v3": 0,
+              "smashed_teams": 0
             },
             "web_shot": {
               "smashed_2v2": 0,
@@ -24578,7 +25281,8 @@
             "swing_pin": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "spooder_buddies": {
               "smashed_normal": 0,
@@ -24592,7 +25296,8 @@
             "throw_cake": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "friend_wins": 0,
             "friend_wins_normal": 0,
@@ -24639,7 +25344,8 @@
             "force_pull": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "overload": {
               "smashed": 0,
@@ -24678,7 +25384,9 @@
             "ki_blast": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0,
+              "smashed_3v3": 0
             },
             "spider_kick": {
               "smashed": 0,
@@ -24723,7 +25431,8 @@
             "freezing_breath": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "dash": {
               "smashed_normal": 0,
@@ -24775,7 +25484,16 @@
               "smashed": 0,
               "smashed_2v2": 0,
               "smashed_teams": 0
-            }
+            },
+            "games_3v3": 0,
+            "kills_3v3": 0,
+            "deaths_3v3": 0,
+            "damage_dealt_3v3": 0,
+            "smasher_3v3": 0,
+            "smashed_3v3": 0,
+            "losses_3v3": 0,
+            "friend_losses": 0,
+            "friend_losses_normal": 0
           },
           "CAKE_MONSTER": {
             "swing_pin": {
@@ -24948,7 +25666,8 @@
             },
             "rocket_punch": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "bazooka": {
               "smashed": 0,
@@ -25041,7 +25760,8 @@
             "frostbolt": {
               "smashed": 0,
               "smashed_teams": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "telepunch": {
               "smashed_normal": 0,
@@ -25124,7 +25844,9 @@
             "static_laser": {
               "smashed": 0,
               "smashed_2v2": 0
-            }
+            },
+            "friend_losses_normal": 0,
+            "friend_losses": 0
           },
           "MARAUDER": {
             "melee": {
@@ -25266,7 +25988,8 @@
             },
             "spooder_buddies": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "boulder": {
               "smashed": 0,
@@ -25403,12 +26126,14 @@
             "losses_teams": 0,
             "shield_bash": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "egg_bazooka": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "boom": {
               "smashed_2v2": 0,
@@ -25417,7 +26142,8 @@
             },
             "dash": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "supersonic_bark": {
               "smashed_2v2": 0,
@@ -25426,7 +26152,8 @@
             "freezing_breath": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "defecake": {
               "smashed_2v2": 0,
@@ -25446,8 +26173,13 @@
             "one_v_one_losses": 0,
             "grenade": {
               "smashed": 0,
-              "smashed_2v2": 0
-            }
+              "smashed_2v2": 0,
+              "smashed_normal": 0
+            },
+            "friend_losses": 0,
+            "friend_losses_normal": 0,
+            "friend_wins_normal": 0,
+            "friend_wins": 0
           },
           "SPODERMAN": {
             "wall_climber": {
@@ -25665,7 +26397,8 @@
             "flaming_desert_eagle": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "ki_blast": {
               "smashed": 0,
@@ -25789,7 +26522,9 @@
             "supersonic_bark": {
               "smashed": 0,
               "smashed_2v2": 0
-            }
+            },
+            "friend_losses": 0,
+            "friend_losses_normal": 0
           },
           "FROSTY": {
             "melee": {
@@ -25850,7 +26585,8 @@
               "kills_teams": 0,
               "smasher_teams": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "deaths_normal": 0,
             "smashed": 0,
@@ -25874,7 +26610,8 @@
             "batarang": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "smashed_2v2": 0,
             "deaths_2v2": 0,
@@ -25917,12 +26654,14 @@
             "swing_pin": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "monster_charge": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "laser_cannon": {
               "smashed": 0,
@@ -25948,7 +26687,8 @@
             "overload": {
               "smashed_teams": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "smashed_teams": 0,
             "void_slash": {
@@ -25971,7 +26711,8 @@
             "grenade": {
               "smashed_teams": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "losses_normal": 0,
             "web_shot": {
@@ -26002,16 +26743,19 @@
             "flaming_desert_eagle": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "rocket_punch": {
               "smashed_teams": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "force_pull": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "grappling_hook": {
               "smashed_normal": 0,
@@ -26021,12 +26765,14 @@
             "cake_storm": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "shield_bash": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "onion_cannon": {
               "smashed": 0,
@@ -26041,17 +26787,20 @@
             "notched_bow": {
               "smashed_normal": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "ricochet": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "charged_beam": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "boom": {
               "smashed": 0,
@@ -26065,7 +26814,8 @@
             "egg_bazooka": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "werepug": {
               "smashed": 0,
@@ -26075,7 +26825,8 @@
               "kills": 0,
               "kills_2v2": 0,
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "shield_quake": {
               "smashed_2v2": 0,
@@ -26083,7 +26834,8 @@
             },
             "supersonic_bark": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "bite": {
               "smashed_2v2": 0,
@@ -26099,10 +26851,26 @@
             },
             "defecake": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "friend_losses": 0,
-            "friend_losses_normal": 0
+            "friend_losses_normal": 0,
+            "friend_wins_normal": 0,
+            "friend_wins": 0,
+            "static_laser": {
+              "smashed": 0,
+              "smashed_normal": 0,
+              "smashed_2v2": 0
+            },
+            "telepunch": {
+              "smashed_2v2": 0,
+              "smashed": 0
+            },
+            "fir_ma_lazer": {
+              "smashed_2v2": 0,
+              "smashed": 0
+            }
           },
           "GOKU": {
             "smasher": 0,
@@ -26496,7 +27264,9 @@
               "smasher_2v2": 0,
               "kills_teams": 0,
               "damage_dealt_teams": 0,
-              "smasher_teams": 0
+              "smasher_teams": 0,
+              "smashed_2v2": 0,
+              "smashed": 0
             },
             "kills_2v2": 0,
             "damage_dealt": 0,
@@ -26713,7 +27483,8 @@
             },
             "freezing_breath": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "onion_cannon": {
               "smashed_2v2": 0,
@@ -26729,7 +27500,8 @@
             },
             "void_slash": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_teams": 0
             },
             "dash": {
               "smashed_2v2": 0,
@@ -26785,7 +27557,8 @@
               "smashed_2v2": 0,
               "damage_dealt_teams": 0,
               "kills_teams": 0,
-              "smasher_teams": 0
+              "smasher_teams": 0,
+              "smashed_teams": 0
             },
             "smashed_2v2": 0,
             "supersonic_bark": {
@@ -26803,7 +27576,8 @@
               "smashed": 0,
               "smashed_normal": 0,
               "smasher_teams": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "damage_dealt_2v2": 0,
             "werepug": {
@@ -26820,7 +27594,8 @@
               "damage_dealt_teams": 0,
               "smashed": 0,
               "smashed_2v2": 0,
-              "smasher_teams": 0
+              "smasher_teams": 0,
+              "smashed_normal": 0
             },
             "wins_2v2": 0,
             "bite": {
@@ -26886,7 +27661,8 @@
             },
             "void_slash": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "throw_cake": {
               "smashed_2v2": 0,
@@ -26959,25 +27735,30 @@
             "friend_wins": 0,
             "rocket_punch": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "losses_2v2": 0,
             "desert_eagle": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "cake_storm": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "swing_pin": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "grenade": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "spider_kick": {
               "smashed": 0,
@@ -26994,7 +27775,9 @@
             },
             "overload": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "egg_bazooka": {
               "smashed": 0,
@@ -27002,7 +27785,8 @@
             },
             "charged_beam": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "grappling_hook": {
               "smashed": 0,
@@ -27062,7 +27846,8 @@
             "kame_beam": {
               "smashed": 0,
               "smashed_2v2": 0
-            }
+            },
+            "losses_teams": 0
           },
           "SHOOP_DA_WHOOP": {
             "damage_dealt": 0,
@@ -27300,7 +28085,9 @@
             },
             "telepunch": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "frostbolt": {
               "smashed_2v2": 0,
@@ -27353,7 +28140,8 @@
             "defecake": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "monster_mash": {
               "smashed_normal": 0,
@@ -27382,12 +28170,14 @@
             "ricochet": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "bite": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "onion_cannon": {
               "smashed_2v2": 0,
@@ -27451,7 +28241,9 @@
             "wall_climber": {
               "smashed_2v2": 0,
               "smashed": 0
-            }
+            },
+            "friend_wins_normal": 0,
+            "friend_wins": 0
           },
           "DUSK_CRAWLER": {
             "melee": {
@@ -27586,7 +28378,8 @@
             "losses_2v2": 0,
             "bite": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "monster_mash": {
               "smashed_2v2": 0,
@@ -27721,7 +28514,8 @@
             },
             "ricochet": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "rocket_punch": {
               "smashed_2v2": 0,
@@ -27730,7 +28524,8 @@
             "defecake": {
               "smashed": 0,
               "smashed_2v2": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "egg_bazooka": {
               "smashed": 0,
@@ -27800,6 +28595,13 @@
             "flying_punch": {
               "smashed_2v2": 0,
               "smashed": 0
+            },
+            "friend_wins": 0,
+            "friend_wins_normal": 0,
+            "ride_the_lightning": {
+              "smashed_normal": 0,
+              "smashed": 0,
+              "smashed_2v2": 0
             }
           },
           "GREEN_HOOD": {
@@ -27831,7 +28633,9 @@
               "damage_dealt_normal": 0,
               "kills_normal": 0,
               "kills_teams": 0,
-              "damage_dealt_teams": 0
+              "damage_dealt_teams": 0,
+              "smashed_2v2": 0,
+              "smashed": 0
             },
             "melee": {
               "damage_dealt_2v2": 0,
@@ -28011,7 +28815,9 @@
             "swing_pin": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "kills": 0,
+              "kills_2v2": 0
             },
             "boulder": {
               "smashed": 0,
@@ -28046,7 +28852,8 @@
             "freezing_breath": {
               "smashed": 0,
               "smashed_normal": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_teams": 0
             },
             "overload": {
               "smashed_2v2": 0,
@@ -28080,7 +28887,8 @@
             },
             "ricochet": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "ride_the_lightning": {
               "smashed_2v2": 0,
@@ -28091,7 +28899,8 @@
             "losses_teams": 0,
             "rocket_punch": {
               "smashed": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "wall_climber": {
               "smashed": 0,
@@ -28269,7 +29078,8 @@
             },
             "bite": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "force_pull": {
               "smashed_normal": 0,
@@ -28287,7 +29097,8 @@
             },
             "freezing_breath": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "egg_bazooka": {
               "smashed_2v2": 0,
@@ -28310,7 +29121,8 @@
             },
             "grenade": {
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "smashed_2v2": 0
             },
             "losses": 0,
             "losses_normal": 0,
@@ -28344,7 +29156,9 @@
             "wins_teams": 0,
             "cake_storm": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0,
+              "smashed_teams": 0
             },
             "swing_pin": {
               "smashed_2v2": 0,
@@ -28354,7 +29168,8 @@
             "spooder_buddies": {
               "smashed": 0,
               "smashed_teams": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "fir_ma_lazer": {
               "smashed_normal": 0,
@@ -28375,14 +29190,21 @@
             },
             "monster_mash": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "flaming_desert_eagle": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "ricochet": {
               "smashed_2v2": 0,
+              "smashed": 0,
+              "smashed_normal": 0
+            },
+            "kame_beam": {
+              "smashed_normal": 0,
               "smashed": 0
             }
           },
@@ -28401,7 +29223,8 @@
               "smasher_normal": 0,
               "damage_dealt_teams": 0,
               "kills_teams": 0,
-              "smasher_teams": 0
+              "smasher_teams": 0,
+              "smashed_2v2": 0
             },
             "smashed": 0,
             "wins": 0,
@@ -28571,7 +29394,8 @@
             "desert_eagle": {
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "smashed_normal": 0
             },
             "laser_cannon": {
               "smashed": 0,
@@ -28594,7 +29418,8 @@
               "smashed_2v2": 0,
               "smashed": 0,
               "smashed_normal": 0,
-              "damage_dealt_normal": 0
+              "damage_dealt_normal": 0,
+              "damage_dealt_teams": 0
             },
             "monster_charge": {
               "smashed_2v2": 0,
@@ -28611,7 +29436,11 @@
               "smashed_normal": 0,
               "smashed_2v2": 0,
               "damage_dealt": 0,
-              "damage_dealt_2v2": 0
+              "damage_dealt_2v2": 0,
+              "smasher_2v2": 0,
+              "kills": 0,
+              "smasher": 0,
+              "kills_2v2": 0
             },
             "dash": {
               "smashed": 0,
@@ -28648,7 +29477,8 @@
             },
             "boom": {
               "smashed_2v2": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_normal": 0
             },
             "cake_storm": {
               "damage_dealt": 0,
@@ -28658,7 +29488,9 @@
               "smashed": 0,
               "smashed_2v2": 0,
               "kills": 0,
-              "kills_2v2": 0
+              "kills_2v2": 0,
+              "smasher_2v2": 0,
+              "smasher": 0
             },
             "boulder": {
               "smashed": 0,
@@ -28733,7 +29565,8 @@
             },
             "web_shot": {
               "smashed_normal": 0,
-              "smashed": 0
+              "smashed": 0,
+              "smashed_2v2": 0
             },
             "kame_beam": {
               "damage_dealt_2v2": 0,
@@ -28741,7 +29574,11 @@
               "damage_dealt_normal": 0,
               "smashed_2v2": 0,
               "smashed": 0,
-              "smashed_normal": 0
+              "smashed_normal": 0,
+              "kills_2v2": 0,
+              "smasher": 0,
+              "smasher_2v2": 0,
+              "kills": 0
             },
             "spooder_buddies": {
               "smashed": 0,
@@ -28769,20 +29606,30 @@
               "smashed_2v2": 0,
               "smashed": 0,
               "damage_dealt_2v2": 0,
-              "damage_dealt": 0
+              "damage_dealt": 0,
+              "damage_dealt_normal": 0
             },
             "one_v_one_losses": 0,
             "one_v_one_losses_normal": 0,
             "homing_missiles": {
               "smashed": 0,
-              "smashed_2v2": 0
+              "smashed_2v2": 0,
+              "smashed_normal": 0
             },
             "werepug": {
               "smashed": 0,
               "smashed_normal": 0
             },
             "one_v_one_wins": 0,
-            "one_v_one_wins_normal": 0
+            "one_v_one_wins_normal": 0,
+            "wall_climber": {
+              "smashed": 0,
+              "smashed_2v2": 0
+            },
+            "fir_ma_lazer": {
+              "smashed": 0,
+              "smashed_normal": 0
+            }
           }
         },
         "damage_dealt": 0,
@@ -28932,7 +29779,8 @@
         },
         "votes_Swift": 0,
         "packages": [
-          "disabled_pres_health"
+          "disabled_pres_health",
+          "disabled_announcer"
         ],
         "votes_Mosaic": 0,
         "votes_Harmony": 0,
@@ -28968,7 +29816,18 @@
         "masterArmor_GENERAL_CLUCK": true,
         "masterArmor_SANIC": true,
         "masterArmor_SERGEANT_SHIELD": true,
-        "smash_play_streak": 0
+        "smash_play_streak": 0,
+        "smasher_3v3": 0,
+        "damage_dealt_3v3": 0,
+        "kills_3v3": 0,
+        "deaths_3v3": 0,
+        "games_3v3": 0,
+        "smashed_3v3": 0,
+        "losses_3v3": 0,
+        "combatTracker": true,
+        "votes_Marshland": 0,
+        "votes_Bastion": 0,
+        "votes_Toybox": 0
       },
       "SpeedUHC": {
         "killstreak": 0,
@@ -29086,7 +29945,76 @@
           "mastery_master_baker_prestige",
           "killeffect_squid_missile",
           "projectiletrail_notes",
-          "victorydance_wither_rider"
+          "victorydance_wither_rider",
+          "projectiletrail_slime",
+          "projectiletrail_ender",
+          "projectiletrail_lava",
+          "projectiletrail_potion",
+          "projectiletrail_water",
+          "projectiletrail_black_smoke",
+          "projectiletrail_white_smoke",
+          "projectiletrail_blue_dust",
+          "projectiletrail_red_dust",
+          "projectiletrail_purple_dust",
+          "projectiletrail_fire",
+          "projectiletrail_magic",
+          "projectiletrail_green_star",
+          "projectiletrail_angry_villager",
+          "projectiletrail_firework",
+          "projectiletrail_bone",
+          "projectiletrail_pumpkin_pie",
+          "projectiletrail_hearts",
+          "projectiletrail_blood",
+          "victorydance_anvil_rain",
+          "victorydance_fireworks",
+          "victorydance_meteor_shower",
+          "victorydance_guardians",
+          "victorydance_special_fireworks",
+          "victorydance_pumpkin_laser",
+          "victorydance_dragon_rider",
+          "victorydance_haunted",
+          "killeffect_firework",
+          "killeffect_lighting_strike",
+          "killeffect_tnt",
+          "killeffect_heart_aura",
+          "killeffect_burning_shoes",
+          "killeffect_cookie_fountain",
+          "killeffect_campfire",
+          "killeffect_rekt",
+          "killeffect_piñata",
+          "killeffect_xp_orb",
+          "killeffect_smiley",
+          "killeffect_tornado",
+          "killeffect_smash",
+          "cage_angel",
+          "cage_banana",
+          "cage_green",
+          "cage_lime",
+          "cage_mist",
+          "cage_sky",
+          "cage_void",
+          "cage_blue",
+          "cage_bubblegum",
+          "cage_cloud",
+          "cage_dark",
+          "cage_orange",
+          "cage_premium",
+          "cage_rage",
+          "cage_royal",
+          "cage_toffee",
+          "cage_tree",
+          "cage_farmhunt",
+          "cage_ice",
+          "cage_nether",
+          "cage_notch_apple",
+          "cage_prison",
+          "cage_rainbow",
+          "cage_redstone_master",
+          "cage_slime",
+          "cage_nicolas",
+          "cage_magic_box",
+          "projectiletrail_rainbow",
+          "projectiletrail_random"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -29486,7 +30414,14 @@
         "winstreak_kit_basic_normal_pyro": 0,
         "deaths_kit_basic_normal_pyro": 0,
         "losses_kit_basic_normal_pyro": 0,
-        "assists_kit_basic_normal_pyro": 0
+        "assists_kit_basic_normal_pyro": 0,
+        "assists_kit_basic_insane_logger": 0,
+        "deaths_kit_basic_insane_logger": 0,
+        "losses_kit_basic_insane_logger": 0,
+        "combatTracker": true,
+        "egg_thrown": 0,
+        "assists_kit_basic_insane_default": 0,
+        "active_cage": ""
       },
       "SkyClash": {
         "card_packs": 0,
@@ -29766,7 +30701,8 @@
           "MONSTER_EGG:97": "",
           "IRON_HELMET:0": "",
           "DIAMOND_SPADE:0": "",
-          "LEATHER_BOOTS:0": ""
+          "LEATHER_BOOTS:0": "",
+          "IRON_SPADE:0": ""
         },
         "deaths_kit_frost_knight": 0,
         "games_played_kit_frost_knight": 0,
@@ -30368,7 +31304,13 @@
         "votes_Lowland": 0,
         "longest_bow_kill_kit_treasure_hunter": 0,
         "bow_kills_kit_treasure_hunter": 0,
-        "wins_perk_pacify": 0
+        "wins_perk_pacify": 0,
+        "longest_bow_shot_kit_berserker": 0,
+        "bow_hits_kit_berserker": 0,
+        "fastest_win_solo_perk_archer_challenge": 0,
+        "deaths_perk_head_hunter": 0,
+        "losses_perk_head_hunter": 0,
+        "alt_master_active_kit_scout": ""
       },
       "Legacy": {
         "coins": 0,
@@ -30975,7 +31917,78 @@
           "projectiletrail_twirling_snowflake",
           "victorydance_winter_twister",
           "victorydance_snow_bomber",
-          "killeffect_present_rain"
+          "killeffect_present_rain",
+          "islandtopper_parchment",
+          "projectiletrail_blood",
+          "islandtopper_haunted_mansion",
+          "glyph_pumpkin",
+          "glyph_spider",
+          "islandtopper_robin",
+          "sprays_surprise_snowball",
+          "deathcry_sad_moo",
+          "sprays_angry_turkey",
+          "sprays_found_u",
+          "sprays_faboolous",
+          "sprays_santa_slips",
+          "killmessages_oink",
+          "npcskin_mouse",
+          "npcskin_cute_puppy",
+          "projectiletrail_let_there_be_leather",
+          "killeffect_pigsmash",
+          "sprays_watcher",
+          "sprays_curled_ox",
+          "deathcry_dragon_roar",
+          "glyph_rose",
+          "islandtopper_dragon_head",
+          "npcskin_dragon",
+          "deathcry_scurry",
+          "beddestroy_pig_missile",
+          "deathcry_firework",
+          "killmessages_eggy",
+          "sprays_sweet_dreams",
+          "islandtopper_temple_hut",
+          "killeffect_beef_everywhere",
+          "sprays_earth_pig",
+          "killmessages_snow_storm",
+          "glyph_santa_hat",
+          "deathcry_squeal",
+          "npcskin_reindeer",
+          "islandtopper_red_envelope",
+          "beddestroy_eggsplosion",
+          "glyph_bunny_guy",
+          "islandtopper_ox",
+          "sprays_golden_egg",
+          "sprays_egg_hit",
+          "npcskin_upside_down_snowman",
+          "victorydance_easter_bunnies",
+          "projectiletrail_tinsel",
+          "npcskin_blue_sheep_pajamas",
+          "islandtopper_penguin",
+          "sprays_wrong_eggs",
+          "sprays_egg_gunner",
+          "glyph_party",
+          "killmessages_celebratory",
+          "islandtopper_sunflower",
+          "npcskin_present_man",
+          "npcskin_skeletor",
+          "glyph_easter_flower",
+          "sprays_egg_hunt",
+          "sprays_witch_please",
+          "sprays_sleep_well",
+          "projectiletrail_rainy",
+          "sprays_sniper_snowball",
+          "sprays_scared",
+          "islandtopper_chocolate_egg",
+          "npcskin_bunny_costume",
+          "npcskin_bunny_in_suit",
+          "glyph_quack",
+          "projectiletrail_hoops",
+          "sprays_choc_feast",
+          "sprays_smug_pig",
+          "npcskin_wither",
+          "projectiletrail_pumpkin_pie",
+          "killeffect_shattered",
+          "killeffect_pumpkin_popper"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -31904,7 +32917,10 @@
         "four_four_swap_void_final_deaths_bedwars": 0,
         "four_four_swap_fall_kills_bedwars": 0,
         "free_event_key_bedwars_easter_boxes_2022": true,
-        "free_event_key_bedwars_christmas_boxes_2022": true
+        "free_event_key_bedwars_christmas_boxes_2022": true,
+        "shop_sort_enable_owned_first": true,
+        "four_three_projectile_kills_bedwars": 0,
+        "two_four_projectile_deaths_bedwars": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,
@@ -32189,7 +33205,13 @@
           "favoritemap_skyway pier",
           "projectile_trail_twirling_snowflake",
           "victory_dance_winter_twister",
-          "victory_dance_snow_bomber"
+          "victory_dance_snow_bomber",
+          "knife_skin_sweet_treat",
+          "projectile_trail_twin_dragon",
+          "kill_note_faboolous",
+          "favoritemap_spooky mansion",
+          "projectile_trail_bubbles",
+          "knife_skin_salmon"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -34001,7 +35023,17 @@
         "thrown_knife_kills_skyway_pier_MURDER_DOUBLE_UP": 0,
         "murderer_wins_towerfall_MURDER_DOUBLE_UP": 0,
         "free_event_key_mm_easter_chests_2022": true,
-        "free_event_key_mm_christmas_chests_2022": true
+        "free_event_key_mm_christmas_chests_2022": true,
+        "last_one_alive_aquarium": 0,
+        "last_one_alive_aquarium_MURDER_INFECTION": 0,
+        "quickest_detective_win_time_seconds_san_peratico": 0,
+        "quickest_detective_win_time_seconds_san_peratico_MURDER_CLASSIC": 0,
+        "deaths_easter_world_MURDER_CLASSIC": 0,
+        "mm_golden_chests": 0,
+        "quickest_detective_win_time_seconds_cruise_ship": 0,
+        "quickest_detective_win_time_seconds_cruise_ship_MURDER_CLASSIC": 0,
+        "quickest_detective_win_time_seconds_darkfall_MURDER_CLASSIC": 0,
+        "quickest_detective_win_time_seconds_darkfall": 0
       },
       "Duels": {
         "duels_recently_played": "",
@@ -34427,7 +35459,22 @@
           "projectile_trail_twirling_snowflake",
           "victory_dance_winter_twister",
           "victory_dance_snow_bomber",
-          "kill_effect_present_rain"
+          "kill_effect_present_rain",
+          "emblem_ez",
+          "projectile_trail_blood",
+          "emblem_bomb",
+          "projectile_trail_fire",
+          "emblem_salt",
+          "projectile_trail_potion_spiral",
+          "weaponpacks_warrior",
+          "rookie_all_modes",
+          "iron_uhc",
+          "projectile_trail_firework",
+          "cosmetictitle_general",
+          "projectile_trail_note_spiral",
+          "victory_dance_fireworks",
+          "victory_dance_guardians",
+          "victory_dance_wither_rider"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -35070,6 +36117,9 @@
           "9": "",
           "18": "",
           "19": "",
+          "29": "",
+          "30": "",
+          "31": "",
           "32": "",
           "33": ""
         },
@@ -35779,7 +36829,205 @@
         "privategames": {
           "duels_night_time": ""
         },
-        "capture_threes_golden_apples_eaten": 0
+        "capture_threes_golden_apples_eaten": 0,
+        "shop_sort": "",
+        "duels_winstreak_classic_duel": 0,
+        "blitz_duel_layout_knight_5": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "shop_sort_enable_owned_first": true,
+        "bow_duel_layout_1": {
+          "2": "",
+          "8": "",
+          "29": ""
+        },
+        "classic_duel_layout_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "29": ""
+        },
+        "op_duel_layout_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "8": "",
+          "29": ""
+        },
+        "potion_duel_layout_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
+          "13": "",
+          "14": "",
+          "15": "",
+          "16": "",
+          "17": "",
+          "18": "",
+          "19": "",
+          "20": "",
+          "21": "",
+          "22": "",
+          "23": "",
+          "24": "",
+          "25": "",
+          "26": "",
+          "27": "",
+          "28": "",
+          "29": "",
+          "30": "",
+          "31": "",
+          "32": "",
+          "33": "",
+          "34": "",
+          "35": ""
+        },
+        "mw_duel_layout_herobrine_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "8": "",
+          "29": ""
+        },
+        "sw_duel_layout_scout_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "18": "",
+          "27": ""
+        },
+        "combo_duel_layout_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "7": "",
+          "8": "",
+          "19": "",
+          "20": "",
+          "28": "",
+          "29": ""
+        },
+        "mw_duel_layout_skeleton_1": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "8": "",
+          "29": ""
+        },
+        "uhc_duel_layout_4": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "29": "",
+          "30": "",
+          "31": "",
+          "32": ""
+        },
+        "bow_duel_layout_4": {
+          "0": "",
+          "1": "",
+          "27": ""
+        },
+        "classic_duel_layout_4": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "29": ""
+        },
+        "op_duel_layout_4": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "8": "",
+          "29": ""
+        },
+        "potion_duel_layout_4": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": "",
+          "11": "",
+          "12": "",
+          "13": "",
+          "14": "",
+          "15": "",
+          "16": "",
+          "17": "",
+          "18": "",
+          "19": "",
+          "20": "",
+          "21": "",
+          "22": "",
+          "23": "",
+          "24": "",
+          "25": "",
+          "26": "",
+          "27": "",
+          "28": "",
+          "29": "",
+          "30": "",
+          "31": "",
+          "32": "",
+          "33": "",
+          "34": "",
+          "35": ""
+        },
+        "mw_duel_layout_skeleton_4": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "8": "",
+          "29": ""
+        },
+        "Duels_new_ranked__5_2019_overallBestStars": 0,
+        "Duels_new_ranked__5_2019_ranked_1_bestStars": 0,
+        "ranked_1_bridge_kills": 0,
+        "ranked_1_bridge_deaths": 0,
+        "ranked_1_goals": 0
       },
       "BuildBattle": {
         "wins": 0,
@@ -35959,7 +37207,9 @@
           "buildbattlesuit",
           "victory_dance_heat_wave",
           "victory_dance_winter_twister",
-          "victory_dance_snow_bomber"
+          "victory_dance_snow_bomber",
+          "suits_buildbattlesuit",
+          "hats_forest_hat"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -36014,48 +37264,7 @@
               "target": ""
             }
           ],
-          "contract_choices": [
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2000,
-              "requirements": {
-                "kills": 10
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 1,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kills_on_grass"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2400,
-              "requirements": {
-                "gapples": 16
-              },
-              "progress": {},
-              "chunk_of_viles_reward": 1,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "eat_gapples"
-            },
-            {
-              "difficulty": "HARD",
-              "gold_reward": 2200,
-              "requirements": {
-                "kills": 14
-              },
-              "progress": {
-                "kills": 0
-              },
-              "chunk_of_viles_reward": 1,
-              "completion_date": 0,
-              "remaining_ticks": 6000,
-              "key": "kill_on_obsidian"
-            }
-          ],
+          "contract_choices": null,
           "last_save": 0,
           "king_quest": {
             "kills": 0,
@@ -36242,7 +37451,9 @@
             "Pit_rage_pit_damage_2022_spring": 0,
             "Pit_auction_bid_2022_spring": 0,
             "Pit_blockhead_blocks_2022_spring": 0,
-            "Pit_kills_as_beast_2022_spring": 0
+            "Pit_kills_as_beast_2022_spring": 0,
+            "Pit_rage_pit_damage_2022_summer": 0,
+            "Pit_auction_bid_2022_summer": 0
           },
           "selected_perk_3": "",
           "selected_perk_2": "",
@@ -36886,6 +38097,66 @@
           "fea89f78686048bcb5a1ea5f4ad7c896": {
             "profile_id": "",
             "cute_name": ""
+          },
+          "20934ef9488c465180a78f861586b4cf": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "974b2a9e0d6d41819dd18a05fb228965": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "b59f6cd9ea734a4da2ff011808855e6b": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "ba992edad82943ddba6aa7b4f388d309": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "5456e29835504754bc3f79fe0332b736": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "ef962ec2df6e48a2ac9d6062c1b84652": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "498228a732d443589aabd1e97e6806cd": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "07b371ec499d4527a08aca6e9ef21242": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "8001bfc277a643039b3452ecca936c9e": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "7935df73985e42598c070350852c7d24": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "f18ef6d188ef40dbbf58bd495de1253e": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "1f21fa8efb5e4cb4b76298aafbdbb417": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "a69e0fa04fac4cfc962b82e2938390da": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "1e8f9122749c47269af3f80de3067ebb": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "f43a04cc06504f8eb9bebf679b682765": {
+            "profile_id": "",
+            "cute_name": ""
           }
         }
       },
@@ -37097,15 +38368,57 @@
             "fish_monger_suit_helmet": true,
             "fish_monger_suit_leggings": true,
             "leviathan": true,
-            "star_eater_scales": true
+            "star_eater_scales": true,
+            "angler": true,
+            "carrot": true,
+            "cherry_blossom": true,
+            "chill_the_fish_3": true,
+            "chocolate_bar": true,
+            "cracked_egg": true,
+            "eyeball": true,
+            "frozen_fish": true,
+            "lucent_bee_hive": true,
+            "mahi-mahi": true,
+            "pile_of_sand": true,
+            "pumpkin_pie": true,
+            "pumpkin_spice_latte": true,
+            "raw_ham": true,
+            "rose": true,
+            "soggy_hot_cross_bun": true,
+            "spook_the_fish": true,
+            "sunscreen": true,
+            "wayfinders_compass": true,
+            "rubber_duck": true,
+            "regular_fish": true,
+            "molten_iron": true,
+            "lava_shark": true,
+            "festive_lights": true,
+            "dawning_snowball": true,
+            "frozen_meal": true,
+            "eggnog": true,
+            "festival_pufferfish_hat": true
           },
           "stats": {
             "2022": {
               "halloween": {
                 "water": {
-                  "fish": 0
+                  "fish": 0,
+                  "junk": 0,
+                  "treasure": 0
                 },
                 "lava": {
+                  "fish": 0,
+                  "treasure": 0,
+                  "junk": 0
+                }
+              },
+              "christmas": {
+                "ice": {
+                  "fish": 0,
+                  "junk": 0,
+                  "treasure": 0
+                },
+                "water": {
                   "fish": 0,
                   "treasure": 0,
                   "junk": 0
@@ -37124,22 +38437,70 @@
                   "clownfish": 0,
                   "cooked_salmon": 0,
                   "charred_pufferfish": 0,
-                  "cooked_cod": 0
+                  "cooked_cod": 0,
+                  "pufferfish": 0,
+                  "cod": 0,
+                  "trout": 0,
+                  "pike": 0,
+                  "perch": 0
                 },
                 "treasure": {
                   "eye_of_ender": 0,
                   "molten_gold": 0,
                   "blaze_powder": 0,
-                  "gold_sword": 0
+                  "gold_sword": 0,
+                  "name_tag": 0,
+                  "enchanted_book": 0,
+                  "diamond": 0,
+                  "compass": 0,
+                  "gold_pickaxe": 0,
+                  "emerald": 0,
+                  "enchanted_fishing_rod": 0,
+                  "enchanted_bow": 0,
+                  "saddle": 0,
+                  "diamond_sword": 0,
+                  "magma_cream": 0,
+                  "blaze_rod": 0,
+                  "chainmail_chestplate": 0,
+                  "iron_sword": 0
                 },
                 "junk": {
-                  "charcoal": 0
+                  "charcoal": 0,
+                  "soggy_paper": 0,
+                  "ink_sac": 0,
+                  "broken_fishing_rod": 0,
+                  "water_bottle": 0,
+                  "bowl": 0,
+                  "rotten_flesh": 0,
+                  "string": 0,
+                  "rabbit_hide": 0,
+                  "leather": 0,
+                  "lily_pad": 0,
+                  "bone": 0,
+                  "leather_boots": 0,
+                  "tripwire_hook": 0,
+                  "stick": 0,
+                  "coal": 0,
+                  "fermented_spider_eye": 0,
+                  "burned_flesh": 0,
+                  "steak": 0,
+                  "nether_brick": 0,
+                  "lava_bucket": 0,
+                  "clump_of_leaves": 0,
+                  "frozen_flesh": 0,
+                  "snowball": 0,
+                  "ice_shard": 0
                 }
               },
               "lava": {
                 "fish": 0,
                 "treasure": 0,
                 "junk": 0
+              },
+              "ice": {
+                "fish": 0,
+                "junk": 0,
+                "treasure": 0
               }
             }
           },
@@ -37150,7 +38511,39 @@
           },
           "ice": {
             "spokenToNereid": true
-          }
+          },
+          "orbs": {
+            "selene": 0,
+            "aphrodite": 0,
+            "nyx": 0,
+            "helios": 0,
+            "zeus": 0
+          },
+          "activeFishHookTrail": "",
+          "enchants": {
+            "luck": {
+              "toggle": true,
+              "level": 0
+            },
+            "collector": {
+              "toggle": true,
+              "level": 0
+            },
+            "dumpster_diver": {
+              "toggle": true,
+              "level": 0
+            },
+            "vulcans_blessing": {
+              "level": 0
+            },
+            "neptunes_fury": {
+              "level": 0
+            },
+            "lure": {
+              "level": 0
+            }
+          },
+          "activeFishingRod": ""
         },
         "cauldron_ingredient_2021_bone_3": true,
         "cauldron_ingredient_2021_pumpkin_pie_0": true,
@@ -37227,7 +38620,8 @@
         "fishing_enchant_LURE_toggle": true,
         "fishing_reward_tracked": "",
         "cauldron_ingredient_2022_rotten_flesh_1": true,
-        "cauldron_ingredient_2022_pumpkin_pie_0": true
+        "cauldron_ingredient_2022_pumpkin_pie_0": true,
+        "activeFishHookTrail": ""
       }
     },
     "testPass": true,
@@ -37961,7 +39355,45 @@
         "cloak_acid_rain",
         "cloak_bone_wings",
         "gadget_sled",
-        "cloak_comets"
+        "cloak_comets",
+        "hat_redpool_banner",
+        "hat_mysterious_cat_banner",
+        "hat_tryhard_banner",
+        "hat_pumpkin_banner",
+        "particlepack_mob_spell",
+        "suit_skeleton_samurai_chestplate",
+        "hat_festive_pufferfish",
+        "hat_golden_pufferfish",
+        "gadget_portable_pond",
+        "hat_seasoned_fisher_banner",
+        "hat_spooked_pufferfish",
+        "gadget_spooky_fish",
+        "hat_spooky_fisher_banner",
+        "pet_pufferfish",
+        "cloak_school",
+        "gadget_snow_globe",
+        "gadget_duckling",
+        "pet_little_you",
+        "pet_hp9-b",
+        "pet_ghost",
+        "clickeffects_ghostly",
+        "pet_gorilla",
+        "suit_sss_helmet",
+        "suit_sss_chestplate",
+        "suit_sss_leggings",
+        "suit_sss_boots",
+        "cloak_sellout",
+        "pet_buggy",
+        "clickeffects_damage_indicators",
+        "clickeffects_eggy",
+        "cloak_swarm",
+        "pet_bouncy_sheep",
+        "pet_flying_squid",
+        "cloak_storm",
+        "cloak_emperor_wings",
+        "pet_jack_o_lantern",
+        "cloak_jack_o_lantern",
+        "pet_jack"
       ]
     },
     "vanityTokens": 0,
@@ -37993,7 +39425,10 @@
       "last_mcipl": 0,
       "total_mcf": 0,
       "secondary_mcf": 0,
-      "last_mcf": 0
+      "last_mcf": 0,
+      "secondary_pact": 0,
+      "total_pact": 0,
+      "last_pact": 0
     },
     "eugene": {
       "dailyTwoKExp": 0,
@@ -39307,7 +40742,8 @@
           "timestamp": 0,
           "value": 0
         },
-        "experience": 0
+        "experience": 0,
+        "name": ""
       },
       "SNOWMAN": {
         "THIRST": {
@@ -39752,7 +41188,8 @@
           "timestamp": 0,
           "value": 0
         },
-        "experience": 0
+        "experience": 0,
+        "name": ""
       },
       "SKELETON": {
         "THIRST": {
@@ -39906,6 +41343,18 @@
           "value": 0
         },
         "experience": 0
+      },
+      "LITTLE_YOU": {
+        "name": ""
+      },
+      "PANDA": {
+        "name": ""
+      },
+      "GIFTERINO": {
+        "name": ""
+      },
+      "SLOTH": {
+        "name": ""
       }
     },
     "petJourneyTimestamp": 0,
@@ -40005,7 +41454,14 @@
         "cathedral_theme",
         "lonely_lighthouse_theme",
         "snow_globe_theme",
-        "skull_pack_spring"
+        "skull_pack_spring",
+        "specialoccasion_store_banner_redpool_banner",
+        "weather_sunny",
+        "egghunt2019",
+        "sofa_set",
+        "furniture_sofa_black",
+        "furniture_sofa_pink",
+        "furniture_sofa_red"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",
@@ -40119,7 +41575,14 @@
       "given_cookies_105161": [],
       "given_cookies_105165": [],
       "given_cookies_105179": [],
-      "given_cookies_105193": []
+      "given_cookies_105193": [],
+      "given_cookies_105038": [],
+      "given_cookies_105056": [],
+      "given_cookies_105068": [],
+      "given_cookies_105005": [],
+      "given_cookies_105009": [],
+      "given_cookies_105020": [],
+      "given_cookies_105066": []
     },
     "transformation": "",
     "rewardConsumed": true,
@@ -41555,7 +43018,8 @@
         "0": 0,
         "1": 0,
         "2": 0,
-        "3": 0
+        "3": 0,
+        "4": 0
       },
       "Bedwars": {
         "0": 0,
@@ -44422,7 +45886,2836 @@
       }
     },
     "customCloakBase64": "",
-    "scorpius_bribe_240": 0
+    "scorpius_bribe_240": 0,
+    "claimed_solo_bank_1c0e4f84-81d1-4c9b-adcc-78f6bfb2d063": 0,
+    "claimed_coop_bank_05c9bb60-e39e-4463-82c6-d5a7fe2fa0f0": 0,
+    "claimed_solo_bank_bf7c14fb-0189-4689-9d94-4d56e65222d2": 0,
+    "s": {
+      "SkyWars": {
+        "levelFormatted": "",
+        "souls": 0,
+        "packages": [
+          "update_solo_team_kits2",
+          "update_solo_team_kits_and_perks",
+          "update_solo_team_perk_levels",
+          "convertedstatstoexp",
+          "projectiletrail_golden",
+          "projectiletrail_notes",
+          "killeffect_flower_explosion",
+          "projectiletrail_testing_1",
+          "projectiletrail_testing_2"
+        ],
+        "hide_skywars_level": true,
+        "coins": 0,
+        "games_played_skywars": 0,
+        "skywars_experience": 0,
+        "most_kills_game": 0,
+        "most_kills_game_kit_mega_mega_default": 0,
+        "fastest_win": 0,
+        "fastest_win_mega_doubles": 0,
+        "fastest_win_kit_mega_mega_default": 0,
+        "lastMode": "",
+        "most_kills_game_mega_doubles": 0,
+        "lab_win_lucky_blocks": 0,
+        "coins_gained": 0,
+        "kills_weekly_b": 0,
+        "killstreak": 0,
+        "kills": 0,
+        "time_played_mega_doubles": 0,
+        "wins_kit_mega_mega_default": 0,
+        "void_kills": 0,
+        "kills_kit_mega_mega_default": 0,
+        "killstreak_kit_mega_mega_default": 0,
+        "winstreak_kit_mega_mega_default": 0,
+        "survived_players": 0,
+        "wins": 0,
+        "games_mega_doubles": 0,
+        "kills_mega_doubles_normal": 0,
+        "wins_mega_doubles_normal": 0,
+        "winstreak_mega_doubles": 0,
+        "survived_players_mega_doubles": 0,
+        "winstreak": 0,
+        "lab_win_lucky_blocks_kit_mega_mega_default": 0,
+        "kills_mega_doubles": 0,
+        "time_played_kit_mega_mega_default": 0,
+        "lab_win_lucky_blocks_mega_doubles": 0,
+        "games_kit_mega_mega_default": 0,
+        "void_kills_mega_doubles": 0,
+        "souls_gathered": 0,
+        "survived_players_kit_mega_mega_default": 0,
+        "time_played": 0,
+        "games": 0,
+        "killstreak_mega_doubles": 0,
+        "void_kills_kit_mega_mega_default": 0,
+        "wins_mega_doubles": 0,
+        "kills_monthly_a": 0,
+        "skywars_chests": 0,
+        "rush_explained_last": 0,
+        "rush_explained": 0,
+        "fastest_win_lab_kit_mining_team_default": 0,
+        "fastest_win_lab_solo": 0,
+        "fastest_win_lab": 0,
+        "survived_players_lab_solo": 0,
+        "time_played_lab_kit_mining_team_default": 0,
+        "winstreak_lab_solo": 0,
+        "wins_lab": 0,
+        "time_played_lab_solo": 0,
+        "time_played_lab": 0,
+        "lab_win_rush_lab_solo": 0,
+        "games_lab": 0,
+        "survived_players_lab": 0,
+        "coins_gained_lab": 0,
+        "survived_players_lab_kit_mining_team_default": 0,
+        "winstreak_lab": 0,
+        "games_lab_kit_mining_team_default": 0,
+        "games_lab_solo": 0,
+        "wins_lab_solo": 0,
+        "lab_win_rush_lab": 0,
+        "winstreak_lab_kit_mining_team_default": 0,
+        "blocks_placed_lab": 0,
+        "lab_win_rush_lab_kit_mining_team_default": 0,
+        "wins_lab_kit_mining_team_default": 0,
+        "tnt_madness_explained_last": 0,
+        "tnt_madness_explained": 0,
+        "hunters_vs_beasts_explained": 0,
+        "hunters_vs_beasts_explained_last": 0,
+        "slime_explained": 0,
+        "slime_explained_last": 0,
+        "blocks_placed": 0,
+        "chests_opened": 0,
+        "chests_opened_kit_mining_team_default": 0,
+        "chests_opened_solo": 0,
+        "deaths": 0,
+        "deaths_kit_mining_team_default": 0,
+        "deaths_solo": 0,
+        "deaths_solo_insane": 0,
+        "egg_thrown": 0,
+        "kills_kit_mining_team_default": 0,
+        "kills_monthly_b": 0,
+        "kills_solo": 0,
+        "kills_solo_insane": 0,
+        "losses": 0,
+        "losses_kit_mining_team_default": 0,
+        "losses_solo": 0,
+        "losses_solo_insane": 0,
+        "most_kills_game_kit_mining_team_default": 0,
+        "most_kills_game_solo": 0,
+        "quits": 0,
+        "survived_players_kit_mining_team_default": 0,
+        "survived_players_solo": 0,
+        "time_played_kit_mining_team_default": 0,
+        "time_played_solo": 0,
+        "void_kills_kit_mining_team_default": 0,
+        "void_kills_solo": 0,
+        "win_streak": 0,
+        "active_projectiletrail": "",
+        "shop_sort": "",
+        "arrows_shot": 0,
+        "arrows_shot_kit_mining_team_default": 0,
+        "arrows_shot_solo": 0,
+        "cosmetic_tokens": 0,
+        "chests_opened_kit_ranked_ranked_default": 0,
+        "chests_opened_ranked": 0,
+        "deaths_kit_ranked_ranked_default": 0,
+        "deaths_ranked": 0,
+        "deaths_ranked_normal": 0,
+        "losses_kit_ranked_ranked_default": 0,
+        "losses_ranked": 0,
+        "losses_ranked_normal": 0,
+        "time_played_kit_ranked_ranked_default": 0,
+        "time_played_ranked": 0,
+        "longest_bow_kill": 0,
+        "longest_bow_kill_kit_mining_team_default": 0,
+        "longest_bow_kill_solo": 0,
+        "melee_kills": 0,
+        "melee_kills_kit_mining_team_default": 0,
+        "melee_kills_solo": 0
+      },
+      "UHC": {
+        "coins": 0,
+        "saved_stats": true,
+        "clearup_achievement": true
+      },
+      "TNTGames": {
+        "coins": 0,
+        "packages": [
+          "shop_2018",
+          "tiered_achievement_flag_3"
+        ],
+        "new_spleef_double_jumps": 0,
+        "new_kineticwizard_regen": 0,
+        "new_bloodwizard_explode": 0,
+        "new_spleef_repulsor": 0,
+        "new_tntag_speedy": 0,
+        "new_spleef_tripleshot": 0,
+        "new_witherwizard_regen": 0,
+        "new_witherwizard_explode": 0,
+        "new_tntrun_double_jumps": 0,
+        "new_firewizard_regen": 0,
+        "wins": 0,
+        "new_firewizard_explode": 0,
+        "new_pvprun_double_jumps": 0,
+        "new_bloodwizard_regen": 0,
+        "new_icewizard_regen": 0,
+        "new_icewizard_explode": 0,
+        "new_kineticwizard_explode": 0
+      },
+      "Arcade": {
+        "coins": 0
+      },
+      "Walls3": {
+        "coins": 0,
+        "herobrine_meters_walked_standard": 0,
+        "meters_fallen": 0,
+        "herobrine_losses": 0,
+        "losses_standard": 0,
+        "meters_walked": 0,
+        "meters_walked_standard": 0,
+        "herobrine_losses_standard": 0,
+        "meters_fallen_standard": 0,
+        "losses": 0,
+        "games_played_standard": 0,
+        "herobrine_games_played_standard": 0,
+        "herobrine_meters_fallen": 0,
+        "herobrine_meters_walked": 0,
+        "herobrine_meters_fallen_standard": 0,
+        "games_played": 0,
+        "herobrine_games_played": 0,
+        "time_played": 0,
+        "losses_face_off": 0,
+        "herobrine_time_played_face_off": 0,
+        "time_played_face_off": 0,
+        "herobrine_meters_walked_face_off": 0,
+        "final_deaths_face_off": 0,
+        "final_deaths": 0,
+        "herobrine_total_deaths": 0,
+        "herobrine_final_deaths": 0,
+        "total_deaths": 0,
+        "herobrine_games_played_face_off": 0,
+        "games_played_face_off": 0,
+        "herobrine_deaths_face_off": 0,
+        "herobrine_time_played": 0,
+        "herobrine_meters_fallen_face_off": 0,
+        "meters_fallen_face_off": 0,
+        "total_deaths_face_off": 0,
+        "herobrine_total_deaths_face_off": 0,
+        "herobrine_deaths": 0,
+        "deaths": 0,
+        "deaths_face_off": 0,
+        "herobrine_final_deaths_face_off": 0,
+        "herobrine_losses_face_off": 0,
+        "meters_walked_face_off": 0,
+        "classes": {
+          "herobrine": {
+            "skill_level_d": 0,
+            "skill_level_dChecked5": true,
+            "checked4": true,
+            "unlocked": true
+          },
+          "zombie": {
+            "skill_level_d": 0,
+            "unlocked": true,
+            "checked4": true,
+            "skill_level_dChecked5": true
+          },
+          "enderman": {
+            "checked4": true,
+            "skill_level_d": 0,
+            "unlocked": true,
+            "skill_level_dChecked5": true
+          },
+          "skeleton": {
+            "skill_level_dChecked5": true,
+            "checked4": true,
+            "skill_level_d": 0,
+            "unlocked": true
+          }
+        },
+        "packages": [
+          "cakes_fix_flag_2",
+          "achievement_fix_flag",
+          "legacy_achievement_a"
+        ],
+        "blocks_broken": 0,
+        "blocks_broken_standard": 0,
+        "blocks_placed": 0,
+        "blocks_placed_preparation": 0,
+        "blocks_placed_preparation_standard": 0,
+        "blocks_placed_standard": 0,
+        "coins_gained": 0,
+        "final_deaths_standard": 0,
+        "hunter_blocks_broken": 0,
+        "hunter_blocks_broken_standard": 0,
+        "hunter_blocks_placed": 0,
+        "hunter_blocks_placed_preparation": 0,
+        "hunter_blocks_placed_preparation_standard": 0,
+        "hunter_blocks_placed_standard": 0,
+        "hunter_final_deaths": 0,
+        "hunter_final_deaths_standard": 0,
+        "hunter_games_played": 0,
+        "hunter_games_played_standard": 0,
+        "hunter_losses": 0,
+        "hunter_losses_standard": 0,
+        "hunter_meters_fallen": 0,
+        "hunter_meters_fallen_standard": 0,
+        "hunter_meters_walked": 0,
+        "hunter_meters_walked_speed": 0,
+        "hunter_meters_walked_speed_standard": 0,
+        "hunter_meters_walked_standard": 0,
+        "hunter_time_played": 0,
+        "hunter_time_played_standard": 0,
+        "hunter_total_deaths": 0,
+        "hunter_total_deaths_standard": 0,
+        "meters_walked_speed": 0,
+        "meters_walked_speed_standard": 0,
+        "time_played_standard": 0,
+        "total_deaths_standard": 0
+      },
+      "Walls": {
+        "coins": 0
+      },
+      "VampireZ": {
+        "coins": 0,
+        "updated_stats": true
+      },
+      "Arena": {
+        "coins": 0
+      },
+      "Quake": {
+        "coins": 0,
+        "packages": [
+          "achievement_flag_3"
+        ],
+        "showKillPrefix": true,
+        "kills_solo_tourney": 0,
+        "kills_dm_teams": 0,
+        "kills": 0,
+        "kills_teams": 0,
+        "kills_timeattack": 0,
+        "kills_dm": 0,
+        "alternative_gun_cooldown_indicator": true,
+        "compass_selected": true,
+        "enable_sound": true,
+        "messageOthers' Kills/deaths": true,
+        "messageYour Kills": true,
+        "highest_killstreak": 0,
+        "messageCoin Messages": true,
+        "messageYour Deaths": true,
+        "instantRespawn": true,
+        "messageKillstreaks": true,
+        "showDashCooldown": true,
+        "killstreaks_solo_tourney": 0,
+        "headshots_solo_tourney": 0,
+        "shots_fired_solo_tourney": 0,
+        "kills_since_update_feb_2017_solo_tourney": 0,
+        "distance_travelled_solo_tourney": 0,
+        "deaths_solo_tourney": 0
+      },
+      "Paintball": {
+        "coins": 0,
+        "packages": [
+          "achievement_flag_2"
+        ]
+      },
+      "GingerBread": {
+        "coins": 0,
+        "packages": [
+          "achievementsupdatedd",
+          "helmet_1_1_unlocked",
+          "achievementsupdatedc"
+        ],
+        "pants_active": "",
+        "skin_active": "",
+        "frame_active": "",
+        "jacket_active": "",
+        "shoes_active": "",
+        "helmet_active": "",
+        "engine_active": "",
+        "booster_active": ""
+      },
+      "HungerGames": {
+        "coins": 0,
+        "autoarmor": true,
+        "wins_teams_normal": 0,
+        "wins": 0,
+        "packages": [
+          "new_stats_02_2019",
+          "fixachievements3",
+          "used_kit_knight",
+          "used_killeffect_speed"
+        ],
+        "wins_solo_normal": 0,
+        "wins_backup": 0,
+        "damage": 0,
+        "damage_knight": 0,
+        "damage_taken": 0,
+        "damage_taken_knight": 0,
+        "deaths": 0,
+        "games_played": 0,
+        "games_played_knight": 0,
+        "time_played": 0,
+        "time_played_knight": 0,
+        "chests_opened": 0,
+        "chests_opened_knight": 0,
+        "exp_knight": 0
+      },
+      "SuperSmash": {
+        "coins": 0
+      },
+      "Bedwars": {
+        "first_join_7": true,
+        "Experience": 0,
+        "bedwars_boxes": 0,
+        "packages": [
+          "islandtopper_gapple",
+          "projectiletrail_cold"
+        ]
+      },
+      "Prototype": {
+        "next_hype_seconds": 0,
+        "total_hype": 0,
+        "pit_hype": 0,
+        "hype": 0,
+        "skyblock_hype": 0
+      },
+      "Pit": {
+        "pit_stats_ptl": {
+          "joins": 0,
+          "playtime_minutes": 0,
+          "chat_messages": 0,
+          "enchanted_tier2": 0,
+          "enchanted_tier1": 0,
+          "enchanted_tier3": 0,
+          "cash_earned": 0,
+          "diamond_items_purchased": 0,
+          "jumped_into_pit": 0,
+          "launched_by_launchers": 0,
+          "left_clicks": 0,
+          "kills": 0,
+          "melee_damage_dealt": 0,
+          "sword_hits": 0,
+          "damage_dealt": 0,
+          "max_streak": 0,
+          "damage_received": 0,
+          "melee_damage_received": 0,
+          "enderchest_opened": 0,
+          "deaths": 0,
+          "blocks_placed": 0,
+          "lava_bucket_emptied": 0,
+          "arrows_fired": 0,
+          "assists": 0,
+          "arrow_hits": 0,
+          "bow_damage_dealt": 0,
+          "ghead_eaten": 0,
+          "contracts_started": 0,
+          "contracts_completed": 0,
+          "blocks_broken": 0,
+          "bow_damage_received": 0,
+          "soups_drank": 0,
+          "sewer_treasures_found": 0,
+          "dark_pants_t2": 0
+        },
+        "profile": {
+          "cash_during_prestige_28": 0,
+          "cash_during_prestige_29": 0,
+          "outgoing_offers": [],
+          "contract_choices": null,
+          "genesis_weekly_perks_perma_gold": 0,
+          "last_save": 0,
+          "king_quest": {
+            "kills": 0,
+            "renown": 0,
+            "last_completed": 0,
+            "last_accepted": 0
+          },
+          "hat_color": 0,
+          "reconessence_day": 0,
+          "trade_timestamps": [],
+          "genesis_weekly_perks_claim_item_angel": 0,
+          "cash_during_prestige_20": 0,
+          "cash_during_prestige_21": 0,
+          "unlocks_20": [
+            {
+              "tier": 0,
+              "acquireDate": 0,
+              "key": ""
+            }
+          ],
+          "inv_enderchest": {
+            "type": 0,
+            "data": []
+          },
+          "cash_during_prestige_22": 0,
+          "cash_during_prestige_23": 0,
+          "cash_during_prestige_24": 0,
+          "genesis_spawn_in_base": true,
+          "cash": 0,
+          "cash_during_prestige_25": 0,
+          "genesis_weekly_perks_perma_xp": 0,
+          "cash_during_prestige_26": 0,
+          "cash_during_prestige_27": 0,
+          "leaderboard_stats": {
+            "Pit_raffle_tickets_2019_winter": 0,
+            "Pit_rage_pit_damage_2019_winter": 0,
+            "Pit_auction_bid_2019_spring": 0,
+            "Pit_auction_bid_2020_spring": 0,
+            "Pit_raffle_tickets_2019_spring": 0,
+            "Pit_tdm_red_kills_2019_spring": 0,
+            "Pit_blockhead_blocks_2019_spring": 0,
+            "Pit_tdm_blue_kills_2020_spring": 0,
+            "Pit_kotl_gold_2019_summer": 0,
+            "Pit_blockhead_blocks_2020_spring": 0,
+            "Pit_kotl_time_2019_summer": 0
+          },
+          "genesis_perma_angel": 0,
+          "selected_perk_3": "",
+          "selected_perk_2": "",
+          "selected_perk_1": "",
+          "selected_perk_0": "",
+          "last_contract": 0,
+          "cash_during_prestige_3": 0,
+          "gold_transactions": [
+            {
+              "amount": 0,
+              "timestamp": 0
+            }
+          ],
+          "cash_during_prestige_2": 0,
+          "cash_during_prestige_5": 0,
+          "cash_during_prestige_4": 0,
+          "genesis_allegiance": "",
+          "genesis_weekly_perks_claim_item_demon": 0,
+          "cash_during_prestige_7": 0,
+          "cash_during_prestige_6": 0,
+          "cash_during_prestige_9": 0,
+          "cash_during_prestige_8": 0,
+          "cash_during_prestige_30": 0,
+          "inv_contents": {
+            "type": 0,
+            "data": []
+          },
+          "cash_during_prestige_31": 0,
+          "cash_during_prestige_32": 0,
+          "event_contest_claims": [],
+          "cash_during_prestige_33": 0,
+          "cash_during_prestige_34": 0,
+          "cash_during_prestige_35": 0,
+          "cash_during_prestige_1": 0,
+          "night_quests_enabled": true,
+          "cash_during_prestige_0": 0,
+          "renown": 0,
+          "moved_achievements_1": true,
+          "moved_achievements_2": true,
+          "genesis_points": 0,
+          "raw_numbers_enabled": true,
+          "prestiges": [
+            {
+              "index": 0,
+              "xp_on_prestige": 0,
+              "timestamp": 0
+            }
+          ],
+          "spire_stash_inv": {
+            "type": 0,
+            "data": []
+          },
+          "last_lycanthropy": 0,
+          "supporter_star_enabled": true,
+          "cheap_milk": true,
+          "zero_point_three_gold_transfer": true,
+          "renown_unlocks": [
+            {
+              "tier": 0,
+              "acquireDate": 0,
+              "key": ""
+            }
+          ],
+          "spire_stash_armor": {
+            "type": 0,
+            "data": []
+          },
+          "cash_during_prestige_17": 0,
+          "cash_during_prestige_18": 0,
+          "cash_during_prestige_19": 0,
+          "inv_armor": {
+            "type": 0,
+            "data": []
+          },
+          "item_stash": {
+            "type": 0,
+            "data": []
+          },
+          "genesis_allegiance_time": 0,
+          "login_messages": [],
+          "hotbar_favorites": [],
+          "recent_kills": [
+            {
+              "victim": "",
+              "timestamp": 0
+            }
+          ],
+          "apollo_enabled": true,
+          "xp": 0,
+          "cash_during_prestige_10": 0,
+          "cash_during_prestige_11": 0,
+          "ended_contracts": [
+            {
+              "difficulty": "",
+              "gold_reward": 0,
+              "requirements": {
+                "multikill": 0
+              },
+              "progress": {},
+              "chunk_of_viles_reward": 0,
+              "completion_date": 0,
+              "remaining_ticks": 0,
+              "key": ""
+            }
+          ],
+          "cash_during_prestige_12": 0,
+          "bounties": [
+            {
+              "amount": 0,
+              "remainingTicks": 0,
+              "issuer": "",
+              "timestamp": 0
+            }
+          ],
+          "cash_during_prestige_13": 0,
+          "cash_during_prestige_14": 0,
+          "cash_during_prestige_15": 0,
+          "cash_during_prestige_16": 0
+        },
+        "packages": [
+          "supporter"
+        ]
+      },
+      "MCGO": {
+        "coins": 0,
+        "grenade_kills": 0,
+        "packages": [
+          "achievement_flag_7",
+          "neck_knife",
+          "vip_ocelot_helmet",
+          "vip_ocelot_armor",
+          "vip_creeper_armor",
+          "vip_creeper_helmet",
+          "rekt",
+          "pistol_clip",
+          "hk45",
+          "magnum_revolver",
+          "magnum_clip",
+          "acr",
+          "fn_fal",
+          "rifle_clip"
+        ],
+        "kills": 0,
+        "bombs_defused": 0,
+        "game_wins_deathmatch": 0,
+        "grenadeKills": 0,
+        "game_wins": 0,
+        "kills_deathmatch": 0,
+        "bombs_planted": 0,
+        "headshot_kills": 0,
+        "pocket_change": 0,
+        "cop_kills": 0,
+        "shots_fired": 0,
+        "round_wins": 0,
+        "deaths": 0,
+        "criminal_kills": 0,
+        "game_wins_alleyway": 0,
+        "lastTourneyAd": 0,
+        "game_plays": 0,
+        "game_wins_melon factory": 0,
+        "deaths_deathmatch": 0,
+        "knife_damage_increase": 0,
+        "knife_attack_delay": 0,
+        "selectedKnifeDev": "",
+        "strength_training": 0,
+        "bounty_hunter": 0,
+        "body_armor_cost": 0,
+        "selectedOcelotHelmetDev": "",
+        "selectedOcelotChestplateDev": "",
+        "selectedCreeperChestplateDev": "",
+        "selectedCreeperHelmetDev": "",
+        "pistol_damage_increase": 0,
+        "pistol_recoil_reduction": 0,
+        "pistol_reload_speed_reduction": 0,
+        "selectedPistolDev": "",
+        "magnum_damage_increase": 0,
+        "magnum_reload_speed_reduction": 0,
+        "magnum_recoil_reduction": 0,
+        "magnum_cost_reduction": 0,
+        "selectedMagnumDev": "",
+        "rifle_damage_increase": 0,
+        "rifle_recoil_reduction": 0,
+        "rifle_reload_speed_reduction": 0,
+        "rifle_cost_reduction": 0,
+        "selectedRifleDev": "",
+        "game_wins_temple": 0,
+        "cop_kills_tourney_mcgo_defusal_0": 0,
+        "criminal_kills_tourney_mcgo_defusal_0": 0,
+        "deaths_tourney_mcgo_defusal_0": 0,
+        "game_plays_tourney_mcgo_defusal_0": 0,
+        "headshot_kills_tourney_mcgo_defusal_0": 0,
+        "kills_tourney_mcgo_defusal_0": 0,
+        "round_wins_tourney_mcgo_defusal_0": 0,
+        "shots_fired_tourney_mcgo_defusal_0": 0,
+        "game_wins_tourney_mcgo_defusal_0": 0,
+        "game_wins_carrier": 0,
+        "bombs_planted_tourney_mcgo_defusal_0": 0,
+        "game_wins_sandstorm": 0,
+        "bombs_defused_tourney_mcgo_defusal_0": 0
+      },
+      "Battleground": {
+        "coins": 0
+      },
+      "TrueCombat": {
+        "coins": 0,
+        "packages": [
+          "cw_ach_flag1",
+          "cw_ach_flag4",
+          "cw_ach_flag3",
+          "cw_ach_flag2"
+        ]
+      },
+      "SkyBlock": {
+        "account": {
+          "selected_profile": "",
+          "last_save": 0,
+          "backed_up_collection": "",
+          "lastSaveVersion": {
+            "pluginVersion": "",
+            "bootTime": 0,
+            "gmVersion": "",
+            "hyVersion": "",
+            "server": ""
+          },
+          "lastSaveTimestamp": 0,
+          "skyblock_exp": 0,
+          "migrated_to_v2": true,
+          "collected_cake_years": [],
+          "migrated_to_v3": true,
+          "migrated_to_v4": true,
+          "winter_gifts_collected_37": []
+        },
+        "profiles": {
+          "05c9bb60e39e446382c6d5a7fe2fa0f0": {
+            "profile_id": "",
+            "cute_name": "",
+            "profile_version": 0,
+            "stats": {
+              "deaths": 0,
+              "deaths_void": 0,
+              "highest_crit_damage": 0,
+              "kills": 0,
+              "kills_player": 0,
+              "deaths_player": 0,
+              "kills_random_slime": 0,
+              "kills_splitter_spider_silverfish": 0,
+              "kills_splitter_spider": 0,
+              "kills_wither_skeleton": 0,
+              "kills_blaze": 0,
+              "kills_magma_cube": 0,
+              "kills_fireball_magma_cube": 0,
+              "kills_ghast": 0,
+              "kills_zombie": 0,
+              "kills_zombie_villager": 0,
+              "auctions_created": 0,
+              "auctions_fees": 0,
+              "auctions_bids": 0,
+              "auctions_highest_bid": 0,
+              "kills_lapis_zombie": 0,
+              "kills_redstone_pigman": 0,
+              "kills_emerald_slime": 0,
+              "kills_diamond_skeleton": 0,
+              "kills_diamond_zombie": 0,
+              "kills_runic_zombie": 0,
+              "deaths_emerald_slime": 0,
+              "deaths_diamond_skeleton": 0,
+              "kills_enderman": 0,
+              "kills_watcher": 0,
+              "deaths_enderman": 0,
+              "kills_skeleton": 0,
+              "kills_spider": 0,
+              "deaths_strong_dragon": 0
+            },
+            "collection": {
+              "COBBLESTONE": 0,
+              "IRON_INGOT": 0,
+              "COAL": 0,
+              "STRING": 0,
+              "BONE": 0,
+              "BLAZE_ROD": 0,
+              "MAGMA_CREAM": 0,
+              "GHAST_TEAR": 0,
+              "ROTTEN_FLESH": 0,
+              "WHEAT": 0,
+              "SLIME_BALL": 0,
+              "SUGAR_CANE": 0,
+              "ENDER_PEARL": 0,
+              "ICE": 0,
+              "DIAMOND": 0
+            },
+            "objectives": {
+              "collect_log": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_guide": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "public_island": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "explore_hub": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "explore_village": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_librarian": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_farmer": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_blacksmith": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lumberjack": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_event_master": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_auction_master": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_banker": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_fairy": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_fisherman_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "kill_danger_mobs": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lapis_miner": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lazy_miner": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_mining_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_farmhand_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_farming_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "deposit_coins": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "mine_coal": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_blacksmith_2": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_mining_skill": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "reforge_item": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_gold_mine": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "enchant_item": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_combat_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_rick": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_blazing_fortress": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_elle": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_bartender": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_foraging_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_mushroom_desert": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_deep_caverns": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lift_operator": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_nocturne_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "collect_runes": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_nocturne_2": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_carpenter": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "collect_wool_carpenter": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_guber_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_end_dealer": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_telekinesis_applier": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_2": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_3": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "paint_canvas": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "fight_dragon": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_combat_skill": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_spiders_den": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_the_end": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              }
+            },
+            "quests": {
+              "collect_log": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "explore_hub": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "explore_village": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_librarian": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_farmer": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_blacksmith": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lumberjack": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_auction_master": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_banker": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "kill_danger_mobs": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lapis_miner": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lazy_miner": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_mining_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_farmhand_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_farming_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "reforge_item": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_combat_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_rick": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_foraging_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_nocturne_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_carpenter": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_guber_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_end_dealer": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_artist_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              }
+            },
+            "level_experience": 0,
+            "last_interest_time": 0,
+            "first_join": 0,
+            "first_join_skyblock_time": 0,
+            "inv_contents": {
+              "type": 0,
+              "data": []
+            },
+            "inv_armor": {
+              "type": 0,
+              "data": []
+            },
+            "held_item_slot": 0,
+            "active_effects": [],
+            "ingame_time": 0,
+            "last_save": 0,
+            "tutorial": [
+              "first_join",
+              "zone_village",
+              "zone_farm",
+              "zone_mine",
+              "zone_auction_house",
+              "zone_colosseum",
+              "zone_danger",
+              "zone_library",
+              "zone_wilderness",
+              "zone_mountain",
+              "zone_forest",
+              "tutorial_npc_bugs",
+              "zone_ruins",
+              "shop_mine_merchant",
+              "zone_deep_caverns",
+              "zone_gold_mine",
+              "zone_blazing_fortress",
+              "zone_the_barn",
+              "zone_bank",
+              "shop_lumber_merchant",
+              "shop_adventurer",
+              "zone_wizard_tower",
+              "zone_high_level",
+              "reforge_item",
+              "shop_alchemist",
+              "zone_spiders_den",
+              "zone_mushroom_desert",
+              "zone_floating_islands_1",
+              "tutorial_npc_instructor",
+              "zone_deep_caverns_room_1",
+              "zone_deep_caverns_room_2",
+              "zone_deep_caverns_room_3",
+              "zone_deep_caverns_room_4",
+              "zone_deep_caverns_room_5",
+              "zone_deep_caverns_room_6",
+              "zone_enderman_sanctuary",
+              "zone_enderdragon_boss_room",
+              "hub_portal_destroyed",
+              "zone_flower_house",
+              "tutorial_npc_artist2",
+              "tutorial_npc_psychic",
+              "shop_farm_merchant",
+              "zone_tavern"
+            ],
+            "first_join_hub": 0,
+            "visited_zones": [
+              "village",
+              "farm",
+              "mine",
+              "auction_house",
+              "colosseum",
+              "danger",
+              "library",
+              "wilderness",
+              "mountain",
+              "forest",
+              "ruins",
+              "deep_caverns",
+              "gold_mine",
+              "blazing_fortress",
+              "the_barn",
+              "bank",
+              "fisherman_hut",
+              "wizard_tower",
+              "high_level",
+              "spiders_den",
+              "mushroom_desert",
+              "floating_islands_1",
+              "deep_caverns_room_1",
+              "deep_caverns_room_2",
+              "deep_caverns_room_3",
+              "deep_caverns_room_4",
+              "deep_caverns_room_5",
+              "deep_caverns_room_6",
+              "dynamic_portal_island",
+              "enderman_sanctuary",
+              "enderdragon_boss_room",
+              "floating_islands_5",
+              "floating_islands_4",
+              "floating_islands_2",
+              "flower_house",
+              "canvas_room",
+              "tavern"
+            ],
+            "opened_skyblock_menu_stamped": true,
+            "coin_purse": 0,
+            "unlocked_coll_tiers": [
+              "STRING_-1",
+              "COAL_-1",
+              "ICE_4",
+              "ICE_5",
+              "COBBLESTONE_-1",
+              "COBBLESTONE_1",
+              "COBBLESTONE_2",
+              "DIAMOND_6",
+              "DIAMOND_5",
+              "DIAMOND_4",
+              "DIAMOND_3",
+              "DIAMOND_9",
+              "DIAMOND_8",
+              "BLAZE_ROD_-1",
+              "DIAMOND_7",
+              "ICE_-1",
+              "WHEAT_-1",
+              "DIAMOND_2",
+              "DIAMOND_1",
+              "STRING_1",
+              "MAGMA_CREAM_-1",
+              "ROTTEN_FLESH_-1",
+              "ENDER_PEARL_1",
+              "DIAMOND_-1",
+              "ENDER_PEARL_-1",
+              "STRING_3",
+              "STRING_2",
+              "BONE_-1",
+              "BONE_1",
+              "SLIME_BALL_-1",
+              "IRON_INGOT_-1",
+              "GHAST_TEAR_-1",
+              "ROTTEN_FLESH_2",
+              "ROTTEN_FLESH_1",
+              "SUGAR_CANE_-1",
+              "ICE_1",
+              "ICE_2",
+              "ICE_3"
+            ],
+            "death_count": 0,
+            "experience_skill_mining": 0,
+            "opened_recipes_menu_stamped": true,
+            "used_crafting_grid_stamped": true,
+            "bank_account": 0,
+            "bank_history": [
+              {
+                "amount": 0,
+                "timestamp": 0,
+                "action": "",
+                "initiator_name": ""
+              }
+            ],
+            "last_interest": 0,
+            "experience_skill_enchanting": 0,
+            "collected_coal_stamped": true,
+            "experience_skill_combat": 0,
+            "killed_first_mob_stamped": true,
+            "collected_wheat_stamped": true,
+            "experience_skill_farming": 0,
+            "experience_skill_foraging": 0,
+            "auction_starting_bid": 0,
+            "auction_duration_ms": 0,
+            "opened_collections_menu_stamped": true,
+            "auction_placed_bid_before": true,
+            "last_death": 0,
+            "return_to_private_island_stamped": true,
+            "last_checked_interest": 0,
+            "lastSaveVersion": {
+              "pluginVersion": "",
+              "bootTime": 0,
+              "gmVersion": "",
+              "hyVersion": "",
+              "server": ""
+            },
+            "lastSaveTimestamp": 0,
+            "playtime_minutes": 0,
+            "playtime_minutes_modes_HUB": 0,
+            "quiver": {
+              "type": 0,
+              "data": []
+            },
+            "achievement_sync_version": 0,
+            "player_id": "",
+            "playtime_minutes_modes_DYNAMIC": 0,
+            "exploit_start_timestamp": 0,
+            "exploit_block_counter": 0,
+            "exploit_fish_counter": 0,
+            "exploit_monster_counter": 0,
+            "shop_throttle": {
+              "lastUpdate": ""
+            },
+            "claimable_rewards": [],
+            "playtime_minutes_modes_MINING_1": 0,
+            "playtime_minutes_modes_MINING_2": 0,
+            "playtime_minutes_modes_COMBAT_3": 0,
+            "experience_skill_carpentry": 0,
+            "playtime_minutes_modes_FORAGING_1": 0,
+            "opened_starting_minion_stamped": true,
+            "private_island_spawn_location": "",
+            "damage_UNSTABLE_DRAGON_100": 0,
+            "experience_skill_runecrafting": 0,
+            "ender_chest_contents": {
+              "type": 0,
+              "data": []
+            },
+            "damage_STRONG_DRAGON_100": 0,
+            "playtime_minutes_modes_FARMING_1": 0,
+            "playtime_minutes_modes_COMBAT_1": 0,
+            "slayer_quest": {
+              "type": "",
+              "tier": 0,
+              "start_timestamp": 0,
+              "completion_state": 0,
+              "combat_xp": 0,
+              "last_killed_mob_id": "",
+              "last_killed_timestamp": 0,
+              "last_killed_mob_island": ""
+            }
+          },
+          "e397d9ed5e44463c9d074b3cfd7f8781": {
+            "profile_id": "",
+            "cute_name": "",
+            "coop": [],
+            "profile_version": 0,
+            "stats": {
+              "auctions_bids": 0,
+              "auctions_highest_bid": 0,
+              "auctions_won": 0,
+              "auctions_bought_common": 0,
+              "auctions_gold_spent": 0,
+              "auctions_bought_rare": 0,
+              "auctions_bought_epic": 0,
+              "auctions_bought_uncommon": 0,
+              "deaths": 0,
+              "deaths_void": 0,
+              "auctions_created": 0,
+              "auctions_fees": 0,
+              "highest_crit_damage": 0,
+              "deaths_player": 0,
+              "auctions_completed": 0,
+              "auctions_sold_uncommon": 0,
+              "auctions_gold_earned": 0,
+              "auctions_sold_common": 0,
+              "deaths_zombie": 0,
+              "kills": 0,
+              "kills_zombie": 0,
+              "items_fished": 0,
+              "items_fished_large_treasure": 0,
+              "kills_enderman": 0,
+              "kills_skeleton_emperor": 0,
+              "kills_skeleton": 0,
+              "kills_spider": 0,
+              "kills_zombie_villager": 0,
+              "kills_player": 0,
+              "deaths_spider": 0,
+              "deaths_skeleton": 0,
+              "kills_zealot_enderman": 0,
+              "auctions_bought_legendary": 0,
+              "deaths_zombie_villager": 0,
+              "auctions_no_bids": 0
+            },
+            "collection": {
+              "COBBLESTONE": 0,
+              "RAW_FISH": 0,
+              "RAW_FISH:1": 0,
+              "PRISMARINE_CRYSTALS": 0,
+              "RAW_CHICKEN": 0,
+              "ROTTEN_FLESH": 0,
+              "BONE": 0,
+              "FEATHER": 0,
+              "GOLD_INGOT": 0,
+              "IRON_INGOT": 0,
+              "LOG": 0,
+              "RAW_FISH:3": 0,
+              "SUGAR_CANE": 0,
+              "LEATHER": 0,
+              "LOG_2": 0,
+              "WHEAT": 0,
+              "SEEDS": 0,
+              "NETHER_STALK": 0,
+              "ENDER_PEARL": 0,
+              "SPONGE": 0,
+              "STRING": 0,
+              "SPIDER_EYE": 0,
+              "DIAMOND": 0,
+              "MUSHROOM_COLLECTION": 0,
+              "LOG_2:1": 0
+            },
+            "objectives": {
+              "collect_log": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_guide": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "public_island": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "explore_hub": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "explore_village": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_librarian": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_farmer": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_blacksmith": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lumberjack": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_event_master": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_auction_master": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_banker": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_fairy": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_fisherman_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "deposit_coins": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lapis_miner": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_farmhand_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_farming_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_foraging_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "craft_workbench": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_combat_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_rick": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "warp_blazing_fortress": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_elle": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "mine_coal": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "enchant_item": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_carpenter": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_nocturne_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "collect_ink_sack": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_2": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "collect_dye": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_3": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "paint_canvas": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_guber_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_end_dealer": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "fight_dragon": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              }
+            },
+            "quests": {
+              "collect_log": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "explore_hub": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "explore_village": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_librarian": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_farmer": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_blacksmith": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lumberjack": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_auction_master": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_banker": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lapis_miner": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_farmhand_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_farming_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_foraging_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_combat_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_rick": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_carpenter": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_artist_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_nocturne_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_guber_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_end_dealer": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              }
+            },
+            "coop_initiator": true,
+            "coop_confirmed": true,
+            "tutorial": [
+              "first_join",
+              "zone_village",
+              "zone_bank",
+              "zone_auction_house",
+              "zone_mine",
+              "zone_library",
+              "zone_deep_caverns",
+              "zone_mountain",
+              "zone_wizard_tower",
+              "zone_ruins",
+              "zone_forest",
+              "zone_colosseum",
+              "zone_farm",
+              "zone_wilderness",
+              "zone_deep_caverns_room_1",
+              "zone_deep_caverns_room_2",
+              "zone_deep_caverns_room_3",
+              "zone_mushroom_desert",
+              "zone_the_barn",
+              "zone_high_level",
+              "zone_floating_islands_1",
+              "zone_blazing_fortress",
+              "zone_danger",
+              "tutorial_npc_explorer",
+              "shop_lumber_merchant",
+              "shop_farm_merchant",
+              "zone_spiders_den",
+              "zone_deep_caverns_room_4",
+              "zone_deep_caverns_room_6",
+              "tutorial_npc_bugs",
+              "zone_deep_caverns_room_5",
+              "zone_enderman_sanctuary",
+              "zone_enderdragon_boss_room",
+              "zone_gallery",
+              "zone_flower_house",
+              "tutorial_npc_trader"
+            ],
+            "level_experience": 0,
+            "first_join": 0,
+            "first_join_skyblock_time": 0,
+            "opened_skyblock_menu_stamped": true,
+            "inv_contents": {
+              "type": 0,
+              "data": []
+            },
+            "inv_armor": {
+              "type": 0,
+              "data": []
+            },
+            "held_item_slot": 0,
+            "active_effects": [],
+            "ingame_time": 0,
+            "last_save": 0,
+            "first_join_hub": 0,
+            "visited_zones": [
+              "village",
+              "bank",
+              "auction_house",
+              "mine",
+              "library",
+              "deep_caverns",
+              "mountain",
+              "wizard_tower",
+              "ruins",
+              "forest",
+              "colosseum",
+              "farm",
+              "wilderness",
+              "deep_caverns_room_1",
+              "deep_caverns_room_2",
+              "deep_caverns_room_3",
+              "mushroom_desert",
+              "the_barn",
+              "high_level",
+              "dynamic_portal_island",
+              "floating_islands_1",
+              "blazing_fortress",
+              "danger",
+              "fisherman_hut",
+              "dark_auction",
+              "spiders_den",
+              "deep_caverns_room_4",
+              "deep_caverns_room_6",
+              "deep_caverns_room_5",
+              "floating_islands_2",
+              "floating_islands_3",
+              "floating_islands_4",
+              "floating_islands_5",
+              "enderman_sanctuary",
+              "enderdragon_boss_room",
+              "canvas",
+              "gallery",
+              "flower_house"
+            ],
+            "coin_purse": 0,
+            "last_checked_interest": 0,
+            "last_interest": 0,
+            "experience_skill_farming": 0,
+            "opened_starting_minion_stamped": true,
+            "experience_skill_mining": 0,
+            "unlocked_coll_tiers": [
+              "LOG_2",
+              "LOG_1",
+              "LOG_5",
+              "LOG_4",
+              "LOG_3",
+              "COBBLESTONE_1",
+              "COBBLESTONE_2",
+              "SPONGE_-1",
+              "PRISMARINE_CRYSTALS_-1",
+              "MUSHROOM_COLLECTION_-1",
+              "LEATHER_3",
+              "RAW_FISH:1_-1",
+              "LEATHER_2",
+              "RAW_FISH:3_1",
+              "LEATHER_5",
+              "RAW_FISH:3_2",
+              "LEATHER_4",
+              "NETHER_STALK_-1",
+              "RAW_FISH:3_3",
+              "RAW_FISH:3_4",
+              "RAW_FISH:3_5",
+              "LEATHER_1",
+              "RAW_FISH:3_6",
+              "ENDER_PEARL_2",
+              "DIAMOND_-1",
+              "ENDER_PEARL_1",
+              "SUGAR_CANE_5",
+              "SUGAR_CANE_6",
+              "SUGAR_CANE_7",
+              "SEEDS_-1",
+              "SUGAR_CANE_8",
+              "LOG_-1",
+              "SUGAR_CANE_1",
+              "SUGAR_CANE_2",
+              "SUGAR_CANE_3",
+              "SUGAR_CANE_4",
+              "SUGAR_CANE_9",
+              "GOLD_INGOT_-1",
+              "STRING_-1",
+              "RAW_FISH_-1",
+              "COBBLESTONE_-1",
+              "RAW_CHICKEN_-1",
+              "SPIDER_EYE_-1",
+              "RAW_FISH_3",
+              "RAW_FISH_2",
+              "RAW_FISH_1",
+              "RAW_FISH_7",
+              "WHEAT_-1",
+              "RAW_FISH_6",
+              "LEATHER_-1",
+              "RAW_FISH_5",
+              "RAW_FISH:3_-1",
+              "RAW_FISH_4",
+              "LOG_2:1_-1",
+              "ROTTEN_FLESH_-1",
+              "LEATHER_7",
+              "LEATHER_6",
+              "ENDER_PEARL_-1",
+              "LEATHER_9",
+              "LEATHER_8",
+              "BONE_-1",
+              "IRON_INGOT_1",
+              "LOG_2_-1",
+              "LOG_2_8",
+              "LOG_2_9",
+              "FEATHER_-1",
+              "LOG_2_4",
+              "LOG_2_5",
+              "IRON_INGOT_-1",
+              "LOG_2_6",
+              "LOG_2_7",
+              "LOG_2_1",
+              "LOG_2_2",
+              "LOG_2_3",
+              "SUGAR_CANE_-1"
+            ],
+            "auction_placed_bid_before": true,
+            "opened_collections_menu_stamped": true,
+            "last_interest_time": 0,
+            "playtime_minutes": 0,
+            "playtime_minutes_modes_DYNAMIC": 0,
+            "playtime_minutes_modes_HUB": 0,
+            "auction_starting_bid": 0,
+            "auction_duration_ms": 0,
+            "dark_auction_items": [],
+            "death_count": 0,
+            "used_crafting_grid_stamped": true,
+            "quiver_size": 0,
+            "quiver": {
+              "type": 0,
+              "data": []
+            },
+            "talisman_bag_size": 0,
+            "talisman_bag": {
+              "type": 0,
+              "data": []
+            },
+            "playtime_minutes_modes_FARMING_1": 0,
+            "return_to_private_island_stamped": true,
+            "experience_skill_foraging": 0,
+            "collected_log_stamped": true,
+            "last_death": 0,
+            "achievement_sync_version": 0,
+            "crafted_generators": [],
+            "playtime_minutes_modes_DARK_AUCTION": 0,
+            "opened_recipes_menu_stamped": true,
+            "fishing_bag": {
+              "type": 0,
+              "data": []
+            },
+            "experience_skill_combat": 0,
+            "killed_first_mob_stamped": true,
+            "playtime_minutes_modes_COMBAT_1": 0,
+            "playtime_minutes_modes_COMBAT_2": 0,
+            "exploit_start_timestamp": 0,
+            "exploit_block_counter": 0,
+            "exploit_fish_counter": 0,
+            "exploit_monster_counter": 0,
+            "playtime_minutes_modes_MINING_2": 0,
+            "playtime_minutes_modes_FARMING_2": 0,
+            "playtime_minutes_modes_FORAGING_1": 0,
+            "collected_wheat_stamped": true,
+            "experience_skill_fishing": 0,
+            "experience_skill_enchanting": 0,
+            "damage_MAGMA_CUBE_BOSS_100": 0,
+            "clicked_in_starting_minion_stamped": true,
+            "lastSaveVersion": {
+              "pluginVersion": "",
+              "bootTime": 0,
+              "gmVersion": "",
+              "hyVersion": "",
+              "server": ""
+            },
+            "lastSaveTimestamp": 0,
+            "ender_chest_contents": {
+              "type": 0,
+              "data": []
+            },
+            "playtime_minutes_modes_COMBAT_3": 0,
+            "player_id": "",
+            "claimable_rewards": [],
+            "damage_WISE_DRAGON_100": 0
+          },
+          "ffee4d14b8b844c58debf75cc2264114": {
+            "profile_id": "",
+            "cute_name": "",
+            "coop": [],
+            "profile_version": 0,
+            "stats": {
+              "auctions_created": 0,
+              "auctions_fees": 0,
+              "highest_crit_damage": 0,
+              "kills": 0,
+              "kills_enderman": 0,
+              "kills_zealot_enderman": 0,
+              "kills_endermite": 0,
+              "kills_watcher": 0,
+              "kills_obsidian_wither": 0,
+              "deaths": 0,
+              "deaths_void": 0
+            },
+            "collection": {
+              "COBBLESTONE": 0,
+              "ENDER_PEARL": 0,
+              "OBSIDIAN": 0
+            },
+            "objectives": {
+              "collect_log": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_guide": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "public_island": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "explore_hub": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "explore_village": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_librarian": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_farmer": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_blacksmith": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lumberjack": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_event_master": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_auction_master": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_banker": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_fairy": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_fisherman_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_carpenter": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_artist_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "paint_canvas": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_guber_1": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_end_dealer": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_lazy_miner": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "increase_mining_skill_5": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "talk_to_telekinesis_applier": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              },
+              "fight_dragon": {
+                "status": "",
+                "progress": 0,
+                "completed_at": 0
+              }
+            },
+            "quests": {
+              "collect_log": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "explore_hub": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "explore_village": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_librarian": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_farmer": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_blacksmith": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lumberjack": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_auction_master": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_banker": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_carpenter": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_artist_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_guber_1": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_end_dealer": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "talk_to_lazy_miner": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              },
+              "increase_mining_skill_5": {
+                "status": "",
+                "activated_at": 0,
+                "activated_at_sb": 0,
+                "completed_at": 0,
+                "completed_at_sb": 0
+              }
+            },
+            "last_death": 0,
+            "coop_initiator": true,
+            "lastSaveVersion": {
+              "pluginVersion": "",
+              "bootTime": 0,
+              "gmVersion": "",
+              "hyVersion": "",
+              "server": ""
+            },
+            "lastSaveTimestamp": 0,
+            "coop_confirmed": true,
+            "tutorial": [
+              "first_join",
+              "zone_village",
+              "zone_auction_house",
+              "zone_mountain",
+              "zone_mine",
+              "zone_enderman_sanctuary",
+              "zone_enderdragon_boss_room",
+              "zone_gold_mine",
+              "zone_wilderness",
+              "zone_colosseum",
+              "zone_farm",
+              "zone_forest"
+            ],
+            "level_experience": 0,
+            "first_join": 0,
+            "first_join_skyblock_time": 0,
+            "inv_contents": {
+              "type": 0,
+              "data": []
+            },
+            "inv_armor": {
+              "type": 0,
+              "data": []
+            },
+            "held_item_slot": 0,
+            "active_effects": [],
+            "ingame_time": 0,
+            "last_save": 0,
+            "last_checked_interest": 0,
+            "achievement_sync_version": 0,
+            "playtime_minutes": 0,
+            "playtime_minutes_modes_DYNAMIC": 0,
+            "opened_skyblock_menu_stamped": true,
+            "last_interest": 0,
+            "visited_zones": [
+              "dynamic_portal_island",
+              "village",
+              "auction_house",
+              "mountain",
+              "mine",
+              "enderman_sanctuary",
+              "enderdragon_boss_room",
+              "gold_mine",
+              "wilderness",
+              "colosseum",
+              "fisherman_hut",
+              "farm",
+              "forest"
+            ],
+            "opened_starting_minion_stamped": true,
+            "experience_skill_mining": 0,
+            "unlocked_coll_tiers": [
+              "OBSIDIAN_-1",
+              "ENDER_PEARL_1",
+              "ENDER_PEARL_-1",
+              "COBBLESTONE_-1",
+              "COBBLESTONE_1",
+              "OBSIDIAN_2",
+              "OBSIDIAN_1"
+            ],
+            "first_join_hub": 0,
+            "playtime_minutes_modes_HUB": 0,
+            "auction_starting_bid": 0,
+            "auction_duration_ms": 0,
+            "coin_purse": 0,
+            "lastAhMessage": 0,
+            "experience_skill_enchanting": 0,
+            "experience_skill_runecrafting": 0,
+            "exploit_start_timestamp": 0,
+            "exploit_block_counter": 0,
+            "exploit_fish_counter": 0,
+            "exploit_monster_counter": 0,
+            "experience_skill_combat": 0,
+            "killed_first_mob_stamped": true,
+            "playtime_minutes_modes_COMBAT_3": 0,
+            "damage_UNSTABLE_DRAGON_100": 0,
+            "death_count": 0,
+            "playtime_minutes_modes_MINING_1": 0
+          }
+        },
+        "packages": [
+          "visited_hub_zone_village",
+          "unlocked_collection_mining_cobblestone",
+          "visited_hub_zone_mushroom_desert",
+          "unlocked_collection_mining_iron_ingot",
+          "unlocked_collection_foraging_log",
+          "unlocked_collection_mining_gold_ingot",
+          "visited_hub_zone_deep_caverns_room_3",
+          "unlocked_collection_combat_rotten_flesh",
+          "visited_hub_zone_the_barn",
+          "unlocked_collection_combat_bone",
+          "unlocked_collection_fishing_prismarine_crystals",
+          "unlocked_collection_fishing_raw_fish:1",
+          "unlocked_collection_fishing_raw_fish",
+          "unlocked_collection_farming_raw_chicken",
+          "unlocked_collection_farming_feather",
+          "visited_hub_zone_bank",
+          "visited_hub_zone_dark_auction",
+          "visited_hub_zone_forest",
+          "visited_hub_zone_floating_islands_1",
+          "visited_hub_zone_mine",
+          "visited_hub_zone_dynamic_portal_island",
+          "visited_hub_zone_deep_caverns",
+          "visited_hub_zone_farm",
+          "visited_hub_zone_high_level",
+          "visited_hub_zone_deep_caverns_room_1",
+          "visited_hub_zone_ruins",
+          "visited_hub_zone_wilderness",
+          "visited_hub_zone_deep_caverns_room_2",
+          "visited_hub_zone_mountain",
+          "visited_hub_zone_wizard_tower",
+          "visited_hub_zone_library",
+          "visited_hub_zone_fisherman_hut",
+          "visited_hub_zone_danger",
+          "crafted_minion_cobblestone_1",
+          "visited_hub_zone_colosseum",
+          "visited_hub_zone_auction_house",
+          "visited_hub_zone_blazing_fortress",
+          "unlocked_collection_combat_string",
+          "unlocked_collection_mining_coal",
+          "unlocked_collection_combat_ghast_tear",
+          "unlocked_collection_combat_blaze_rod",
+          "unlocked_collection_combat_slime_ball",
+          "unlocked_collection_farming_wheat",
+          "unlocked_collection_combat_magma_cream",
+          "crafted_minion_flower_1",
+          "unlocked_collection_fishing_raw_fish:3",
+          "unlocked_collection_farming_sugar_cane",
+          "unlocked_collection_farming_leather",
+          "unlocked_collection_foraging_log_2",
+          "unlocked_collection_farming_seeds",
+          "unlocked_collection_farming_nether_stalk",
+          "unlocked_collection_combat_ender_pearl",
+          "unlocked_collection_fishing_sponge",
+          "unlocked_collection_combat_spider_eye",
+          "unlocked_collection_mining_diamond",
+          "unlocked_collection_farming_mushroom_collection",
+          "unlocked_collection_foraging_log_2:1",
+          "visited_hub_zone_canvas",
+          "crafted_minion_SUGAR_CANE_1",
+          "crafted_minion_SUGAR_CANE_2",
+          "crafted_minion_IRON_1",
+          "crafted_minion_IRON_2",
+          "crafted_minion_GOLD_1",
+          "crafted_minion_LAPIS_1",
+          "crafted_minion_PUMPKIN_1",
+          "crafted_minion_MELON_1",
+          "crafted_minion_REDSTONE_1",
+          "crafted_minion_LAPIS_2",
+          "crafted_minion_MELON_2",
+          "crafted_minion_CHICKEN_1",
+          "crafted_minion_PIG_1",
+          "crafted_minion_PUMPKIN_2",
+          "crafted_minion_COW_4",
+          "crafted_minion_ZOMBIE_1",
+          "crafted_minion_SHEEP_1",
+          "crafted_minion_SUGAR_CANE_4",
+          "crafted_minion_REDSTONE_2",
+          "crafted_minion_JUNGLE_1",
+          "crafted_minion_COBBLESTONE_5",
+          "crafted_minion_SHEEP_2",
+          "crafted_minion_MELON_3",
+          "crafted_minion_REDSTONE_3",
+          "crafted_minion_DIAMOND_2",
+          "crafted_minion_GLOWSTONE_1",
+          "crafted_minion_QUARTZ_1",
+          "crafted_minion_CACTUS_2",
+          "crafted_minion_NETHER_WARTS_1",
+          "crafted_minion_POTATO_2",
+          "crafted_minion_SKELETON_1",
+          "crafted_minion_RABBIT_1",
+          "crafted_minion_SLIME_1",
+          "crafted_minion_CREEPER_1",
+          "crafted_minion_EMERALD_1",
+          "crafted_minion_PUMPKIN_3",
+          "crafted_minion_GOLD_2",
+          "crafted_minion_SPIDER_1",
+          "crafted_minion_SHEEP_3",
+          "crafted_minion_GRAVEL_1",
+          "crafted_minion_SHEEP_4",
+          "crafted_minion_PIG_5",
+          "crafted_minion_CHICKEN_2",
+          "crafted_minion_CHICKEN_3",
+          "crafted_minion_SKELETON_6",
+          "crafted_minion_SAND_3",
+          "crafted_minion_SPIDER_2",
+          "crafted_minion_DIAMOND_5",
+          "crafted_minion_CHICKEN_4",
+          "crafted_minion_NETHER_WARTS_2",
+          "crafted_minion_SAND_4",
+          "crafted_minion_SPIDER_3",
+          "crafted_minion_CAVESPIDER_1",
+          "crafted_minion_SUGAR_CANE_5",
+          "crafted_minion_NETHER_WARTS_3",
+          "crafted_minion_DIAMOND_6",
+          "crafted_minion_SPIDER_4",
+          "crafted_minion_CAVESPIDER_2",
+          "crafted_minion_EMERALD_2",
+          "crafted_minion_EMERALD_3",
+          "crafted_minion_EMERALD_4",
+          "crafted_minion_QUARTZ_2",
+          "crafted_minion_NETHER_WARTS_4",
+          "crafted_minion_CHICKEN_5",
+          "crafted_minion_SAND_5",
+          "crafted_minion_QUARTZ_3",
+          "crafted_minion_GRAVEL_2",
+          "crafted_minion_GLOWSTONE_2",
+          "crafted_minion_RABBIT_2",
+          "crafted_minion_SPIDER_5",
+          "crafted_minion_RABBIT_3",
+          "crafted_minion_GLOWSTONE_3",
+          "crafted_minion_REDSTONE_5",
+          "crafted_minion_ZOMBIE_3",
+          "crafted_minion_CREEPER_2",
+          "crafted_minion_DARK_OAK_4",
+          "crafted_minion_GRAVEL_3",
+          "crafted_minion_GRAVEL_4",
+          "crafted_minion_ZOMBIE_4",
+          "crafted_minion_GOLD_3",
+          "crafted_minion_GOLD_4",
+          "crafted_minion_GLOWSTONE_4",
+          "crafted_minion_CREEPER_3",
+          "crafted_minion_QUARTZ_5",
+          "crafted_minion_CLAY_1",
+          "crafted_minion_ICE_3",
+          "crafted_minion_CLAY_2",
+          "crafted_minion_CLAY_3",
+          "crafted_minion_CREEPER_4",
+          "crafted_minion_CAVESPIDER_3",
+          "crafted_minion_CLAY_4",
+          "crafted_minion_DARK_OAK_5",
+          "crafted_minion_ZOMBIE_5",
+          "crafted_minion_CLAY_5",
+          "crafted_minion_EMERALD_5",
+          "crafted_minion_ICE_4",
+          "crafted_minion_CREEPER_5",
+          "crafted_minion_CLAY_6",
+          "crafted_minion_ENDERMAN_1",
+          "crafted_minion_CARROT_4",
+          "crafted_minion_EMERALD_6",
+          "crafted_minion_SLIME_2",
+          "crafted_minion_SLIME_3",
+          "crafted_minion_REDSTONE_7",
+          "crafted_minion_GOLD_6",
+          "crafted_minion_GOLD_5",
+          "crafted_minion_CLAY_7",
+          "crafted_minion_CLAY_8",
+          "crafted_minion_SUGAR_CANE_6",
+          "crafted_minion_ENDERMAN_4",
+          "crafted_minion_FISHING_1",
+          "crafted_minion_FISHING_2",
+          "crafted_minion_FISHING_3",
+          "crafted_minion_NETHER_WARTS_6",
+          "crafted_minion_FISHING_4",
+          "crafted_minion_IRON_8",
+          "crafted_minion_FLOWER_2",
+          "crafted_minion_SLIME_5",
+          "crafted_minion_SPIDER_6",
+          "crafted_minion_SPIDER_7",
+          "crafted_minion_MAGMA_CUBE_4",
+          "crafted_minion_FISHING_5",
+          "crafted_minion_FLOWER_3",
+          "crafted_minion_MAGMA_CUBE_5",
+          "crafted_minion_CAVESPIDER_6",
+          "crafted_minion_OBSIDIAN_7",
+          "crafted_minion_FLOWER_4",
+          "crafted_minion_COAL_9",
+          "crafted_minion_COAL_8",
+          "crafted_minion_CAVESPIDER_4",
+          "crafted_minion_CAVESPIDER_5",
+          "crafted_minion_MAGMA_CUBE_3",
+          "crafted_minion_COBBLESTONE_11",
+          "crafted_minion_FISHING_6",
+          "crafted_minion_SPRUCE_3",
+          "crafted_minion_SPRUCE_4",
+          "crafted_minion_BLAZE_3",
+          "crafted_minion_BLAZE_4",
+          "crafted_minion_QUARTZ_7",
+          "crafted_minion_LAPIS_8",
+          "crafted_minion_JUNGLE_5",
+          "crafted_minion_CAVESPIDER_7",
+          "crafted_minion_EMERALD_8",
+          "crafted_minion_ACACIA_4",
+          "crafted_minion_SPRUCE_5",
+          "crafted_minion_BLAZE_6",
+          "crafted_minion_GHAST_1",
+          "unlocked_collection_mining_obsidian",
+          "visited_hub_zone_gallery",
+          "unlocked_collection_mining_ender_stone",
+          "unlocked_collection_mining_ice",
+          "visited_hub_zone_flower_house",
+          "visited_hub_zone_canvas_room",
+          "summer_reward_bundle_vip_1",
+          "summer_reward_bundle_vip_plus_1",
+          "summer_reward_bundle_mvp_1",
+          "visited_hub_zone_tavern",
+          "unlocked_collection_mining_redstone",
+          "unlocked_collection_farming_cactus",
+          "unlocked_collection_fishing_raw_fish:2",
+          "unlocked_collection_farming_carrot_item",
+          "unlocked_collection_foraging_log:2",
+          "unlocked_collection_fishing_water_lily",
+          "unlocked_collection_fishing_ink_sack",
+          "unlocked_collection_fishing_clay_ball",
+          "unlocked_collection_fishing_prismarine_shard",
+          "visited_hub_zone_colosseum_arena",
+          "visited_hub_zone_duel_zone",
+          "unlocked_collection_foraging_log:1",
+          "unlocked_collection_foraging_log:3",
+          "unlocked_collection_mining_ink_sack:4",
+          "unlocked_collection_farming_rabbit",
+          "unlocked_collection_mining_emerald",
+          "unlocked_collection_farming_pumpkin",
+          "unlocked_collection_mining_gravel",
+          "visited_hub_zone_tailor",
+          "visited_hub_zone_bazaar_alley",
+          "visited_hub_zone_catacombs_entrance"
+        ],
+        "joined_version": "",
+        "setting_profile_viewer": true,
+        "setting_guest_invites": true,
+        "itemDetectorAlerts": 0,
+        "setting_coop_invites": true,
+        "idtoken": 0,
+        "setting_double_tap_to_drop": true,
+        "profiles_v2": {
+          "05c9bb60e39e446382c6d5a7fe2fa0f0": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "e397d9ed5e44463c9d074b3cfd7f8781": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "ffee4d14b8b844c58debf75cc2264114": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "ee304bc89e7841cc9018273a26e3bac8": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "8142550b194545f99b9377f67281b989": {
+            "profile_id": "",
+            "cute_name": ""
+          }
+        },
+        "profiles_v3": {
+          "20934ef9488c465180a78f861586b4cf": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "59f2f4d89c8c4fd6bc9f707bc4b23ec5": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "bfbb47836f06483fbbf460cd599ae743": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "05c9bb60e39e446382c6d5a7fe2fa0f0": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "6d10b93252ad419ab79e5149f30692c6": {
+            "profile_id": "",
+            "cute_name": ""
+          }
+        },
+        "profiles_v4": {
+          "bf7c14fb018946899d944d56e65222d2": {
+            "profile_id": "",
+            "cute_name": ""
+          }
+        },
+        "latestUpdateSeen": "",
+        "achievement_magma_cream_consumed": 0,
+        "setting_api_skills": true,
+        "setting_api_collections": true,
+        "setting_api_inventory": true,
+        "setting_play_music": true,
+        "setting_pickup_rarity_filter": "",
+        "setting_hide_friend_pets": true
+      },
+      "SpeedUHC": {
+        "coins": 0,
+        "score": 0,
+        "movedOver": true
+      },
+      "MurderMystery": {
+        "mm_chests": 0,
+        "packages": [
+          "deathcry_dinosaur"
+        ]
+      },
+      "Duels": {
+        "duels_chests": 0,
+        "packages": [
+          "emblem_trophy",
+          "killmessages_rainbow_km",
+          "projectile_trail_note_spiral",
+          "projectile_trail_random"
+        ],
+        "show_lb_option": "",
+        "games_played_duels": 0,
+        "chat_enabled": "",
+        "matchHistory2": [],
+        "bow_duel_bow_hits": 0,
+        "bow_duel_bow_shots": 0,
+        "bow_duel_damage_dealt": 0,
+        "bow_duel_health_regenerated": 0,
+        "bow_duel_rounds_played": 0,
+        "bow_hits": 0,
+        "bow_shots": 0,
+        "damage_dealt": 0,
+        "health_regenerated": 0,
+        "rounds_played": 0,
+        "skywars_rookie_title_prestige": 0,
+        "op_rookie_title_prestige": 0,
+        "blitz_rookie_title_prestige": 0,
+        "tnt_games_rookie_title_prestige": 0,
+        "mega_walls_rookie_title_prestige": 0,
+        "classic_rookie_title_prestige": 0,
+        "no_debuff_rookie_title_prestige": 0,
+        "bridge_rookie_title_prestige": 0,
+        "all_modes_rookie_title_prestige": 0,
+        "bow_rookie_title_prestige": 0,
+        "uhc_rookie_title_prestige": 0,
+        "sumo_rookie_title_prestige": 0,
+        "combo_rookie_title_prestige": 0,
+        "duels_recently_played2": "",
+        "selected_1_new": "",
+        "selected_2_new": "",
+        "current_winstreak_mode_uhc_duel": 0,
+        "maps_won_on": [],
+        "current_winstreak": 0,
+        "current_uhc_winstreak": 0,
+        "coins": 0,
+        "coins_gained": 0,
+        "deaths": 0,
+        "golden_apples_eaten": 0,
+        "losses": 0,
+        "melee_hits": 0,
+        "melee_swings": 0,
+        "uhc_duel_bow_hits": 0,
+        "uhc_duel_bow_shots": 0,
+        "uhc_duel_damage_dealt": 0,
+        "uhc_duel_deaths": 0,
+        "uhc_duel_golden_apples_eaten": 0,
+        "uhc_duel_health_regenerated": 0,
+        "uhc_duel_losses": 0,
+        "uhc_duel_melee_hits": 0,
+        "uhc_duel_melee_swings": 0,
+        "uhc_duel_rounds_played": 0,
+        "best_winstreak_mode_uhc_duel": 0,
+        "best_uhc_winstreak": 0,
+        "best_overall_winstreak": 0,
+        "kills": 0,
+        "uhc_duel_kills": 0,
+        "uhc_duel_wins": 0,
+        "wins": 0,
+        "shop_sort": "",
+        "active_projectile_trail": "",
+        "blitz_duels_kit": "",
+        "blitz_duel_damage_dealt": 0,
+        "blitz_duel_health_regenerated": 0,
+        "blitz_duel_melee_hits": 0,
+        "blitz_duel_melee_swings": 0,
+        "blitz_duel_rounds_played": 0,
+        "bowspleef_duel_bow_shots": 0,
+        "bowspleef_duel_rounds_played": 0,
+        "sumo_duel_melee_hits": 0,
+        "sumo_duel_melee_swings": 0,
+        "sumo_duel_rounds_played": 0,
+        "classic_duel_bow_hits": 0,
+        "classic_duel_bow_shots": 0,
+        "classic_duel_damage_dealt": 0,
+        "classic_duel_health_regenerated": 0,
+        "classic_duel_melee_hits": 0,
+        "classic_duel_melee_swings": 0,
+        "classic_duel_rounds_played": 0
+      },
+      "BuildBattle": {
+        "packages": [
+          "knights_hall",
+          "tnt_hat"
+        ]
+      },
+      "Tag": {
+        "mainlobby_halloween_2019_candyhunt_1": true,
+        "mainlobby_easter_2020_egghunt_38_86_17": true
+      },
+      "Legacy": {
+        "next_tokens_seconds": 0,
+        "quakecraft_tokens": 0,
+        "tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    "deaths": 0
   },
   "cause": "",
   "throttle": true

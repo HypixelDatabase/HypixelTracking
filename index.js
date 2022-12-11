@@ -1,14 +1,16 @@
 const request = require('request');
 const async = require('async');
 const mc = require('minecraft-protocol');
-const merge = require('deepmerge')
+const merge = require('deepmerge');
 const fs = require('fs');
-const path = require('path')
-const puppeteer = require('puppeteer')
+const path = require('path');
+const puppeteer = require('puppeteer');
 const yauzl = require("yauzl");
 const beautify_js = require('js-beautify').js;
 const beautify_css = require('js-beautify').css;
 const urls = require('./urls');
+
+require('dotenv').config();
 const apiKey = process.env.HYPIXEL_API_KEY;
 
 const wait = require('util').promisify(setTimeout);

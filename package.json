@@ -22,6 +22,7 @@
   "dependencies": {
     "async": "^3.2.0",
     "deepmerge": "^4.2.2",
+    "dotenv": "^10.0.0",
     "js-beautify": "^1.10.3",
     "minecraft-protocol": "^1.19.0",
     "puppeteer": "^10.1.0",

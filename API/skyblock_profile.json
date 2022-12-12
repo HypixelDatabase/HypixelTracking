@@ -4877,6 +4877,11 @@
             "status": "COMPLETE",
             "progress": 0,
             "completed_at": 1667484269926
+          },
+          "fetchur-12-11-2022": {
+            "status": "COMPLETE",
+            "progress": 0,
+            "completed_at": 1670869067448
           }
         },
         "tutorial": [
@@ -5422,7 +5427,10 @@
           "st_jerry_76",
           "st_jerry_55",
           "ADVENT_2022_11:advent_gift",
-          "ADVENT_2022_11:advent_coins"
+          "ADVENT_2022_11:advent_coins",
+          "ADVENT_2022_12:advent_gift",
+          "ADVENT_2022_12:advent_coins",
+          "ADVENT_2022_12:furniture"
         ],
         "quests": {
           "collect_log": {

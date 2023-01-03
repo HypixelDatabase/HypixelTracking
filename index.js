@@ -28,16 +28,17 @@ function uniqueArrayElements(target, source) {
 }
 
 function containsBadKey(key) {
-  // return (key in blacklistedValues) || key.startsWith('fetchur-');
-  if ((blacklistedValues.includes(key)) || key.startsWith('fetchur-')) {
-    return true;
-  }
-  return false;
+  return (key in blacklistedValues) || key.startsWith('fetchur-');
 }
 
 function normalizeObject(object) {
   const o = { ...object  };
-  const keys = Object.keys(o).filter((key) => !containsBadKey(key))
+  const keys = Object.keys(o);
+  keys.forEach((key) => {
+    if (containsBadKey(key)) {
+      delete o[key];
+    }
+  })
   keys.forEach(key => {
     let entry = o[key];
     switch (typeof entry) {

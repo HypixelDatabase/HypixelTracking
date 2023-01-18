@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1670515350000,
+  "lastUpdated": 1674042552000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14813,7 +14813,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Crystal Nucleus",
-          "description_name": "the Crytsal Nucleus",
+          "description_name": "the Crystal Nucleus",
           "destination_mode": "crystal_hollows",
           "location_tag": "nucleus",
           "schematic_file": "sb_portal_crystal_hollows",
@@ -15557,7 +15557,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU4NmUwYjI5M2RlZjVjMjU3MzM4NDNiYmU2Nzc5Y2NkYTc3NTkwZTEzMjI0YTJkYjYyNzZhZDgyM2VkNTVlIn19fQ==",
       "name": "Titan's Helmet",
       "category": "HELMET",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 100,
         "HEALTH": 150,
@@ -16625,7 +16625,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ==",
       "name": "Kindred",
       "category": "HELMET",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "WALK_SPEED": 70
       },
@@ -17146,7 +17146,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjNWJjZDYzZTRhOTg4MGZjOGQ3OWVjMDlhNjg0MGQzMjczNmM2MDliODlkZmI0Mjc2NTkzODFlZmM2NzU0ZCJ9fX0",
       "name": "Arenjey God",
       "category": "HELMET",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "MAGIC_FIND": 1000
       },
@@ -26721,7 +26721,7 @@
       "material": "GOLD_SWORD",
       "name": "Ferocity Sword 150",
       "category": "SWORD",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 10,
         "FEROCITY": 150
@@ -27271,7 +27271,7 @@
       "name": "Zoom",
       "glowing": true,
       "category": "PICKAXE",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "BREAKING_POWER": 10,
         "DAMAGE": 30,
@@ -27344,7 +27344,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -27420,7 +27420,7 @@
       },
       "name": "Sword of the Stars 3000",
       "category": "SWORD",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 999999
       },
@@ -28690,7 +28690,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAyMGMzMzY5MjhkOTRmODhiZmNlYjUxODE4YTY0MDQwYjgyNjZkNDk3ZDM4ZWUxMjhlNDNhNGUwMmUyYTM2In19fQ==",
       "name": "Boss",
       "category": "HELMET",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "WALK_SPEED": 60,
         "DEFENSE": 1000,
@@ -28866,7 +28866,7 @@
       "material": "GOLD_CHESTPLATE",
       "name": "Chestplate of the Stars",
       "category": "CHESTPLATE",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 5000,
         "HEALTH": 20000,
@@ -29989,7 +29989,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -30289,7 +30289,7 @@
       "material": "DIAMOND_BOOTS",
       "name": "Titan's Boots",
       "category": "BOOTS",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 100,
         "HEALTH": 100,
@@ -31559,7 +31559,7 @@
       },
       "name": "Sword of the Stars 9000",
       "category": "SWORD",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 9999999
       },
@@ -34610,7 +34610,7 @@
       "material": "DIAMOND_LEGGINGS",
       "name": "Titan's Leggings",
       "category": "LEGGINGS",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 175,
         "HEALTH": 200,
@@ -35336,7 +35336,7 @@
       },
       "name": "Sword of the Stars",
       "category": "SWORD",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 99999
       },
@@ -40873,7 +40873,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdkN2Y4ZmQ4N2ZlN2UzNGY5MTEzZGQzODVhYWI3YjI0ZWYyMjFjMTlkNDU1MTc1YjI1NzhhZjdmZjQ2ZWVjZiJ9fX0=",
       "name": "Giant pile of Cash",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "npc_sell_price": 1000000000,
       "dungeon_item": true,
       "id": "PILE_OF_CASH"
@@ -41121,7 +41121,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -43076,7 +43076,6 @@
       "category": "REFORGE_STONE",
       "tier": "RARE",
       "npc_sell_price": 1,
-      "description": "%%gray%%%%italic%%Extremely rare stone, only found in the Crystal Hollows.",
       "id": "JADERALD"
     },
     {
@@ -50556,7 +50555,7 @@
       "material": "GOLD_SWORD",
       "name": "Ferocity Sword 50",
       "category": "SWORD",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 10,
         "FEROCITY": 50
@@ -51696,7 +51695,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2QxNGUyNTJjYTRhMzQzODgyYzNiMDViYmNmYjhmYzgzN2QyZGU5ZGI0MWRjNTM3MTEzYjczMjA5OCJ9fX0=",
       "name": "The Fast",
       "category": "HELMET",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "WALK_SPEED": 1000
       },
@@ -52767,7 +52766,7 @@
       "material": "GOLD_BOOTS",
       "name": "Boots of the Stars",
       "category": "BOOTS",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 2500,
         "HEALTH": 7500,
@@ -52790,7 +52789,7 @@
       },
       "name": "Raygun",
       "category": "BOW",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 99999999
       },
@@ -55000,7 +54999,7 @@
       "material": "GOLD_HELMET",
       "name": "Helmet of the Stars",
       "category": "HELMET",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 3000,
         "HEALTH": 10000,
@@ -55387,7 +55386,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTcwODI1ZjNjMDJlYjNkM2Y4ZDEzMTIzYjYyNDkxMWM4YTU3ZDk3OTU1ZjNlYTcxNmFjYzIxMjcxNDQ1MDMyMyJ9fX0=",
       "name": "Voodoo",
       "category": "HELMET",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 1000
       },
@@ -60850,7 +60849,7 @@
       "material": "DIAMOND_CHESTPLATE",
       "name": "Titan's Chestplate",
       "category": "CHESTPLATE",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 200,
         "HEALTH": 300,
@@ -61062,7 +61061,7 @@
       "material": "GOLD_LEGGINGS",
       "name": "Leggings of the Stars",
       "category": "LEGGINGS",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DEFENSE": 4000,
         "HEALTH": 15000,
@@ -63633,7 +63632,7 @@
       },
       "name": "Sword of the Universe",
       "category": "SWORD",
-      "tier": "SPECIAL",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 99999999
       },
@@ -64318,7 +64317,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 27
+          "level": 15
         }
       ],
       "gemstone_slots": [
@@ -65053,7 +65052,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNhNjlmY2VlOGFlOWE5Mzg0NTMzZWI5NWY2NDQ3NGJlNTA1OTEwZDk1OWZmNGFjMTI2MTFiMzAxN2UwNzlkMCJ9fX0=",
       "name": "Anubis",
       "category": "HELMET",
-      "tier": "LEGENDARY",
+      "tier": "UNOBTAINABLE",
       "stats": {
         "HEALTH": 3000
       },
@@ -66594,7 +66593,7 @@
       "material": "WATCH",
       "name": "Enchanted Clock",
       "glowing": true,
-      "tier": "RARE",
+      "tier": "UNOBTAINABLE",
       "npc_sell_price": 205000,
       "id": "ENCHANTED_CLOCK"
     },
@@ -73467,7 +73466,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
@@ -73502,7 +73501,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
@@ -73564,7 +73563,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,
@@ -73586,7 +73585,7 @@
         {
           "type": "SKILL",
           "skill": "FISHING",
-          "level": 30
+          "level": 28
         }
       ],
       "npc_sell_price": 1000,

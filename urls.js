@@ -68,10 +68,10 @@ module.exports = [
     url: 'https://api.hypixel.net/resources/challenges',
     dest: './API/challenges.json'
   },
-  {
-    url: 'https://api.hypixel.net/resources/quests',
-    dest: './API/quests.json'
-  },
+  //{
+  //  url: 'https://api.hypixel.net/resources/quests',
+  //  dest: './API/quests.json'
+  //},
   {
     url: 'https://api.hypixel.net/resources/games',
     dest: './API/games.json'

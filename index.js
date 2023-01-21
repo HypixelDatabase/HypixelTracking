@@ -33,8 +33,7 @@ function containsBadKey(key) {
 
 function normalizeObject(object) {
   const o = { ...object  };
-  const keys = Object.keys(o);
-  keys.filter((key) => {
+  const keys = Object.keys(o).filter((key) => {
     if (containsBadKey(key)) {
       console.log(key)
       delete o[key];

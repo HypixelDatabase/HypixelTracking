@@ -28,16 +28,19 @@ function uniqueArrayElements(target, source) {
 }
 
 function containsBadKey(key) {
-  return (key in blacklistedValues) || key.startsWith('fetchur-');
+  return (blacklistedValues.includes(key)) || key.startsWith('fetchur-');
 }
 
 function normalizeObject(object) {
   const o = { ...object  };
   const keys = Object.keys(o);
-  keys.forEach((key) => {
+  keys.filter((key) => {
     if (containsBadKey(key)) {
+      console.log(key)
       delete o[key];
+      return false;
     }
+    return true;
   })
   keys.forEach(key => {
     let entry = o[key];
@@ -80,10 +83,15 @@ async.each(urls, function (s, cb) {
       async.eachLimit(s.values, 1, (value, cb) => {
         const urlString = url.replace('VALUE', value).replace('KEY', apiKey);
         request(urlString, (err, resp, body) => {
-          obj = merge(obj, JSON.parse(body), { arrayMerge: uniqueArrayElements });
-          cb(err);
+          try {
+            obj = merge(obj, JSON.parse(body), { arrayMerge: uniqueArrayElements });
+            cb(err);
+          } catch (e) {
+            cb(e);
+          }
         });
       }, (err) => {
+        if (err) return;
         if (url.includes('/skyblock')) {
           let uuid = {};
           Object.keys(obj.profile.members).forEach(profile => {

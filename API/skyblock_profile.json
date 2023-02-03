@@ -7013,7 +7013,8 @@
           },
           "unlocked_powers": [],
           "selected_power": "",
-          "bag_upgrades_purchased": 0
+          "bag_upgrades_purchased": 0,
+          "highest_magical_power": 0
         },
         "bank_account": 0,
         "experience_skill_social2": 0,
@@ -9178,7 +9179,11 @@
         "teleporter_pill_consumed": true,
         "reaper_peppers_eaten": 0,
         "leveling": {
-          "experience": 0
+          "experience": 0,
+          "completions": {},
+          "completed": [],
+          "migrated_completions": true,
+          "last_viewed_tasks": []
         }
       }
     },

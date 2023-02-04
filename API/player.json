@@ -3893,7 +3893,10 @@
         "newcontrol_disable": 0,
         "newcontrol_enable": 0,
         "display_damage": true,
-        "reroll_common": 0
+        "reroll_common": 0,
+        "leaderboardSettings": {
+          "resetType": ""
+        }
       },
       "HungerGames": {
         "arachnologist": 0,

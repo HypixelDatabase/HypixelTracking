@@ -9181,10 +9181,20 @@
         "reaper_peppers_eaten": 0,
         "leveling": {
           "experience": 0,
-          "completions": {},
+          "completions": {
+            "NUCLEUS_RUNS": 0,
+            "REAPER_PEPPERS": 0
+          },
           "completed": [],
           "migrated_completions": true,
-          "last_viewed_tasks": []
+          "last_viewed_tasks": [],
+          "completed_tasks": [],
+          "category_expanded": true,
+          "highest_pet_score": 0,
+          "mining_fiesta_ores_mined": 0,
+          "fishing_festival_sharks_killed": 0,
+          "migrated": true,
+          "migrated_completions_2": true
         }
       }
     },

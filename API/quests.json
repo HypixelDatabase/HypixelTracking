@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1673306700268,
+  "lastUpdated": 1676082704526,
   "quests": {
     "quake": [
       {
@@ -14,10 +14,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1750
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -45,10 +41,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1750
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -76,10 +68,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1750
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -107,10 +95,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 19800
           }
         ],
         "objectives": [
@@ -145,10 +129,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -176,10 +156,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -207,10 +183,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -238,10 +210,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 3500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 23100
           }
         ],
         "objectives": [
@@ -276,10 +244,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 3000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -307,10 +271,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 3000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 2750
           }
         ],
         "objectives": [
@@ -338,10 +298,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 20000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 23100
           }
         ],
         "objectives": [
@@ -376,10 +332,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -406,10 +358,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -436,10 +384,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -467,10 +411,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -498,10 +438,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 22000
           }
         ],
         "objectives": [
@@ -539,10 +475,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 22000
           }
         ],
         "objectives": [
@@ -563,37 +495,6 @@
           }
         ],
         "description": "Loot 100 Chests\nDeal 250 Damage to Players"
-      },
-      {
-        "id": "blitz_special_daily_north_pole",
-        "name": "Special Daily: Blitz North Pole",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 2750
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 2750
-          }
-        ],
-        "objectives": [
-          {
-            "id": "blitz_special_gifts",
-            "type": "IntegerObjective",
-            "integer": 5
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Find 5 gifts of any type in chests"
       }
     ],
     "tntgames": [
@@ -608,10 +509,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 2750
           }
         ],
         "objectives": [
@@ -639,10 +536,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 11000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 16500
           }
         ],
         "objectives": [
@@ -660,41 +553,6 @@
         "description": "Play 20 games of TNT Games"
       },
       {
-        "id": "tnt_weekly_special",
-        "name": "Special Weekly: Candy Cane Quest",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 33000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 22000
-          },
-          {
-            "type": "PackageReward",
-            "package": "candy_cane"
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 33000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "tnt_weekly_candy_canes",
-            "type": "IntegerObjective",
-            "integer": 40
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Collect 40 Candy Cane blocks! Find them in any mode!"
-      },
-      {
         "id": "tnt_tntrun_daily",
         "name": "Daily Quest: TNT Run",
         "rewards": [
@@ -705,10 +563,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 1980
           }
         ],
         "objectives": [
@@ -736,10 +590,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 6600
           }
         ],
         "objectives": [
@@ -767,10 +617,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 1980
           }
         ],
         "objectives": [
@@ -798,10 +644,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 6600
           }
         ],
         "objectives": [
@@ -829,10 +671,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 1980
           }
         ],
         "objectives": [
@@ -860,10 +698,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 6600
           }
         ],
         "objectives": [
@@ -891,10 +725,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 1980
           }
         ],
         "objectives": [
@@ -922,10 +752,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 6600
           }
         ],
         "objectives": [
@@ -953,10 +779,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 1980
           }
         ],
         "objectives": [
@@ -984,10 +806,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 6600
           }
         ],
         "objectives": [
@@ -1017,10 +835,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -1048,10 +862,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -1084,10 +894,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -1115,10 +921,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -1146,10 +948,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 11550
           }
         ],
         "objectives": [
@@ -1177,10 +975,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 12100
           }
         ],
         "objectives": [
@@ -1213,10 +1007,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 12100
           }
         ],
         "objectives": [
@@ -1246,10 +1036,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1277,10 +1063,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1308,10 +1090,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1339,10 +1117,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 4500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 23100
           }
         ],
         "objectives": [
@@ -1375,10 +1149,6 @@
           {
             "type": "MegawallsMythicFavorReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 5500
           }
         ],
         "objectives": [
@@ -1413,10 +1183,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -1444,10 +1210,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -1475,10 +1237,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 50000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 21450
           }
         ],
         "objectives": [
@@ -1512,10 +1270,6 @@
           {
             "type": "ArenaMagicKeyReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -1547,10 +1301,6 @@
           {
             "type": "ArenaMagicKeyReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -1582,10 +1332,6 @@
           {
             "type": "ArenaMagicKeyReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3575
           }
         ],
         "objectives": [
@@ -1617,10 +1363,6 @@
           {
             "type": "ArenaMagicKeyReward",
             "amount": 15
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 23100
           }
         ],
         "objectives": [
@@ -1650,10 +1392,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1681,10 +1419,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1712,10 +1446,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1743,10 +1473,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 23100
           }
         ],
         "objectives": [
@@ -1764,37 +1490,6 @@
         "description": "Kill 20 players in UHC Champions"
       },
       {
-        "id": "uhc_weekly_special_cookie",
-        "name": "Special Weekly: Hungry Stomp",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 16500
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 20000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 16500
-          }
-        ],
-        "objectives": [
-          {
-            "id": "uhc_kills_after_cookie",
-            "type": "IntegerObjective",
-            "integer": 7
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Kill a player within 30s of eating a Santa Cookie, 7 times."
-      },
-      {
         "id": "solo_brawler",
         "name": "Daily Quest: Solo Speed Brawler",
         "rewards": [
@@ -1805,10 +1500,6 @@
           {
             "type": "CoinReward",
             "amount": 1250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3000
           }
         ],
         "objectives": [
@@ -1835,10 +1526,6 @@
           {
             "type": "CoinReward",
             "amount": 1250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3000
           }
         ],
         "objectives": [
@@ -1865,10 +1552,6 @@
           {
             "type": "CoinReward",
             "amount": 4000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 19500
           }
         ],
         "objectives": [
@@ -1898,10 +1581,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1929,10 +1608,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1960,10 +1635,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -1991,10 +1662,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -2022,10 +1689,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 4000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 21450
           }
         ],
         "objectives": [
@@ -2064,10 +1727,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2098,10 +1757,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2132,10 +1787,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2166,10 +1817,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2200,10 +1847,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2243,10 +1886,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 15
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 26400
           }
         ],
         "objectives": [
@@ -2286,10 +1925,6 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 10
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 16500
           }
         ],
         "objectives": [
@@ -2324,10 +1959,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2355,10 +1986,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2386,10 +2013,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2417,10 +2040,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2448,10 +2067,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 19800
           }
         ],
         "objectives": [
@@ -2481,10 +2096,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1337
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2512,10 +2123,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 3500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2543,10 +2150,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 4620
           }
         ],
         "objectives": [
@@ -2574,10 +2177,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 9000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 26400
           }
         ],
         "objectives": [
@@ -2611,10 +2210,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2646,10 +2241,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2681,10 +2272,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2716,10 +2303,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2751,10 +2334,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2786,10 +2365,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -2821,10 +2396,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 3
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 19800
           }
         ],
         "objectives": [
@@ -2856,10 +2427,6 @@
           {
             "type": "SkyWarsSoulReward",
             "amount": 5
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 11000
           }
         ],
         "objectives": [
@@ -2875,41 +2442,6 @@
           }
         ],
         "description": "Win 10 games of Lucky Block Mode"
-      },
-      {
-        "id": "skywars_special_north_pole",
-        "name": "Special Daily: SkyWars North Pole",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3300
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 2000
-          },
-          {
-            "type": "SkyWarsSoulReward",
-            "amount": 5
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_special_gifts",
-            "type": "IntegerObjective",
-            "integer": 5
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Find 5 gifts of any type in mid chests"
       },
       {
         "id": "skywars_daily_tokens",
@@ -3242,101 +2774,6 @@
         "description": "Kill 150 players in any SkyClash mode"
       }
     ],
-    "prototype": [
-      {
-        "id": "prototype_pit_daily_kills",
-        "name": "Daily Quest: Hunter",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 2200
-          },
-          {
-            "type": "PitGold",
-            "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 2200
-          }
-        ],
-        "objectives": [
-          {
-            "id": "kill",
-            "type": "IntegerObjective",
-            "integer": 25
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Kill 25 Players"
-      },
-      {
-        "id": "prototype_pit_daily_contract",
-        "name": "Daily Quest: Contracted",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3300
-          },
-          {
-            "type": "PitGold",
-            "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
-          }
-        ],
-        "objectives": [
-          {
-            "id": "prototype_pit_daily_contract",
-            "type": "IntegerObjective",
-            "integer": 1
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Complete a Contract"
-      },
-      {
-        "id": "prototype_pit_weekly_gold",
-        "name": "Weekly Quest: Double Up",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 7700
-          },
-          {
-            "type": "PitGold",
-            "amount": 10000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 7700
-          }
-        ],
-        "objectives": [
-          {
-            "id": "prototype_pit_weekly_gold",
-            "type": "IntegerObjective",
-            "integer": 10000
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Collect 10,000 Gold"
-      }
-    ],
     "bedwars": [
       {
         "id": "bedwars_daily_win",
@@ -3349,10 +2786,6 @@
           {
             "type": "BedwarsExpReward",
             "amount": 250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -3380,10 +2813,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -3415,10 +2844,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 7700
           }
         ],
         "objectives": [
@@ -3450,10 +2875,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 7700
           }
         ],
         "objectives": [
@@ -3471,37 +2892,6 @@
         "description": "Win 10 dream games in Bed Wars"
       },
       {
-        "id": "bedwars_daily_gifts",
-        "name": "Special Daily: Gifting Spirit",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 5500
-          },
-          {
-            "type": "BedwarsExpReward",
-            "amount": 700
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 5500
-          }
-        ],
-        "objectives": [
-          {
-            "id": "bedwars_daily_special_christmas_gifts",
-            "type": "IntegerObjective",
-            "integer": 5
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Claim 5 gifts! Gifts regularly spawn at diamond and emerald generators."
-      },
-      {
         "id": "bedwars_weekly_challenges",
         "name": "Weekly Quest: Challenger",
         "rewards": [
@@ -3516,10 +2906,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 2500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 5500
           }
         ],
         "objectives": [
@@ -3549,10 +2935,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -3580,10 +2962,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -3611,10 +2989,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 1980
           }
         ],
         "objectives": [
@@ -3642,10 +3016,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -3677,10 +3047,6 @@
           {
             "type": "GameLootChestReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 13200
           }
         ],
         "objectives": [
@@ -3712,10 +3078,6 @@
           {
             "type": "GameLootChestReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 13200
           }
         ],
         "objectives": [
@@ -3731,45 +3093,6 @@
           }
         ],
         "description": "Win 15 games in any mode."
-      },
-      {
-        "id": "mm_special_weekly_santa",
-        "name": "Special Weekly: Big Time Santa",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 22000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 10000
-          },
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
-          },
-          {
-            "type": "PackageReward",
-            "package": "rudolphs_nose"
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 22000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "mm_special_weekly_santa",
-            "type": "IntegerObjective",
-            "integer": 30
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Find 30 gifts scattered throughout the maps"
       }
     ],
     "buildbattle": [
@@ -3784,10 +3107,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -3815,10 +3134,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 5000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -3846,10 +3161,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 50000
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 23100
           }
         ],
         "objectives": [
@@ -3865,64 +3176,6 @@
           }
         ],
         "description": "Play 30 games of Build Battle"
-      },
-      {
-        "id": "build_battle_christmas",
-        "name": "Special Daily: Holiday",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3300
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 5000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "play",
-            "type": "IntegerObjective",
-            "integer": 2
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Play 2 Holiday Mode games"
-      },
-      {
-        "id": "build_battle_christmas_weekly",
-        "name": "Special Weekly: Holiday Madness",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 46200
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 100000
-          },
-          {
-            "type": "PackageReward",
-            "package": "santa"
-          }
-        ],
-        "objectives": [
-          {
-            "id": "win",
-            "type": "IntegerObjective",
-            "integer": 3
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Win 3 Holiday Mode games"
       }
     ],
     "duels": [
@@ -3937,10 +3190,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -3968,10 +3217,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -3999,10 +3244,6 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 250
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3300
           }
         ],
         "objectives": [
@@ -4034,10 +3275,6 @@
           {
             "type": "GameLootChestReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 19800
           }
         ],
         "objectives": [
@@ -4069,10 +3306,6 @@
           {
             "type": "GameLootChestReward",
             "amount": 1
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 19800
           }
         ],
         "objectives": [
@@ -4090,6 +3323,89 @@
         "description": "Win 50 games of Duels"
       }
     ],
+    "pit": [
+      {
+        "id": "pit_daily_kills",
+        "name": "Daily Quest: Hunter",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 2200
+          },
+          {
+            "type": "PitGold",
+            "amount": 1000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "kill",
+            "type": "IntegerObjective",
+            "integer": 25
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Kill 25 Players"
+      },
+      {
+        "id": "pit_daily_contract",
+        "name": "Daily Quest: Contracted",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3300
+          },
+          {
+            "type": "PitGold",
+            "amount": 1000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "pit_daily_contract",
+            "type": "IntegerObjective",
+            "integer": 1
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Complete a Contract"
+      },
+      {
+        "id": "pit_weekly_gold",
+        "name": "Weekly Quest: Double Up",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 7700
+          },
+          {
+            "type": "PitGold",
+            "amount": 10000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "pit_weekly_gold",
+            "type": "IntegerObjective",
+            "integer": 10000
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Collect 10,000 Gold"
+      }
+    ],
     "woolgames": [
       {
         "id": "wool_wars_daily_play",
@@ -4102,10 +3418,6 @@
           {
             "type": "WoolWarsWoolReward",
             "amount": 30
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -4133,10 +3445,6 @@
           {
             "type": "WoolWarsExpReward",
             "amount": 400
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -4164,10 +3472,6 @@
           {
             "type": "WoolWarsWoolReward",
             "amount": 400
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 3850
           }
         ],
         "objectives": [
@@ -4199,10 +3503,6 @@
           {
             "type": "MultipliedExperienceReward",
             "amount": 7700
-          },
-          {
-            "type": "FestivalExperienceReward",
-            "amount": 7700
           }
         ],
         "objectives": [
@@ -4230,7 +3530,7 @@
         "rewards": [
           {
             "type": "WoolWarsExpReward",
-            "amount": 300
+            "amount": 3000
           },
           {
             "type": "WoolWarsWoolReward",
@@ -4238,10 +3538,6 @@
           },
           {
             "type": "MultipliedExperienceReward",
-            "amount": 7700
-          },
-          {
-            "type": "FestivalExperienceReward",
             "amount": 7700
           }
         ],

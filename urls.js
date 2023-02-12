@@ -15,7 +15,6 @@ module.exports = [
       'ef962ec2df6e48a2ac9d6062c1b84652', // builder_247
       '04cd3f240c7f42009b3398fba995c3a6', // Ealman
     ],
-    dest: "./API/player.json"
   },
   {
     url: "https://api.hypixel.net/skyblock/profile?key=KEY&profile=VALUE",
@@ -23,7 +22,7 @@ module.exports = [
     values: [
       'd05a0e80fa024f5a9367ca66135b7347', // LeaPhant/Grapes (Ironman)
       '683a9f50cc9146f7b752839165c1245e', // Akinsoft/Not Allowed To Quit Skyblock Ever Again
-      '64722047f9b34e69b67b76a62351eb05', // Technoblade/Mango
+      // '64722047f9b34e69b67b76a62351eb05', // Technoblade/Mango
       '739c8592161c47d2a61f25f246041967', // ThirtyVirus/Strawberry (Ironman)
       'd3df3cccffd3473fbbba311d5329bd25', // Refraction/Apple
       'fb3d96498a5b4d5b91b763db14b195ad', // DeathStreeks/Blueberry
@@ -31,7 +30,18 @@ module.exports = [
       '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
       'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
     ],
-    dest: "./API/skyblock_profile.json"
+    transform: (obj, { merge, uniqueArrayElements }) => {
+      let uuid = {};
+      Object.keys(obj.profile.members).forEach(profile => {
+        try {
+          delete obj.profile.members[profile].jacob2.contests;
+        } catch (e) {}
+        uuid = merge(uuid, obj.profile.members[profile], { arrayMerge: uniqueArrayElements });
+        delete obj.profile.members[profile];
+      });
+      obj.profile.members.uuid = uuid;
+      return obj;
+    },
   },
   {
     url: "https://api.hypixel.net/guild?key=KEY&id=VALUE",
@@ -40,15 +50,15 @@ module.exports = [
       '5687d71c0cf245173363d973', // Chimera
       '53bd67d7ed503e868873eceb', // Rebel
       '5320667aed50f531e5de4f5b', // Rawr
-      '5ac8a3780cf2d841f8a664ad', // The Abyss
-      '5363aa4eed50df539dca00ad', // Dominance
-      '56ece7c40cf2e4f9ffcc284e', // Cronos
     ],
-    dest: "./API/guild.json"
+    transform: (obj) => {
+      obj.guild.members[0].expHistory = {};
+      return obj;
+    },
   },
   {
     url: 'https://api.hypixel.net/resources/achievements',
-    dest: './API/achievements.json',
+    type: 'achievements',
     transform: (obj) => {
       const o = { ...obj };
       Object.keys(obj.achievements).forEach((game) => {
@@ -66,42 +76,38 @@ module.exports = [
   },
   {
     url: 'https://api.hypixel.net/resources/challenges',
-    dest: './API/challenges.json'
+    type: 'challenges',
   },
-  //{
-  //  url: 'https://api.hypixel.net/resources/quests',
-  //  dest: './API/quests.json'
-  //},
+  {
+    url: 'https://api.hypixel.net/resources/quests',
+    type: 'quests',
+  },
   {
     url: 'https://api.hypixel.net/resources/games',
-    dest: './API/games.json'
+    type: 'games',
   },
   {
     url: 'https://api.hypixel.net/resources/vanity/pets',
-    dest: './API/pets.json'
+    type: 'pets',
   },
   {
     url: 'https://api.hypixel.net/resources/vanity/companions',
-    dest: './API/companions.json'
+    type: 'companions',
   },
   {
     url: 'https://api.hypixel.net/resources/guilds/achievements',
-    dest: './API/guild_achievements.json'
-  },
-  {
-    url: 'https://api.hypixel.net/resources/guilds/permissions',
-    dest: './API/guild_permissions.json'
+    type: 'guild_achievements',
   },
   {
     url: 'https://api.hypixel.net/resources/skyblock/collections',
-    dest: './API/skyblock_collections.json'
+    type: 'skyblock_collections',
   },
   {
     url: 'https://api.hypixel.net/resources/skyblock/skills',
-    dest: './API/skyblock_skills.json'
+    type: 'skyblock_skills',
   },
   {
     url: 'https://api.hypixel.net/resources/skyblock/items',
-    dest: './API/skyblock_items.json'
+    type: 'skyblock_items',
   },
 ];

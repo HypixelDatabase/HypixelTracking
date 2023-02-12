@@ -1,6 +1,6 @@
 {
   "name": "hypixeltracker",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "🕵️‍♂️ Tracking things, so you don't have to",
   "main": "index.js",
   "scripts": {
@@ -20,13 +20,13 @@
   },
   "homepage": "https://github.com/HypixelDatabase/HypixelTracker#readme",
   "dependencies": {
-    "async": "^3.2.0",
+    "axios": "^1.3.2",
     "deepmerge": "^4.2.2",
     "dotenv": "^10.0.0",
-    "js-beautify": "^1.10.3",
-    "minecraft-protocol": "^1.19.0",
-    "puppeteer": "^10.1.0",
-    "request": "^2.88.2",
-    "yauzl": "^2.10.0"
+    "minecraft-protocol": "^1.40.3",
+    "puppeteer": "^19.6.3"
+  },
+  "engines": {
+    "node": "18"
   }
 }

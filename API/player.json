@@ -29871,7 +29871,10 @@
         "combatTracker": true,
         "votes_Marshland": 0,
         "votes_Bastion": 0,
-        "votes_Toybox": 0
+        "votes_Toybox": 0,
+        "leaderboardSettings": {
+          "resetType": ""
+        }
       },
       "SpeedUHC": {
         "killstreak": 0,
@@ -32964,7 +32967,10 @@
         "free_event_key_bedwars_christmas_boxes_2022": true,
         "shop_sort_enable_owned_first": true,
         "four_three_projectile_kills_bedwars": 0,
-        "two_four_projectile_deaths_bedwars": 0
+        "two_four_projectile_deaths_bedwars": 0,
+        "leaderboardSettings": {
+          "resetType": ""
+        }
       },
       "MurderMystery": {
         "knife_kills_library": 0,

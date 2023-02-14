@@ -3308,6 +3308,76 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_sam": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_sam_wheat": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_sam_composter": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "purchase_fuel": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "refuel_composter": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_sam_compost": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "unlock_crop_plot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "reach_garden_plot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "clean_crop_plot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_sam_composter_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "bring_sam_wheat_for_bread": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "set_up_stand": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_sam_at_stand": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "serve_first_customer": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -3898,7 +3968,10 @@
           "talk_to_elizabeth",
           "reach_farming_5",
           "sam_asks_for_help",
-          "agree_to_help_sam"
+          "agree_to_help_sam",
+          "COMPOST_TAKEN",
+          "SAM_SCYTHE",
+          "sam_ask_to_bake_bread"
         ],
         "quests": {
           "collect_log": {
@@ -4273,6 +4346,34 @@
             "completed_at_sb": 0
           },
           "talk_to_spider_tamer": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_sam": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_sam_composter": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "unlock_crop_plot": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_sam_composter_2": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,

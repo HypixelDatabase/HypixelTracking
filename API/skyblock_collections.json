@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1669844848942,
-  "version": "0.17.0",
+  "lastUpdated": 1676676943639,
+  "version": "0.18.13",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -614,7 +614,7 @@
         },
         "SEEDS": {
           "name": "Seeds",
-          "maxTiers": 6,
+          "maxTiers": 7,
           "tiers": [
             {
               "tier": 1,
@@ -637,6 +637,7 @@
               "amountRequired": 250,
               "unlocks": [
                 "Long Grass Trade",
+                "Enchanted Seeds Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -661,6 +662,14 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Double Tallgrass Trade",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Box of Seeds Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -823,7 +832,10 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "+5,000 Farming Experience",
+                "Rabbit Helmet Recipe",
+                "Rabbit Chestplate Recipe",
+                "Rabbit Leggings Recipe",
+                "Rabbit Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -917,7 +929,7 @@
               "tier": 11,
               "amountRequired": 100000,
               "unlocks": [
-                "Massive Potion Bag Upgrade",
+                "Mutant Nether Wart Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -925,7 +937,7 @@
               "tier": 12,
               "amountRequired": 250000,
               "unlocks": [
-                "Mutant Nether Wart Recipe",
+                "Massive Potion Bag Upgrade",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1092,7 +1104,10 @@
               "tier": 9,
               "amountRequired": 250000,
               "unlocks": [
-                "+25,000 Farming Experience",
+                "Melon Helmet Recipe",
+                "Melon Chestplate Recipe",
+                "Melon Leggings Recipe",
+                "Melon Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             }

@@ -75,6 +75,13 @@ module.exports = [
     }
   },
   {
+    url: 'https://api.hypixel.net/skyblock/bazaar',
+    type: 'skyblock_bazaar_products',
+    transform: (obj) => {
+      return Object.keys(obj.products).sort();
+    },
+  },
+  {
     url: 'https://api.hypixel.net/resources/challenges',
     type: 'challenges',
   },

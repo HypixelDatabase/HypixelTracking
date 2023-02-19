@@ -107,9 +107,11 @@ const tasks = [
         let results = [];
         log(`Generating resource '${type}'`);
 
+        const path = dest || `./API/${type}.json`;
+
         if (Object.hasOwn(entry, 'values')) {
           // Load previous data
-          obj = require(`./API/${type}.json`) || {};
+          obj = require(path) || {};
           for (const value of entry.values) {
             results.push(await get(url.replace('VALUE', value), type));
           }
@@ -132,7 +134,16 @@ const tasks = [
             obj = results[0];
           }
 
-          const path = dest || `./API/${type}.json`;
+          // Sometimes resources return old data, so we need to discard the changes
+          if (url.includes('resources')) {
+            const { lastUpdated } = require(path);
+
+            if (lastUpdated > obj.lastUpdated) {
+              log(`Resource '${type}' returned data from ${lastUpdated}, which is older than ${obj.lastUpdated}! Discarding...`, 'warn');
+              continue;
+            }
+          }
+
           await fs.promises.writeFile(path, JSON.stringify(obj, null, 2));
         } catch (error) {
           log(`Failed resource ${type}: ${error}`, 'error')

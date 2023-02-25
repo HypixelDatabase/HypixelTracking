@@ -2747,7 +2747,9 @@
       },
       "pit_weekly_gold": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "pit_weekly_gold": 0
+          },
           "started": 0
         }
       },

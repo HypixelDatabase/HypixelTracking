@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 2
       - name: Get formatted diff
         id: get_diff
-        uses: LikePlayingGames/line-diff-action@v1.1
+        uses: ILikePlayingGames/line-diff-action@v1.1
         with:
           commit-hash: '@~'
       - name: Discord Webhook Action

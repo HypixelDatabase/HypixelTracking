@@ -20,6 +20,6 @@ jobs:
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
           content: |
-          ```ansi
+          \`\`\`ansi
           ${{ steps.get_diff.outputs.diff }}
-          ```
+          \`\`\`

@@ -19,7 +19,4 @@ jobs:
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: |
-          \`\`\`ansi
-          ${{ steps.get_diff.outputs.diff }}
-          \`\`\`
+          content: "```ansi ${{ steps.get_diff.outputs.diff }}```"

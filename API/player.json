@@ -2747,7 +2747,9 @@
       },
       "pit_weekly_gold": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "pit_weekly_gold": 0
+          },
           "started": 0
         }
       },
@@ -3208,7 +3210,8 @@
         "leaderboardSettings": {
           "resetType": "",
           "mode": ""
-        }
+        },
+        "jigsaw_rush_round_wins_party": 0
       },
       "Arena": {
         "coins": 0,
@@ -42336,7 +42339,8 @@
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "ARCADE__zombies_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
-        "WOOL_GAMES__flawless_challenge": 0
+        "WOOL_GAMES__flawless_challenge": 0,
+        "BUILD_BATTLE__guesser_challenge": 0
       },
       "day_h": {
         "UHC__threat_challenge": 0,
@@ -43072,7 +43076,8 @@
         "WOOL_GAMES__builder_challenge": 0,
         "TNTGAMES__tnt_wizards_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
-        "ARCADE__hide_and_seek_challenge": 0
+        "ARCADE__hide_and_seek_challenge": 0,
+        "ARCADE__zombies_challenge": 0
       }
     },
     "parkourCheckpointBests": {

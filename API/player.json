@@ -2755,7 +2755,9 @@
       },
       "pit_daily_kills": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "kill": 0
+          },
           "started": 0
         }
       }

@@ -2,7 +2,7 @@ name: Post diff to Discord
 on:
   push:
     branches: master
-jobs: 
+jobs:
   post:
     runs-on: ubuntu-latest
     steps:
@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 2
       - name: Get formatted diff
         id: get_diff
-        uses: ILikePlayingGames/line-diff-action@aca6cad2f8b33ade730cecb13c6b7c92d231b680
+        uses: ILikePlayingGames/line-diff-action@3ef6616
         with:
           commit-hash: '@~'
           ruler-width: '10'
@@ -20,4 +20,4 @@ jobs:
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "```\n${{ steps.get_diff.outputs.diff }}```"
+          content: "```ansi\n${{ steps.get_diff.outputs.diff }}```"

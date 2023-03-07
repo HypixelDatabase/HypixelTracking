@@ -12,7 +12,7 @@ jobs:
           fetch-depth: 2
       - name: Get formatted diff
         id: get_diff
-        uses: ILikePlayingGames/line-diff-action@3ef6616
+        uses: ILikePlayingGames/line-diff-action@3ef6616b4fbd887f75edf9b508cee0afc731d6f3
         with:
           commit-hash: '@~'
           ruler-width: '10'

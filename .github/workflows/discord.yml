@@ -10,10 +10,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
-      - name: Get formatted diff
-        id: diff
-        uses: ILikePlayingGames/line-diff-action@3ef6616b4fbd887f75edf9b508cee0afc731d6f3
-        with:
-          commit-hash: '@~'
-          ruler-width: '10'
-      - run: echo "${{ steps.diff.outputs.diff }}"
+      - name: Set diff
+        id: test
+        run: echo "DIFF=[34m[38;5;30m /*.ts",[0m  [34m[38;5;30m /*.ts",[0m
+[34m[38;5;30m     "__t[34m↵[0m[34m[38;5;30m     "__t[34m↵[0m
+[34m[38;5;30m ests__/*[34m↵[0m[34m[38;5;30m ests__/*[34m↵[0m
+[34m[38;5;30m .ts"[0m     [34m[38;5;30m .ts"[0m
+[34m[38;5;30m   ][0m      [34m[38;5;30m   ][0m" >> $GITHUB_OUTPUT
+      - name: Get diff
+        run: echo "The diff is ${{ steps.test.outputs.DIFF }}"

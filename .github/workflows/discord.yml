@@ -3,7 +3,7 @@ on:
   push:
     branches: master
 env:
-  DIFF: '\u001b[34m\u001b[38;5;30m     "__t\u001b[34m↵\u001b[0m\u001b[34m\u001b[38;5;30m     "__t\u001b[34m↵\u001b[0m\n\u001b[34m\u001b[38;5;30m ests__/*\u001b[34m↵\u001b[0m\u001b[34m\u001b[38;5;30m ests__/*\u001b[34m↵\u001b[0m\n\u001b[34m\u001b[38;5;30m .ts"\u001b[0m     \u001b[34m\u001b[38;5;30m .ts"\u001b[0m\n\u001b[34m\u001b[38;5;30m   ]\u001b[0m      \u001b[34m\u001b[38;5;30m   ]\u001b[0m'
+  DIFF: '[34m[38;5;30m     "__t[34m↵[0m[34m[38;5;30m     "__t[34m↵[0m\n[34m[38;5;30m ests__/*[34m↵[0m[34m[38;5;30m ests__/*[34m↵[0m\n[34m[38;5;30m .ts"[0m     [34m[38;5;30m .ts"[0m\n[34m[38;5;30m   ][0m      [34m[38;5;30m   ][0m'
 jobs:
   post:
     runs-on: ubuntu-latest

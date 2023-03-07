@@ -925,7 +925,10 @@
           "deaths_krondor_necromancer": 0,
           "deaths_ghast": 0,
           "special_zealot_loot_collected": 0,
-          "kills_krondor_necromancer_summon": 0
+          "kills_krondor_necromancer_summon": 0,
+          "kills_master_professor_archer_guardian": 0,
+          "kills_master_professor": 0,
+          "kills_master_professor_mage_guardian": 0
         },
         "objectives": {
           "collect_log": {
@@ -7185,7 +7188,8 @@
               }
             }
           ],
-          "migrated": true
+          "migrated": true,
+          "migrated_2": true
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -8819,7 +8823,10 @@
           "kills_dojo_knockback_zombie_7": 0,
           "kills_dojo_knockback_zombie_8": 0,
           "kills_dojo_knockback_zombie_5": 0,
-          "kills_krondor_necromancer_summon_75": 0
+          "kills_krondor_necromancer_summon_75": 0,
+          "kills_master_professor_archer_guardian_1": 0,
+          "kills_master_professor_1": 0,
+          "kills_master_professor_mage_guardian_1": 0
         },
         "trophy_fish": {
           "rewards": [],

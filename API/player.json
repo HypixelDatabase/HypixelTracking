@@ -2755,7 +2755,9 @@
       },
       "pit_daily_kills": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "kill": 0
+          },
           "started": 0
         }
       }
@@ -38231,6 +38233,14 @@
           "7122d66617744f35be47c174ddb01459": {
             "profile_id": "",
             "cute_name": ""
+          },
+          "2e8301a148a64d31b15cbe8d963d3e9a": {
+            "profile_id": "",
+            "cute_name": ""
+          },
+          "eb02e1d73a674042acbeb01251dfc336": {
+            "profile_id": "",
+            "cute_name": ""
           }
         }
       },
@@ -43963,6 +43973,13 @@
         "VIP_PLUS": true,
         "MVP": true,
         "MVP_PLUS": true
+      },
+      "3-2023": {
+        "MVP_PLUS": true,
+        "MVP": true,
+        "VIP_PLUS": true,
+        "VIP": true,
+        "REGULAR": true
       }
     },
     "dmcrates-10-2019": {
@@ -48825,7 +48842,8 @@
         "total_tokens": 0
       }
     },
-    "deaths": 0
+    "deaths": 0,
+    "scorpius_bribe_264": 0
   },
   "cause": "",
   "throttle": true

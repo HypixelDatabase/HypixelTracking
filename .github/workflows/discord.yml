@@ -12,10 +12,6 @@ jobs:
           fetch-depth: 2
       - name: Set diff
         id: test
-        run: echo "DIFF=[34m[38;5;30m /*.ts",[0m  [34m[38;5;30m /*.ts",[0m
-[34m[38;5;30m     "__t[34m↵[0m[34m[38;5;30m     "__t[34m↵[0m
-[34m[38;5;30m ests__/*[34m↵[0m[34m[38;5;30m ests__/*[34m↵[0m
-[34m[38;5;30m .ts"[0m     [34m[38;5;30m .ts"[0m
-[34m[38;5;30m   ][0m      [34m[38;5;30m   ][0m" >> $GITHUB_OUTPUT
+        run: echo "DIFF=\u001b[34m12\u001b" >> $GITHUB_OUTPUT
       - name: Get diff
         run: echo "The diff is ${{ steps.test.outputs.DIFF }}"

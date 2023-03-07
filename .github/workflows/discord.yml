@@ -11,7 +11,7 @@ jobs:
         with:
           fetch-depth: 2
       - name: Get formatted diff
-        id: get_diff
+        id: diff
         uses: ILikePlayingGames/line-diff-action@3ef6616b4fbd887f75edf9b508cee0afc731d6f3
         with:
           commit-hash: '@~'
@@ -20,4 +20,4 @@ jobs:
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "```ansi\n${{ steps.get_diff.outputs.diff }}```"
+          content: "```ansi\n${{ steps.diff.outputs.diff }}```"

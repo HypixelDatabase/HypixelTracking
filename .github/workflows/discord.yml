@@ -9,9 +9,14 @@ jobs:
       - name: Fetch HEAD and the commit before it
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2 
+          fetch-depth: 2
       - name: Get formatted diff
         id: get_diff
         uses: ILikePlayingGames/line-diff-action@bff83b332502a10b5c88da55d45e2a96116fb240
         with:
           commit-hash: '@~'
+      - name: Post to Discord
+        uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          raw-content: diff.txt

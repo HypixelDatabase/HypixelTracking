@@ -15,6 +15,7 @@ jobs:
         uses: ILikePlayingGames/line-diff-action@v1.2
         with:
           commit-hash: '@~'
+          diff-algorithm: histogram
       - name: Wrap diff in code block
         run: >-
           sed -i -e '/`/d' -e '1 i\

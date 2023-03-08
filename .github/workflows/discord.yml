@@ -15,13 +15,26 @@ jobs:
         uses: ILikePlayingGames/line-diff-action@v1.2
         with:
           commit-hash: '@~'
+          diff-algorithm: histogram
       - name: Wrap diff in code block
         run: >-
-          sed -i -e '/`/d' -e '1 i\
-          ```ansi' -e '$ a\
-          ```' diff.txt
-      - name: Post to Discord
+          sed -i -e '/`/d' -e '1i```ansi' -e '$a```' diff.txt
+      - name: Count diff characters
+        run: >-
+          echo "DIFF_CHAR_COUNT=$(wc -c < diff.txt)" >> $GITHUB_ENV
+      - name: Post as message to Discord
+        if: ${{ env.DIFF_CHAR_COUNT <= 2000 }}
         uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
+          username: API Update Tracker
+          avatar-url: 'https://cdn.discordapp.com/avatars/999680196040982618/df91181b3f1cf0ef1592fbe18e0962d7.webp'
           raw-content: diff.txt
+      - name: Post as file to Discord
+        if: ${{ env.DIFF_CHAR_COUNT > 2000 }}
+        uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          username: API Update Tracker
+          avatar-url: 'https://cdn.discordapp.com/avatars/999680196040982618/df91181b3f1cf0ef1592fbe18e0962d7.webp'
+          filename: diff.txt

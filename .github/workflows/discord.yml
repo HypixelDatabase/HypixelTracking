@@ -22,7 +22,7 @@ jobs:
           ```' diff.txt
       - name: Count diff characters
         run: >-
-          echo ::set-env name=DIFF_CHAR_COUNT::$(wc -c < diff.txt') 
+          echo ::set-env name=DIFF_CHAR_COUNT::$(wc -c < diff.txt) 
       - name: Post as message to Discord
         if: ${{ env.DIFF_CHAR_COUNT <= 2000 }}
         uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240

@@ -12,12 +12,12 @@ jobs:
           fetch-depth: 2
       - name: Get formatted diff
         id: get_diff
-        uses: ILikePlayingGames/line-diff-action@bff83b332502a10b5c88da55d45e2a96116fb240
+        uses: ILikePlayingGames/line-diff-action@v1.2
         with:
           commit-hash: '@~'
       - name: Wrap diff in code block
         run: >-
-          sed -i -e '1 i\
+          sed -i -e '/`/d' -e '1 i\
           ```ansi' -e '$ a\
           ```' diff.txt
       - name: Post to Discord

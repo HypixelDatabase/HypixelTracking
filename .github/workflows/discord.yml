@@ -15,6 +15,12 @@ jobs:
         uses: ILikePlayingGames/line-diff-action@bff83b332502a10b5c88da55d45e2a96116fb240
         with:
           commit-hash: '@~'
+      - name: Wrap diff in code block
+        run: >-
+          sed -i -e '1 i\
+          ```ansi' diff.txt
+          sed -i -e '$ a\
+          ```' diff.txt
       - name: Post to Discord
         uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
         with:

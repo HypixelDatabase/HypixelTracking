@@ -28,6 +28,7 @@ jobs:
         uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
+          username: API Update Tracker
           avatar-url: 'https://cdn.discordapp.com/avatars/999680196040982618/df91181b3f1cf0ef1592fbe18e0962d7.webp'
           raw-content: diff.txt
       - name: Post as file to Discord
@@ -35,5 +36,6 @@ jobs:
         uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
+          username: API Update Tracker
           avatar-url: 'https://cdn.discordapp.com/avatars/999680196040982618/df91181b3f1cf0ef1592fbe18e0962d7.webp'
           filename: diff.txt

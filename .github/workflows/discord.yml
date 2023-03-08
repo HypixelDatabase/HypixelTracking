@@ -2,8 +2,6 @@ name: Post diff to Discord
 on:
   push:
     branches: master
-env:
-  DIFF:  
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -12,4 +10,8 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 2 
-      - run: find / | sed -e "s/[^-][^\/]*\//  |/g" -e "s/|\([^ ]\)/|-\1/"
+      - name: Get formatted diff
+        id: get_diff
+        uses: ILikePlayingGames/line-diff-action@bff83b332502a10b5c88da55d45e2a96116fb240
+        with:
+          commit-hash: '@~'

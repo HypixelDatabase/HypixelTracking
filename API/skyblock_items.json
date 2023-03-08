@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1676564074000,
+  "lastUpdated": 1678286039000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -41138,7 +41138,7 @@
       "material": "HUGE_MUSHROOM_2",
       "name": "Enchanted Red Mushroom Block",
       "glowing": true,
-      "npc_sell_price": 2300,
+      "npc_sell_price": 20480,
       "tier": "RARE",
       "id": "ENCHANTED_HUGE_MUSHROOM_2"
     },
@@ -58738,7 +58738,7 @@
       "material": "HUGE_MUSHROOM_1",
       "name": "Enchanted Brown Mushroom Block",
       "glowing": true,
-      "npc_sell_price": 2300,
+      "npc_sell_price": 20480,
       "tier": "RARE",
       "id": "ENCHANTED_HUGE_MUSHROOM_1"
     },
@@ -74373,6 +74373,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjUwMjg4MjE2MSwKICAicHJvZmlsZUlkIiA6ICJkOTcwYzEzZTM4YWI0NzlhOTY1OGM1ZDQ1MjZkMTM0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmltcHlMYWNlODUxMjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRlY2UyOGZhNmRlYzE0Mzg2NzkxZDZmYzFlYzFmNWNhZDg3YWQxOThhNmFjNzU0OTY3Zjk2MWQxMjMyODhmYyIKICAgIH0KICB9Cn0",
       "name": "Jake's Plushie",
       "tier": "UNCOMMON",
+      "soulbound": "SOLO",
       "category": "ACCESSORY",
       "stats": {
         "HEALTH": 2
@@ -74424,7 +74425,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2Njg4NjkyMDczOSwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODIzM2QzYTcwZDgyZWVlMWNhYWE1OGMxNmI4M2VlNjIyNGU4YmZjN2NkYTYzNjc5Mzg1M2UwNDFhMWZiYWE2YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Condensed Fermento",
       "tier": "LEGENDARY",
-      "npc_sell_price": 5000,
+      "npc_sell_price": 9000,
       "id": "CONDENSED_FERMENTO"
     },
     {

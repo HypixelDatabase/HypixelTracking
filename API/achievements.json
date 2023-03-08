@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1676082704523,
+  "lastUpdated": 1678294062037,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10313,12 +10313,22 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "CLEANUP_CREW": {
+          "points": 5,
+          "name": "Cleanup Crew",
+          "description": "Finish clearing a plot in The Garden."
+        },
         "SADDLE_UP": {
           "points": 5,
           "name": "Saddle Up!",
           "description": "[Coop or you] Craft a saddle",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "WOW_USEFUL": {
+          "points": 5,
+          "name": "Wow, that's useful!",
+          "description": "Use the /wiki, /wikithis, or /wikihand command to view the Official Hypixel Wiki."
         },
         "I_AM_SUPERIOR": {
           "points": 10,
@@ -10433,6 +10443,17 @@
           "description": "Find a Golden Goblin by throwing a Goblin Egg.",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ALWAYS_SUNNY_IN_SB": {
+          "points": 10,
+          "name": "Always Sunny in SkyBlock",
+          "description": "Place a Day Saver in The Garden."
+        },
+        "JAKES_MYSTERY": {
+          "points": 15,
+          "name": "Jake's Mystery",
+          "description": "???",
+          "secret": true
         },
         "TO_SPACE_WE_GO": {
           "points": 5,
@@ -10626,6 +10647,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "SECRET_END_PLACE": {
+          "points": 10,
+          "name": "What is this place...",
+          "description": "???",
+          "secret": true
+        },
         "DIDNT_MEAN_TO": {
           "points": 5,
           "name": "Didn't mean to!",
@@ -10653,6 +10680,11 @@
           "description": "Give Fetchur the item he asks for.",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "BOUNTIFUL_HARVEST": {
+          "points": 10,
+          "name": "Bountiful Harvest",
+          "description": "Find a Squash while farming."
         },
         "HSSSSS": {
           "points": 5,
@@ -10918,6 +10950,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "PERFECT_HEIST": {
+          "points": 10,
+          "name": "The Perfect Heist",
+          "description": "Gather 3 Heavy Pearls from the Matriarch and escape without taking damage."
+        },
         "FULLY_EVOLVED": {
           "points": 10,
           "name": "Fully Evolved",
@@ -11051,6 +11088,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "COMPOST_COLLECTOR": {
+          "points": 5,
+          "name": "Compost Collector",
+          "description": "Retrieve 8 compost from the Composter at once."
+        },
         "SPIKY": {
           "points": 5,
           "name": "Spiky",
@@ -11093,6 +11135,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "FANCY_FARMING": {
+          "points": 5,
+          "name": "Fancy Farming",
+          "description": "Change your Barn skin in The Garden"
+        },
         "EVERY_LITTLE_BIT_HELPS": {
           "points": 5,
           "name": "Every little bit helps",
@@ -11113,6 +11160,11 @@
           "description": "Kill a Grinch on the Jerry Island",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "HUMBLE_BEGINNINGS": {
+          "points": 5,
+          "name": "Humble Beginnings",
+          "description": "Catch all 18 types of Trophy Fish."
         },
         "I_KNEW_IT": {
           "points": 10,
@@ -11135,6 +11187,11 @@
           "description": "Kill a mob with the Voodoo Doll ability",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "PUT_SPELL": {
+          "points": 10,
+          "name": "Gonna Put a Spell on You",
+          "description": "Use the Hex for the first time."
         },
         "SUPER_FUEL": {
           "points": 5,
@@ -11209,6 +11266,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "QUITE_THE_CROWD": {
+          "points": 5,
+          "name": "Quite the Crowd",
+          "description": "Have 5 visitors at once in The Garden."
+        },
         "BIG_GAME_FISHER": {
           "points": 15,
           "name": "Big Game Fisher",
@@ -11259,6 +11321,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "PLAYER_OF_THE_PEOPLE": {
+          "points": 15,
+          "name": "Player of the People",
+          "description": "Serve 50 Unique Visitors in The Garden."
+        },
         "HOW_TO_TRAIN_YOUR_DRAGON": {
           "points": 10,
           "name": "How to train your dragon?",
@@ -11279,6 +11346,16 @@
           "description": "Obtain the Sea Creature Artifact",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ONLY_BE_ONE": {
+          "points": 15,
+          "name": "There Can Only Be One",
+          "description": "Kill a Tier 5 Revenant Boss."
+        },
+        "FORBIDDEN_FRUIT": {
+          "points": 10,
+          "name": "Forbidden Fruit",
+          "description": "Wear a full set of Fermento Armor."
         },
         "LIFELONG_CONTRACT": {
           "points": 15,
@@ -11449,6 +11526,11 @@
           "description": "Wear the Spider's Boots",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "BALROG_MEMORIES": {
+          "points": 15,
+          "name": "Memories of a Bal",
+          "description": "Wear a full set of Divan's Armor."
         },
         "YOUR_BIG_BREAK": {
           "points": 5,
@@ -11645,6 +11727,37 @@
             }
           ]
         },
+        "CURATOR": {
+          "name": "Curator",
+          "description": "Donate %s items to the Museum",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 150
+            }
+          ]
+        },
         "DOMESTICATOR": {
           "name": "Domesticator",
           "description": "Achieve taming level %s",
@@ -11673,6 +11786,37 @@
               "tier": 5,
               "points": 15,
               "amount": 25
+            }
+          ]
+        },
+        "PEOPLE_PLEASER": {
+          "name": "People Pleaser",
+          "description": "Serve %s Total Visitors in The Garden",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
             }
           ]
         },
@@ -11924,6 +12068,37 @@
             }
           ]
         },
+        "SB_LEVELS": {
+          "name": "Climbing the Ranks",
+          "description": "Reach SkyBlock Level %s",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 40
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 80
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 120
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 160
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 200
+            }
+          ]
+        },
         "DIVANS_TREASURES": {
           "name": "Divan's Treasures",
           "description": "Find treasures in the Mines of Divan %s times",
@@ -12018,7 +12193,7 @@
           ]
         }
       },
-      "total_points": 2270,
+      "total_points": 2645,
       "total_legacy_points": 0
     },
     "skyclash": {

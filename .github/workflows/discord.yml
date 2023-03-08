@@ -18,7 +18,7 @@ jobs:
           diff-algorithm: histogram
       - name: Wrap diff in code block
         run: >-
-          sed -i -e '/`/d' -e '1i```ansi' -e '$a```' diff.txt
+          sed -i -e '/`/d' -e '1i```ansi' -e '$a```\n' diff.txt
       - name: Count diff characters
         run: >-
           echo "DIFF_CHAR_COUNT=$(wc -c < diff.txt)" >> $GITHUB_ENV

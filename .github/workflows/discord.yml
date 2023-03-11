@@ -19,7 +19,7 @@ jobs:
           delta-theme: discord
       - name: Wrap diff in code block
         run: >-
-          sed -i -e '/`/d' -e '1i```ansi' -e '$a```\n' diff.txt
+          sed -i -e 's/`/\`/g' -e '1i```ansi' -e '$a```\n' diff.txt
       - name: Count diff characters
         run: >-
           echo "DIFF_CHAR_COUNT=$(wc -c < diff.txt)" >> $GITHUB_ENV

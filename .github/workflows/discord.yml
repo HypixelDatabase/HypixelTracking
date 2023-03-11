@@ -12,10 +12,11 @@ jobs:
           fetch-depth: 2
       - name: Get formatted diff
         id: get_diff
-        uses: ILikePlayingGames/line-diff-action@v1.2
+        uses: ILikePlayingGames/line-diff-action@v1.3
         with:
           commit-hash: '@~'
           diff-algorithm: histogram
+          delta-theme: discord
       - name: Wrap diff in code block
         run: >-
           sed -i -e '/`/d' -e '1i```ansi' -e '$a```\n' diff.txt

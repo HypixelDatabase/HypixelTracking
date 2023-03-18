@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1678294062037,
+  "lastUpdated": 1679065662022,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10316,7 +10316,9 @@
         "CLEANUP_CREW": {
           "points": 5,
           "name": "Cleanup Crew",
-          "description": "Finish clearing a plot in The Garden."
+          "description": "Finish clearing a plot in The Garden.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SADDLE_UP": {
           "points": 5,
@@ -10328,7 +10330,9 @@
         "WOW_USEFUL": {
           "points": 5,
           "name": "Wow, that's useful!",
-          "description": "Use the /wiki, /wikithis, or /wikihand command to view the Official Hypixel Wiki."
+          "description": "Use the /wiki, /wikithis, or /wikihand command to view the Official Hypixel Wiki.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "I_AM_SUPERIOR": {
           "points": 10,
@@ -10447,13 +10451,17 @@
         "ALWAYS_SUNNY_IN_SB": {
           "points": 10,
           "name": "Always Sunny in SkyBlock",
-          "description": "Place a Day Saver in The Garden."
+          "description": "Place a Day Saver in The Garden.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "JAKES_MYSTERY": {
           "points": 15,
           "name": "Jake's Mystery",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TO_SPACE_WE_GO": {
           "points": 5,
@@ -10651,7 +10659,9 @@
           "points": 10,
           "name": "What is this place...",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DIDNT_MEAN_TO": {
           "points": 5,
@@ -10684,7 +10694,9 @@
         "BOUNTIFUL_HARVEST": {
           "points": 10,
           "name": "Bountiful Harvest",
-          "description": "Find a Squash while farming."
+          "description": "Find a Squash while farming.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HSSSSS": {
           "points": 5,
@@ -10953,7 +10965,9 @@
         "PERFECT_HEIST": {
           "points": 10,
           "name": "The Perfect Heist",
-          "description": "Gather 3 Heavy Pearls from the Matriarch and escape without taking damage."
+          "description": "Gather 3 Heavy Pearls from the Matriarch and escape without taking damage.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FULLY_EVOLVED": {
           "points": 10,
@@ -11091,7 +11105,9 @@
         "COMPOST_COLLECTOR": {
           "points": 5,
           "name": "Compost Collector",
-          "description": "Retrieve 8 compost from the Composter at once."
+          "description": "Retrieve 8 compost from the Composter at once.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SPIKY": {
           "points": 5,
@@ -11138,7 +11154,9 @@
         "FANCY_FARMING": {
           "points": 5,
           "name": "Fancy Farming",
-          "description": "Change your Barn skin in The Garden"
+          "description": "Change your Barn skin in The Garden",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "EVERY_LITTLE_BIT_HELPS": {
           "points": 5,
@@ -11164,7 +11182,9 @@
         "HUMBLE_BEGINNINGS": {
           "points": 5,
           "name": "Humble Beginnings",
-          "description": "Catch all 18 types of Trophy Fish."
+          "description": "Catch all 18 types of Trophy Fish.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "I_KNEW_IT": {
           "points": 10,
@@ -11191,7 +11211,9 @@
         "PUT_SPELL": {
           "points": 10,
           "name": "Gonna Put a Spell on You",
-          "description": "Use the Hex for the first time."
+          "description": "Use the Hex for the first time.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SUPER_FUEL": {
           "points": 5,
@@ -11269,7 +11291,9 @@
         "QUITE_THE_CROWD": {
           "points": 5,
           "name": "Quite the Crowd",
-          "description": "Have 5 visitors at once in The Garden."
+          "description": "Have 5 visitors at once in The Garden.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BIG_GAME_FISHER": {
           "points": 15,
@@ -11324,7 +11348,9 @@
         "PLAYER_OF_THE_PEOPLE": {
           "points": 15,
           "name": "Player of the People",
-          "description": "Serve 50 Unique Visitors in The Garden."
+          "description": "Serve 50 Unique Visitors in The Garden.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HOW_TO_TRAIN_YOUR_DRAGON": {
           "points": 10,
@@ -11350,12 +11376,16 @@
         "ONLY_BE_ONE": {
           "points": 15,
           "name": "There Can Only Be One",
-          "description": "Kill a Tier 5 Revenant Boss."
+          "description": "Kill a Tier 5 Revenant Boss.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FORBIDDEN_FRUIT": {
           "points": 10,
           "name": "Forbidden Fruit",
-          "description": "Wear a full set of Fermento Armor."
+          "description": "Wear a full set of Fermento Armor.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LIFELONG_CONTRACT": {
           "points": 15,
@@ -11530,7 +11560,9 @@
         "BALROG_MEMORIES": {
           "points": 15,
           "name": "Memories of a Bal",
-          "description": "Wear a full set of Divan's Armor."
+          "description": "Wear a full set of Divan's Armor.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "YOUR_BIG_BREAK": {
           "points": 5,

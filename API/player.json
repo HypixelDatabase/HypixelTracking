@@ -6739,7 +6739,21 @@
         "tourney_blitz_duo_2_potions_drunk_warlock": 0,
         "tourney_blitz_duo_2_potions_thrown": 0,
         "tourney_blitz_duo_2_potions_thrown_warlock": 0,
-        "tourney_blitz_duo_2_time_played_warlock": 0
+        "tourney_blitz_duo_2_time_played_warlock": 0,
+        "tourney_blitz_duo_2_games_played_paladin": 0,
+        "tourney_blitz_duo_2_time_played_paladin": 0,
+        "tourney_blitz_duo_2_chests_opened_paladin": 0,
+        "tourney_blitz_duo_2_damage_paladin": 0,
+        "tourney_blitz_duo_2_damage_taken_paladin": 0,
+        "tourney_blitz_duo_2_exp_paladin": 0,
+        "tourney_blitz_duo_2_kills_paladin": 0,
+        "tourney_blitz_duo_2_potions_drunk_paladin": 0,
+        "tourney_blitz_duo_2_wins_teams": 0,
+        "tourney_blitz_duo_2_wins_teams_normal": 0,
+        "tourney_blitz_duo_2_wins_teams_paladin": 0,
+        "tourney_blitz_duo_2_potions_thrown_paladin": 0,
+        "tourney_blitz_duo_2_taunt_kills": 0,
+        "tourney_blitz_duo_2_taunt_kills_paladin": 0
       },
       "MCGO": {
         "bombs_defused": 0,
@@ -43417,7 +43431,8 @@
       "blitz_duo_2": {
         "games_played": 0,
         "tributes_earned": 0,
-        "playtime": 0
+        "playtime": 0,
+        "first_win": 0
       }
     },
     "currentGadget": "",

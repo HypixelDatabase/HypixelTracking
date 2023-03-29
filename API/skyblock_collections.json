@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1676676943639,
-  "version": "0.18.13",
+  "lastUpdated": 1680034013292,
+  "version": "0.18.72",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -857,7 +857,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Small Potion Bag Upgrade",
+                "Small Potion Bag",
                 "+4 SkyBlock XP"
               ]
             },
@@ -881,7 +881,7 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Medium Potion Bag Upgrade",
+                "Medium Potion Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -905,7 +905,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Large Potion Bag Upgrade",
+                "Large Potion Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -921,7 +921,7 @@
               "tier": 10,
               "amountRequired": 75000,
               "unlocks": [
-                "Giant Potion Bag Upgrade",
+                "Giant Potion Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -937,7 +937,7 @@
               "tier": 12,
               "amountRequired": 250000,
               "unlocks": [
-                "Massive Potion Bag Upgrade",
+                "Massive Potion Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1541,7 +1541,7 @@
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Small Accessory Bag Upgrade",
+                "Small Accessory Bag",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1573,7 +1573,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Medium Accessory Bag Upgrade",
+                "Medium Accessory Bag Upgrade (+6 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1597,7 +1597,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Large Accessory Bag Upgrade",
+                "Large Accessory Bag Upgrade (+6 slots)",
                 "Personal Compactor 4000 Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1606,7 +1606,7 @@
               "tier": 10,
               "amountRequired": 200000,
               "unlocks": [
-                "Greater Accessory Bag Upgrade",
+                "Greater Accessory Bag Upgrade (+6 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1614,7 +1614,7 @@
               "tier": 11,
               "amountRequired": 400000,
               "unlocks": [
-                "Giant Accessory Bag Upgrade",
+                "Giant Accessory Bag Upgrade (+6 slots)",
                 "Personal Compactor 5000 Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1623,7 +1623,7 @@
               "tier": 12,
               "amountRequired": 600000,
               "unlocks": [
-                "Massive Accessory Bag Upgrade",
+                "Massive Accessory Bag Upgrade (+6 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1631,7 +1631,7 @@
               "tier": 13,
               "amountRequired": 800000,
               "unlocks": [
-                "Humongous Accessory Bag Upgrade",
+                "Humongous Accessory Bag Upgrade (+6 slots)",
                 "Personal Compactor 6000 Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1640,7 +1640,7 @@
               "tier": 14,
               "amountRequired": 1000000,
               "unlocks": [
-                "Colossal Accessory Bag Upgrade",
+                "Colossal Accessory Bag Upgrade (+6 slots)",
                 "Personal Compactor 7000 Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1649,7 +1649,7 @@
               "tier": 15,
               "amountRequired": 1200000,
               "unlocks": [
-                "Titanic Accessory Bag Upgrade",
+                "Titanic Accessory Bag Upgrade (+6 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1657,7 +1657,7 @@
               "tier": 16,
               "amountRequired": 1400000,
               "unlocks": [
-                "Preposterous Accessory Bag Upgrade",
+                "Preposterous Accessory Bag Upgrade (+6 slots)",
                 "+4 SkyBlock XP"
               ]
             }
@@ -2975,7 +2975,7 @@
               "tier": 6,
               "amountRequired": 15000,
               "unlocks": [
-                "Personal Bank Upgrade",
+                "Personal Bank",
                 "Personal Bank Item Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -4113,7 +4113,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Quiver Upgrade",
+                "Quiver",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4138,7 +4138,7 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Enchanted Book (Infinite Quiver IV) Recipe",
-                "Large Quiver Upgrade",
+                "Large Quiver Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4163,7 +4163,7 @@
               "amountRequired": 50000,
               "unlocks": [
                 "Mystery Spider Pet Recipe",
-                "Giant Quiver Upgrade",
+                "Giant Quiver Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             }
@@ -4897,7 +4897,7 @@
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Small Fishing Bag Upgrade",
+                "Small Fishing Bag",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4932,7 +4932,7 @@
               "tier": 7,
               "amountRequired": 2500,
               "unlocks": [
-                "Medium Fishing Bag Upgrade",
+                "Medium Fishing Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4948,7 +4948,7 @@
               "tier": 9,
               "amountRequired": 30000,
               "unlocks": [
-                "Large Fishing Bag Upgrade",
+                "Large Fishing Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4956,7 +4956,7 @@
               "tier": 10,
               "amountRequired": 45000,
               "unlocks": [
-                "Giant Fishing Bag Upgrade",
+                "Giant Fishing Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4964,7 +4964,7 @@
               "tier": 11,
               "amountRequired": 60000,
               "unlocks": [
-                "Massive Fishing Bag Upgrade",
+                "Massive Fishing Bag Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
             }
@@ -5059,7 +5059,7 @@
         },
         "RAW_FISH:2": {
           "name": "Clownfish",
-          "maxTiers": 7,
+          "maxTiers": 9,
           "tiers": [
             {
               "tier": 1,
@@ -5089,7 +5089,7 @@
               "tier": 4,
               "amountRequired": 100,
               "unlocks": [
-                "Small Sack of Sacks Upgrade",
+                "Small Sack of Sacks",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5097,7 +5097,7 @@
               "tier": 5,
               "amountRequired": 200,
               "unlocks": [
-                "Medium Sack of Sacks Upgrade",
+                "Medium Sack of Sacks Upgrade (+3 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5105,7 +5105,7 @@
               "tier": 6,
               "amountRequired": 400,
               "unlocks": [
-                "Large Sack of Sacks Upgrade",
+                "Large Sack of Sacks Upgrade (+3 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5113,7 +5113,23 @@
               "tier": 7,
               "amountRequired": 800,
               "unlocks": [
-                "Greater Sack of Sacks Upgrade",
+                "Greater Sack of Sacks Upgrade (+3 slots)",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 1600,
+              "unlocks": [
+                "Giant Sack of Sacks Upgrade (+3 slots)",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 4000,
+              "unlocks": [
+                "Massive Sack of Sacks Upgrade (+3 slots)",
                 "+4 SkyBlock XP"
               ]
             }

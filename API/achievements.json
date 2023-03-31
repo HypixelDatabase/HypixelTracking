@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1679065662022,
+  "lastUpdated": 1680285713239,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6435,6 +6435,11 @@
           "description": "Link your Minecraft account with your forum account",
           "globalPercentUnlocked": 1
         },
+        "HAPPIEST_ANNIVERSARY": {
+          "points": 15,
+          "name": "The Happiest Anniversary",
+          "description": "Complete the Easy Bingo Card during the 10th Anniversary Celebration"
+        },
         "A_LONG_JOURNEY_BEGINS": {
           "points": 5,
           "name": "A long journey begins",
@@ -6477,6 +6482,11 @@
           "name": "Thinking with Portals",
           "description": "Use a portal to teleport to a game",
           "globalPercentUnlocked": 1
+        },
+        "BINGO_JACKPOT": {
+          "points": 20,
+          "name": "Bingo Jackpot",
+          "description": "Complete the Hard Bingo Card during the 10th Anniversary Celebration"
         },
         "FISHING_HOBBYIST": {
           "points": 5,
@@ -6765,7 +6775,7 @@
           ]
         }
       },
-      "total_points": 715,
+      "total_points": 750,
       "total_legacy_points": 0
     },
     "gingerbread": {
@@ -12881,8 +12891,7 @@
           "points": 10,
           "name": "Speed Run",
           "description": "Win a Ranked game in less than a minute",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SKEWERED": {
           "points": 10,
@@ -12951,8 +12960,7 @@
           "points": 5,
           "name": "Ashes to Ashes",
           "description": "Begin harvesting Shards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "MAX_PERK": {
           "points": 10,
@@ -12972,8 +12980,7 @@
           "points": 15,
           "name": "Money well spent!",
           "description": "Get Lucky Charm to level 20",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SOLO_WARRIOR": {
           "points": 10,
@@ -13021,8 +13028,7 @@
           "points": 15,
           "name": "Fear me mortals",
           "description": "Max out a Mega Kit",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SLOW_STEADY": {
           "points": 10,
@@ -13105,8 +13111,7 @@
           "points": 5,
           "name": "Well deserved",
           "description": "Gain a reward from a Ranked Season",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         }
       },
       "tiered": {
@@ -13587,8 +13592,8 @@
           ]
         }
       },
-      "total_points": 1645,
-      "total_legacy_points": 0
+      "total_points": 1595,
+      "total_legacy_points": 50
     },
     "speeduhc": {
       "one_time": {
@@ -16721,7 +16726,7 @@
         "UNDEFEATABLE": {
           "points": 10,
           "name": "Undefeatable!",
-          "description": "Purchase a full set of God Armor and a God Sword as a Human",
+          "description": "Purchase a full set of Divine Armor and a Excalibur as a Human",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

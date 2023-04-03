@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1680294786404,
+  "lastUpdated": 1680536213257,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6435,6 +6435,11 @@
           "description": "Link your Minecraft account with your forum account",
           "globalPercentUnlocked": 1
         },
+        "HAPPIEST_ANNIVERSARY": {
+          "points": 15,
+          "name": "The Happiest Anniversary",
+          "description": "Complete the Easy Bingo Card during the 10th Anniversary Celebration"
+        },
         "A_LONG_JOURNEY_BEGINS": {
           "points": 5,
           "name": "A long journey begins",
@@ -6447,11 +6452,10 @@
           "description": "Become a VIP",
           "globalPercentUnlocked": 1
         },
-        "TREASURE_HUNT_2022": {
+        "TREASURE_HUNT_2023": {
           "points": 0,
-          "name": "Treasure Hunt 2022",
-          "description": "Complete the 2022 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
-          "globalPercentUnlocked": 1
+          "name": "Treasure Hunt 2023",
+          "description": "Complete the 2023 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!"
         },
         "FRIENDS_25": {
           "points": 10,
@@ -6477,6 +6481,11 @@
           "name": "Thinking with Portals",
           "description": "Use a portal to teleport to a game",
           "globalPercentUnlocked": 1
+        },
+        "BINGO_JACKPOT": {
+          "points": 20,
+          "name": "Bingo Jackpot",
+          "description": "Complete the Hard Bingo Card during the 10th Anniversary Celebration"
         },
         "FISHING_HOBBYIST": {
           "points": 5,
@@ -6543,6 +6552,12 @@
           "points": 0,
           "name": "Treasure Hunt 2020",
           "description": "Complete the 2020 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
+          "legacy": true
+        },
+        "TREASURE_HUNT_2022": {
+          "points": 0,
+          "name": "Treasure Hunt 2022",
+          "description": "Complete the 2022 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
           "legacy": true
         }
       },
@@ -6765,7 +6780,7 @@
           ]
         }
       },
-      "total_points": 715,
+      "total_points": 750,
       "total_legacy_points": 0
     },
     "gingerbread": {

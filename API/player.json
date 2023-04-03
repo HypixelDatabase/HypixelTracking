@@ -42500,7 +42500,8 @@
         "GINGERBREAD__first_place_challenge": 0,
         "GINGERBREAD__banana_challenge": 0,
         "GINGERBREAD__coin_challenge": 0,
-        "GINGERBREAD__leaderboard_challenge": 0
+        "GINGERBREAD__leaderboard_challenge": 0,
+        "WOOL_GAMES__flawless_challenge": 0
       },
       "day_i": {
         "UHC__threat_challenge": 0,
@@ -46074,7 +46075,8 @@
                 "Bedwarsdiamond": 0,
                 "Quakedash": 0,
                 "Skywarsvoidkill": 0,
-                "Smashthrowoff": 0
+                "Smashthrowoff": 0,
+                "Wwplacewool": 0
               }
             },
             "medium": {
@@ -46098,12 +46100,16 @@
                 "Arcadesupplychests": 0,
                 "Arcadetop3round": 0,
                 "Bowspleefsurvivetwo": 0,
-                "Smashnemesis": 0
+                "Smashnemesis": 0,
+                "Wwflawless": 0
               }
             },
             "hard": {
               "objectives": {
-                "Smashtwolives": 0
+                "Smashtwolives": 0,
+                "Wwnoenemywool": 0,
+                "Warlordscapture": 0,
+                "Quake5streak": 0
               }
             }
           }

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1680536213257,
+  "lastUpdated": 1680552413223,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5977,46 +5977,28 @@
     },
     "easter": {
       "one_time": {
-        "TOWERWARS_CHICKENS": {
-          "points": 10,
-          "name": "A Tower Ain't One",
-          "description": "Spawn 99 chickens in a game of Tower Wars",
-          "legacy": true
-        },
-        "ALL_EGGS_2019": {
-          "points": 30,
-          "name": "Egghunter (2019)",
-          "description": "Find all easter eggs in the Main Lobby",
-          "legacy": true
-        },
-        "HAPPY_EASTER_2019": {
-          "points": 5,
-          "name": "Happy Easter (2019)",
-          "description": "Login on Easter Sunday 2019",
-          "legacy": true
-        },
         "FIRST_EGG_2019": {
           "points": 5,
           "name": "The Chase Begins (2019)",
           "description": "Find an easter egg in the Main Lobby",
           "legacy": true
         },
-        "FIRST_EGG_2021": {
-          "points": 5,
-          "name": "The Chase Begins (2021)",
-          "description": "Find an Easter Egg in the Main Lobby",
-          "legacy": true
-        },
-        "FIRST_EGG_2020": {
-          "points": 5,
-          "name": "The Chase Begins (2020)",
-          "description": "Find an Easter Egg in the Main Lobby",
+        "ALL_EGGS_2022": {
+          "points": 15,
+          "name": "All Eggs (2022)",
+          "description": "Find all easter eggs in the Main Lobby",
           "legacy": true
         },
         "ALL_EGGS_2021": {
           "points": 15,
           "name": "All Eggs (2021)",
           "description": "Find all easter eggs in the Main Lobby",
+          "legacy": true
+        },
+        "HAPPY_EASTER_2022": {
+          "points": 5,
+          "name": "Happy Easter (2022)",
+          "description": "Login on Easter Sunday 2022",
           "legacy": true
         },
         "ALL_EGGS_2020": {
@@ -6037,6 +6019,42 @@
           "description": "Login on Easter Sunday 2020",
           "legacy": true
         },
+        "TOWERWARS_CHICKENS": {
+          "points": 10,
+          "name": "A Tower Ain't One",
+          "description": "Spawn 99 chickens in a game of Tower Wars",
+          "legacy": true
+        },
+        "ALL_EGGS_2019": {
+          "points": 30,
+          "name": "Egghunter (2019)",
+          "description": "Find all easter eggs in the Main Lobby",
+          "legacy": true
+        },
+        "HAPPY_EASTER_2019": {
+          "points": 5,
+          "name": "Happy Easter (2019)",
+          "description": "Login on Easter Sunday 2019",
+          "legacy": true
+        },
+        "FIRST_EGG_2021": {
+          "points": 5,
+          "name": "The Chase Begins (2021)",
+          "description": "Find an Easter Egg in the Main Lobby",
+          "legacy": true
+        },
+        "FIRST_EGG_2020": {
+          "points": 5,
+          "name": "The Chase Begins (2020)",
+          "description": "Find an Easter Egg in the Main Lobby",
+          "legacy": true
+        },
+        "FIRST_EGG_2022": {
+          "points": 5,
+          "name": "The Chase Begins (2022)",
+          "description": "Find an Easter Egg in the Main Lobby",
+          "legacy": true
+        },
         "EGG_BETRAYER": {
           "points": 5,
           "name": "Egg Betrayer",
@@ -6055,16 +6073,15 @@
           "description": "Win a game of Blitz using the Florist Kit",
           "globalPercentUnlocked": 1
         },
+        "ALL_EGGS_2023": {
+          "points": 15,
+          "name": "All Eggs (2023)",
+          "description": "Find all easter eggs in the Main Lobby"
+        },
         "ENVIRONMENT_PROTECTION": {
           "points": 5,
           "name": "Environmental Protection",
           "description": "Grow a tree in Hypixel Says",
-          "globalPercentUnlocked": 1
-        },
-        "ALL_EGGS_2022": {
-          "points": 15,
-          "name": "All Eggs (2022)",
-          "description": "Find all easter eggs in the Main Lobby",
           "globalPercentUnlocked": 1
         },
         "EGG_MASTER": {
@@ -6102,6 +6119,11 @@
           "name": "Egg Assault",
           "description": "Kill a Zombie with eggs in SkyBlock",
           "globalPercentUnlocked": 1
+        },
+        "HAPPY_EASTER_2023": {
+          "points": 5,
+          "name": "Happy Easter (2023)",
+          "description": "Login on Easter Sunday 2023"
         },
         "ARCADE_CHICKEN_RACE": {
           "points": 5,
@@ -6211,12 +6233,6 @@
           "description": "Catch 10 fish in the Main Lobby Fishing Hut",
           "globalPercentUnlocked": 1
         },
-        "HAPPY_EASTER_2022": {
-          "points": 5,
-          "name": "Happy Easter (2022)",
-          "description": "Login on Easter Sunday 2022",
-          "globalPercentUnlocked": 1
-        },
         "SPRING_WATER": {
           "points": 5,
           "name": "Spring Water",
@@ -6253,11 +6269,10 @@
           "description": "Kill a vampire while holding a carrot in VampireZ",
           "globalPercentUnlocked": 1
         },
-        "FIRST_EGG_2022": {
+        "FIRST_EGG_2023": {
           "points": 5,
-          "name": "The Chase Begins (2022)",
-          "description": "Find an Easter Egg in the Main Lobby",
-          "globalPercentUnlocked": 1
+          "name": "The Chase Begins (2023)",
+          "description": "Find an Easter Egg in the Main Lobby"
         }
       },
       "tiered": {
@@ -6356,7 +6371,7 @@
         }
       },
       "total_points": 530,
-      "total_legacy_points": 100
+      "total_legacy_points": 125
     },
     "general": {
       "one_time": {

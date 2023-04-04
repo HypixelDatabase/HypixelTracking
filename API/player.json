@@ -16307,7 +16307,17 @@
         "leaderboardSettings": {
           "class": "",
           "resetType": ""
-        }
+        },
+        "enderman_b_activations": 0,
+        "enderman_b_activations_deathmatch": 0,
+        "enderman_b_activations_deathmatch_standard": 0,
+        "enderman_b_activations_standard": 0,
+        "enderman_c_activations": 0,
+        "enderman_c_activations_deathmatch": 0,
+        "enderman_c_activations_deathmatch_standard": 0,
+        "enderman_c_activations_standard": 0,
+        "enderman_g_activations": 0,
+        "enderman_g_activations_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -23983,7 +23993,8 @@
         "leaderboardSettings": {
           "resetType": ""
         },
-        "levelFormattedWithBrackets": ""
+        "levelFormattedWithBrackets": "",
+        "challenge_attempts_uhc_kit_attacking_team_scout": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -32099,7 +32110,8 @@
           "npcskin_wither",
           "projectiletrail_pumpkin_pie",
           "killeffect_shattered",
-          "killeffect_pumpkin_popper"
+          "killeffect_pumpkin_popper",
+          "islandtopper_party_sloth"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33325,7 +33337,8 @@
           "kill_note_faboolous",
           "favoritemap_spooky mansion",
           "projectile_trail_bubbles",
-          "knife_skin_salmon"
+          "knife_skin_salmon",
+          "last_words_10th_anniversary"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -35588,7 +35601,11 @@
           "projectile_trail_note_spiral",
           "victory_dance_fireworks",
           "victory_dance_guardians",
-          "victory_dance_wither_rider"
+          "victory_dance_wither_rider",
+          "emblem_party_sloth",
+          "emblem_party_ten",
+          "emblem_hypixel_h",
+          "emblem_happy_sloth"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -37326,7 +37343,8 @@
           "victory_dance_winter_twister",
           "victory_dance_snow_bomber",
           "suits_buildbattlesuit",
-          "hats_forest_hat"
+          "hats_forest_hat",
+          "backdrops_ten_anniversary"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -38492,7 +38510,8 @@
           "hat_party",
           "projectiletrail_notes",
           "killmessages_memed",
-          "projectiletrail_twirling_snowflake"
+          "projectiletrail_twirling_snowflake",
+          "killmessages_cake"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -46041,7 +46060,8 @@
           "levelling": {
             "experience": 0
           },
-          "mainlobby_egghunt_-22_85_-59": true
+          "mainlobby_egghunt_-22_85_-59": true,
+          "bedWarsWinsAchievement": 0
         }
       },
       "anniversary": {
@@ -46103,7 +46123,9 @@
                 "Bowspleefsurvivetwo": 0,
                 "Smashnemesis": 0,
                 "Wwflawless": 0,
-                "Megawallsfinaltwo": 0
+                "Megawallsfinaltwo": 0,
+                "Arcadedragonkill": 0,
+                "Maincatchtreasure": 0
               }
             },
             "hard": {
@@ -46113,7 +46135,14 @@
                 "Warlordscapture": 0,
                 "Quake5streak": 0,
                 "Bbfastguess": 0,
-                "Megawallsfinal": 0
+                "Megawallsfinal": 0,
+                "Bedwarsemeraldhoarder": 0,
+                "Bedwarsflawless": 0,
+                "Cvcallaround": 0,
+                "Skywarschallenge": 0,
+                "Arcadewoolcarrier": 0,
+                "Arcadehypixelsays": 0,
+                "Pbnuke": 0
               }
             }
           }
@@ -49009,7 +49038,20 @@
       }
     },
     "deaths": 0,
-    "scorpius_bribe_264": 0
+    "scorpius_bribe_264": 0,
+    "Rowfive": [],
+    "Rowfour": [],
+    "Rowthree": [],
+    "Rowtwo": [],
+    "Rowone": [],
+    "Diagonaltwo": [],
+    "Columnfive": [],
+    "Columnfour": [],
+    "Columnthree": [],
+    "Columntwo": [],
+    "Columnone": [],
+    "Diagonalone": [],
+    "blackOut": []
   },
   "cause": "",
   "throttle": true

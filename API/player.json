@@ -46201,7 +46201,9 @@
           }
         },
         "mapQuest": {
-          "currentPiece": 0
+          "currentPiece": 0,
+          "foundAllPieces": true,
+          "spokenToSimon": true
         }
       },
       "summer": {

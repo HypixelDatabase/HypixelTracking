@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1680597413238,
+  "lastUpdated": 1680707213252,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6076,7 +6076,8 @@
         "ALL_EGGS_2023": {
           "points": 15,
           "name": "All Eggs (2023)",
-          "description": "Find all easter eggs in the Main Lobby"
+          "description": "Find all easter eggs in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "ENVIRONMENT_PROTECTION": {
           "points": 5,
@@ -6503,7 +6504,8 @@
         "BINGO_JACKPOT": {
           "points": 20,
           "name": "Bingo Jackpot",
-          "description": "Complete the Hard Bingo Card during the 10th Anniversary Celebration"
+          "description": "Complete the Hard Bingo Card during the 10th Anniversary Celebration",
+          "globalPercentUnlocked": 1
         },
         "FISHING_HOBBYIST": {
           "points": 5,

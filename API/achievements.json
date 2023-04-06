@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1680707213252,
+  "lastUpdated": 1680795113218,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12991,8 +12991,7 @@
           "points": 10,
           "name": "Max Perk!",
           "description": "Max out a tiered perk",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "KILL_STREAK": {
           "points": 10,
@@ -13073,8 +13072,7 @@
           "points": 5,
           "name": "Paper Challenge",
           "description": "Win a game doing the Paper Challenge",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "OPEN_CHEST": {
           "points": 5,
@@ -13617,8 +13615,8 @@
           ]
         }
       },
-      "total_points": 1595,
-      "total_legacy_points": 50
+      "total_points": 1580,
+      "total_legacy_points": 65
     },
     "speeduhc": {
       "one_time": {

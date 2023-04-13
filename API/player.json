@@ -38821,7 +38821,10 @@
         "fishing_reward_tracked": "",
         "cauldron_ingredient_2022_rotten_flesh_1": true,
         "cauldron_ingredient_2022_pumpkin_pie_0": true,
-        "activeFishHookTrail": ""
+        "activeFishHookTrail": "",
+        "packages": [
+          "apr_5_23_ench_reset"
+        ]
       }
     },
     "testPass": true,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1681503201000,
+  "lastUpdated": 1681503732000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -41269,18 +41269,6 @@
       "name": "Trick or Treat Bag",
       "tier": "UNCOMMON",
       "id": "TRICK_OR_TREAT_BAG"
-    },
-    {
-      "material": "BOW",
-      "name": "Admin Bow",
-      "glowing": true,
-      "tier": "UNOBTAINABLE",
-      "category": "BOW",
-      "stats": {
-        "damage": 100,
-        "critical_chance": 5000
-      },
-      "id": "ADMIN_BOW"
     },
     {
       "material": "LEATHER_LEGGINGS",

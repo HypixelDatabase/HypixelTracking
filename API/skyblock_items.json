@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1681503732000,
+  "lastUpdated": 1681826425000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -466,6 +466,7 @@
       "material": "NAME_TAG",
       "name": "Jacob's Ticket",
       "tier": "UNCOMMON",
+      "npc_sell_price": 10000,
       "id": "JACOBS_TICKET"
     },
     {
@@ -817,6 +818,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDk0MDQ1MywKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZjM2I1ZGI5YmQ5OWNkMTIxNjFlZDJlYTQ2MjM3OTVmMjhlNzkzYzZkYWI2N2NkM2U4MDNjY2ZhYWFkN2NmZCIKICAgIH0KICB9Cn0",
+      "name": "Flower Sack",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "FLOWER_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NzgxMDkwMzc1NCwKICAicHJvZmlsZUlkIiA6ICJmNjE1NzFmMjY1NzY0YWI5YmUxODcyMjZjMTEyYWEwYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGZWxpeF9NYW5nZW5zZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI5NmM1ODVjY2QzNWYwNzNkYTM4ZDE2NWNiOWJiMThmZjEzNmYxYTE4NGVlZTNmNDQ3MjUzNTQ2NDBlYmJkNCIKICAgIH0KICB9Cn0=",
       "name": "Dungeon Sack",
       "tier": "LEGENDARY",
@@ -908,6 +918,33 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDgzNTMwOCwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkMThhMGYyM2IxYTJiODcyZWVlZDUxNTUzNmY1NDkyYjU1MzQ1M2YyYmViNGNhODJjOGI2YTEzYzhmNzJmYyIKICAgIH0KICB9Cn0",
+      "name": "Small Trophy Fishing Sack",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "id": "SMALL_TROPHY_FISHING_SACK:json"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDgwNDM1OSwKICAicHJvZmlsZUlkIiA6ICIwZTM3MmZiOGEzOTk0YTkzODliMGY3NGUzZmJlZjY1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBVVNUSU5MT0wwN19ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODA5YTUwMDVjYmY1OGIzY2MwYmIxZGQ2ZTZmMTI2NDVlYWYzMDk1MzMxZDcyZDc4ODc3MmIyYWZmYjZhZWZiIgogICAgfQogIH0KfQ",
+      "name": "Large Trophy Fishing Sack",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "LARGE_TROPHY_FISHING_SACK:json"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDgyMjc0NywKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTY2MmM5YWE4NDRlMDA0ZGQ4YjJiZTI5NzFiMDAyZjAyNDUyMTc1MzEwMTJmMTM0NjZiOWM5NjgyZTc1YjRjIgogICAgfQogIH0KfQ",
+      "name": "Medium Trophy Fishing Sack",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "MEDIUM_TROPHY_FISHING_SACK:json"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQ2YTYwNjMyNjNiYTcyMDhhMmEwNmNlZjczMjM0NzkxYzkyZDVmNjcwODBhMzY1NTA4YjAyNDgzZWVmYWY5YSJ9fX0K",
       "name": "Large Enchanted Husbandry Sack",
       "tier": "EPIC",
@@ -932,6 +969,15 @@
       "unstackable": true,
       "npc_sell_price": 128000,
       "id": "MEDIUM_LAVA_FISHING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDc1OTM3OSwKICAicHJvZmlsZUlkIiA6ICI0YjJlMGM1ODliZjU0ZTk1OWM1ZmJlMzg5MjQ1MzQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTmVvdHJvbl8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFmOTcxMWQyMzFlM2FiZmI2ZmI3NDQ3MTFmMGQ4NmU2MDQxZWUwNzdkYWUxNmRkYzcwM2E3YjRlYTE2NWQ1OCIKICAgIH0KICB9Cn0",
+      "name": "Dwarven Sack",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DWARVEN_MINES_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -977,6 +1023,15 @@
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_COMBAT_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDk5MDUwMSwKICAicHJvZmlsZUlkIiA6ICIyYzA3NmUzNDU0N2M0OWU2OTMwYzQzZDE2MDZmYjI1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsUmVzdSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNmI0NmJlZWI1ZjZlMDAwNjE2M2VkYTRhNTA3MDNhNDBlNjU5MTA4MGIwZTY3Nzc5MzEyYWRjZmVjNDYxNTIiCiAgICB9CiAgfQp9",
+      "name": "Crystal Hollows Sack",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "CRYSTAL_HOLLOWS_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -1051,6 +1106,33 @@
       "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_MINING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg1NTc2NSwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3YzBjZDkzOTRhYmIwM2ZmOTZmMjg3MzY0MDZmYTQwYzk0NWI0ZDczNWExMWZhY2Y1Zjk5MTJjMTE0OTUzMjQiCiAgICB9CiAgfQp9",
+      "name": "Small Dragon Sack",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "id": "SMALL_DRAGON_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg4NzQwNSwKICAicHJvZmlsZUlkIiA6ICI0MDU4NDhjMmJjNTE0ZDhkOThkOTJkMGIwYzhiZDQ0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlT3dPIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmYWQ2ZjdhMjExMGJiMmJhNjZlZDRiMzRkZDZmZTE3OTRlYTMzY2U3YjI0Y2UzNGJlZjg2NWNjNGEyY2RlMzgiCiAgICB9CiAgfQp9",
+      "name": "Medium Dragon Sack",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "MEDIUM_DRAGON_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg3MDUxOSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3Mzk0OTJiZTc4YzU3MmZiNGM2YmZhZjhmMTBiZDUyODU1M2I0M2FmNTc1YmEwNzNhY2JkMmM0YmY3N2M0MGIiCiAgICB9CiAgfQp9",
+      "name": "Large Dragon Sack",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "LARGE_DRAGON_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -14997,7 +15079,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Top of the Nest",
-          "description_name": "the Top of the Nest",
+          "description_name": "%%gray%%the %%aqua%%Top of the Nest",
           "destination_mode": "combat_1",
           "location_tag": "top_of_nest",
           "schematic_file": "sb_portal_spiders_den_top",
@@ -15019,7 +15101,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "The Wasteland",
-          "description_name": "The Wasteland",
+          "description_name": "%%red%%The Wasteland",
           "destination_mode": "crimson_isle",
           "location_tag": "wasteland",
           "schematic_file": "sb_portal_wasteland",
@@ -15041,7 +15123,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Crystal Hollows",
-          "description_name": "the Crystal Hollows",
+          "description_name": "%%gray%%the %%aqua%%Crystal Hollows",
           "destination_mode": "crystal_hollows",
           "schematic_file": "sb_portal_crystal_hollows",
           "offset": "NEW",
@@ -15062,7 +15144,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Void Sepulture",
-          "description_name": "the Void Sepulture",
+          "description_name": "%%gray%%the %%light_purple%%Void Sepulture",
           "destination_mode": "combat_3",
           "location_tag": "void_sepulture",
           "schematic_file": "sb_portal_void_sepulture",
@@ -15084,7 +15166,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Hub Castle",
-          "description_name": "the Hub Castle",
+          "description_name": "%%gray%%the %%aqua%%Hub Castle",
           "destination_mode": "hub",
           "location_tag": "castle",
           "schematic_file": "sb_portal_hub_castle",
@@ -15106,7 +15188,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Dwarven Mines",
-          "description_name": "the Dwarven Mines",
+          "description_name": "%%gray%%the %%dark_green%%Dwarven Mines",
           "destination_mode": "mining_3",
           "schematic_file": "sb_portal_mining_3",
           "offset": "NEW",
@@ -15149,7 +15231,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Crystal Nucleus",
-          "description_name": "the Crystal Nucleus",
+          "description_name": "%%gray%%the %%dark_purple%%Crystal Nucleus",
           "destination_mode": "crystal_hollows",
           "location_tag": "nucleus",
           "schematic_file": "sb_portal_crystal_hollows",
@@ -15171,7 +15253,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Dragontail",
-          "description_name": "Dragontail",
+          "description_name": "%%dark_green%%Dragontail",
           "destination_mode": "crimson_isle",
           "location_tag": "dragontail",
           "schematic_file": "sb_portal_dragontail",
@@ -15193,7 +15275,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Forgotten Skull",
-          "description_name": "the Forgotten Skull",
+          "description_name": "%%gold%%Forgotten Skull",
           "destination_mode": "crimson_isle",
           "location_tag": "forgotten_skull",
           "schematic_file": "sb_portal_nether_fortress_boss",
@@ -15215,7 +15297,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Smoldering Tomb",
-          "description_name": "the Smoldering Tomb",
+          "description_name": "%%gray%%the %%red%%Smoldering Tomb",
           "destination_mode": "crimson_isle",
           "location_tag": "smoldering_chambers",
           "schematic_file": "sb_portal_smoldering_chambers",
@@ -15237,7 +15319,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Arachne's Sanctuary",
-          "description_name": "Arachne's Sanctuary",
+          "description_name": "%%dark_red%%Arachne's Sanctuary",
           "destination_mode": "combat_1",
           "location_tag": "arachne_sanctuary",
           "schematic_file": "sb_portal_arachne_sanctuary",
@@ -15259,7 +15341,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Dragon's Nest",
-          "description_name": "the Dragon's Nest",
+          "description_name": "%%gray%%the %%dark_purple%%Dragon's Nest",
           "destination_mode": "combat_3",
           "location_tag": "dragon_nest",
           "schematic_file": "sb_portal_dragon_nest",
@@ -15281,7 +15363,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Hub Crypts",
-          "description_name": "the Crypts",
+          "description_name": "%%gray%%the %%aqua%%Hub Crypts",
           "destination_mode": "hub",
           "location_tag": "crypts",
           "schematic_file": "sb_portal_hub_crypts",
@@ -15303,7 +15385,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Trapper's Den",
-          "description_name": "the Trapper's Den",
+          "description_name": "%%gray%%the %%aqua%%Trapper's Den",
           "destination_mode": "farming_1",
           "schematic_file": "sb_portal_farming_1",
           "location_tag": "trappers_den",
@@ -15325,7 +15407,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Scarleton",
-          "description_name": "Scarleton",
+          "description_name": "%%light_purple%%Scarleton",
           "destination_mode": "crimson_isle",
           "location_tag": "scarleton",
           "schematic_file": "sb_portal_scarleton",
@@ -15347,7 +15429,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Museum",
-          "description_name": "the Museum",
+          "description_name": "%%gray%%the %%dark_aqua%%Museum",
           "destination_mode": "hub",
           "location_tag": "museum",
           "schematic_file": "sb_portal_museum",
@@ -15364,12 +15446,12 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTgzMmQ1Mzk5N2I0NTE2MzVjOWNmOTAwNGIwZjIyYmIzZDk5YWI1YTA5Mzk0MmI1YjVmNmJiNGU0ZGU0NzA2NSJ9fX0=",
-      "name": "Portal to the Howling Caves",
+      "name": "Portal to the Howling Cave",
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "holo_name": "Howling Caves",
-          "description_name": "the Howling Caves",
+          "holo_name": "Howlin Cave",
+          "description_name": "%%gray%%the %%aqua%%Howling Cave",
           "destination_mode": "foraging_1",
           "location_tag": "howling_cave",
           "schematic_file": "sb_portal_park_cave",
@@ -15391,7 +15473,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Jungle Island",
-          "description_name": "the Jungle Island",
+          "description_name": "%%green%%Jungle Island",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
           "schematic_file": "sb_portal_foraging3",
@@ -15413,7 +15495,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Birch Park",
-          "description_name": "the Birch Park",
+          "description_name": "%%green%%Birch Park",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
           "schematic_file": "sb_portal_foraging1",
@@ -15435,7 +15517,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Deep Caverns",
-          "description_name": "the Deep Caverns",
+          "description_name": "%%gray%%the %%aqua%%Deep Caverns",
           "destination_mode": "mining_2",
           "schematic_file": "sb_portal_minelapiz",
           "offset": "MINE",
@@ -15456,7 +15538,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Crimson Isle",
-          "description_name": "the Crimson Isle",
+          "description_name": "%%gray%%the %%red%%Crimson Isle",
           "destination_mode": "crimson_isle",
           "schematic_file": "sb_portal_danger2",
           "skill_requirement": {
@@ -15478,6 +15560,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "The End",
+          "description_name": "%%light_purple%%The End",
           "destination_mode": "combat_3",
           "schematic_file": "sb_portal_danger3",
           "offset": "MINE",
@@ -15494,12 +15577,12 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc1NDMxOGEzMzc2ZjQ3MGU0ODFkZmNkNmM4M2E1OWFhNjkwYWQ0YjRkZDc1NzdmZGFkMWMyZWYwOGQ4YWVlNiJ9fX0=",
-      "name": "Portal to Spider's Den",
+      "name": "Portal to the Spider's Den",
       "category": "PORTAL",
       "item_specific": {
         "portal": {
           "holo_name": "Spider's Den",
-          "description_name": "Spider's Den",
+          "description_name": "%%gray%%the %%red%%Spider's Den",
           "destination_mode": "combat_1",
           "schematic_file": "sb_portal_danger1",
           "skill_requirement": {
@@ -15518,7 +15601,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Dark Thicket",
-          "description_name": "the Dark Thicket",
+          "description_name": "%%green%%Dark Thicket",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
           "schematic_file": "sb_portal_foraging5",
@@ -15540,7 +15623,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Savanna Woodland",
-          "description_name": "the Savanna Woodland",
+          "description_name": "%%green%%Savanna Woodland",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
           "schematic_file": "sb_portal_foraging4",
@@ -15562,7 +15645,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Mushroom Island",
-          "description_name": "the desert settlement of the Mushroom Island",
+          "description_name": "%%gray%%the %%yellow%%Desert Settlement %%gray%%of %%aqua%%Mushroom Island",
           "destination_mode": "farming_1",
           "schematic_file": "sb_portal_farming_2",
           "location_tag": "desert_settlement",
@@ -15584,7 +15667,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Gold Mine",
-          "description_name": "the Gold Mine",
+          "description_name": "%%gray%%the %%gold%%Gold Mine",
           "destination_mode": "mining_1",
           "offset": "MINE",
           "schematic_file": "sb_portal_minecoal",
@@ -15625,7 +15708,7 @@
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "holo_name": "The Hub",
+          "holo_name": "%%gray%%the %%aqua%%Hub",
           "destination_mode": "hub",
           "schematic_file": "sb_portal_hub",
           "offset": "MINE",
@@ -15646,7 +15729,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Spruce Woods",
-          "description_name": "the Spruce Woods",
+          "description_name": "%%green%%Spruce Woods",
           "destination_mode": "foraging_1",
           "offset": "FORAGING",
           "schematic_file": "sb_portal_foraging2",
@@ -16249,6 +16332,13 @@
       "name": "Hilt of True Ice",
       "glowing": true,
       "tier": "LEGENDARY",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 50
+        }
+      ],
       "id": "HILT_OF_TRUE_ICE"
     },
     {
@@ -19879,6 +19969,13 @@
       "name": "Krampus Helmet",
       "category": "HELMET",
       "tier": "EPIC",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 25
+        }
+      ],
       "id": "KRAMPUS_HELMET"
     },
     {
@@ -24164,9 +24261,9 @@
       "gear_score": 50,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 7
+          "tier": 7
         }
       ],
       "dungeon_item": true,
@@ -29310,7 +29407,6 @@
       "material": "GHAST_TEAR",
       "name": "Vampire Fang",
       "glowing": true,
-      "category": "PET_ITEM",
       "tier": "LEGENDARY",
       "id": "PET_ITEM_VAMPIRE_FANG"
     },
@@ -36857,7 +36953,6 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzFiZjZkMTgzOGQwMzJiOWJiMjhjNjc4Y2M5MzM1MzMzZDRkMjFjNDFiM2M0ZjVhMmY2NTBkMmIzOTFiMTMxOSJ9fX0=",
       "name": "Jerry 3D Glasses",
-      "category": "PET_ITEM",
       "tier": "LEGENDARY",
       "id": "PET_ITEM_TOY_JERRY"
     },
@@ -40225,6 +40320,7 @@
       "name": "Dragon Claw",
       "category": "REFORGE_STONE",
       "tier": "RARE",
+      "npc_sell_price": 1,
       "id": "DRAGON_CLAW"
     },
     {
@@ -45796,6 +45892,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNTY3MDA4NTU4NiwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZhNmNiOGQ2NDUzYjY4N2ZkZDA5ZWJmNzYwOWM2OGNkNmFlMzllNTUyYTkyYTM0YTcxMWRlOTJmZmM0MTNhMSIKICAgIH0KICB9Cn0=",
       "name": "Hot Stuff",
       "tier": "LEGENDARY",
+      "category": "REFORGE_STONE",
       "id": "HOT_STUFF"
     },
     {
@@ -45957,7 +46054,6 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y5Mjk4MmYxYTMwMjMxMDY0M2EyMGNlNTE2MjNmODE5OWI3NTQ1ZTcwZGM2YjkzZWQ2YmQ2MWRjNDJmZjIxMyJ9fX0K",
       "name": "Dante Talisman",
       "category": "ACCESSORY",
-      "npc_sell_price": 22,
       "museum": true,
       "id": "DANTE_TALISMAN"
     },
@@ -73070,6 +73166,13 @@
           "level": 25
         }
       ],
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 20
+        }
+      ],
       "id": "YETI_ROD"
     },
     {
@@ -73341,6 +73444,13 @@
         }
       ],
       "museum": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 5
+        }
+      ],
       "id": "ICE_ROD"
     },
     {
@@ -74868,6 +74978,9 @@
       "stats": {
         "FARMING_FORTUNE": 10
       },
+      "enchantments": {
+        "replenish": 1
+      },
       "requirements": [
         {
           "type": "GARDEN_LEVEL",
@@ -74889,6 +75002,9 @@
       "npc_sell_price": 100,
       "stats": {
         "FARMING_FORTUNE": 10
+      },
+      "enchantments": {
+        "replenish": 1
       },
       "requirements": [
         {
@@ -75042,6 +75158,13 @@
         }
       ],
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "NUTCRACKER_HELMET"
     },
     {
@@ -75055,6 +75178,13 @@
         "HEALTH": 100
       },
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 10
+        }
+      ],
       "id": "SNOW_SUIT_CHESTPLATE"
     },
     {
@@ -75077,6 +75207,13 @@
         }
       ],
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "NUTCRACKER_BOOTS"
     },
     {
@@ -75090,6 +75227,13 @@
         "HEALTH": 75
       },
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 10
+        }
+      ],
       "id": "SNOW_SUIT_LEGGINGS"
     },
     {
@@ -75103,6 +75247,13 @@
         "HEALTH": 65
       },
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 10
+        }
+      ],
       "id": "SNOW_SUIT_BOOTS"
     },
     {
@@ -75117,6 +75268,13 @@
         "HEALTH": 70
       },
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 10
+        }
+      ],
       "id": "SNOW_SUIT_HELMET"
     },
     {
@@ -75139,6 +75297,13 @@
         }
       ],
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "NUTCRACKER_CHESTPLATE"
     },
     {
@@ -75161,6 +75326,13 @@
         }
       ],
       "npc_sell_price": 1000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "NUTCRACKER_LEGGINGS"
     },
     {
@@ -75259,12 +75431,32 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JiZThmZDFhYTM5ZjE1MDc2ZTg4NGRmZTZkZGI5YTNmMzc2MWRiMzFlMmIxZjk5NDBiNWRmZDM0ZDFjNGQifX19",
+      "name": "Terry's Snowglobe",
+      "category": "REFORGE_STONE",
+      "tier": "RARE",
+      "npc_sell_price": 1,
+      "id": "TERRY_SNOWGLOBE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcwNTA5YTY0YzQ5NmNkZGJhNDEzNWU2NzEyYmIwNWQ5YWFkNDIwNTJhMThmZWVlZWQ3ZDQ0ZGEyYzNiZDBjYyJ9fX0=",
       "name": "Rusty Anchor",
       "category": "REFORGE_STONE",
       "tier": "RARE",
       "npc_sell_price": 1,
       "id": "RUSTY_ANCHOR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBmZDEzYTk2YTgyNDMwNjIxYTY1ZWE5N2U4OTgxOWNhMGI2OGMwMzQyNTMwMjVkYTA0MjhiYmNhZDQzZmQ2MyJ9fX0=",
+      "name": "Frozen Bauble",
+      "category": "REFORGE_STONE",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "id": "FROZEN_BAUBLE"
     },
     {
       "material": "SKULL_ITEM",

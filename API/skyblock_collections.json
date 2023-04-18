@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1680034013292,
-  "version": "0.18.72",
+  "lastUpdated": 1681827824630,
+  "version": "0.18.98",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2727,7 +2727,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Spider's Den Recipe",
+                "Portal to the Spider's Den Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3342,6 +3342,7 @@
               "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
+                "Small Dragon Sack Recipe",
                 "End Island (COMING SOON)",
                 "+4 SkyBlock XP"
               ]
@@ -3358,6 +3359,7 @@
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
+                "Medium Dragon Sack Recipe",
                 "Enchanted Eye of Ender Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3383,6 +3385,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
+                "Large Dragon Sack Recipe",
                 "Saving Grace Recipe",
                 "+4 SkyBlock XP"
               ]

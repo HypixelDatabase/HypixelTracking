@@ -4378,7 +4378,12 @@
           "shark_5",
           "shark_6",
           "shark_7",
-          "slimeyslime_9"
+          "slimeyslime_9",
+          "colorful_chicken_rain",
+          "killer_bunny_taunt",
+          "leaping_bunnies",
+          "finisher_rabbit_gift",
+          "dragon_egg_particle_aura"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -7370,7 +7375,8 @@
           "bouncyhat",
           "radianthat",
           "beam.bubbles",
-          "beam.flames"
+          "beam.flames",
+          "beam_easter"
         ],
         "sight": "",
         "trigger": "",
@@ -7807,7 +7813,9 @@
           "trail_water",
           "sunrise",
           "ocean",
-          "pastel"
+          "pastel",
+          "doublejump_easter_eggs",
+          "deatheffect_eggsplosion"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -8848,7 +8856,8 @@
           "mr. wither",
           "beaver",
           "convertedstats",
-          "cakes_count_fix_flag"
+          "cakes_count_fix_flag",
+          "killmessage_bunny"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -17554,7 +17563,8 @@
           "killeffect_shattered",
           "killeffect_pumpkin_popper",
           "cage_partycake",
-          "cage_partysloth"
+          "cage_partysloth",
+          "cage_sapling"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -32118,7 +32128,10 @@
           "killeffect_shattered",
           "killeffect_pumpkin_popper",
           "islandtopper_party_sloth",
-          "islandtopper_hypixel_knight"
+          "islandtopper_hypixel_knight",
+          "islandtopper_cow",
+          "islandtopper_rain",
+          "islandtopper_sprout"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -42824,7 +42837,8 @@
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
-        "ARCADE__blocking_dead_challenge": 0
+        "ARCADE__blocking_dead_challenge": 0,
+        "WOOL_GAMES__flawless_challenge": 0
       },
       "day_a": {
         "SKYWARS__feeding_the_void_challenge": 0,

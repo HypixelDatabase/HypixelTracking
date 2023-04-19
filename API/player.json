@@ -38546,14 +38546,16 @@
           "killmessages_memed",
           "projectiletrail_twirling_snowflake",
           "killmessages_cake",
-          "barrier_barrierblock"
+          "barrier_barrierblock",
+          "deathcry_energy"
         ],
         "barrier": "",
         "projectiletrail": "",
         "killmessages": "",
         "leaderboardSettings": {
           "resetType": ""
-        }
+        },
+        "deathcry": ""
       },
       "MainLobby": {
         "fishing": {

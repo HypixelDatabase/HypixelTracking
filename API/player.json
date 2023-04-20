@@ -4383,7 +4383,8 @@
           "killer_bunny_taunt",
           "leaping_bunnies",
           "finisher_rabbit_gift",
-          "dragon_egg_particle_aura"
+          "dragon_egg_particle_aura",
+          "shark_8"
         ],
         "pigman": 0,
         "reddragon": 0,
@@ -16333,7 +16334,11 @@
         "skeleton_c_activations": 0,
         "skeleton_c_activations_standard": 0,
         "skeleton_g_activations": 0,
-        "skeleton_g_activations_standard": 0
+        "skeleton_g_activations_standard": 0,
+        "skeleton_b_activations_deathmatch": 0,
+        "skeleton_b_activations_deathmatch_standard": 0,
+        "skeleton_c_activations_deathmatch": 0,
+        "skeleton_c_activations_deathmatch_standard": 0
       },
       "GingerBread": {
         "coins": 0,

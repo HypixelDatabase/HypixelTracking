@@ -17599,7 +17599,8 @@
           "killeffect_pumpkin_popper",
           "cage_partycake",
           "cage_partysloth",
-          "cage_sapling"
+          "cage_sapling",
+          "killeffect_rising_dragon"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -38883,7 +38884,10 @@
         "activeFishHookTrail": "",
         "packages": [
           "apr_5_23_ench_reset"
-        ]
+        ],
+        "leaderboardSettings": {
+          "fishingType": ""
+        }
       }
     },
     "testPass": true,

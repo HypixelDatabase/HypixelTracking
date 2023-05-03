@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1682978540442,
+  "lastUpdated": 1683127040450,
   "quests": {
     "quake": [
       {
@@ -2786,6 +2786,10 @@
           {
             "type": "BedwarsExpReward",
             "amount": 250
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 250
           }
         ],
         "objectives": [
@@ -2811,6 +2815,10 @@
             "amount": 3850
           },
           {
+            "type": "BedwarsExpReward",
+            "amount": 250
+          },
+          {
             "type": "MultipliedCoinReward",
             "amount": 250
           }
@@ -2819,7 +2827,7 @@
           {
             "id": "bedwars_daily_played",
             "type": "IntegerObjective",
-            "integer": 2
+            "integer": 3
           }
         ],
         "requirements": [
@@ -2827,7 +2835,69 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Play 2 games of Bed Wars"
+        "description": "Play 3 games of Bed Wars"
+      },
+      {
+        "id": "bedwars_daily_bed_breaker",
+        "name": "Daily Quest: Painsomnia",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3850
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 250
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 250
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_weekly_final_killer",
+            "type": "IntegerObjective",
+            "integer": 3
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Break 3 beds in Bed Wars"
+      },
+      {
+        "id": "bedwars_daily_final_killer",
+        "name": "Daily Quest: Head Hunter",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3850
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 250
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 250
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_daily_final_killer",
+            "type": "IntegerObjective",
+            "integer": 15
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Final Kill 15 players in Bed Wars"
       },
       {
         "id": "bedwars_weekly_bed_elims",
@@ -2892,27 +2962,27 @@
         "description": "Win 10 dream games in Bed Wars"
       },
       {
-        "id": "bedwars_weekly_challenges",
+        "id": "bedwars_weekly_challenges_win",
         "name": "Weekly Quest: Challenger",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
-            "amount": 5500
+            "amount": 7700
           },
           {
             "type": "BedwarsExpReward",
-            "amount": 2500
+            "amount": 5000
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 2500
+            "amount": 5000
           }
         ],
         "objectives": [
           {
-            "id": "bedwars_weekly_challenge_played",
+            "id": "bedwars_weekly_challenge_wins",
             "type": "IntegerObjective",
-            "integer": 10
+            "integer": 5
           }
         ],
         "requirements": [
@@ -2920,7 +2990,38 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Play 10 games with Bed Wars Challenges active"
+        "description": "Complete 5 Bed Wars Challenges"
+      },
+      {
+        "id": "bedwars_weekly_final_killer",
+        "name": "Weekly Quest: Finishing the Job",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 7700
+          },
+          {
+            "type": "BedwarsExpReward",
+            "amount": 5000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 5000
+          }
+        ],
+        "objectives": [
+          {
+            "id": "bedwars_weekly_final_killer",
+            "type": "IntegerObjective",
+            "integer": 150
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Final Kill 150 players in Bed Wars"
       }
     ],
     "murdermystery": [

@@ -2746,7 +2746,12 @@
         "active": {
           "objectives": {},
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "pit_weekly_gold": {
         "active": {
@@ -2762,7 +2767,12 @@
             "kill": 0
           },
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "bedwars_weekly_challenges_win": {
         "active": {

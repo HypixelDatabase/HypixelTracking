@@ -2782,19 +2782,25 @@
       },
       "bedwars_weekly_final_killer": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "bedwars_weekly_final_killer": 0
+          },
           "started": 0
         }
       },
       "bedwars_daily_final_killer": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "bedwars_daily_final_killer": 0
+          },
           "started": 0
         }
       },
       "bedwars_daily_bed_breaker": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "bedwars_weekly_final_killer": 0
+          },
           "started": 0
         }
       }
@@ -33141,7 +33147,8 @@
         "leaderboardSettings": {
           "resetType": ""
         },
-        "free_event_key_bedwars_easter_boxes_2023": true
+        "free_event_key_bedwars_easter_boxes_2023": true,
+        "activeWoodType": ""
       },
       "MurderMystery": {
         "knife_kills_library": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1681849076000,
+  "lastUpdated": 1683813846000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -436,7 +436,7 @@
     },
     {
       "material": "GOLD_AXE",
-      "name": "Coco Chopper",
+      "name": "Cocoa Chopper",
       "category": "AXE",
       "tier": "EPIC",
       "id": "COCO_CHOPPER"
@@ -12421,7 +12421,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDA3MDU0MTI2OCwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY2NjI0YTdiZGVlNjI0MGRkZGJlZDgyNjgwOTBlMjM0ZDBiYTQ3MGVhODk2ZTg5MjlmNGVmYjIxM2YyMjY5NDQiCiAgICB9CiAgfQp9",
       "name": "Small Gemstone Sack",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true,
       "id": "SMALL_GEMSTONE_SACK"
     },
@@ -15407,7 +15407,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Scarleton",
-          "description_name": "%%light_purple%%Scarleton",
+          "description_name": "%%dark_purple%%Scarleton",
           "destination_mode": "crimson_isle",
           "location_tag": "scarleton",
           "schematic_file": "sb_portal_scarleton",
@@ -15450,7 +15450,7 @@
       "category": "PORTAL",
       "item_specific": {
         "portal": {
-          "holo_name": "Howlin Cave",
+          "holo_name": "Howling Cave",
           "description_name": "%%gray%%the %%aqua%%Howling Cave",
           "destination_mode": "foraging_1",
           "location_tag": "howling_cave",
@@ -22011,6 +22011,7 @@
         "HEALTH": 310,
         "INTELLIGENCE": 20
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -25674,6 +25675,7 @@
         "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 15
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -31157,6 +31159,7 @@
         "HEALTH": 260,
         "INTELLIGENCE": 20
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -34478,6 +34481,7 @@
         "HEALTH": 210,
         "INTELLIGENCE": 30
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -34885,6 +34889,7 @@
         "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 10
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -38254,6 +38259,7 @@
         "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 10
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -44610,6 +44616,7 @@
         "CRITICAL_DAMAGE": 45,
         "INTELLIGENCE": 10
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {
@@ -49622,7 +49629,7 @@
     },
     {
       "material": "MELON_BLOCK",
-      "name": "Melon",
+      "name": "Melon Block",
       "npc_sell_price": 18,
       "id": "MELON_BLOCK"
     },
@@ -62005,6 +62012,7 @@
       "name": "Dwarven Tankard",
       "tier": "EPIC",
       "npc_sell_price": 10,
+      "soulbound": "COOP",
       "id": "DWARVEN_TANKARD"
     },
     {
@@ -62910,6 +62918,7 @@
         "HEALTH": 190,
         "INTELLIGENCE": 20
       },
+      "npc_sell_price": 5000,
       "upgrade_costs": [
         [
           {

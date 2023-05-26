@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1683813846000,
+  "lastUpdated": 1685120470000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8069,6 +8069,31 @@
       "furniture": "BIRD_HOUSE",
       "tier": "EPIC",
       "id": "BIRD_HOUSE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUzZjlkYjdiNDU3MzE3MWEyYjU4MzZlNjliYzZhNjMxNDUxNGZmZjViYzc5NzQzMzE5ZmQxOTFmNTM0NDQifX19",
+      "name": "Piece of Wizard Portal",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "item_specific": {
+        "city_project": "repair_wizard_portal"
+      },
+      "id": "WIZARD_PORTAL_MEMENTO"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTNlOTdmYWI0NzUzYjc1YmE1YjBjMDM4YmVkMzc3YjE2MmJhMjhiN2E1ZTI5MGFiZmQwMThhNTU4MWFjNTM4OCJ9fX0=",
+      "name": "Coins on Fire!",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "item_specific": {
+        "city_project": "inflation_fixer"
+      },
+      "description": "\n%%dark_gray%%It's about sending a message...",
+      "id": "BURNING_COINS"
     },
     {
       "material": "SKULL_ITEM",
@@ -69077,7 +69102,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 77777,
-      "description": "%%gray%%%%italic%%Boots made of pure ghost essense",
+      "description": "%%gray%%%%italic%%Boots made of pure ghost essence.",
       "museum": true,
       "id": "GHOST_BOOTS"
     },

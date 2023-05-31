@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1685120470000,
+  "lastUpdated": 1685539150000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -918,29 +918,32 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDgzNTMwOCwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFkMThhMGYyM2IxYTJiODcyZWVlZDUxNTUzNmY1NDkyYjU1MzQ1M2YyYmViNGNhODJjOGI2YTEzYzhmNzJmYyIKICAgIH0KICB9Cn0",
-      "name": "Small Trophy Fishing Sack",
-      "tier": "UNCOMMON",
-      "unstackable": true,
-      "id": "SMALL_TROPHY_FISHING_SACK:json"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDgwNDM1OSwKICAicHJvZmlsZUlkIiA6ICIwZTM3MmZiOGEzOTk0YTkzODliMGY3NGUzZmJlZjY1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBVVNUSU5MT0wwN19ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODA5YTUwMDVjYmY1OGIzY2MwYmIxZGQ2ZTZmMTI2NDVlYWYzMDk1MzMxZDcyZDc4ODc3MmIyYWZmYjZhZWZiIgogICAgfQogIH0KfQ",
-      "name": "Large Trophy Fishing Sack",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "LARGE_TROPHY_FISHING_SACK:json"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDgyMjc0NywKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTY2MmM5YWE4NDRlMDA0ZGQ4YjJiZTI5NzFiMDAyZjAyNDUyMTc1MzEwMTJmMTM0NjZiOWM5NjgyZTc1YjRjIgogICAgfQogIH0KfQ",
-      "name": "Medium Trophy Fishing Sack",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODYwNTM5NSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNWYwMjdhNGEyYmMyZGY1MzE1NGUwYmFmOTE3NDcwMjA3YjgxMzljODBmNDg3ZWQ5ZGFkYTcwMzNjNTkyZDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Silver Trophy Fishing Sack",
       "tier": "RARE",
       "unstackable": true,
-      "id": "MEDIUM_TROPHY_FISHING_SACK:json"
+      "requirements": [
+        {
+          "type": "TROPHY_FISHING",
+          "reward": "SILVER"
+        }
+      ],
+      "id": "SILVER_TROPHY_FISHING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODU4MjQ0OSwKICAicHJvZmlsZUlkIiA6ICJhYTA3ZjM2Mjk0NTM0YzYwODQzMjI4NzAzZTBlMjE3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfU2FrdXlhX0l6YXlvaV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdjZDM2ZTA5ZDdjNDhmNzFiOWM4ODA5Y2RlNWM5YmI2MGEzNmIzMTkzZjMyYjQ5MzEyNWUzNTk1ZmQ3NTdkYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Bronze Trophy Fishing Sack",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "requirements": [
+        {
+          "type": "TROPHY_FISHING",
+          "reward": "BRONZE"
+        }
+      ],
+      "id": "BRONZE_TROPHY_FISHING_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -15891,6 +15894,7 @@
     {
       "material": "RABBIT_STEW",
       "name": "§cMushroom & Warts Stew",
+      "description": "%%gray%%%%italic%%Made with love, and an array of slightly more questionable ingredients.",
       "tier": "RARE",
       "soulbound": "COOP",
       "id": "WARTS_STEW"
@@ -17103,6 +17107,7 @@
       "material": "DOUBLE_PLANT",
       "durability": 4,
       "name": "§cRose Bouquet",
+      "description": "%%gray%%%%italic%%A hastily-made bouquet consisting of Marco's finest roses.",
       "soulbound": "COOP",
       "id": "ROSE_BOUQUET"
     },
@@ -26207,6 +26212,7 @@
     {
       "material": "PAPER",
       "name": "§dPoem of True Love",
+      "description": "%%gray%%%%italic%%Filled with poor punctuation and misspellings, but its message is profound.",
       "glowing": true,
       "tier": "EPIC",
       "soulbound": "COOP",
@@ -26250,6 +26256,7 @@
       "material": "GOLD_NUGGET",
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzI5ODA0NDkwNDMsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2OTBjMThlMmI4NzgwYzkyN2ZkMTIxZDVhMzYxOTZhNTNhNzJjNjcwYTg5ZDc4NWRlZWRlZTMxNTUwMjRiMmEifX19",
       "name": "§eVery Official Yellow Rock of Love!",
+      "description": "%%gray%%%%italic%%A majestic, one-of-a-kind mineral that glistens in the morning sun.",
       "glowing": true,
       "tier": "LEGENDARY",
       "soulbound": "COOP",
@@ -29836,6 +29843,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmRhYzlhNTE4MTNhYmNiNjY2ZWUyYzJjYTg0Y2VmY2ZiMjFlNThiN2IwMWFlMGVhN2U5OWQzNWYzMjNhIn19fQ==",
       "name": "§cSecret Gift for Juliette",
+      "description": "%%gray%%%%italic%%A well-wrapped present that's hot to the touch.",
       "tier": "EPIC",
       "soulbound": "COOP",
       "id": "WRAPPED_GIFT_FOR_JULIETTE"
@@ -41424,6 +41432,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGYxYTI3N2JlYjllNGZhYTZlN2UzNTZjNzQ3ODZlOTY2MTU1NzM2YTY4NThiZjViYjVhZDI5ZGY1YmFiNjFhMSJ9fX0=",
       "name": "§bSolved Rubix Prism",
+      "description": "%%gray%%%%italic%%It took hard work and patience, but that's what love is all about!",
       "tier": "EPIC",
       "soulbound": "COOP",
       "id": "SOLVED_PRISM"
@@ -59555,6 +59564,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNiMmYxMmNmNGYzNGE4YWRmZTNkNzViN2ZmNDg5YjkxYWJhM2M4YjE5OTUyMTNmYTQ2MWQ2ODQ5MGE1MSJ9fX0=",
       "name": "§cFlower Maelstrom",
+      "description": "%%gray%%%%italic%%A handcrafted bouquet made with love and some of the finest flowers around.",
       "tier": "EPIC",
       "soulbound": "COOP",
       "id": "FLOWER_MAELSTROM"
@@ -60738,6 +60748,7 @@
     {
       "material": "GOLD_NUGGET",
       "name": "§eYellow Rock",
+      "description": "%%gray%%%%italic%%A little rough around the edges, but beauty can be found within.",
       "glowing": true,
       "id": "YELLOW_ROCK"
     },
@@ -61009,6 +61020,7 @@
     {
       "material": "ENDER_STONE",
       "name": "§fChunk of the Moon",
+      "description": "%%gray%%%%italic%%Where love is rife, the preconceived laws of physics mean nothing.",
       "tier": "RARE",
       "soulbound": "COOP",
       "id": "MOON_CHUNK"
@@ -65321,6 +65333,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDczYmE1NDZhNjJiMzJjNTE1Mzc2ZGQ3ZjNjOTJmYjM1YTMzNTI0ZjMyM2JiYjJiNTk3OGUzOGM3ZTVmNjJhIn19fQ==",
       "name": "Poorly Wrapped Rock",
+      "description": "%%gray%%%%italic%%Uneven, unkempt, disjointed, and that's just the guy who wrapped it!",
       "soulbound": "COOP",
       "id": "POORLY_WRAPPED_ROCK"
     },
@@ -66274,6 +66287,7 @@
     {
       "material": "EMERALD_BLOCK",
       "name": "§aFake Emerald Altar",
+      "description": "%%gray%%%%italic%%Can't bring the girl to the altar? Bring the altar to the girl!",
       "tier": "UNCOMMON",
       "soulbound": "COOP",
       "id": "FAKE_EMERALD_ALTAR"

@@ -7159,7 +7159,8 @@
         "selectedScopedRifleDev": "",
         "selectedAutoShotgunDev": "",
         "leaderboardSettings": {
-          "mode": ""
+          "mode": "",
+          "resetType": ""
         }
       },
       "Paintball": {
@@ -31587,7 +31588,12 @@
         "speed": "",
         "packages": [
           "usednewrollmanager"
-        ]
+        ],
+        "leaderboardSettings": {
+          "resetType": "",
+          "tkrMode": "",
+          "arenaMode": ""
+        }
       },
       "Bedwars": {
         "Experience_new": 0,
@@ -37530,7 +37536,10 @@
         "votes_Slime": 0,
         "votes_Solar System": 0,
         "new_suit": "",
-        "votes_Ninja": 0
+        "votes_Ninja": 0,
+        "leaderboardSettings": {
+          "resetType": ""
+        }
       },
       "Pit": {
         "profile": {

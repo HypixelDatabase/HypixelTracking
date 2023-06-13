@@ -7,12 +7,12 @@
       "altText": "Hypixel Logo",
       "href": "#"
     },
-    "description": "# Introduction\nThis is the official Hypixel API documentation. [Hypixel Website](https://hypixel.net/) - [GitHub Repo](https://github.com/HypixelDev/PublicAPI) - [API Help Forum](https://hypixel.net/forums/api-help.111/)\n## Limits\nAPI keys currently have a default rate limit of 60 requests per minute. We are also currently undergoing a transition  period that it is worth being aware of, you can read more about this [here](https://hypixel.net/threads/5266129/).\n\nEndpoints which require the use of an API key will also respond with headers to assist with managing the rate limit:\n- 'RateLimit-Limit' - The limit of requests per minute for the provided API key.\n- 'RateLimit-Remaining' - The remaining amount of requests allowed for the current minute.\n- 'RateLimit-Reset' - The amount of seconds until the next minute and the reset of the API key usages.\n\n**At this time we are not accepting requests for increased limits due to upcoming changes. We will update this page once we have re-opened requesting limit increases.**\n## Rules\nWhile the API is free to be used in most applications and scenarios, we do have some rules and we will not grant a limit increase for applications that violate these rules.\n- You may not use the API for commercial use. Any features that use the API must be available to all users.\n- You may not use the API for heavy continuous polling of data, such as requesting the same player automatically for detection of stats earned in a game or period of time.\n- You may not use methods such as multiple accounts to bypass the API limits.\n- Use of the API must conform to our [Terms of Service](https://hypixel.net/tos).\n\n**Any abuse of the API will lead to your API key being reset, or banned.**\n## GameTypes\n| ID | Type Name      | Database Name | Clean Name           |\n |----|----------------|---------------|----------------------|\n | 2  | QUAKECRAFT     | Quake         | Quake                |\n | 3  | WALLS          | Walls         | Walls                |\n | 4  | PAINTBALL      | Paintball     | Paintball            |\n | 5  | SURVIVAL_GAMES | HungerGames   | Blitz Survival Games |\n | 6  | TNTGAMES       | TNTGames      | TNT Games            |\n | 7  | VAMPIREZ       | VampireZ      | VampireZ             |\n | 13 | WALLS3         | Walls3        | Mega Walls           |\n | 14 | ARCADE         | Arcade        | Arcade               |\n | 17 | ARENA          | Arena         | Arena                |\n | 20 | UHC            | UHC           | UHC Champions        |\n | 21 | MCGO           | MCGO          | Cops and Crims       |\n | 23 | BATTLEGROUND   | Battleground  | Warlords             |\n | 24 | SUPER_SMASH    | SuperSmash    | Smash Heroes         |\n | 25 | GINGERBREAD    | GingerBread   | Turbo Kart Racers    |\n | 26 | HOUSING        | Housing       | Housing              |\n | 51 | SKYWARS        | SkyWars       | SkyWars              |\n | 52 | TRUE_COMBAT    | TrueCombat    | Crazy Walls          |\n | 54 | SPEED_UHC      | SpeedUHC      | Speed UHC            |\n | 55 | SKYCLASH       | SkyClash      | SkyClash             |\n | 56 | LEGACY         | Legacy        | Classic Games        |\n | 57 | PROTOTYPE      | Prototype     | Prototype            |\n | 58 | BEDWARS        | Bedwars       | Bed Wars             |\n | 59 | MURDER_MYSTERY | MurderMystery | Murder Mystery       |\n | 60 | BUILD_BATTLE   | BuildBattle   | Build Battle         |\n | 61 | DUELS          | Duels         | Duels                |\n | 63 | SKYBLOCK       | SkyBlock      | SkyBlock             |\n | 64 | PIT            | Pit           | Pit                  |\n | 65 | REPLAY         | Replay        | Replay               |\n | 67 | SMP            | SMP           | SMP                  |\n | 68 | WOOL_GAMES     | WoolGames     | Wool Wars            |\n\n### Storage\nGames store their respective stats and data in a Player's `stats` collection. The game's specific data is held within a JSON object named after it's `Database Name` (seen above.)\n### GameType Notes\n* Clean names are what is displayed to the user when referencing the name.\n* Database names or IDs are used when the API references a specific GameType.\n## Notes\n\n### Date and Time\nGenerally dates are stored as a Unix Epoch times in milliseconds.\n### Response Format\nResponses are served in JSON format.\n### UUID Parameters\nAll uuid parameters support both dashed and undashed versions.\n### SkyBlock items and inventories\nItems and inventory data are stored as a base64 encoded string containing gzipped nbt data.\nIf a method is missing important information about an item or inventory, you should try checking this!\n>Note: the base64 string may contain a unicode escape for non-alphabetical symbols, and some programming languages may have silent defects when interpreting the string. \n\n# Authentication\n\n<!-- ReDoc-Inject: <security-definitions> -->",
+    "description": "# Introduction\nThis is the official Hypixel API documentation. [Hypixel Website](https://hypixel.net/) - [GitHub Repo](https://github.com/HypixelDev/PublicAPI) - [API Help Forum](https://hypixel.net/forums/api-help.111/)\n\nAll use of the API must conform to the [API policies](https://developer.hypixel.net/policies), violation of these policies may lead to applications being revoked or users banned from the API.\n## Limits\nAPI keys are limited to a maximum amount of requests per 5 minute intervals. These limits will depend on the type of application that the key is assigned to.\n\nEndpoints which require the use of an API key will also respond with headers to assist with managing the rate limit:\n- 'RateLimit-Limit' - The limit of requests per minute for the provided API key.\n- 'RateLimit-Remaining' - The remaining amount of requests allowed for the current minute.\n- 'RateLimit-Reset' - The amount of seconds until the next minute and the reset of the API key usages.\n\n## GameTypes\n| ID | Type Name      | Database Name | Clean Name           |\n |----|----------------|---------------|----------------------|\n | 2  | QUAKECRAFT     | Quake         | Quake                |\n | 3  | WALLS          | Walls         | Walls                |\n | 4  | PAINTBALL      | Paintball     | Paintball            |\n | 5  | SURVIVAL_GAMES | HungerGames   | Blitz Survival Games |\n | 6  | TNTGAMES       | TNTGames      | TNT Games            |\n | 7  | VAMPIREZ       | VampireZ      | VampireZ             |\n | 13 | WALLS3         | Walls3        | Mega Walls           |\n | 14 | ARCADE         | Arcade        | Arcade               |\n | 17 | ARENA          | Arena         | Arena                |\n | 20 | UHC            | UHC           | UHC Champions        |\n | 21 | MCGO           | MCGO          | Cops and Crims       |\n | 23 | BATTLEGROUND   | Battleground  | Warlords             |\n | 24 | SUPER_SMASH    | SuperSmash    | Smash Heroes         |\n | 25 | GINGERBREAD    | GingerBread   | Turbo Kart Racers    |\n | 26 | HOUSING        | Housing       | Housing              |\n | 51 | SKYWARS        | SkyWars       | SkyWars              |\n | 52 | TRUE_COMBAT    | TrueCombat    | Crazy Walls          |\n | 54 | SPEED_UHC      | SpeedUHC      | Speed UHC            |\n | 55 | SKYCLASH       | SkyClash      | SkyClash             |\n | 56 | LEGACY         | Legacy        | Classic Games        |\n | 57 | PROTOTYPE      | Prototype     | Prototype            |\n | 58 | BEDWARS        | Bedwars       | Bed Wars             |\n | 59 | MURDER_MYSTERY | MurderMystery | Murder Mystery       |\n | 60 | BUILD_BATTLE   | BuildBattle   | Build Battle         |\n | 61 | DUELS          | Duels         | Duels                |\n | 63 | SKYBLOCK       | SkyBlock      | SkyBlock             |\n | 64 | PIT            | Pit           | Pit                  |\n | 65 | REPLAY         | Replay        | Replay               |\n | 67 | SMP            | SMP           | SMP                  |\n | 68 | WOOL_GAMES     | WoolGames     | Wool Wars            |\n\n### Storage\nGames store their respective stats and data in a Player's `stats` collection. The game's specific data is held within a JSON object named after it's `Database Name` (seen above.)\n### GameType Notes\n* Clean names are what is displayed to the user when referencing the name.\n* Database names or IDs are used when the API references a specific GameType.\n## Notes\n\n### Date and Time\nGenerally dates are stored as a Unix Epoch times in milliseconds.\n### Response Format\nResponses are served in JSON format.\n### UUID Parameters\nAll uuid parameters support both dashed and undashed versions.\n### SkyBlock items and inventories\nItems and inventory data are stored as a base64 encoded string containing gzipped nbt data.\nIf a method is missing important information about an item or inventory, you should try checking this!\n>Note: the base64 string may contain a unicode escape for non-alphabetical symbols, and some programming languages may have silent defects when interpreting the string. \n\n# Authentication\n\n<!-- ReDoc-Inject: <security-definitions> -->",
     "version": "v1",
     "termsOfService": "https://hypixel.net/tos",
     "contact": {
       "name": "Hypixel Support",
-      "url": "https://support.hypixel.net"
+      "url": "https://developer.hypixel.net"
     }
   },
   "servers": [
@@ -26,7 +26,7 @@
         "type": "apiKey",
         "in": "header",
         "name": "API-Key",
-        "description": "Can be obtained by joining the Minecraft server `mc.hypixel.net` and using the command `/api`."
+        "description": "Obtained via the [Hypixel Developer Dashboard](https://developer.hypixel.net) when creating an application. You can also request higher limits for production applications in this dashboard."
       }
     },
     "responses": {
@@ -539,66 +539,6 @@
     }
   },
   "paths": {
-    "/key": {
-      "get": {
-        "tags": [
-          "API"
-        ],
-        "summary": "API Key Information",
-        "security": [
-          {
-            "ApiKey": []
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Get key information",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "success": {
-                      "type": "boolean",
-                      "example": true
-                    },
-                    "record": {
-                      "type": "object",
-                      "properties": {
-                        "key": {
-                          "type": "string",
-                          "format": "uuid"
-                        },
-                        "owner": {
-                          "type": "string",
-                          "format": "uuid"
-                        },
-                        "limit": {
-                          "type": "integer",
-                          "default": 120
-                        },
-                        "queriesInPastMin": {
-                          "type": "integer"
-                        },
-                        "totalQueries": {
-                          "type": "number"
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "403": {
-            "$ref": "#/components/responses/InvalidKey"
-          },
-          "429": {
-            "$ref": "#/components/responses/RateLimited"
-          }
-        }
-      }
-    },
     "/player": {
       "get": {
         "summary": "Data of a specific player, including game stats",

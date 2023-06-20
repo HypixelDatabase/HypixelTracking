@@ -967,7 +967,12 @@
           "rift_dreadfarm_riftwarts_harvested": 0,
           "rift_popped_balloons": 0,
           "rift_odonata_repeatable_completed": 0,
-          "rift_dreadfarm_bean_bulb_collected": 0
+          "rift_dreadfarm_bean_bulb_collected": 0,
+          "kills_autonull": 0,
+          "kills_autochest": 0,
+          "rift_living_metal_piece_maxed": 0,
+          "kills_autopants": 0,
+          "kills_autocap": 0
         },
         "objectives": {
           "collect_log": {
@@ -3922,6 +3927,16 @@
             "completed_at": 0
           },
           "gunther_talk_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cave_2_juice_piece": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cave_3_max_suit": {
             "status": "",
             "progress": 0,
             "completed_at": 0
@@ -9610,7 +9625,11 @@
           "kills_leech_supreme_10": 0,
           "kills_shadow_3": 0,
           "kills_scribe_5": 0,
-          "kills_volt_4": 0
+          "kills_volt_4": 0,
+          "kills_autonull_5": 0,
+          "kills_autochest_5": 0,
+          "kills_autopants_5": 0,
+          "kills_autocap_5": 0
         },
         "trophy_fish": {
           "rewards": [],

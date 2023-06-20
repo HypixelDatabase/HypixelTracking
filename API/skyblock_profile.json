@@ -975,7 +975,9 @@
           "kills_autocap": 0,
           "kills_autoboots": 0,
           "kills_frozille": 0,
-          "rift_plaza_red_light_deaths": 0
+          "rift_plaza_red_light_deaths": 0,
+          "rift_living_cave_snake_collected": 0,
+          "rift_plaza_pillar_deaths": 0
         },
         "objectives": {
           "collect_log": {
@@ -6050,7 +6052,10 @@
           "HALF_EATEN_CARROT_2",
           "HALF_EATEN_CARROT_3",
           "CADUCOUS_STEM_3",
-          "AGARICUS_CAP_3"
+          "AGARICUS_CAP_3",
+          "METAL_HEART_2",
+          "METAL_HEART_1",
+          "METAL_HEART_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -6195,7 +6200,8 @@
           "CADUCOUS_STEM": 0,
           "WILTED_BERBERIS": 0,
           "AGARICUS_CAP": 0,
-          "HALF_EATEN_CARROT": 0
+          "HALF_EATEN_CARROT": 0,
+          "METAL_HEART": 0
         },
         "quiver": {
           "type": 0,

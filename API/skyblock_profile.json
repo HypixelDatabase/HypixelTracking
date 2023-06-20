@@ -985,7 +985,9 @@
           "rift_colosseum_bacte_defeated": 0,
           "kills_splatter": 0,
           "kills_vampire_thrall": 0,
-          "kills_vampire_fledgling": 0
+          "kills_vampire_fledgling": 0,
+          "rift_castle_effigy_broken": 0,
+          "kills_clotgoyle": 0
         },
         "objectives": {
           "collect_log": {
@@ -5338,7 +5340,12 @@
             "boss_kills_tier_3": 0
           },
           "vampire": {
-            "claimed_levels": {}
+            "claimed_levels": {
+              "level_1": true
+            },
+            "boss_kills_tier_0": 0,
+            "xp": 0,
+            "boss_kills_tier_1": 0
           }
         },
         "pets": [
@@ -6070,7 +6077,8 @@
           "METAL_HEART_-1",
           "METAL_HEART_4",
           "METAL_HEART_3",
-          "HEMOVIBE_-1"
+          "HEMOVIBE_-1",
+          "HEMOVIBE_1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -9673,7 +9681,8 @@
           "kills_globowl_1": 0,
           "kills_splatter_6": 0,
           "kills_vampire_thrall_5": 0,
-          "kills_vampire_fledgling_8": 0
+          "kills_vampire_fledgling_8": 0,
+          "kills_clotgoyle_5": 0
         },
         "trophy_fish": {
           "rewards": [],

@@ -935,7 +935,10 @@
           "rift_pass_consumed": 0,
           "kills_shame": 0,
           "rift_lifetime_motes_earned": 0,
-          "rift_motes_orb_pickup": 0
+          "rift_motes_orb_pickup": 0,
+          "rift_woods_larva_killed": 0,
+          "rift_woods_odonata_bottled": 0,
+          "kills_barking_wolf": 0
         },
         "objectives": {
           "collect_log": {
@@ -3808,6 +3811,36 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "rift_eye_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_eye_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_eye_6": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_eye_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_eye_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_eye_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5039,7 +5072,9 @@
           "enigma",
           "rift_bastion",
           "rift",
-          "shifted_tavern"
+          "shifted_tavern",
+          "rift_wither_cage",
+          "wyld_pumpgrotto"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -9436,7 +9471,8 @@
           "kills_crypt_undead_dctr_25": 0,
           "kills_crypt_undead_connorlinfoot_25": 0,
           "deaths_lost_adventurer_160": 0,
-          "kills_shame_1": 0
+          "kills_shame_1": 0,
+          "kills_barking_wolf_2": 0
         },
         "trophy_fish": {
           "rewards": [],

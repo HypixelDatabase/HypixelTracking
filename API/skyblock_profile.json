@@ -930,7 +930,8 @@
           "kills_master_professor": 0,
           "kills_master_professor_mage_guardian": 0,
           "deaths_kada_knight": 0,
-          "deaths_master_scared_skeleton": 0
+          "deaths_master_scared_skeleton": 0,
+          "rift_visits": 0
         },
         "objectives": {
           "collect_log": {
@@ -3388,6 +3389,376 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "rift_unhinged_kloon": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_bark": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_seraphine": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_dreadfarm_flowerpot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_original": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_tel_kar": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_castle_standing": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_reed": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cave_1_craft_pickaxe": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_hot_dog": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_flower_pot_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_lagoon_parkour": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_rabbit_under_hat": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_back2basics": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_beanstalk": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_kat_soul": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_deadgehog_helmet": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_wither_cage": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_defeat_bacte": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_scammer": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_silk_castle": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_west_parkour": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_bughunter": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_village_phantom": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_two_player_soul": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_defeat_leech_supreme": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_long_shrooms": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mole": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_pressure_water": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cake_house_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cake_house_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_detective": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_seymour": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_dolphin_soul": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_silk_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_plaza_balloons": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_obtain_healing_melon": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_castle_phantom": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cave_wall": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_complete_mirrorverse": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_castle_flowerpot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_two_plates": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_jacquelle": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_porhtal": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_threebrothers": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_barry": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_phantom": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_lonely_dave": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_carrots": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_jump_pad_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cave_flowers": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_castle_balloons": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_shania": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_fairylosopher_soul": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_village_glass": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_inverted_sirius": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_enigma_silk_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_complete_okron": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_trafficker": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_talk_to_enigma": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_lagoon_shop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_horsing_around": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_accessory_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_accessory_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_buttons_soul": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_accessory_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_accessory_6": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_rocks_enigma": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_accessory_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_accessory_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_dreadfarm_balloons": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_bid_shen": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_disinfestor": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "gunther_talk_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -4613,7 +4984,8 @@
           "terrys_shack",
           "regalia_room",
           "breakable_tnt_wall",
-          "unincorporated_territory"
+          "unincorporated_territory",
+          "rift_wizard_tower"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

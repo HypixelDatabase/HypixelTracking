@@ -943,7 +943,11 @@
           "kills_lagoon_leech": 0,
           "rift_lagoon_leech_supreme_killed": 0,
           "kills_deadgehog": 0,
-          "rift_lagoon_rocks_game_complete": 0
+          "rift_lagoon_rocks_game_complete": 0,
+          "kills_leech_alpha": 0,
+          "kills_leech_swarm": 0,
+          "kills_leech_supreme": 0,
+          "kills_shadow": 0
         },
         "objectives": {
           "collect_log": {
@@ -3856,6 +3860,31 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "rift_boat_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_boat_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_boat_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_boat_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_boat_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5097,7 +5126,8 @@
           "rift_gallery",
           "lagoon_parkour",
           "west_village",
-          "mirrorverse"
+          "mirrorverse",
+          "dreadfarm"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -9497,7 +9527,11 @@
           "kills_shame_1": 0,
           "kills_barking_wolf_2": 0,
           "kills_lagoon_leech_2": 0,
-          "kills_deadgehog_2": 0
+          "kills_deadgehog_2": 0,
+          "kills_leech_alpha_5": 0,
+          "kills_leech_swarm_3": 0,
+          "kills_leech_supreme_10": 0,
+          "kills_shadow_3": 0
         },
         "trophy_fish": {
           "rewards": [],

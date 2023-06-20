@@ -957,7 +957,9 @@
           "rift_west_vermin_vacuumed_mosquito": 0,
           "rift_dreadfarm_agaricus_harvested": 0,
           "rift_dreadfarm_chicken_killed": 0,
-          "kills_scribe": 0
+          "kills_scribe": 0,
+          "rift_lagoon_lil_pads_sold": 0,
+          "rift_plaza_horsezooka_shot": 0
         },
         "objectives": {
           "collect_log": {
@@ -5165,7 +5167,11 @@
           "living_cave",
           "village_plaza",
           "barter_bank",
-          "barry_center"
+          "barry_center",
+          "rift_colosseum_around",
+          "rift_colosseum",
+          "barry_hq",
+          "half_eaten_cave"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -5995,7 +6001,9 @@
           "AGARICUS_CAP_2",
           "WILTED_BERBERIS_3",
           "WILTED_BERBERIS_1",
-          "WILTED_BERBERIS_2"
+          "WILTED_BERBERIS_2",
+          "HALF_EATEN_CARROT_-1",
+          "HALF_EATEN_CARROT_1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -6139,7 +6147,8 @@
           "SNOW_BLOCK": 0,
           "CADUCOUS_STEM": 0,
           "WILTED_BERBERIS": 0,
-          "AGARICUS_CAP": 0
+          "AGARICUS_CAP": 0,
+          "HALF_EATEN_CARROT": 0
         },
         "quiver": {
           "type": 0,

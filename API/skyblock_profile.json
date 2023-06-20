@@ -988,7 +988,9 @@
           "kills_vampire_fledgling": 0,
           "rift_castle_effigy_broken": 0,
           "kills_clotgoyle": 0,
-          "rifT_living_metal_spawnegg_used": 0
+          "rifT_living_metal_spawnegg_used": 0,
+          "rift_castle_sent_to_prison": 0,
+          "kills_oubliette_zombie": 0
         },
         "objectives": {
           "collect_log": {
@@ -5231,7 +5233,8 @@
           "back_2_basics",
           "photon_path",
           "rift_castle",
-          "rift_castle_fairy_tower"
+          "rift_castle_fairy_tower",
+          "rift_castle_jail"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -6083,7 +6086,8 @@
           "METAL_HEART_4",
           "METAL_HEART_3",
           "HEMOVIBE_-1",
-          "HEMOVIBE_1"
+          "HEMOVIBE_1",
+          "HEMOVIBE_2"
         ],
         "fishing_bag": {
           "type": 0,
@@ -9687,7 +9691,8 @@
           "kills_splatter_6": 0,
           "kills_vampire_thrall_5": 0,
           "kills_vampire_fledgling_8": 0,
-          "kills_clotgoyle_5": 0
+          "kills_clotgoyle_5": 0,
+          "kills_oubliette_zombie_1": 0
         },
         "trophy_fish": {
           "rewards": [],

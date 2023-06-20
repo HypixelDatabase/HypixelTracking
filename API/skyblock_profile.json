@@ -938,7 +938,11 @@
           "rift_motes_orb_pickup": 0,
           "rift_woods_larva_killed": 0,
           "rift_woods_odonata_bottled": 0,
-          "kills_barking_wolf": 0
+          "kills_barking_wolf": 0,
+          "rift_lagoon_mushroom_popped_out": 0,
+          "kills_lagoon_leech": 0,
+          "rift_lagoon_leech_supreme_killed": 0,
+          "kills_deadgehog": 0
         },
         "objectives": {
           "collect_log": {
@@ -3841,6 +3845,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "rift_get_inside_necklace": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "hub_get_outside_necklace_from_elise": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5074,7 +5088,12 @@
           "rift",
           "shifted_tavern",
           "rift_wither_cage",
-          "wyld_pumpgrotto"
+          "wyld_pumpgrotto",
+          "black_lagoon",
+          "lagoon_hut",
+          "leeches_lair",
+          "rift_gallery_entrance",
+          "rift_gallery"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -9472,7 +9491,9 @@
           "kills_crypt_undead_connorlinfoot_25": 0,
           "deaths_lost_adventurer_160": 0,
           "kills_shame_1": 0,
-          "kills_barking_wolf_2": 0
+          "kills_barking_wolf_2": 0,
+          "kills_lagoon_leech_2": 0,
+          "kills_deadgehog_2": 0
         },
         "trophy_fish": {
           "rewards": [],

@@ -982,7 +982,10 @@
           "kills_blobbercyst": 0,
           "rift_colosseum_blaster_shots": 0,
           "kills_globowl": 0,
-          "rift_colosseum_bacte_defeated": 0
+          "rift_colosseum_bacte_defeated": 0,
+          "kills_splatter": 0,
+          "kills_vampire_thrall": 0,
+          "kills_vampire_fledgling": 0
         },
         "objectives": {
           "collect_log": {
@@ -5223,7 +5226,9 @@
           "rift_ah",
           "living_cave_2",
           "back_2_basics",
-          "photon_path"
+          "photon_path",
+          "rift_castle",
+          "rift_castle_fairy_tower"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -6064,7 +6069,8 @@
           "METAL_HEART_1",
           "METAL_HEART_-1",
           "METAL_HEART_4",
-          "METAL_HEART_3"
+          "METAL_HEART_3",
+          "HEMOVIBE_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -6210,7 +6216,8 @@
           "WILTED_BERBERIS": 0,
           "AGARICUS_CAP": 0,
           "HALF_EATEN_CARROT": 0,
-          "METAL_HEART": 0
+          "METAL_HEART": 0,
+          "HEMOVIBE": 0
         },
         "quiver": {
           "type": 0,
@@ -9663,7 +9670,10 @@
           "kills_autoboots_5": 0,
           "kills_frozille_5": 0,
           "kills_blobbercyst_10": 0,
-          "kills_globowl_1": 0
+          "kills_globowl_1": 0,
+          "kills_splatter_6": 0,
+          "kills_vampire_thrall_5": 0,
+          "kills_vampire_fledgling_8": 0
         },
         "trophy_fish": {
           "rewards": [],

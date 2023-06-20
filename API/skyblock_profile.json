@@ -955,7 +955,9 @@
           "rift_west_vermin_vacuumed": 0,
           "rift_west_vermin_vacuumed_silverfish": 0,
           "rift_west_vermin_vacuumed_mosquito": 0,
-          "rift_dreadfarm_agaricus_harvested": 0
+          "rift_dreadfarm_agaricus_harvested": 0,
+          "rift_dreadfarm_chicken_killed": 0,
+          "kills_scribe": 0
         },
         "objectives": {
           "collect_log": {
@@ -5158,7 +5160,12 @@
           "dreadfarm",
           "infested_house",
           "rift_water_parkour",
-          "cake_house"
+          "cake_house",
+          "deja_vu_alley",
+          "living_cave",
+          "village_plaza",
+          "barter_bank",
+          "barry_center"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -5983,7 +5990,12 @@
           "AGARICUS_CAP_1",
           "AGARICUS_CAP_-1",
           "WILTED_BERBERIS_-1",
-          "CADUCOUS_STEM_-1"
+          "CADUCOUS_STEM_-1",
+          "CADUCOUS_STEM_2",
+          "AGARICUS_CAP_2",
+          "WILTED_BERBERIS_3",
+          "WILTED_BERBERIS_1",
+          "WILTED_BERBERIS_2"
         ],
         "fishing_bag": {
           "type": 0,
@@ -9570,7 +9582,8 @@
           "kills_leech_alpha_5": 0,
           "kills_leech_swarm_3": 0,
           "kills_leech_supreme_10": 0,
-          "kills_shadow_3": 0
+          "kills_shadow_3": 0,
+          "kills_scribe_5": 0
         },
         "trophy_fish": {
           "rewards": [],

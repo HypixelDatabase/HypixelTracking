@@ -942,7 +942,8 @@
           "rift_lagoon_mushroom_popped_out": 0,
           "kills_lagoon_leech": 0,
           "rift_lagoon_leech_supreme_killed": 0,
-          "kills_deadgehog": 0
+          "kills_deadgehog": 0,
+          "rift_lagoon_rocks_game_complete": 0
         },
         "objectives": {
           "collect_log": {
@@ -5094,7 +5095,9 @@
           "leeches_lair",
           "rift_gallery_entrance",
           "rift_gallery",
-          "lagoon_parkour"
+          "lagoon_parkour",
+          "west_village",
+          "mirrorverse"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,

@@ -931,7 +931,11 @@
           "kills_master_professor_mage_guardian": 0,
           "deaths_kada_knight": 0,
           "deaths_master_scared_skeleton": 0,
-          "rift_visits": 0
+          "rift_visits": 0,
+          "rift_pass_consumed": 0,
+          "kills_shame": 0,
+          "rift_lifetime_motes_earned": 0,
+          "rift_motes_orb_pickup": 0
         },
         "objectives": {
           "collect_log": {
@@ -4985,7 +4989,9 @@
           "regalia_room",
           "breakable_tnt_wall",
           "unincorporated_territory",
-          "rift_wizard_tower"
+          "rift_wizard_tower",
+          "wyld_woods",
+          "enigma"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -9381,7 +9387,8 @@
           "kills_crypt_undead_apunch_25": 0,
           "kills_crypt_undead_dctr_25": 0,
           "kills_crypt_undead_connorlinfoot_25": 0,
-          "deaths_lost_adventurer_160": 0
+          "deaths_lost_adventurer_160": 0,
+          "kills_shame_1": 0
         },
         "trophy_fish": {
           "rewards": [],

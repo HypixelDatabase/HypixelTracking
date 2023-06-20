@@ -3383,6 +3383,11 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "hub_talk_to_wizard": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -4716,6 +4721,9 @@
             "boss_kills_tier_1": 0,
             "boss_kills_tier_2": 0,
             "boss_kills_tier_3": 0
+          },
+          "vampire": {
+            "claimed_levels": {}
           }
         },
         "pets": [

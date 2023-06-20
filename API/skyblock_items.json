@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1686242244000,
+  "lastUpdated": 1687266499000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -4125,6 +4125,116 @@
       "generator_tier": 9,
       "tier": "RARE",
       "id": "COCOA_GENERATOR_9"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDI5OTMzMywKICAicHJvZmlsZUlkIiA6ICI5NTE3OTkxNjljYzE0MGY1OGM2MmRjOGZmZTU3NjBiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg4ZGI5OGU4MmNjMWQ1NDAxNGJmNzg2MjdjZGViYjRhNTcxNjdiZjc0ZGM1MjEwMDA2ZmMwNjI1YjJiNGExIgogICAgfQogIH0KfQ==",
+      "name": "Vampire Minion II",
+      "generator": "VAMPIRE",
+      "generator_tier": 2,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_2"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDMxNTEyNCwKICAicHJvZmlsZUlkIiA6ICJhYzIzZmEzNzRhMmM0YjU2YmYzYzU2ZTVhODY3NjIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJxdWVlbnNoYW5pd2EiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTI3MzA1MGM1ZjdhYzdhZTJhNWQzMGYyYWEyZTI0ZDNmMGUyYzU3NDBkMTE2NTljMWVkNWIzMTZjZjg5MWQyNyIKICAgIH0KICB9Cn0=",
+      "name": "Vampire Minion III",
+      "generator": "VAMPIRE",
+      "generator_tier": 3,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_3"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDM0NjQ3OCwKICAicHJvZmlsZUlkIiA6ICIwYzE1OTI3Yjc4OTY0MTA3OTA5MWQyMjkxN2U0NmIyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJZb3VBcmVTY2FyeSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZGRmYWNmOTllNzdmOTZjMTE3MjZiOWE4YjY1MDM4N2JhOTZmMTFkY2EzZjdkZjUzNmM1MjdlNzRmMjA0OGQzIgogICAgfQogIH0KfQ==",
+      "name": "Vampire Minion V",
+      "generator": "VAMPIRE",
+      "generator_tier": 5,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_5"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDQ3MjQyNywKICAicHJvZmlsZUlkIiA6ICJiNDA5ZmMyZjg4OTk0ZTVkOWZmNWFiMmUyOWZjNjQzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkb2dzaGp0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1NzJjM2I0Y2RlZGVmMTE2MmE2ZGE5YmU3ZjEwZGQyNGZjZjY0Mjc5M2Q2YzQ5YWEwOGVlMGJmNGY5ZDMzMTMiCiAgICB9CiAgfQp9",
+      "name": "Vampire Minion XI",
+      "generator": "VAMPIRE",
+      "generator_tier": 11,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_11"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDQ1NzYwNywKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZGVhZWIxNzEwZTZkOTMwMzA2MGRjYTg1MzA4NDM3NjUxY2E0MTE2OWZlNjZmOTNhNmIwYWU4ZjYzNDAxN2U4IgogICAgfQogIH0KfQ==",
+      "name": "Vampire Minion X",
+      "generator": "VAMPIRE",
+      "generator_tier": 10,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_10"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDMyOTk0NCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExMDBhNWIzMjQzY2ViNGViYTFlMzBiNmE2NTc5MTc4MGJjODQ4YTU3OGNmMmI3ZTFiZjQ2MDMyMThjNGNkODkiCiAgICB9CiAgfQp9",
+      "name": "Vampire Minion IV",
+      "generator": "VAMPIRE",
+      "generator_tier": 4,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_4"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDM5MjE0NSwKICAicHJvZmlsZUlkIiA6ICJhMzdlOGYyM2MyMTk0NjJiYjY3ZWUxY2I5OTM2YWY2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb29yYWxleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYjg0ZmRkMTQxMGE3OTE4ZTEzYWViYTI5NjNkNGQ1NWNkOGViY2Y0NTFiNGRiNTRmMjFhZTdkNWMyZjNjNTkyIgogICAgfQogIH0KfQ==",
+      "name": "Vampire Minion VI",
+      "generator": "VAMPIRE",
+      "generator_tier": 6,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_6"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDQzOTE0OSwKICAicHJvZmlsZUlkIiA6ICI3ZjU2ZjY1MDI2NjY0ZmM1OWFjNWYyYjVjMTNlZGY3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhBbnRvbnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjVhOTQzNmM2NWRjODFlNjdhZWQyYTBmM2QyZTQxNDEzY2MyZThjYTdhYmU5YTdjYWYyNmUxNTk2ZGY5NzBhNyIKICAgIH0KICB9Cn0=",
+      "name": "Vampire Minion IX",
+      "generator": "VAMPIRE",
+      "generator_tier": 9,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_9"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDI4Mzg1NSwKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMGMyZGI0MmU5MGY4M2ZhZTY1NTFjOTZlODM2NjkyMTFhNzdjMmMxNTVjNTRkMTUyM2FmMzA3OWY5NTY1ZWQiCiAgICB9CiAgfQp9",
+      "name": "Vampire Minion I",
+      "generator": "VAMPIRE",
+      "generator_tier": 1,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_1"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDQyNTMxNywKICAicHJvZmlsZUlkIiA6ICIzYjA2ZTc3YzAzYTg0MGExOGIzOGY0Y2Q1ZWE0YzYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIT1JVU19JTyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMjc1MjE1ZjA0NzYxYmVhZjhkNWExZmQ2YzY4YTZkZGViZjNjNzMyMDk4MjZkYTlkOTYxNTM1NmI2ZTc2NGRiIgogICAgfQogIH0KfQ==",
+      "name": "Vampire Minion VIII",
+      "generator": "VAMPIRE",
+      "generator_tier": 8,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_8"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzU0NDQwNzU4OSwKICAicHJvZmlsZUlkIiA6ICJjYjYxY2U5ODc4ZWI0NDljODA5MzliNWYxNTkwMzE1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2lkZWRUcmFzaDUxODUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmZlZGQ5Yjk0NzcxYTZkOGMzODI5NGU1MDg4ZDQwNDQ2OGEwMTJmOWRlYzU5ODdmM2Y0OTI0NzJmMzBiODNiMyIKICAgIH0KICB9Cn0=",
+      "name": "Vampire Minion VII",
+      "generator": "VAMPIRE",
+      "generator_tier": 7,
+      "tier": "RARE",
+      "id": "VAMPIRE_GENERATOR_7"
     },
     {
       "material": "SKULL_ITEM",
@@ -15411,6 +15521,28 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NTkxNDEyMjMzNjIsInByb2ZpbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmNjlhYjJmNGU3MzQxYWMyNjI1OTcwODNjYTM4YWQwMWJmYmJmODczMGZiZmJkZDEwY2E5MGFlZTMzN2EyZGQifX19",
+      "name": "Portal to The Wizard Tower",
+      "category": "PORTAL",
+      "item_specific": {
+        "portal": {
+          "holo_name": "Wizard Tower",
+          "description_name": "%%light_purple%%The Wizard Tower",
+          "destination_mode": "hub",
+          "location_tag": "wizard_tower",
+          "schematic_file": "sb_portal_wizard_tower",
+          "offset": "NEW",
+          "skill_requirement": {
+            "skill": "ENCHANTING",
+            "level": 5
+          }
+        }
+      },
+      "id": "WIZARD_TOWER_PORTAL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVkMmYzMWJhMTYyZmU2MjcyZTgzMWFlZDE3ZjUzMjEzZGI2ZmExYzRjYmU0ZmM4MjdmMzk2M2NjOThiOSJ9fX0=",
       "name": "Portal to the Hub Crypts",
       "category": "PORTAL",
@@ -18612,6 +18744,9 @@
       "tier": "EPIC",
       "npc_sell_price": 1000,
       "dungeon_item": true,
+      "stats": {
+        "rift_Time": 11
+      },
       "id": "SCARF_THESIS"
     },
     {
@@ -35899,9 +36034,14 @@
       "category": "SWORD",
       "tier": "UNCOMMON",
       "stats": {
-        "DAMAGE": 100
+        "DAMAGE": 100,
+        "RIFT_DAMAGE": 1
       },
+      "rift_transferrable": true,
       "npc_sell_price": 2000,
+      "item_specific": {
+        "bonus_rift_damage_vs_vampire": 3
+      },
       "id": "SILVER_FANG"
     },
     {
@@ -37933,6 +38073,10 @@
       "tier": "RARE",
       "npc_sell_price": 1000,
       "dungeon_item": true,
+      "rift_transferrable": true,
+      "stats": {
+        "rift_Time": 10
+      },
       "id": "SCARF_STUDIES"
     },
     {
@@ -56915,6 +57059,9 @@
       "tier": "LEGENDARY",
       "npc_sell_price": 1000,
       "dungeon_item": true,
+      "stats": {
+        "rift_Time": 12
+      },
       "id": "SCARF_GRIMOIRE"
     },
     {
@@ -69869,6 +70016,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDMwNjU4N2VjMzhjMjQ0NmQzODlhNTgxZTA2OTE1NTZmYTU4ZmNlMGEwMmQwODQ2ZDIzZmQ2OGUzNjU2YTI0OSJ9fX0=",
       "name": "Re-heated Gummy Polar Bear",
       "tier": "UNCOMMON",
+      "rift_transferrable": true,
       "id": "REHEATED_GUMMY_POLAR_BEAR"
     },
     {
@@ -71892,6 +72040,11 @@
           "level": 5
         }
       ],
+      "item_specific": {
+        "slow_duration_seconds": 10,
+        "mana_cost": 200,
+        "cooldown_seconds": 5
+      },
       "id": "VOODOO_DOLL"
     },
     {
@@ -72565,7 +72718,40 @@
           "level": 5
         }
       ],
+      "rift_transferrable": true,
+      "item_specific": {
+        "stats": {
+          "strength": 30,
+          "walk_speed": 30
+        },
+        "rift_stats": {
+          "rift_damage": 1,
+          "walk_speed": 10
+        },
+        "duration_seconds": 20,
+        "cooldown_seconds": 20,
+        "range": 10,
+        "max_other_players": 4
+      },
       "id": "WEIRD_TUBA"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3Njk2Njc2NDgwNywKICAicHJvZmlsZUlkIiA6ICI2ZTIyNjYxZmNlMTI0MGE0YWE4OTA0NDA0NTFiYjBiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJncnZleWFyZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMDQwMTI0ZjIyYTg0Mjk2NmJlYjU1YzllNjk4ZmUzYTJjOGI3MTMxOTBjMjZlMDNkMzdmNDA3NGJkNTAzMDMxIgogICAgfQogIH0KfQ==",
+      "name": "Maddox Badphone",
+      "tier": "RARE",
+      "unstackable": true,
+      "soulbound": "COOP",
+      "requirements": [
+        {
+          "type": "SLAYER",
+          "slayer_boss_type": "wolf",
+          "level": 3
+        }
+      ],
+      "museum": true,
+      "id": "AATROX_BADPHONE"
     },
     {
       "material": "SKULL_ITEM",
@@ -72582,6 +72768,7 @@
           "level": 3
         }
       ],
+      "rift_transferrable": true,
       "museum": true,
       "id": "AATROX_BATPHONE"
     },
@@ -73004,6 +73191,7 @@
           "level": 6
         }
       ],
+      "rift_transferrable": true,
       "id": "LEGGINGS_OF_THE_PACK"
     },
     {
@@ -73119,6 +73307,37 @@
         }
       ],
       "id": "RED_CLAW_TALISMAN"
+    },
+    {
+      "material": "HOPPER",
+      "name": "Weirder Tuba",
+      "tier": "EPIC",
+      "unstackable": true,
+      "requirements": [
+        {
+          "type": "SLAYER",
+          "slayer_boss_type": "wolf",
+          "level": 5
+        }
+      ],
+      "rift_transferrable": true,
+      "item_specific": {
+        "stats": {
+          "strength": 40,
+          "critical_damage": 10,
+          "attack_speed": 5,
+          "walk_speed": 30
+        },
+        "rift_stats": {
+          "rift_damage": 3,
+          "walk_speed": 30
+        },
+        "duration_seconds": 30,
+        "cooldown_seconds": 20,
+        "range": 16,
+        "max_other_players": 4
+      },
+      "id": "WEIRDER_TUBA"
     },
     {
       "material": "IRON_SWORD",
@@ -74085,6 +74304,14 @@
       "tier": "EPIC",
       "soulbound": "SOLO",
       "id": "CRYSTAL_NUCLEUS_TRAVEL_SCROLL"
+    },
+    {
+      "material": "EMPTY_MAP",
+      "name": "Travel Scroll to the Wizard Tower",
+      "category": "TRAVEL_SCROLL",
+      "tier": "EPIC",
+      "rift_transferrable": true,
+      "id": "HUB_WIZARD_TOWER_TRAVEL_SCROLL"
     },
     {
       "material": "EMPTY_MAP",
@@ -75683,7 +75910,21 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTMwZmU3NzFmY2MzZWNjMDUzMGVlOTU0NWFiMDc3OTc0MzdmOTVlMDlhMGVhYTliNTEyNDk3ZmU4OTJmNTJmYiJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MjA4NDU2MTY0NCwKICAicHJvZmlsZUlkIiA6ICJhODUxNzQ0MDNlNjg0MDgwYWNkODU3MzhlMjI5NGNhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYVJpdmVyc09uZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTIzMDVlMzA0ZTAzMTkxMWI4Y2QxZWRlMDZmNThmMjQ3YjMzYmFkMzFmYTFhOWIzZGQ5ZjZkMmQ4NDVlODA3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Vermin Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "stats": {
+        "RIFT_TIME": 100,
+        "rift_walk_speed": 4,
+        "rift_intelligence": 10
+      },
+      "id": "VERMIN_BELT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDMzODg4MzYzMSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjZDliOTNjODg4MmRjMmJlZmU5YzEzZDc2NTlhMzM4ZWI3NDU0YjhhMThlNzUzMTBkZjA1MTAxOTRlMmQ3YTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Enigma Cloak",
       "category": "CLOAK",
       "tier": "EPIC",
@@ -75695,24 +75936,80 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "%%light_purple%%Rift Necklace",
       "category": "NECKLACE",
-      "tier": "UNCOMMON",
-      "stats": {
-        "RIFT_TIME": 10
+      "tier": "MYTHIC",
+      "soulbound": "SOLO",
+      "item_specific": {
+        "scaling": {
+          "tiers": [
+            {
+              "numeric": 1,
+              "stats": {
+                "RIFT_TIME": 60
+              }
+            },
+            {
+              "numeric": 2,
+              "stats": {
+                "RIFT_TIME": 110
+              }
+            },
+            {
+              "numeric": 3,
+              "stats": {
+                "RIFT_TIME": 155,
+                "rift_walk_speed": 1,
+                "rift_intelligence": 5
+              }
+            },
+            {
+              "numeric": 4,
+              "stats": {
+                "RIFT_TIME": 200,
+                "rift_walk_speed": 2,
+                "rift_intelligence": 5,
+                "rift_mana_regen": 10
+              }
+            },
+            {
+              "numeric": 5,
+              "stats": {
+                "RIFT_TIME": 245,
+                "rift_walk_speed": 3,
+                "rift_intelligence": 10,
+                "rift_mana_regen": 10
+              }
+            },
+            {
+              "numeric": 6,
+              "stats": {
+                "RIFT_TIME": 290,
+                "rift_walk_speed": 4,
+                "rift_intelligence": 10,
+                "rift_mana_regen": 15,
+                "rift_damage": 1
+              }
+            },
+            {
+              "numeric": 7,
+              "stats": {
+                "RIFT_TIME": 335,
+                "rift_walk_speed": 5,
+                "rift_intelligence": 10,
+                "rift_mana_regen": 20,
+                "rift_damage": 1,
+                "rift_health": 1
+              }
+            },
+            {
+              "numeric": 8,
+              "stats": {
+                "RIFT_TIME": 360
+              }
+            }
+          ]
+        }
       },
-      "id": "RIFT_NECKLACE_INSIDE_1"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-      "name": "%%light_purple%%Rift Necklace",
-      "category": "NECKLACE",
-      "tier": "UNCOMMON",
-      "stats": {
-        "RIFT_TIME": 180,
-        "RIFT_DAMAGE": 2
-      },
-      "id": "RIFT_NECKLACE_INSIDE_3"
+      "id": "RIFT_NECKLACE_INSIDE"
     },
     {
       "material": "SKULL_ITEM",
@@ -75723,26 +76020,88 @@
       "tier": "LEGENDARY",
       "soulbound": "SOLO",
       "item_specific": {
-        "tiers": {
-          "1": {
-            "stats": {
-              "HEALTH": 50,
-              "STRENGTH": 5
+        "scaling": {
+          "tiers": [
+            {
+              "numeric": 1,
+              "item_tier": "UNCOMMON",
+              "stats": {
+                "intelligence": 10,
+                "magic_find": 1
+              }
+            },
+            {
+              "numeric": 2,
+              "item_tier": "UNCOMMON",
+              "stats": {
+                "intelligence": 20,
+                "magic_find": 2,
+                "health": 20
+              }
+            },
+            {
+              "numeric": 3,
+              "item_tier": "RARE",
+              "stats": {
+                "intelligence": 30,
+                "magic_find": 3,
+                "health": 40,
+                "strength": 5
+              }
+            },
+            {
+              "numeric": 4,
+              "item_tier": "RARE",
+              "stats": {
+                "intelligence": 40,
+                "magic_find": 4,
+                "health": 60,
+                "strength": 10
+              }
+            },
+            {
+              "numeric": 5,
+              "item_tier": "EPIC",
+              "stats": {
+                "intelligence": 50,
+                "magic_find": 5,
+                "health": 80,
+                "strength": 15,
+                "defense": 15
+              }
+            },
+            {
+              "numeric": 6,
+              "item_tier": "EPIC",
+              "stats": {
+                "intelligence": 65,
+                "magic_find": 6,
+                "health": 100,
+                "strength": 20,
+                "defense": 25
+              }
+            },
+            {
+              "numeric": 7,
+              "item_tier": "LEGENDARY",
+              "stats": {
+                "intelligence": 75,
+                "magic_find": 7,
+                "health": 100,
+                "strength": 25,
+                "defense": 30,
+                "combat_wisdom": 1,
+                "farming_wisdom": 1,
+                "enchanting_wisdom": 1
+              }
+            },
+            {
+              "numeric": 8,
+              "stats": {
+                "true_defense": 3
+              }
             }
-          },
-          "2": {
-            "stats": {
-              "HEALTH": 100,
-              "STRENGTH": 8
-            }
-          },
-          "3": {
-            "stats": {
-              "HEALTH": 150,
-              "STRENGTH": 10,
-              "CRITICAL_DAMAGE": 3
-            }
-          }
+          ]
         }
       },
       "id": "RIFT_NECKLACE_OUTSIDE"
@@ -75750,68 +76109,27 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-      "name": "%%light_purple%%Rift Necklace",
-      "category": "NECKLACE",
-      "tier": "UNCOMMON",
-      "stats": {
-        "RIFT_TIME": 60,
-        "RIFT_DAMAGE": 2
-      },
-      "id": "RIFT_NECKLACE_INSIDE_2"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzcxNTE3OTkyNCwKICAicHJvZmlsZUlkIiA6ICIxYWZhZjc2NWI1ZGY0NjA3YmY3ZjY1ZGYzYWIwODhhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3lfQmxvb2RBbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDdiYjRmMDMwODE3YWY3NDFjNTU0MjE1NmJjYmExNTU4YzgyYjAwOTE2ZDkxNTllMmMyOTcyZGE3NWQ5MGIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Silkrider Safety Belt",
       "category": "BELT",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "stats": {
         "RIFT_TIME": 60,
-        "WALK_SPEED": 2
+        "rift_walk_speed": 2
       },
       "id": "SILKRIDER_SAFETY_BELT"
     },
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIxNWNlODIzNzcwZDlhMjY5YzFlYmY1ODNkM2U0OTMyNzQ3YTEzZWY0MzYxM2NkNGY3NWY4MDRjYTQifX19",
-      "name": "Harmonious Surgery Toolbelt",
-      "category": "BELT",
-      "tier": "UNCOMMON",
-      "stats": {
-        "WALK_SPEED": 2
-      },
-      "id": "HARMONIOUS_SURGERY_TOOLBELT"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRmNDNmNmE5ZGMyZWVhY2JkZGIzZDYzMjQ5ZjU4MmYxYTc3OTQwNWQxODZlNDEyNThmMzBiY2U4MDMzOTdkZiJ9fX0=",
-      "name": "Bracelet of the Glyphs",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTE2OTAyNDY0MiwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTFiMGI2MzhmYzNkOTAzM2Y3MWRjZjMxYjdkZTQ0YmJmNDgxNGNhMTIzMTc3YWEzZDI0OTQ1YWY0MzRhMTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Disinfestor Gloves",
       "category": "GLOVES",
-      "tier": "EPIC",
+      "tier": "RARE",
       "stats": {
-        "RIFT_TIME": 90,
-        "INTELLIGENCE": 25
+        "RIFT_TIME": 30
       },
-      "description": "Obtained from Sorcerer Okron.",
-      "id": "BRACELET_OF_THE_GLYPHS"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ4MDI2MzM0MSwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmE2MzBhNzcwMzU2OTBlNjU1ZTY0ZTRhZDMwMTNkMzJmZTdhNGNiZTQzYzVmY2FiYTY0M2QxZjI2YjdhMDkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-      "name": "Vermin Belt",
-      "category": "BELT",
-      "tier": "EPIC",
-      "stats": {
-        "RIFT_TIME": 100,
-        "WALK_SPEED": 4,
-        "INTELLIGENCE": 10
-      },
-      "id": "VERMIN_BELT"
+      "id": "DISINFESTOR_GLOVES"
     },
     {
       "material": "SKULL_ITEM",
@@ -75819,13 +76137,115 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ4MDI2MzM0MSwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmE2MzBhNzcwMzU2OTBlNjU1ZTY0ZTRhZDMwMTNkMzJmZTdhNGNiZTQzYzVmY2FiYTY0M2QxZjI2YjdhMDkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Leech Belt",
       "category": "BELT",
+      "tier": "RARE",
+      "stats": {
+        "RIFT_TIME": 80,
+        "rift_walk_speed": 3,
+        "rift_intelligence": 5
+      },
+      "id": "LEECH_BELT"
+    },
+    {
+      "material": "GLOWSTONE_DUST",
+      "name": "%%yellow%%Wizard's Breadcrumbs",
+      "tier": "RARE",
+      "id": "WIZARD_BREADCRUMBS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQyZjc4ZDAxNTE5OTc3NjhlZDBjNTM0Yjc2YzI0YjMyOGViZTg0NDg2YjQzYzA4M2JiYzUyODM0MGUyIn19fQ==",
+      "name": "Cruxmotion",
+      "tier": "EPIC",
+      "description": "Ultimately, it's life that is weird.",
+      "id": "CRUXMOTION"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "56,0,36",
+      "name": "Exceedingly Comfy Sneakers",
+      "category": "BOOTS",
+      "tier": "RARE",
+      "stats": {
+        "RIFT_TIME": 45,
+        "rift_walk_speed": 5
+      },
+      "description": "Stay classy.",
+      "id": "EXCEEDINGLY_COMFY_SNEAKERS"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "72,255,0",
+      "name": "Femurgrowth Leggings",
+      "category": "LEGGINGS",
+      "tier": "EPIC",
+      "stats": {
+        "RIFT_TIME": 65,
+        "rift_mana_regen": 5,
+        "rift_walk_speed": -4
+      },
+      "description": "%%dark_gray%%It's infected slime, it makes you slower.",
+      "id": "FEMURGROWTH_LEGGINGS"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "color": "255,70,0",
+      "name": "Orange Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "EPIC",
+      "stats": {
+        "RIFT_TIME": 45,
+        "rift_intelligence": 5,
+        "rift_mana_regen": 10
+      },
+      "glowing": true,
+      "id": "ORANGE_CHESTPLATE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjAwMjI2MjUyMywKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4NDQ2ZDQ5ZTJmZTQ1MzM3Yzg1ODc1NzQzN2YwNDg2OTlhMGRmMzUxMDUxODdhMTk3NDEyMmVhZTliZjdlY2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Agaricus Cap Cap",
+      "tier": "RARE",
+      "category": "HELMET",
+      "stats": {
+        "RIFT_TIME": 50,
+        "RIFT_INTELLIGENCE": 15
+      },
+      "item_specific": {
+        "rift_time_regain_on_kill": 2
+      },
+      "id": "AGARICUS_CAP_CAP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODcxMTcxODc5MCwKICAicHJvZmlsZUlkIiA6ICI3ZDJhY2YzOGQ3YTQ0YjU0YTliMGNkYTZhNzk1YmNmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3VuY2luZXNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiNmJiOGVjNjMyNTYyYjUxMzMwMGNiOTQxM2Q3Zjc5NzQ2NzFlNjdhYWFmMjBkZWQxZjM3ZDhjMWM1MGI4OGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Used Detransfigured Face",
+      "category": "HELMET",
       "tier": "EPIC",
       "stats": {
         "RIFT_TIME": 80,
-        "WALK_SPEED": 3,
-        "INTELLIGENCE": 10
+        "RIFT_INTELLIGENCE": 20
       },
-      "id": "LEECH_BELT"
+      "item_specific": {
+        "rift_time_regain_on_kill": 2
+      },
+      "unstackable": true,
+      "id": "DETRANSFIGURED_MASK"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "26,0,76",
+      "name": "Snake-in-a-Boot",
+      "category": "BOOTS",
+      "tier": "EPIC",
+      "stats": {
+        "RIFT_TIME": 60,
+        "rift_walk_speed": 7
+      },
+      "description": "You've got a friend in me.",
+      "id": "SNAKE_IN_A_BOOT"
     },
     {
       "material": "LEATHER_BOOTS",
@@ -75848,6 +76268,9 @@
       "stats": {
         "RIFT_TIME": 15,
         "RIFT_INTELLIGENCE": 10
+      },
+      "item_specific": {
+        "rift_time_regain_on_kill": 1
       },
       "id": "WYLD_HELMET"
     },
@@ -75873,29 +76296,6 @@
       "id": "WYLD_CHESTPLATE"
     },
     {
-      "material": "LEATHER_CHESTPLATE",
-      "name": "Disinfestor Chestplate",
-      "color": "246,255,0",
-      "category": "CHESTPLATE",
-      "tier": "RARE",
-      "stats": {
-        "RIFT_TIME": 30
-      },
-      "glowing": true,
-      "id": "DISINFESTOR_CHESTPLATE"
-    },
-    {
-      "material": "IRON_LEGGINGS",
-      "name": "sgniggeL norI",
-      "category": "LEGGINGS",
-      "tier": "RARE",
-      "stats": {
-        "RIFT_TIME": 30
-      },
-      "glowing": true,
-      "id": "SGNIGGEL_NORI"
-    },
-    {
       "material": "IRON_CHESTPLATE",
       "name": "etalptsehC norI",
       "category": "CHESTPLATE",
@@ -75907,6 +76307,34 @@
       "id": "ETALPTSEHC_NORI"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTE0NTkxNDMxNSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5YThhMGIyZmMzNDU3NmIxM2M3YWYwMjA3OTA3NGY3NWUyNmJiNDkyNDRlZWE1ZTg4NDFmMGIxM2ZhN2YwNjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Not-Dead-Gehog Mask",
+      "category": "HELMET",
+      "tier": "UNCOMMON",
+      "stats": {
+        "RIFT_TIME": 30,
+        "RIFT_INTELLIGENCE": 15
+      },
+      "item_specific": {
+        "rift_time_regain_on_kill": 1
+      },
+      "id": "NOT_DEADGEHOG_MASK"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "color": "255,242,0",
+      "name": "Chicken Leggs",
+      "category": "LEGGINGS",
+      "tier": "RARE",
+      "description": "%%dark_gray%%Sometimes you pretend to be a dolphin, sometimes a chicken. Cluck cluck!",
+      "stats": {
+        "RIFT_TIME": 35
+      },
+      "id": "CHICKEN_LEGGS"
+    },
+    {
       "material": "LEATHER_BOOTS",
       "color": "79,40,134",
       "name": "Gunther's Sneakers",
@@ -75914,9 +76342,229 @@
       "tier": "RARE",
       "stats": {
         "RIFT_TIME": 30,
-        "WALK_SPEED": 4
+        "rift_walk_speed": 4
       },
       "id": "GUNTHER_SNEAKERS"
+    },
+    {
+      "material": "CARPET",
+      "durability": 14,
+      "name": "Anti-Bite Scarf",
+      "tier": "MYTHIC",
+      "category": "HELMET",
+      "stats": {
+        "RIFT_TIME": 110,
+        "RIFT_INTELLIGENCE": 22,
+        "rift_health": 1
+      },
+      "item_specific": {
+        "rift_time_regain_on_kill": 2,
+        "hearts_reduction": 0.5
+      },
+      "unstackable": true,
+      "id": "ANTI_BITE_SCARF_2"
+    },
+    {
+      "material": "CHAINMAIL_CHESTPLATE",
+      "name": "Lively Sepulture Chestplate",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "stats": {
+        "RIFT_TIME": 65,
+        "rift_health": 1,
+        "rift_intelligence": 30,
+        "rift_mana_regen": 25
+      },
+      "glowing": true,
+      "id": "LIVELY_SEPULTURE_CHESTPLATE"
+    },
+    {
+      "material": "LEATHER_LEGGINGS",
+      "name": "Leggings of the Coven",
+      "category": "LEGGINGS",
+      "tier": "EPIC",
+      "stats": {
+        "rift_time": 80,
+        "rift_health": 1,
+        "rift_mana_regen": 6
+      },
+      "item_specific": {
+        "range_blocks": 64,
+        "max_players": 3,
+        "damage_per_player": 1,
+        "mana_regen_per_player": 2
+      },
+      "unstackable": true,
+      "id": "LEGGINGS_OF_THE_COVEN"
+    },
+    {
+      "material": "CARPET",
+      "durability": 14,
+      "name": "Anti-Bite Scarf",
+      "tier": "LEGENDARY",
+      "category": "HELMET",
+      "stats": {
+        "RIFT_TIME": 100,
+        "RIFT_INTELLIGENCE": 20,
+        "rift_health": 1
+      },
+      "item_specific": {
+        "rift_time_regain_on_kill": 2,
+        "hearts_reduction": 0.3
+      },
+      "unstackable": true,
+      "id": "ANTI_BITE_SCARF"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk2OTIzYWQyNDczMTAwMDdmNmFlNWQzMjZkODQ3YWQ1Mzg2NGNmMTZjMzU2NWExODFkYzhlNmIyMGJlMjM4NyJ9fX0=",
+      "name": "Placeable Fairy Soul",
+      "tier": "EPIC",
+      "rift_transferrable": true,
+      "unstackable": true,
+      "id": "PLACEABLE_FAIRY_SOUL_RIFT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDIyMjM4ODEyOSwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFlOTU0MGM1NjkwZDU0NTQzNGQ2NmFjOWEyMGIxMmFkMDIwZDVlM2YwZmI1MjcyYjIzOTdiYmFlZDY5NjFlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "category": "ACCESSORY",
+      "name": "Future Calories Talisman",
+      "tier": "COMMON",
+      "rift_transferrable": true,
+      "unstackable": true,
+      "stats": {
+        "fishing_wisdom": 1,
+        "rift_time": 21
+      },
+      "soulbound": "COOP",
+      "id": "FUTURE_CALORIES"
+    },
+    {
+      "material": "COOKED_FISH",
+      "name": "Dead Cat Food",
+      "tier": "RARE",
+      "category": "PET_ITEM",
+      "rift_transferrable": true,
+      "id": "DEAD_CAT_FOOD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NhYTViZjFiZWRlOWEyN2EwZDBiOTg1Zjc3ZThiOTczMGQ1ZGIzZWRhOTUyZGZlM2YxYTMxYjg3ZDVlZmVjOCJ9fX0=",
+      "name": "Rift Prism",
+      "tier": "RARE",
+      "category": "ACCESSORY",
+      "rift_transferrable": true,
+      "id": "RIFT_PRISM"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDIxNzQ3ODIwMSwKICAicHJvZmlsZUlkIiA6ICJhNWVmNzE3YWI0MjA0MTQ4ODlhOTI5ZDA5OTA0MzcwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZXBsZXRpbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliOWY0M2I1MWJkNDViZWRmMDllNDU4MmQ3NjJkMjZjMDMxODQ3ZmM4ZjMwZDI1MzA1NzkyYzU3NDE4MWQzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Four-Eyed Fish",
+      "tier": "EPIC",
+      "category": "PET_ITEM",
+      "id": "FOUR_EYED_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQzYTRhOGZhNzlmOGQxNjIxZDVlYTQ5MGI5ZTAyMTc5NjJmOTA1OTRlZGE4OTY3NWZjMTNiMjlkNTI5MDQ3NCJ9fX0=",
+      "name": "Punchcard Artifact",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "stats": {
+        "rift_time": 30
+      },
+      "item_specific": {
+        "regained_rift_time": 25
+      },
+      "id": "PUNCHCARD_ARTIFACT"
+    },
+    {
+      "material": "RAW_FISH",
+      "name": "Pre-Digestion Fish",
+      "tier": "EPIC",
+      "soulbound": "COOP",
+      "glowing": true,
+      "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology.",
+      "id": "PRE_DIGESTION_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxOGJjZWM0MGZhZWI5ZDhkZGUwZWY0M2QzYThkZTE0NzQzYjU1NGVhNDNiYzM5MjM3YTE3OWJmZmFkZmM3ZSJ9fX0=",
+      "name": "Flex Helmet",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "item_specific": {
+        "flex_skins": [
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxOGJjZWM0MGZhZWI5ZDhkZGUwZWY0M2QzYThkZTE0NzQzYjU1NGVhNDNiYzM5MjM3YTE3OWJmZmFkZmM3ZSJ9fX0=",
+            "name": "Duck",
+            "description": "Fact: Ducks have a specially designed beak that allow them to filter water and mud for food while swimming."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVhNGU4MWVkOWEwMjg1NmE4NWI3ZGY1OGQyNWVmOTYyNGJkYWI0YzBjMGFiMWRhNWQ0ZDU1NDcwNmY1M2Y3NSJ9fX0=",
+            "name": "Fox",
+            "description": "Fact: Foxes have a unique hunting technique where they use the Earth's magnetic field to pinpoint the exact location of their prey."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNjYzNkNDI3MjAwZDdjMTM0MGQwNTk4MjJiNDE0MzY1NWE3MzBlNGZjMzcxODgyOTY2NGUzZTRhYTM2YmQyIn19fQ==",
+            "name": "Sheep",
+            "description": "Fact: Sheeps have an excellent sense of smell and can recognize individual members of their flock by their unique scent."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBmOTZlNzU5ZDQ4ZGUyMzU0ZTYzNjhhZTFiYzM2MjY0MzA0MGIyYTgxNGRlNThlY2ViNjRjY2U5MzgwMDliNCJ9fX0=",
+            "name": "Chicken",
+            "description": "Fact: Chickens are one of the closest living relative to the Tyrannosaurus Rex."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFmODUyZWZlMWE4MzAwYzVkNjlkYTUwZmU0MWIxYjQ2NDliNGQ5ZDY2NWUzM2RjZTJmMTE3NzJmYjQ1NzA0NCJ9fX0=",
+            "name": "Penguin",
+            "description": "Fact: Penguins have a special gland above their eyes that filters salt from the seawater they ingest."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWU1YjFhYzA1ZWQ5Yzg5MzlhMzlhYTI1ZWEwZDhkMzFiNGM3NTk1MjAzZTQ1Y2YyNGU1ODY0MzFkZTE0NmQifX19",
+            "name": "Whale",
+            "description": "Fact: Antarctic blue whales can weigh 112,000kg (250,000lb) and still swim at 25+ km/h (18 mp/h)."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZkOTg3NDYyZTVhNTZhOTdmMDY5NDlmYjUyNTlkYmZhYThjYTc0Yzk4ZTZmYmNmMDZmNGY5MWFiOTRmYWYwYiJ9fX0=",
+            "name": "Panda",
+            "description": "Fact: Pandas have a \"pseudo thumb\" made of an elongated wrist bone that helps them hold bamboo stalks."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NlYjA4OWFlMjVlYjc1MTk4NTcxODM1NGU1NGQ1ZWQ2YmZhYTZiMGRjYzc1NjkzMzFjZDFiMmJjNjkwMTdjYSJ9fX0=",
+            "name": "Monkey",
+            "description": "Fact: Monkeys have been known to use their own fur as a tool to floss their teeth."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZlYjI5YTJlYTYzNmRlYzAzODI3YjIxZTU3MzNjYmVmZTk1N2FhY2U3NDMxMTdmYWE1YmQ5NDVmMTU0NmQyOCJ9fX0=",
+            "name": "Dog",
+            "description": "Fact: Dogs have a unique sense of smell and are even able to detect diseases like cancer and changes in blood sugar levels in people with diabetes."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI5YmNjNGZiYmUzZjNmOGVhOWFjYWQ4YTk3M2VlNzA3MGUyZmViMzQ4NDMxYjJhNTEyNmMzMzRiMmVkNzBiYyJ9fX0=",
+            "name": "Squid",
+            "description": "Fact: Squids have the ability to change the color and texture of their skin to blend in with their surroundings, communicate with other squids and even hypnotize their prey."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE1Njg3MGZlNTJjN2M1MDkwNDViYWIzZTlmYzY2ZDJjMTYzY2YxYzg0MmJhMGE5YWI0MmY5OGE3OWNiMzA2YSJ9fX0=",
+            "name": "Toad",
+            "description": "Fact: Toads have glands behind their eyes that secrete bufotoxin, which can cause hallucinations, seizures and death in predators that try to eat them."
+          },
+          {
+            "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmRhZjg1NDI5ZTg5MGFhYjVkYWI4Y2IwNzA3MTI0YjQxOTM4ODQxNjRkMzBlNGY4MTEyMDI5YzJkZTk2NjA0YSJ9fX0=",
+            "name": "Hippo",
+            "description": "Fact: Hippos secrete a sticky pink substance called \"blood sweat\" that acts as a natural sunscreen and moisturizer for their sensitive skin."
+          }
+        ]
+      },
+      "rift_transferrable": true,
+      "id": "FLEX_HELMET"
     },
     {
       "material": "SKULL_ITEM",
@@ -75926,6 +76574,124 @@
       "category": "WAND",
       "tier": "RARE",
       "id": "GATEWAY_WAND"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDIwODI3NTYyNCwKICAicHJvZmlsZUlkIiA6ICIwOTZkYWUzZWY1MmU0YWU4ODk3ODY2N2EyOGIwZWFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPb29rYXl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4NGM2NTk1YTM1NDUzZTNjNjc1ODI4NmVmYzZiNjJlNzQ1ZjkwOGU4OTQ1M2U2NDkzYzFkOTBlY2IyMWY4ZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Warding Trinket",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "stats": {
+        "RIFT_TIME": 40,
+        "rift_intelligence": 5
+      },
+      "id": "WARDING_TRINKET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIxNWNlODIzNzcwZDlhMjY5YzFlYmY1ODNkM2U0OTMyNzQ3YTEzZWY0MzYxM2NkNGY3NWY4MDRjYTQifX19",
+      "name": "Harmonious Surgery Toolkit",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "stats": {
+        "rift_walk_speed": 2,
+        "rift_time": 10
+      },
+      "id": "HARMONIOUS_SURGERY_TOOLKIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQyNTM2OSwKICAicHJvZmlsZUlkIiA6ICI1ZTg2ZTc3OGQ0NTc0N2NjYjQ4N2E1OWRlZDMzZDRlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGVpc18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRhYjJmZjlmMmI1ZTJkMzY5MjIyNmY2MzhlYjllNjc2NGE0NWI0M2JhMDI3OGM1ZTBiZDhkNzQ5NDJjNTcyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Crux Relic",
+      "tier": "EPIC",
+      "category": "ACCESSORY",
+      "stats": {
+        "rift_time": 55,
+        "rift_intelligence": 7
+      },
+      "id": "CRUX_TALISMAN_4"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMyNDY1NywKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGQ2NjM0NTFmMzUwYTM2NmU2NzRiYjBkOWY3MWZlOTIyYzExZmYxYmI4ZTU4M2QwNWQyMzc5MzhhZmQwYzg4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Crux Artifact",
+      "tier": "RARE",
+      "category": "ACCESSORY",
+      "stats": {
+        "rift_time": 35,
+        "rift_intelligence": 5
+      },
+      "id": "CRUX_TALISMAN_3"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMwMDMwNSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNWNiMmM0YTAyOGJhNzFiOWM5NmJkZTE0ZWVmNDM3MDYyM2EzMjUyZTI1NDVkNDBlMmY0ZGZhOWIxNTRlZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Crux Ring",
+      "tier": "UNCOMMON",
+      "category": "ACCESSORY",
+      "stats": {
+        "rift_time": 20,
+        "rift_intelligence": 2
+      },
+      "id": "CRUX_TALISMAN_2"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ1MTk5OSwKICAicHJvZmlsZUlkIiA6ICJkYmEyNmVkNTk2ZmE0NjBjOTZjOThhYWYwOWM2MDZhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmlnaW5hbFJlemEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmNTA3NGRiODZiNjY5Mzc2ZTcxZGQ4ZmU3MDcxNmY3M2UwZTg0Zjk1NTg3OWE0NjgyZWY1ZmExZWE4MmQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Crux Heirloom",
+      "tier": "LEGENDARY",
+      "category": "ACCESSORY",
+      "stats": {
+        "rift_time": 70,
+        "rift_intelligence": 10,
+        "rift_walk_speed": 1
+      },
+      "id": "CRUX_TALISMAN_5"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzI3NzQ3NywKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YjIyNTRkYmJmNTJjMzg4NTU3ODQ5MTA4ZTkzZGNjNWE5YjNiN2ZhNDdlNjRmNGNhMDYzZGZhYTFhMzAyYzYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Crux Talisman",
+      "tier": "COMMON",
+      "category": "ACCESSORY",
+      "stats": {
+        "rift_time": 10
+      },
+      "id": "CRUX_TALISMAN_1"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ3MTcxMCwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kM2FkNTU3OWY2YTcxNTkxZTYxNWNjNTUxMzAxZDI0ZTQ0MzJjMGExN2RkNGE0ZmM0ZGRkZmYwZDI3NjQxZGM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Crux Chronomicon",
+      "tier": "MYTHIC",
+      "category": "ACCESSORY",
+      "stats": {
+        "rift_time": 100,
+        "rift_intelligence": 15,
+        "rift_walk_speed": 2
+      },
+      "id": "CRUX_TALISMAN_6"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwZTdjMDE2YTgzYzdjNTgwNmI4ZWZmMGZhMTJmMjczYzAzNmExOGU1MDY2YmRlZDI4MGZhNmJlZGU3Y2M5ZCJ9fX0=",
+      "name": "Ring of Broken Love",
+      "category": "ACCESSORY",
+      "tier": "LEGENDARY",
+      "stats": {
+        "RIFT_TIME": 80
+      },
+      "description": "This time around, fate really got in the way of love.",
+      "id": "RING_OF_BROKEN_LOVE"
     },
     {
       "material": "SKULL_ITEM",
@@ -75954,18 +76720,11 @@
       "id": "DEFECTIVE_MONITOR"
     },
     {
-      "material": "SHEARS",
-      "name": "Reinforced Multi-Shears",
-      "glowing": true,
-      "tier": "RARE",
-      "id": "REINFORCED_MULTI_SHEARS"
-    },
-    {
-      "material": "STICK",
-      "name": "Wand of Warding",
-      "category": "WAND",
+      "material": "DIAMOND",
+      "name": "%%aqua%%Warding Diamathame",
       "tier": "RARE",
       "glowing": true,
+      "unstackable": true,
       "id": "WAND_OF_WARDING"
     },
     {
@@ -75981,6 +76740,517 @@
       "category": "WAND",
       "tier": "RARE",
       "id": "ASPECT_OF_THE_LEECH_2"
+    },
+    {
+      "material": "STAINED_GLASS",
+      "durability": 11,
+      "name": "Living Metal",
+      "tier": "RARE",
+      "motes_sell_price": 5,
+      "description": "It snakes around your blocky hand as your hold it.",
+      "id": "LIVING_METAL"
+    },
+    {
+      "material": "DIAMOND_PICKAXE",
+      "name": "Self-Recursive Pickaxe",
+      "tier": "RARE",
+      "motes_sell_price": 25,
+      "category": "SWORD",
+      "stats": {
+        "rift_damage": 5
+      },
+      "item_specific": {
+        "mana_refund": 4
+      },
+      "id": "SELF_RECURSIVE_PICKAXE"
+    },
+    {
+      "material": "ICE",
+      "name": "Frozen Water",
+      "tier": "RARE",
+      "motes_sell_price": 10,
+      "description": "One could say it's... ice cold.",
+      "id": "FROZEN_WATER"
+    },
+    {
+      "material": "SPIDER_EYE",
+      "name": "Frozen Water Pungi",
+      "tier": "EPIC",
+      "motes_sell_price": 10,
+      "unstackable": true,
+      "id": "FROZEN_WATER_PUNGI"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3NjQ3NjQ1NjcyNywKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwMjc4ZWU1M2E1M2I3NzMzYzdiODQ1MmZjZjc5NGRmYmZiYzNiMDMyZTc1MGE2OTkzNTczYjViZDAyOTkxMzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Living Metal Heart",
+      "tier": "RARE",
+      "motes_sell_price": 250,
+      "id": "METAL_HEART"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZmZmRiNGY3NWUxNjc4ZWNmYWE1ZjQyYTMyZjExZTFjYzA4Nzk0NmY0ODU3NDYzYWU2NjQ3Y2MzZTAwNzllMiJ9fX0=",
+      "name": "Bluetooth Ring",
+      "tier": "RARE",
+      "category": "ACCESSORY",
+      "rift_transferrable": true,
+      "stats": {
+        "rift_time": 30,
+        "intelligence": -1,
+        "walk_speed": -2
+      },
+      "id": "BLUETOOTH_RING"
+    },
+    {
+      "material": "BOOK",
+      "name": "Polarvoid Book",
+      "tier": "RARE",
+      "rift_transferrable": true,
+      "unstackable": true,
+      "id": "POLARVOID_BOOK"
+    },
+    {
+      "material": "ANVIL",
+      "name": "Living Metal Anchor",
+      "tier": "RARE",
+      "motes_sell_price": 100,
+      "unstackable": true,
+      "glowing": true,
+      "description": "This anchor has a life.\n%%gray%%It likes music!\n%%gray%%Its favorite genre?\n%%gray%%Heavy metal.\n\n%%dark_gray%%Reed needs this item.",
+      "id": "LIVING_METAL_ANVIL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3NTM2NDIxNTU2OSwKICAicHJvZmlsZUlkIiA6ICJlOWRlMDE0NjExZDI0NGY5OTVjNmNiMjhkMDk5MWExNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGl6YWJldGhUcnVzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lOGU4OWVjNTkyMjljZjUyYmQwY2ZkNWY3OWY3Yjc3NjhiNGM0OTZjMGU4NzE4NGI3OGIyZjdjNjY4NTYxOTliIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Frosty Crux",
+      "tier": "UNCOMMON",
+      "description": "The illest of the chillest.",
+      "motes_sell_price": 100,
+      "id": "FROSTY_CRUX"
+    },
+    {
+      "material": "CARPET",
+      "durability": 11,
+      "name": "Nullified Metal",
+      "tier": "UNCOMMON",
+      "motes_sell_price": 100,
+      "id": "NULLIFIED_METAL"
+    },
+    {
+      "material": "MONSTER_EGG",
+      "durability": 54,
+      "name": "Living Metal Pantspawn",
+      "tier": "RARE",
+      "motes_sell_price": 100,
+      "id": "LM_EGG_LEGS"
+    },
+    {
+      "material": "MONSTER_EGG",
+      "durability": 67,
+      "name": "Living Metal Chestspawn",
+      "tier": "RARE",
+      "motes_sell_price": 100,
+      "id": "LM_EGG_CHEST"
+    },
+    {
+      "material": "MONSTER_EGG",
+      "durability": 58,
+      "name": "Living Metal Bootspawn",
+      "tier": "RARE",
+      "motes_sell_price": 100,
+      "id": "LM_EGG_BOOTS"
+    },
+    {
+      "material": "MONSTER_EGG",
+      "durability": 94,
+      "name": "Living Metal Capspawn",
+      "tier": "RARE",
+      "motes_sell_price": 100,
+      "id": "LM_EGG_CAP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTc2NzM5MTU5ODY4MGI0NjVmMjEwNmI3MGUyMWVmNTE5NmRhMTRmMDg3ZDFlNzc5ZGQ2NTBkNDMyMGI2OTYyYSJ9fX0=",
+      "name": "Caducous Stem Bunch",
+      "tier": "UNCOMMON",
+      "description": "Bundling what bees find attractive together in an industrial production process is definitely what nature planned.",
+      "id": "CADUCOUS_STEM_BUNCH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjJjNmI1N2IyZDBlNzc4YjEzOWViY2Q1MTg4MTZlNGJkMGFlYWVjZGFhMDk0NGJiM2ZlZjZmZjdlMWYzZDJmMSJ9fX0=",
+      "name": "Caducous Extract",
+      "tier": "UNCOMMON",
+      "description": "Bundling what bees find attractive together in an industrial production process is definitely what nature planned.",
+      "id": "CADUCOUS_EXTRACT"
+    },
+    {
+      "material": "DOUBLE_PLANT",
+      "durability": 4,
+      "name": "Caducous Stem",
+      "tier": "COMMON",
+      "description": "The color and shape of flowers are a precise record of what bees find attractice.",
+      "id": "CADUCOUS_STEM"
+    },
+    {
+      "material": "SUGAR_CANE",
+      "name": "Caducous Legume",
+      "tier": "UNCOMMON",
+      "glowing": true,
+      "item_specific": {
+        "rift_time_gain": 90
+      },
+      "id": "CADUCOUS_LEGUME"
+    },
+    {
+      "material": "BOWL",
+      "name": "Caducous Feeder",
+      "tier": "RARE",
+      "glowing": true,
+      "unstackable": true,
+      "item_specific": {
+        "experience_gained": 1100000,
+        "charges": 2,
+        "consumed_item": "ULTIMATE_CARROT_CANDY"
+      },
+      "requirements": [
+        {
+          "type": "PROFILE_AGE",
+          "minimum_age_unit": "DAYS",
+          "minimum_age": 7
+        }
+      ],
+      "rift_transferrable": true,
+      "id": "CADUCOUS_FEEDER"
+    },
+    {
+      "material": "GOLD_HOE",
+      "name": "Wand of Farming",
+      "category": "WAND",
+      "tier": "RARE",
+      "glowing": true,
+      "id": "FARMING_WAND"
+    },
+    {
+      "material": "NETHER_STALK",
+      "name": "Riftwart Roots",
+      "tier": "UNCOMMON",
+      "description": "Do not eat.",
+      "id": "RIFTWART_ROOTS"
+    },
+    {
+      "material": "DEAD_BUSH",
+      "name": "Wilted Berberis",
+      "tier": "COMMON",
+      "description": "The plant equivalent of an alien zombie.",
+      "id": "WILTED_BERBERIS"
+    },
+    {
+      "material": "DOUBLE_PLANT",
+      "durability": 3,
+      "name": "Enchanted Lush Berberis",
+      "tier": "RARE",
+      "description": "A wonderful enchanted plant!",
+      "glowing": true,
+      "npc_sell_price": 480,
+      "id": "ENCHANTED_LUSH_BERBERIS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY5YzcxYWYzZjdlODE5ZWMzYzQ0OTZmMjkxNTY3YWVmYjk4ZjU1ODQ1MTdkYTI2NmJhMGE2ZWNjYWE5YTZlMyJ9fX0=",
+      "name": "Lush Ring",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "stats": {
+        "health": 3
+      },
+      "id": "LUSH_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTY3MDI2MTE4MiwKICAicHJvZmlsZUlkIiA6ICIwOTZkYWUzZWY1MmU0YWU4ODk3ODY2N2EyOGIwZWFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPb29rYXl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5YTljZTcwZGMxNjNmM2YwNjlmYzg5NTg2MDIzNGNjOTM3MWVkNjkzY2JmYTZlMGViNGI0OGE5ZmU1ODhjMTkiCiAgICB9CiAgfQp9",
+      "name": "Lush Artifact",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "stats": {
+        "health": 5,
+        "health_regeneration": 1
+      },
+      "id": "LUSH_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNiYTQ4NDQ4MTg5YmVmNGZkM2IzZTU2ZWU2ZjlmNWMxN2YxZWQ5NjQ4ZGE5NTU0NTFlZjFmZTY1NjAxYiJ9fX0=",
+      "name": "Lush Talisman",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "stats": {
+        "health": 1
+      },
+      "id": "LUSH_TALISMAN"
+    },
+    {
+      "material": "DOUBLE_PLANT",
+      "durability": 3,
+      "name": "Lush Berberis",
+      "tier": "UNCOMMON",
+      "description": "A wonderful plant!",
+      "npc_sell_price": 3,
+      "id": "LUSH_BERBERIS"
+    },
+    {
+      "material": "RAW_FISH",
+      "durability": 3,
+      "name": "Jinxed Voodoo Doll",
+      "glowing": true,
+      "tier": "EPIC",
+      "stats": {
+        "WEAPON_ABILITY_DAMAGE": 2222
+      },
+      "unstackable": true,
+      "requirements": [
+        {
+          "type": "SLAYER",
+          "slayer_boss_type": "zombie",
+          "level": 5
+        }
+      ],
+      "item_specific": {
+        "slow_duration_seconds": 12,
+        "mana_cost": 180,
+        "cooldown_seconds": 3
+      },
+      "id": "VOODOO_DOLL_WILTED"
+    },
+    {
+      "material": "DEAD_BUSH",
+      "name": "Wilted Berberis Bunch",
+      "tier": "UNCOMMON",
+      "description": "The plant equivalent of... ALIEN revenant viscera?",
+      "glowing": true,
+      "rift_transferrable": true,
+      "id": "WILTED_BERBERIS_BUNCH"
+    },
+    {
+      "material": "TRAP_DOOR",
+      "name": "Berberis Fuel Injector",
+      "tier": "RARE",
+      "rift_transferrable": true,
+      "glowing": true,
+      "id": "BERBERIS_FUEL_INJECTOR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTU4NjkxMjQzNywKICAicHJvZmlsZUlkIiA6ICI3ODI2YmJkOTJjZWI0ODVlYmIyZTY3M2Q4Y2E1ZGQxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZW1hcmt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlYzEzMjYzZGNkZWIzOTc5MjU2Mjc5MTdkZmZhNzE4MDQ0OTg4NjEzYzhjYTg5MDNjYjg0NDE1YzUyMzdjZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Agaricus Chumcap",
+      "tier": "UNCOMMON",
+      "rift_transferrable": true,
+      "id": "AGARICUS_CHUM_CAP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Q1OTdmNzdjZGUzMmM5YWM5YjA2ZjgyZmNmN2M5Y2I1MDBmYWNjMTRiZmYxNjYyMjJiMjRiZTM5OTYyZjBlZiJ9fX0=",
+      "name": "Agarimoo Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "stats": {
+        "fishing_speed": 1
+      },
+      "id": "AGARIMOO_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDNlYmYzOGI0YTcwOGViMDA3NDVkMWZiODdhNTNjYjgxYTdhZjZjYzE3OGQ5YTJjMTExNmMyY2JjZmY5NGZlYSJ9fX0=",
+      "name": "Agarimoo Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "stats": {
+        "fishing_wisdom": 1,
+        "fishing_speed": 2
+      },
+      "id": "AGARIMOO_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzMTMwNDY4YWM0ODBhNDI3ZGIxM2FkMTNlOGNhODUyNmI1MzhhYjdhZDdkNjlmYzk5NTJmM2M1M2FlYThkMSJ9fX0=",
+      "name": "Agarimoo Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "stats": {
+        "fishing_wisdom": 1,
+        "farming_wisdom": 1,
+        "fishing_speed": 3
+      },
+      "id": "AGARIMOO_ARTIFACT"
+    },
+    {
+      "material": "MUTTON",
+      "name": "Agarimoo Tongue",
+      "tier": "RARE",
+      "description": "Agarimoos have five stomachs and 3 tongues. For this specific Agarimoo, past tense is more accurate.",
+      "glowing": true,
+      "id": "AGARIMOO_TONGUE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlMGEyMzBhY2Q2NDM2YWJjODZmMTNiZTcyZTliYTk0NTM3ZWU1NGYwMzI1YmI4NjI1NzdhMWUwNjJmMzcifX19",
+      "name": "Agaricus Cap",
+      "tier": "COMMON",
+      "id": "AGARICUS_CAP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTU4NzMwNDk5MSwKICAicHJvZmlsZUlkIiA6ICJkMTJiOTk3ZWI2YTQ0ODQ5ODJmNDE1ZTI1NzFlNmY4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd2lybGJlbGwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MyNWMxZjMzM2E3MzFiYzM0MzU4ZjU1YzA1MTg1MTE0MTUzYzNmM2Q0NzQwNzZmMjFjYzE2MjFiOTk5NDY2MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Empty Chumcap Bucket",
+      "tier": "UNCOMMON",
+      "item_specific": {
+        "bonus_fishing_speed_per_bucket": 4,
+        "max_bonus_fishing_speed": 16
+      },
+      "id": "EMPTY_CHUMCAP_BUCKET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjAwMjAyNDYwNSwKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmI5YjkzYjRjMzczN2EwMTBkMDI0NjViOTkwZDE0NTYyN2Y4ZTYzZTc3OTU2ZTBkZjRiYTYxZTE1N2E0MjljIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Agaricus Cap Bunch",
+      "tier": "UNCOMMON",
+      "description": "It's one nether of a cap!",
+      "id": "AGARICUS_CAP_BUNCH"
+    },
+    {
+      "material": "RABBIT_STEW",
+      "name": "Agaricus Soup",
+      "tier": "UNCOMMON",
+      "item_specific": {
+        "speed_duration_seconds": 60,
+        "cooldown_seconds": 60
+      },
+      "id": "AGARICUS_SOUP"
+    },
+    {
+      "material": "STICK",
+      "name": "Berberis Blowgun",
+      "tier": "RARE",
+      "id": "BERBERIS_BLOWGUN"
+    },
+    {
+      "material": "EGG",
+      "name": "Metaphoric Egg",
+      "tier": "RARE",
+      "description": "A ticking time bomb to new life. Acquired using Berberis Blowgun.",
+      "id": "METAPHORIC_EGG"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTMzNDUzOTYzMSwKICAicHJvZmlsZUlkIiA6ICJkYjYzNWE3MWI4N2U0MzQ5YThhYTgwOTMwOWFhODA3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmdlbHMxNzQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg0YTNjNTcwYmQxZGQ3ZjgyNmVmOGQzNWFmNTk2OGQ1Yjk0NmIyOWY2ZDk2YWQ2ZjAzNGIwMTE4MDcwYjAxMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Proto-Chicken",
+      "tier": "EPIC",
+      "description": "The animal which came right before the first chicken.",
+      "id": "PROTOCHICKEN"
+    },
+    {
+      "material": "LEVER",
+      "name": "Barry's Montgray Pen",
+      "tier": "UNCOMMON",
+      "description": "Use at the old election box in the back of the HQ.\n\n%%dark_gray%%Signature Edition - get it?",
+      "id": "BARRY_PEN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3NjE5NTUyNDc5MywKICAicHJvZmlsZUlkIiA6ICI3ZjU2ZjY1MDI2NjY0ZmM1OWFjNWYyYjVjMTNlZGY3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhBbnRvbnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTU4YjA4NjFmMzM3ZWQ3NWQxZmU2YmFkZmMzNWQyZjNhYTViMjRkNDI2MDdmODFmYzg2YWJlNTM4NTU4NzBmNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Bacte Fragment",
+      "tier": "RARE",
+      "id": "BACTE_FRAGMENT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI0Yzg2NjdlMWU2NzA5NTI0ZDhmNzYzZDFhZGQwNWE4NDVlNWJhMGE0ZmU5MDc2ZmUwYjU4NzE5MWVmNWMwIn19fQ==",
+      "name": "Hot Dog",
+      "tier": "COMMON",
+      "unstackable": true,
+      "description": "Deposit on Joey's plate.",
+      "soulbound": "SOLO",
+      "id": "HOT_DOG"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTMxNDYyOTc2NSwKICAicHJvZmlsZUlkIiA6ICJlZjJlZDE2NDA4YjU0NWQyYjAwMGM5YmE2Y2Y0MTJhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYXNlbmVzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZTIxYTMxNTEyMWRmMDE5OWFjODMxNjQyZThhNTQ2YWRiYjVlZDM2MTY1MWZmYTRkNjk0NjZkOTkyNzk2MTI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Retro-Encabulating Visor",
+      "tier": "MYTHIC",
+      "category": "HELMET",
+      "stats": {
+        "RIFT_INTELLIGENCE": -50
+      },
+      "id": "RETRO_ENCABULATING_VISOR"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 2,
+      "name": "Gunthesizer Lichen",
+      "tier": "RARE",
+      "id": "GUNTHESIZER_LICHEN"
+    },
+    {
+      "material": "RAW_FISH",
+      "durability": 1,
+      "name": "Zoop the Fish",
+      "glowing": true,
+      "tier": "SPECIAL",
+      "museum": true,
+      "rift_transferrable": true,
+      "id": "ZOOP_THE_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTIzMzA1NzU4MCwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2NjYzhhNjkwYzg5ZWJmMDFhZGYwNDQwYzBhM2Q1NDBlMmRiODljZmM5N2FkM2I4ZTAxODEwYmYzMjg5ZjY3YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Shadow Crux",
+      "tier": "UNCOMMON",
+      "description": "Trust no one.\nNot even your own shadow.\nIt's always acting shady.",
+      "motes_sell_price": 100,
+      "id": "SHADOW_CRUX"
+    },
+    {
+      "material": "WATER_BUCKET",
+      "name": "Plumber's Bucket",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "id": "RIFT_BUCKET"
+    },
+    {
+      "material": "FLINT",
+      "name": "Dark Pebble",
+      "museum": true,
+      "rift_transferrable": true,
+      "id": "DARK_PEBBLE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjYzNjM5MDMzOSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1Nzg0OTNiNTY5N2FiMjlhMTk2ZDM1YWNmYTQ0MDU0YjQ0ZjNlNTQ5OGVmYTIyZWY1YjA4NTFiMjQ3N2UwOTAiCiAgICB9CiAgfQp9",
+      "name": "Detective Scanner",
+      "tier": "RARE",
+      "id": "DETECTIVE_SCANNER"
     },
     {
       "material": "SKULL_ITEM",
@@ -76012,22 +77282,57 @@
       "rift_transferrable": true,
       "cannot_reforge": true,
       "item_specific": {
-        "rift_time": 180,
-        "intelligence": 30
+        "stats_on_rift": {
+          "rift_time": 65,
+          "rift_intelligence": 5,
+          "rift_mana_regen": 5
+        }
       },
       "id": "HOCUS_POCUS_CIPHER"
     },
     {
-      "material": "STICK",
-      "name": "Thin Woodlet",
+      "material": "WOOL",
+      "durability": 12,
+      "name": "Tree-like Wool",
+      "tier": "COMMON",
+      "description": "Good for bridging.",
+      "motes_sell_price": 10,
+      "id": "BEDWARS_WOOL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3NjkwOTc0MDA5NSwKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMGVlNzgxYjc5YjFmZGMxNGFjMDhiNTA0NDhjZDkxNzRmNzFlMTU1NTE2ZTNiZjU0MmEyZDZjNDY2ZWFjZjgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Scribe Crux",
       "tier": "UNCOMMON",
-      "id": "THIN_WOODLET"
+      "description": "What dinosaur is a scribe's best friend?\nThesaurus.",
+      "motes_sell_price": 120,
+      "id": "SCRIBE_CRUX"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFkZDMwOWVjZWZkYjFkZjE4ZWVmNmY4ZDQwODNiNDdiM2VlMjI3Mjg2YzBmMzc1ZjQ1MzY5ZDgzZmIzMGJkIn19fQ==",
+      "name": "Anti-Morph Potion",
+      "tier": "EPIC",
+      "id": "ANTI_MORPH_POTION"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3MzYzNjkyOTE0NiwKICAicHJvZmlsZUlkIiA6ICIwMGZiNTRiOWI4NDA0YTA0YTViMmJhMzBlYzBlYTAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbGxveWQ3MCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZTAyYjdhY2IzY2NjMGE3MjI5YThkZWUyNGY1OWYzMTZkZjA1YzYxZTVlY2M3OWUyOWE1MzU4YWRiZDJmYmFlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Volt Crux",
+      "tier": "UNCOMMON",
+      "description": "Watt is this?",
+      "motes_sell_price": 100,
+      "id": "VOLT_CRUX"
     },
     {
       "material": "ARROW",
       "name": "Deadgehog Spine",
       "tier": "UNCOMMON",
       "description": "Contrary to popular belief, Deadgehogs aren't rodents.\n\nThey are in fact mangled wraith remnants of warriors who couldn't find true love.",
+      "motes_sell_price": 111,
       "id": "DEADGEHOG_SPINE"
     },
     {
@@ -76035,6 +77340,7 @@
       "name": "Lil' Pad",
       "tier": "UNCOMMON",
       "description": "Can be placed on water, especially if you're scared of said water.",
+      "motes_sell_price": 5,
       "id": "LIL_PAD"
     },
     {
@@ -76093,7 +77399,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJhZTE5MTA3MDg2ZGQzMTRkYWYzMWQ4NjYxOGU1MTk0OGE2ZTNlMjBkOTZkY2ExN2QyMWIyNWQ0MmQyYjI0In19fQ==",
       "enchantments": {
-        "reflection": 2
+        "reflection": 1
       },
       "name": "Enchanted Book Bundle",
       "tier": "UNCOMMON",
@@ -76160,6 +77466,20 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzBlYTVhNDZjMDk4NmNkZTM4ZTk2OTFhM2I3YjcxOTBjYTI4ZTg4YzAzY2E0ZTdiNjViMmViM2Q0MzFjMWUzYSJ9fX0=",
+      "name": "Big Brain Talisman",
+      "tier": "COMMON",
+      "category": "ACCESSORY",
+      "soulbound": "COOP",
+      "rift_transferrable": true,
+      "stats": {
+        "intelligence": 1
+      },
+      "id": "BIG_BRAIN_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmRjNzkxMzIyOWNiMmU4OTgwNzFiMGMyYmM4ZjEzYmQ4ZGJhNjlkYmRjY2FmNGQxZGE2NDNhYjcyNmI5MjVhZiJ9fX0=",
       "name": "Miniaturized Tubulator",
       "tier": "UNCOMMON",
@@ -76212,21 +77532,21 @@
     {
       "material": "TRIPWIRE_HOOK",
       "name": "Larva Hook",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "unstackable": true,
       "id": "LARVA_HOOK"
     },
     {
       "material": "STRING",
       "name": "Larva Silk",
-      "tier": "COMMON",
+      "tier": "UNCOMMON",
       "glowing": true,
       "id": "LARVA_SILK"
     },
     {
       "material": "STICK",
       "name": "Silkwire Stick",
-      "tier": "COMMON",
+      "tier": "RARE",
       "glowing": true,
       "id": "SILKWIRE_STICK"
     },
@@ -76243,6 +77563,16 @@
       "id": "BOTTLED_ODONATA"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODIwMzI5NjgxMSwKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3MWUzNDQ2ZWZhYmYwZmQ1NDdhM2Q1NGU5M2ZhM2M3ODA0MGFiMzNmODhjNDBkOTE5YjRlZGQ3ZWE0YmI3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Muted Bark",
+      "tier": "UNCOMMON",
+      "description": "No longer barking.",
+      "motes_sell_price": 50,
+      "id": "MUTED_BARK"
+    },
+    {
       "material": "RED_ROSE",
       "durability": 7,
       "name": "Cat Detector",
@@ -76251,10 +77581,439 @@
       "id": "DEAD_CAT_DETECTOR"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNiNTcyN2I5ODZjMzZlMDc1ODIxNDhiODg2MTAyY2Y4MDcwYjBlZTNhYTM3NzFiMjQ2NDM5M2Y1ODhhODMyZCJ9fX0=",
+      "name": "Bubba Blister",
+      "category": "REFORGE_STONE",
+      "tier": "LEGENDARY",
+      "motes_sell_price": 10000,
+      "npc_sell_price": 10000,
+      "rift_transferrable": true,
+      "id": "BUBBA_BLISTER"
+    },
+    {
+      "material": "COOKIE",
+      "name": "Fang-tastic Chocolate Chip",
+      "category": "REFORGE_STONE",
+      "tier": "LEGENDARY",
+      "motes_sell_price": 10000,
+      "npc_sell_price": 10000,
+      "rift_transferrable": true,
+      "id": "CHOCOLATE_CHIP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTQ1ODg2Njk2MywKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiMGQxNjI4ZTQyYmRmYTU0ZDAyZWE2NjRmMmNhOWUzMmE3MWMwZTg0YWEyMWRiMWQzMjkyNGQzZjVlM2QzNTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear",
+      "tier": "EPIC",
+      "motes_sell_price": 4000,
+      "category": "ACCESSORY",
+      "id": "GARLIC_FLAVORED_GUMMY_BEAR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDMzZGRiOTJjYjZiM2E3OTI4MGI4YmRjZWQ4OTc2YWVhYjEzYTRiZmZlYWVmMmQ0NmQ4MjhiZDkxZGVlMGYzZSJ9fX0=",
+      "name": "McGrubber's Burger",
+      "tier": "EPIC",
+      "motes_sell_price": 30000,
+      "item_specific": {
+        "rift_time_per_eat": 12,
+        "motes_percent_per_eat": 5,
+        "motes_on_join_per_eat": 999
+      },
+      "unstackable": true,
+      "id": "MCGRUBBER_BURGER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUzMmNlNWFkZTA2YWZmOWQ2OTgzODIwODBkZWE1Mzk5NDc2NTlmYjU4N2U1OGQ0ZjFkN2MxZmY5MjQwZTNjOCJ9fX0=",
+      "name": "Displaced Leech",
+      "tier": "UNCOMMON",
+      "category": "REFORGE_STONE",
+      "id": "DISPLACED_LEECH"
+    },
+    {
+      "material": "REDSTONE_ORE",
+      "name": "Hemovibe",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 100,
+      "rift_transferrable": true,
+      "description": "Dropped by vampires from the multiverse coven.",
+      "id": "HEMOVIBE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkwZDNjNTIyY2U1MzNiNjU5NzU1NmMwNmQ4MGFlYmViMjY0MGVlMGQxYmY4YzQ5ODc0MGE3NjBkOGI3YzExZCJ9fX0=",
+      "name": "Presumed Gallon of Red Paint",
+      "tier": "RARE",
+      "category": "REFORGE_STONE",
+      "id": "PRESUMED_GALLON_OF_RED_PAINT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWY1MzU0Y2EyZWUxYjhmZGM5NTViYjQzN2JiMjYxOTU3NWZjNzk4M2YzNjlhZmEzYTFmN2QxYjk3NTY3ZWE4In19fQ==",
+      "name": "Hemobomb",
+      "tier": "EPIC",
+      "motes_sell_price": 1200,
+      "npc_sell_price": 240000,
+      "rift_transferrable": true,
+      "id": "HEMOBOMB"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljNzY5MDgzMTYzZTlhZWJkOGVkNWQ2NmJlYmNiOWRmMjFjYWJhZTYzYmFhYWEwZDNhYmUxNDIwYTRhYjU4ZiJ9fX0=",
+      "enchantments": {
+        "transylvanian": 4
+      },
+      "name": "Enchanted Book Bundle",
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "npc_sell_price": 1000,
+      "rift_transferrable": true,
+      "id": "ENCHANTED_BOOK_BUNDLE_TRANSYLVANIAN"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 15,
+      "glowing": true,
+      "name": "Full-Jaw Fanging Kit",
+      "tier": "RARE",
+      "category": "REFORGE_STONE",
+      "id": "FULL_JAW_FANGING_KIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTNlOTVjODNmNTRlMjY2MmYwYjBkZjI4N2FmYjVjNDhkOWNhZDJlYWM0NmNiODBjOGNiNGM0ZjQ2OGUxM2MzMyJ9fX0=",
+      "name": "Blood Donor Ring",
+      "tier": "UNCOMMON",
+      "category": "ACCESSORY",
+      "npc_sell_price": 2000,
+      "description": "There's like 5 liters in you.",
+      "rift_transferrable": true,
+      "stats": {
+        "health_regeneration": 2,
+        "rift_time": 10,
+        "rift_mana_regen": 5
+      },
+      "id": "BLOOD_DONOR_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY3YmI5NzQ4MGMxMGZkZmViOGZhZTkzOTI5ZTVlZWI0ZjA0OTFkOGNjYTcwZWQwMGI0NWUzZmIyYjc0ZjZjNSJ9fX0=",
+      "name": "Blood Donor Artifact",
+      "tier": "RARE",
+      "category": "ACCESSORY",
+      "npc_sell_price": 10000,
+      "description": "The human body produces 2-3 million red blood cells per SECOND.",
+      "rift_transferrable": true,
+      "stats": {
+        "health_regeneration": 3,
+        "rift_time": 15,
+        "rift_mana_regen": 10
+      },
+      "id": "BLOOD_DONOR_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQzMjM3MWJjZWU4MWYyYzhmMzliZDg1OTI5NmFlYjIzMzMzMTQzZGE5Nzk1ZDFmOGJhYzVkMGIwYWNjIn19fQ==",
+      "name": "Blood Donor Talisman",
+      "tier": "COMMON",
+      "category": "ACCESSORY",
+      "npc_sell_price": 800,
+      "description": "Do your part bro.",
+      "rift_transferrable": true,
+      "stats": {
+        "health_regeneration": 1,
+        "rift_time": 5
+      },
+      "id": "BLOOD_DONOR_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ0OGE0YmFlMTY0MDJiYzk1ZmQyYzFlMWFlNmE2MzJjODQ3NWQ3MmJkZjk4NmQzNmYwYjc2YjFiNzA2NjYzYyJ9fX0=",
+      "name": "Hemoglass",
+      "tier": "RARE",
+      "motes_sell_price": 80,
+      "npc_sell_price": 16000,
+      "rift_transferrable": true,
+      "id": "HEMOGLASS"
+    },
+    {
+      "material": "DIAMOND",
+      "name": "Holy Ice",
+      "tier": "RARE",
+      "motes_sell_price": 5,
+      "unstackable": true,
+      "item_specific": {
+        "duration_ticks": 30,
+        "damage_multiplier": 0.2
+      },
+      "id": "HOLY_ICE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE4ODNlYjVlNDdjZWVlZDAyMDYzZmI4ZWMwZjc1ODQ3MTdhYzhjNzk1MjFhZTMyY2YwNjA2ZWJjZjc0MGU3MCJ9fX0=",
+      "name": "Unfanged Vampire Part",
+      "tier": "LEGENDARY",
+      "motes_sell_price": 50000,
+      "id": "UNFANGED_VAMPIRE_PART"
+    },
+    {
+      "material": "INK_SACK",
+      "durability": 1,
+      "name": "Bloodbadge",
+      "tier": "RARE",
+      "description": "You and killing stuff in the rift, name a more iconic duo.",
+      "motes_sell_price": 10,
+      "id": "BLOODBADGE"
+    },
+    {
+      "material": "NETHER_STALK",
+      "name": "Coven Seal",
+      "tier": "UNCOMMON",
+      "description": "Given to you by a powerful vampire, proving you bested them in combat.",
+      "motes_sell_price": 10,
+      "id": "COVEN_SEAL"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Silver-Twist Karambit",
+      "tier": "EPIC",
+      "category": "SWORD",
+      "sword_type": "KARAMBIT",
+      "glowing": true,
+      "stats": {
+        "rift_damage": 6,
+        "rift_walk_speed": 15
+      },
+      "item_specific": {
+        "mana_refund": 7,
+        "bonus_rift_damage_vs_vampire": 5,
+        "heal_on_hit": 0.5
+      },
+      "id": "SILVERTWIST_KARAMBIT"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Silver-Laced Karambit",
+      "tier": "EPIC",
+      "category": "SWORD",
+      "sword_type": "KARAMBIT",
+      "stats": {
+        "rift_damage": 5,
+        "rift_walk_speed": 10
+      },
+      "item_specific": {
+        "mana_refund": 5,
+        "bonus_rift_damage_vs_vampire": 3
+      },
+      "id": "SILVER_LACED_KARAMBIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTViZTIyYjVkNGE4NzVkNzdkZjNmNzcxMGZmNDU3OGVmMjc5MzlhOTY4NGNiZGIzZDMxZDk3M2YxNjY4NDkifX19",
+      "enchantments": {
+        "quantum": 3
+      },
+      "name": "Enchanted Book Bundle",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "motes_sell_price": 8000,
+      "npc_sell_price": 15000,
+      "rift_transferrable": true,
+      "id": "ENCHANTED_BOOK_BUNDLE_QUANTUM"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTViZTIyYjVkNGE4NzVkNzdkZjNmNzcxMGZmNDU3OGVmMjc5MzlhOTY4NGNiZGIzZDMxZDk3M2YxNjY4NDkifX19",
+      "enchantments": {
+        "ultimate_the_one": 4
+      },
+      "name": "Enchanted Book Bundle",
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "motes_sell_price": 25000,
+      "npc_sell_price": 90000,
+      "rift_transferrable": true,
+      "id": "ENCHANTED_BOOK_BUNDLE_THE_ONE"
+    },
+    {
+      "material": "MELON",
+      "name": "Luscious Healing Melon",
+      "tier": "LEGENDARY",
+      "glowing": true,
+      "motes_sell_price": 5,
+      "unstackable": true,
+      "item_specific": {
+        "heal": 12,
+        "mana_cost": 60
+      },
+      "id": "LUSCIOUS_HEALING_MELON"
+    },
+    {
+      "material": "MELON",
+      "name": "Juicy Healing Melon",
+      "tier": "EPIC",
+      "motes_sell_price": 5,
+      "unstackable": true,
+      "item_specific": {
+        "heal": 9,
+        "mana_cost": 60
+      },
+      "id": "JUICY_HEALING_MELON"
+    },
+    {
+      "material": "SPECKLED_MELON",
+      "name": "Healing Melon",
+      "tier": "UNCOMMON",
+      "motes_sell_price": 5,
+      "unstackable": true,
+      "item_specific": {
+        "heal": 7,
+        "mana_cost": 60
+      },
+      "id": "HEALING_MELON"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQwNmQ5YTA0YTVhNzcyMDYxNGU5MzRjNzVjNmI2NTFmMGViYWJlYTNhNzQ2MWYxYzc0MTA1YzdhMmEwZTY3MiJ9fX0=",
+      "name": "Vampire Dentist Relic",
+      "tier": "LEGENDARY",
+      "category": "ACCESSORY",
+      "motes_sell_price": 50000,
+      "npc_sell_price": 80000,
+      "rift_transferrable": true,
+      "stats": {
+        "health_regeneration": 10,
+        "vitality": 1,
+        "rift_time": 30,
+        "rift_health": 1
+      },
+      "item_specific": {
+        "cooldown_seconds": 1,
+        "bonus_heal": 1
+      },
+      "id": "VAMPIRE_DENTIST_RELIC"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmZkY2ZiNDAwOTc2YmY3M2VjMzJjMWI5OTYyYzgzMGZjM2Q3MDA2ZDc0OWY4ZjNkYTNiNmUwZmI4MjkwOWIyOCJ9fX0=",
+      "name": "Guardian Lucky Block",
+      "tier": "LEGENDARY",
+      "motes_sell_price": 5000,
+      "npc_sell_price": 30000,
+      "rift_transferrable": true,
+      "id": "GUARDIAN_LUCKY_BLOCK"
+    },
+    {
+      "material": "LEATHER_CHESTPLATE",
+      "name": "Test Vampire Chestplate",
+      "tier": "EPIC",
+      "category": "CHESTPLATE",
+      "motes_sell_price": 15,
+      "stats": {
+        "rift_damage": 60,
+        "rift_intelligence": 50,
+        "rift_health": 2,
+        "rift_mana_regen": 25
+      },
+      "id": "TEST_VAMPIRE_CHESTPLATE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3NzE1NDA2Mzc5MiwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI0NzVjMmExMTRmMzBmMGQ2NjA1Y2VmNzA4MTEwYTUzMzMzZjE3MjNiYzc2MjYyMmFiNGEyNWRjZmNkMGZkNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Splatter Crux",
+      "tier": "UNCOMMON",
+      "description": "How many vampires does it take to change a light bulb?\n\nNone... why would they need it?",
+      "motes_sell_price": 90,
+      "id": "SPLATTER_CRUX"
+    },
+    {
+      "material": "COOKED_MUTTON",
+      "name": "Steak Stake",
+      "tier": "RARE",
+      "category": "SWORD",
+      "motes_sell_price": 15,
+      "id": "STEAK_STAKE"
+    },
+    {
+      "material": "MELON_BLOCK",
+      "name": "Enchanted Vampiric Melon",
+      "tier": "UNCOMMON",
+      "glowing": true,
+      "motes_sell_price": 21000,
+      "description": "Worth more %%light_purple%%Motes %%gray%%than the sum of its parts, because it's glowing!",
+      "id": "ENCHANTED_VAMPIRIC_MELON"
+    },
+    {
+      "material": "MELON_BLOCK",
+      "name": "Vampiric Melon",
+      "tier": "UNCOMMON",
+      "motes_sell_price": 120,
+      "description": "Perfect ingredient for a healing melon.",
+      "id": "VAMPIRIC_MELON"
+    },
+    {
+      "material": "CARROT_ITEM",
+      "name": "Nearly-Whole Carrot",
+      "tier": "UNCOMMON",
+      "glowing": true,
+      "description": "The whole is better than the sum of its parts...",
+      "id": "NEARLY_WHOLE_CARROT"
+    },
+    {
+      "material": "CARROT_ITEM",
+      "name": "Half-Eaten Carrot",
+      "tier": "COMMON",
+      "id": "HALF_EATEN_CARROT"
+    },
+    {
+      "material": "POWERED_MINECART",
+      "name": "Horsezooka",
+      "tier": "EPIC",
+      "id": "HORSEZOOKA"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVkMGI3NTZmYzYyMzg1NTEzYjU3MDE1OTY3NDZiZDdiMWRhYTE1ZDdhZGFiZjQ1ZWYxNWJkMzQzNzNkOWY1YyJ9fX0=",
+      "name": "Exportable Carrots",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 20,
+      "rift_transferrable": true,
+      "item_specific": {
+        "permanent_health": 5,
+        "permanent_carrots_ff": 12
+      },
+      "id": "EXPORTABLE_CARROTS"
+    },
+    {
+      "material": "CARROT_STICK",
+      "name": "Nearly Coherent doR gnihsiF",
+      "tier": "UNCOMMON",
+      "id": "NEARLY_COHERENT_ROD"
+    },
+    {
       "material": "HOPPER_MINECART",
       "name": "Turbomax Vacuum Cleaner",
       "tier": "RARE",
-      "motes_sell_price": 30,
       "id": "TURBOMAX_VACUUM"
     },
     {
@@ -76280,6 +78039,7 @@
       "glowing": true,
       "motes_sell_price": 5,
       "description": "Hold this item in your inventory to use the soul in the infested house.",
+      "unstackable": true,
       "id": "KEY_TO_KAT_SOUL"
     },
     {
@@ -76289,85 +78049,19 @@
       "name": "Fake Neuroscience Degree",
       "tier": "RARE",
       "rift_transferrable": true,
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
+      "unstackable": true,
       "id": "FAKE_NEUROSCIENCE_DEGREE"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAyMjZkNGMxZDMwZmJlYmVjYWU5MzlkYTkwMDYwM2U0Y2QwZmVkODU5MmExYmIzZTExZjlhYzkyMzkxYTQ1YSJ9fX0=",
-      "name": "Bottled Inspiration",
-      "tier": "RARE",
-      "description": "Its inspiration, but in a bottle!",
-      "id": "BOTTLED_INSPIRATION"
-    },
-    {
-      "material": "LEATHER_CHESTPLATE",
-      "name": "Inspired Chestplate",
-      "color": "66,227,219",
-      "category": "CHESTPLATE",
-      "tier": "EPIC",
-      "stats": {
-        "RIFT_TIME": 50
-      },
-      "glowing": true,
-      "id": "INSPIRED_CHESTPLATE"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTMxNDYyOTc2NSwKICAicHJvZmlsZUlkIiA6ICJlZjJlZDE2NDA4YjU0NWQyYjAwMGM5YmE2Y2Y0MTJhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYXNlbmVzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZTIxYTMxNTEyMWRmMDE5OWFjODMxNjQyZThhNTQ2YWRiYjVlZDM2MTY1MWZmYTRkNjk0NjZkOTkyNzk2MTI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-      "name": "Retro-Encabulating Visor",
-      "tier": "MYTHIC",
-      "category": "HELMET",
-      "stats": {
-        "RIFT_INTELLIGENCE": -50
-      },
-      "id": "RETRO_ENCABULATING_VISOR"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 2,
-      "name": "Gunthesizer Lichen",
-      "museum": true,
-      "tier": "RARE",
-      "id": "GUNTHESIZER_LICHEN"
-    },
-    {
-      "material": "RAW_FISH",
-      "durability": 1,
-      "name": "Zoop the Fish",
-      "glowing": true,
-      "tier": "SPECIAL",
-      "museum": true,
-      "rift_transferrable": true,
-      "id": "ZOOP_THE_FISH"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTIzMzA1NzU4MCwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2NjYzhhNjkwYzg5ZWJmMDFhZGYwNDQwYzBhM2Q1NDBlMmRiODljZmM5N2FkM2I4ZTAxODEwYmYzMjg5ZjY3YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Shadow Crux",
+      "material": "WOOD_SWORD",
+      "name": "Wyld Sword",
       "tier": "UNCOMMON",
-      "description": "Trust no one.\nNot even your own shadow.\nIt's always acting shady.",
-      "motes_sell_price": 100,
-      "id": "SHADOW_CRUX"
-    },
-    {
-      "material": "FLINT",
-      "name": "Dark Pebble",
-      "museum": true,
-      "rift_transferrable": true,
-      "id": "DARK_PEBBLE"
-    },
-    {
-      "material": "IRON_SWORD",
-      "name": "Rift Test Sword",
-      "tier": "LEGENDARY",
+      "category": "SWORD",
       "stats": {
-        "RIFT_DAMAGE": 100
+        "RIFT_DAMAGE": 2
       },
-      "id": "RIFT_TEST_SWORD"
+      "id": "WYLD_SWORD"
     },
     {
       "material": "STICK",
@@ -76384,11 +78078,35 @@
       "material": "WOOD_SWORD",
       "name": "Leech Sword",
       "tier": "RARE",
+      "category": "SWORD",
       "stats": {
         "RIFT_DAMAGE": 3
       },
       "item_specific": {
         "mana_refund": 3
+      }
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Sword of the Multiverse",
+      "category": "SWORD",
+      "tier": "UNOBTAINABLE",
+      "stats": {
+        "RIFT_DAMAGE": 99999999
+      },
+      "id": "SWORD_OF_THE_MULTIVERSE"
+    },
+    {
+      "id": "TACTICIAN_MURDER_WEAPON",
+      "material": "STONE_SWORD",
+      "name": "Tactician's Murder Weapon",
+      "tier": "RARE",
+      "category": "SWORD",
+      "stats": {
+        "RIFT_DAMAGE": 4
+      },
+      "item_specific": {
+        "mana_refund": 4
       }
     },
     {

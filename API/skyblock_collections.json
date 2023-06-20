@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1684784482985,
-  "version": "0.18.157",
+  "lastUpdated": 1687267543450,
+  "version": "0.19.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -5505,6 +5505,280 @@
                 "Sponge Chestplate Recipe",
                 "Sponge Leggings Recipe",
                 "Spongy Shoes Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "RIFT": {
+      "name": "Rift",
+      "items": {
+        "WILTED_BERBERIS": {
+          "name": "Wilted Berberis",
+          "maxTiers": 4,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Wilted Berberis Bunch Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 60,
+              "unlocks": [
+                "Berberis Blowgun Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 140,
+              "unlocks": [
+                "Jinxed Voodoo Doll Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 400,
+              "unlocks": [
+                "Berberis Fuel Injector Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "METAL_HEART": {
+          "name": "Living Metal Heart",
+          "maxTiers": 4,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 1,
+              "unlocks": [
+                "Snake-in-a-Boot Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 20,
+              "unlocks": [
+                "Living Metal Anchor Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 60,
+              "unlocks": [
+                "Bluetooth Ring Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Polarvoid Book Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "CADUCOUS_STEM": {
+          "name": "Caducous Stem",
+          "maxTiers": 4,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Caducous Stem Bunch Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 60,
+              "unlocks": [
+                "Caducous Legume Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 150,
+              "unlocks": [
+                "Caducous Extract Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Caducous Feeder Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "AGARICUS_CAP": {
+          "name": "Agaricus Cap",
+          "maxTiers": 4,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 20,
+              "unlocks": [
+                "Agaricus Cap Bunch Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 60,
+              "unlocks": [
+                "Agaricus Soup Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Agaricus Cap Cap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 200,
+              "unlocks": [
+                "Agaricus Chumcap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "HEMOVIBE": {
+          "name": "Hemovibe",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Vampire Minion Recipes",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 250,
+              "unlocks": [
+                "Blood Donor Talisman Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Hemoglass Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Book (Transylvanian IV) Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 15000,
+              "unlocks": [
+                "Displaced Leech Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 30000,
+              "unlocks": [
+                "Blood Donor Ring Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 80000,
+              "unlocks": [
+                "Full-Jaw Fanging Kit Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 150000,
+              "unlocks": [
+                "Presumed Gallon of Red Paint Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 400000,
+              "unlocks": [
+                "Hemobomb Recipe",
+                "Blood Donor Artifact Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "HALF_EATEN_CARROT": {
+          "name": "Half-Eaten Carrot",
+          "maxTiers": 4,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 1,
+              "unlocks": [
+                "Nearly-Whole Carrot Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 400,
+              "unlocks": [
+                "Orange Chestplate Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Exportable Carrots Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 3500,
+              "unlocks": [
+                "Nearly Coherent doR gnihsiF Recipe",
                 "+4 SkyBlock XP"
               ]
             }

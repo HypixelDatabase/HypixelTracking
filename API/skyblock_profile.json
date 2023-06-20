@@ -964,7 +964,8 @@
           "kills_volt": 0,
           "rift_west_hot_dogs_given": 0,
           "rift_west_vermin_vacuumed_spider": 0,
-          "rift_dreadfarm_riftwarts_harvested": 0
+          "rift_dreadfarm_riftwarts_harvested": 0,
+          "rift_popped_balloons": 0
         },
         "objectives": {
           "collect_log": {
@@ -5177,7 +5178,11 @@
           "rift_colosseum",
           "barry_hq",
           "half_eaten_cave",
-          "beanstalk"
+          "beanstalk",
+          "murder_house",
+          "bookception",
+          "lonely_terrace",
+          "taylors"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -6012,7 +6017,8 @@
           "HALF_EATEN_CARROT_1",
           "HALF_EATEN_CARROT_2",
           "HALF_EATEN_CARROT_3",
-          "CADUCOUS_STEM_3"
+          "CADUCOUS_STEM_3",
+          "AGARICUS_CAP_3"
         ],
         "fishing_bag": {
           "type": 0,

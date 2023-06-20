@@ -972,7 +972,10 @@
           "kills_autochest": 0,
           "rift_living_metal_piece_maxed": 0,
           "kills_autopants": 0,
-          "kills_autocap": 0
+          "kills_autocap": 0,
+          "kills_autoboots": 0,
+          "kills_frozille": 0,
+          "rift_plaza_red_light_deaths": 0
         },
         "objectives": {
           "collect_log": {
@@ -3940,6 +3943,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "rift_cave_5_unlock_collection": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_cave_4_craft_timecharm": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5199,7 +5212,9 @@
           "murder_house",
           "bookception",
           "lonely_terrace",
-          "taylors"
+          "taylors",
+          "rift_ah",
+          "living_cave_2"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -9629,7 +9644,9 @@
           "kills_autonull_5": 0,
           "kills_autochest_5": 0,
           "kills_autopants_5": 0,
-          "kills_autocap_5": 0
+          "kills_autocap_5": 0,
+          "kills_autoboots_5": 0,
+          "kills_frozille_5": 0
         },
         "trophy_fish": {
           "rewards": [],

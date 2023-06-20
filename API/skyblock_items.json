@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687266499000,
+  "lastUpdated": 1687290412000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -72726,7 +72726,7 @@
         },
         "rift_stats": {
           "rift_damage": 1,
-          "walk_speed": 10
+          "rift_walk_speed": 10
         },
         "duration_seconds": 20,
         "cooldown_seconds": 20,
@@ -73329,8 +73329,8 @@
           "walk_speed": 30
         },
         "rift_stats": {
-          "rift_damage": 3,
-          "walk_speed": 30
+          "rift_damage": 2,
+          "rift_walk_speed": 30
         },
         "duration_seconds": 30,
         "cooldown_seconds": 20,

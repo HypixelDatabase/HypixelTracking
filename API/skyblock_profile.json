@@ -960,7 +960,9 @@
           "kills_scribe": 0,
           "rift_lagoon_lil_pads_sold": 0,
           "rift_plaza_horsezooka_shot": 0,
-          "rift_plaza_hay_deaths": 0
+          "rift_plaza_hay_deaths": 0,
+          "kills_volt": 0,
+          "rift_west_hot_dogs_given": 0
         },
         "objectives": {
           "collect_log": {
@@ -5172,7 +5174,8 @@
           "rift_colosseum_around",
           "rift_colosseum",
           "barry_hq",
-          "half_eaten_cave"
+          "half_eaten_cave",
+          "beanstalk"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -6005,7 +6008,8 @@
           "WILTED_BERBERIS_2",
           "HALF_EATEN_CARROT_-1",
           "HALF_EATEN_CARROT_1",
-          "HALF_EATEN_CARROT_2"
+          "HALF_EATEN_CARROT_2",
+          "HALF_EATEN_CARROT_3"
         ],
         "fishing_bag": {
           "type": 0,
@@ -9594,7 +9598,8 @@
           "kills_leech_swarm_3": 0,
           "kills_leech_supreme_10": 0,
           "kills_shadow_3": 0,
-          "kills_scribe_5": 0
+          "kills_scribe_5": 0,
+          "kills_volt_4": 0
         },
         "trophy_fish": {
           "rewards": [],

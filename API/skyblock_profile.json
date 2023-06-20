@@ -947,7 +947,15 @@
           "kills_leech_alpha": 0,
           "kills_leech_swarm": 0,
           "kills_leech_supreme": 0,
-          "kills_shadow": 0
+          "kills_shadow": 0,
+          "rift_race_best_time": 0,
+          "rift_dreadfarm_caducous_harvested": 0,
+          "rift_dreadfarm_wilted_harvested": 0,
+          "rift_west_cake_part_eaten": 0,
+          "rift_west_vermin_vacuumed": 0,
+          "rift_west_vermin_vacuumed_silverfish": 0,
+          "rift_west_vermin_vacuumed_mosquito": 0,
+          "rift_dreadfarm_agaricus_harvested": 0
         },
         "objectives": {
           "collect_log": {
@@ -3885,6 +3893,26 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "gunther_complete_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "gunther_talk_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "gunther_complete_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "gunther_talk_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5127,7 +5155,10 @@
           "lagoon_parkour",
           "west_village",
           "mirrorverse",
-          "dreadfarm"
+          "dreadfarm",
+          "infested_house",
+          "rift_water_parkour",
+          "cake_house"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -5947,7 +5978,12 @@
           "CHILI_PEPPER_9",
           "SEEDS_7",
           "RAW_FISH:2_9",
-          "RAW_FISH:2_8"
+          "RAW_FISH:2_8",
+          "CADUCOUS_STEM_1",
+          "AGARICUS_CAP_1",
+          "AGARICUS_CAP_-1",
+          "WILTED_BERBERIS_-1",
+          "CADUCOUS_STEM_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -6088,7 +6124,10 @@
           "ENCHANTED_CLAY_BALL": 0,
           "ENCHANTED_NETHER_STALK": 0,
           "QUARTZ_BLOCK": 0,
-          "SNOW_BLOCK": 0
+          "SNOW_BLOCK": 0,
+          "CADUCOUS_STEM": 0,
+          "WILTED_BERBERIS": 0,
+          "AGARICUS_CAP": 0
         },
         "quiver": {
           "type": 0,

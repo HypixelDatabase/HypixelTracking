@@ -990,7 +990,8 @@
           "kills_clotgoyle": 0,
           "rifT_living_metal_spawnegg_used": 0,
           "rift_castle_sent_to_prison": 0,
-          "kills_oubliette_zombie": 0
+          "kills_oubliette_zombie": 0,
+          "deaths_slime": 0
         },
         "objectives": {
           "collect_log": {
@@ -5348,7 +5349,8 @@
               "level_1": true,
               "level_2": true,
               "level_3": true,
-              "level_4": true
+              "level_4": true,
+              "level_5": true
             },
             "boss_kills_tier_0": 0,
             "xp": 0,

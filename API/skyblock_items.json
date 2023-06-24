@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687290412000,
+  "lastUpdated": 1687571883000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -77799,7 +77799,7 @@
         "rift_walk_speed": 15
       },
       "item_specific": {
-        "mana_refund": 7,
+        "mana_refund": 6,
         "bonus_rift_damage_vs_vampire": 5,
         "heal_on_hit": 0.5
       },
@@ -77860,7 +77860,7 @@
       "unstackable": true,
       "item_specific": {
         "heal": 12,
-        "mana_cost": 60
+        "mana_cost": 50
       },
       "id": "LUSCIOUS_HEALING_MELON"
     },
@@ -77872,7 +77872,7 @@
       "unstackable": true,
       "item_specific": {
         "heal": 9,
-        "mana_cost": 60
+        "mana_cost": 50
       },
       "id": "JUICY_HEALING_MELON"
     },
@@ -77884,7 +77884,7 @@
       "unstackable": true,
       "item_specific": {
         "heal": 7,
-        "mana_cost": 60
+        "mana_cost": 50
       },
       "id": "HEALING_MELON"
     },

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687571883000,
+  "lastUpdated": 1687758229000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -77590,6 +77590,7 @@
       "motes_sell_price": 10000,
       "npc_sell_price": 10000,
       "rift_transferrable": true,
+      "lose_motes_value_on_transfer": true,
       "id": "BUBBA_BLISTER"
     },
     {
@@ -77600,6 +77601,7 @@
       "motes_sell_price": 10000,
       "npc_sell_price": 10000,
       "rift_transferrable": true,
+      "lose_motes_value_on_transfer": true,
       "id": "CHOCOLATE_CHIP"
     },
     {
@@ -77660,7 +77662,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWY1MzU0Y2EyZWUxYjhmZGM5NTViYjQzN2JiMjYxOTU3NWZjNzk4M2YzNjlhZmEzYTFmN2QxYjk3NTY3ZWE4In19fQ==",
       "name": "Hemobomb",
       "tier": "EPIC",
-      "motes_sell_price": 1200,
+      "motes_sell_price": 450,
       "npc_sell_price": 240000,
       "rift_transferrable": true,
       "id": "HEMOBOMB"
@@ -77744,7 +77746,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ0OGE0YmFlMTY0MDJiYzk1ZmQyYzFlMWFlNmE2MzJjODQ3NWQ3MmJkZjk4NmQzNmYwYjc2YjFiNzA2NjYzYyJ9fX0=",
       "name": "Hemoglass",
       "tier": "RARE",
-      "motes_sell_price": 80,
+      "motes_sell_price": 25,
       "npc_sell_price": 16000,
       "rift_transferrable": true,
       "id": "HEMOGLASS"
@@ -77834,6 +77836,7 @@
       "motes_sell_price": 8000,
       "npc_sell_price": 15000,
       "rift_transferrable": true,
+      "lose_motes_value_on_transfer": true,
       "id": "ENCHANTED_BOOK_BUNDLE_QUANTUM"
     },
     {
@@ -77919,6 +77922,7 @@
       "motes_sell_price": 5000,
       "npc_sell_price": 30000,
       "rift_transferrable": true,
+      "lose_motes_value_on_transfer": true,
       "id": "GUARDIAN_LUCKY_BLOCK"
     },
     {

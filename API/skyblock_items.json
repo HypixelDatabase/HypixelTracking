@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687821974000,
+  "lastUpdated": 1687854906000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -27957,7 +27957,7 @@
       "npc_sell_price": 100000,
       "dungeon_item_conversion_cost": {
         "essence_type": "DRAGON",
-        "amount": 700
+        "amount": 70
       },
       "upgrade_costs": [
         [
@@ -30618,7 +30618,7 @@
       "npc_sell_price": 100000,
       "dungeon_item_conversion_cost": {
         "essence_type": "DRAGON",
-        "amount": 600
+        "amount": 60
       },
       "upgrade_costs": [
         [
@@ -41826,7 +41826,7 @@
       "npc_sell_price": 100000,
       "dungeon_item_conversion_cost": {
         "essence_type": "DRAGON",
-        "amount": 350
+        "amount": 35
       },
       "upgrade_costs": [
         [
@@ -65130,7 +65130,7 @@
       "npc_sell_price": 100000,
       "dungeon_item_conversion_cost": {
         "essence_type": "DRAGON",
-        "amount": 400
+        "amount": 40
       },
       "upgrade_costs": [
         [
@@ -77920,7 +77920,7 @@
       "tier": "RARE",
       "origin": "RIFT",
       "description": "You and killing stuff in the rift, name a more iconic duo.",
-      "motes_sell_price": 10,
+      "motes_sell_price": 2000,
       "id": "BLOODBADGE"
     },
     {

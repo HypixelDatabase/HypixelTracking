@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1687888464000,
+  "lastUpdated": 1687985638000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -43234,6 +43234,7 @@
       "material": "SAPLING",
       "name": "Oak Sapling",
       "npc_sell_price": 0.25,
+      "motes_sell_price": 2,
       "id": "SAPLING"
     },
     {
@@ -77007,7 +77008,7 @@
       "name": "Caducous Stem",
       "tier": "COMMON",
       "origin": "RIFT",
-      "description": "The color and shape of flowers are a precise record of what bees find attractice.",
+      "description": "The color and shape of flowers are a precise record of what bees find attractive.",
       "id": "CADUCOUS_STEM"
     },
     {

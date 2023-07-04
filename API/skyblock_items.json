@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1688113534000,
+  "lastUpdated": 1688511847000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -21198,7 +21198,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRhMzMyYWJkZTMzM2ExNWE2YzZmY2ZlY2E4M2YwMTU5ZWE5NGI2OGU4ZjI3NGJhZmMwNDg5MmI2ZGJmYyJ9fX0=",
       "name": "Game Annihilator",
-      "tier": "SPECIAL",
+      "tier": "VERY_SPECIAL",
       "museum": true,
       "id": "GAME_ANNIHILATOR"
     },
@@ -67669,7 +67669,7 @@
       "name": "Game Fixer",
       "glowing": true,
       "category": "PICKAXE",
-      "tier": "SPECIAL",
+      "tier": "VERY_SPECIAL",
       "npc_sell_price": 777,
       "description": "%%gray%%Given to individuals who broke the game too many times. Thanks for your great help!",
       "museum": true,

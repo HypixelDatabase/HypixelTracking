@@ -38799,7 +38799,8 @@
             "dawning_snowball": true,
             "frozen_meal": true,
             "eggnog": true,
-            "festival_pufferfish_hat": true
+            "festival_pufferfish_hat": true,
+            "mahi_mahi": true
           },
           "stats": {
             "2022": {
@@ -38830,6 +38831,13 @@
             },
             "2023": {
               "easter": {
+                "water": {
+                  "treasure": 0,
+                  "fish": 0,
+                  "junk": 0
+                }
+              },
+              "summer": {
                 "water": {
                   "treasure": 0,
                   "fish": 0,

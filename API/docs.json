@@ -524,6 +524,32 @@
           "id": "FARM_ARMOR_CHESTPLATE"
         }
       },
+      "SkyBlockMuseum": {
+        "properties": {
+          "value": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "appraisal": {
+            "type": "boolean"
+          },
+          "items": {
+            "type": "object"
+          },
+          "special": {
+            "type": "array",
+            "properties": {
+              "donated_time": {
+                "type": "integer",
+                "format": "int64"
+              },
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      },
       "Game": {
         "description": "Information about a specific game. When a field is not present you should fallback to the provided default if there is one, required fields will always exist.",
         "required": [
@@ -1811,6 +1837,59 @@
           },
           "400": {
             "$ref": "#/components/responses/DataMissing"
+          },
+          "403": {
+            "$ref": "#/components/responses/InvalidKey"
+          },
+          "422": {
+            "$ref": "#/components/responses/MalformedData"
+          },
+          "429": {
+            "$ref": "#/components/responses/RateLimited"
+          }
+        }
+      }
+    },
+    "/skyblock/museum": {
+      "get": {
+        "summary": "Museum data by profile ID",
+        "description": "SkyBlock museum data for all members of the provided profile. The data returned can differ depending on the players in-game API settings.",
+        "tags": [
+          "SkyBlock"
+        ],
+        "security": [
+          {
+            "ApiKey": []
+          }
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "profile",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "profile": {
+                      "$ref": "#/components/schemas/SkyBlockMuseum"
+                    }
+                  }
+                }
+              }
+            }
           },
           "403": {
             "$ref": "#/components/responses/InvalidKey"

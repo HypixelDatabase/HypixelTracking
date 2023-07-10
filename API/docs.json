@@ -388,22 +388,86 @@
             "format": "uuid"
           },
           "members": {
-            "type": "object"
+            "description": "A map of member UUIDs to member profiles objects",
+            "type": "object",
+            "properties": {
+              "player_id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "deletion_notice": {
+                "description": "If this field exists, the member profile is marked as deleted",
+                "nullable": true,
+                "type": "object",
+                "properties": {
+                  "timestamp": {
+                    "type": "integer",
+                    "format": "int64"
+                  }
+                }
+              }
+            }
+          },
+          "cute_name": {
+            "description": "The cute name of the profile, only provided on the profiles endpoint",
+            "nullable": true,
+            "type": "string"
+          },
+          "selected": {
+            "description": "Whether or not this is the currently selected profile, only provided on the profiles endpoint",
+            "nullable": true,
+            "type": "boolean"
           },
           "community_upgrades": {
             "nullable": true,
             "type": "object"
           },
-          "cute_name": {
-            "type": "string"
-          },
           "banking": {
+            "description": "Information about the bank account for this profile, only present if the API banking setting is enabled",
             "nullable": true,
-            "type": "object"
+            "type": "object",
+            "properties": {
+              "balance": {
+                "type": "number",
+                "format": "double"
+              },
+              "transactions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "timestamp": {
+                      "type": "integer",
+                      "format": "int64"
+                    },
+                    "action": {
+                      "type": "string",
+                      "enum": [
+                        "DEPOSIT",
+                        "WITHDRAW"
+                      ]
+                    },
+                    "initiator_name": {
+                      "type": "string"
+                    },
+                    "amount": {
+                      "type": "number",
+                      "format": "double"
+                    }
+                  }
+                }
+              }
+            }
           },
           "game_mode": {
+            "description": "The SkyBlock game mode of the profile, not present if normal mode",
             "nullable": true,
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "ironman",
+              "island",
+              "bingo"
+            ]
           }
         }
       },

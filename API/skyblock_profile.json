@@ -10272,7 +10272,174 @@
         "deletion_notice": {
           "timestamp": 0
         },
-        "player_id": ""
+        "player_id": "",
+        "rift": {
+          "wither_cage": {
+            "killed_eyes": []
+          },
+          "black_lagoon": {
+            "completed_step": 0,
+            "talked_to_edwin": true,
+            "received_science_paper": true,
+            "delivered_science_paper": true
+          },
+          "dead_cats": {
+            "talked_to_jacquelle": true,
+            "picked_up_detector": true,
+            "found_cats": [],
+            "unlocked_pet": true,
+            "montezuma": {
+              "uuid": "",
+              "type": "",
+              "exp": 0,
+              "active": true,
+              "tier": "",
+              "heldItem": "",
+              "candyUsed": 0,
+              "skin": ""
+            }
+          },
+          "wizard_tower": {
+            "wizard_quest_step": 0,
+            "crumbs_laid_out": 0
+          },
+          "west_village": {
+            "crazy_kloon": {
+              "selected_colors": {
+                "seven": "",
+                "six": "",
+                "eight": "",
+                "five": "",
+                "four": "",
+                "one": "",
+                "three": "",
+                "two": ""
+              },
+              "talked": true,
+              "hacked_terminals": [],
+              "quest_complete": true
+            },
+            "mirrorverse": {
+              "visited_rooms": [],
+              "claimed_reward": true,
+              "upside_down_hard": true,
+              "claimed_chest_items": []
+            },
+            "kat_house": {
+              "bin_collected_spider": 0,
+              "bin_collected_silverfish": 0,
+              "bin_collected_mosquito": 0
+            },
+            "glyphs": {
+              "claimed_wand": true,
+              "current_glyph_delivered": true,
+              "current_glyph_completed": true,
+              "current_glyph": 0,
+              "completed": true,
+              "claimed_bracelet": true
+            }
+          },
+          "enigma": {
+            "bought_cloak": true,
+            "found_souls": [],
+            "claimed_bonus_index": 0
+          },
+          "wyld_woods": {
+            "talked_threebrothers": [],
+            "sirius_started_q_a": true,
+            "bughunter_step": 0,
+            "sirius_q_a_chain_done": true,
+            "sirius_completed_q_a": true,
+            "sirius_claimed_doubloon": true
+          },
+          "village_plaza": {
+            "murder": {
+              "step_index": 0,
+              "room_clues": []
+            },
+            "barry_center": {
+              "first_talk_to_barry": true,
+              "convinced": [],
+              "received_reward": true
+            },
+            "cowboy": {
+              "stage": 0,
+              "hay_eaten": 0,
+              "rabbit_name": "",
+              "exported_carrots": 0
+            },
+            "barter_bank": {},
+            "lonely": {
+              "seconds_sitting": 0
+            },
+            "seraphine": {
+              "step_index": 0
+            },
+            "got_scammed": true
+          },
+          "gallery": {
+            "elise_step": 0,
+            "secured_trophies": [
+              {
+                "type": "",
+                "timestamp": 0,
+                "visits": 0
+              }
+            ],
+            "sent_trophy_dialogues": []
+          },
+          "castle": {
+            "unlocked_pathway_skip": true,
+            "fairy_step": 0,
+            "grubber_stacks": 0
+          },
+          "access": {
+            "last_free": 0,
+            "consumed_prism": true
+          },
+          "slayer_quest": {
+            "type": "",
+            "tier": 0,
+            "start_timestamp": 0,
+            "completion_state": 0,
+            "used_armor": true,
+            "solo": true,
+            "combat_xp": 0,
+            "recent_mob_kills": [
+              {
+                "xp": 0,
+                "timestamp": 0
+              }
+            ],
+            "last_killed_mob_island": ""
+          },
+          "dreadfarm": {
+            "shania_stage": 0,
+            "caducous_feeder_uses": []
+          },
+          "lifetime_purchased_boundaries": [],
+          "inventory": {
+            "inv_contents": {
+              "type": 0,
+              "data": ""
+            },
+            "inv_armor": {
+              "type": 0,
+              "data": ""
+            },
+            "equippment_contents": {
+              "type": 0,
+              "data": ""
+            },
+            "ender_chest_contents": {
+              "type": 0,
+              "data": ""
+            },
+            "ender_chest_page_icons": [
+              {}
+            ]
+          }
+        }
       }
     },
     "banking": {

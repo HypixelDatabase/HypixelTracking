@@ -10270,7 +10270,8 @@
           "migrated_completions_2": true,
           "task_sort": "",
           "claimed_talisman": true,
-          "bop_bonus": ""
+          "bop_bonus": "",
+          "selected_symbol": ""
         },
         "deletion_notice": {
           "timestamp": 0
@@ -10398,7 +10399,11 @@
           },
           "access": {
             "last_free": 0,
-            "consumed_prism": true
+            "consumed_prism": true,
+            "pass": {
+              "issued_at": 0,
+              "rift_server_joins": 0
+            }
           },
           "slayer_quest": {
             "type": "",

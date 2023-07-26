@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1689169130000,
+  "lastUpdated": 1690362937000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -15256,6 +15256,20 @@
       "glowing": true,
       "soulbound": "COOP",
       "id": "EXTREME_BINGO_CARD"
+    },
+    {
+      "material": "GOLD_BARDING",
+      "name": "Bingo Blaster",
+      "category": "WAND",
+      "tier": "EPIC",
+      "stats": {
+        "ABILITY_DAMAGE_PERCENT": 20,
+        "WEAPON_ABILITY_DAMAGE": 625,
+        "INTELLIGENCE": 300
+      },
+      "origin": "BINGO",
+      "soulbound": "SOLO",
+      "id": "BINGO_BLASTER"
     },
     {
       "material": "SKULL_ITEM",

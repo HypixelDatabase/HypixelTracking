@@ -1007,7 +1007,13 @@
           "kills_farming_sheep": 0,
           "kills_farming_rabbit": 0,
           "kills_farming_cow_1": 0,
-          "kills_farming_chicken_1": 0
+          "kills_farming_chicken_1": 0,
+          "kills_farming_sheep_1": 0,
+          "kills_kuudra_follower_100": 0,
+          "kills_kuudra_landmine_100": 0,
+          "kills_kuudra_follower_500": 0,
+          "kills_kuudra_landmine_500": 0,
+          "kills_blight_500": 0
         },
         "objectives": {
           "collect_log": {
@@ -10593,7 +10599,20 @@
             "duelist_kaus_5": 0,
             "duelist_kaus_6": 0,
             "farming_sheep_1": 0,
-            "farming_rabbit_1": 0
+            "farming_rabbit_1": 0,
+            "kuudra_follower_100": 0,
+            "inferno_magma_cube_100": 0,
+            "kuudra_landmine_100": 0,
+            "kuudra_berserker_100": 0,
+            "kuudra_follower_500": 0,
+            "inferno_magma_cube_500": 0,
+            "kuudra_landmine_500": 0,
+            "kuudra_berserker_500": 0,
+            "explosive_imp_500": 0,
+            "blight_500": 0,
+            "kuudra_knocker_500": 0,
+            "wandering_blaze_500": 0,
+            "dropship_500": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

@@ -1053,7 +1053,9 @@
           "kills_pack_spirit_30": 0,
           "kills_respawning_skeleton_2": 0,
           "kills_fire_eel_240": 0,
-          "kills_graveyard_zombie": 0
+          "kills_graveyard_zombie": 0,
+          "kills_unburried_zombie_60": 0,
+          "kills_unburried_zombie_30": 0
         },
         "objectives": {
           "collect_log": {
@@ -10699,7 +10701,20 @@
             "crypt_undead_apunch_25": 0,
             "crypt_undead_connorlinfoot_25": 0,
             "crypt_undead_dctr_25": 0,
-            "crypt_undead_jayavarmen_25": 0
+            "crypt_undead_jayavarmen_25": 0,
+            "master_crypt_undead_likaos_25": 0,
+            "master_crypt_undead_relenter_25": 0,
+            "master_crypt_undead_jayavarmen_25": 0,
+            "master_livid_1": 0,
+            "master_crypt_undead_sfarnham_25": 0,
+            "master_crypt_undead_nitroholic__25": 0,
+            "master_crypt_undead_minikloon_25": 0,
+            "master_scarf_1": 0,
+            "krondor_necromancer_summon_75": 0,
+            "master_crypt_undead_apunch_25": 0,
+            "master_lost_adventurer_86": 0,
+            "master_livid_clone_1": 0,
+            "master_crypt_undead_codename_b_25": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,
@@ -11180,7 +11195,23 @@
             "skeletor_110": 0,
             "shadow_assassin_150": 0,
             "crypt_witherskeleton_110": 0,
-            "crypt_dreadlord_117": 0
+            "crypt_dreadlord_117": 0,
+            "master_lost_adventurer_135": 0,
+            "frosty_the_snowman_13": 0,
+            "master_diamond_guy_120": 0,
+            "scared_skeleton_42": 0,
+            "explosive_imp_300": 0,
+            "master_crypt_undead_donpireso_55": 0,
+            "lost_adventurer_164": 0,
+            "explosive_imp_200": 0,
+            "zombie_knight_86": 0,
+            "kuudra_knocker_400": 0,
+            "clotgoyle_5": 0,
+            "master_professor_archer_guardian_1": 0,
+            "vampire_fledgling_8": 0,
+            "master_crypt_dreadlord_97": 0,
+            "master_zombie_soldier_83": 0,
+            "chaosmite_400": 0
           },
           "milestone": {
             "last_claimed_milestone": 0

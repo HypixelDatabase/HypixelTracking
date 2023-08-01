@@ -1038,7 +1038,12 @@
           "kills_magma_slug_200": 0,
           "kills_pyroclastic_worm_240": 0,
           "kills_pig_rider_250": 0,
-          "kills_lava_leech_220": 0
+          "kills_lava_leech_220": 0,
+          "kills_voracious_spider_50": 0,
+          "kills_splitter_spider_silverfish_50": 0,
+          "kills_weaver_spider_45": 0,
+          "kills_voracious_spider_45": 0,
+          "kills_pond_squid_300": 0
         },
         "objectives": {
           "collect_log": {
@@ -10677,7 +10682,8 @@
             "magma_follower_500": 0,
             "kuudra_slasher_500": 0,
             "wither_sentry_500": 0,
-            "blazing_golem_500": 0
+            "blazing_golem_500": 0,
+            "pond_squid_300": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

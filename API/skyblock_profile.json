@@ -1089,7 +1089,10 @@
           "kills_flaming_spider_80": 0,
           "kills_kada_knight_90": 0,
           "kills_pack_magma_cube_90": 0,
-          "deaths_splatter": 0
+          "deaths_splatter": 0,
+          "kills_kuudra_berserker_100": 0,
+          "kills_inferno_magma_cube_100": 0,
+          "kills_kuudra_knocker_100": 0
         },
         "objectives": {
           "collect_log": {
@@ -10766,7 +10769,9 @@
             "kuudra_slasher_400": 0,
             "wither_sentry_400": 0,
             "magma_follower_400": 0,
-            "spider_3": 0
+            "spider_3": 0,
+            "blight_100": 0,
+            "kuudra_knocker_100": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

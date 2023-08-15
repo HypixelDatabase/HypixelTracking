@@ -8219,7 +8219,16 @@
               "attack_speed": 0,
               "intelligence": 0
             },
-            "slot_4": {}
+            "slot_4": {
+              "health": 0,
+              "defense": 0,
+              "walk_speed": 0,
+              "strength": 0,
+              "critical_damage": 0,
+              "critical_chance": 0,
+              "attack_speed": 0,
+              "intelligence": 0
+            }
           },
           "unlocked_powers": [],
           "selected_power": "",

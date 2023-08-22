@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1687267543450,
-  "version": "0.19.0",
+  "lastUpdated": 1692711245753,
+  "version": "0.19.122",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1463,7 +1463,7 @@
               "tier": 3,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Book (Experience II) Recipe",
+                "Lapis Pickaxe Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4125,6 +4125,7 @@
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted String Recipe",
+                "Grappling Hook Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4149,7 +4150,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Grappling Hook Recipe",
+                "+20,000 Combat Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4209,7 +4210,7 @@
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "+50 Foraging Experience",
+                "+500 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4226,6 +4227,7 @@
               "amountRequired": 2000,
               "unlocks": [
                 "Enchanted Acacia Wood Recipe",
+                "Repelling Candle Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4241,7 +4243,7 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Acacia Birdhouse Recipe",
+                "+10,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4249,7 +4251,7 @@
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Repelling Candle Recipe",
+                "Acacia Birdhouse Recipe",
                 "+4 SkyBlock XP"
               ]
             }

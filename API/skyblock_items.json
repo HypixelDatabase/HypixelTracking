@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1692406533000,
+  "lastUpdated": 1692710761000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -15417,7 +15417,7 @@
           "offset": "NEW",
           "skill_requirement": {
             "skill": "MINING",
-            "level": 15
+            "level": 12
           }
         }
       },
@@ -15997,7 +15997,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODIzMzEwNTIyOSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzRjZjNjNWYyNGM5YmY4YjkwMzFlOGFlZDUzMzdiNmEwN2Y4MTljZGU4YzYyMjA4NTU0NTE2MmY4YTY5MzA2MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MTA2NzYyOTI3OSwKICAicHJvZmlsZUlkIiA6ICI0NmY3N2NjNmQ2MjU0NjEzYjc2NmYyZDRmMDM2MzZhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXNzV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNGFkZWEwZDgyMjYzZDIzMzM4NDdlYzM0ODgyMTRjYTI1MjM2NDIzYjg2NTdiYjgyZTA4ZWJjMzRiZDcwODgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Jungle Heart",
       "tier": "LEGENDARY",
       "description": "%%gray%%Found in the deepest layers of the Jungle Temple.",
@@ -21221,6 +21221,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRhMzMyYWJkZTMzM2ExNWE2YzZmY2ZlY2E4M2YwMTU5ZWE5NGI2OGU4ZjI3NGJhZmMwNDg5MmI2ZGJmYyJ9fX0=",
       "name": "Game Annihilator",
       "tier": "VERY_SPECIAL",
+      "soulbound": "COOP",
       "museum": true,
       "id": "GAME_ANNIHILATOR"
     },
@@ -26444,7 +26445,7 @@
       "stats": {
         "DEFENSE": 12
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 7,
       "id": "CHAINMAIL_HELMET"
     },
     {
@@ -27298,7 +27299,7 @@
       "stats": {
         "DEFENSE": 7
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 6,
       "id": "CHAINMAIL_BOOTS"
     },
     {
@@ -28109,7 +28110,7 @@
       "name": "Iron Helmet",
       "category": "HELMET",
       "stats": {
-        "DEFENSE": 10
+        "DEFENSE": 12
       },
       "npc_sell_price": 7,
       "id": "IRON_HELMET"
@@ -33681,7 +33682,7 @@
       "stats": {
         "DEFENSE": 20
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 10,
       "id": "CHAINMAIL_LEGGINGS"
     },
     {
@@ -35996,7 +35997,7 @@
       "stats": {
         "DEFENSE": 30
       },
-      "npc_sell_price": 1,
+      "npc_sell_price": 12,
       "id": "CHAINMAIL_CHESTPLATE"
     },
     {
@@ -40834,7 +40835,7 @@
       "stats": {
         "BREAKING_POWER": 5,
         "DAMAGE": 30,
-        "MINING_SPEED": 200
+        "MINING_SPEED": 225
       },
       "npc_sell_price": 500,
       "id": "FRACTURED_MITHRIL_PICKAXE"
@@ -45099,7 +45100,7 @@
       "durability": 3,
       "name": "Quick Claw",
       "category": "PET_ITEM",
-      "tier": "RARE",
+      "tier": "EPIC",
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjMxMmE1YTEyZWNiMjRkNjg1MmRiMzg4ZTZhMzQ3MjFjYzY3ZjUyMmNjZGU3ZTgyNGI5Zjc1ZTk1MDM2YWM5MyJ9fX0=",
       "id": "PET_ITEM_QUICK_CLAW"
     },
@@ -48944,7 +48945,7 @@
     },
     {
       "material": "IRON_PICKAXE",
-      "name": "Refined Titanium Pickaxe",
+      "name": "Polished Titanium Pickaxe",
       "glowing": true,
       "category": "PICKAXE",
       "tier": "RARE",
@@ -51386,7 +51387,7 @@
     {
       "material": "BOW",
       "item_durability": -1,
-      "name": "Spirit Bow",
+      "name": "Spirit Shortbow",
       "category": "BOW",
       "tier": "LEGENDARY",
       "stats": {
@@ -54135,7 +54136,7 @@
       "stats": {
         "BREAKING_POWER": 4,
         "DAMAGE": 30,
-        "MINING_SPEED": 230
+        "MINING_SPEED": 220
       },
       "npc_sell_price": 12,
       "id": "DIAMOND_PICKAXE"
@@ -55158,6 +55159,7 @@
       "name": "Oil Barrel",
       "tier": "UNCOMMON",
       "description": "%%gray%%%%italic%%100% unrenewable energy!",
+      "npc_sell_price": 1000,
       "id": "OIL_BARREL"
     },
     {
@@ -55916,6 +55918,7 @@
         "STRENGTH": 20
       },
       "npc_sell_price": 20,
+      "museum": true,
       "id": "BLAZE_HAT"
     },
     {
@@ -55939,6 +55942,22 @@
       },
       "npc_sell_price": 400,
       "id": "MINER_OUTFIT_HELMET"
+    },
+    {
+      "material": "DIAMOND_PICKAXE",
+      "name": "Lapis Pickaxe",
+      "category": "PICKAXE",
+      "tier": "UNCOMMON",
+      "stats": {
+        "BREAKING_POWER": 4,
+        "DAMAGE": 20,
+        "MINING_SPEED": 200
+      },
+      "npc_sell_price": 256,
+      "item_specific": {
+        "bonus_experience_chance": 25
+      },
+      "id": "LAPIS_PICKAXE"
     },
     {
       "material": "PRISMARINE_SHARD",
@@ -58006,6 +58025,7 @@
         "INTELLIGENCE": 50
       },
       "npc_sell_price": 80,
+      "museum": true,
       "id": "MAGMA_FISH_HAT"
     },
     {
@@ -62354,7 +62374,7 @@
           10
         ]
       },
-      "description": "%%gray%%A ceremonial mask worn by the members of the Kalhuiki Tribe.",
+      "description": "%%gray%%A ceremonial mask worn by the members of the Kalhuiki Tribe.\n\n%%gray%%While wearing this mask, members of the Kalhuiki Tribe will not attack you!",
       "id": "KALHUIKI_MASK"
     },
     {
@@ -62793,6 +62813,9 @@
         "DAMAGE": 50,
         "MINING_SPEED": 330
       },
+      "enchantments": {
+        "efficiency": 5
+      },
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
@@ -62919,7 +62942,7 @@
       "tier": "RARE",
       "glowing": true,
       "soulbound": "COOP",
-      "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Fire bats are much cuter though.",
+      "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Cinderbats are much cuter though.",
       "npc_sell_price": 200,
       "id": "FLAMES"
     },
@@ -63687,7 +63710,6 @@
       "material": "DRAGON_EGG",
       "name": "Dragon Egg",
       "tier": "LEGENDARY",
-      "npc_sell_price": 100,
       "id": "DRAGON_EGG"
     },
     {
@@ -67090,6 +67112,7 @@
       "name": "Sea Lantern Hat",
       "category": "HELMET",
       "tier": "UNCOMMON",
+      "museum": true,
       "id": "SEA_LANTERN_HAT"
     },
     {
@@ -67687,6 +67710,7 @@
       "tier": "VERY_SPECIAL",
       "npc_sell_price": 777,
       "description": "%%gray%%Given to individuals who broke the game too many times. Thanks for your great help!",
+      "soulbound": "COOP",
       "museum": true,
       "id": "GAME_FIXER"
     },
@@ -67947,7 +67971,6 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 10,
       "museum": true,
-      "soulbound": "SOLO",
       "id": "PROMISING_SPADE"
     },
     {
@@ -79086,6 +79109,14 @@
       "npc_sell_price": 1000,
       "dungeon_item": true,
       "id": "INFINITE_SPIRIT_LEAP"
+    },
+    {
+      "material": "PAPER",
+      "name": "Saul's Recommendation",
+      "tier": "LEGENDARY",
+      "soulbound": "SOLO",
+      "glowing": true,
+      "id": "SAULS_RECOMMENDATION"
     },
     {
       "material": "SKULL_ITEM",

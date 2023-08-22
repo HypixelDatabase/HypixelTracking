@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1681298545568,
+  "lastUpdated": 1692711845745,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10320,21 +10320,6 @@
     },
     "skyblock": {
       "one_time": {
-        "THE_ITSY_BITSY_SPIDER": {
-          "points": 5,
-          "name": "The Itsy Bitsy Spider",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "EXPLOSIVE_ENDING": {
-          "points": 5,
-          "name": "Explosive Ending",
-          "description": "Survive the Blast from the Unstable Dragon",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DECLARING_ALLEGIANCE": {
           "points": 5,
           "name": "Declaring Allegiance",
@@ -10346,20 +10331,6 @@
           "points": 5,
           "name": "Beaconator 2.0",
           "description": "Power a Beacon of any kind.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CLEANUP_CREW": {
-          "points": 5,
-          "name": "Cleanup Crew",
-          "description": "Finish clearing a plot in The Garden.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SADDLE_UP": {
-          "points": 5,
-          "name": "Saddle Up!",
-          "description": "[Coop or you] Craft a saddle",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10399,39 +10370,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "A_GOOD_SPIDER_IS_A_DEAD_SPIDER": {
-          "points": 10,
-          "name": "A good spider is a dead spider",
-          "description": "Kill the Broodmother",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "WATER_SWORD": {
-          "points": 5,
-          "name": "Water Blade",
-          "description": "Kill a squid using the Prismarine Blade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "EMPTY_FLOWER_POT": {
-          "points": 5,
-          "name": "Empty Flower Pot?",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "ZOOKEEPER": {
           "points": 10,
           "name": "Zookeeper",
           "description": "Buy a pet from Oringo during the Traveling Zoo",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SAFETY_FIRST": {
-          "points": 5,
-          "name": "Safety First",
-          "description": "Obtain Stonk",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10456,38 +10398,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WORTH_IT": {
-          "points": 10,
-          "name": "Worth it",
-          "description": "Spend more than 200 levels on a single Sword enchantment",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "I_AM_GROOT": {
           "points": 5,
           "name": "I Am Groot",
           "description": "Wear a set of Growth Armor with a Bonus 100 hp",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PRODUCTION_EXPANDED": {
-          "points": 5,
-          "name": "Production Expanded",
-          "description": "[Coop or you] Unlock a new minion slot",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "NEXT_GENERATION": {
-          "points": 5,
-          "name": "The Next Generation",
-          "description": "Find a Golden Goblin by throwing a Goblin Egg.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ALWAYS_SUNNY_IN_SB": {
-          "points": 10,
-          "name": "Always Sunny in SkyBlock",
-          "description": "Place a Day Saver in The Garden.",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10506,13 +10420,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "ROYAL_MEETING": {
-          "points": 5,
-          "name": "A Royal Meeting",
-          "description": "Obtain the King's Talisman.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "SUPREME_FARMER": {
           "points": 5,
           "name": "Supreme Farmer",
@@ -10526,6 +10433,11 @@
           "description": "Use an Inflatable Jerry",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "INNER_MACHINATIONS": {
+          "points": 15,
+          "name": "Inner Machinations",
+          "description": "Max out the Enigma Cloak (including extra upgrades)."
         },
         "SCAM": {
           "points": 5,
@@ -10562,28 +10474,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "FLAMIN_HOT": {
-          "points": 5,
-          "name": "Flamin Hot",
-          "description": "Consume 200 Magma Creams using the Magma Bow",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SHRIMP": {
-          "points": 5,
-          "name": "Shrimp!?!",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "WELCOME_TO_MY_FACTORY": {
-          "points": 5,
-          "name": "Welcome to my Factory",
-          "description": "[Coop or you] Place a Farm Crystal",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "CUTE_LITTLE_CUBE": {
           "points": 10,
           "name": "Cute Little Cube",
@@ -10591,60 +10481,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "ACCESSORIES_GALORE": {
-          "points": 5,
-          "name": "Accessories Galore",
-          "description": "[Coop or you] Unlock the Greater Talisman Bag upgrade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "WONDERFUL_TREASURES": {
-          "points": 10,
-          "name": "Wonderful Treasures",
-          "description": "Open an Obsidian Chest",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ETERNAL_FLAME_RING": {
-          "points": 10,
-          "name": "The Ring",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "AMALGAMATION": {
           "points": 5,
           "name": "Amalgamation",
           "description": "Fuse 2 items to increase attributes",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "THE_REAL_ZOO_SHADY": {
-          "points": 20,
-          "name": "The Real Zoo Shady",
-          "description": "Have 20 different pets in your pet menu",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ANIMAL_FISHING": {
-          "points": 5,
-          "name": "Animal Fishing",
-          "description": "Fish using the Farmer's Rod",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "FLAWLESS": {
-          "points": 10,
-          "name": "Flawless",
-          "description": "Beat a dungeon without anyone dying.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SERIOUSLY": {
-          "points": 10,
-          "name": "Seriously?",
-          "description": "Put a Wood Singularity on an Aspect of the Jerry",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10677,28 +10517,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "AGILE": {
-          "points": 5,
-          "name": "Agile",
-          "description": "Drink an Agility potion",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HEART_OF_THE_END": {
-          "points": 5,
-          "name": "Heart of the End",
-          "description": "Reach the Dragon's Nest in the End",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SECRET_END_PLACE": {
-          "points": 10,
-          "name": "What is this place...",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DIDNT_MEAN_TO": {
           "points": 5,
           "name": "Didn't mean to!",
@@ -10713,31 +10531,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "STORAGE_FOREVER": {
-          "points": 10,
-          "name": "Storage Forever",
-          "description": "Craft a Greater Backpack",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HELPFUL_HAND": {
-          "points": 5,
-          "name": "Helpful Hand",
-          "description": "Give Fetchur the item he asks for.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "BOUNTIFUL_HARVEST": {
           "points": 10,
           "name": "Bountiful Harvest",
           "description": "Find a Squash while farming.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HSSSSS": {
-          "points": 5,
-          "name": "Hsssss",
-          "description": "Wear the Creeper Pants",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10762,41 +10559,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SECOND_CHANCE": {
-          "points": 5,
-          "name": "Second Chance",
-          "description": "Consume the Saving Grace",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SMELL_LIKE_ROSES": {
-          "points": 5,
-          "name": "Smell like roses",
-          "description": "Take down an Endstone Protector",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TIME_TO_START_FISHING": {
-          "points": 5,
-          "name": "Time To Start Fishing",
-          "description": "[Coop or you] Place the Pond Island",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "THOUGH_CHOICE": {
-          "points": 5,
-          "name": "Tough Choice",
-          "description": "Apply an Ultimate Enchantment on an item",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "RESOURCEFUL": {
-          "points": 5,
-          "name": "Resourceful",
-          "description": "Give Rhys the materials to enter the Dwarven Mines.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "REBIRTH": {
           "points": 5,
           "name": "Rebirth",
@@ -10812,39 +10574,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "INDIANA_BONES": {
-          "points": 10,
-          "name": "Indiana Bones",
-          "description": "Find 10 secrets in a single Dungeon run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "KING_OF_THE_CHICKS": {
           "points": 5,
           "name": "King Of The Chickens",
           "description": "Craft the Feather Artifact",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "DRAGON_SLAYER": {
-          "points": 5,
-          "name": "Dragon Slayer",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PEAK_OF_THE_MOUNTAIN": {
-          "points": 15,
-          "name": "Peak of the Mountain",
-          "description": "Reach tier V of the Heart of the Mountain.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TRUE_ALCHEMIST": {
-          "points": 5,
-          "name": "True Alchemist",
-          "description": "Obtain the Potion Affinity Artifact",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10883,13 +10616,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "THE_FLINT_BROS": {
-          "points": 5,
-          "name": "The Flint Bros!",
-          "description": "Find both Pat and Rick",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "LIBRARIAN": {
           "points": 5,
           "name": "Librarian",
@@ -10911,14 +10637,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "GERONIMO": {
-          "points": 5,
-          "name": "Geronimo!",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "COMBINED_EFFORTS": {
           "points": 5,
           "name": "Combined efforts",
@@ -10929,14 +10647,6 @@
         "ROYAL_RESIDENT_DIALOGUE": {
           "points": 15,
           "name": "Royal Conversation",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "MEAL_FIT_FOR_A_KING": {
-          "points": 5,
-          "name": "Meal fit for a King",
           "description": "???",
           "secret": true,
           "gamePercentUnlocked": 1,
@@ -10956,13 +10666,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_ROD": {
-          "points": 5,
-          "name": "Legendary Rod",
-          "description": "Fish using the Rod of Legends",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "CARETAKER": {
           "points": 10,
           "name": "Caretaker",
@@ -10970,31 +10673,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "NIGHT_EYES": {
-          "points": 5,
-          "name": "Night Eyes",
-          "description": "Obtain the Night Vision charm",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "KING_OF_THE_PETS": {
           "points": 10,
           "name": "King Of The Pets",
           "description": "Obtain a pet score of 100 or more",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "VANQUISHED": {
-          "points": 5,
-          "name": "Vanquished",
-          "description": "Kill a Vanquisher",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BLAZE_WRANGLER": {
-          "points": 5,
-          "name": "Blaze Wrangler",
-          "description": "Grapple 5 blazes at once",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11012,20 +10694,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "THE_ONE_BOTTLE": {
-          "points": 5,
-          "name": "The One Bottle",
-          "description": "Craft a Titanic experience bottle",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ABSORB_IT_ALL": {
-          "points": 10,
-          "name": "Absorb it all!",
-          "description": "Wear a full set of Sponge or Shark Scale Armor",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "GHOST_BUSTER": {
           "points": 5,
           "name": "Ghost Buster",
@@ -11033,24 +10701,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "RING_RING_WHOS_THIS": {
-          "points": 5,
-          "name": "Ring Ring... Who’s this?",
-          "description": "Buy an Abiphone",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "PROMISED_FULFILLED": {
           "points": 5,
           "name": "Promise Fulfilled",
           "description": "Max out a promising tool",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "I_BELIEVE_I_CAN_FLY": {
-          "points": 5,
-          "name": "I believe I can fly!",
-          "description": "Wear a full set of Bat Person Armor",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11068,13 +10722,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "BAT_PINATA": {
-          "points": 5,
-          "name": "WHAM! POW!",
-          "description": "Kill a Bat Piñata",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "STUBBORN_GIVER": {
           "points": 10,
           "name": "Stubborn Gifter",
@@ -11082,24 +10729,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "DOJO_MASTER": {
-          "points": 5,
-          "name": "Dojo Master",
-          "description": "Reach the highest rank in any of the Dojo challenges",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "PRECIOUS_MINERALS": {
           "points": 5,
           "name": "Precious Minerals",
           "description": "Wear a full set of Emerald Armor",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "INTO_THE_DEEP": {
-          "points": 5,
-          "name": "Into the Deep",
-          "description": "Reach the obsidian sanctuary in the Deep Caverns",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11131,13 +10764,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LAPIDARIST": {
-          "points": 15,
-          "name": "Lapidarist",
-          "description": "Forge a perfect Gemstone",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "COMPOST_COLLECTOR": {
           "points": 5,
           "name": "Compost Collector",
@@ -11145,45 +10771,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SPIKY": {
-          "points": 5,
-          "name": "Spiky",
-          "description": "Craft a Thorns 3 book",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DOJO_GRAND_MASTER": {
           "points": 10,
           "name": "Dojo Grand Master",
           "description": "Obtain the Black Belt from Master Tao in the Dojo",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SHINING_SCALES": {
-          "points": 5,
-          "name": "Shining Scales",
-          "description": "Fish up a gold tier Trophy Fish",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SPEED_OF_LIGHT": {
-          "points": 5,
-          "name": "At the speed of light",
-          "description": "[Coop or you] Use Crystal Fuel",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HIGHER_ENCHANTS": {
-          "points": 10,
-          "name": "Higher Enchants",
-          "description": "Obtain a level 6 enchantment book",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "THREE_BIRDS_ONE_ARROW": {
-          "points": 5,
-          "name": "Three Birds, One Arrow",
-          "description": "Kill 3 monsters with one shot from the Runaan's Bow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11215,20 +10806,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "HUMBLE_BEGINNINGS": {
+        "SNAKE_CHARMER": {
           "points": 5,
-          "name": "Humble Beginnings",
-          "description": "Catch all 18 types of Trophy Fish.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "I_KNEW_IT": {
-          "points": 10,
-          "name": "I knew it!",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Snake Charmer",
+          "description": "Mine a Living Metal Snake in the Rift."
         },
         "ROUGH_DEAL": {
           "points": 5,
@@ -11237,31 +10818,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "DO_YOU_EVEN_VOODOO": {
-          "points": 10,
-          "name": "Do you even Voodoo?",
-          "description": "Kill a mob with the Voodoo Doll ability",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PUT_SPELL": {
-          "points": 10,
-          "name": "Gonna Put a Spell on You",
-          "description": "Use the Hex for the first time.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "SUPER_FUEL": {
           "points": 5,
           "name": "Super Fuel",
           "description": "[Coop or you] Upgrade a minion with the Enchanted Lava Bucket",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "QUEST_COMPLETE": {
-          "points": 5,
-          "name": "Quest complete!",
-          "description": "Complete the Villager Quest",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11281,12 +10841,673 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "IT_WORKED": {
+          "points": 5,
+          "name": "It worked?!",
+          "description": "Retrieve a Rift-Transferrable item in the overworld."
+        },
         "FRIEND_FOR_LIFE": {
           "points": 20,
           "name": "Friend for Life",
           "description": "Level up a pet to 100",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "TIME_TO_GO_ON_VACATION": {
+          "points": 5,
+          "name": "Time to go on vacation",
+          "description": "[Coop or you] Upgrade a minion with the Super Compactor 3000",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ARCADIA": {
+          "points": 5,
+          "name": "Arcadia",
+          "description": "[Coop or you] Place 5 unique Islands on your private world",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SMELLS_BETTER": {
+          "points": 5,
+          "name": "Smells Better",
+          "description": "Wash off the King’s Scent using water",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LIFELONG_CONTRACT": {
+          "points": 15,
+          "name": "Lifelong Contract",
+          "description": "Obtain the Seal of the Family",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DEATH_FROM_ABOVE": {
+          "points": 5,
+          "name": "Death From Above",
+          "description": "Kill a mob using the damage from the leaping sword ability",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THIS_IS_THE_WAY": {
+          "points": 5,
+          "name": "This is the Way",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DEEP_STORAGE": {
+          "points": 5,
+          "name": "Deep Storage",
+          "description": "Gain an extra Ender Chest page from Elizabeth",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "KING_OF_THE_SEA": {
+          "points": 5,
+          "name": "King Of The Sea",
+          "description": "Wear the Guardian Chestplate",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "GOTTA_GO_FAST": {
+          "points": 15,
+          "name": "Gotta go fast!",
+          "description": "Craft a Speed Artifact",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TRUE_ADVENTURER": {
+          "points": 10,
+          "name": "True Adventurer",
+          "description": "Reach Catacombs level 40",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "OH_SHINY": {
+          "points": 5,
+          "name": "Oh Shiny",
+          "description": "Mine a Glowing Block on the End Island",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BUSINESSMAN": {
+          "points": 5,
+          "name": "Businessman",
+          "description": "Complete a trade with another player",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DIVERSE_DESTRUCTION": {
+          "points": 15,
+          "name": "The Crux of it All",
+          "description": "Max out all milestones on a Crux Chronomicon."
+        },
+        "SUITED_UP": {
+          "points": 5,
+          "name": "Suited Up",
+          "description": "Wear all forms of equipment at the same time",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "GOTTAGOFAST": {
+          "points": 5,
+          "name": "Gottagofast",
+          "description": "Wear the full Speedster Armor",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "EXISTENTIAL_REVELATIONS": {
+          "points": 5,
+          "name": "Existential Revelations",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "IT_NEVER_ENDS": {
+          "points": 5,
+          "name": "It Never Ends",
+          "description": "Kill a zombie using the zombie sword",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HAPPY_HOLIDAYS": {
+          "points": 5,
+          "name": "Happy Holidays",
+          "description": "Collect all 20 White Gifts on the Jerry Island",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HIGHER_THAN_A_RABBIT": {
+          "points": 5,
+          "name": "Higher Than a Rabbit",
+          "description": "Wear the Spider's Boots",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BALROG_MEMORIES": {
+          "points": 15,
+          "name": "Memories of a Bal",
+          "description": "Wear a full set of Divan's Armor.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THE_ITSY_BITSY_SPIDER": {
+          "points": 5,
+          "name": "The Itsy Bitsy Spider",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "EXPLOSIVE_ENDING": {
+          "points": 5,
+          "name": "Explosive Ending",
+          "description": "Survive the Blast from the Unstable Dragon",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "CLEANUP_CREW": {
+          "points": 5,
+          "name": "Cleanup Crew",
+          "description": "Finish clearing a plot in The Garden.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SADDLE_UP": {
+          "points": 5,
+          "name": "Saddle Up!",
+          "description": "[Coop or you] Craft a saddle",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "A_GOOD_SPIDER_IS_A_DEAD_SPIDER": {
+          "points": 10,
+          "name": "A good spider is a dead spider",
+          "description": "Kill the Broodmother",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WATER_SWORD": {
+          "points": 5,
+          "name": "Water Blade",
+          "description": "Kill a squid using the Prismarine Blade",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "EMPTY_FLOWER_POT": {
+          "points": 5,
+          "name": "Empty Flower Pot?",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SAFETY_FIRST": {
+          "points": 5,
+          "name": "Safety First",
+          "description": "Obtain Stonk",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WORTH_IT": {
+          "points": 10,
+          "name": "Worth it",
+          "description": "Spend more than 200 levels on a single Sword enchantment",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PRODUCTION_EXPANDED": {
+          "points": 5,
+          "name": "Production Expanded",
+          "description": "[Coop or you] Unlock a new minion slot",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "NEXT_GENERATION": {
+          "points": 5,
+          "name": "The Next Generation",
+          "description": "Find a Golden Goblin by throwing a Goblin Egg.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ALWAYS_SUNNY_IN_SB": {
+          "points": 10,
+          "name": "Always Sunny in SkyBlock",
+          "description": "Place a Day Saver in The Garden.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "RESPONSIBLE_PET_OWNER": {
+          "points": 5,
+          "name": "Responsible Pet Owner",
+          "description": "???",
+          "secret": true
+        },
+        "ROYAL_MEETING": {
+          "points": 5,
+          "name": "A Royal Meeting",
+          "description": "Obtain the King's Talisman.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "FLAMIN_HOT": {
+          "points": 5,
+          "name": "Flamin Hot",
+          "description": "Consume 200 Magma Creams using the Magma Bow",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SHRIMP": {
+          "points": 5,
+          "name": "Shrimp!?!",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WELCOME_TO_MY_FACTORY": {
+          "points": 5,
+          "name": "Welcome to my Factory",
+          "description": "[Coop or you] Place a Farm Crystal",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "IM_NOT_DEAD": {
+          "points": 5,
+          "name": "I'm Not Dead!",
+          "description": "Enter the Rift."
+        },
+        "ACCESSORIES_GALORE": {
+          "points": 5,
+          "name": "Accessories Galore",
+          "description": "[Coop or you] Unlock the Greater Talisman Bag upgrade",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WONDERFUL_TREASURES": {
+          "points": 10,
+          "name": "Wonderful Treasures",
+          "description": "Open an Obsidian Chest",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ETERNAL_FLAME_RING": {
+          "points": 10,
+          "name": "The Ring",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THE_REAL_ZOO_SHADY": {
+          "points": 20,
+          "name": "The Real Zoo Shady",
+          "description": "Have 20 different pets in your pet menu",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "NOT_WORTH_IT_BRO": {
+          "points": 5,
+          "name": "Not Worth It, Bro",
+          "description": "Have Wizardman decide not to help you."
+        },
+        "ANIMAL_FISHING": {
+          "points": 5,
+          "name": "Animal Fishing",
+          "description": "Fish using the Farmer's Rod",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "NO_OTHER_CHOICE": {
+          "points": 10,
+          "name": "No Other Choice",
+          "description": "Solve the reverse murder case in the Rift."
+        },
+        "FLAWLESS": {
+          "points": 10,
+          "name": "Flawless",
+          "description": "Beat a dungeon without anyone dying.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SERIOUSLY": {
+          "points": 10,
+          "name": "Seriously?",
+          "description": "Put a Wood Singularity on an Aspect of the Jerry",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TWO_OUT_OF_NINE": {
+          "points": 5,
+          "name": "Two/Nine",
+          "description": "Find two pieces of Montezuma's Soul."
+        },
+        "AGILE": {
+          "points": 5,
+          "name": "Agile",
+          "description": "Drink an Agility potion",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HEART_OF_THE_END": {
+          "points": 5,
+          "name": "Heart of the End",
+          "description": "Reach the Dragon's Nest in the End",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SECRET_END_PLACE": {
+          "points": 10,
+          "name": "What is this place...",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SEE_YA_LATER": {
+          "points": 10,
+          "name": "See ya later!",
+          "description": "Fully repair Reed's Boat in the Rift."
+        },
+        "STORAGE_FOREVER": {
+          "points": 10,
+          "name": "Storage Forever",
+          "description": "Craft a Greater Backpack",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HELPFUL_HAND": {
+          "points": 5,
+          "name": "Helpful Hand",
+          "description": "Give Fetchur the item he asks for.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "STILL_SAD": {
+          "points": 15,
+          "name": "Still Sad",
+          "description": "Talk to Sad Jacquelle after finding all 9 pieces of Montezuma's soul."
+        },
+        "HSSSSS": {
+          "points": 5,
+          "name": "Hsssss",
+          "description": "Wear the Creeper Pants",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SECOND_CHANCE": {
+          "points": 5,
+          "name": "Second Chance",
+          "description": "Consume the Saving Grace",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SMELL_LIKE_ROSES": {
+          "points": 5,
+          "name": "Smell like roses",
+          "description": "Take down an Endstone Protector",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TIME_TO_START_FISHING": {
+          "points": 5,
+          "name": "Time To Start Fishing",
+          "description": "[Coop or you] Place the Pond Island",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THOUGH_CHOICE": {
+          "points": 5,
+          "name": "Tough Choice",
+          "description": "Apply an Ultimate Enchantment on an item",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "YUCKY": {
+          "points": 10,
+          "name": "Yucky!",
+          "description": "Slay the Leech Supreme in the Rift."
+        },
+        "RESOURCEFUL": {
+          "points": 5,
+          "name": "Resourceful",
+          "description": "Give Rhys the materials to enter the Dwarven Mines.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MULTIDIMENSIONAL_SLAYER": {
+          "points": 15,
+          "name": "Multi-Dimensional Slayer",
+          "description": "Defeat a T5 Riftstalker Bloodfiend."
+        },
+        "INDIANA_BONES": {
+          "points": 10,
+          "name": "Indiana Bones",
+          "description": "Find 10 secrets in a single Dungeon run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DRAGON_SLAYER": {
+          "points": 5,
+          "name": "Dragon Slayer",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PEAK_OF_THE_MOUNTAIN": {
+          "points": 15,
+          "name": "Peak of the Mountain",
+          "description": "Reach tier V of the Heart of the Mountain.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TRUE_ALCHEMIST": {
+          "points": 5,
+          "name": "True Alchemist",
+          "description": "Obtain the Potion Affinity Artifact",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "A_FACE_TO_REMEMBER": {
+          "points": 5,
+          "name": "A Face to Remember",
+          "description": "Obtain Seraphine's old face in the Rift."
+        },
+        "HES_BAC": {
+          "points": 10,
+          "name": "He's Bac!",
+          "description": "Kill Bacte in the Rift."
+        },
+        "THE_FLINT_BROS": {
+          "points": 5,
+          "name": "The Flint Bros!",
+          "description": "Find both Pat and Rick",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "GERONIMO": {
+          "points": 5,
+          "name": "Geronimo!",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MEAL_FIT_FOR_A_KING": {
+          "points": 5,
+          "name": "Meal fit for a King",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_ROD": {
+          "points": 5,
+          "name": "Legendary Rod",
+          "description": "Fish using the Rod of Legends",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "NIGHT_EYES": {
+          "points": 5,
+          "name": "Night Eyes",
+          "description": "Obtain the Night Vision charm",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "VANQUISHED": {
+          "points": 5,
+          "name": "Vanquished",
+          "description": "Kill a Vanquisher",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BLAZE_WRANGLER": {
+          "points": 5,
+          "name": "Blaze Wrangler",
+          "description": "Grapple 5 blazes at once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THE_ONE_BOTTLE": {
+          "points": 5,
+          "name": "The One Bottle",
+          "description": "Craft a Titanic experience bottle",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ABSORB_IT_ALL": {
+          "points": 10,
+          "name": "Absorb it all!",
+          "description": "Wear a full set of Sponge or Shark Scale Armor",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "RING_RING_WHOS_THIS": {
+          "points": 5,
+          "name": "Ring Ring... Who’s this?",
+          "description": "Buy an Abiphone",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "I_BELIEVE_I_CAN_FLY": {
+          "points": 5,
+          "name": "I believe I can fly!",
+          "description": "Wear a full set of Bat Person Armor",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BAT_PINATA": {
+          "points": 5,
+          "name": "WHAM! POW!",
+          "description": "Kill a Bat Piñata",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DOJO_MASTER": {
+          "points": 5,
+          "name": "Dojo Master",
+          "description": "Reach the highest rank in any of the Dojo challenges",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "INTO_THE_DEEP": {
+          "points": 5,
+          "name": "Into the Deep",
+          "description": "Reach the obsidian sanctuary in the Deep Caverns",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LAPIDARIST": {
+          "points": 15,
+          "name": "Lapidarist",
+          "description": "Forge a perfect Gemstone",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPIKY": {
+          "points": 5,
+          "name": "Spiky",
+          "description": "Craft a Thorns 3 book",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SHINING_SCALES": {
+          "points": 5,
+          "name": "Shining Scales",
+          "description": "Fish up a gold tier Trophy Fish",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPEED_OF_LIGHT": {
+          "points": 5,
+          "name": "At the speed of light",
+          "description": "[Coop or you] Use Crystal Fuel",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SWAYING_THE_VOTE": {
+          "points": 10,
+          "name": "Swaying the Vote",
+          "description": "Appease all of Barry's protestors in the Rift."
+        },
+        "HIGHER_ENCHANTS": {
+          "points": 10,
+          "name": "Higher Enchants",
+          "description": "Obtain a level 6 enchantment book",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THREE_BIRDS_ONE_ARROW": {
+          "points": 5,
+          "name": "Three Birds, One Arrow",
+          "description": "Kill 3 monsters with one shot from the Runaan's Bow",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HUMBLE_BEGINNINGS": {
+          "points": 5,
+          "name": "Humble Beginnings",
+          "description": "Catch all 18 types of Trophy Fish.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "I_KNEW_IT": {
+          "points": 10,
+          "name": "I knew it!",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DO_YOU_EVEN_VOODOO": {
+          "points": 10,
+          "name": "Do you even Voodoo?",
+          "description": "Kill a mob with the Voodoo Doll ability",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PUT_SPELL": {
+          "points": 10,
+          "name": "Gonna Put a Spell on You",
+          "description": "Use the Hex for the first time.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "QUEST_COMPLETE": {
+          "points": 5,
+          "name": "Quest complete!",
+          "description": "Complete the Villager Quest",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BUZZKILL": {
+          "points": 10,
+          "name": "Buzzkill",
+          "description": "Unlock all of Neuroscientist Kat's rewards in the Rift."
         },
         "FRIAR_LAWRENCE": {
           "points": 25,
@@ -11331,6 +11552,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "LONG_WAY_DOWN": {
+          "points": 10,
+          "name": "Long Way Down...",
+          "description": "Claim the Enigma soul at the top of the Beanstalk in the Rift."
+        },
         "BIG_GAME_FISHER": {
           "points": 15,
           "name": "Big Game Fisher",
@@ -11352,32 +11578,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "TIME_TO_GO_ON_VACATION": {
-          "points": 5,
-          "name": "Time to go on vacation",
-          "description": "[Coop or you] Upgrade a minion with the Super Compactor 3000",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "SIRIUS_BUSINESS": {
           "points": 10,
           "name": "Sirius Business",
           "description": "???",
           "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ARCADIA": {
-          "points": 5,
-          "name": "Arcadia",
-          "description": "[Coop or you] Place 5 unique Islands on your private world",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SMELLS_BETTER": {
-          "points": 5,
-          "name": "Smells Better",
-          "description": "Wash off the King’s Scent using water",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11423,39 +11628,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LIFELONG_CONTRACT": {
-          "points": 15,
-          "name": "Lifelong Contract",
-          "description": "Obtain the Seal of the Family",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "DEATH_FROM_ABOVE": {
-          "points": 5,
-          "name": "Death From Above",
-          "description": "Kill a mob using the damage from the leaping sword ability",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "THIS_IS_THE_WAY": {
-          "points": 5,
-          "name": "This is the Way",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DUNGEON_EXPLORER": {
           "points": 10,
           "name": "Dungeon Explorer",
           "description": "Get a score on exploration of 95 or more in a dungeon..",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "DEEP_STORAGE": {
-          "points": 5,
-          "name": "Deep Storage",
-          "description": "Gain an extra Ender Chest page from Elizabeth",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11480,40 +11656,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "KING_OF_THE_SEA": {
-          "points": 5,
-          "name": "King Of The Sea",
-          "description": "Wear the Guardian Chestplate",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "GOTTA_GO_FAST": {
-          "points": 15,
-          "name": "Gotta go fast!",
-          "description": "Craft a Speed Artifact",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TRUE_ADVENTURER": {
+        "END_CREDITS": {
           "points": 10,
-          "name": "True Adventurer",
-          "description": "Reach Catacombs level 40",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "OH_SHINY": {
-          "points": 5,
-          "name": "Oh Shiny",
-          "description": "Mine a Glowing Block on the End Island",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BUSINESSMAN": {
-          "points": 5,
-          "name": "Businessman",
-          "description": "Complete a trade with another player",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "End Credits",
+          "description": "???",
+          "secret": true
         },
         "DULLAHAN": {
           "points": 5,
@@ -11543,20 +11690,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SUITED_UP": {
-          "points": 5,
-          "name": "Suited Up",
-          "description": "Wear all forms of equipment at the same time",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "GOTTAGOFAST": {
-          "points": 5,
-          "name": "Gottagofast",
-          "description": "Wear the full Speedster Armor",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "SOUL_HUNTER": {
           "points": 10,
           "name": "Soul Hunter",
@@ -11564,41 +11697,20 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "EXISTENTIAL_REVELATIONS": {
+        "EYE_FOR_AN_I": {
           "points": 5,
-          "name": "Existential Revelations",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Eye for an I",
+          "description": "Calm The Bankster in the Rift."
         },
-        "IT_NEVER_ENDS": {
+        "LONG_WAY_GONE": {
           "points": 5,
-          "name": "It Never Ends",
-          "description": "Kill a zombie using the zombie sword",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Long Way Gone",
+          "description": "Secure a Timecharm in the Rift Gallery"
         },
-        "HAPPY_HOLIDAYS": {
+        "SIX_STAR_MEAL": {
           "points": 5,
-          "name": "Happy Holidays",
-          "description": "Collect all 20 White Gifts on the Jerry Island",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HIGHER_THAN_A_RABBIT": {
-          "points": 5,
-          "name": "Higher Than a Rabbit",
-          "description": "Wear the Spider's Boots",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BALROG_MEMORIES": {
-          "points": 15,
-          "name": "Memories of a Bal",
-          "description": "Wear a full set of Divan's Armor.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Six-star Meal",
+          "description": "Consume a McGrubber's Burger."
         },
         "YOUR_BIG_BREAK": {
           "points": 5,
@@ -12261,7 +12373,7 @@
           ]
         }
       },
-      "total_points": 2645,
+      "total_points": 2835,
       "total_legacy_points": 0
     },
     "skyclash": {

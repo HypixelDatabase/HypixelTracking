@@ -1206,7 +1206,8 @@
           "kills_master_crypt_witherskeleton_120": 0,
           "kills_master_skeleton_master_128": 0,
           "kills_master_super_archer_120": 0,
-          "kills_master_zombie_soldier_123": 0
+          "kills_master_zombie_soldier_123": 0,
+          "kills_howling_spirit_35": 0
         },
         "objectives": {
           "collect_log": {
@@ -4824,7 +4825,8 @@
           "bag_xp_recheck1",
           "skyblockxp_2",
           "skyblockxp_3",
-          "skyblockxp_4"
+          "skyblockxp_4",
+          "recalc_pet_xp_1"
         ],
         "quests": {
           "collect_log": {
@@ -5457,7 +5459,8 @@
           "photon_path",
           "rift_castle",
           "rift_castle_fairy_tower",
-          "rift_castle_jail"
+          "rift_castle_jail",
+          "weaponsmith"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -12129,7 +12132,8 @@
             "consumed_prism": true,
             "pass": {
               "issued_at": 0,
-              "rift_server_joins": 0
+              "rift_server_joins": 0,
+              "used_prism": true
             }
           },
           "slayer_quest": {

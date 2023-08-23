@@ -8131,7 +8131,9 @@
               "king_quest_active": true,
               "king_quests_completed": 0
             },
-            "jungle": {}
+            "jungle": {
+              "jungle_temple_open": true
+            }
           },
           "powder_gemstone": 0,
           "powder_gemstone_total": 0,

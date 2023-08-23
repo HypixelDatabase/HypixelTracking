@@ -11882,7 +11882,8 @@
                 "completed_quest": true
               },
               "kaus": {
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "suus": {
                 "last_call": 0
@@ -11914,7 +11915,8 @@
               "oringo": {
                 "talked_to": true,
                 "completed_quest": true,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "trinity": {
                 "talked_to": true,

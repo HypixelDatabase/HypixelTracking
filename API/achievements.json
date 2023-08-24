@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1692711845745,
+  "lastUpdated": 1692890945741,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10437,7 +10437,9 @@
         "INNER_MACHINATIONS": {
           "points": 15,
           "name": "Inner Machinations",
-          "description": "Max out the Enigma Cloak (including extra upgrades)."
+          "description": "Max out the Enigma Cloak (including extra upgrades).",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SCAM": {
           "points": 5,
@@ -10809,7 +10811,9 @@
         "SNAKE_CHARMER": {
           "points": 5,
           "name": "Snake Charmer",
-          "description": "Mine a Living Metal Snake in the Rift."
+          "description": "Mine a Living Metal Snake in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ROUGH_DEAL": {
           "points": 5,
@@ -10844,7 +10848,9 @@
         "IT_WORKED": {
           "points": 5,
           "name": "It worked?!",
-          "description": "Retrieve a Rift-Transferrable item in the overworld."
+          "description": "Retrieve a Rift-Transferrable item in the overworld.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FRIEND_FOR_LIFE": {
           "points": 20,
@@ -10941,7 +10947,9 @@
         "DIVERSE_DESTRUCTION": {
           "points": 15,
           "name": "The Crux of it All",
-          "description": "Max out all milestones on a Crux Chronomicon."
+          "description": "Max out all milestones on a Crux Chronomicon.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SUITED_UP": {
           "points": 5,
@@ -11083,7 +11091,9 @@
           "points": 5,
           "name": "Responsible Pet Owner",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ROYAL_MEETING": {
           "points": 5,
@@ -11117,7 +11127,9 @@
         "IM_NOT_DEAD": {
           "points": 5,
           "name": "I'm Not Dead!",
-          "description": "Enter the Rift."
+          "description": "Enter the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ACCESSORIES_GALORE": {
           "points": 5,
@@ -11151,7 +11163,9 @@
         "NOT_WORTH_IT_BRO": {
           "points": 5,
           "name": "Not Worth It, Bro",
-          "description": "Have Wizardman decide not to help you."
+          "description": "Have Wizardman decide not to help you.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ANIMAL_FISHING": {
           "points": 5,
@@ -11163,7 +11177,9 @@
         "NO_OTHER_CHOICE": {
           "points": 10,
           "name": "No Other Choice",
-          "description": "Solve the reverse murder case in the Rift."
+          "description": "Solve the reverse murder case in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FLAWLESS": {
           "points": 10,
@@ -11182,7 +11198,9 @@
         "TWO_OUT_OF_NINE": {
           "points": 5,
           "name": "Two/Nine",
-          "description": "Find two pieces of Montezuma's Soul."
+          "description": "Find two pieces of Montezuma's Soul.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "AGILE": {
           "points": 5,
@@ -11209,7 +11227,9 @@
         "SEE_YA_LATER": {
           "points": 10,
           "name": "See ya later!",
-          "description": "Fully repair Reed's Boat in the Rift."
+          "description": "Fully repair Reed's Boat in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "STORAGE_FOREVER": {
           "points": 10,
@@ -11228,7 +11248,9 @@
         "STILL_SAD": {
           "points": 15,
           "name": "Still Sad",
-          "description": "Talk to Sad Jacquelle after finding all 9 pieces of Montezuma's soul."
+          "description": "Talk to Sad Jacquelle after finding all 9 pieces of Montezuma's soul.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HSSSSS": {
           "points": 5,
@@ -11268,7 +11290,9 @@
         "YUCKY": {
           "points": 10,
           "name": "Yucky!",
-          "description": "Slay the Leech Supreme in the Rift."
+          "description": "Slay the Leech Supreme in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "RESOURCEFUL": {
           "points": 5,
@@ -11280,7 +11304,9 @@
         "MULTIDIMENSIONAL_SLAYER": {
           "points": 15,
           "name": "Multi-Dimensional Slayer",
-          "description": "Defeat a T5 Riftstalker Bloodfiend."
+          "description": "Defeat a T5 Riftstalker Bloodfiend.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "INDIANA_BONES": {
           "points": 10,
@@ -11314,12 +11340,16 @@
         "A_FACE_TO_REMEMBER": {
           "points": 5,
           "name": "A Face to Remember",
-          "description": "Obtain Seraphine's old face in the Rift."
+          "description": "Obtain Seraphine's old face in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HES_BAC": {
           "points": 10,
           "name": "He's Bac!",
-          "description": "Kill Bacte in the Rift."
+          "description": "Kill Bacte in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THE_FLINT_BROS": {
           "points": 5,
@@ -11452,7 +11482,9 @@
         "SWAYING_THE_VOTE": {
           "points": 10,
           "name": "Swaying the Vote",
-          "description": "Appease all of Barry's protestors in the Rift."
+          "description": "Appease all of Barry's protestors in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HIGHER_ENCHANTS": {
           "points": 10,
@@ -11507,7 +11539,9 @@
         "BUZZKILL": {
           "points": 10,
           "name": "Buzzkill",
-          "description": "Unlock all of Neuroscientist Kat's rewards in the Rift."
+          "description": "Unlock all of Neuroscientist Kat's rewards in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FRIAR_LAWRENCE": {
           "points": 25,
@@ -11555,7 +11589,9 @@
         "LONG_WAY_DOWN": {
           "points": 10,
           "name": "Long Way Down...",
-          "description": "Claim the Enigma soul at the top of the Beanstalk in the Rift."
+          "description": "Claim the Enigma soul at the top of the Beanstalk in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BIG_GAME_FISHER": {
           "points": 15,
@@ -11660,7 +11696,9 @@
           "points": 10,
           "name": "End Credits",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DULLAHAN": {
           "points": 5,
@@ -11700,17 +11738,23 @@
         "EYE_FOR_AN_I": {
           "points": 5,
           "name": "Eye for an I",
-          "description": "Calm The Bankster in the Rift."
+          "description": "Calm The Bankster in the Rift.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LONG_WAY_GONE": {
           "points": 5,
           "name": "Long Way Gone",
-          "description": "Secure a Timecharm in the Rift Gallery"
+          "description": "Secure a Timecharm in the Rift Gallery",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SIX_STAR_MEAL": {
           "points": 5,
           "name": "Six-star Meal",
-          "description": "Consume a McGrubber's Burger."
+          "description": "Consume a McGrubber's Burger.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "YOUR_BIG_BREAK": {
           "points": 5,

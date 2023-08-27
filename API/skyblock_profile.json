@@ -12135,7 +12135,9 @@
             "barry_center": {
               "first_talk_to_barry": true,
               "convinced": [],
-              "received_reward": true
+              "received_reward": true,
+              "engaged": "",
+              "talked_with_barry": true
             },
             "cowboy": {
               "stage": 0,

@@ -1,7 +1,7 @@
 name: Post diff to Discord
 on:
   push:
-    branches: master
+    branches: ['master', 'test']
 jobs:
   post:
     runs-on: ubuntu-latest

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1692710761000,
+  "lastUpdated": 1693688789000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -12389,6 +12389,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjgwMzkwNTI0NSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0MGY5Mjk5NTA4Mzg3NjE4Y2ZhZDZkYjM1YzlmNmQ4MDdjNDkzMzdkMzMzZDZlYzNiMTNkOWU4N2QwZDQ4OGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Not-a-lie Century Cake",
+      "furniture": "EPOCH_CAKE_GRAY",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_GRAY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDQ2MzE4Mzk3NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVkOTI0M2M2MWUyYzNlMWUwZjk5MzE4NDNjYWRiZDBkZmY0YTY0NjIyNWVmNTRjNTU3OTc5Y2YzOWJiMjA1NyIKICAgIH0KICB9Cn0=",
       "name": "Streamer's Century Cake",
       "furniture": "EPOCH_CAKE_PURPLE",
@@ -12475,6 +12485,179 @@
       "tier": "UNCOMMON",
       "museum": true,
       "id": "EPOCH_CAKE_BROWN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjgwNDA3NTczNSwKICAicHJvZmlsZUlkIiA6ICIwYmM5ZDc3YmQ1YTA0NWMzOTY4MWUzYTRhNDIzODZlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRvcmlpaW5oYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzgzMGQyMzVjOWRlNzAzOTQ2ODY0YzI4MWY0MmY5ZDQ1NjQ3NjkxZWUzNTNmYmJiMDcyMjcxNzcwNmI4YmRhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Undead ༕ Century Cake",
+      "furniture": "EPOCH_CAKE_DARK_GREEN",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_DARK_GREEN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTY3NDM5MywKICAicHJvZmlsZUlkIiA6ICI4ZjE5NjJmYzE4NzY0MDU3ODYxMmIxMzNjODE4YmY5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW9uXzkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwYjc3ZWFhNmJjNGExODNhNjg4OGJhNTJkZjQ4NDE3YTZlMzg1YzNiNDYzYWM0OWI0MGEzYjk2ZTBhNWI3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Talisman of the Century",
+      "tier": "COMMON",
+      "category": "ACCESSORY",
+      "description": "What's better than a party? A party with free goodies!",
+      "id": "CENTURY_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTU2MjI4OCwKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU4YzA0Nzg3OGY1YzZjOTM1NDQwOTVmNzQ4Zjk2ZTdhZGU0NGZhZDU3NDM4MTQ4YTBhMWJiNTVlZWNlNjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of lemon cheesecake.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_YELLOW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTQyNjg1NywKICAicHJvZmlsZUlkIiA6ICJiMDU4MTFjYTdmNDk0YTM5OTZiNDU4ZjcwMmQ2MzJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVeWlsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjNWQxZWUyZjhiNTNhMDc5NDM2ZDk0ZDE3ZDBkMDhlZjU1NjNiY2JlZmRiYThlMmE0NTYxOTkzNjdjMTBmYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of red velvet.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_RED"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTYwMzkwMCwKICAicHJvZmlsZUlkIiA6ICIzYjA2ZTc3YzAzYTg0MGExOGIzOGY0Y2Q1ZWE0YzYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIT1JVU19JTyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNmEzNDg4ZDUwZDQ2NWNjM2UwZjliMGJkZDJlZTdmNTBlMTAwMmZlYzE0MGUwYTFhYjVmNGYxOGUxOTk3OWNiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of strawberry.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_PINK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTUxMzU3OCwKICAicHJvZmlsZUlkIiA6ICI4MTYyODhjZGZkZTg0YTIyOGRhMTBlNTI0MzA3MzQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXVKYWNoYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lOTU3MjhhMDVhY2U1NGVhMjdiZDQ2N2ZiNzEzMGYwMmZmMzk3YTI5MzY4Mjg0NjhhZWY4MDZjZGVlZmZkNGE1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of green lime.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_GREEN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTQ3OTAzMywKICAicHJvZmlsZUlkIiA6ICI2NDZhMmVhYzg2OWM0N2ZmYmYzZjRiMTc3Y2FhNDM0MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJwZW50U2FnZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDU2NTgwYTFjMTAzZjAwZTczZGM1MGE2OGIzNmJlZWJhNWI3NWQ3ZTUxOGZhNzg5MzJjMmQwMmVlNWQ5MjFkNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of blueberry.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_BLUE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI2NzdiNzk0NjYzYzkyNzNlZmM4NGY2Y2I0ZTJiMzM5MjUxZGU4NGU0NWUxZjAxZDNkNDk4MmZhN2MzZGQxNyJ9fX0=",
+      "name": "Boopfish Helmet",
+      "tier": "RARE",
+      "description": "It doesn't do anything... yet!",
+      "id": "BOOPFISH_HELMET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVkNzI3YjY5Y2EwZjBiMTZmNjU1MDQ3ZTQ4ZmIyYjRkZjEwYWE2NDA2NTExODI3NGQ0ZjlmOGM1YjA1NDQ5NiJ9fX0=",
+      "enchantments": {
+        "rainbow": 3
+      },
+      "name": "Enchanted Book Bundle",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "npc_sell_price": 10000,
+      "id": "ENCHANTED_BOOK_BUNDLE_RAINBOW"
+    },
+    {
+      "material": "WOOD_SWORD",
+      "name": "Aspect of the Jerry, Signature Edition",
+      "glowing": true,
+      "tier": "UNCOMMON",
+      "category": "SWORD",
+      "stats": {
+        "damage": 2
+      },
+      "enchantments": {
+        "sharpness": 10
+      },
+      "museum": true,
+      "id": "ASPECT_OF_THE_JERRY_SIGNATURE"
+    },
+    {
+      "material": "LADDER",
+      "name": "Necron's Ladder",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "NECRONS_LADDER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljMjhkYTAxZTAxMjg4MGVhY2MzYWIxZDM0ZDkxNDUzNTdkMmUyZDQ2ZDQyYWEzYjU5ZWRiOTFiMWY3YmQ2ZCJ9fX0=",
+      "name": "Cake Counter",
+      "furniture": "CAKE_COUNTER",
+      "tier": "EPIC",
+      "id": "CAKE_COUNTER"
+    },
+    {
+      "material": "IRON_PLATE",
+      "name": "Festive Frisbee",
+      "glowing": true,
+      "tier": "UNCOMMON",
+      "description": "Doesn't do anything... yet!",
+      "id": "FESTIVE_FRISBEE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjYwZDViYTJlZTY5MTMyNmFiMDJmZTBjNGY3OGQ4YzI2OWZhN2FlMjM4NWMwNDcwMzEzMTJjMjMwNzM2OWJjZiJ9fX0=",
+      "name": "Random Century Cake Bundle",
+      "glowing": true,
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "id": "RANDOM_CENTURY_CAKE_PACK"
+    },
+    {
+      "material": "RAW_FISH",
+      "durability": 2,
+      "name": "Century the Fish",
+      "tier": "SPECIAL",
+      "museum": true,
+      "id": "CENTURY_THE_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWExOGFmNjY1Zjg2NTJmMWJlM2FkY2I3ZDc2ZTZlZTY0MzlkMjBhZTAxOGU5ZWRjY2UzODk0YmY1MTM1MGVhZCJ9fX0=",
+      "name": "Fruit Bowl",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "FRUIT_BOWL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJkM2M5NWNkMDQ4NTkxN2YxNDljM2NiZTk2MDJjYTViNmIwMjYwY2I2ZTMwMzE1Mzg1M2FiOTM4ZTRhMDViYyJ9fX0=",
+      "name": "Complete Century Cake Bundle",
+      "glowing": true,
+      "tier": "MYTHIC",
+      "unstackable": true,
+      "id": "FULL_CENTURY_CAKE_PACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -17559,7 +17742,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUwZDEyNTVmNTk3MzZhZTBhNjk0ZWQ1YzkwMDljMWE3MTA3OTMzNTEwYmU0ZWZmYjJiMTUzMjk3ZjUzZjU5NyJ9fX0=",
       "enchantments": {
         "depth_strider": 1,
-        "respiration": 1,
+        "respiration": 4,
         "aqua_affinity": 1
       },
       "name": "Salmon Hat",
@@ -26055,7 +26238,7 @@
     },
     {
       "material": "BOW",
-      "name": "Machine Gun Bow",
+      "name": "Machine Gun Shortbow",
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,

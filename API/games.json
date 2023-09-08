@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1683416232042,
+  "lastUpdated": 1694211780149,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -80,6 +80,9 @@
       "id": 21
     },
     "WOOL_GAMES": {
+      "modeNames": {
+        "wool_wars_two_four_tourney": "4v4 (Tournament)"
+      },
       "databaseName": "WoolGames",
       "name": "Wool Wars",
       "id": 68

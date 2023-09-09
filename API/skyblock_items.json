@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1694121102000,
+  "lastUpdated": 1694264327000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -15453,6 +15453,21 @@
       "origin": "BINGO",
       "soulbound": "SOLO",
       "id": "BINGO_BLASTER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjgyMDI5MTY3NiwKICAicHJvZmlsZUlkIiA6ICJkZjRiYzNkNTA2MWM0YThkODk4M2FlNzU1MTgxZDVhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaWRpX0paIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjMzM3N2UwNGQ3YTI4ZTkzMDI1NzRhYjYwOWZiN2FjNGU3MmJkZWRhMTAxODlmM2U1NjBjZmE1ZjlmMTZlZmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "AⒷiphone",
+      "tier": "SPECIAL",
+      "soulbound": "SOLO",
+      "origin": "BINGO",
+      "item_specific": {
+        "max_contacts": 20,
+        "has_contact_directory": true,
+        "has_dnd": true
+      },
+      "id": "ABINGOPHONE"
     },
     {
       "material": "SKULL_ITEM",
@@ -40776,7 +40791,9 @@
       "id": "STARRED_SHADOW_ASSASSIN_BOOTS"
     },
     {
-      "material": "NETHER_STAR",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzIzODc5MSwKICAicHJvZmlsZUlkIiA6ICI4ZGUyNDAzYTEyMjU0ZmFkOTM1OTYxYWFlYmQwNGUyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdW5hbWkyNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNTFlNTJiMWRlOTdiNTM0MzU4YjUzY2QyYzljNDU1MjYwODZkMmE2ZjBlMGFlNjVlNGJhMmZmNWM2MjkwZWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Day Crystal",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -50842,7 +50859,9 @@
       "id": "LAMP_ORANGE"
     },
     {
-      "material": "NETHER_STAR",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzI3MTE0MywKICAicHJvZmlsZUlkIiA6ICJjMTc2MDkwNTQ1OGE0NDE5OGY5ODdmYTZjMzI5YjljMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb29kX05vcm1hbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YzQ2NTc4YWQ1OGU5NzZmYTA1NDc4NTEwODg5YTU4NzM1YTY3YzRkZDAyMmQzOThjMDRkNTY2NzZmMGRjMTcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Night Crystal",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -79409,6 +79428,14 @@
       "name": "Abiphone XIV Enormous",
       "tier": "LEGENDARY",
       "npc_sell_price": 180,
+      "item_specific": {
+        "max_contacts": 11,
+        "max_musicdiscs": 25,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIV_ENORMOUS"
     },
     {
@@ -79418,6 +79445,10 @@
       "name": "Abiphone XI Ultra",
       "tier": "UNCOMMON",
       "npc_sell_price": 120,
+      "item_specific": {
+        "max_contacts": 6,
+        "max_musicdiscs": 2
+      },
       "id": "ABIPHONE_XI_ULTRA"
     },
     {
@@ -79427,15 +79458,31 @@
       "name": "Abiphone XIII Pro Giga",
       "tier": "EPIC",
       "npc_sell_price": 170,
+      "item_specific": {
+        "max_contacts": 10,
+        "max_musicdiscs": 20,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIII_PRO_GIGA"
     },
     {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTE4NTEzMSwKICAicHJvZmlsZUlkIiA6ICJmNTgyNGRmNGIwMTU0MDA4OGRhMzUyYTQxODU1MDQ0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGb3hHYW1lcjUzOTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMyNDRhNGUzMDZmZDE0NzQwNWViYTZiZjY3MDIxZDUwYjgxNWQxMDdjYzE1ZDk3YjgwMmI3ODUyMTAwOTllNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Abiphone XIV Enormous",
+      "name": "Abiphone XIV Enormous Purple",
       "tier": "LEGENDARY",
       "npc_sell_price": 190,
+      "item_specific": {
+        "max_contacts": 11,
+        "max_musicdiscs": 25,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIV_ENORMOUS_PURPLE"
     },
     {
@@ -79445,15 +79492,26 @@
       "name": "Abiphone X Plus",
       "tier": "UNCOMMON",
       "npc_sell_price": 100,
+      "item_specific": {
+        "max_contacts": 5
+      },
       "id": "ABIPHONE_X_PLUS"
     },
     {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTIxNTk5NCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI1YWNhNjFlMWI4YmVjYTliZWZjYWRkMDgyNjJjNTgyMWUyNzViZTQxNGQ5NGYwYjI3ZTg1ODBmMjBkYmYzYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Abiphone XIV Enormous",
+      "name": "Abiphone XIV Enormous Black",
       "tier": "LEGENDARY",
       "npc_sell_price": 190,
+      "item_specific": {
+        "max_contacts": 11,
+        "max_musicdiscs": 25,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIV_ENORMOUS_BLACK"
     },
     {
@@ -79463,6 +79521,12 @@
       "name": "Abiphone XIII Pro",
       "tier": "EPIC",
       "npc_sell_price": 160,
+      "item_specific": {
+        "max_contacts": 8,
+        "max_musicdiscs": 10,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true
+      },
       "id": "ABIPHONE_XIII_PRO"
     },
     {
@@ -79472,6 +79536,12 @@
       "name": "Abiphone XII Mega Color",
       "tier": "EPIC",
       "npc_sell_price": 150,
+      "item_specific": {
+        "max_contacts": 7,
+        "max_musicdiscs": 4,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true
+      },
       "id": "ABIPHONE_XII_MEGA_COLOR"
     },
     {
@@ -79481,6 +79551,11 @@
       "name": "Abiphone XII Mega",
       "tier": "RARE",
       "npc_sell_price": 140,
+      "item_specific": {
+        "max_contacts": 7,
+        "max_musicdiscs": 4,
+        "has_contact_directory": true
+      },
       "id": "ABIPHONE_XII_MEGA"
     },
     {
@@ -79490,6 +79565,9 @@
       "name": "Abiphone X Plus Special Edition",
       "tier": "UNCOMMON",
       "npc_sell_price": 110,
+      "item_specific": {
+        "max_contacts": 5
+      },
       "id": "ABIPHONE_X_PLUS_SPECIAL_EDITION"
     },
     {
@@ -79499,6 +79577,11 @@
       "name": "Abiphone XI Ultra Style",
       "tier": "RARE",
       "npc_sell_price": 130,
+      "item_specific": {
+        "max_contacts": 6,
+        "max_musicdiscs": 2,
+        "has_contact_directory": true
+      },
       "id": "ABIPHONE_XI_ULTRA_STYLE"
     },
     {

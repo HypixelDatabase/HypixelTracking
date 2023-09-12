@@ -4226,6 +4226,46 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_redstone_miner": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "increase_lapis_coll_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "increase_redstone_coll_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_redstone_miner_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_redstone_miner_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_redstone_miner_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_redstone_miner_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_redstone_miner_6": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5267,6 +5307,13 @@
             "completed_at_sb": 0
           },
           "talk_to_sam_composter_2": {
+            "status": "",
+            "activated_at": 0,
+            "activated_at_sb": 0,
+            "completed_at": 0,
+            "completed_at_sb": 0
+          },
+          "talk_to_redstone_miner": {
             "status": "",
             "activated_at": 0,
             "activated_at_sb": 0,

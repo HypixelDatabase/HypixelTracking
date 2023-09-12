@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1694264327000,
+  "lastUpdated": 1694523659000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -190,6 +190,16 @@
       "id": "HELMET_OF_LIVE_RELOADING"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdkZTYzZDQwMWY4NWVlZDhhNWUwOGNmYTZjYjI5MGM0MGIxMWE3YzcyYjU3OWIyZjA2ZThiYjRhOGE3YzA5OSJ9fX0=",
+      "name": "Kuudra Washing Machine",
+      "tier": "SPECIAL",
+      "npc_sell_price": 1,
+      "unstackable": true,
+      "id": "KUUDRA_WASHING_MACHINE"
+    },
+    {
       "material": "IRON_SWORD",
       "name": "Arack",
       "category": "SWORD",
@@ -198,6 +208,7 @@
       "stats": {
         "damage": 90
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -227,6 +238,7 @@
         "defense": 30,
         "health": 45
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -249,6 +261,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -271,6 +284,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -293,6 +307,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -324,6 +339,7 @@
         "defense": 40,
         "health": 55
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -345,6 +361,7 @@
         "defense": 60,
         "health": 85
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -376,6 +393,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -397,6 +415,7 @@
         "defense": 50,
         "health": 75
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -8434,7 +8453,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Boots",
       "category": "BOOTS",
@@ -8502,7 +8520,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
       "name": "Adaptive Helmet",
       "category": "HELMET",
@@ -8570,7 +8587,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
       "name": "Adaptive Helmet",
       "category": "HELMET",
@@ -8637,7 +8653,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Chestplate",
       "category": "CHESTPLATE",
@@ -8704,7 +8719,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Leggings",
       "category": "LEGGINGS",
@@ -8771,7 +8785,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Chestplate",
       "category": "CHESTPLATE",
@@ -8838,7 +8851,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Leggings",
       "category": "LEGGINGS",
@@ -8905,7 +8917,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Boots",
       "category": "BOOTS",
@@ -14504,7 +14515,6 @@
     },
     {
       "material": "GOLD_BARDING",
-      "item_durability": -1,
       "name": "Jerry-chine Gun",
       "category": "SWORD",
       "tier": "EPIC",
@@ -15630,7 +15640,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Dark Auction Shack",
-          "description_name": "Sirius's Shack",
+          "description_name": "Sirius' Shack",
           "destination_mode": "hub",
           "location_tag": "sirius_shack",
           "schematic_file": "sb_portal_hub_da",
@@ -16246,6 +16256,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -16621,6 +16632,7 @@
         "SEA_CREATURE_CHANCE": 3
       },
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "requirements": [
         {
@@ -17141,7 +17153,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Boots",
       "category": "BOOTS",
@@ -17220,7 +17231,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Wither Chestplate",
       "category": "CHESTPLATE",
@@ -17416,6 +17426,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           52,
@@ -17564,7 +17575,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Astraea",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -17781,7 +17791,6 @@
     },
     {
       "material": "DIAMOND_SWORD",
-      "item_durability": -1,
       "name": "Shadow Fury",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -17892,6 +17901,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           42,
@@ -18544,7 +18554,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -18586,6 +18596,7 @@
       "category": "HELMET",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -18821,7 +18832,6 @@
     },
     {
       "material": "WHEAT",
-      "item_durability": -1,
       "name": "Staff of the Volcano",
       "category": "WAND",
       "tier": "RARE",
@@ -18839,6 +18849,7 @@
       ],
       "ability_damage_scaling": 0.3,
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -19115,7 +19126,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -19158,6 +19169,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           22,
@@ -19908,7 +19920,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -19987,6 +19999,7 @@
         "fishing_speed": 75
       },
       "npc_sell_price": 20000,
+      "rarity_salvageable": true,
       "requirements": [
         {
           "type": "SKILL",
@@ -20082,7 +20095,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -20143,7 +20156,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "191,191,191",
       "name": "Spirit Boots",
       "category": "BOOTS",
@@ -20206,7 +20218,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "231,110,60",
       "name": "Necron's Boots",
       "category": "BOOTS",
@@ -20643,7 +20654,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU0MzM0ODIwNiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkxMTI5NDA5Nzg5NTg5YWUxYjQzZTFkODI4YzA2ZmM5YTIxM2I3ODM0OGE2OGI3MzEzYmRkNDAxZDc0ODVjYyIKICAgIH0KICB9Cn0=",
       "name": "Wither Helmet",
       "category": "HELMET",
@@ -20766,7 +20776,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -20813,6 +20823,7 @@
         "STRENGTH": 5
       },
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "upgrade_costs": [
         [
           {
@@ -21093,7 +21104,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 17
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -21558,6 +21569,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           20,
@@ -21572,16 +21584,16 @@
           43
         ],
         "HEALTH": [
-          13,
-          14,
-          14,
-          16,
-          17,
-          19,
-          21,
           23,
           24,
-          26
+          24,
+          26,
+          27,
+          29,
+          31,
+          33,
+          34,
+          36
         ],
         "CRITICAL_DAMAGE": [
           15,
@@ -21651,6 +21663,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           38,
@@ -21788,6 +21801,7 @@
       "tier": "RARE",
       "ability_damage_scaling": 0.1,
       "npc_sell_price": 10000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -22083,6 +22097,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -22279,6 +22294,7 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           120,
@@ -22360,6 +22376,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           38,
@@ -22468,7 +22485,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "69,65,60",
       "name": "Goldor's Chestplate",
       "category": "CHESTPLATE",
@@ -22598,6 +22614,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           38,
@@ -22612,16 +22629,16 @@
           80
         ],
         "HEALTH": [
-          23,
-          26,
-          28,
-          31,
           33,
           36,
-          40,
-          42,
+          38,
+          41,
+          43,
           46,
-          50
+          50,
+          52,
+          56,
+          60
         ],
         "CRITICAL_DAMAGE": [
           15,
@@ -22794,7 +22811,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -22896,6 +22913,7 @@
       "category": "SWORD",
       "tier": "RARE",
       "npc_sell_price": 2000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           68,
@@ -23128,7 +23146,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -23244,6 +23262,7 @@
         }
       ],
       "npc_sell_price": 25000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -23496,7 +23515,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -23615,6 +23634,7 @@
       "category": "SWORD",
       "tier": "RARE",
       "npc_sell_price": 20000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           85,
@@ -23848,6 +23868,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           40,
@@ -24679,7 +24700,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Wither Cloak Sword",
       "category": "SWORD",
       "tier": "EPIC",
@@ -24843,7 +24863,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -24924,6 +24944,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -25112,7 +25133,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -25154,6 +25175,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -25413,6 +25435,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           26,
@@ -25691,6 +25714,14 @@
       "id": "BAT_FIREWORK"
     },
     {
+      "material": "RED_ROSE",
+      "durability": 1,
+      "name": "Fel Rose",
+      "tier": "EPIC",
+      "dungeon_item": true,
+      "id": "FEL_ROSE"
+    },
+    {
       "material": "PACKED_ICE",
       "name": "Enchanted Packed Ice",
       "glowing": true,
@@ -25704,6 +25735,7 @@
       "category": "BOW",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           109,
@@ -25891,7 +25923,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -26130,7 +26162,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzMwNDc1OCwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RiZmIwZWQ1OTU5MTkwZDQxNWU3MjZhMTVmMjk4NDAwN2E2N2E1ZmQ0ZWE1NjcxZDBkNjc2ZjlmNjQxYjViYWMiCiAgICB9CiAgfQp9",
       "name": "Maxor's Helmet",
       "category": "HELMET",
@@ -26257,6 +26288,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           75,
@@ -27181,6 +27213,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           36,
@@ -27515,6 +27548,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           71,
@@ -27755,7 +27789,6 @@
     },
     {
       "material": "BONE",
-      "item_durability": -1,
       "name": "Bonemerang",
       "glowing": true,
       "category": "BOW",
@@ -28282,7 +28315,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -28633,6 +28666,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           33,
@@ -28964,9 +28998,9 @@
       "gear_score": 20,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -29026,6 +29060,7 @@
           "level": 24
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -29266,7 +29301,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "231,65,60",
       "name": "Necron's Chestplate",
       "category": "CHESTPLATE",
@@ -29399,6 +29433,7 @@
           "level": 24
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -29900,7 +29935,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Necromancer Sword",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -30167,7 +30201,6 @@
     {
       "material": "RED_ROSE",
       "durability": 2,
-      "item_durability": -1,
       "name": "Spirit Sceptre",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -30430,7 +30463,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Fire Fury Staff",
       "category": "SWORD",
       "tier": "EPIC",
@@ -30943,7 +30975,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -31068,7 +31100,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -31118,6 +31150,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           48,
@@ -31273,6 +31306,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           35,
@@ -31619,7 +31653,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "101,96,90",
       "name": "Goldor's Leggings",
       "category": "LEGGINGS",
@@ -31730,7 +31763,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Wither Boots",
       "category": "BOOTS",
@@ -32536,7 +32568,6 @@
     },
     {
       "material": "DIAMOND_SWORD",
-      "item_durability": -1,
       "name": "Shadow Fury",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -32857,7 +32888,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Stun Bow",
       "category": "BOW",
       "tier": "UNCOMMON",
@@ -33440,6 +33470,7 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           105,
@@ -33585,6 +33616,7 @@
       "category": "HELMET",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           70,
@@ -33955,7 +33987,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -33995,7 +34027,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Adaptive Blade",
       "category": "SWORD",
       "tier": "EPIC",
@@ -34312,6 +34343,7 @@
           "level": 24
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -34941,7 +34973,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzIwODgzNSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNDkyM2UyOGExODdmZTZhZjIyNzhiNzM5NGVmMjUzYTk2MzMxZmEyZGMwNzMxODc5Yzc4MGJmZWUyNDQyMjhhIgogICAgfQogIH0KfQ",
       "name": "Goldor's Helmet",
       "category": "HELMET",
@@ -35337,9 +35368,9 @@
       "gear_score": 40,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -35347,7 +35378,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "137,105,200",
       "name": "Maxor's Boots",
       "category": "BOOTS",
@@ -35502,7 +35532,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUyZjkyNjk0YWQ4MWU2MzU4YjQzMDcyYWFlZjI1ZjhlMDA5OTE4NGJiNGM3ZmQzODhlNGFkZjcwYWNjN2UwZiJ9fX0",
       "name": "Necromancer Lord Helmet",
       "category": "HELMET",
@@ -35829,7 +35858,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Spirit Sword",
       "category": "SWORD",
       "tier": "EPIC",
@@ -36399,7 +36427,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Fel Sword",
       "category": "SWORD",
       "tier": "EPIC",
@@ -36759,7 +36786,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -36954,7 +36981,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -37324,6 +37351,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           17,
@@ -37636,6 +37664,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           20,
@@ -37777,6 +37806,7 @@
           "level": 24
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -38132,7 +38162,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "28,212,228",
       "name": "Storm's Boots",
       "category": "BOOTS",
@@ -38255,7 +38284,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Leggings",
       "category": "LEGGINGS",
@@ -38411,6 +38439,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -38726,7 +38755,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "74,20,183",
       "name": "Maxor's Chestplate",
       "category": "CHESTPLATE",
@@ -38916,7 +38944,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -39614,9 +39642,9 @@
       "gear_score": 30,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -39746,6 +39774,7 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           110,
@@ -39850,6 +39879,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           22,
@@ -39992,6 +40022,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           43,
@@ -40068,7 +40099,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Leggings",
       "category": "LEGGINGS",
@@ -40713,7 +40743,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Boots",
       "category": "BOOTS",
@@ -40849,7 +40878,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "23,168,196",
       "name": "Storm's Leggings",
       "category": "LEGGINGS",
@@ -41310,9 +41338,9 @@
       "gear_score": 20,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -41537,6 +41565,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           36,
@@ -41717,6 +41746,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           42,
@@ -42026,9 +42056,9 @@
       "gear_score": 40,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -42153,7 +42183,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -42210,6 +42240,7 @@
         "DEFENSE": 10,
         "HEALTH": 100
       },
+      "rarity_salvageable": true,
       "npc_sell_price": 1,
       "upgrade_costs": [
         [
@@ -42322,7 +42353,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -42647,7 +42678,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -42695,6 +42726,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           26,
@@ -42834,7 +42866,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Necromancer Lord Chestplate",
       "category": "CHESTPLATE",
@@ -43016,6 +43047,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           60,
@@ -43323,8 +43355,8 @@
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 235,
-        "STRENGTH": 95,
-        "CRITICAL_DAMAGE": 95
+        "STRENGTH": 120,
+        "CRITICAL_DAMAGE": 120
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -43367,9 +43399,9 @@
       "gear_score": 50,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -43827,7 +43859,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Last Breath",
       "category": "BOW",
       "tier": "LEGENDARY",
@@ -44583,7 +44614,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "255,163,59",
       "name": "Berserker Chestplate",
       "category": "CHESTPLATE",
@@ -44874,7 +44904,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -45087,7 +45117,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "93,47,185",
       "name": "Maxor's Leggings",
       "category": "LEGGINGS",
@@ -45591,7 +45620,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -45637,6 +45666,7 @@
       "tier": "RARE",
       "ability_damage_scaling": 0.3,
       "npc_sell_price": 200,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -45651,7 +45681,7 @@
           100
         ],
         "STRENGTH": [
-          50,
+          23,
           25,
           27,
           29,
@@ -45719,7 +45749,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 5
+          "level": 3
         }
       ],
       "dungeon_item": true,
@@ -45985,6 +46015,7 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -46104,6 +46135,14 @@
       "category": "HOE",
       "npc_sell_price": 1,
       "id": "WOOD_HOE"
+    },
+    {
+      "material": "GHAST_TEAR",
+      "name": "Thorn Fragment",
+      "glowing": true,
+      "tier": "RARE",
+      "dungeon_item": true,
+      "id": "THORN_FRAGMENT"
     },
     {
       "material": "IRON_INGOT",
@@ -47028,13 +47067,13 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Giant's Sword",
-      "category": "SWORD",
+      "category": "LONGSWORD",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 500,
-        "WEAPON_ABILITY_DAMAGE": 100000
+        "WEAPON_ABILITY_DAMAGE": 100000,
+        "SWING_RANGE": 1
       },
       "ability_damage_scaling": 0.05,
       "npc_sell_price": 1000,
@@ -47210,7 +47249,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Chestplate",
       "category": "CHESTPLATE",
@@ -47493,6 +47531,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "STRENGTH": [
           50
@@ -47658,7 +47697,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Hyperion",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -47867,7 +47905,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -48211,6 +48249,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           25,
@@ -48486,6 +48525,7 @@
       "category": "HELMET",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           65,
@@ -48580,6 +48620,7 @@
       "category": "SWORD",
       "tier": "EPIC",
       "npc_sell_price": 500,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           62,
@@ -48889,7 +48930,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Valkyrie",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -49358,7 +49398,6 @@
     },
     {
       "material": "YELLOW_FLOWER",
-      "item_durability": -1,
       "name": "Fire Freeze Staff",
       "category": "SWORD",
       "tier": "EPIC",
@@ -49646,7 +49685,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Adaptive Blade",
       "category": "SWORD",
       "tier": "EPIC",
@@ -50132,6 +50170,7 @@
       "category": "SWORD",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           82,
@@ -50780,7 +50819,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Healing Bow",
       "category": "BOW",
       "tier": "RARE",
@@ -50936,7 +50974,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4YWY1MmVmMmY3MmMzYmY1ZWNlNmU3MGE4MmYxMzcxOTU5Y2UzZmNiNzM2YzUwMDMwNWNhZGRjNTA1YzVlMiJ9fX0",
       "name": "Shadow Assassin Helmet",
       "category": "HELMET",
@@ -51174,7 +51211,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -51276,7 +51313,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -51588,7 +51625,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Spirit Shortbow",
       "category": "BOW",
       "tier": "LEGENDARY",
@@ -51838,7 +51874,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -51930,7 +51966,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "55,1,71",
       "name": "Necromancer Lord Leggings",
       "category": "LEGGINGS",
@@ -52193,6 +52228,7 @@
         "CRITICAL_DAMAGE": 10,
         "FEROCITY": 1
       },
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -52447,6 +52483,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -52523,7 +52560,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "255,212,39",
       "name": "Berserker Boots",
       "category": "BOOTS",
@@ -53015,6 +53051,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           55,
@@ -53231,7 +53268,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "255,183,39",
       "name": "Berserker Leggings",
       "category": "LEGGINGS",
@@ -53690,13 +53726,22 @@
       "gear_score": 60,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
       "id": "WITHER_GOGGLES"
+    },
+    {
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDQ0NzI4Nzc0NSwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlN2Q1OTg0NzAxMTk4YjVmMTdjNWI5MzA3NDgxYzczZjZlY2I2M2ViY2FlZDQxYzFlYTg1Yzk5YzIwNDRjYWUiCiAgICB9CiAgfQp9",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Fel Skull",
+      "tier": "LEGENDARY",
+      "dungeon_item": true,
+      "id": "FEL_SKULL"
     },
     {
       "material": "BANNER",
@@ -54042,6 +54087,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           47,
@@ -54189,7 +54235,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -54674,6 +54720,7 @@
         }
       ],
       "npc_sell_price": 4000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -54845,7 +54892,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
       "name": "Bonzo's Mask",
       "category": "HELMET",
@@ -54905,7 +54951,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ==",
       "name": "Spirit Mask",
       "category": "HELMET",
@@ -54972,6 +55017,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           28,
@@ -55134,6 +55180,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           94,
@@ -55375,7 +55422,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Bonzo's Staff",
       "category": "SWORD",
       "tier": "RARE",
@@ -55487,6 +55533,7 @@
         }
       ],
       "npc_sell_price": 50000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -55703,6 +55750,7 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           125,
@@ -56560,7 +56608,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Aurora Staff",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -56789,7 +56836,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Bonzo's Staff",
       "category": "SWORD",
       "tier": "RARE",
@@ -56907,7 +56953,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Wither Leggings",
       "category": "LEGGINGS",
@@ -56968,7 +57013,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Necron's Blade (Unrefined)",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -57391,6 +57435,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -57824,6 +57869,7 @@
           "level": 24
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -58278,6 +58324,7 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -58462,7 +58509,6 @@
     },
     {
       "material": "IRON_AXE",
-      "item_durability": -1,
       "name": "Ghost Axe",
       "category": "AXE",
       "tier": "UNCOMMON",
@@ -58597,9 +58643,9 @@
       "gear_score": 30,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -58607,7 +58653,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Last Breath",
       "category": "BOW",
       "tier": "LEGENDARY",
@@ -59111,18 +59156,19 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
-          23,
-          25,
-          27,
-          30,
-          32,
+          33,
           35,
-          38,
-          41,
+          37,
+          40,
+          42,
           45,
-          49
+          48,
+          51,
+          55,
+          59
         ],
         "HEALTH": [
           14,
@@ -59305,6 +59351,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           30,
@@ -60237,7 +60284,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Scylla",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -60380,7 +60426,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "231,92,60",
       "name": "Necron's Leggings",
       "category": "LEGGINGS",
@@ -60586,6 +60631,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           25,
@@ -60810,7 +60856,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Livid Dagger",
       "category": "SWORD",
       "sword_type": "DAGGER",
@@ -60992,8 +61037,8 @@
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 175,
-        "STRENGTH": 50,
-        "CRITICAL_DAMAGE": 50
+        "STRENGTH": 100,
+        "CRITICAL_DAMAGE": 100
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -61036,9 +61081,9 @@
       "gear_score": 20,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -61258,6 +61303,14 @@
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
       "npc_sell_price": 50,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
       "id": "SPIDER_TALISMAN"
     },
     {
@@ -61355,6 +61408,7 @@
       "category": "SWORD",
       "tier": "RARE",
       "npc_sell_price": 1000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -61622,7 +61676,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -61656,6 +61710,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -62092,6 +62147,7 @@
       "category": "SWORD",
       "tier": "EPIC",
       "npc_sell_price": 123,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           73,
@@ -62222,18 +62278,19 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
-          34,
-          38,
-          41,
-          45,
-          49,
-          52,
-          57,
+          44,
+          48,
+          51,
+          55,
+          59,
           62,
           67,
-          74
+          72,
+          77,
+          84
         ],
         "HEALTH": [
           22,
@@ -62567,6 +62624,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTE4MzY4ODY1MSwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJb3lhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNjU4NzA2MTliMGMyZGI4MjI0NzlkMmNiMzgyMTI2YmQ3OTljNTgyMzc4YjViMWRmOTNlNzViN2QwMTU1MWI3IgogICAgfQogIH0KfQ==",
       "name": "Kalhuiki Mask",
       "category": "HELMET",
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           50
@@ -62619,6 +62677,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -62708,7 +62767,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzI0OTc5MywKICAicHJvZmlsZUlkIiA6ICIwNjEzY2I1Y2QxYjg0M2JjYjI4OTk1NWU4N2QzMGEyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmVhZGxvYWZzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYmJiMmZhN2E2Y2EwODcyODBlYTBjYjU2NGI0MWVmMWFlNDA0YTE5ZjdhODEyOGQzZDI4YzUxOWE4NWUwNjNmIgogICAgfQogIH0KfQ",
       "name": "Necron's Helmet",
       "category": "HELMET",
@@ -63200,6 +63258,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           39,
@@ -63412,7 +63471,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "136,131,126",
       "name": "Goldor's Boots",
       "category": "BOOTS",
@@ -63647,7 +63705,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
       "name": "Bonzo's Mask",
       "category": "HELMET",
@@ -63789,7 +63846,8 @@
       "stats": {
         "DAMAGE": 500,
         "STRENGTH": 100,
-        "CRITICAL_DAMAGE": 30
+        "CRITICAL_DAMAGE": 30,
+        "SWING_RANGE": 2
       },
       "npc_sell_price": 0,
       "upgrade_costs": [
@@ -63836,7 +63894,6 @@
           "tier": 7
         }
       ],
-      "item_durability": -1,
       "dungeon_item": true,
       "gemstone_slots": [
         {
@@ -63983,6 +64040,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           22,
@@ -64846,9 +64904,9 @@
       "gear_score": 60,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -65474,7 +65532,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -65555,6 +65613,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           32,
@@ -66116,6 +66175,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -66691,7 +66751,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -66840,7 +66900,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTQ3OTI0MjkyNCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MmMwNjgzYjIwMTljYTNkMzk0NzI3M2UzOTRiZmNhMWI0ZDcxYjYxYjY3YjM5NDc0YzJkNmQ3M2E5YjY3NTA4IgogICAgfQogIH0KfQ==",
       "name": "Precursor Eye",
       "category": "HELMET",
@@ -66955,6 +67014,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           19,
@@ -67364,7 +67424,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "23,147,196",
       "name": "Storm's Chestplate",
       "category": "CHESTPLATE",
@@ -67586,7 +67645,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -67918,7 +67977,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Chestplate",
       "category": "CHESTPLATE",
@@ -68283,6 +68341,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           81,
@@ -68505,6 +68564,7 @@
         }
       ],
       "npc_sell_price": 10000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -68682,7 +68742,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzM2NjgxNiwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODMxNTljNWJiN2Q4MDQ1NGQyZDY0NmIxNTc3NGI3MTE2YWFiY2IzYWY1YjY3NzdhMjc1NzNmYzQ1Zjc4NTRmIgogICAgfQogIH0KfQ",
       "name": "Storm's Helmet",
       "category": "HELMET",
@@ -68864,7 +68923,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "64,3,82",
       "name": "Necromancer Lord Boots",
       "category": "BOOTS",
@@ -68963,7 +69021,6 @@
     },
     {
       "material": "REDSTONE_TORCH_ON",
-      "item_durability": -1,
       "name": "Hellstorm Wand",
       "category": "WAND",
       "tier": "EPIC",
@@ -69450,7 +69507,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4YWY1MmVmMmY3MmMzYmY1ZWNlNmU3MGE4MmYxMzcxOTU5Y2UzZmNiNzM2YzUwMDMwNWNhZGRjNTA1YzVlMiJ9fX0",
       "name": "Shadow Assassin Helmet",
       "category": "HELMET",
@@ -72848,7 +72904,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 12
         }
       ],
       "id": "REVENANT_SWORD"
@@ -72915,7 +72971,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 22
+          "level": 18
         }
       ],
       "gemstone_slots": [
@@ -78950,6 +79006,54 @@
       "enchantments": {
         "aiming": 5
       },
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DRAGON",
+        "amount": 100
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 50
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "soulbound": "COOP",
       "id": "DRAGON_SHORTBOW"
     },
@@ -79302,6 +79406,449 @@
       "id": "SPIRIT_LEAP"
     },
     {
+      "material": "IRON_SWORD",
+      "name": "Bone Reaver",
+      "category": "LONGSWORD",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DAMAGE": 235,
+        "STRENGTH": 90,
+        "SWING_RANGE": 0.5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "id": "BONE_REAVER"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Felthorn Reaper",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DAMAGE": 275,
+        "CRITICAL_DAMAGE": 115,
+        "SWING_RANGE": 1
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "FELTHORN_REAPER"
+    },
+    {
+      "material": "BOW",
+      "name": "Spirit Shortbow",
+      "category": "BOW",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 220,
+        "STRENGTH": 110
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 40,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_ITEM_SPIRIT_BOW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI0MDc0MSwKICAicHJvZmlsZUlkIiA6ICI2ZDgwYjVkMjQyMGY0MWZkOTQxMjM4YzA3YzVlYzAxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb05pWW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUzMDg4ZGUzZWRmZDFiMTA5OGQ4ZDhmNTZmNTAwNGE4OTMwNTUxZTA2M2M3Nzg5MWZhMDA3MDNjZjAzMWI5OSIKICAgIH0KICB9Cn0=",
+      "name": "Balloon Snake",
+      "category": "NECKLACE",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "HEALTH": 10,
+        "INTELLIGENCE": 10
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 5
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 1
+        }
+      ],
+      "id": "BALLOON_SNAKE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9",
+      "name": "Shadow Assassin Cloak",
+      "category": "CLOAK",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 25,
+        "WALK_SPEED": 5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 5
+        }
+      ],
+      "id": "STARRED_SHADOW_ASSASSIN_CLOAK"
+    },
+    {
+      "material": "DOUBLE_PLANT",
+      "durability": 4,
+      "name": "Bouquet of Lies",
+      "glowing": true,
+      "category": "SWORD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 220,
+        "STRENGTH": 300,
+        "CRITICAL_DAMAGE": 50
+      },
+      "npc_sell_price": 100000,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 800
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "id": "BOUQUET_OF_LIES"
+    },
+    {
+      "material": "RED_ROSE",
+      "durability": 2,
+      "name": "Spirit Sceptre",
+      "category": "SWORD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 190,
+        "WEAPON_ABILITY_DAMAGE": 2250,
+        "INTELLIGENCE": 330
+      },
+      "ability_damage_scaling": 0.2,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 40,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "id": "STARRED_BAT_WAND"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjYxMjc0MiwKICAicHJvZmlsZUlkIiA6ICI5ZWU3NTUxOGQyZWE0Y2Q4OGJiNGI1YTZkNmVhNTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWNyb3MxMTgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2Q0YTIwNmQ3NzU3ZjQ3OWYzMzJlYzFhMmJiYmVlNTdjZWY5NzU2OGRkODhkZjgxZjQ4NjRhZWU3ZDNkOTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -79313,12 +79860,582 @@
       "id": "INFINITE_SPIRIT_LEAP"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0=",
+      "name": "Soulweaver Gloves",
+      "category": "GLOVES",
+      "tier": "EPIC",
+      "dungeon_item": true,
+      "npc_sell_price": 0,
+      "stats": {
+        "strength": 10,
+        "critical_damage": 10
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 600
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "SOULWEAVER_GLOVES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9",
+      "name": "Shadow Assassin Cloak",
+      "category": "CLOAK",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 20,
+        "WALK_SPEED": 3
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 5
+        }
+      ],
+      "id": "SHADOW_ASSASSIN_CLOAK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ==",
+      "name": "Spirit Mask",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 25,
+        "DEFENSE": 75,
+        "HEALTH": 100,
+        "INTELLIGENCE": 25
+      },
+      "npc_sell_price": 20000,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 20,
+      "requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 15
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_SPIRIT_MASK"
+    },
+    {
       "material": "PAPER",
       "name": "Saul's Recommendation",
       "tier": "LEGENDARY",
       "soulbound": "SOLO",
       "glowing": true,
       "id": "SAULS_RECOMMENDATION"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Felthorn Reaper",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DAMAGE": 285,
+        "STRENGTH": 10,
+        "CRITICAL_DAMAGE": 125,
+        "SWING_RANGE": 1.5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "STARRED_FELTHORN_REAPER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0=",
+      "name": "Adaptive Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 5,
+        "HEALTH": 10,
+        "DEFENSE": 5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 75
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 2
+        }
+      ],
+      "id": "ADAPTIVE_BELT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODE4Nzc4NiwKICAicHJvZmlsZUlkIiA6ICI1MWIyZGY3NWEyYWM0OTA5YmM4YzlkMzM3Y2EwNDNkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWNvcm5lQXVCZXVycmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWEzNjFhNjdiNjNkMDQ1YTBhNjNiNTI1YzFhNzAxMjhmNjkwOWVmMWFjN2JjYzZlNDYzMWViODk1ZjA3NTAyZCIKICAgIH0KICB9Cn0=",
+      "name": "Bone Necklace",
+      "category": "NECKLACE",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DEFENSE": 35,
+        "CRITICAL_CHANCE": 3
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 150
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "id": "BONE_NECKLACE"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Giant's Eye Sword",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "dungeon_item": true,
+      "ability_damage_scaling": 0.05,
+      "npc_sell_price": 1000,
+      "stats": {
+        "DAMAGE": 500,
+        "WEAPON_ABILITY_DAMAGE": 100000,
+        "SWING_RANGE": 1
+      },
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "MASTER_CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "GIANTS_EYE_SWORD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0=",
+      "name": "Adaptive Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 10,
+        "HEALTH": 15,
+        "DEFENSE": 10
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 75
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 2
+        }
+      ],
+      "id": "STARRED_ADAPTIVE_BELT"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "191,191,191",
+      "name": "Spirit Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 35,
+        "DEFENSE": 50,
+        "HEALTH": 150,
+        "STRENGTH": 35,
+        "INTELLIGENCE": 50
+      },
+      "npc_sell_price": 100000,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 30,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_THORNS_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "General's Medallion",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "dungeon_item": true,
+      "id": "GENERAL_MEDALLION"
+    },
+    {
+      "material": "BONE",
+      "name": "Bonemerang",
+      "glowing": true,
+      "category": "BOW",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 320,
+        "STRENGTH": 150
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 40,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_BONE_BOOMERANG"
     },
     {
       "material": "SKULL_ITEM",

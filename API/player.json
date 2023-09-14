@@ -3315,7 +3315,37 @@
         "option_show_enemy_wool_dropped": "",
         "option_show_enemy_wool_picked_up": "",
         "option_show_own_wool_dropped": "",
-        "option_show_own_wool_picked_up": ""
+        "option_show_own_wool_picked_up": "",
+        "dropper": {
+          "fastest_game": 0,
+          "flawless_games": 0,
+          "games_played": 0,
+          "map_stats": {
+            "bbq": {
+              "best_time": 0
+            },
+            "city": {
+              "best_time": 0
+            },
+            "geometry": {
+              "best_time": 0
+            },
+            "iris": {
+              "best_time": 0
+            },
+            "ravine": {
+              "best_time": 0
+            },
+            "sewer": {
+              "best_time": 0
+            },
+            "well": {
+              "best_time": 0
+            }
+          },
+          "maps_completed": 0,
+          "wins": 0
+        }
       },
       "Arena": {
         "coins": 0,

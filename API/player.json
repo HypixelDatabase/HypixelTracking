@@ -268,7 +268,9 @@
       "christmas2017_advent_2022": 0,
       "skyblock_curator": 0,
       "skyblock_sb_levels": 0,
-      "skyblock_people_pleaser": 0
+      "skyblock_people_pleaser": 0,
+      "arcade_dropper_skydiver": 0,
+      "arcade_dropper_flawless_faller": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -3325,10 +3327,12 @@
               "best_time": 0
             },
             "city": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "geometry": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "iris": {
               "best_time": 0
@@ -3340,7 +3344,8 @@
               "best_time": 0
             },
             "well": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "balloons": {
               "best_time": 0
@@ -3349,10 +3354,12 @@
               "best_time": 0
             },
             "drainage": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "floatingislands": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "gears": {
               "best_time": 0
@@ -3362,6 +3369,70 @@
             },
             "western": {
               "best_time": 0
+            },
+            "paradigm": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "space": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "warp": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "mainframe": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "nightlife": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "stratocumulus": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "sandworm": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "hellgate": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "maelstrom": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "raindrops": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "distortion": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "retro": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "vintage": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "birdcage": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "time": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "ufo": {
+              "best_time": 0,
+              "completions": 0
             }
           },
           "maps_completed": 0,
@@ -42477,7 +42548,8 @@
         "WOOL_GAMES__builder_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
-        "WALLS__double_kill_challenge": 0
+        "WALLS__double_kill_challenge": 0,
+        "ARCADE__dropper_challenge": 0
       },
       "day_g": {
         "TNTGAMES__pvp_run_challenge": 0,
@@ -43176,7 +43248,8 @@
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
-        "WOOL_GAMES__flawless_challenge": 0
+        "WOOL_GAMES__flawless_challenge": 0,
+        "ARCADE__dropper_challenge": 0
       },
       "day_e": {
         "UHC__perfect_start_challenge": 0,

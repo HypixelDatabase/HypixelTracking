@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1694516659799,
+  "lastUpdated": 1694701076405,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -53,6 +53,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_SHEER_BRILLIANCE": {
+          "points": 10,
+          "name": "Dropper: Sheer Brilliance",
+          "description": "Win a game of Dropper without failing"
+        },
         "CTW_I_CAN_BE_ANYTHING": {
           "points": 5,
           "name": "Capture the Wool: I can be anything",
@@ -101,12 +106,22 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_VERSATILE": {
+          "points": 10,
+          "name": "Dropper: Versatile",
+          "description": "Complete 40 different maps"
+        },
         "PARTY_PERFECTION": {
           "points": 15,
           "name": "Party Games: Perfection!",
           "description": "Finish a game of Party Games with 24 stars",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "DROPPER_SPEEDFALLER": {
+          "points": 15,
+          "name": "Dropper: Speedfaller",
+          "description": "Finish a game of Dropper in under 50 seconds"
         },
         "FOOTBALL_SPEED": {
           "points": 5,
@@ -164,6 +179,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_WELL_WELL_WELL": {
+          "points": 10,
+          "name": "Dropper: Well, Well, Well",
+          "description": "???",
+          "secret": true
+        },
         "WOOPS_DIDNT_MEAN_TO": {
           "points": 5,
           "name": "Party Games: Woops, didn't mean to",
@@ -219,6 +240,11 @@
           "description": "Kill the enemy woolholder within 50m of them capturing",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "DROPPER_FAST_WAY_DOWN": {
+          "points": 5,
+          "name": "Dropper: Fast Way Down",
+          "description": "Complete a map in under 10 seconds"
         },
         "PIXEL_PARTY_SAVING_THROW": {
           "points": 10,
@@ -459,6 +485,11 @@
           "description": "Score 150 points in Hoe Hoe Hoe",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "DROPPER_WASNT_SO_BAD": {
+          "points": 5,
+          "name": "Dropper: That Wasn't So Bad",
+          "description": "Take fall damage without dying"
         },
         "HIDE_AND_SEEK_PROP_HUNTER": {
           "points": 5,
@@ -1126,6 +1157,37 @@
             }
           ]
         },
+        "DROPPER_SKYDIVER": {
+          "name": "Dropper: Skydiver",
+          "description": "Complete %s games of Dropper",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
         "ZOMBIE_KILLER": {
           "name": "Blocking Dead: Zombie Killer",
           "description": "Kill %s Zombies in the Blocking Dead",
@@ -1278,6 +1340,37 @@
               "tier": 5,
               "points": 25,
               "amount": 2000
+            }
+          ]
+        },
+        "DROPPER_FLAWLESS_FALLER": {
+          "name": "Dropper: Flawless Faller",
+          "description": "Complete %s flawless games of Dropper",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 2
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 5
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 10
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 15
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25
             }
           ]
         },
@@ -1499,7 +1592,7 @@
           ]
         }
       },
-      "total_points": 2755,
+      "total_points": 2960,
       "total_legacy_points": 5
     },
     "arena": {
@@ -2707,7 +2800,7 @@
         "CLOSE_CALL": {
           "points": 5,
           "name": "Close Call",
-          "description": "Kill a player whilst being on 0.5 hp",
+          "description": "Kill a player whilst being on 0.5 HP",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -6172,7 +6265,7 @@
         "MM_CARROT_KILLS": {
           "points": 10,
           "name": "Check Your Produce",
-          "description": "Kill 3 survivors in one game while holding the carrot/carrot-on-a-stick Knife Skin in Murder Mystery Classic",
+          "description": "Kill 3 survivors in one game while holding the Carrot / Carrot on a Stick Knife Skin in Murder Mystery Classic",
           "globalPercentUnlocked": 1
         },
         "UHC_GOLDEN_CARROT": {

@@ -3350,7 +3350,8 @@
               "completions": 0
             },
             "balloons": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "atlantis": {
               "best_time": 0,
@@ -3483,6 +3484,34 @@
               "completions": 0
             },
             "painted": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "ocean": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "overgrown": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "bridges": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "cabin": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "frogspawn": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "launchzone": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "microscope": {
               "best_time": 0,
               "completions": 0
             }
@@ -43363,7 +43392,8 @@
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
-        "WOOL_GAMES__flawless_challenge": 0
+        "WOOL_GAMES__flawless_challenge": 0,
+        "ARCADE__dropper_challenge": 0
       },
       "day_f": {
         "BEDWARS__offensive": 0,

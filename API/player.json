@@ -3343,7 +3343,8 @@
               "completions": 0
             },
             "sewer": {
-              "best_time": 0
+              "best_time": 0,
+              "completions": 0
             },
             "well": {
               "best_time": 0,
@@ -3537,6 +3538,18 @@
               "completions": 0
             },
             "kingspass": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "boardgames": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "revolve": {
+              "best_time": 0,
+              "completions": 0
+            },
+            "factory": {
               "best_time": 0,
               "completions": 0
             }

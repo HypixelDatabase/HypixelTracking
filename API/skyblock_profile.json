@@ -11950,7 +11950,8 @@
               "pet_sitter": {
                 "talked_to": true,
                 "completed_quest": true,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "zog": {
                 "talked_to": true
@@ -12008,7 +12009,8 @@
                 "dnd_enabled": true
               },
               "pablo": {
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "blacksmith": {
                 "talked_to": true,

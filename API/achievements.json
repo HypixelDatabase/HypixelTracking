@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1694707376423,
+  "lastUpdated": 1694924876479,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -56,7 +56,9 @@
         "DROPPER_SHEER_BRILLIANCE": {
           "points": 10,
           "name": "Dropper: Sheer Brilliance",
-          "description": "Win a game of Dropper without failing"
+          "description": "Win a game of Dropper without failing",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CTW_I_CAN_BE_ANYTHING": {
           "points": 5,
@@ -109,7 +111,9 @@
         "DROPPER_VERSATILE": {
           "points": 10,
           "name": "Dropper: Versatile",
-          "description": "Complete 40 different maps"
+          "description": "Complete 40 different maps",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PARTY_PERFECTION": {
           "points": 15,
@@ -121,7 +125,9 @@
         "DROPPER_SPEEDFALLER": {
           "points": 15,
           "name": "Dropper: Speedfaller",
-          "description": "Finish a game of Dropper in under 50 seconds"
+          "description": "Finish a game of Dropper in under 50 seconds",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FOOTBALL_SPEED": {
           "points": 5,
@@ -183,7 +189,9 @@
           "points": 10,
           "name": "Dropper: Well, Well, Well",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "WOOPS_DIDNT_MEAN_TO": {
           "points": 5,
@@ -244,7 +252,9 @@
         "DROPPER_FAST_WAY_DOWN": {
           "points": 5,
           "name": "Dropper: Fast Way Down",
-          "description": "Complete a map in under 10 seconds"
+          "description": "Complete a map in under 10 seconds",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PIXEL_PARTY_SAVING_THROW": {
           "points": 10,
@@ -489,7 +499,9 @@
         "DROPPER_WASNT_SO_BAD": {
           "points": 5,
           "name": "Dropper: That Wasn't So Bad",
-          "description": "Take fall damage without dying"
+          "description": "Take fall damage without dying",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HIDE_AND_SEEK_PROP_HUNTER": {
           "points": 5,
@@ -537,7 +549,9 @@
           "points": 5,
           "name": "Sneaky Snake",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GOTTA_CATCH_THEM_ALL": {
           "points": 10,
@@ -17930,7 +17944,7 @@
         "POTIONS_OF_DEATH": {
           "points": 10,
           "name": "Potions of Death",
-          "description": "Get 8 Final Kills with Arcane Explosion as Arcanist",
+          "description": "Get 8 Final Kills or Assists with Arcane Explosion as Arcanist",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

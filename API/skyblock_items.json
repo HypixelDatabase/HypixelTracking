@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1694780378000,
+  "lastUpdated": 1696018638000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -1132,7 +1132,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg1NTc2NSwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3YzBjZDkzOTRhYmIwM2ZmOTZmMjg3MzY0MDZmYTQwYzk0NWI0ZDczNWExMWZhY2Y1Zjk5MTJjMTE0OTUzMjQiCiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg3MDUxOSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3Mzk0OTJiZTc4YzU3MmZiNGM2YmZhZjhmMTBiZDUyODU1M2I0M2FmNTc1YmEwNzNhY2JkMmM0YmY3N2M0MGIiCiAgICB9CiAgfQp9",
       "name": "Small Dragon Sack",
       "tier": "UNCOMMON",
       "unstackable": true,
@@ -1150,7 +1150,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg3MDUxOSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3Mzk0OTJiZTc4YzU3MmZiNGM2YmZhZjhmMTBiZDUyODU1M2I0M2FmNTc1YmEwNzNhY2JkMmM0YmY3N2M0MGIiCiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg1NTc2NSwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3YzBjZDkzOTRhYmIwM2ZmOTZmMjg3MzY0MDZmYTQwYzk0NWI0ZDczNWExMWZhY2Y1Zjk5MTJjMTE0OTUzMjQiCiAgICB9CiAgfQp9",
       "name": "Large Dragon Sack",
       "tier": "EPIC",
       "unstackable": true,
@@ -74113,6 +74113,7 @@
           "amount": 5
         }
       ],
+      "rarity_salvageable": true,
       "id": "ICE_ROD"
     },
     {

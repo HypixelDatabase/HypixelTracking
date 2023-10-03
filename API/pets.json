@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1664986895504,
+  "lastUpdated": 1696351395428,
   "types": [
     {
       "key": "CAT_BLACK",
@@ -689,7 +689,7 @@
     {
       "key": "KILLER_RABBIT",
       "name": "Killer Rabbit",
-      "rarity": "EPIC",
+      "rarity": "LEGENDARY",
       "package": "pet_killer_rabbit"
     },
     {
@@ -841,6 +841,18 @@
       "name": "Clownfish",
       "rarity": "EPIC",
       "package": "pet_clownfish"
+    },
+    {
+      "key": "ZOMBIE_VILLAGER_BABY",
+      "name": "Villager: Zombie (Baby)",
+      "rarity": "EPIC",
+      "package": "pet_zombie_villager_baby"
+    },
+    {
+      "key": "HORSE_SKELETON_BABY",
+      "name": "Skeleton Horse (Baby)",
+      "rarity": "LEGENDARY",
+      "package": "pet_horse_skeleton_baby"
     }
   ],
   "rarities": [

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1696329795513,
+  "lastUpdated": 1696351395436,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7340,17 +7340,10 @@
           "description": "Win a game of Farm Hunt as a black cat",
           "globalPercentUnlocked": 1
         },
-        "TBR_FARMLAND_CIRCLE_FAST": {
+        "TBR_CRYPTIC_CASTLE_FAST": {
           "points": 10,
-          "name": "Farmland Circle Great Time",
-          "description": "Complete Farmland Circle in under 0:34",
-          "globalPercentUnlocked": 1
-        },
-        "TBR_FARMLAND_CIRCLE": {
-          "points": 5,
-          "name": "Farmland Circle Completion",
-          "description": "Complete Farmland Circle in Turbo Bat Racers",
-          "globalPercentUnlocked": 1
+          "name": "Cryptic Castle Great Time",
+          "description": "Complete Cryptic Castle in under 0:33"
         },
         "SPOOKY_LOOKS": {
           "points": 5,
@@ -7375,6 +7368,11 @@
           "name": "Vamps b gone",
           "description": "Kill 2 vampires in a single game of VampireZ",
           "globalPercentUnlocked": 1
+        },
+        "TBR_CRYPTIC_CASTLE": {
+          "points": 5,
+          "name": "Cryptic Castle Completion",
+          "description": "Complete Cryptic Castle in Turbo Bat Racers"
         },
         "BEWITCHING": {
           "points": 5,
@@ -7418,12 +7416,6 @@
           "description": "Kill 5 survivors in a single game of VampireZ",
           "globalPercentUnlocked": 1
         },
-        "FIVE_BASKETS_2022": {
-          "points": 5,
-          "name": "Five Baskets (2022)",
-          "description": "Find five Candy Baskets in the Main Lobby",
-          "globalPercentUnlocked": 1
-        },
         "THAT_WAS_EASY": {
           "points": 5,
           "name": "That was eaZy",
@@ -7442,16 +7434,15 @@
           "description": "Place in the Top 3 in Turbo Kart Racers while using the Diablo Turbobrine Kart Skin",
           "globalPercentUnlocked": 1
         },
+        "TBR_FOREST_FRIGHT": {
+          "points": 5,
+          "name": "Forest Fright Completion",
+          "description": "Complete Forest Fright in Turbo Bat Racers"
+        },
         "KILLER_LOOT": {
           "points": 5,
           "name": "Killer Loot",
           "description": "Open a Murder Mystery Spooky Chest",
-          "globalPercentUnlocked": 1
-        },
-        "TBR_TERRITORIAL_TOUR": {
-          "points": 5,
-          "name": "Territorial Tour Completion",
-          "description": "Complete Territorial Tour in Turbo Bat Racers",
           "globalPercentUnlocked": 1
         },
         "OCTOBER_BETRAYAL": {
@@ -7497,6 +7488,11 @@
           "secret": true,
           "globalPercentUnlocked": 1
         },
+        "FIVE_BASKETS_2023": {
+          "points": 5,
+          "name": "Five Baskets (2023)",
+          "description": "Find five Candy Baskets in the Main Lobby"
+        },
         "SMOKING_VEIL": {
           "points": 5,
           "name": "Smoking Veil",
@@ -7515,22 +7511,10 @@
           "description": "Win a game of Smash Heroes using Skullfire",
           "globalPercentUnlocked": 1
         },
-        "TBR_TERRITORIAL_TOUR_FAST": {
-          "points": 10,
-          "name": "Territorial Tour Great Time",
-          "description": "Complete Territorial Tour in under 1:23",
-          "globalPercentUnlocked": 1
-        },
         "TRICKED": {
           "points": 5,
           "name": "Tricked!",
           "description": "Have a player set off a trap in your base in Bed Wars",
-          "globalPercentUnlocked": 1
-        },
-        "TBR_VILLAGE_SWEEP": {
-          "points": 5,
-          "name": "Village Sweep Completion",
-          "description": "Complete Village Sweep in Turbo Bat Racers",
           "globalPercentUnlocked": 1
         },
         "CORPSE_STILL_RUNS": {
@@ -7568,6 +7552,11 @@
           "name": "Burning Touch",
           "description": "Punch a Burning Zombie Pet in a lobby",
           "globalPercentUnlocked": 1
+        },
+        "TBR_RIVERSIDE_REVENGE_FAST": {
+          "points": 10,
+          "name": "Riverside Revenge Great Time",
+          "description": "Complete Riverside Revenge in under 0:45"
         },
         "HOWL_O_WEEN": {
           "points": 10,
@@ -7617,11 +7606,15 @@
           "description": "Finish games on 5 Halloween exclusive maps",
           "globalPercentUnlocked": 1
         },
-        "ALL_BASKETS_2022": {
+        "ALL_BASKETS_2023": {
           "points": 15,
-          "name": "All Baskets (2022)",
-          "description": "Find all Candy Baskets in the Main Lobby",
-          "globalPercentUnlocked": 1
+          "name": "All Baskets (2023)",
+          "description": "Find all Candy Baskets in the Main Lobby"
+        },
+        "TBR_RIVERSIDE_REVENGE": {
+          "points": 5,
+          "name": "Riverside Revenge Completion",
+          "description": "Complete Riverside Revenge in Turbo Bat Racers"
         },
         "HI_THERE": {
           "points": 5,
@@ -7629,11 +7622,15 @@
           "description": "Speak to the Halloween Guide in the Main Lobby",
           "globalPercentUnlocked": 1
         },
-        "TBR_VILLAGE_SWEEP_FAST": {
+        "SPOOKTACULAR_BINGO": {
+          "points": 20,
+          "name": "Spooktacular Bingo",
+          "description": "Complete the Hard Bingo Card during a Halloween Event"
+        },
+        "TBR_FOREST_FRIGHT_FAST": {
           "points": 10,
-          "name": "Village Sweep Great Time",
-          "description": "Complete Village Sweep in under 0:51",
-          "globalPercentUnlocked": 1
+          "name": "Forest Fright Great Time",
+          "description": "Complete Forest Fright in under 0:32"
         },
         "ALL_GHOSTS_2018": {
           "points": 15,
@@ -7653,16 +7650,40 @@
           "description": "Complete Kraken Assault in under 01:25",
           "legacy": true
         },
+        "TBR_TERRITORIAL_TOUR_FAST": {
+          "points": 10,
+          "name": "Territorial Tour Great Time",
+          "description": "Complete Territorial Tour in under 1:23",
+          "legacy": true
+        },
         "ALL_BASKETS": {
           "points": 15,
           "name": "All Baskets (2019)",
           "description": "Find all Candy Baskets in the Main Lobby",
           "legacy": true
         },
+        "TBR_FARMLAND_CIRCLE_FAST": {
+          "points": 10,
+          "name": "Farmland Circle Great Time",
+          "description": "Complete Farmland Circle in under 0:34",
+          "legacy": true
+        },
+        "TBR_FARMLAND_CIRCLE": {
+          "points": 5,
+          "name": "Farmland Circle Completion",
+          "description": "Complete Farmland Circle in Turbo Bat Racers",
+          "legacy": true
+        },
         "TBR_SHARKNADO_JAUNT_FAST": {
           "points": 10,
           "name": "Sharknado Jaunt Great Time",
           "description": "Complete Sharknado Jaunt in under 1:15",
+          "legacy": true
+        },
+        "TBR_VILLAGE_SWEEP": {
+          "points": 5,
+          "name": "Village Sweep Completion",
+          "description": "Complete Village Sweep in Turbo Bat Racers",
           "legacy": true
         },
         "TBR_SEASIDE_DRIVE": {
@@ -7725,6 +7746,12 @@
           "description": "Complete Observatory Spin in Turbo Bat Racers",
           "legacy": true
         },
+        "FIVE_BASKETS_2022": {
+          "points": 5,
+          "name": "Five Baskets (2022)",
+          "description": "Find five Candy Baskets in the Main Lobby",
+          "legacy": true
+        },
         "TBR_SHARKNADO_JAUNT": {
           "points": 5,
           "name": "Sharknado Jaunt Completion",
@@ -7741,6 +7768,12 @@
           "points": 10,
           "name": "Seaside Drive Great Time",
           "description": "Complete Seaside Drive in under 1:15",
+          "legacy": true
+        },
+        "ALL_BASKETS_2022": {
+          "points": 15,
+          "name": "All Baskets (2022)",
+          "description": "Find all Candy Baskets in the Main Lobby",
           "legacy": true
         },
         "ALL_BASKETS_2021": {
@@ -7767,6 +7800,12 @@
           "description": "Complete Kraken Assault in Turbo Bat Racers",
           "legacy": true
         },
+        "TBR_TERRITORIAL_TOUR": {
+          "points": 5,
+          "name": "Territorial Tour Completion",
+          "description": "Complete Territorial Tour in Turbo Bat Racers",
+          "legacy": true
+        },
         "TBR_OBSERVATORY_SPIN_1_10": {
           "points": 10,
           "name": "Observatory Spin Great Time",
@@ -7789,6 +7828,12 @@
           "points": 5,
           "name": "El Spooder",
           "description": "Earn a Golden Skull using the Spiderling kit in Crazy Walls",
+          "legacy": true
+        },
+        "TBR_VILLAGE_SWEEP_FAST": {
+          "points": 10,
+          "name": "Village Sweep Great Time",
+          "description": "Complete Village Sweep in under 0:51",
           "legacy": true
         },
         "TBR_PUMPKIN_JUMP": {
@@ -7962,8 +8007,8 @@
           ]
         }
       },
-      "total_points": 680,
-      "total_legacy_points": 315
+      "total_points": 700,
+      "total_legacy_points": 380
     },
     "housing": {
       "one_time": {

@@ -2820,6 +2820,18 @@
             "time": 0
           }
         ]
+      },
+      "skywars_halloween_harvest_2023": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "mm_special_weekly_killer_instinct_2023": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
       }
     },
     "settings": {
@@ -43045,7 +43057,8 @@
         "ARCADE__hypixel_says_challenge": 0,
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
-        "WOOL_GAMES__builder_challenge": 0
+        "WOOL_GAMES__builder_challenge": 0,
+        "BUILD_BATTLE__guesser_challenge": 0
       },
       "day_l": {
         "DUELS__feed_the_void_challenge": 0,
@@ -46625,7 +46638,14 @@
           "bingo": {
             "easy": {
               "objectives": {
-                "Arcadedance": 0
+                "Arcadedance": 0,
+                "Wizardscapture": 0,
+                "Pitmmrobinhood": 0,
+                "Bbthething": 0,
+                "Warlordsfortheteam": 0,
+                "Vampzvampirekill": 0,
+                "Arenamultitaskingmayhem": 0,
+                "Murderhauntedmansion": 0
               }
             }
           }

@@ -38905,7 +38905,8 @@
                 "water": {
                   "fish": 0,
                   "junk": 0,
-                  "treasure": 0
+                  "treasure": 0,
+                  "orb": 0
                 }
               }
             },
@@ -39001,7 +39002,12 @@
             "aphrodite": 0,
             "nyx": 0,
             "helios": 0,
-            "zeus": 0
+            "zeus": 0,
+            "weight": {
+              "helios": 0,
+              "selene": 0,
+              "aphrodite": 0
+            }
           },
           "activeFishHookTrail": "",
           "enchants": {

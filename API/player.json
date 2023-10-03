@@ -38900,6 +38900,11 @@
                   "fish": 0,
                   "junk": 0
                 }
+              },
+              "halloween": {
+                "water": {
+                  "fish": 0
+                }
               }
             },
             "permanent": {
@@ -43058,7 +43063,8 @@
         "WOOL_GAMES__merciless_killer_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
         "WOOL_GAMES__builder_challenge": 0,
-        "BUILD_BATTLE__guesser_challenge": 0
+        "BUILD_BATTLE__guesser_challenge": 0,
+        "ARCADE__blocking_dead_challenge": 0
       },
       "day_l": {
         "DUELS__feed_the_void_challenge": 0,
@@ -46645,7 +46651,8 @@
                 "Warlordsfortheteam": 0,
                 "Vampzvampirekill": 0,
                 "Arenamultitaskingmayhem": 0,
-                "Murderhauntedmansion": 0
+                "Murderhauntedmansion": 0,
+                "Arcadeevildead": 0
               }
             }
           }

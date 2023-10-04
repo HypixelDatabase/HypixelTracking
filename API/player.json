@@ -3580,7 +3580,8 @@
           "wins": 0,
           "fails": 0,
           "games_finished": 0
-        }
+        },
+        "spider_maze_round_wins_party": 0
       },
       "Arena": {
         "coins": 0,
@@ -46677,6 +46678,11 @@
                 "Bedwarsshopoftraps": 0,
                 "Woolpoweredup": 0,
                 "Blitzcountingdown": 0
+              }
+            },
+            "medium": {
+              "objectives": {
+                "Arcadeintothelabyrinth": 0
               }
             }
           },

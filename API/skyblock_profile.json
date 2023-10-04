@@ -11985,7 +11985,9 @@
               },
               "drill_fuel_mechanic": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "queen_mismyla": {
                 "talked_to": true,
@@ -11997,7 +11999,9 @@
               },
               "community_shop": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "aranya": {
                 "last_call": 0,
@@ -12149,7 +12153,8 @@
               "repaired_index": 0
             },
             "trio_contact_addons": 0,
-            "selected_ringtone": ""
+            "selected_ringtone": "",
+            "selected_sort": ""
           },
           "matriarch": {
             "pearls_collected": 0,

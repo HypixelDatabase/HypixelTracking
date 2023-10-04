@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1696351395436,
+  "lastUpdated": 1696440909973,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7343,7 +7343,8 @@
         "TBR_CRYPTIC_CASTLE_FAST": {
           "points": 10,
           "name": "Cryptic Castle Great Time",
-          "description": "Complete Cryptic Castle in under 0:33"
+          "description": "Complete Cryptic Castle in under 0:33",
+          "globalPercentUnlocked": 1
         },
         "SPOOKY_LOOKS": {
           "points": 5,
@@ -7372,7 +7373,8 @@
         "TBR_CRYPTIC_CASTLE": {
           "points": 5,
           "name": "Cryptic Castle Completion",
-          "description": "Complete Cryptic Castle in Turbo Bat Racers"
+          "description": "Complete Cryptic Castle in Turbo Bat Racers",
+          "globalPercentUnlocked": 1
         },
         "BEWITCHING": {
           "points": 5,
@@ -7437,7 +7439,8 @@
         "TBR_FOREST_FRIGHT": {
           "points": 5,
           "name": "Forest Fright Completion",
-          "description": "Complete Forest Fright in Turbo Bat Racers"
+          "description": "Complete Forest Fright in Turbo Bat Racers",
+          "globalPercentUnlocked": 1
         },
         "KILLER_LOOT": {
           "points": 5,
@@ -7491,7 +7494,8 @@
         "FIVE_BASKETS_2023": {
           "points": 5,
           "name": "Five Baskets (2023)",
-          "description": "Find five Candy Baskets in the Main Lobby"
+          "description": "Find five Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "SMOKING_VEIL": {
           "points": 5,
@@ -7556,7 +7560,8 @@
         "TBR_RIVERSIDE_REVENGE_FAST": {
           "points": 10,
           "name": "Riverside Revenge Great Time",
-          "description": "Complete Riverside Revenge in under 0:45"
+          "description": "Complete Riverside Revenge in under 0:45",
+          "globalPercentUnlocked": 1
         },
         "HOWL_O_WEEN": {
           "points": 10,
@@ -7609,12 +7614,14 @@
         "ALL_BASKETS_2023": {
           "points": 15,
           "name": "All Baskets (2023)",
-          "description": "Find all Candy Baskets in the Main Lobby"
+          "description": "Find all Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "TBR_RIVERSIDE_REVENGE": {
           "points": 5,
           "name": "Riverside Revenge Completion",
-          "description": "Complete Riverside Revenge in Turbo Bat Racers"
+          "description": "Complete Riverside Revenge in Turbo Bat Racers",
+          "globalPercentUnlocked": 1
         },
         "HI_THERE": {
           "points": 5,
@@ -7630,7 +7637,8 @@
         "TBR_FOREST_FRIGHT_FAST": {
           "points": 10,
           "name": "Forest Fright Great Time",
-          "description": "Complete Forest Fright in under 0:32"
+          "description": "Complete Forest Fright in under 0:32",
+          "globalPercentUnlocked": 1
         },
         "ALL_GHOSTS_2018": {
           "points": 15,

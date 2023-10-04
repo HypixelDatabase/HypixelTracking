@@ -2829,7 +2829,9 @@
       },
       "mm_special_weekly_killer_instinct_2023": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mm_target_kills": 0
+          },
           "started": 0
         }
       }
@@ -46682,7 +46684,10 @@
             },
             "medium": {
               "objectives": {
-                "Arcadeintothelabyrinth": 0
+                "Arcadeintothelabyrinth": 0,
+                "Tnthappyhalloween": 0,
+                "Duelsprizefighter": 0,
+                "Murderreadyornot": 0
               }
             }
           },

@@ -11979,7 +11979,9 @@
                 "specific": {
                   "unlocked_target_practice_iv": true
                 },
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "drill_fuel_mechanic": {
                 "talked_to": true,

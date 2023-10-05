@@ -43211,7 +43211,8 @@
         "ARCADE__pixel_party_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
         "ARCADE__zombies_challenge": 0,
-        "ARCADE__dropper_challenge": 0
+        "ARCADE__dropper_challenge": 0,
+        "ARCADE__hole_in_the_wall_challenge": 0
       },
       "day_b": {
         "SKYWARS__feeding_the_void_challenge": 0,
@@ -46684,7 +46685,8 @@
                 "Arcadecreepshow": 0,
                 "Smashnowheretohide": 0,
                 "Paintballpoultryghiest": 0
-              }
+              },
+              "rewards": []
             },
             "medium": {
               "objectives": {

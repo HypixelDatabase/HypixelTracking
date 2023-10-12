@@ -1313,7 +1313,8 @@
           "kills_zombie_lord_150": 0,
           "kills_automaton_150": 0,
           "kills_goblin_golem_150": 0,
-          "kills_goblin_murderlover_150": 0
+          "kills_goblin_murderlover_150": 0,
+          "kills_automaton_100": 0
         },
         "objectives": {
           "collect_log": {
@@ -12100,7 +12101,9 @@
               },
               "blacksmith": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "st_jerry": {
                 "completed_quest": true,

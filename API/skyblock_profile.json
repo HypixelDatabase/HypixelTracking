@@ -12119,7 +12119,9 @@
                 }
               },
               "duncan": {
-                "talked_to": true
+                "talked_to": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "tomioka": {
                 "talked_to": true,

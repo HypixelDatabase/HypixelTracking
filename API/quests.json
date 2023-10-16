@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1696354095463,
+  "lastUpdated": 1697486057520,
   "quests": {
     "quake": [
       {
@@ -2864,7 +2864,7 @@
           {
             "id": "skywars_halloween_mega_wins",
             "type": "IntegerObjective",
-            "integer": 3
+            "integer": 10
           }
         ],
         "requirements": [
@@ -2872,7 +2872,7 @@
             "type": "OneTimeQuestRequirement"
           }
         ],
-        "description": "Collect %%aqua%%333 souls %%gray%%from kills and wins in insane SkyWars\nWin 3 %%dark_purple%%spooky %%gray%%games\nWin 3 Mega or Mega Doubles games"
+        "description": "Collect %%aqua%%333 souls %%gray%%from kills and wins in insane SkyWars\nWin 3 %%dark_purple%%spooky %%gray%%games\nWin 10 games in any mode"
       }
     ],
     "truecombat": [

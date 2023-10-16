@@ -1331,7 +1331,8 @@
           "kills_master_skeleton_master_118": 0,
           "kills_master_zombie_knight_116": 0,
           "kills_goblin_knife_thrower_25": 0,
-          "kills_goblin_weakling_melee_25": 0
+          "kills_goblin_weakling_melee_25": 0,
+          "kills_splitter_spider_42": 0
         },
         "objectives": {
           "collect_log": {
@@ -12099,7 +12100,9 @@
               },
               "ophelia": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "kaus": {
                 "last_call": 0,

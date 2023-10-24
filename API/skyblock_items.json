@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1696424887000,
+  "lastUpdated": 1698157226000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -9192,6 +9192,76 @@
       "id": "PERFECT_HELMET_4"
     },
     {
+      "material": "DIAMOND_BOOTS",
+      "name": "Perfect Boots - Tier XIII",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 330
+      },
+      "npc_sell_price": 4915200,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 35
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 90
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 140
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_BOOTS_13"
+    },
+    {
       "material": "DIAMOND_CHESTPLATE",
       "name": "Perfect Chestplate - Tier VII",
       "category": "CHESTPLATE",
@@ -10592,6 +10662,76 @@
       "id": "PERFECT_HELMET_7"
     },
     {
+      "material": "DIAMOND_CHESTPLATE",
+      "name": "Perfect Chestplate - Tier XIII",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 400
+      },
+      "npc_sell_price": 5324800,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 70
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 80
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 120
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 180
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_CHESTPLATE_13"
+    },
+    {
       "material": "DIAMOND_BOOTS",
       "name": "Perfect Boots - Tier X",
       "category": "BOOTS",
@@ -10660,6 +10800,76 @@
         }
       ],
       "id": "PERFECT_BOOTS_10"
+    },
+    {
+      "material": "DIAMOND_HELMET",
+      "name": "Perfect Helmet - Tier XIII",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 350
+      },
+      "npc_sell_price": 5017600,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 40
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 150
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_HELMET_13"
     },
     {
       "material": "DIAMOND_HELMET",
@@ -11920,6 +12130,76 @@
         }
       ],
       "id": "PERFECT_HELMET_12"
+    },
+    {
+      "material": "DIAMOND_LEGGINGS",
+      "name": "Perfect Leggings - Tier XIII",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 380
+      },
+      "npc_sell_price": 5222400,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 60
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 65
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 110
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 160
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_LEGGINGS_13"
     },
     {
       "material": "DIAMOND_LEGGINGS",
@@ -13614,6 +13894,15 @@
       "id": "GREAT_SPOOK_TALISMAN"
     },
     {
+      "material": "CLAY_BALL",
+      "name": "Nightmare Nullifier",
+      "description": "Why have nightmares when you can drink coffee instead?",
+      "tier": "UNCOMMON",
+      "soulbound": "COOP",
+      "npc_sell_price": 1,
+      "id": "NIGHTMARE_NULLIFIER"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTUyODI4NSwKICAicHJvZmlsZUlkIiA6ICI2MzMyMDgwZTY3YTI0Y2MxYjE3ZGJhNzZmM2MwMGYxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWFtSHlkcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1NjkyMmMyMWJjMTUxOGJmNjAzNTM1MDkzMGMzYjFmNGM5Yjc0YjEwYjBkNjIxYmFiYWE0ZTQxMTA5YzE3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
@@ -13623,6 +13912,28 @@
       "glowing": true,
       "npc_sell_price": 1,
       "id": "SWEET_FLESH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI4OTIwOTkyMGQ1ZjE5MTc1ZDc5YWU2YWE2YWE3YmI4OTkxNDRhN2JjNGYzNjEyZjQzNDdlY2EyNWU1NzJmYSJ9fX0=",
+      "name": "Expired Pumpkin",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 500,
+      "item_specific": {
+        "permanent_health": 5,
+        "permanent_crops_farming_fortune": 12
+      },
+      "id": "EXPIRED_PUMPKIN"
+    },
+    {
+      "material": "STAINED_GLASS",
+      "durability": 15,
+      "name": "Scare Fragment",
+      "description": "%%gray%%Imbued with the pure essence of terror, this shard pulsates with an unsettling energy.",
+      "tier": "RARE",
+      "npc_sell_price": 1000,
+      "id": "SCARE_FRAGMENT"
     },
     {
       "material": "LEATHER_BOOTS",
@@ -13708,6 +14019,24 @@
       "id": "POISONED_CANDY"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M4NjZlNDIzOTU1MTQyOGY5YzgxNGQ5ZGMxMWU3MDAyZTA0M2I4N2Y1OTBmMWZkY2I0ZmY2YmI0OTdiOGUxOCJ9fX0=",
+      "name": "Dark Candy",
+      "tier": "RARE",
+      "description": "%%gray%%Can be brought to %%red%%Vargul the Unearthed %%gray%%at the back of the Hub island during the %%dark_purple%%Great Spook%%gray%%.",
+      "id": "DARK_CANDY"
+    },
+    {
+      "material": "WOOL",
+      "durability": 15,
+      "name": "Black Woolen Yarn",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "hide_from_viewrecipe_command": true,
+      "id": "BLACK_WOOLEN_YARN"
+    },
+    {
       "material": "LEATHER_HELMET",
       "color": "153,51,153",
       "name": "Great Spook Helmet",
@@ -13738,6 +14067,15 @@
       "npc_sell_price": 0,
       "museum": true,
       "id": "GREAT_SPOOK_RING"
+    },
+    {
+      "material": "RAW_FISH",
+      "name": "Sewer Fish",
+      "tier": "UNCOMMON",
+      "description": "Where did you find these? They stink!",
+      "soulbound": "COOP",
+      "npc_sell_price": 1,
+      "id": "SEWER_FISH"
     },
     {
       "material": "SKULL_ITEM",
@@ -16943,7 +17281,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzMWNhOWU0NmZjZjM1MTM1NGZhMDIyOTkyZmEwN2NjNTliZTUwZmZiODBlOWRkOGFmNDk3MzM3OGNmODlkNSJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzUyMDE3ODI4OSwKICAicHJvZmlsZUlkIiA6ICI0NDcyYzcwMjgwY2Q0NjZhODkxYjcyMzQwMGQ5MDUyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFkb3dNWCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NmU5NzdhZTJmNzk2ZGNlNmM4MGNiNmJlZDkyOTRlOWVkNGIxMWI4OGY5ZmRlNmMzMWY0MzVkZmQwMzgyNTI5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Intimidation Artifact",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -18078,6 +18416,14 @@
       },
       "npc_sell_price": 50,
       "id": "FANCY_SWORD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Pure Mithril Gem",
+      "tier": "LEGENDARY",
+      "id": "PET_ITEM_PURE_MITHRIL_GEM"
     },
     {
       "material": "LEAVES",
@@ -19591,6 +19937,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_THORN_HEAD"
@@ -21431,6 +21778,15 @@
       "name": "Green Stained Glass Pane",
       "npc_sell_price": 0.75,
       "id": "STAINED_GLASS_PANE:13"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Perfectly Cut Diamond",
+      "description": "An outstanding find. While few are known to exist, even fewer have been successful retrieved.\n\n%%gold%%Used in an anvil to upgrade Perfect Armor to Tier XIII.",
+      "tier": "LEGENDARY",
+      "id": "PERFECTLY_CUT_DIAMOND"
     },
     {
       "material": "GOLD_INGOT",
@@ -23834,7 +24190,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzMWNhOWU0NmZjZjM1MTM1NGZhMDIyOTkyZmEwN2NjNTliZTUwZmZiODBlOWRkOGFmNDk3MzM3OGNmODlkNSJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzUyMDEyNjQ4NSwKICAicHJvZmlsZUlkIiA6ICIyMDhhMWJkNzAxMzg0ZDE0YTA1NjU4MTkyNzhmMGExNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJab3JndWl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MWZiYzUwMTBlODA0N2ViYzBiZmQ1Yjc2MzVhYjU0NzcyZDhmZDVhMjgwOTlhZWViYzhhZTI0MDdmMDI2YjA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Intimidation Ring",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
@@ -24553,6 +24909,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_THORN_HEAD"
@@ -28962,7 +29319,7 @@
       "material": "TNT",
       "name": "Infinityboom TNT",
       "glowing": true,
-      "tier": "RARE",
+      "tier": "EPIC",
       "npc_sell_price": 0,
       "id": "INFINITE_SUPERBOOM_TNT"
     },
@@ -30120,6 +30477,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_NECRON_HEAD"
@@ -33371,6 +33729,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_PROFESSOR_HEAD"
@@ -33424,6 +33783,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_SADAN_HEAD"
@@ -37567,6 +37927,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_BONZO_HEAD"
@@ -44139,6 +44500,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_SADAN_HEAD"
@@ -47491,6 +47853,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_NECRON_HEAD"
@@ -49297,6 +49660,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_BONZO_HEAD"
@@ -52919,6 +53283,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_SCARF_HEAD"
@@ -53590,6 +53955,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_LIVID_HEAD"
@@ -53609,6 +53975,15 @@
       "glowing": true,
       "category": "PET_ITEM",
       "id": "PET_ITEM_FORAGING_SKILL_BOOST_COMMON"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk1Nzc4NDgwMiwKICAicHJvZmlsZUlkIiA6ICJmNjk2OWMxYzBmY2Q0YTZiYWY1OTllNjQ2ZWM3M2VjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb3dlckRyYWdvbkhlcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzA2NmZkMDc2ODM5ODllNjZiZjc1MjM5OGM0ODYxYzcxYWU2ZmUyMjhhNDkzZjJmZGY0MjczODE2NTBhMTI4MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Intimidation Relic",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "id": "INTIMIDATION_RELIC"
     },
     {
       "material": "RAW_FISH",
@@ -54200,6 +54575,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI0ODMxMzQ5OSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzhiMTVlODVlZDIyNWMyMWMzMjM2N2RhN2JlMjQ0Nzc5ZTM2YWZlN2Y3NTYzYTZhNTcwYTcxN2NiNWJlMWIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Prehistoric Egg",
       "unstackable": true,
+      "npc_sell_price": 1000,
       "id": "PREHISTORIC_EGG"
     },
     {
@@ -54743,6 +55119,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_SCARF_HEAD"
@@ -56469,7 +56846,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzMWNhOWU0NmZjZjM1MTM1NGZhMDIyOTkyZmEwN2NjNTliZTUwZmZiODBlOWRkOGFmNDk3MzM3OGNmODlkNSJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzUyMDAwOTgzMCwKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ODExN2MyMDliNjllZWFmMjY4NDgxNmUxNmJlZDI1ZTY2NTAwOGU3MzI5NjMyZmRmY2E2NTIzNzk5Y2Q3ZjcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Intimidation Talisman",
       "category": "ACCESSORY",
       "npc_sell_price": 200,
@@ -59677,6 +60054,12 @@
         "essence_type": "GOLD",
         "amount": 5
       },
+      "item_specific": {
+        "speed_boost": 100,
+        "effect_duration_seconds": 30,
+        "cooldown_seconds": 5,
+        "mana_cost": 50
+      },
       "upgrade_costs": [
         [
           {
@@ -59981,6 +60364,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_PROFESSOR_HEAD"
@@ -65983,6 +66367,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_LIVID_HEAD"
@@ -67276,7 +67661,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MGE0NjA3OGNjNzZmYzZjNjg1YmVjNDIxMjExNzExNWE4ODEzNGNmZjRjYmM4MmJiYWYwMTk0YzhkMjc3ZTk5In19fQ==",
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1YzQzMzkwODczMmI1MTJmNjg0NjFjMTRlZjAyMGJiMmY1NWQ5NmE2MWNkMWQ0NWVhMWU3ZWE4OTlmMWE2YiJ9fX0=",
       "name": "Present Stack",
       "furniture": "PRESENTS",
       "id": "PRESENTS"
@@ -68107,7 +68492,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjYwMDAzYTcxNGYyMGI5YTAwMTcxMDg4NGYyYjMwNjNkMmJhNGVjZmE4ZjVmY2M2MzRiOTIxMWMzOGI4MzU5In19fQ==",
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg4NGVkMTk1MGJiOGIxOThhZGE4MTkxNjg0NDAwYmQ2NjQwZTAzNzEwNDgxYzgxMjJiNzgwYjllZDFiZDk4YyJ9fX0=",
       "name": "Spooky Shard",
       "tier": "EPIC",
       "id": "SPOOKY_SHARD"
@@ -78585,7 +78970,7 @@
       "origin": "RIFT",
       "item_specific": {
         "permanent_health": 5,
-        "permanent_carrots_ff": 12
+        "permanent_crops_farming_fortune": 12
       },
       "id": "EXPORTABLE_CARROTS"
     },
@@ -79213,91 +79598,6 @@
         }
       ],
       "id": "END_STONE_BOW"
-    },
-    {
-      "material": "DIAMOND_SWORD",
-      "name": "Aspect of the Draconic",
-      "category": "SWORD",
-      "tier": "LEGENDARY",
-      "stats": {
-        "DAMAGE": 260,
-        "STRENGTH": 150,
-        "WEAPON_ABILITY_DAMAGE": 20000
-      },
-      "ability_damage_scaling": 0.1,
-      "npc_sell_price": 100000,
-      "dungeon_item_conversion_cost": {
-        "essence_type": "DRAGON",
-        "amount": 150
-      },
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 100
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 400
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "catacombs_requirements": [
-        {
-          "type": "DUNGEON_SKILL",
-          "dungeon_type": "CATACOMBS",
-          "level": 24
-        }
-      ],
-      "gemstone_slots": [
-        {
-          "slot_type": "JASPER",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 50000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FINE_JASPER_GEM",
-              "amount": 20
-            }
-          ]
-        }
-      ],
-      "id": "ASPECT_OF_THE_DRACONIC"
     },
     {
       "material": "BOW",

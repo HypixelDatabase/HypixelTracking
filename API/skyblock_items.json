@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1698157226000,
+  "lastUpdated": 1699265299000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -21784,7 +21784,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Perfectly Cut Diamond",
-      "description": "An outstanding find. While few are known to exist, even fewer have been successful retrieved.\n\n%%gold%%Used in an anvil to upgrade Perfect Armor to Tier XIII.",
+      "description": "An outstanding find. While few are known to exist, even fewer have been successfully retrieved.\n\n%%gold%%Used in an anvil to upgrade Perfect Armor to Tier XIII.",
       "tier": "LEGENDARY",
       "id": "PERFECTLY_CUT_DIAMOND"
     },
@@ -79619,6 +79619,18 @@
       "npc_sell_price": 10000,
       "description": "%%dark_gray%%%%italic%%It's all that's left from a draconic sacrifice.",
       "id": "RITUAL_RESIDUE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ3OGE5NWIxYmU1ODU5M2EwM2NmMTQ3MjYzYmRhM2I4YjM0Njg5OWJlMTEwZDMxNDY1ZWQyZmViYzBiZDEwIn19fQ==",
+      "name": "%%green%%Ballista Fuel Cell",
+      "id": "ELLE_FUEL_CELL"
+    },
+    {
+      "material": "CHEST",
+      "name": "%%green%%Elle's Supplies",
+      "id": "ELLE_SUPPLIES"
     },
     {
       "material": "SKULL_ITEM",

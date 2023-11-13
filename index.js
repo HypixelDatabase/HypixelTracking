@@ -42,7 +42,9 @@ function uniqueArrayElements(target, source) {
 }
 
 function containsBadKey(key) {
-  return (blacklistedValues.includes(key)) || key.startsWith('fetchur-');
+  return (blacklistedValues.includes(key))
+    || key.startsWith('fetchur-')
+    || /^[0-9a-fA-F]{32}$/.test(key);
 }
 
 function normalizeObject(object) {

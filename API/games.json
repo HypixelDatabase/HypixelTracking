@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1683416232042,
+  "lastUpdated": 1695815216858,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -80,6 +80,9 @@
       "id": 21
     },
     "WOOL_GAMES": {
+      "modeNames": {
+        "wool_wars_two_four_tourney": "4v4 (Tournament)"
+      },
       "databaseName": "WoolGames",
       "name": "Wool Wars",
       "id": 68
@@ -107,8 +110,16 @@
     },
     "ARCADE": {
       "modeNames": {
+        "PARTY": "Party Games",
+        "ONEINTHEQUIVER": "Bounty Hunters",
+        "SOCCER": "Football",
+        "SIMON_SAYS": "Hypixel Says",
         "PVP_CTW": "Capture the Wool",
+        "ENDER": "Ender Spleef",
+        "STARWARS": "Galaxy Wars",
+        "DRAGONWARS2": "Dragon Wars",
         "DAYONE": "Blocking Dead",
+        "GRINCH_SIMULATOR_V2": "Grinch Simulator",
         "DRAW_THEIR_THING": "Pixel Painters"
       },
       "databaseName": "Arcade",

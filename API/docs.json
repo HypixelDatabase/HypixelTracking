@@ -348,7 +348,6 @@
           }
         },
         "example": {
-          "_id": "5dcdaf2244f4f4f350c02bf3",
           "uuid": "409a1e0f261a49849493278d6cd9305a",
           "auctioneer": "347ef6c1daac45ed9d1fa02818cf0fb6",
           "profile_id": "347ef6c1daac45ed9d1fa02818cf0fb6",
@@ -1470,6 +1469,7 @@
     "/skyblock/auction": {
       "get": {
         "summary": "Request auction(s) by the auction UUID, player UUID, or profile UUID.",
+        "description": "Returns the auctions selected by the provided query. Only one query parameter can be used in a single request, and cannot be filtered by multiple.",
         "tags": [
           "SkyBlock"
         ],

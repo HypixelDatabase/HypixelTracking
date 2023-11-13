@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1692710761000,
+  "lastUpdated": 1699265299000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -190,6 +190,16 @@
       "id": "HELMET_OF_LIVE_RELOADING"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdkZTYzZDQwMWY4NWVlZDhhNWUwOGNmYTZjYjI5MGM0MGIxMWE3YzcyYjU3OWIyZjA2ZThiYjRhOGE3YzA5OSJ9fX0=",
+      "name": "Kuudra Washing Machine",
+      "tier": "SPECIAL",
+      "npc_sell_price": 1,
+      "unstackable": true,
+      "id": "KUUDRA_WASHING_MACHINE"
+    },
+    {
       "material": "IRON_SWORD",
       "name": "Arack",
       "category": "SWORD",
@@ -198,6 +208,7 @@
       "stats": {
         "damage": 90
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -227,6 +238,7 @@
         "defense": 30,
         "health": 45
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -249,6 +261,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -271,6 +284,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -293,6 +307,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -324,6 +339,7 @@
         "defense": 40,
         "health": 55
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -345,6 +361,7 @@
         "defense": 60,
         "health": 85
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -376,6 +393,7 @@
         "defense": 5,
         "health": 10
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -397,6 +415,7 @@
         "defense": 50,
         "health": 75
       },
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -1113,7 +1132,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg1NTc2NSwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3YzBjZDkzOTRhYmIwM2ZmOTZmMjg3MzY0MDZmYTQwYzk0NWI0ZDczNWExMWZhY2Y1Zjk5MTJjMTE0OTUzMjQiCiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg3MDUxOSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3Mzk0OTJiZTc4YzU3MmZiNGM2YmZhZjhmMTBiZDUyODU1M2I0M2FmNTc1YmEwNzNhY2JkMmM0YmY3N2M0MGIiCiAgICB9CiAgfQp9",
       "name": "Small Dragon Sack",
       "tier": "UNCOMMON",
       "unstackable": true,
@@ -1131,7 +1150,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg3MDUxOSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3Mzk0OTJiZTc4YzU3MmZiNGM2YmZhZjhmMTBiZDUyODU1M2I0M2FmNTc1YmEwNzNhY2JkMmM0YmY3N2M0MGIiCiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDg1NTc2NSwKICAicHJvZmlsZUlkIiA6ICJlMzcxMWU2Y2E0ZmY0NzA4YjY5ZjhiNGZlYzNhZjdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckJ1cnN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3YzBjZDkzOTRhYmIwM2ZmOTZmMjg3MzY0MDZmYTQwYzk0NWI0ZDczNWExMWZhY2Y1Zjk5MTJjMTE0OTUzMjQiCiAgICB9CiAgfQp9",
       "name": "Large Dragon Sack",
       "tier": "EPIC",
       "unstackable": true,
@@ -8434,7 +8453,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Boots",
       "category": "BOOTS",
@@ -8502,7 +8520,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
       "name": "Adaptive Helmet",
       "category": "HELMET",
@@ -8570,7 +8587,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
       "name": "Adaptive Helmet",
       "category": "HELMET",
@@ -8637,7 +8653,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Chestplate",
       "category": "CHESTPLATE",
@@ -8704,7 +8719,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Leggings",
       "category": "LEGGINGS",
@@ -8771,7 +8785,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Chestplate",
       "category": "CHESTPLATE",
@@ -8838,7 +8851,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Leggings",
       "category": "LEGGINGS",
@@ -8905,7 +8917,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "191,188,178",
       "name": "Adaptive Boots",
       "category": "BOOTS",
@@ -9179,6 +9190,76 @@
         }
       ],
       "id": "PERFECT_HELMET_4"
+    },
+    {
+      "material": "DIAMOND_BOOTS",
+      "name": "Perfect Boots - Tier XIII",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 330
+      },
+      "npc_sell_price": 4915200,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 35
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 90
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 140
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_BOOTS_13"
     },
     {
       "material": "DIAMOND_CHESTPLATE",
@@ -10581,6 +10662,76 @@
       "id": "PERFECT_HELMET_7"
     },
     {
+      "material": "DIAMOND_CHESTPLATE",
+      "name": "Perfect Chestplate - Tier XIII",
+      "category": "CHESTPLATE",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 400
+      },
+      "npc_sell_price": 5324800,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 70
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 80
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 120
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 180
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_CHESTPLATE_13"
+    },
+    {
       "material": "DIAMOND_BOOTS",
       "name": "Perfect Boots - Tier X",
       "category": "BOOTS",
@@ -10649,6 +10800,76 @@
         }
       ],
       "id": "PERFECT_BOOTS_10"
+    },
+    {
+      "material": "DIAMOND_HELMET",
+      "name": "Perfect Helmet - Tier XIII",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 350
+      },
+      "npc_sell_price": 5017600,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 40
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 150
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_HELMET_13"
     },
     {
       "material": "DIAMOND_HELMET",
@@ -11912,6 +12133,76 @@
     },
     {
       "material": "DIAMOND_LEGGINGS",
+      "name": "Perfect Leggings - Tier XIII",
+      "category": "LEGGINGS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DEFENSE": 380
+      },
+      "npc_sell_price": 5222400,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DIAMOND",
+        "amount": 60
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 65
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 110
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DIAMOND",
+            "amount": 160
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 21
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        },
+        {
+          "slot_type": "AMETHYST"
+        }
+      ],
+      "id": "PERFECT_LEGGINGS_13"
+    },
+    {
+      "material": "DIAMOND_LEGGINGS",
       "name": "Perfect Leggings - Tier XI",
       "category": "LEGGINGS",
       "tier": "LEGENDARY",
@@ -12389,6 +12680,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjgwMzkwNTI0NSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0MGY5Mjk5NTA4Mzg3NjE4Y2ZhZDZkYjM1YzlmNmQ4MDdjNDkzMzdkMzMzZDZlYzNiMTNkOWU4N2QwZDQ4OGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Not-a-lie Century Cake",
+      "furniture": "EPOCH_CAKE_GRAY",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_GRAY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDQ2MzE4Mzk3NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVkOTI0M2M2MWUyYzNlMWUwZjk5MzE4NDNjYWRiZDBkZmY0YTY0NjIyNWVmNTRjNTU3OTc5Y2YzOWJiMjA1NyIKICAgIH0KICB9Cn0=",
       "name": "Streamer's Century Cake",
       "furniture": "EPOCH_CAKE_PURPLE",
@@ -12475,6 +12776,179 @@
       "tier": "UNCOMMON",
       "museum": true,
       "id": "EPOCH_CAKE_BROWN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjgwNDA3NTczNSwKICAicHJvZmlsZUlkIiA6ICIwYmM5ZDc3YmQ1YTA0NWMzOTY4MWUzYTRhNDIzODZlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRvcmlpaW5oYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzgzMGQyMzVjOWRlNzAzOTQ2ODY0YzI4MWY0MmY5ZDQ1NjQ3NjkxZWUzNTNmYmJiMDcyMjcxNzcwNmI4YmRhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Undead ༕ Century Cake",
+      "furniture": "EPOCH_CAKE_DARK_GREEN",
+      "tier": "UNCOMMON",
+      "museum": true,
+      "id": "EPOCH_CAKE_DARK_GREEN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTY3NDM5MywKICAicHJvZmlsZUlkIiA6ICI4ZjE5NjJmYzE4NzY0MDU3ODYxMmIxMzNjODE4YmY5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW9uXzkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwYjc3ZWFhNmJjNGExODNhNjg4OGJhNTJkZjQ4NDE3YTZlMzg1YzNiNDYzYWM0OWI0MGEzYjk2ZTBhNWI3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Talisman of the Century",
+      "tier": "COMMON",
+      "category": "ACCESSORY",
+      "description": "What's better than a party? A party with free goodies!",
+      "id": "CENTURY_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTU2MjI4OCwKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU4YzA0Nzg3OGY1YzZjOTM1NDQwOTVmNzQ4Zjk2ZTdhZGU0NGZhZDU3NDM4MTQ4YTBhMWJiNTVlZWNlNjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of lemon cheesecake.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_YELLOW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTQyNjg1NywKICAicHJvZmlsZUlkIiA6ICJiMDU4MTFjYTdmNDk0YTM5OTZiNDU4ZjcwMmQ2MzJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVeWlsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjNWQxZWUyZjhiNTNhMDc5NDM2ZDk0ZDE3ZDBkMDhlZjU1NjNiY2JlZmRiYThlMmE0NTYxOTkzNjdjMTBmYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of red velvet.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_RED"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTYwMzkwMCwKICAicHJvZmlsZUlkIiA6ICIzYjA2ZTc3YzAzYTg0MGExOGIzOGY0Y2Q1ZWE0YzYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIT1JVU19JTyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNmEzNDg4ZDUwZDQ2NWNjM2UwZjliMGJkZDJlZTdmNTBlMTAwMmZlYzE0MGUwYTFhYjVmNGYxOGUxOTk3OWNiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of strawberry.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_PINK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTUxMzU3OCwKICAicHJvZmlsZUlkIiA6ICI4MTYyODhjZGZkZTg0YTIyOGRhMTBlNTI0MzA3MzQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXVKYWNoYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lOTU3MjhhMDVhY2U1NGVhMjdiZDQ2N2ZiNzEzMGYwMmZmMzk3YTI5MzY4Mjg0NjhhZWY4MDZjZGVlZmZkNGE1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of green lime.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_GREEN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTQ3OTAzMywKICAicHJvZmlsZUlkIiA6ICI2NDZhMmVhYzg2OWM0N2ZmYmYzZjRiMTc3Y2FhNDM0MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJwZW50U2FnZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDU2NTgwYTFjMTAzZjAwZTczZGM1MGE2OGIzNmJlZWJhNWI3NWQ3ZTUxOGZhNzg5MzJjMmQwMmVlNWQ5MjFkNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Cake Slice of the Century",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "description": "Taste of blueberry.",
+      "unstackable": true,
+      "id": "CENTURY_MEMENTO_BLUE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI2NzdiNzk0NjYzYzkyNzNlZmM4NGY2Y2I0ZTJiMzM5MjUxZGU4NGU0NWUxZjAxZDNkNDk4MmZhN2MzZGQxNyJ9fX0=",
+      "name": "Boopfish Helmet",
+      "tier": "RARE",
+      "description": "It doesn't do anything... yet!",
+      "id": "BOOPFISH_HELMET"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVkNzI3YjY5Y2EwZjBiMTZmNjU1MDQ3ZTQ4ZmIyYjRkZjEwYWE2NDA2NTExODI3NGQ0ZjlmOGM1YjA1NDQ5NiJ9fX0=",
+      "enchantments": {
+        "rainbow": 3
+      },
+      "name": "Enchanted Book Bundle",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "npc_sell_price": 10000,
+      "id": "ENCHANTED_BOOK_BUNDLE_RAINBOW"
+    },
+    {
+      "material": "WOOD_SWORD",
+      "name": "Aspect of the Jerry, Signature Edition",
+      "glowing": true,
+      "tier": "UNCOMMON",
+      "category": "SWORD",
+      "stats": {
+        "damage": 2
+      },
+      "enchantments": {
+        "sharpness": 10
+      },
+      "museum": true,
+      "id": "ASPECT_OF_THE_JERRY_SIGNATURE"
+    },
+    {
+      "material": "LADDER",
+      "name": "Necron's Ladder",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "NECRONS_LADDER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljMjhkYTAxZTAxMjg4MGVhY2MzYWIxZDM0ZDkxNDUzNTdkMmUyZDQ2ZDQyYWEzYjU5ZWRiOTFiMWY3YmQ2ZCJ9fX0=",
+      "name": "Cake Counter",
+      "furniture": "CAKE_COUNTER",
+      "tier": "EPIC",
+      "id": "CAKE_COUNTER"
+    },
+    {
+      "material": "IRON_PLATE",
+      "name": "Festive Frisbee",
+      "glowing": true,
+      "tier": "UNCOMMON",
+      "description": "Doesn't do anything... yet!",
+      "id": "FESTIVE_FRISBEE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2IxNDIxNzgyMzUyYjkzNjg1YjU5ZjE0ZTUwNjk0OWJmN2EzM2VmZGQ4MWRkNjVlZDE3ZWE2ZGI0MjJmNTNmIn19fQ==",
+      "name": "Random Century Cake Bundle",
+      "glowing": true,
+      "tier": "LEGENDARY",
+      "unstackable": true,
+      "id": "RANDOM_CENTURY_CAKE_PACK"
+    },
+    {
+      "material": "RAW_FISH",
+      "durability": 2,
+      "name": "Century the Fish",
+      "tier": "SPECIAL",
+      "museum": true,
+      "id": "CENTURY_THE_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWExOGFmNjY1Zjg2NTJmMWJlM2FkY2I3ZDc2ZTZlZTY0MzlkMjBhZTAxOGU5ZWRjY2UzODk0YmY1MTM1MGVhZCJ9fX0=",
+      "name": "Fruit Bowl",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "FRUIT_BOWL"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYwZmFiYjE4Y2RlYjI3NmJiZjM2OGRkOTcxOTE4YTVkYThiOTdiYjg4NjY4MzcwYWM1YzMxZmZkMGU2NGMxYyJ9fX0=",
+      "name": "Complete Century Cake Bundle",
+      "glowing": true,
+      "tier": "MYTHIC",
+      "unstackable": true,
+      "id": "FULL_CENTURY_CAKE_PACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -13420,6 +13894,15 @@
       "id": "GREAT_SPOOK_TALISMAN"
     },
     {
+      "material": "CLAY_BALL",
+      "name": "Nightmare Nullifier",
+      "description": "Why have nightmares when you can drink coffee instead?",
+      "tier": "UNCOMMON",
+      "soulbound": "COOP",
+      "npc_sell_price": 1,
+      "id": "NIGHTMARE_NULLIFIER"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTUyODI4NSwKICAicHJvZmlsZUlkIiA6ICI2MzMyMDgwZTY3YTI0Y2MxYjE3ZGJhNzZmM2MwMGYxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWFtSHlkcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1NjkyMmMyMWJjMTUxOGJmNjAzNTM1MDkzMGMzYjFmNGM5Yjc0YjEwYjBkNjIxYmFiYWE0ZTQxMTA5YzE3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
@@ -13429,6 +13912,28 @@
       "glowing": true,
       "npc_sell_price": 1,
       "id": "SWEET_FLESH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI4OTIwOTkyMGQ1ZjE5MTc1ZDc5YWU2YWE2YWE3YmI4OTkxNDRhN2JjNGYzNjEyZjQzNDdlY2EyNWU1NzJmYSJ9fX0=",
+      "name": "Expired Pumpkin",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 500,
+      "item_specific": {
+        "permanent_health": 5,
+        "permanent_crops_farming_fortune": 12
+      },
+      "id": "EXPIRED_PUMPKIN"
+    },
+    {
+      "material": "STAINED_GLASS",
+      "durability": 15,
+      "name": "Scare Fragment",
+      "description": "%%gray%%Imbued with the pure essence of terror, this shard pulsates with an unsettling energy.",
+      "tier": "RARE",
+      "npc_sell_price": 1000,
+      "id": "SCARE_FRAGMENT"
     },
     {
       "material": "LEATHER_BOOTS",
@@ -13514,6 +14019,24 @@
       "id": "POISONED_CANDY"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M4NjZlNDIzOTU1MTQyOGY5YzgxNGQ5ZGMxMWU3MDAyZTA0M2I4N2Y1OTBmMWZkY2I0ZmY2YmI0OTdiOGUxOCJ9fX0=",
+      "name": "Dark Candy",
+      "tier": "RARE",
+      "description": "%%gray%%Can be brought to %%red%%Vargul the Unearthed %%gray%%at the back of the Hub island during the %%dark_purple%%Great Spook%%gray%%.",
+      "id": "DARK_CANDY"
+    },
+    {
+      "material": "WOOL",
+      "durability": 15,
+      "name": "Black Woolen Yarn",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "hide_from_viewrecipe_command": true,
+      "id": "BLACK_WOOLEN_YARN"
+    },
+    {
       "material": "LEATHER_HELMET",
       "color": "153,51,153",
       "name": "Great Spook Helmet",
@@ -13544,6 +14067,15 @@
       "npc_sell_price": 0,
       "museum": true,
       "id": "GREAT_SPOOK_RING"
+    },
+    {
+      "material": "RAW_FISH",
+      "name": "Sewer Fish",
+      "tier": "UNCOMMON",
+      "description": "Where did you find these? They stink!",
+      "soulbound": "COOP",
+      "npc_sell_price": 1,
+      "id": "SEWER_FISH"
     },
     {
       "material": "SKULL_ITEM",
@@ -14321,7 +14853,6 @@
     },
     {
       "material": "GOLD_BARDING",
-      "item_durability": -1,
       "name": "Jerry-chine Gun",
       "category": "SWORD",
       "tier": "EPIC",
@@ -14689,6 +15220,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzYzJlNzJiZDA3NGM4N2Q0OTQ2M2E1OWQyYjRlYTFkNGNlNjIwOTg3NzVkZmMyZTdmNGVhYTJiMzI4MDE0OCJ9fX0=",
+      "name": "Pirate Cutout",
+      "furniture": "PIRATE_CUTOUT",
+      "tier": "EPIC",
+      "id": "PIRATE_CUTOUT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTgzMTY2MSwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJkZDJmMTE1OWRmNWRlZjQ5YmVmMWJiYzIzMWMwMmM5YmYxYmJhYWMxMWUzY2U2NGUzM2Q4OGNjNmQ2YWE3ZiIKICAgIH0KICB9Cn0=",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_NOTES_THIRD",
@@ -14763,6 +15303,15 @@
       "furniture": "WITCH_HAT",
       "tier": "RARE",
       "id": "WITCH_HAT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRiZGE5ZWEyZmNlYWFhOTQ1YzM4ZWQ0N2IxNDMxZDM5OTY3M2I4M2IyNzY5Njc0YWU5ZDllODNjM2ZmZDQzIn19fQ==",
+      "name": "Reanimated Painting",
+      "furniture": "REANIMATED_PAINTING",
+      "tier": "EPIC",
+      "id": "REANIMATED_PAINTING"
     },
     {
       "material": "SKULL_ITEM",
@@ -14877,6 +15426,15 @@
       "furniture": "ROCKING_CHAIR",
       "tier": "EPIC",
       "id": "ROCKING_CHAIR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE5YzEyNTQzYmM3NzkyNjA1ZWY2OGUxZjg3NDlhZThmMmEzODFkOTA4NWQ0ZDRiNzgwYmExMjgyZDM1OTdhMCJ9fX0=",
+      "name": "Mimic Chest",
+      "furniture": "MIMIC_CHEST",
+      "tier": "EPIC",
+      "id": "MIMIC_CHEST"
     },
     {
       "material": "SKULL_ITEM",
@@ -15079,6 +15637,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUwMGJhODY3NzFmMjk3MDZhZTczYzYyMWEyZjlhZGRiYTNjODI3OGZjYTJkMWRhMzE3YTMwZjM0ODI4MTVlNCJ9fX0=",
+      "name": "Skeleton Chair",
+      "furniture": "SKELETON_CHAIR",
+      "tier": "EPIC",
+      "id": "SKELETON_CHAIR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg1MTQ2MywKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzIyYmE1OWUxMDhlOGI0MGJmYzdiNjYxZTI5ZjMyNDBhMWU1NTI4OTY1MzFmM2YyZDNjYzZjYzliZWNlODk2IgogICAgfQogIH0KfQ==",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_MEME_SECOND",
@@ -15095,6 +15662,15 @@
       "furniture": "HOT_CHOCOLATE_AND_COOKIES",
       "tier": "EPIC",
       "id": "HOT_CHOCOLATE_AND_COOKIES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQzNmViZmU1MTQ2ZWY2YTIzMjVkYjZhNjJlNmI1NmVkM2E4OWE2MzBmYjIxOWQ3NDdjMTUyMzg4ZDdjYzgyOSJ9fX0=",
+      "name": "Pumpkin Candy Handout",
+      "furniture": "PUMPKIN_CANDY_HANDOUT",
+      "tier": "EPIC",
+      "id": "PUMPKIN_CANDY_HANDOUT"
     },
     {
       "material": "SKULL_ITEM",
@@ -15274,6 +15850,21 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjgyMDI5MTY3NiwKICAicHJvZmlsZUlkIiA6ICJkZjRiYzNkNTA2MWM0YThkODk4M2FlNzU1MTgxZDVhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaWRpX0paIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjMzM3N2UwNGQ3YTI4ZTkzMDI1NzRhYjYwOWZiN2FjNGU3MmJkZWRhMTAxODlmM2U1NjBjZmE1ZjlmMTZlZmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "AⒷiphone",
+      "tier": "SPECIAL",
+      "soulbound": "SOLO",
+      "origin": "BINGO",
+      "item_specific": {
+        "max_contacts": 20,
+        "has_contact_directory": true,
+        "has_dnd": true
+      },
+      "id": "ABINGOPHONE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNiZDlmNWVjMWVkMDA3MjU5OTk2NDkxZTY5ZmY2NDlhMzEwNmNmOTIwMjI3YjFiYjNhNzFlZTdhODk4NjNmIn19fQ==",
       "name": "Portal to The Forge",
       "category": "PORTAL",
@@ -15331,7 +15922,7 @@
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
-            "level": 24
+            "level": 22
           }
         }
       },
@@ -15432,7 +16023,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Dark Auction Shack",
-          "description_name": "Sirius's Shack",
+          "description_name": "Sirius' Shack",
           "destination_mode": "hub",
           "location_tag": "sirius_shack",
           "schematic_file": "sb_portal_hub_da",
@@ -15483,7 +16074,7 @@
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
-            "level": 24
+            "level": 22
           }
         }
       },
@@ -15505,7 +16096,7 @@
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
-            "level": 24
+            "level": 22
           }
         }
       },
@@ -15527,7 +16118,7 @@
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
-            "level": 24
+            "level": 22
           }
         }
       },
@@ -15659,7 +16250,7 @@
           "offset": "NEW",
           "skill_requirement": {
             "skill": "COMBAT",
-            "level": 24
+            "level": 22
           }
         }
       },
@@ -15788,7 +16379,7 @@
           "schematic_file": "sb_portal_danger2",
           "skill_requirement": {
             "skill": "COMBAT",
-            "level": 24
+            "level": 22
           }
         }
       },
@@ -16048,6 +16639,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -16423,6 +17015,7 @@
         "SEA_CREATURE_CHANCE": 3
       },
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "requirements": [
         {
@@ -16688,7 +17281,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzMWNhOWU0NmZjZjM1MTM1NGZhMDIyOTkyZmEwN2NjNTliZTUwZmZiODBlOWRkOGFmNDk3MzM3OGNmODlkNSJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzUyMDE3ODI4OSwKICAicHJvZmlsZUlkIiA6ICI0NDcyYzcwMjgwY2Q0NjZhODkxYjcyMzQwMGQ5MDUyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFkb3dNWCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NmU5NzdhZTJmNzk2ZGNlNmM4MGNiNmJlZDkyOTRlOWVkNGIxMWI4OGY5ZmRlNmMzMWY0MzVkZmQwMzgyNTI5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Intimidation Artifact",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -16943,7 +17536,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Boots",
       "category": "BOOTS",
@@ -17022,7 +17614,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Wither Chestplate",
       "category": "CHESTPLATE",
@@ -17218,6 +17809,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           52,
@@ -17366,7 +17958,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Astraea",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -17559,7 +18150,7 @@
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUwZDEyNTVmNTk3MzZhZTBhNjk0ZWQ1YzkwMDljMWE3MTA3OTMzNTEwYmU0ZWZmYjJiMTUzMjk3ZjUzZjU5NyJ9fX0=",
       "enchantments": {
         "depth_strider": 1,
-        "respiration": 1,
+        "respiration": 4,
         "aqua_affinity": 1
       },
       "name": "Salmon Hat",
@@ -17583,7 +18174,6 @@
     },
     {
       "material": "DIAMOND_SWORD",
-      "item_durability": -1,
       "name": "Shadow Fury",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -17694,6 +18284,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           42,
@@ -17827,6 +18418,14 @@
       "id": "FANCY_SWORD"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Pure Mithril Gem",
+      "tier": "LEGENDARY",
+      "id": "PET_ITEM_PURE_MITHRIL_GEM"
+    },
+    {
       "material": "LEAVES",
       "durability": 1,
       "name": "Spruce Leaves",
@@ -17943,7 +18542,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -17973,7 +18572,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -18346,7 +18945,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -18388,6 +18987,7 @@
       "category": "HELMET",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -18474,7 +19074,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -18623,7 +19223,6 @@
     },
     {
       "material": "WHEAT",
-      "item_durability": -1,
       "name": "Staff of the Volcano",
       "category": "WAND",
       "tier": "RARE",
@@ -18636,11 +19235,12 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "ability_damage_scaling": 0.3,
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -18917,7 +19517,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -18960,6 +19560,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           22,
@@ -19336,6 +19937,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_THORN_HEAD"
@@ -19710,7 +20312,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -19789,6 +20391,7 @@
         "fishing_speed": 75
       },
       "npc_sell_price": 20000,
+      "rarity_salvageable": true,
       "requirements": [
         {
           "type": "SKILL",
@@ -19884,7 +20487,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -19928,7 +20531,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -19945,7 +20548,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "191,191,191",
       "name": "Spirit Boots",
       "category": "BOOTS",
@@ -20008,7 +20610,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "231,110,60",
       "name": "Necron's Boots",
       "category": "BOOTS",
@@ -20445,7 +21046,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU0MzM0ODIwNiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkxMTI5NDA5Nzg5NTg5YWUxYjQzZTFkODI4YzA2ZmM5YTIxM2I3ODM0OGE2OGI3MzEzYmRkNDAxZDc0ODVjYyIKICAgIH0KICB9Cn0=",
       "name": "Wither Helmet",
       "category": "HELMET",
@@ -20568,7 +21168,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -20615,6 +21215,7 @@
         "STRENGTH": 5
       },
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "upgrade_costs": [
         [
           {
@@ -20895,7 +21496,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 17
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -21179,6 +21780,15 @@
       "id": "STAINED_GLASS_PANE:13"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Perfectly Cut Diamond",
+      "description": "An outstanding find. While few are known to exist, even fewer have been successfully retrieved.\n\n%%gold%%Used in an anvil to upgrade Perfect Armor to Tier XIII.",
+      "tier": "LEGENDARY",
+      "id": "PERFECTLY_CUT_DIAMOND"
+    },
+    {
       "material": "GOLD_INGOT",
       "name": "Gold Ingot",
       "npc_sell_price": 4,
@@ -21360,6 +21970,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           20,
@@ -21374,16 +21985,16 @@
           43
         ],
         "HEALTH": [
-          13,
-          14,
-          14,
-          16,
-          17,
-          19,
-          21,
           23,
           24,
-          26
+          24,
+          26,
+          27,
+          29,
+          31,
+          33,
+          34,
+          36
         ],
         "CRITICAL_DAMAGE": [
           15,
@@ -21453,6 +22064,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           38,
@@ -21590,6 +22202,7 @@
       "tier": "RARE",
       "ability_damage_scaling": 0.1,
       "npc_sell_price": 10000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -21885,6 +22498,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -22018,7 +22632,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -22081,6 +22695,7 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           120,
@@ -22162,6 +22777,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           38,
@@ -22270,7 +22886,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "69,65,60",
       "name": "Goldor's Chestplate",
       "category": "CHESTPLATE",
@@ -22400,6 +23015,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           38,
@@ -22414,16 +23030,16 @@
           80
         ],
         "HEALTH": [
-          23,
-          26,
-          28,
-          31,
           33,
           36,
-          40,
-          42,
+          38,
+          41,
+          43,
           46,
-          50
+          50,
+          52,
+          56,
+          60
         ],
         "CRITICAL_DAMAGE": [
           15,
@@ -22596,7 +23212,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -22698,6 +23314,7 @@
       "category": "SWORD",
       "tier": "RARE",
       "npc_sell_price": 2000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           68,
@@ -22930,7 +23547,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -23046,6 +23663,7 @@
         }
       ],
       "npc_sell_price": 25000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -23298,7 +23916,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -23417,6 +24035,7 @@
       "category": "SWORD",
       "tier": "RARE",
       "npc_sell_price": 20000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           85,
@@ -23571,7 +24190,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzMWNhOWU0NmZjZjM1MTM1NGZhMDIyOTkyZmEwN2NjNTliZTUwZmZiODBlOWRkOGFmNDk3MzM3OGNmODlkNSJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzUyMDEyNjQ4NSwKICAicHJvZmlsZUlkIiA6ICIyMDhhMWJkNzAxMzg0ZDE0YTA1NjU4MTkyNzhmMGExNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJab3JndWl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MWZiYzUwMTBlODA0N2ViYzBiZmQ1Yjc2MzVhYjU0NzcyZDhmZDVhMjgwOTlhZWViYzhhZTI0MDdmMDI2YjA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Intimidation Ring",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
@@ -23650,6 +24269,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           40,
@@ -23766,7 +24386,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -24142,7 +24762,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -24289,6 +24909,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_THORN_HEAD"
@@ -24462,7 +25083,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -24481,7 +25102,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Wither Cloak Sword",
       "category": "SWORD",
       "tier": "EPIC",
@@ -24645,7 +25265,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -24726,6 +25346,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -24914,7 +25535,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -24956,6 +25577,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -25215,6 +25837,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           26,
@@ -25493,6 +26116,14 @@
       "id": "BAT_FIREWORK"
     },
     {
+      "material": "RED_ROSE",
+      "durability": 1,
+      "name": "Fel Rose",
+      "tier": "EPIC",
+      "dungeon_item": true,
+      "id": "FEL_ROSE"
+    },
+    {
       "material": "PACKED_ICE",
       "name": "Enchanted Packed Ice",
       "glowing": true,
@@ -25506,6 +26137,7 @@
       "category": "BOW",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           109,
@@ -25693,7 +26325,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -25932,7 +26564,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzMwNDc1OCwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RiZmIwZWQ1OTU5MTkwZDQxNWU3MjZhMTVmMjk4NDAwN2E2N2E1ZmQ0ZWE1NjcxZDBkNjc2ZjlmNjQxYjViYWMiCiAgICB9CiAgfQp9",
       "name": "Maxor's Helmet",
       "category": "HELMET",
@@ -26055,10 +26686,11 @@
     },
     {
       "material": "BOW",
-      "name": "Machine Gun Bow",
+      "name": "Machine Gun Shortbow",
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           75,
@@ -26644,7 +27276,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -26983,6 +27615,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           36,
@@ -27317,6 +27950,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           71,
@@ -27557,7 +28191,6 @@
     },
     {
       "material": "BONE",
-      "item_durability": -1,
       "name": "Bonemerang",
       "glowing": true,
       "category": "BOW",
@@ -28084,7 +28717,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -28435,6 +29068,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           33,
@@ -28685,7 +29319,7 @@
       "material": "TNT",
       "name": "Infinityboom TNT",
       "glowing": true,
-      "tier": "RARE",
+      "tier": "EPIC",
       "npc_sell_price": 0,
       "id": "INFINITE_SUPERBOOM_TNT"
     },
@@ -28766,9 +29400,9 @@
       "gear_score": 20,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -28825,9 +29459,10 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -29068,7 +29703,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "231,65,60",
       "name": "Necron's Chestplate",
       "category": "CHESTPLATE",
@@ -29198,9 +29832,10 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -29702,7 +30337,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Necromancer Sword",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -29843,6 +30477,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_NECRON_HEAD"
@@ -29969,7 +30604,6 @@
     {
       "material": "RED_ROSE",
       "durability": 2,
-      "item_durability": -1,
       "name": "Spirit Sceptre",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -30232,7 +30866,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Fire Fury Staff",
       "category": "SWORD",
       "tier": "EPIC",
@@ -30245,7 +30878,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 250000,
@@ -30745,7 +31378,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -30870,7 +31503,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -30920,6 +31553,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           48,
@@ -31075,6 +31709,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           35,
@@ -31421,7 +32056,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "101,96,90",
       "name": "Goldor's Leggings",
       "category": "LEGGINGS",
@@ -31532,7 +32166,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Wither Boots",
       "category": "BOOTS",
@@ -31767,7 +32400,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 185700,
@@ -32338,7 +32971,6 @@
     },
     {
       "material": "DIAMOND_SWORD",
-      "item_durability": -1,
       "name": "Shadow Fury",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -32659,7 +33291,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Stun Bow",
       "category": "BOW",
       "tier": "UNCOMMON",
@@ -32696,7 +33327,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -32919,7 +33550,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -33098,6 +33729,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_PROFESSOR_HEAD"
@@ -33151,6 +33783,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_SADAN_HEAD"
@@ -33242,6 +33875,7 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           105,
@@ -33387,6 +34021,7 @@
       "category": "HELMET",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           70,
@@ -33757,7 +34392,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -33797,7 +34432,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Adaptive Blade",
       "category": "SWORD",
       "tier": "EPIC",
@@ -33898,7 +34532,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -34111,9 +34745,10 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -34414,7 +35049,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -34743,7 +35378,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzIwODgzNSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNDkyM2UyOGExODdmZTZhZjIyNzhiNzM5NGVmMjUzYTk2MzMxZmEyZGMwNzMxODc5Yzc4MGJmZWUyNDQyMjhhIgogICAgfQogIH0KfQ",
       "name": "Goldor's Helmet",
       "category": "HELMET",
@@ -34866,7 +35500,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 5000,
@@ -35139,9 +35773,9 @@
       "gear_score": 40,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -35149,7 +35783,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "137,105,200",
       "name": "Maxor's Boots",
       "category": "BOOTS",
@@ -35304,7 +35937,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUyZjkyNjk0YWQ4MWU2MzU4YjQzMDcyYWFlZjI1ZjhlMDA5OTE4NGJiNGM3ZmQzODhlNGFkZjcwYWNjN2UwZiJ9fX0",
       "name": "Necromancer Lord Helmet",
       "category": "HELMET",
@@ -35631,7 +36263,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Spirit Sword",
       "category": "SWORD",
       "tier": "EPIC",
@@ -35704,7 +36335,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -36201,7 +36832,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Fel Sword",
       "category": "SWORD",
       "tier": "EPIC",
@@ -36287,7 +36917,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "salvageable_from_recipe": true,
@@ -36561,7 +37191,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -36756,7 +37386,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -37126,6 +37756,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           17,
@@ -37296,6 +37927,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_BONZO_HEAD"
@@ -37438,6 +38070,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           20,
@@ -37576,9 +38209,10 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -37934,7 +38568,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "28,212,228",
       "name": "Storm's Boots",
       "category": "BOOTS",
@@ -38057,7 +38690,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Leggings",
       "category": "LEGGINGS",
@@ -38213,6 +38845,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -38365,7 +38998,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -38528,7 +39161,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "74,20,183",
       "name": "Maxor's Chestplate",
       "category": "CHESTPLATE",
@@ -38718,7 +39350,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -38771,7 +39403,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -39109,7 +39741,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -39416,9 +40048,9 @@
       "gear_score": 30,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -39472,7 +40104,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -39548,6 +40180,7 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           110,
@@ -39652,6 +40285,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           22,
@@ -39794,6 +40428,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           43,
@@ -39870,7 +40505,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Leggings",
       "category": "LEGGINGS",
@@ -40515,7 +41149,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Boots",
       "category": "BOOTS",
@@ -40593,7 +41226,9 @@
       "id": "STARRED_SHADOW_ASSASSIN_BOOTS"
     },
     {
-      "material": "NETHER_STAR",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzIzODc5MSwKICAicHJvZmlsZUlkIiA6ICI4ZGUyNDAzYTEyMjU0ZmFkOTM1OTYxYWFlYmQwNGUyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdW5hbWkyNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNTFlNTJiMWRlOTdiNTM0MzU4YjUzY2QyYzljNDU1MjYwODZkMmE2ZjBlMGFlNjVlNGJhMmZmNWM2MjkwZWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Day Crystal",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -40649,7 +41284,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "23,168,196",
       "name": "Storm's Leggings",
       "category": "LEGGINGS",
@@ -40872,7 +41506,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -41110,9 +41744,9 @@
       "gear_score": 20,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -41337,6 +41971,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           36,
@@ -41517,6 +42152,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           42,
@@ -41826,9 +42462,9 @@
       "gear_score": 40,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -41953,7 +42589,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -42010,6 +42646,7 @@
         "DEFENSE": 10,
         "HEALTH": 100
       },
+      "rarity_salvageable": true,
       "npc_sell_price": 1,
       "upgrade_costs": [
         [
@@ -42122,7 +42759,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -42155,7 +42792,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -42447,7 +43084,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -42495,6 +43132,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           26,
@@ -42634,7 +43272,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Necromancer Lord Chestplate",
       "category": "CHESTPLATE",
@@ -42816,6 +43453,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           60,
@@ -43123,8 +43761,8 @@
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 235,
-        "STRENGTH": 95,
-        "CRITICAL_DAMAGE": 95
+        "STRENGTH": 120,
+        "CRITICAL_DAMAGE": 120
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -43167,9 +43805,9 @@
       "gear_score": 50,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -43309,7 +43947,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -43627,7 +44265,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Last Breath",
       "category": "BOW",
       "tier": "LEGENDARY",
@@ -43863,6 +44500,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_SADAN_HEAD"
@@ -43921,7 +44559,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -43985,7 +44623,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 55000,
@@ -44383,7 +45021,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "255,163,59",
       "name": "Berserker Chestplate",
       "category": "CHESTPLATE",
@@ -44392,7 +45029,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "tier": "EPIC",
@@ -44674,7 +45311,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -44887,7 +45524,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "93,47,185",
       "name": "Maxor's Leggings",
       "category": "LEGGINGS",
@@ -45391,7 +46027,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -45437,6 +46073,7 @@
       "tier": "RARE",
       "ability_damage_scaling": 0.3,
       "npc_sell_price": 200,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -45451,7 +46088,7 @@
           100
         ],
         "STRENGTH": [
-          50,
+          23,
           25,
           27,
           29,
@@ -45519,7 +46156,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 5
+          "level": 3
         }
       ],
       "dungeon_item": true,
@@ -45785,6 +46422,7 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -45904,6 +46542,14 @@
       "category": "HOE",
       "npc_sell_price": 1,
       "id": "WOOD_HOE"
+    },
+    {
+      "material": "GHAST_TEAR",
+      "name": "Thorn Fragment",
+      "glowing": true,
+      "tier": "RARE",
+      "dungeon_item": true,
+      "id": "THORN_FRAGMENT"
     },
     {
       "material": "IRON_INGOT",
@@ -46132,7 +46778,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -46828,13 +47474,13 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Giant's Sword",
-      "category": "SWORD",
+      "category": "LONGSWORD",
       "tier": "LEGENDARY",
       "stats": {
         "DAMAGE": 500,
-        "WEAPON_ABILITY_DAMAGE": 100000
+        "WEAPON_ABILITY_DAMAGE": 100000,
+        "SWING_RANGE": 1
       },
       "ability_damage_scaling": 0.05,
       "npc_sell_price": 1000,
@@ -47010,7 +47656,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Chestplate",
       "category": "CHESTPLATE",
@@ -47208,6 +47853,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_NECRON_HEAD"
@@ -47293,6 +47939,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "STRENGTH": [
           50
@@ -47458,7 +48105,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Hyperion",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -47667,7 +48313,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -47727,7 +48373,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -48011,6 +48657,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 5000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           25,
@@ -48286,6 +48933,7 @@
       "category": "HELMET",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           65,
@@ -48380,6 +49028,7 @@
       "category": "SWORD",
       "tier": "EPIC",
       "npc_sell_price": 500,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           62,
@@ -48689,7 +49338,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Valkyrie",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -49012,6 +49660,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_BONZO_HEAD"
@@ -49158,7 +49807,6 @@
     },
     {
       "material": "YELLOW_FLOWER",
-      "item_durability": -1,
       "name": "Fire Freeze Staff",
       "category": "SWORD",
       "tier": "EPIC",
@@ -49170,7 +49818,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 1750,
@@ -49446,7 +50094,6 @@
     },
     {
       "material": "STONE_SWORD",
-      "item_durability": -1,
       "name": "Adaptive Blade",
       "category": "SWORD",
       "tier": "EPIC",
@@ -49587,7 +50234,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "salvageable_from_recipe": true,
@@ -49932,6 +50579,7 @@
       "category": "SWORD",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           82,
@@ -50063,7 +50711,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "ability_damage_scaling": 0.3,
@@ -50385,7 +51033,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -50580,7 +51228,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Healing Bow",
       "category": "BOW",
       "tier": "RARE",
@@ -50659,7 +51306,9 @@
       "id": "LAMP_ORANGE"
     },
     {
-      "material": "NETHER_STAR",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzI3MTE0MywKICAicHJvZmlsZUlkIiA6ICJjMTc2MDkwNTQ1OGE0NDE5OGY5ODdmYTZjMzI5YjljMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb29kX05vcm1hbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YzQ2NTc4YWQ1OGU5NzZmYTA1NDc4NTEwODg5YTU4NzM1YTY3YzRkZDAyMmQzOThjMDRkNTY2NzZmMGRjMTcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Night Crystal",
       "category": "ACCESSORY",
       "tier": "RARE",
@@ -50734,7 +51383,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4YWY1MmVmMmY3MmMzYmY1ZWNlNmU3MGE4MmYxMzcxOTU5Y2UzZmNiNzM2YzUwMDMwNWNhZGRjNTA1YzVlMiJ9fX0",
       "name": "Shadow Assassin Helmet",
       "category": "HELMET",
@@ -50972,7 +51620,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 18
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -51074,7 +51722,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -51386,7 +52034,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Spirit Shortbow",
       "category": "BOW",
       "tier": "LEGENDARY",
@@ -51636,7 +52283,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -51728,7 +52375,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "55,1,71",
       "name": "Necromancer Lord Leggings",
       "category": "LEGGINGS",
@@ -51981,7 +52627,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -51991,6 +52637,7 @@
         "CRITICAL_DAMAGE": 10,
         "FEROCITY": 1
       },
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -52245,6 +52892,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -52321,7 +52969,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "255,212,39",
       "name": "Berserker Boots",
       "category": "BOOTS",
@@ -52331,7 +52978,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -52636,6 +53283,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_SCARF_HEAD"
@@ -52813,6 +53461,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           55,
@@ -53029,7 +53678,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "255,183,39",
       "name": "Berserker Leggings",
       "category": "LEGGINGS",
@@ -53039,7 +53687,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -53307,6 +53955,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_LIVID_HEAD"
@@ -53326,6 +53975,15 @@
       "glowing": true,
       "category": "PET_ITEM",
       "id": "PET_ITEM_FORAGING_SKILL_BOOST_COMMON"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk1Nzc4NDgwMiwKICAicHJvZmlsZUlkIiA6ICJmNjk2OWMxYzBmY2Q0YTZiYWY1OTllNjQ2ZWM3M2VjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb3dlckRyYWdvbkhlcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzA2NmZkMDc2ODM5ODllNjZiZjc1MjM5OGM0ODYxYzcxYWU2ZmUyMjhhNDkzZjJmZGY0MjczODE2NTBhMTI4MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Intimidation Relic",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "id": "INTIMIDATION_RELIC"
     },
     {
       "material": "RAW_FISH",
@@ -53488,13 +54146,22 @@
       "gear_score": 60,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
       "id": "WITHER_GOGGLES"
+    },
+    {
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDQ0NzI4Nzc0NSwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlN2Q1OTg0NzAxMTk4YjVmMTdjNWI5MzA3NDgxYzczZjZlY2I2M2ViY2FlZDQxYzFlYTg1Yzk5YzIwNDRjYWUiCiAgICB9CiAgfQp9",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Fel Skull",
+      "tier": "LEGENDARY",
+      "dungeon_item": true,
+      "id": "FEL_SKULL"
     },
     {
       "material": "BANNER",
@@ -53840,6 +54507,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           47,
@@ -53907,6 +54575,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI0ODMxMzQ5OSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzhiMTVlODVlZDIyNWMyMWMzMjM2N2RhN2JlMjQ0Nzc5ZTM2YWZlN2Y3NTYzYTZhNTcwYTcxN2NiNWJlMWIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Prehistoric Egg",
       "unstackable": true,
+      "npc_sell_price": 1000,
       "id": "PREHISTORIC_EGG"
     },
     {
@@ -53987,7 +54656,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 19
+          "level": 14
         }
       ],
       "gemstone_slots": [
@@ -54153,7 +54822,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -54450,6 +55119,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_SCARF_HEAD"
@@ -54468,10 +55138,11 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 4000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -54643,7 +55314,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
       "name": "Bonzo's Mask",
       "category": "HELMET",
@@ -54703,7 +55373,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ==",
       "name": "Spirit Mask",
       "category": "HELMET",
@@ -54770,6 +55439,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           28,
@@ -54932,6 +55602,7 @@
       "category": "BOW",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           94,
@@ -55173,7 +55844,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Bonzo's Staff",
       "category": "SWORD",
       "tier": "RARE",
@@ -55285,6 +55955,7 @@
         }
       ],
       "npc_sell_price": 50000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -55501,6 +56172,7 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "HEALTH": [
           125,
@@ -55604,7 +56276,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -56174,7 +56846,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkzMWNhOWU0NmZjZjM1MTM1NGZhMDIyOTkyZmEwN2NjNTliZTUwZmZiODBlOWRkOGFmNDk3MzM3OGNmODlkNSJ9fX0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzUyMDAwOTgzMCwKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ODExN2MyMDliNjllZWFmMjY4NDgxNmUxNmJlZDI1ZTY2NTAwOGU3MzI5NjMyZmRmY2E2NTIzNzk5Y2Q3ZjcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Intimidation Talisman",
       "category": "ACCESSORY",
       "npc_sell_price": 200,
@@ -56358,7 +57030,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Aurora Staff",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -56587,7 +57258,6 @@
     },
     {
       "material": "BLAZE_ROD",
-      "item_durability": -1,
       "name": "Bonzo's Staff",
       "category": "SWORD",
       "tier": "RARE",
@@ -56705,7 +57375,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Wither Leggings",
       "category": "LEGGINGS",
@@ -56766,7 +57435,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Necron's Blade (Unrefined)",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -57189,6 +57857,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -57423,7 +58092,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -57619,9 +58288,10 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -58076,6 +58746,7 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -58260,7 +58931,6 @@
     },
     {
       "material": "IRON_AXE",
-      "item_durability": -1,
       "name": "Ghost Axe",
       "category": "AXE",
       "tier": "UNCOMMON",
@@ -58395,9 +59065,9 @@
       "gear_score": 30,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 28
+          "tier": 6
         }
       ],
       "dungeon_item": true,
@@ -58405,7 +59075,6 @@
     },
     {
       "material": "BOW",
-      "item_durability": -1,
       "name": "Last Breath",
       "category": "BOW",
       "tier": "LEGENDARY",
@@ -58565,7 +59234,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -58707,7 +59376,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -58909,18 +59578,19 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
-          23,
-          25,
-          27,
-          30,
-          32,
+          33,
           35,
-          38,
-          41,
+          37,
+          40,
+          42,
           45,
-          49
+          48,
+          51,
+          55,
+          59
         ],
         "HEALTH": [
           14,
@@ -59103,6 +59773,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           30,
@@ -59230,7 +59901,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -59382,6 +60053,12 @@
       "dungeon_item_conversion_cost": {
         "essence_type": "GOLD",
         "amount": 5
+      },
+      "item_specific": {
+        "speed_boost": 100,
+        "effect_duration_seconds": 30,
+        "cooldown_seconds": 5,
+        "mana_cost": 50
       },
       "upgrade_costs": [
         [
@@ -59687,6 +60364,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "DIAMOND_PROFESSOR_HEAD"
@@ -59761,7 +60439,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -60035,7 +60713,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Scylla",
       "category": "SWORD",
       "tier": "LEGENDARY",
@@ -60178,7 +60855,6 @@
     },
     {
       "material": "LEATHER_LEGGINGS",
-      "item_durability": -1,
       "color": "231,92,60",
       "name": "Necron's Leggings",
       "category": "LEGGINGS",
@@ -60384,6 +61060,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           25,
@@ -60608,7 +61285,6 @@
     },
     {
       "material": "IRON_SWORD",
-      "item_durability": -1,
       "name": "Livid Dagger",
       "category": "SWORD",
       "sword_type": "DAGGER",
@@ -60790,8 +61466,8 @@
       "tier": "EPIC",
       "stats": {
         "DAMAGE": 175,
-        "STRENGTH": 50,
-        "CRITICAL_DAMAGE": 50
+        "STRENGTH": 100,
+        "CRITICAL_DAMAGE": 100
       },
       "npc_sell_price": 1,
       "upgrade_costs": [
@@ -60834,9 +61510,9 @@
       "gear_score": 20,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -61056,6 +61732,14 @@
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
       "npc_sell_price": 50,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 10
+        }
+      ],
       "id": "SPIDER_TALISMAN"
     },
     {
@@ -61153,6 +61837,7 @@
       "category": "SWORD",
       "tier": "RARE",
       "npc_sell_price": 1000,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -61420,7 +62105,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -61454,6 +62139,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -10,
@@ -61586,7 +62272,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "unstackable": true,
@@ -61890,6 +62576,7 @@
       "category": "SWORD",
       "tier": "EPIC",
       "npc_sell_price": 123,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           73,
@@ -62020,18 +62707,19 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
-          34,
-          38,
-          41,
-          45,
-          49,
-          52,
-          57,
+          44,
+          48,
+          51,
+          55,
+          59,
           62,
           67,
-          74
+          72,
+          77,
+          84
         ],
         "HEALTH": [
           22,
@@ -62153,7 +62841,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -62417,6 +63105,7 @@
       "category": "LEGGINGS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           5,
@@ -62506,7 +63195,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzI0OTc5MywKICAicHJvZmlsZUlkIiA6ICIwNjEzY2I1Y2QxYjg0M2JjYjI4OTk1NWU4N2QzMGEyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmVhZGxvYWZzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYmJiMmZhN2E2Y2EwODcyODBlYTBjYjU2NGI0MWVmMWFlNDA0YTE5ZjdhODEyOGQzZDI4YzUxOWE4NWUwNjNmIgogICAgfQogIH0KfQ",
       "name": "Necron's Helmet",
       "category": "HELMET",
@@ -62998,6 +63686,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           39,
@@ -63210,7 +63899,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "136,131,126",
       "name": "Goldor's Boots",
       "category": "BOOTS",
@@ -63445,7 +64133,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
       "name": "Bonzo's Mask",
       "category": "HELMET",
@@ -63587,7 +64274,8 @@
       "stats": {
         "DAMAGE": 500,
         "STRENGTH": 100,
-        "CRITICAL_DAMAGE": 30
+        "CRITICAL_DAMAGE": 30,
+        "SWING_RANGE": 2
       },
       "npc_sell_price": 0,
       "upgrade_costs": [
@@ -63634,7 +64322,6 @@
           "tier": 7
         }
       ],
-      "item_durability": -1,
       "dungeon_item": true,
       "gemstone_slots": [
         {
@@ -63781,6 +64468,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           22,
@@ -64110,7 +64798,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 10000,
@@ -64644,9 +65332,9 @@
       "gear_score": 60,
       "requirements": [
         {
-          "type": "DUNGEON_SKILL",
+          "type": "DUNGEON_TIER",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "tier": 3
         }
       ],
       "dungeon_item": true,
@@ -64831,7 +65519,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -65272,7 +65960,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -65353,6 +66041,7 @@
       "category": "HELMET",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           32,
@@ -65678,6 +66367,7 @@
           }
         ]
       ],
+      "rarity_salvageable": false,
       "dungeon_item": true,
       "museum": true,
       "id": "GOLD_LIVID_HEAD"
@@ -65761,7 +66451,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -65914,6 +66604,7 @@
       "category": "BOOTS",
       "tier": "RARE",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "WALK_SPEED": [
           -5,
@@ -66094,7 +66785,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -66489,7 +67180,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 10
         }
       ],
       "gemstone_slots": [
@@ -66638,7 +67329,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTQ3OTI0MjkyNCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MmMwNjgzYjIwMTljYTNkMzk0NzI3M2UzOTRiZmNhMWI0ZDcxYjYxYjY3YjM5NDc0YzJkNmQ3M2E5YjY3NTA4IgogICAgfQogIH0KfQ==",
       "name": "Precursor Eye",
       "category": "HELMET",
@@ -66753,6 +67443,7 @@
       "category": "BOOTS",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           19,
@@ -66970,7 +67661,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MGE0NjA3OGNjNzZmYzZjNjg1YmVjNDIxMjExNzExNWE4ODEzNGNmZjRjYmM4MmJiYWYwMTk0YzhkMjc3ZTk5In19fQ==",
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1YzQzMzkwODczMmI1MTJmNjg0NjFjMTRlZjAyMGJiMmY1NWQ5NmE2MWNkMWQ0NWVhMWU3ZWE4OTlmMWE2YiJ9fX0=",
       "name": "Present Stack",
       "furniture": "PRESENTS",
       "id": "PRESENTS"
@@ -67162,7 +67853,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "23,147,196",
       "name": "Storm's Chestplate",
       "category": "CHESTPLATE",
@@ -67384,7 +68074,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 16
+          "level": 12
         }
       ],
       "gemstone_slots": [
@@ -67716,7 +68406,6 @@
     },
     {
       "material": "LEATHER_CHESTPLATE",
-      "item_durability": -1,
       "color": "0,0,0",
       "name": "Shadow Assassin Chestplate",
       "category": "CHESTPLATE",
@@ -67803,7 +68492,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjYwMDAzYTcxNGYyMGI5YTAwMTcxMDg4NGYyYjMwNjNkMmJhNGVjZmE4ZjVmY2M2MzRiOTIxMWMzOGI4MzU5In19fQ==",
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg4NGVkMTk1MGJiOGIxOThhZGE4MTkxNjg0NDAwYmQ2NjQwZTAzNzEwNDgxYzgxMjJiNzgwYjllZDFiZDk4YyJ9fX0=",
       "name": "Spooky Shard",
       "tier": "EPIC",
       "id": "SPOOKY_SHARD"
@@ -68081,6 +68770,7 @@
       "category": "CHESTPLATE",
       "tier": "EPIC",
       "npc_sell_price": 1,
+      "rarity_salvageable": true,
       "tiered_stats": {
         "DEFENSE": [
           81,
@@ -68167,7 +68857,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "stats": {
@@ -68303,6 +68993,7 @@
         }
       ],
       "npc_sell_price": 10000,
+      "rarity_salvageable": true,
       "can_have_attributes": true,
       "salvages": [
         {
@@ -68480,7 +69171,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzM2NjgxNiwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODMxNTljNWJiN2Q4MDQ1NGQyZDY0NmIxNTc3NGI3MTE2YWFiY2IzYWY1YjY3NzdhMjc1NzNmYzQ1Zjc4NTRmIgogICAgfQogIH0KfQ",
       "name": "Storm's Helmet",
       "category": "HELMET",
@@ -68662,7 +69352,6 @@
     },
     {
       "material": "LEATHER_BOOTS",
-      "item_durability": -1,
       "color": "64,3,82",
       "name": "Necromancer Lord Boots",
       "category": "BOOTS",
@@ -68761,7 +69450,6 @@
     },
     {
       "material": "REDSTONE_TORCH_ON",
-      "item_durability": -1,
       "name": "Hellstorm Wand",
       "category": "WAND",
       "tier": "EPIC",
@@ -68996,7 +69684,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "salvageable_from_recipe": true,
@@ -69248,7 +69936,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "item_durability": -1,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4YWY1MmVmMmY3MmMzYmY1ZWNlNmU3MGE4MmYxMzcxOTU5Y2UzZmNiNzM2YzUwMDMwNWNhZGRjNTA1YzVlMiJ9fX0",
       "name": "Shadow Assassin Helmet",
       "category": "HELMET",
@@ -69639,6 +70326,15 @@
       "name": "Inferno Fuel Block",
       "tier": "RARE",
       "id": "INFERNO_FUEL_BLOCK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzcxNzkzM2M0MGZiZjkzNmFhOTI4ODUxM2VmZTE5YmRhNDYwMWVmYzBlNGVjYWQyZTAyM2IwYzFkMjg0NDRiIn19fQ==",
+      "name": "Very Crude Gabagool",
+      "tier": "RARE",
+      "npc_sell_price": 1,
+      "id": "VERY_CRUDE_GABAGOOL"
     },
     {
       "material": "SKULL_ITEM",
@@ -70139,6 +70835,14 @@
       "tier": "RARE",
       "unstackable": true,
       "id": "CAPSAICIN_EYEDROPS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU5MjhjMjc4NTAyN2U3YmM0OWZiOTZmZjQ4MDFhNjczZDJhNTllZjMwYjU2MWY5ZjI0NTIxNDZiNDVkZTg5OSJ9fX0=",
+      "name": "Capsaicin Eyedrops",
+      "tier": "RARE",
+      "id": "CAPSAICIN_EYEDROPS_NO_CHARGES"
     },
     {
       "material": "SKULL_ITEM",
@@ -72646,7 +73350,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 15
+          "level": 12
         }
       ],
       "id": "REVENANT_SWORD"
@@ -72713,7 +73417,7 @@
         {
           "type": "DUNGEON_SKILL",
           "dungeon_type": "CATACOMBS",
-          "level": 22
+          "level": 18
         }
       ],
       "gemstone_slots": [
@@ -73856,6 +74560,7 @@
           "amount": 5
         }
       ],
+      "rarity_salvageable": true,
       "id": "ICE_ROD"
     },
     {
@@ -78265,7 +78970,7 @@
       "origin": "RIFT",
       "item_specific": {
         "permanent_health": 5,
-        "permanent_carrots_ff": 12
+        "permanent_crops_farming_fortune": 12
       },
       "id": "EXPORTABLE_CARROTS"
     },
@@ -78748,6 +79453,54 @@
       "enchantments": {
         "aiming": 5
       },
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DRAGON",
+        "amount": 100
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 30
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 50
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "soulbound": "COOP",
       "id": "DRAGON_SHORTBOW"
     },
@@ -78847,91 +79600,6 @@
       "id": "END_STONE_BOW"
     },
     {
-      "material": "DIAMOND_SWORD",
-      "name": "Aspect of the Draconic",
-      "category": "SWORD",
-      "tier": "LEGENDARY",
-      "stats": {
-        "DAMAGE": 260,
-        "STRENGTH": 150,
-        "WEAPON_ABILITY_DAMAGE": 20000
-      },
-      "ability_damage_scaling": 0.1,
-      "npc_sell_price": 100000,
-      "dungeon_item_conversion_cost": {
-        "essence_type": "DRAGON",
-        "amount": 150
-      },
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 100
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "DRAGON",
-            "amount": 400
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "COMBAT",
-          "level": 24
-        }
-      ],
-      "catacombs_requirements": [
-        {
-          "type": "DUNGEON_SKILL",
-          "dungeon_type": "CATACOMBS",
-          "level": 24
-        }
-      ],
-      "gemstone_slots": [
-        {
-          "slot_type": "JASPER",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 50000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FINE_JASPER_GEM",
-              "amount": 20
-            }
-          ]
-        }
-      ],
-      "id": "ASPECT_OF_THE_DRACONIC"
-    },
-    {
       "material": "BOW",
       "name": "Ender Bow",
       "category": "BOW",
@@ -78951,6 +79619,18 @@
       "npc_sell_price": 10000,
       "description": "%%dark_gray%%%%italic%%It's all that's left from a draconic sacrifice.",
       "id": "RITUAL_RESIDUE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ3OGE5NWIxYmU1ODU5M2EwM2NmMTQ3MjYzYmRhM2I4YjM0Njg5OWJlMTEwZDMxNDY1ZWQyZmViYzBiZDEwIn19fQ==",
+      "name": "%%green%%Ballista Fuel Cell",
+      "id": "ELLE_FUEL_CELL"
+    },
+    {
+      "material": "CHEST",
+      "name": "%%green%%Elle's Supplies",
+      "id": "ELLE_SUPPLIES"
     },
     {
       "material": "SKULL_ITEM",
@@ -79100,6 +79780,449 @@
       "id": "SPIRIT_LEAP"
     },
     {
+      "material": "IRON_SWORD",
+      "name": "Bone Reaver",
+      "category": "LONGSWORD",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DAMAGE": 235,
+        "STRENGTH": 90,
+        "SWING_RANGE": 0.5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "id": "BONE_REAVER"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Felthorn Reaper",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DAMAGE": 275,
+        "CRITICAL_DAMAGE": 115,
+        "SWING_RANGE": 1
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "FELTHORN_REAPER"
+    },
+    {
+      "material": "BOW",
+      "name": "Spirit Shortbow",
+      "category": "BOW",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 220,
+        "STRENGTH": 110
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 40,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_ITEM_SPIRIT_BOW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI0MDc0MSwKICAicHJvZmlsZUlkIiA6ICI2ZDgwYjVkMjQyMGY0MWZkOTQxMjM4YzA3YzVlYzAxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb05pWW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUzMDg4ZGUzZWRmZDFiMTA5OGQ4ZDhmNTZmNTAwNGE4OTMwNTUxZTA2M2M3Nzg5MWZhMDA3MDNjZjAzMWI5OSIKICAgIH0KICB9Cn0=",
+      "name": "Balloon Snake",
+      "category": "NECKLACE",
+      "tier": "RARE",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "HEALTH": 10,
+        "INTELLIGENCE": 10
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 5
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 1
+        }
+      ],
+      "id": "BALLOON_SNAKE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9",
+      "name": "Shadow Assassin Cloak",
+      "category": "CLOAK",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 25,
+        "WALK_SPEED": 5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 5
+        }
+      ],
+      "id": "STARRED_SHADOW_ASSASSIN_CLOAK"
+    },
+    {
+      "material": "DOUBLE_PLANT",
+      "durability": 4,
+      "name": "Bouquet of Lies",
+      "glowing": true,
+      "category": "SWORD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 220,
+        "STRENGTH": 300,
+        "CRITICAL_DAMAGE": 50
+      },
+      "npc_sell_price": 100000,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 800
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "id": "BOUQUET_OF_LIES"
+    },
+    {
+      "material": "RED_ROSE",
+      "durability": 2,
+      "name": "Spirit Sceptre",
+      "category": "SWORD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 190,
+        "WEAPON_ABILITY_DAMAGE": 2250,
+        "INTELLIGENCE": 330
+      },
+      "ability_damage_scaling": 0.2,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 40,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "id": "STARRED_BAT_WAND"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjYxMjc0MiwKICAicHJvZmlsZUlkIiA6ICI5ZWU3NTUxOGQyZWE0Y2Q4OGJiNGI1YTZkNmVhNTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWNyb3MxMTgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2Q0YTIwNmQ3NzU3ZjQ3OWYzMzJlYzFhMmJiYmVlNTdjZWY5NzU2OGRkODhkZjgxZjQ4NjRhZWU3ZDNkOTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -79111,12 +80234,582 @@
       "id": "INFINITE_SPIRIT_LEAP"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0=",
+      "name": "Soulweaver Gloves",
+      "category": "GLOVES",
+      "tier": "EPIC",
+      "dungeon_item": true,
+      "npc_sell_price": 0,
+      "stats": {
+        "strength": 10,
+        "critical_damage": 10
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 600
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "SOULWEAVER_GLOVES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9",
+      "name": "Shadow Assassin Cloak",
+      "category": "CLOAK",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 20,
+        "WALK_SPEED": 3
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 125
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 400
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 5
+        }
+      ],
+      "id": "SHADOW_ASSASSIN_CLOAK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ==",
+      "name": "Spirit Mask",
+      "category": "HELMET",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 25,
+        "DEFENSE": 75,
+        "HEALTH": 100,
+        "INTELLIGENCE": 25
+      },
+      "npc_sell_price": 20000,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 20,
+      "requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 15
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_SPIRIT_MASK"
+    },
+    {
       "material": "PAPER",
       "name": "Saul's Recommendation",
       "tier": "LEGENDARY",
       "soulbound": "SOLO",
       "glowing": true,
       "id": "SAULS_RECOMMENDATION"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Felthorn Reaper",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DAMAGE": 285,
+        "STRENGTH": 10,
+        "CRITICAL_DAMAGE": 125,
+        "SWING_RANGE": 1.5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "STARRED_FELTHORN_REAPER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0=",
+      "name": "Adaptive Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 5,
+        "HEALTH": 10,
+        "DEFENSE": 5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 75
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 2
+        }
+      ],
+      "id": "ADAPTIVE_BELT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODE4Nzc4NiwKICAicHJvZmlsZUlkIiA6ICI1MWIyZGY3NWEyYWM0OTA5YmM4YzlkMzM3Y2EwNDNkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWNvcm5lQXVCZXVycmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWEzNjFhNjdiNjNkMDQ1YTBhNjNiNTI1YzFhNzAxMjhmNjkwOWVmMWFjN2JjYzZlNDYzMWViODk1ZjA3NTAyZCIKICAgIH0KICB9Cn0=",
+      "name": "Bone Necklace",
+      "category": "NECKLACE",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DEFENSE": 35,
+        "CRITICAL_CHANCE": 3
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 150
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "id": "BONE_NECKLACE"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Giant's Eye Sword",
+      "category": "LONGSWORD",
+      "tier": "LEGENDARY",
+      "dungeon_item": true,
+      "ability_damage_scaling": 0.05,
+      "npc_sell_price": 1000,
+      "stats": {
+        "DAMAGE": 500,
+        "WEAPON_ABILITY_DAMAGE": 100000,
+        "SWING_RANGE": 1
+      },
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "MASTER_CATACOMBS",
+          "tier": 6
+        }
+      ],
+      "id": "GIANTS_EYE_SWORD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0=",
+      "name": "Adaptive Belt",
+      "category": "BELT",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "STRENGTH": 10,
+        "HEALTH": 15,
+        "DEFENSE": 10
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 35
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 75
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 2
+        }
+      ],
+      "id": "STARRED_ADAPTIVE_BELT"
+    },
+    {
+      "material": "LEATHER_BOOTS",
+      "color": "191,191,191",
+      "name": "Spirit Boots",
+      "category": "BOOTS",
+      "tier": "LEGENDARY",
+      "stats": {
+        "WALK_SPEED": 35,
+        "DEFENSE": 50,
+        "HEALTH": 150,
+        "STRENGTH": 35,
+        "INTELLIGENCE": 50
+      },
+      "npc_sell_price": 100000,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 30,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_THORNS_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "General's Medallion",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "dungeon_item": true,
+      "id": "GENERAL_MEDALLION"
+    },
+    {
+      "material": "BONE",
+      "name": "Bonemerang",
+      "glowing": true,
+      "category": "BOW",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 320,
+        "STRENGTH": 150
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 40,
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_BONE_BOOMERANG"
     },
     {
       "material": "SKULL_ITEM",
@@ -79226,6 +80919,14 @@
       "name": "Abiphone XIV Enormous",
       "tier": "LEGENDARY",
       "npc_sell_price": 180,
+      "item_specific": {
+        "max_contacts": 11,
+        "max_musicdiscs": 25,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIV_ENORMOUS"
     },
     {
@@ -79235,6 +80936,10 @@
       "name": "Abiphone XI Ultra",
       "tier": "UNCOMMON",
       "npc_sell_price": 120,
+      "item_specific": {
+        "max_contacts": 6,
+        "max_musicdiscs": 2
+      },
       "id": "ABIPHONE_XI_ULTRA"
     },
     {
@@ -79244,15 +80949,31 @@
       "name": "Abiphone XIII Pro Giga",
       "tier": "EPIC",
       "npc_sell_price": 170,
+      "item_specific": {
+        "max_contacts": 10,
+        "max_musicdiscs": 20,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIII_PRO_GIGA"
     },
     {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTE4NTEzMSwKICAicHJvZmlsZUlkIiA6ICJmNTgyNGRmNGIwMTU0MDA4OGRhMzUyYTQxODU1MDQ0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGb3hHYW1lcjUzOTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMyNDRhNGUzMDZmZDE0NzQwNWViYTZiZjY3MDIxZDUwYjgxNWQxMDdjYzE1ZDk3YjgwMmI3ODUyMTAwOTllNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Abiphone XIV Enormous",
+      "name": "Abiphone XIV Enormous Purple",
       "tier": "LEGENDARY",
       "npc_sell_price": 190,
+      "item_specific": {
+        "max_contacts": 11,
+        "max_musicdiscs": 25,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIV_ENORMOUS_PURPLE"
     },
     {
@@ -79262,15 +80983,26 @@
       "name": "Abiphone X Plus",
       "tier": "UNCOMMON",
       "npc_sell_price": 100,
+      "item_specific": {
+        "max_contacts": 5
+      },
       "id": "ABIPHONE_X_PLUS"
     },
     {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQwNTIxNTk5NCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI1YWNhNjFlMWI4YmVjYTliZWZjYWRkMDgyNjJjNTgyMWUyNzViZTQxNGQ5NGYwYjI3ZTg1ODBmMjBkYmYzYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Abiphone XIV Enormous",
+      "name": "Abiphone XIV Enormous Black",
       "tier": "LEGENDARY",
       "npc_sell_price": 190,
+      "item_specific": {
+        "max_contacts": 11,
+        "max_musicdiscs": 25,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true,
+        "can_play_snake": true,
+        "has_dnd": true
+      },
       "id": "ABIPHONE_XIV_ENORMOUS_BLACK"
     },
     {
@@ -79280,6 +81012,12 @@
       "name": "Abiphone XIII Pro",
       "tier": "EPIC",
       "npc_sell_price": 160,
+      "item_specific": {
+        "max_contacts": 8,
+        "max_musicdiscs": 10,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true
+      },
       "id": "ABIPHONE_XIII_PRO"
     },
     {
@@ -79289,6 +81027,12 @@
       "name": "Abiphone XII Mega Color",
       "tier": "EPIC",
       "npc_sell_price": 150,
+      "item_specific": {
+        "max_contacts": 7,
+        "max_musicdiscs": 4,
+        "has_contact_directory": true,
+        "can_play_tictactoe": true
+      },
       "id": "ABIPHONE_XII_MEGA_COLOR"
     },
     {
@@ -79298,6 +81042,11 @@
       "name": "Abiphone XII Mega",
       "tier": "RARE",
       "npc_sell_price": 140,
+      "item_specific": {
+        "max_contacts": 7,
+        "max_musicdiscs": 4,
+        "has_contact_directory": true
+      },
       "id": "ABIPHONE_XII_MEGA"
     },
     {
@@ -79307,6 +81056,9 @@
       "name": "Abiphone X Plus Special Edition",
       "tier": "UNCOMMON",
       "npc_sell_price": 110,
+      "item_specific": {
+        "max_contacts": 5
+      },
       "id": "ABIPHONE_X_PLUS_SPECIAL_EDITION"
     },
     {
@@ -79316,6 +81068,11 @@
       "name": "Abiphone XI Ultra Style",
       "tier": "RARE",
       "npc_sell_price": 130,
+      "item_specific": {
+        "max_contacts": 6,
+        "max_musicdiscs": 2,
+        "has_contact_directory": true
+      },
       "id": "ABIPHONE_XI_ULTRA_STYLE"
     },
     {
@@ -79347,7 +81104,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -79578,7 +81335,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -79810,7 +81567,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -80041,7 +81798,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -80272,7 +82029,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -80457,7 +82214,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -80642,7 +82399,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -80827,7 +82584,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -81013,7 +82770,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -81200,7 +82957,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -81386,7 +83143,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -81572,7 +83329,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -81758,7 +83515,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -81945,7 +83702,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -82131,7 +83888,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -82317,7 +84074,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -82503,7 +84260,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -82689,7 +84446,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -82876,7 +84633,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -83062,7 +84819,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -83248,7 +85005,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -83479,7 +85236,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -83710,7 +85467,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -83942,7 +85699,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -84173,7 +85930,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -84358,7 +86115,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -84543,7 +86300,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -84728,7 +86485,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -84914,7 +86671,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -85101,7 +86858,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -85287,7 +87044,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -85473,7 +87230,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -85659,7 +87416,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -85846,7 +87603,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -86032,7 +87789,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -86218,7 +87975,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -86404,7 +88161,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -86591,7 +88348,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -86777,7 +88534,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -86963,7 +88720,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -87148,7 +88905,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -87377,7 +89134,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -87606,7 +89363,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -87835,7 +89592,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -88063,7 +89820,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -88246,7 +90003,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -88430,7 +90187,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -88613,7 +90370,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -88797,7 +90554,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -88981,7 +90738,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -89165,7 +90922,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -89350,7 +91107,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -89534,7 +91291,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -89719,7 +91476,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -89903,7 +91660,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -90087,7 +91844,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -90271,7 +92028,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -90455,7 +92212,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -90639,7 +92396,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -90824,7 +92581,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -91011,7 +92768,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -91243,7 +93000,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -91475,7 +93232,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -91708,7 +93465,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -91937,7 +93694,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "npc_sell_price": 10000,
@@ -91963,7 +93720,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -92149,7 +93906,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -92335,7 +94092,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -92522,7 +94279,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -92710,7 +94467,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -92897,7 +94654,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -93084,7 +94841,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -93271,7 +95028,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -93458,7 +95215,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -93645,7 +95402,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -93832,7 +95589,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -94020,7 +95777,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -94207,7 +95964,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -94394,7 +96151,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -94582,7 +96339,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -94769,7 +96526,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -94953,7 +96710,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -95183,7 +96940,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -95412,7 +97169,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -95641,7 +97398,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -95869,7 +97626,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -96053,7 +97810,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -96236,7 +97993,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -96419,7 +98176,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -96604,7 +98361,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -96788,7 +98545,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -96972,7 +98729,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -97156,7 +98913,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -97340,7 +99097,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -97524,7 +99281,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -97709,7 +99466,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -97893,7 +99650,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -98077,7 +99834,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -98261,7 +100018,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -98446,7 +100203,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,
@@ -98630,7 +100387,7 @@
         {
           "type": "SKILL",
           "skill": "COMBAT",
-          "level": 24
+          "level": 22
         }
       ],
       "can_have_attributes": true,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1693373956172,
+  "lastUpdated": 1696636528862,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -53,6 +53,13 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_SHEER_BRILLIANCE": {
+          "points": 10,
+          "name": "Dropper: Sheer Brilliance",
+          "description": "Win a game of Dropper without failing",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
         "CTW_I_CAN_BE_ANYTHING": {
           "points": 5,
           "name": "Capture the Wool: I can be anything",
@@ -101,10 +108,24 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_VERSATILE": {
+          "points": 10,
+          "name": "Dropper: Versatile",
+          "description": "Complete 40 different maps",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
         "PARTY_PERFECTION": {
           "points": 15,
           "name": "Party Games: Perfection!",
           "description": "Finish a game of Party Games with 24 stars",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DROPPER_SPEEDFALLER": {
+          "points": 15,
+          "name": "Dropper: Speedfaller",
+          "description": "Finish a game of Dropper in under 50 seconds",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -164,6 +185,14 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_WELL_WELL_WELL": {
+          "points": 10,
+          "name": "Dropper: Well, Well, Well",
+          "description": "???",
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
         "WOOPS_DIDNT_MEAN_TO": {
           "points": 5,
           "name": "Party Games: Woops, didn't mean to",
@@ -217,6 +246,13 @@
           "points": 15,
           "name": "Capture the Wool: Right place, right time",
           "description": "Kill the enemy woolholder within 50m of them capturing",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DROPPER_FAST_WAY_DOWN": {
+          "points": 5,
+          "name": "Dropper: Fast Way Down",
+          "description": "Complete a map in under 10 seconds",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -460,6 +496,13 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DROPPER_WASNT_SO_BAD": {
+          "points": 5,
+          "name": "Dropper: That Wasn't So Bad",
+          "description": "Take fall damage without dying",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
         "HIDE_AND_SEEK_PROP_HUNTER": {
           "points": 5,
           "name": "Hide and Seek: Prop Hunter",
@@ -499,6 +542,14 @@
           "points": 5,
           "name": "Pixel Party: Crushed the Floor",
           "description": "Get crushed by an anvil in Hyper Mode",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SNAKE": {
+          "points": 5,
+          "name": "Sneaky Snake",
+          "description": "???",
+          "secret": true,
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -1126,6 +1177,37 @@
             }
           ]
         },
+        "DROPPER_SKYDIVER": {
+          "name": "Dropper: Skydiver",
+          "description": "Complete %s games of Dropper",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
         "ZOMBIE_KILLER": {
           "name": "Blocking Dead: Zombie Killer",
           "description": "Kill %s Zombies in the Blocking Dead",
@@ -1278,6 +1360,37 @@
               "tier": 5,
               "points": 25,
               "amount": 2000
+            }
+          ]
+        },
+        "DROPPER_FLAWLESS_FALLER": {
+          "name": "Dropper: Flawless Faller",
+          "description": "Complete %s flawless games of Dropper",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 2
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 5
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 10
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 15
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25
             }
           ]
         },
@@ -1499,14 +1612,14 @@
           ]
         }
       },
-      "total_points": 2755,
+      "total_points": 2965,
       "total_legacy_points": 5
     },
     "arena": {
       "one_time": {
         "MY_NEW_HAT": {
           "points": 5,
-          "name": "My New Hat ",
+          "name": "My New Hat",
           "description": "Win wearing an Epic hat",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -1527,7 +1640,7 @@
         },
         "NEW_TOY": {
           "points": 10,
-          "name": "New Toy! ",
+          "name": "New Toy!",
           "description": "Find a sword in the magical chest",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -1555,7 +1668,7 @@
         },
         "MELEE": {
           "points": 10,
-          "name": "Melee Specialization ",
+          "name": "Melee Specialization",
           "description": "Buy all Melee Combat Upgrades",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -1569,7 +1682,7 @@
         },
         "ENERGY": {
           "points": 10,
-          "name": "Energy Specialization ",
+          "name": "Energy Specialization",
           "description": "Buy all Energy Combat Upgrades",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -1632,7 +1745,7 @@
         },
         "COOLDOWN": {
           "points": 10,
-          "name": "Cooldown Specialization ",
+          "name": "Cooldown Specialization",
           "description": "Buy all Cooldown Combat Upgrades",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -1695,7 +1808,7 @@
         },
         "HEALTH": {
           "points": 10,
-          "name": "Health Specialization ",
+          "name": "Health Specialization",
           "description": "Buy all Health Combat Upgrades",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -2707,7 +2820,7 @@
         "CLOSE_CALL": {
           "points": 5,
           "name": "Close Call",
-          "description": "Kill a player whilst being on 0.5 hp",
+          "description": "Kill a player whilst being on 0.5 HP",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -6172,7 +6285,7 @@
         "MM_CARROT_KILLS": {
           "points": 10,
           "name": "Check Your Produce",
-          "description": "Kill 3 survivors in one game while holding the carrot/carrot-on-a-stick Knife Skin in Murder Mystery Classic",
+          "description": "Kill 3 survivors in one game while holding the Carrot / Carrot on a Stick Knife Skin in Murder Mystery Classic",
           "globalPercentUnlocked": 1
         },
         "UHC_GOLDEN_CARROT": {
@@ -7200,7 +7313,7 @@
         "PUMPKIN_DEATH": {
           "points": 10,
           "name": "Pumpkinator Rampage",
-          "description": "Bring 10 pumpkins at once to a Shopkeeper in Bedwars",
+          "description": "Bring 10 pumpkins at once to a Shopkeeper in Bed Wars",
           "globalPercentUnlocked": 1
         },
         "SUGAR_RUSH_2": {
@@ -7227,16 +7340,10 @@
           "description": "Win a game of Farm Hunt as a black cat",
           "globalPercentUnlocked": 1
         },
-        "TBR_FARMLAND_CIRCLE_FAST": {
+        "TBR_CRYPTIC_CASTLE_FAST": {
           "points": 10,
-          "name": "Farmland Circle Great Time",
-          "description": "Complete Farmland Circle in under 0:34",
-          "globalPercentUnlocked": 1
-        },
-        "TBR_FARMLAND_CIRCLE": {
-          "points": 5,
-          "name": "Farmland Circle Completion",
-          "description": "Complete Farmland Circle in Turbo Bat Racers",
+          "name": "Cryptic Castle Great Time",
+          "description": "Complete Cryptic Castle in under 0:33",
           "globalPercentUnlocked": 1
         },
         "SPOOKY_LOOKS": {
@@ -7261,6 +7368,12 @@
           "points": 5,
           "name": "Vamps b gone",
           "description": "Kill 2 vampires in a single game of VampireZ",
+          "globalPercentUnlocked": 1
+        },
+        "TBR_CRYPTIC_CASTLE": {
+          "points": 5,
+          "name": "Cryptic Castle Completion",
+          "description": "Complete Cryptic Castle in Turbo Bat Racers",
           "globalPercentUnlocked": 1
         },
         "BEWITCHING": {
@@ -7305,12 +7418,6 @@
           "description": "Kill 5 survivors in a single game of VampireZ",
           "globalPercentUnlocked": 1
         },
-        "FIVE_BASKETS_2022": {
-          "points": 5,
-          "name": "Five Baskets (2022)",
-          "description": "Find five Candy Baskets in the Main Lobby",
-          "globalPercentUnlocked": 1
-        },
         "THAT_WAS_EASY": {
           "points": 5,
           "name": "That was eaZy",
@@ -7329,16 +7436,16 @@
           "description": "Place in the Top 3 in Turbo Kart Racers while using the Diablo Turbobrine Kart Skin",
           "globalPercentUnlocked": 1
         },
+        "TBR_FOREST_FRIGHT": {
+          "points": 5,
+          "name": "Forest Fright Completion",
+          "description": "Complete Forest Fright in Turbo Bat Racers",
+          "globalPercentUnlocked": 1
+        },
         "KILLER_LOOT": {
           "points": 5,
           "name": "Killer Loot",
           "description": "Open a Murder Mystery Spooky Chest",
-          "globalPercentUnlocked": 1
-        },
-        "TBR_TERRITORIAL_TOUR": {
-          "points": 5,
-          "name": "Territorial Tour Completion",
-          "description": "Complete Territorial Tour in Turbo Bat Racers",
           "globalPercentUnlocked": 1
         },
         "OCTOBER_BETRAYAL": {
@@ -7384,6 +7491,12 @@
           "secret": true,
           "globalPercentUnlocked": 1
         },
+        "FIVE_BASKETS_2023": {
+          "points": 5,
+          "name": "Five Baskets (2023)",
+          "description": "Find five Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
+        },
         "SMOKING_VEIL": {
           "points": 5,
           "name": "Smoking Veil",
@@ -7402,22 +7515,10 @@
           "description": "Win a game of Smash Heroes using Skullfire",
           "globalPercentUnlocked": 1
         },
-        "TBR_TERRITORIAL_TOUR_FAST": {
-          "points": 10,
-          "name": "Territorial Tour Great Time",
-          "description": "Complete Territorial Tour in under 1:23",
-          "globalPercentUnlocked": 1
-        },
         "TRICKED": {
           "points": 5,
           "name": "Tricked!",
           "description": "Have a player set off a trap in your base in Bed Wars",
-          "globalPercentUnlocked": 1
-        },
-        "TBR_VILLAGE_SWEEP": {
-          "points": 5,
-          "name": "Village Sweep Completion",
-          "description": "Complete Village Sweep in Turbo Bat Racers",
           "globalPercentUnlocked": 1
         },
         "CORPSE_STILL_RUNS": {
@@ -7454,6 +7555,12 @@
           "points": 5,
           "name": "Burning Touch",
           "description": "Punch a Burning Zombie Pet in a lobby",
+          "globalPercentUnlocked": 1
+        },
+        "TBR_RIVERSIDE_REVENGE_FAST": {
+          "points": 10,
+          "name": "Riverside Revenge Great Time",
+          "description": "Complete Riverside Revenge in under 0:45",
           "globalPercentUnlocked": 1
         },
         "HOWL_O_WEEN": {
@@ -7504,10 +7611,16 @@
           "description": "Finish games on 5 Halloween exclusive maps",
           "globalPercentUnlocked": 1
         },
-        "ALL_BASKETS_2022": {
+        "ALL_BASKETS_2023": {
           "points": 15,
-          "name": "All Baskets (2022)",
+          "name": "All Baskets (2023)",
           "description": "Find all Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
+        },
+        "TBR_RIVERSIDE_REVENGE": {
+          "points": 5,
+          "name": "Riverside Revenge Completion",
+          "description": "Complete Riverside Revenge in Turbo Bat Racers",
           "globalPercentUnlocked": 1
         },
         "HI_THERE": {
@@ -7516,10 +7629,16 @@
           "description": "Speak to the Halloween Guide in the Main Lobby",
           "globalPercentUnlocked": 1
         },
-        "TBR_VILLAGE_SWEEP_FAST": {
+        "SPOOKTACULAR_BINGO": {
+          "points": 20,
+          "name": "Spooktacular Bingo",
+          "description": "Complete the Hard Bingo Card during a Halloween Event",
+          "globalPercentUnlocked": 1
+        },
+        "TBR_FOREST_FRIGHT_FAST": {
           "points": 10,
-          "name": "Village Sweep Great Time",
-          "description": "Complete Village Sweep in under 0:51",
+          "name": "Forest Fright Great Time",
+          "description": "Complete Forest Fright in under 0:32",
           "globalPercentUnlocked": 1
         },
         "ALL_GHOSTS_2018": {
@@ -7540,16 +7659,40 @@
           "description": "Complete Kraken Assault in under 01:25",
           "legacy": true
         },
+        "TBR_TERRITORIAL_TOUR_FAST": {
+          "points": 10,
+          "name": "Territorial Tour Great Time",
+          "description": "Complete Territorial Tour in under 1:23",
+          "legacy": true
+        },
         "ALL_BASKETS": {
           "points": 15,
           "name": "All Baskets (2019)",
           "description": "Find all Candy Baskets in the Main Lobby",
           "legacy": true
         },
+        "TBR_FARMLAND_CIRCLE_FAST": {
+          "points": 10,
+          "name": "Farmland Circle Great Time",
+          "description": "Complete Farmland Circle in under 0:34",
+          "legacy": true
+        },
+        "TBR_FARMLAND_CIRCLE": {
+          "points": 5,
+          "name": "Farmland Circle Completion",
+          "description": "Complete Farmland Circle in Turbo Bat Racers",
+          "legacy": true
+        },
         "TBR_SHARKNADO_JAUNT_FAST": {
           "points": 10,
           "name": "Sharknado Jaunt Great Time",
           "description": "Complete Sharknado Jaunt in under 1:15",
+          "legacy": true
+        },
+        "TBR_VILLAGE_SWEEP": {
+          "points": 5,
+          "name": "Village Sweep Completion",
+          "description": "Complete Village Sweep in Turbo Bat Racers",
           "legacy": true
         },
         "TBR_SEASIDE_DRIVE": {
@@ -7612,6 +7755,12 @@
           "description": "Complete Observatory Spin in Turbo Bat Racers",
           "legacy": true
         },
+        "FIVE_BASKETS_2022": {
+          "points": 5,
+          "name": "Five Baskets (2022)",
+          "description": "Find five Candy Baskets in the Main Lobby",
+          "legacy": true
+        },
         "TBR_SHARKNADO_JAUNT": {
           "points": 5,
           "name": "Sharknado Jaunt Completion",
@@ -7628,6 +7777,12 @@
           "points": 10,
           "name": "Seaside Drive Great Time",
           "description": "Complete Seaside Drive in under 1:15",
+          "legacy": true
+        },
+        "ALL_BASKETS_2022": {
+          "points": 15,
+          "name": "All Baskets (2022)",
+          "description": "Find all Candy Baskets in the Main Lobby",
           "legacy": true
         },
         "ALL_BASKETS_2021": {
@@ -7654,6 +7809,12 @@
           "description": "Complete Kraken Assault in Turbo Bat Racers",
           "legacy": true
         },
+        "TBR_TERRITORIAL_TOUR": {
+          "points": 5,
+          "name": "Territorial Tour Completion",
+          "description": "Complete Territorial Tour in Turbo Bat Racers",
+          "legacy": true
+        },
         "TBR_OBSERVATORY_SPIN_1_10": {
           "points": 10,
           "name": "Observatory Spin Great Time",
@@ -7678,6 +7839,12 @@
           "description": "Earn a Golden Skull using the Spiderling kit in Crazy Walls",
           "legacy": true
         },
+        "TBR_VILLAGE_SWEEP_FAST": {
+          "points": 10,
+          "name": "Village Sweep Great Time",
+          "description": "Complete Village Sweep in under 0:51",
+          "legacy": true
+        },
         "TBR_PUMPKIN_JUMP": {
           "points": 5,
           "name": "Pumpkin Jump Completion",
@@ -7694,7 +7861,7 @@
       "tiered": {
         "PUMPKINATOR": {
           "name": "Pumpkinator Collector",
-          "description": "Collect %s pumpkins in Bedwars",
+          "description": "Collect %s pumpkins in Bed Wars",
           "tiers": [
             {
               "tier": 1,
@@ -7849,8 +8016,8 @@
           ]
         }
       },
-      "total_points": 680,
-      "total_legacy_points": 315
+      "total_points": 700,
+      "total_legacy_points": 380
     },
     "housing": {
       "one_time": {
@@ -10330,14 +10497,14 @@
         "BEACONATOR_TWO": {
           "points": 5,
           "name": "Beaconator 2.0",
-          "description": "Power a Beacon of any kind.",
+          "description": "Power a Beacon of any kind",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "WOW_USEFUL": {
           "points": 5,
           "name": "Wow, that's useful!",
-          "description": "Use the /wiki, /wikithis, or /wikihand command to view the Official Hypixel Wiki.",
+          "description": "Use the /wiki, /wikithis, or /wikihand command to view the Official Hypixel Wiki",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10352,7 +10519,7 @@
         "GOBLIN_SLAYER": {
           "points": 5,
           "name": "Goblin Slayer",
-          "description": "Get 100 points during the Goblin Raid event.",
+          "description": "Get 100 points during the Goblin Raid event",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10387,7 +10554,7 @@
         "MYSTICAL": {
           "points": 10,
           "name": "Mystical",
-          "description": "Use a Recombobulator 3000 to obtain a Mythic rarity.",
+          "description": "Use a Recombobulator 3000 to obtain a Mythic rarity",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10401,7 +10568,7 @@
         "I_AM_GROOT": {
           "points": 5,
           "name": "I Am Groot",
-          "description": "Wear a set of Growth Armor with a Bonus 100 hp",
+          "description": "Wear a set of Growth Armor with a Bonus 100 HP",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10437,7 +10604,7 @@
         "INNER_MACHINATIONS": {
           "points": 15,
           "name": "Inner Machinations",
-          "description": "Max out the Enigma Cloak (including extra upgrades).",
+          "description": "Max out the Enigma Cloak (including extra upgrades)",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10472,7 +10639,7 @@
         "BIGGER_STORAGE_IS_SEEDED": {
           "points": 5,
           "name": "Bigger Storage Is Seeded",
-          "description": "[Coop or you] Place a Large Storage Chest",
+          "description": "[Co-op or you] Place a Large Storage Chest",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10536,7 +10703,7 @@
         "BOUNTIFUL_HARVEST": {
           "points": 10,
           "name": "Bountiful Harvest",
-          "description": "Find a Squash while farming.",
+          "description": "Find a Squash while farming",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10550,7 +10717,7 @@
         "HIDDEN_SECRETS": {
           "points": 5,
           "name": "Hidden Secrets",
-          "description": "Find a Dark Monolith.",
+          "description": "Find a Dark Monolith",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10593,7 +10760,7 @@
         "A_GOOD_REVIEW": {
           "points": 5,
           "name": "A Good Review",
-          "description": "Feed Don Expresso some Tasty Mithril.",
+          "description": "Feed Don Expresso some Tasty Mithril",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10635,14 +10802,14 @@
         "MORE_SPACE": {
           "points": 5,
           "name": "More Space",
-          "description": "[Coop or you] Expand a minion using the Minion Expander",
+          "description": "[Co-op or you] Expand a minion using the Minion Expander",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "COMBINED_EFFORTS": {
           "points": 5,
           "name": "Combined efforts",
-          "description": "Start a coop",
+          "description": "Start a co-op",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10685,7 +10852,7 @@
         "PERFECT_HEIST": {
           "points": 10,
           "name": "The Perfect Heist",
-          "description": "Gather 3 Heavy Pearls from the Matriarch and escape without taking damage.",
+          "description": "Gather 3 Heavy Pearls from the Matriarch and escape without taking damage",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10699,7 +10866,7 @@
         "GHOST_BUSTER": {
           "points": 5,
           "name": "Ghost Buster",
-          "description": "Kill a Ghost.",
+          "description": "Kill a Ghost",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10720,7 +10887,7 @@
         "THE_FLASH": {
           "points": 5,
           "name": "The Flash",
-          "description": "Reach a speed of 500% ",
+          "description": "Reach a speed of 500%",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10755,7 +10922,7 @@
         "NEXT_LEVEL": {
           "points": 10,
           "name": "Next Level",
-          "description": "Upgrade an item to a dungeon item ",
+          "description": "Upgrade an item to a dungeon item",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10769,7 +10936,7 @@
         "COMPOST_COLLECTOR": {
           "points": 5,
           "name": "Compost Collector",
-          "description": "Retrieve 8 compost from the Composter at once.",
+          "description": "Retrieve 8 compost from the Composter at once",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10811,7 +10978,7 @@
         "SNAKE_CHARMER": {
           "points": 5,
           "name": "Snake Charmer",
-          "description": "Mine a Living Metal Snake in the Rift.",
+          "description": "Mine a Living Metal Snake in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10825,7 +10992,7 @@
         "SUPER_FUEL": {
           "points": 5,
           "name": "Super Fuel",
-          "description": "[Coop or you] Upgrade a minion with the Enchanted Lava Bucket",
+          "description": "[Co-op or you] Upgrade a minion with the Enchanted Lava Bucket",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10848,7 +11015,7 @@
         "IT_WORKED": {
           "points": 5,
           "name": "It worked?!",
-          "description": "Retrieve a Rift-Transferrable item in the overworld.",
+          "description": "Retrieve a Rift-Transferrable item in the overworld",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10862,14 +11029,14 @@
         "TIME_TO_GO_ON_VACATION": {
           "points": 5,
           "name": "Time to go on vacation",
-          "description": "[Coop or you] Upgrade a minion with the Super Compactor 3000",
+          "description": "[Co-op or you] Upgrade a minion with the Super Compactor 3000",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "ARCADIA": {
           "points": 5,
           "name": "Arcadia",
-          "description": "[Coop or you] Place 5 unique Islands on your private world",
+          "description": "[Co-op or you] Place 5 unique Islands on your private world",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10947,7 +11114,7 @@
         "DIVERSE_DESTRUCTION": {
           "points": 15,
           "name": "The Crux of it All",
-          "description": "Max out all milestones on a Crux Chronomicon.",
+          "description": "Max out all milestones on a Crux Chronomicon",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -10997,7 +11164,7 @@
         "BALROG_MEMORIES": {
           "points": 15,
           "name": "Memories of a Bal",
-          "description": "Wear a full set of Divan's Armor.",
+          "description": "Wear a full set of Divan's Armor",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11019,14 +11186,14 @@
         "CLEANUP_CREW": {
           "points": 5,
           "name": "Cleanup Crew",
-          "description": "Finish clearing a plot in The Garden.",
+          "description": "Finish clearing a plot in The Garden",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "SADDLE_UP": {
           "points": 5,
           "name": "Saddle Up!",
-          "description": "[Coop or you] Craft a saddle",
+          "description": "[Co-op or you] Craft a saddle",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11069,21 +11236,21 @@
         "PRODUCTION_EXPANDED": {
           "points": 5,
           "name": "Production Expanded",
-          "description": "[Coop or you] Unlock a new minion slot",
+          "description": "[Co-op or you] Unlock a new minion slot",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "NEXT_GENERATION": {
           "points": 5,
           "name": "The Next Generation",
-          "description": "Find a Golden Goblin by throwing a Goblin Egg.",
+          "description": "Find a Golden Goblin by throwing a Goblin Egg",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "ALWAYS_SUNNY_IN_SB": {
           "points": 10,
           "name": "Always Sunny in SkyBlock",
-          "description": "Place a Day Saver in The Garden.",
+          "description": "Place a Day Saver in The Garden",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11098,7 +11265,7 @@
         "ROYAL_MEETING": {
           "points": 5,
           "name": "A Royal Meeting",
-          "description": "Obtain the King's Talisman.",
+          "description": "Obtain the King's Talisman",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11120,21 +11287,21 @@
         "WELCOME_TO_MY_FACTORY": {
           "points": 5,
           "name": "Welcome to my Factory",
-          "description": "[Coop or you] Place a Farm Crystal",
+          "description": "[Co-op or you] Place a Farm Crystal",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "IM_NOT_DEAD": {
           "points": 5,
           "name": "I'm Not Dead!",
-          "description": "Enter the Rift.",
+          "description": "Enter the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "ACCESSORIES_GALORE": {
           "points": 5,
           "name": "Accessories Galore",
-          "description": "[Coop or you] Unlock the Greater Talisman Bag upgrade",
+          "description": "[Co-op or you] Unlock the Greater Talisman Bag upgrade",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11163,7 +11330,7 @@
         "NOT_WORTH_IT_BRO": {
           "points": 5,
           "name": "Not Worth It, Bro",
-          "description": "Have Wizardman decide not to help you.",
+          "description": "Have Wizardman decide not to help you",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11177,14 +11344,14 @@
         "NO_OTHER_CHOICE": {
           "points": 10,
           "name": "No Other Choice",
-          "description": "Solve the reverse murder case in the Rift.",
+          "description": "Solve the reverse murder case in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "FLAWLESS": {
           "points": 10,
           "name": "Flawless",
-          "description": "Beat a dungeon without anyone dying.",
+          "description": "Beat a dungeon without anyone dying",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11198,7 +11365,7 @@
         "TWO_OUT_OF_NINE": {
           "points": 5,
           "name": "Two/Nine",
-          "description": "Find two pieces of Montezuma's Soul.",
+          "description": "Find two pieces of Montezuma's Soul",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11227,7 +11394,7 @@
         "SEE_YA_LATER": {
           "points": 10,
           "name": "See ya later!",
-          "description": "Fully repair Reed's Boat in the Rift.",
+          "description": "Fully repair Reed's Boat in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11241,14 +11408,14 @@
         "HELPFUL_HAND": {
           "points": 5,
           "name": "Helpful Hand",
-          "description": "Give Fetchur the item he asks for.",
+          "description": "Give Fetchur the item he asks for",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "STILL_SAD": {
           "points": 15,
           "name": "Still Sad",
-          "description": "Talk to Sad Jacquelle after finding all 9 pieces of Montezuma's soul.",
+          "description": "Talk to Sad Jacquelle after finding all 9 pieces of Montezuma's soul",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11276,7 +11443,7 @@
         "TIME_TO_START_FISHING": {
           "points": 5,
           "name": "Time To Start Fishing",
-          "description": "[Coop or you] Place the Pond Island",
+          "description": "[Co-op or you] Place the Pond Island",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11290,21 +11457,21 @@
         "YUCKY": {
           "points": 10,
           "name": "Yucky!",
-          "description": "Slay the Leech Supreme in the Rift.",
+          "description": "Slay the Leech Supreme in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "RESOURCEFUL": {
           "points": 5,
           "name": "Resourceful",
-          "description": "Give Rhys the materials to enter the Dwarven Mines.",
+          "description": "Give Rhys the materials to enter the Dwarven Mines",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "MULTIDIMENSIONAL_SLAYER": {
           "points": 15,
           "name": "Multi-Dimensional Slayer",
-          "description": "Defeat a T5 Riftstalker Bloodfiend.",
+          "description": "Defeat a T5 Riftstalker Bloodfiend",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11326,7 +11493,7 @@
         "PEAK_OF_THE_MOUNTAIN": {
           "points": 15,
           "name": "Peak of the Mountain",
-          "description": "Reach tier V of the Heart of the Mountain.",
+          "description": "Reach tier V of the Heart of the Mountain",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11340,14 +11507,14 @@
         "A_FACE_TO_REMEMBER": {
           "points": 5,
           "name": "A Face to Remember",
-          "description": "Obtain Seraphine's old face in the Rift.",
+          "description": "Obtain Seraphine's old face in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "HES_BAC": {
           "points": 10,
           "name": "He's Bac!",
-          "description": "Kill Bacte in the Rift.",
+          "description": "Kill Bacte in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11475,14 +11642,14 @@
         "SPEED_OF_LIGHT": {
           "points": 5,
           "name": "At the speed of light",
-          "description": "[Coop or you] Use Crystal Fuel",
+          "description": "[Co-op or you] Use Crystal Fuel",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "SWAYING_THE_VOTE": {
           "points": 10,
           "name": "Swaying the Vote",
-          "description": "Appease all of Barry's protestors in the Rift.",
+          "description": "Appease all of Barry's protestors in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11503,7 +11670,7 @@
         "HUMBLE_BEGINNINGS": {
           "points": 5,
           "name": "Humble Beginnings",
-          "description": "Catch all 18 types of Trophy Fish.",
+          "description": "Catch all 18 types of Trophy Fish",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11525,7 +11692,7 @@
         "PUT_SPELL": {
           "points": 10,
           "name": "Gonna Put a Spell on You",
-          "description": "Use the Hex for the first time.",
+          "description": "Use the Hex for the first time",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11539,14 +11706,14 @@
         "BUZZKILL": {
           "points": 10,
           "name": "Buzzkill",
-          "description": "Unlock all of Neuroscientist Kat's rewards in the Rift.",
+          "description": "Unlock all of Neuroscientist Kat's rewards in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "FRIAR_LAWRENCE": {
           "points": 25,
           "name": "Friar Lawrence",
-          "description": "Complete the Romero & Juliette questline.",
+          "description": "Complete the Romero & Juliette questline",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11582,14 +11749,14 @@
         "QUITE_THE_CROWD": {
           "points": 5,
           "name": "Quite the Crowd",
-          "description": "Have 5 visitors at once in The Garden.",
+          "description": "Have 5 visitors at once in The Garden",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "LONG_WAY_DOWN": {
           "points": 10,
           "name": "Long Way Down...",
-          "description": "Claim the Enigma soul at the top of the Beanstalk in the Rift.",
+          "description": "Claim the Enigma soul at the top of the Beanstalk in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11625,7 +11792,7 @@
         "PLAYER_OF_THE_PEOPLE": {
           "points": 15,
           "name": "Player of the People",
-          "description": "Serve 50 Unique Visitors in The Garden.",
+          "description": "Serve 50 Unique Visitors in The Garden",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11653,21 +11820,21 @@
         "ONLY_BE_ONE": {
           "points": 15,
           "name": "There Can Only Be One",
-          "description": "Kill a Tier 5 Revenant Boss.",
+          "description": "Kill a Tier 5 Revenant Boss",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "FORBIDDEN_FRUIT": {
           "points": 10,
           "name": "Forbidden Fruit",
-          "description": "Wear a full set of Fermento Armor.",
+          "description": "Wear a full set of Fermento Armor",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "DUNGEON_EXPLORER": {
           "points": 10,
           "name": "Dungeon Explorer",
-          "description": "Get a score on exploration of 95 or more in a dungeon..",
+          "description": "Get a score on exploration of 95 or more in a dungeon.",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11710,7 +11877,7 @@
         "MASS_PRODUCTION": {
           "points": 15,
           "name": "Mass Production",
-          "description": "[Coop or you] Craft a level XI minion",
+          "description": "[Co-op or you] Craft a level XI minion",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11724,7 +11891,7 @@
         "DRAGONS_EGG": {
           "points": 10,
           "name": "The Dragon's Egg",
-          "description": "Buy a Golden Dragon Egg from the dragon in the Crystal Hollows.",
+          "description": "Buy a Golden Dragon Egg from the dragon in the Crystal Hollows",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11738,7 +11905,7 @@
         "EYE_FOR_AN_I": {
           "points": 5,
           "name": "Eye for an I",
-          "description": "Calm The Bankster in the Rift.",
+          "description": "Calm The Bankster in the Rift",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11752,7 +11919,7 @@
         "SIX_STAR_MEAL": {
           "points": 5,
           "name": "Six-star Meal",
-          "description": "Consume a McGrubber's Burger.",
+          "description": "Consume a McGrubber's Burger",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -12170,7 +12337,7 @@
         },
         "GOBLIN_KILLER": {
           "name": "Goblin Killer",
-          "description": "Kill %s Golden Goblins.",
+          "description": "Kill %s Golden Goblins",
           "tiers": [
             {
               "tier": 1,
@@ -12356,7 +12523,7 @@
         },
         "MINION_LOVER": {
           "name": "Minion Lover",
-          "description": "[Coop or you] Craft %s unique minions",
+          "description": "[Co-op or you] Craft %s unique minions",
           "tiers": [
             {
               "tier": 1,
@@ -12387,7 +12554,7 @@
         },
         "HARD_WORKING_MINER": {
           "name": "Hard Working Miner",
-          "description": "Complete %s commissions.",
+          "description": "Complete %s commissions",
           "tiers": [
             {
               "tier": 1,
@@ -12586,7 +12753,7 @@
         },
         "MISSING_APPLE": {
           "points": 5,
-          "name": "Where did you find that? ",
+          "name": "Where did you find that?",
           "description": "Eat an Enchanted Golden Apple",
           "legacy": true
         },
@@ -17831,7 +17998,7 @@
         "POTIONS_OF_DEATH": {
           "points": 10,
           "name": "Potions of Death",
-          "description": "Get 8 Final Kills with Arcane Explosion as Arcanist",
+          "description": "Get 8 Final Kills or Assists with Arcane Explosion as Arcanist",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

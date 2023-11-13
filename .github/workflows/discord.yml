@@ -31,6 +31,8 @@ jobs:
       - name: Wrap diff in code block
         run: >-
           sed -i -e 's/`/\\`/g' -e '1i```ansi' -e '$a```\n' diff.txt
+      - name: Prepend GitHub commit link
+        run: sed -i '1i${{ format('[GitHub Link](<{0}/{1}/commit/{2}>)', github.server_url, github.repository, github.sha) }}' diff.txt
       - name: Count diff characters
         run: >-
           echo "DIFF_CHAR_COUNT=$(wc -c < diff.txt)" >> $GITHUB_ENV

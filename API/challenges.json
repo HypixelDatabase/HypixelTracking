@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1676082704527,
+  "lastUpdated": 1694701076408,
   "challenges": {
     "arcade": [
       {
@@ -176,6 +176,16 @@
       {
         "id": "ARCADE__pixel_party_challenge",
         "name": "Pixel Party Challenge",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3700
+          }
+        ]
+      },
+      {
+        "id": "ARCADE__dropper_challenge",
+        "name": "Dropper Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",

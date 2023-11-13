@@ -34,13 +34,6 @@ jobs:
       - name: Count diff characters
         run: >-
           echo "DIFF_CHAR_COUNT=$(wc -c < diff.txt)" >> $GITHUB_ENV
-      - name: Post commit link to Discord
-        uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240
-        with:
-          webhook-url: ${{ secrets.WEBHOOK_URL }}
-          username: API Update Tracker
-          avatar-url: 'https://cdn.discordapp.com/avatars/999680196040982618/df91181b3f1cf0ef1592fbe18e0962d7.webp'
-          content: ${{ format('[GitHub Link](<{0}/{1}/commit/{2}>)', github.server_url, github.repository, github.sha) }}
       - name: Post as message to Discord
         if: ${{ env.DIFF_CHAR_COUNT <= 2000 }}
         uses: ILikePlayingGames/discord-webhook@c533d6b0fda570a8fd1676878c05bc4f50cc1240

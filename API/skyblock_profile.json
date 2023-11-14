@@ -1391,7 +1391,9 @@
           "kills_pest_rat": 0,
           "kills_pest_mosquito": 0,
           "kills_pest_mite": 0,
-          "kills_pest_worm": 0
+          "kills_pest_worm": 0,
+          "kills_pest_moth": 0,
+          "kills_pest_fly": 0
         },
         "objectives": {
           "collect_log": {
@@ -8025,7 +8027,8 @@
           },
           "perks": {
             "double_drops": 0,
-            "farming_level_cap": 0
+            "farming_level_cap": 0,
+            "personal_bests": true
           },
           "talked": true,
           "unique_golds2": [],
@@ -11294,7 +11297,9 @@
             "pest_rat_1": 0,
             "pest_mosquito_1": 0,
             "pest_mite_1": 0,
-            "pest_worm_1": 0
+            "pest_worm_1": 0,
+            "pest_moth_1": 0,
+            "pest_fly_1": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

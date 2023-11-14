@@ -8022,7 +8022,13 @@
             "farming_level_cap": 0
           },
           "talked": true,
-          "unique_golds2": []
+          "unique_golds2": [],
+          "unique_brackets": {
+            "bronze": [],
+            "silver": [],
+            "gold": []
+          },
+          "migration": true
         },
         "experimentation": {
           "simon": {

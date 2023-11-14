@@ -394,14 +394,19 @@
                 "type": "string",
                 "format": "uuid"
               },
-              "deletion_notice": {
-                "description": "If this field exists, the member profile is marked as deleted",
-                "nullable": true,
+              "profile": {
                 "type": "object",
                 "properties": {
-                  "timestamp": {
-                    "type": "integer",
-                    "format": "int64"
+                  "deletion_notice": {
+                    "description": "If this field exists, the member profile is marked as deleted",
+                    "nullable": true,
+                    "type": "object",
+                    "properties": {
+                      "timestamp": {
+                        "type": "integer",
+                        "format": "int64"
+                      }
+                    }
                   }
                 }
               }
@@ -628,7 +633,7 @@
     }
   },
   "paths": {
-    "/player": {
+    "/v2/player": {
       "get": {
         "summary": "Data of a specific player, including game stats",
         "tags": [
@@ -747,7 +752,7 @@
         }
       }
     },
-    "/recentgames": {
+    "/v2/recentgames": {
       "get": {
         "summary": "The recently played games of a specific player",
         "tags": [
@@ -828,7 +833,7 @@
         }
       }
     },
-    "/status": {
+    "/v2/status": {
       "get": {
         "summary": "The current online status of a specific player",
         "tags": [
@@ -899,7 +904,7 @@
         }
       }
     },
-    "/guild": {
+    "/v2/guild": {
       "get": {
         "summary": "Retrieve a Guild by a player, id, or name",
         "tags": [
@@ -966,7 +971,7 @@
         }
       }
     },
-    "/resources/games": {
+    "/v2/resources/games": {
       "get": {
         "summary": "Game Information",
         "description": "Returns information about Hypixel Games. This endpoint is in early development and we are working to add more information when possible <a href=\"https://github.com/HypixelDev/PublicAPI/discussions/197#discussioncomment-1047648\">HypixelDev/PublicAPI#197</a>",
@@ -1002,7 +1007,7 @@
         }
       }
     },
-    "/resources/achievements": {
+    "/v2/resources/achievements": {
       "get": {
         "summary": "Achievements",
         "tags": [
@@ -1033,7 +1038,7 @@
         }
       }
     },
-    "/resources/challenges": {
+    "/v2/resources/challenges": {
       "get": {
         "summary": "Challenges",
         "tags": [
@@ -1064,7 +1069,7 @@
         }
       }
     },
-    "/resources/quests": {
+    "/v2/resources/quests": {
       "get": {
         "summary": "Quests",
         "tags": [
@@ -1095,7 +1100,7 @@
         }
       }
     },
-    "/resources/guilds/achievements": {
+    "/v2/resources/guilds/achievements": {
       "get": {
         "summary": "Guild Achievements",
         "tags": [
@@ -1129,7 +1134,7 @@
         }
       }
     },
-    "/resources/vanity/pets": {
+    "/v2/resources/vanity/pets": {
       "get": {
         "summary": "Vanity Pets",
         "tags": [
@@ -1163,7 +1168,7 @@
         }
       }
     },
-    "/resources/vanity/companions": {
+    "/v2/resources/vanity/companions": {
       "get": {
         "summary": "Vanity Companions",
         "tags": [
@@ -1197,7 +1202,7 @@
         }
       }
     },
-    "/resources/skyblock/collections": {
+    "/v2/resources/skyblock/collections": {
       "get": {
         "summary": "Collections",
         "description": "Information regarding Collections in the SkyBlock game.",
@@ -1233,7 +1238,7 @@
         }
       }
     },
-    "/resources/skyblock/skills": {
+    "/v2/resources/skyblock/skills": {
       "get": {
         "summary": "Skills",
         "description": "Information regarding skills in the SkyBlock game.",
@@ -1269,7 +1274,7 @@
         }
       }
     },
-    "/resources/skyblock/items": {
+    "/v2/resources/skyblock/items": {
       "get": {
         "summary": "Items",
         "description": "Information regarding items in the SkyBlock game.",
@@ -1304,7 +1309,7 @@
         }
       }
     },
-    "/resources/skyblock/election": {
+    "/v2/resources/skyblock/election": {
       "get": {
         "summary": "Election and Mayor",
         "description": "Information regarding the current mayor and ongoing election in SkyBlock.",
@@ -1341,7 +1346,7 @@
         }
       }
     },
-    "/resources/skyblock/bingo": {
+    "/v2/resources/skyblock/bingo": {
       "get": {
         "summary": "Active Bingo Goals",
         "description": "Information regarding the current bingo event and its goals.",
@@ -1418,7 +1423,7 @@
         }
       }
     },
-    "/skyblock/news": {
+    "/v2/skyblock/news": {
       "get": {
         "summary": "News",
         "tags": [
@@ -1466,7 +1471,7 @@
         }
       }
     },
-    "/skyblock/auction": {
+    "/v2/skyblock/auction": {
       "get": {
         "summary": "Request auction(s) by the auction UUID, player UUID, or profile UUID.",
         "description": "Returns the auctions selected by the provided query. Only one query parameter can be used in a single request, and cannot be filtered by multiple.",
@@ -1541,7 +1546,7 @@
         }
       }
     },
-    "/skyblock/auctions": {
+    "/v2/skyblock/auctions": {
       "get": {
         "summary": "Active auctions",
         "description": "Returns the currently active auctions sorted by last updated first and paginated.",
@@ -1608,7 +1613,7 @@
         }
       }
     },
-    "/skyblock/auctions_ended": {
+    "/v2/skyblock/auctions_ended": {
       "get": {
         "summary": "Recently ended auctions",
         "description": "SkyBlock auctions which ended in the last 60 seconds.",
@@ -1654,7 +1659,7 @@
         }
       }
     },
-    "/skyblock/bazaar": {
+    "/v2/skyblock/bazaar": {
       "get": {
         "summary": "Bazaar",
         "description": "Returns the list of products along with their sell summary, buy summary and quick status.\n ### Product Description\n The returned product info has 3 main fields:\n - `buy_summary`\n - `sell_summary`\n - `quick_status`\n\n`buy_summary` and `sell_summary` are the current top 30 orders for each transaction type (in-game example: [Stock of Stonks](https://i.imgur.com/SjRONxq.png)).\n\n`quick_status` is a computed summary of the live state of the product (used for advanced mode view in the bazaar):\n- `sellVolume` and `buyVolume` are the sum of item amounts in all orders.\n - `sellPrice` and `buyPrice` are the weighted average of the top 2% of orders by volume.\n - `movingWeek` is the historic transacted volume from last 7d + live state.\n - `sellOrders` and `buyOrders` are the count of active orders. ",
@@ -1736,7 +1741,7 @@
         }
       }
     },
-    "/skyblock/profile": {
+    "/v2/skyblock/profile": {
       "get": {
         "summary": "Profile by UUID",
         "description": "SkyBlock profile data, such as stats, objectives etc. The data returned can differ depending on the players in-game API settings.",
@@ -1792,7 +1797,7 @@
         }
       }
     },
-    "/skyblock/profiles": {
+    "/v2/skyblock/profiles": {
       "get": {
         "summary": "Profiles by player",
         "tags": [
@@ -1850,7 +1855,7 @@
         }
       }
     },
-    "/skyblock/museum": {
+    "/v2/skyblock/museum": {
       "get": {
         "summary": "Museum data by profile ID",
         "description": "SkyBlock museum data for all members of the provided profile. The data returned can differ depending on the players in-game API settings.",
@@ -1903,7 +1908,7 @@
         }
       }
     },
-    "/skyblock/bingo": {
+    "/v2/skyblock/bingo": {
       "get": {
         "summary": "Bingo data by player",
         "description": "Bingo data for participated events of the provided player.",
@@ -2012,7 +2017,7 @@
         }
       }
     },
-    "/skyblock/firesales": {
+    "/v2/skyblock/firesales": {
       "get": {
         "summary": "Active/Upcoming Fire Sales",
         "description": "Retrieve the currently active or upcoming Fire Sales for SkyBlock.",
@@ -2044,7 +2049,7 @@
         }
       }
     },
-    "/boosters": {
+    "/v2/boosters": {
       "get": {
         "summary": "Active Network Boosters",
         "tags": [
@@ -2101,7 +2106,7 @@
         }
       }
     },
-    "/counts": {
+    "/v2/counts": {
       "get": {
         "summary": "Current Player Counts",
         "tags": [
@@ -2152,7 +2157,7 @@
         }
       }
     },
-    "/leaderboards": {
+    "/v2/leaderboards": {
       "get": {
         "summary": "Current Leaderboards",
         "tags": [
@@ -2194,7 +2199,7 @@
         }
       }
     },
-    "/punishmentstats": {
+    "/v2/punishmentstats": {
       "get": {
         "tags": [
           "Other"

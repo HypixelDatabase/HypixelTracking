@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1699265299000,
+  "lastUpdated": 1699974372000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -454,10 +454,35 @@
       "id": "ARACHNE_CRYSTAL"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU4NDE1NjMwMCwKICAicHJvZmlsZUlkIiA6ICJmMTYwZTMxMzJjYWM0YjRiOWM5OTk2NDQ1OGIxOWM0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWNrX1JvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYjhlYzU3YjM3ZmRmMDkzZmU2NmVmZTJhYzA3MGE4ZjUxODE5NDk5NzBhNDQ1OGQ1NmVjOTcwMWVkZWQ4Y2ZmIgogICAgfQogIH0KfQ",
+      "name": "Anita's Talisman",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "id": "ANITA_TALISMAN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4Njk2NTg1NiwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQwNmI3NGQ2YmQwMmI3OTVmN2JjYmYxN2FjM2I3N2QzYmM1N2I2OTVhOGQ1NGExNzcwYzc2ZTg0ODk2YzhmOCIKICAgIH0KICB9Cn0",
+      "name": "Pesthunter Ring",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "soulbound": "COOP",
+      "stats": {
+        "bonus_pest_chance": 40
+      },
+      "id": "PESTHUNTER_RING"
+    },
+    {
       "material": "GOLD_AXE",
       "name": "Cocoa Chopper",
       "category": "AXE",
       "tier": "EPIC",
+      "stats": {
+        "cocoa_beans_fortune": 20
+      },
       "id": "COCO_CHOPPER"
     },
     {
@@ -491,6 +516,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU4NDE3NjIwOCwKICAicHJvZmlsZUlkIiA6ICI2NTk0YzdiMTExOWE0Njc3ODc0Y2ZmOWNlMzM3NzYxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJzaG1lbGxvMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZlYWJkYWRkNWY1OTM3NzFmYTIzYzk0ZmM2ODE2MDkxOTE3MzcxZmQ1YTFjNzQ3MjNlNzE2MjEwZDZlNmVmYiIKICAgIH0KICB9Cn0",
+      "name": "Anita's Artifact",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "id": "ANITA_ARTIFACT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlMjRiOGMyZDIwZjllMjNiY2E1MmQ5NGZiZDgyMGFhMDc0NDU5MWFjYjAzNTkxODMzMTJlNDNhMjg3ZTViMCJ9fX0=",
       "name": "Nether Wart Pouch",
       "tier": "RARE",
@@ -513,6 +547,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU4NDEzODQ5NywKICAicHJvZmlsZUlkIiA6ICIzYjA2ZTc3YzAzYTg0MGExOGIzOGY0Y2Q1ZWE0YzYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIT1JVU19JTyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OWExMDM1YmM2ZjAwZmRkYzhlMDI5MWMzODMxOTQwOGJhYmM4NGFlMTA2NDhjYjUyNThlZDhiNTVkNjBlMGMzIgogICAgfQogIH0KfQ",
+      "name": "Anita's Ring",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "id": "ANITA_RING"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E2YmY5MTZlMjhjY2I4MGI0ZWJmYWNmOTg2ODZhZDZhZjdjNGZiMjU3ZTU3YThjYjc4YzcxZDE5ZGNjYjIifX19",
       "name": "Basket of Seeds",
       "glowing": true,
@@ -523,7 +566,7 @@
       "material": "GOLD_HOE",
       "name": "Fungi Cutter",
       "category": "HOE",
-      "tier": "RARE",
+      "tier": "EPIC",
       "requirements": [
         {
           "type": "SKILL",
@@ -532,6 +575,32 @@
         }
       ],
       "id": "FUNGI_CUTTER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4NzAzMjUyOSwKICAicHJvZmlsZUlkIiA6ICJhYmRiNTFhYjE0Njk0Y2ZkYWU5ZjliNzFiZWJmYWI2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYW5ub3VfXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGYxZjBjZjNhZGI0YWRjNmI5OTZmZjljYjRlNmQ5ZDg5MTJlMGE1YWI4NTFjMzY2YzhiZmJkYWY4YjJlZjA0IgogICAgfQogIH0KfQ==",
+      "name": "Pesthunter Badge",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "soulbound": "COOP",
+      "stats": {
+        "bonus_pest_chance": 20
+      },
+      "id": "PESTHUNTER_BADGE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4Njk4NjYzMiwKICAicHJvZmlsZUlkIiA6ICJkMjdhNDM3YmI2OWQ0N2E0OTY4NjU1OGFhYzA4NzA1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYWx5bmthYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iM2FlZmQ4YmNhMjM2ZDMxNTkyMGQ1M2JlYTFmZTQ4OTJjOGYxZjMwOGQ2ZDU3NjMwNjc3ZjA1OWEzYjAyOTNmIgogICAgfQogIH0KfQ",
+      "name": "Pesthunter Artifact",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "soulbound": "COOP",
+      "stats": {
+        "bonus_pest_chance": 60
+      },
+      "id": "PESTHUNTER_ARTIFACT"
     },
     {
       "material": "STONE_HOE",
@@ -933,6 +1002,15 @@
       "tier": "RARE",
       "unstackable": true,
       "id": "MEDIUM_COMBAT_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTM2ODc2Nzk4OCwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4NDcxMmVjYmYxYzZjZTlkZTEyMzBiZmEwNTgzMWFhM2M1ZDBlZTlkMWJhNTlkZWVmN2EzMWNhZmQ3ZDhlZjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Garden Sack",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "GARDEN_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -49215,7 +49293,7 @@
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE1MzlkYmNkMzZmODc3MjYzMmU1NzM5ZTJlNTE0ODRlZGYzNzNjNTU4ZDZmYjJjNmI2MWI3MmI3Y2FhIn19fQ",
       "name": "Tasty Cheese",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "npc_sell_price": 500,
       "id": "CHEESE_FUEL"
     },
@@ -75183,6 +75261,86 @@
       "id": "TROPICAL_BIRD_2_PERSONALITY"
     },
     {
+      "material": "STORAGE_MINECART",
+      "name": "InfiniVacuum™",
+      "tier": "EPIC",
+      "category": "VACUUM",
+      "stats": {
+        "damage": 200
+      },
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "id": "INFINI_VACUUM"
+    },
+    {
+      "material": "EXPLOSIVE_MINECART",
+      "name": "InfiniVacuum™ Hooverius",
+      "tier": "LEGENDARY",
+      "category": "VACUUM",
+      "stats": {
+        "damage": 250
+      },
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "id": "INFINI_VACUUM_HOOVERIUS"
+    },
+    {
+      "material": "MINECART",
+      "name": "SkyMart Vacuum",
+      "tier": "COMMON",
+      "category": "VACUUM",
+      "stats": {
+        "damage": 100
+      },
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "id": "SKYMART_VACUUM"
+    },
+    {
+      "material": "POWERED_MINECART",
+      "name": "SkyMart Hyper Vacuum",
+      "tier": "RARE",
+      "category": "VACUUM",
+      "stats": {
+        "damage": 150
+      },
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "id": "SKYMART_HYPER_VACUUM"
+    },
+    {
+      "material": "HOPPER_MINECART",
+      "name": "SkyMart Turbo Vacuum",
+      "tier": "UNCOMMON",
+      "category": "VACUUM",
+      "stats": {
+        "damage": 120
+      },
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "id": "SKYMART_TURBO_VACUUM"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjIzNjU2NiwKICAicHJvZmlsZUlkIiA6ICJhYzIzZmEzNzRhMmM0YjU2YmYzYzU2ZTVhODY3NjIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJxdWVlbnNoYW5pd2EiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhiZjMzYWVhY2Y4ZjU1OWQ4MjA3YTUzNDQ5YjI4YTc5ODZiNDFkZWQ0ODI2MzE2NDBkYmIxODkyYzY1NGNjNyIKICAgIH0KICB9Cn0=",
@@ -75195,12 +75353,32 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NTAxMjA3MiwKICAicHJvZmlsZUlkIiA6ICJiZWNlZGU1YmRkODY0YTkwOTc3MTRmODk0ZWUxNmE3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1hQ29tcG9zZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM2N2ZlODFmMGJiM2RlZDgwZmZhN2M2NDdhZGExMmEwZmYxMWZkMDZkM2NmM2FkYzI0MWFhN2MxMTViMTk2MCIKICAgIH0KICB9Cn0",
+      "name": "Beady Eyes",
+      "category": "REFORGE_STONE",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "id": "BEADY_EYES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjI4NzM4MiwKICAicHJvZmlsZUlkIiA6ICI0OGNhZmJmNzg4ODg0NDU3ODNmZmI0MTAyNDE5MzI3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcjRnb25GMWdodGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5YTFhZGY2NWY0Y2ZiZWYxZTFmYTFkNjQ3NDI2YWUxZGUzMDg1ZjdkOGQ3YjRiN2QzZGM0MWFkMzJmNmM0ZDIiCiAgICB9CiAgfQp9",
       "name": "Large Walnut",
       "category": "REFORGE_STONE",
       "tier": "RARE",
       "npc_sell_price": 1,
       "id": "LARGE_WALNUT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NTA3NzM3NCwKICAicHJvZmlsZUlkIiA6ICI5Y2ZlNTBiMGIzMGE0ODUxOTg3ZTExMjc3N2RmYWRhYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdXpCbG9nIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1ZTMyNjA2MmNkYzk0OWI4ODMwMjdmOWEzNGE3N2RiM2U0Mjk3NmIyMjRkOTM2NzM5Y2IwYWJkNzUxMzY4ZDciCiAgICB9CiAgfQp9",
+      "name": "Clipped Wings",
+      "category": "REFORGE_STONE",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "id": "CLIPPED_WINGS"
     },
     {
       "material": "SKULL_ITEM",
@@ -75844,6 +76022,14 @@
       "name": "Squash Ring",
       "tier": "UNCOMMON",
       "category": "ACCESSORY",
+      "stats": {
+        "wheat_fortune": 20,
+        "carrot_fortune": 20,
+        "potato_fortune": 20,
+        "melon_fortune": 20,
+        "pumpkin_fortune": 20,
+        "cocoa_beans_fortune": 20
+      },
       "id": "SQUASH_RING"
     },
     {
@@ -75853,6 +76039,11 @@
       "name": "Cropie Talisman",
       "tier": "COMMON",
       "category": "ACCESSORY",
+      "stats": {
+        "wheat_fortune": 10,
+        "carrot_fortune": 10,
+        "potato_fortune": 10
+      },
       "id": "CROPIE_TALISMAN"
     },
     {
@@ -75863,6 +76054,167 @@
       "tier": "COMMON",
       "npc_sell_price": 10,
       "id": "COPPER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg2OTE5NjcyNiwKICAicHJvZmlsZUlkIiA6ICJmZWYyZDZjYzY5ZGI0ZWM5OWQzYzI5MzBmYzRmNTBhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3Zlbm90d2FyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhYmIzNjE0MDA1MmNhMjVkMTU5MTA3ZTJmNTRiZmM3OTIxOWU2YjJjNDc2ZmQwZDcwNGMxYWQ1Zjg3MTAxZjYiCiAgICB9CiAgfQp9",
+      "name": "Chirping Stereo",
+      "tier": "LEGENDARY",
+      "npc_sell_price": 500,
+      "description": "%%dark_gray%%%%italic%%While nobody is sure who came up with the genius design, everyone agrees that they are one of the true engineering greats.",
+      "id": "CHIRPING_STEREO"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NDk4MTc4OCwKICAicHJvZmlsZUlkIiA6ICI3YmRhNDBlM2E1YjU0YzE0YWJmZGYzNGMyODY2NjQ0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRWdvcl9wbGF5XyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MjkxNGZiOWMxMGIyMTA5NTNhYjI1OGFmMDhjZGRkNDk4Y2FlZjExOWQyMDRjNGM1ZTc5MDM0OTIwNjQ5OWM1IgogICAgfQogIH0KfQ",
+      "name": "Wriggling Larva",
+      "tier": "EPIC",
+      "id": "WRIGGLING_LARVA"
+    },
+    {
+      "material": "RECORD_5",
+      "name": "Slow and Groovy Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_SLOW_AND_GROOVY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU1NzA2MjMxOCwKICAicHJvZmlsZUlkIiA6ICI0MzFhMmRlYTQ4YTE0NTMxYjEyZDU5MzY0NDUxNmIyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpQ2FwdGFpbk5lbW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWU5NGZhMDg2ZGM4ZmY5ZDcwNDk5MzRiMDk2MmQyNzgzNjBkZTg2OGYyNzM4Y2ExN2E4M2VjN2I1ODJlYmJlZSIKICAgIH0KICB9Cn0",
+      "name": "Sprayonator",
+      "tier": "UNCOMMON",
+      "soulbound": "COOP",
+      "requirements": [
+        {
+          "type": "GARDEN_LEVEL",
+          "level": 5
+        }
+      ],
+      "id": "SPRAYONATOR"
+    },
+    {
+      "material": "WOOL",
+      "durability": 12,
+      "name": "Dung",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 100,
+      "id": "DUNG"
+    },
+    {
+      "material": "RECORD_3",
+      "name": "Cicada Symphony Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_CICADA_SYMPHONY"
+    },
+    {
+      "material": "RECORD_6",
+      "name": "Earthworm Ensemble Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_EARTHWORM_ENSEMBLE"
+    },
+    {
+      "material": "RECORD_8",
+      "name": "Pretty Fly Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_PRETTY_FLY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTYzMDQyMDg5NiwKICAicHJvZmlsZUlkIiA6ICI3NTA5NzZmODRmMDE0NWFhYTc0MzAwYWJhMzc5MTIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwY2hlYXRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2NDA0NWI0YmViYjZiNzI2YzYzMzE4NGU1OGYxYWE0NDMxZDk5YmM1YzhjYmU1MGQyNGEwMWFmNTMzODYxMzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Pest Repellent MAX",
+      "tier": "RARE",
+      "id": "PEST_REPELLENT_MAX"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg3MDM5MTEzNCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4ZWNkNjM2MTUwODM3YjBkOWQwMjk5YjY0Y2QwYjViNTVhNmY5OTE1OGM5NDYwMGViOTBmYzViYTY3NzMzMGQiCiAgICB9CiAgfQp9",
+      "name": "Honey Jar",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 100,
+      "id": "HONEY_JAR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NTA0NTgxMCwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lSZWFsbVNwaWVsZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDNjZjVjZDkyYzFiYTBhN2Q3YmIxZjg3MmNjZGI5NTFjYTg5N2QzNDAwNDA0NTdhMzI0MjcxNjA2YzViYmM1NiIKICAgIH0KICB9Cn0",
+      "name": "Atmospheric Filter",
+      "tier": "RARE",
+      "category": "ACCESSORY",
+      "npc_sell_price": 1000,
+      "id": "ATMOSPHERIC_FILTER"
+    },
+    {
+      "material": "RECORD_9",
+      "name": "DynaMITES Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_DYNAMITES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NDk5ODgzNSwKICAicHJvZmlsZUlkIiA6ICI0YjJlMGM1ODliZjU0ZTk1OWM1ZmJlMzg5MjQ1MzQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTmVvdHJvbl8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg1Njg5MTgyOWY1ZTEyNWMyNTIwMTZhZTdlNDg0NmVmMzllNzBmZTBlYzEzMmI1YTUxMjZjZWFhMGE2NWY0NCIKICAgIH0KICB9Cn0=",
+      "name": "Pest Repellent",
+      "tier": "UNCOMMON",
+      "id": "PEST_REPELLENT"
+    },
+    {
+      "material": "RECORD_12",
+      "name": "Wings of Harmony Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_WINGS_OF_HARMONY"
+    },
+    {
+      "material": "RECORD_4",
+      "name": "Cricket Choir Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_CRICKET_CHOIR"
+    },
+    {
+      "material": "LEAVES",
+      "durability": 3,
+      "name": "Plant Matter",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 100,
+      "id": "PLANT_MATTER"
+    },
+    {
+      "material": "BOOK",
+      "name": "Bookworm's Favorite Book",
+      "tier": "RARE",
+      "npc_sell_price": 250,
+      "id": "BOOKWORM_BOOK"
+    },
+    {
+      "material": "RECORD_10",
+      "name": "Buzzin' Beats Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_BUZZIN_BEATS"
+    },
+    {
+      "material": "GOLD_RECORD",
+      "name": "Rodent Revolution Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_RODENT_REVOLUTION"
+    },
+    {
+      "material": "RECORD_7",
+      "name": "Not Just a Pest Vinyl",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 1000,
+      "id": "VINYL_BEETLE"
     },
     {
       "material": "SKULL_ITEM",
@@ -75926,6 +76278,111 @@
       "id": "HOE_OF_GREATEST_TILLING"
     },
     {
+      "material": "RED_MUSHROOM",
+      "name": "Mushroom Barn Skin",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "MUSHROOM_BARN_SKIN"
+    },
+    {
+      "material": "COBBLESTONE",
+      "name": "Castle Barn Skin",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "CASTLE_BARN_SKIN"
+    },
+    {
+      "material": "WOOD",
+      "name": "Pinwheel House Barn Skin",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "PINWHEEL_HOUSE_BARN_SKIN"
+    },
+    {
+      "material": "LOG",
+      "name": "Tavern Barn Skin",
+      "tier": "UNCOMMON",
+      "category": "COSMETIC",
+      "id": "TAVERN_BARN_SKIN"
+    },
+    {
+      "material": "LEAVES",
+      "durability": 2,
+      "name": "Autumn Hut Barn Skin",
+      "tier": "UNCOMMON",
+      "category": "COSMETIC",
+      "id": "AUTUMN_HUT_BARN_SKIN"
+    },
+    {
+      "material": "WOOL",
+      "durability": 14,
+      "name": "Cube Barn Skin",
+      "tier": "UNCOMMON",
+      "category": "COSMETIC",
+      "id": "CUBE_BARN_SKIN"
+    },
+    {
+      "material": "FENCE",
+      "name": "Trading Post Barn Skin",
+      "tier": "UNCOMMON",
+      "category": "COSMETIC",
+      "id": "TRADING_POST_BARN_SKIN"
+    },
+    {
+      "material": "FEATHER",
+      "name": "Windmill Barn Skin",
+      "tier": "UNCOMMON",
+      "category": "COSMETIC",
+      "id": "WINDMILL_BARN_SKIN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Jerry Barn Skin",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwOTgxMDIwNzcxMSwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1ZjcyOTczNjk5NmEzOGUxODZmZTlmZTdmNWEwNGIzODdlZDAzZjM4NzFlY2M4MmZhNzhkOGEyYmRkMzExMDkiCiAgICB9CiAgfQp9",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "JERRY_BARN_SKIN"
+    },
+    {
+      "material": "STICK",
+      "name": "Bamboo Barn Skin",
+      "tier": "EPIC",
+      "category": "COSMETIC",
+      "id": "BAMBOO_BARN_SKIN"
+    },
+    {
+      "material": "STAINED_CLAY",
+      "durability": 4,
+      "name": "Hive Barn Skin",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "HIVE_BARN_SKIN"
+    },
+    {
+      "material": "MOSSY_COBBLESTONE",
+      "name": "Count's Manor Barn Skin",
+      "tier": "EPIC",
+      "category": "COSMETIC",
+      "id": "COUNTS_MANOR_BARN_SKIN"
+    },
+    {
+      "material": "HAY_BLOCK",
+      "name": "Cozy Cottage Barn Skin",
+      "tier": "UNCOMMON",
+      "category": "COSMETIC",
+      "id": "COZY_COTTAGE_BARN_SKIN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "name": "Frog Barn Skin",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3NzA5Mjg2Mjc0MiwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTU1YzFiYTg5ODM5OGY5NWZjZTNjODE5MjRkY2Y1Nzc2NzAxY2YyMGRlOWZlOTEwNjE4ZDU4MzliYTRiMzVhNyIKICAgIH0KICB9Cn0",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "FROG_BARN_SKIN"
+    },
+    {
       "material": "BLAZE_ROD",
       "name": "Builder's Ruler",
       "glowing": true,
@@ -75965,6 +76422,9 @@
       "name": "Fermento Artifact",
       "tier": "RARE",
       "category": "ACCESSORY",
+      "stats": {
+        "farming_fortune": 30
+      },
       "id": "FERMENTO_ARTIFACT"
     },
     {

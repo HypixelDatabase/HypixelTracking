@@ -1389,7 +1389,9 @@
           "kills_pest_slug": 0,
           "kills_pest_beetle": 0,
           "kills_pest_rat": 0,
-          "kills_pest_mosquito": 0
+          "kills_pest_mosquito": 0,
+          "kills_pest_mite": 0,
+          "kills_pest_worm": 0
         },
         "objectives": {
           "collect_log": {
@@ -11290,7 +11292,9 @@
             "pest_slug_1": 0,
             "pest_beetle_1": 0,
             "pest_rat_1": 0,
-            "pest_mosquito_1": 0
+            "pest_mosquito_1": 0,
+            "pest_mite_1": 0,
+            "pest_worm_1": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

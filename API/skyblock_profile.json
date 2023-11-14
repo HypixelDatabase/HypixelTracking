@@ -1393,7 +1393,9 @@
           "kills_pest_mite": 0,
           "kills_pest_worm": 0,
           "kills_pest_moth": 0,
-          "kills_pest_fly": 0
+          "kills_pest_fly": 0,
+          "kills_pest_cricket": 0,
+          "kills_pest_locust": 0
         },
         "objectives": {
           "collect_log": {
@@ -8042,7 +8044,8 @@
           "personal_bests": {
             "CACTUS": 0,
             "SUGAR_CANE": 0,
-            "WHEAT": 0
+            "WHEAT": 0,
+            "CARROT_ITEM": 0
           }
         },
         "experimentation": {
@@ -11302,7 +11305,9 @@
             "pest_mite_1": 0,
             "pest_worm_1": 0,
             "pest_moth_1": 0,
-            "pest_fly_1": 0
+            "pest_fly_1": 0,
+            "pest_cricket_1": 0,
+            "pest_locust_1": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

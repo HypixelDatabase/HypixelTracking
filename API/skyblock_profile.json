@@ -1385,7 +1385,10 @@
           "kills_blazing_golem_300": 0,
           "kills_siamese_lynx_155": 0,
           "kills_minos_champion_310": 0,
-          "kills_key_guardian_100": 0
+          "kills_key_guardian_100": 0,
+          "kills_pest_slug": 0,
+          "kills_pest_beetle": 0,
+          "kills_pest_rat": 0
         },
         "objectives": {
           "collect_log": {
@@ -8028,7 +8031,10 @@
             "silver": [],
             "gold": []
           },
-          "migration": true
+          "migration": true,
+          "personal_bests": {
+            "CACTUS": 0
+          }
         },
         "experimentation": {
           "simon": {
@@ -11279,7 +11285,10 @@
             "spider_13": 0,
             "slime_15": 0,
             "goblin_500": 0,
-            "slime_8": 0
+            "slime_8": 0,
+            "pest_slug_1": 0,
+            "pest_beetle_1": 0,
+            "pest_rat_1": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,

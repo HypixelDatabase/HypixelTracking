@@ -8007,6 +8007,11 @@
                 "rerolls": 0
               }
             ]
+          },
+          "dungeon_hub_race_settings": {
+            "selected_race": "",
+            "selected_setting": "",
+            "runback": true
           }
         },
         "personal_vault_contents": {
@@ -12619,7 +12624,287 @@
             ]
           }
         },
-        "motes_purse": 0
+        "motes_purse": 0,
+        "player_stats": {
+          "candy_collected": {
+            "total": 0,
+            "purple_candy": 0,
+            "spooky_festival_206": {
+              "total": 0,
+              "purple_candy": 0,
+              "green_candy": 0
+            },
+            "green_candy": 0,
+            "spooky_festival_207": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_210": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_212": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_215": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_216": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_217": {
+              "total": 0,
+              "purple_candy": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_218": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_219": {
+              "total": 0,
+              "purple_candy": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_221": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_222": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_1": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_223": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_224": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_225": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_227": {
+              "total": 0,
+              "purple_candy": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_232": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_3": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_238": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_245": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_247": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_253": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_256": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_263": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_264": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_269": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_278": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_280": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_281": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_282": {
+              "total": 0,
+              "purple_candy": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_285": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_286": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_288": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_292": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_293": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_301": {
+              "total": 0,
+              "green_candy": 0
+            },
+            "spooky_festival_305": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
+            },
+            "spooky_festival_306": {
+              "total": 0,
+              "green_candy": 0
+            }
+          },
+          "kills": {
+            "magma_cube_75": 0,
+            "pack_spirit_30": 0,
+            "chaosmite_300": 0,
+            "inferno_magma_cube_200": 0,
+            "kuudra_landmine_200": 0,
+            "kuudra_berserker_200": 0,
+            "kuudra_follower_200": 0,
+            "explosive_imp_200": 0,
+            "blight_200": 0,
+            "kuudra_knocker_200": 0,
+            "kuudra_slasher_200": 0,
+            "wandering_blaze_200": 0,
+            "caverns_ghost_250": 0,
+            "endermite_37": 0,
+            "enderman_50": 0,
+            "enderman_42": 0,
+            "redstone_pigman_10": 0,
+            "treasure_hoarder_70": 0,
+            "matcho_100": 0,
+            "wither_skeleton_70": 0,
+            "crypt_dreadlord_127": 0,
+            "crypt_souleater_125": 0,
+            "crypt_lurker_121": 0,
+            "crypt_witherskeleton_120": 0,
+            "blaze_70": 0,
+            "nest_endermite_50": 0,
+            "ghast_85": 0,
+            "goblin_weakling_melee_5": 0,
+            "goblin_weakling_bow_5": 0,
+            "mayor_jerry_purple_3": 0,
+            "sludge_100": 0,
+            "mayor_jerry_green_1": 0,
+            "skeleton_soldier_76": 0,
+            "skeleton_master_128": 0,
+            "zombie_lord_150": 0,
+            "zombie_knight_126": 0,
+            "watcher_summon_undead_8": 0,
+            "master_skeleton_soldier_106": 0,
+            "kuudra_slasher_400": 0,
+            "master_skeletor_100": 0,
+            "master_super_archer_100": 0,
+            "master_zombie_soldier_103": 0,
+            "goblin_knife_thrower_25": 0,
+            "goblin_weakling_melee_25": 0,
+            "master_crypt_lurker_101": 0,
+            "master_tentaclees_90": 0,
+            "master_crypt_dreadlord_107": 0,
+            "master_crypt_witherskeleton_100": 0,
+            "master_watcher_summon_undead_6": 0,
+            "master_crypt_souleater_105": 0,
+            "team_treasurite_corleone_200": 0
+          },
+          "deaths": {
+            "sea_witch": 0,
+            "wither_spectre": 0,
+            "kada_chicken": 0,
+            "pack_magma_cube": 0,
+            "kada_knight": 0,
+            "splatter": 0
+          },
+          "rift": {
+            "odonata_repeatable_completed": 0
+          },
+          "spooky": {
+            "bats_spawned": {
+              "221": 0,
+              "225": 0,
+              "230": 0,
+              "233": 0,
+              "236": 0,
+              "238": 0,
+              "239": 0,
+              "243": 0,
+              "256": 0,
+              "264": 0,
+              "267": 0,
+              "271": 0,
+              "275": 0,
+              "276": 0,
+              "289": 0,
+              "291": 0,
+              "292": 0,
+              "293": 0,
+              "296": 0,
+              "297": 0,
+              "299": 0,
+              "303": 0,
+              "304": 0,
+              "309": 0,
+              "310": 0,
+              "311": 0
+            }
+          }
+        }
       }
     },
     "banking": {

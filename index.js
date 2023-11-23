@@ -165,7 +165,7 @@ const tasks = [
       const data = await mc.ping({ host: 'mc.hypixel.net', version: '1.8.9' });
       data.players.online = 0;
       data.latency = 0;
-      data.description = description.replace(/\d DAYS [\d]{2}:[\d]{2}:[\d]{2}/g, 'd DAYS HH:MM:SS');
+      data.description = data.description.replace(/\d DAYS [\d]{2}:[\d]{2}:[\d]{2}/g, 'd DAYS HH:MM:SS');
       return fs.writeFileSync('./ServerListPing/slp.json', JSON.stringify(data, null, 2));
     }
   },

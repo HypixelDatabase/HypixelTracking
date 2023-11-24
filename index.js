@@ -34,7 +34,7 @@ const whiteListedArrays = [
   'tutorial', 'visited_zones', 'crafted_minions', 'achievement_spawned_island_types', 'unlocked_coll_tiers'
 ];
 
-const blacklistedValues = ['contract_choices', 'currently_upgrading'];
+const blacklistedValues = ['contract_choices', 'currently_upgrading', 'bats_spawned'];
 
 function uniqueArrayElements(target, source) {
   const destination = target.slice().concat(source);
@@ -44,6 +44,7 @@ function uniqueArrayElements(target, source) {
 function containsBadKey(key) {
   return (blacklistedValues.includes(key))
     || key.startsWith('fetchur-')
+    || key.startsWith('spooky_festival_')
     || /^[0-9a-fA-F]{32}$/.test(key);
 }
 

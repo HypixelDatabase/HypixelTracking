@@ -45,6 +45,7 @@ function containsBadKey(key) {
   return (blacklistedValues.includes(key))
     || key.startsWith('fetchur-')
     || key.startsWith('spooky_festival_')
+    || /\d+:\d+_\d+:/.test(key)
     || /^[0-9a-fA-F]{32}$/.test(key);
 }
 

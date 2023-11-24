@@ -7745,7 +7745,11 @@
           },
           "access": {
             "last_free": 0,
-            "consumed_prism": true
+            "consumed_prism": true,
+            "pass": {
+              "issued_at": 0,
+              "rift_server_joins": 0
+            }
           },
           "dreadfarm": {
             "shania_stage": 0,

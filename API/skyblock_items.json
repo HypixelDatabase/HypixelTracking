@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1699974372000,
+  "lastUpdated": 1701105741000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -15904,6 +15904,15 @@
     },
     {
       "material": "PAPER",
+      "name": "Secret Bingo Card",
+      "tier": "SPECIAL",
+      "museum": true,
+      "glowing": true,
+      "soulbound": "COOP",
+      "id": "SECRET_BINGO_CARD"
+    },
+    {
+      "material": "PAPER",
       "name": "Extreme Bingo Card",
       "tier": "SPECIAL",
       "museum": true,
@@ -15924,6 +15933,16 @@
       "origin": "BINGO",
       "soulbound": "SOLO",
       "id": "BINGO_BLASTER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDczOTg0MTU1OCwKICAicHJvZmlsZUlkIiA6ICIzM2NjZDBjYTc2MTg0ODY4YWMyNjc0YTg2YmEzMDRhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKaWlzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkMzRmYjhlZDc2ZjU1ZDFkNTU5YzMzYWFhNTBmODNmZTM2MWYxZTRiZWU5MTVkZTUyZWI4NjAyYWVmZjJhOTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Bingo's Secrets",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "unstackable": true,
+      "id": "SECRET_BINGO_MEMENTO"
     },
     {
       "material": "SKULL_ITEM",
@@ -68701,7 +68720,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MTc1MTE1OCwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYyMTc4NjllYzIwNWQxNzI3ZmM0YzYwNTViZDg2OGI3ODg2ZjJjOGFkOThmYTcwNGNiNzZlMTFiZGQ4MDI4NzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Wither Soul",
       "tier": "UNCOMMON",
-      "description": "You can still hear their cries from the other side",
+      "description": "You can still hear their cries from the other side.",
       "soulbound": "COOP",
       "npc_sell_price": 50,
       "id": "WITHER_SOUL"

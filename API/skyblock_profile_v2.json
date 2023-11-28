@@ -980,7 +980,11 @@
                 "last_call_incoming": 0
               },
               "alixer": {},
-              "bingo": {}
+              "bingo": {},
+              "alchemist": {
+                "talked_to": true,
+                "completed_quest": true
+              }
             },
             "active_contacts": [],
             "operator_chip": {

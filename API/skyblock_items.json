@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1701105741000,
+  "lastUpdated": 1701182493000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -378,7 +378,7 @@
       "tier": "COMMON",
       "category": "ACCESSORY",
       "npc_sell_price": 1000,
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "ARCHAEOLOGIST_COMPASS"
     },
     {
@@ -8288,7 +8288,7 @@
       "tier": "SPECIAL",
       "category": "MEMENTO",
       "item_specific": {
-        "city_project": "repair_wizard_portal"
+        "memorable_event_key": "repair_wizard_portal"
       },
       "id": "WIZARD_PORTAL_MEMENTO"
     },
@@ -8300,7 +8300,7 @@
       "tier": "SPECIAL",
       "category": "MEMENTO",
       "item_specific": {
-        "city_project": "inflation_fixer"
+        "memorable_event_key": "inflation_fixer"
       },
       "description": "\n%%dark_gray%%It's about sending a message...",
       "id": "BURNING_COINS"
@@ -12866,6 +12866,878 @@
       "id": "EPOCH_CAKE_DARK_GREEN"
     },
     {
+      "material": "FISHING_ROD",
+      "name": "Rod of Champions",
+      "category": "FISHING_ROD",
+      "tier": "RARE",
+      "stats": {
+        "damage": 90,
+        "strength": 80,
+        "sea_creature_chance": 4,
+        "fishing_speed": 90
+      },
+      "npc_sell_price": 17800,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 15
+        }
+      ],
+      "id": "CHAMP_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Yeti Rod",
+      "category": "FISHING_ROD",
+      "tier": "EPIC",
+      "stats": {
+        "damage": 150,
+        "strength": 130,
+        "fishing_speed": 75
+      },
+      "npc_sell_price": 150000,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 25
+        }
+      ],
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 20
+        }
+      ],
+      "id": "YETI_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Starter Lava Rod",
+      "category": "FISHING_ROD",
+      "tier": "UNCOMMON",
+      "stats": {
+        "damage": 50,
+        "strength": 50,
+        "fishing_speed": 8
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 10
+        }
+      ],
+      "soulbound": "COOP",
+      "id": "STARTER_LAVA_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Rod of Legends",
+      "category": "FISHING_ROD",
+      "tier": "EPIC",
+      "stats": {
+        "damage": 130,
+        "strength": 120,
+        "sea_creature_chance": 6,
+        "fishing_speed": 105
+      },
+      "npc_sell_price": 111000,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 20
+        }
+      ],
+      "id": "LEGEND_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Hellfire Rod",
+      "category": "FISHING_ROD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "damage": 180,
+        "strength": 180,
+        "sea_creature_chance": 14,
+        "fishing_speed": 75
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 35
+        }
+      ],
+      "npc_sell_price": 5634000,
+      "can_have_attributes": true,
+      "salvageable_from_recipe": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ITEM",
+            "item_id": "LUMP_OF_MAGMA",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 1
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "MOOGMA_PELT",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 2
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "PYROCLASTIC_SCALE",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 3
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "CUP_OF_BLOOD",
+            "amount": 50
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 40
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 160
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "FLAMING_HEART",
+            "amount": 70
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 50
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "ORB_OF_ENERGY",
+            "amount": 80
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 60
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "HORN_OF_TAURUS",
+            "amount": 90
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 70
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 400
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "THUNDER_SHARDS",
+            "amount": 30
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_GOLD",
+            "amount": 30
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 3
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1000
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_LORD_FRAGMENT",
+            "amount": 25
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_GOLD",
+            "amount": 40
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 4
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1200
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_LORD_FRAGMENT",
+            "amount": 30
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_GOLD",
+            "amount": 50
+          },
+          {
+            "type": "ITEM",
+            "item_id": "HEAVY_PEARL",
+            "amount": 5
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 1600
+          }
+        ]
+      ],
+      "id": "HELLFIRE_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Ice Rod",
+      "category": "FISHING_ROD",
+      "tier": "RARE",
+      "stats": {
+        "damage": 30,
+        "fishing_speed": 15
+      },
+      "npc_sell_price": 20000,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 3
+        }
+      ],
+      "museum": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 5
+        }
+      ],
+      "rarity_salvageable": true,
+      "id": "ICE_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Phantom Rod",
+      "category": "FISHING_WEAPON",
+      "tier": "LEGENDARY",
+      "stats": {
+        "damage": 200,
+        "strength": 125,
+        "fishing_speed": 100
+      },
+      "npc_sell_price": 1000,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "UNDEAD",
+        "amount": 500
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "UNDEAD",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "UNDEAD",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "UNDEAD",
+            "amount": 400
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "UNDEAD",
+            "amount": 500
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "UNDEAD",
+            "amount": 600
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 21
+        }
+      ],
+      "id": "PHANTOM_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Auger Rod",
+      "category": "FISHING_ROD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "damage": 135,
+        "strength": 90,
+        "fishing_speed": 110
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 25
+        }
+      ],
+      "id": "AUGER_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Magma Rod",
+      "category": "FISHING_ROD",
+      "tier": "RARE",
+      "stats": {
+        "damage": 150,
+        "strength": 150,
+        "sea_creature_chance": 6,
+        "fishing_speed": 40
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 27
+        }
+      ],
+      "npc_sell_price": 8000,
+      "can_have_attributes": true,
+      "salvageable_from_recipe": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ITEM",
+            "item_id": "LUMP_OF_MAGMA",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 1
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "MOOGMA_PELT",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 2
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "PYROCLASTIC_SCALE",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 3
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 100
+          }
+        ]
+      ],
+      "id": "MAGMA_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Challenging Rod",
+      "category": "FISHING_ROD",
+      "tier": "RARE",
+      "stats": {
+        "damage": 60,
+        "strength": 60,
+        "sea_creature_chance": 2,
+        "fishing_speed": 75
+      },
+      "npc_sell_price": 5000,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 10
+        }
+      ],
+      "id": "CHALLENGE_ROD"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjEwNTA0MSwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxM2M2ODk5ZDk3MTA5YzZjYWNiYmNkZDAxZTg5MDBhYmFmNDY0MzJmMTk3NTk1YmFhMTVhZDEzN2Q1ZmI5YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Hot Bait",
+      "category": "BAIT",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 30,
+      "id": "HOT_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE4YzI5OTBhYjU1NzE2NTRlNTEzODE3NjkyODhjMGVlOGUzMTZmODhiYWVlYjk1OTY2ZWUyOTZkNmI5MjgwYyJ9fX0=",
+      "name": "Frozen Bait",
+      "category": "BAIT",
+      "tier": "RARE",
+      "npc_sell_price": 10,
+      "id": "FROZEN_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjliYjE4ZTFjZmU2ZWRmMDM1MzVlNWZkYzY0ODJlMDlhN2ZkZjk1MTI1Yzg2MTEyNjliOWRlOWQ1NDcxNWI5ZCJ9fX0=",
+      "name": "Fish Bait",
+      "category": "BAIT",
+      "npc_sell_price": 20,
+      "id": "FISH_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY5MWExNDg2N2VmOTg2Nzg3MmRjZGM4YzU0ZTNkNGNmYjVlNTI1ZGNjZmI3Zjk5YTczMTRhNDVmYWViMzAxZSJ9fX0=",
+      "name": "Minnow Bait",
+      "category": "BAIT",
+      "npc_sell_price": 12,
+      "id": "MINNOW_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTEwNzRiYTc5NjE2YzdkOGNmOGUzMzg0OTAzOWY2NzQxMGEyZjdjOWNlNzkzZDQ0N2UyMWY1YWEyNGQ1MDEwOCJ9fX0=",
+      "name": "Spooky Bait",
+      "category": "BAIT",
+      "npc_sell_price": 10,
+      "id": "SPOOKY_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMzYzUxNmYzZjM4MDkxNmQ0MWE5MzU1YTMxOWY4NTk0M2FhY2M4YTljMWI0YTEzODAxNzQ4NGI2MTExNGY2OCJ9fX0=",
+      "name": "Dark Bait",
+      "category": "BAIT",
+      "npc_sell_price": 8,
+      "id": "DARK_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM2YTlhZGQyNTY0NWJmY2MzNzdjMjVlZjBjMmU5OTAxZDE5NDkzYzNlOTgxZWJjNmJhN2ExYTFiNjQ2NmNlNCJ9fX0=",
+      "name": "Light Bait",
+      "category": "BAIT",
+      "npc_sell_price": 16,
+      "id": "LIGHT_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU5ODg1MjcwNSwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJiY2RkZDQ1Y2QzNDc4NjViY2VhYjNlM2RjNWQzODI3MjM0NjM5NjNmODVlY2NlODFjZGQ2MWI1M2RiMTRlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Corrupted Bait",
+      "category": "BAIT",
+      "npc_sell_price": 1,
+      "id": "CORRUPTED_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQzYTZiZDk4YWMxODMzYzY2NGM0OTA5ZmY4ZDJkYzYyY2U4ODdiZGNmM2NjNWIzODQ4NjUxYWU1YWY2YiJ9fX0=",
+      "name": "Carrot Bait",
+      "category": "BAIT",
+      "npc_sell_price": 7,
+      "id": "CARROT_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA2MGE0NjQ5N2NlZTc2MTEzNDZjOWRkOGViOGY1ZGU0NDgzZGUyNTkxNDcyMTEzNTM4NDgzNTZkZTE1ZDE5In19fQ==",
+      "name": "Blessed Bait",
+      "category": "BAIT",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 42,
+      "id": "BLESSED_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNhYTcxNjc2ZTgxZmI1M2EwNDBkZmRjYTNlNWI0N2Q1M2U2ZWZkNjY1ZTY5ZmI0Mzk3NzhlOGM0ZWZiMWNjIn19fQ==",
+      "name": "Whale Bait",
+      "category": "BAIT",
+      "tier": "RARE",
+      "npc_sell_price": 80,
+      "id": "WHALE_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTExMzY2MTZkOGM0YTg3YTU0Y2U3OGE5N2I1NTE2MTBjMmIyYzhmNmQ0MTBiYzM4Yjg1OGY5NzRiMTEzYjIwOCJ9fX0=",
+      "name": "Ice Bait",
+      "category": "BAIT",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 3,
+      "id": "ICE_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTEyYmM1ZWYyNmYzNjdiZGJkNzExNmU4MGZkZTRhZjE4MjNjMGU5MzYwYWZhYjAyYTlkM2E0Y2I2ZDVmY2Q4MiJ9fX0=",
+      "name": "Spiked Bait",
+      "category": "BAIT",
+      "npc_sell_price": 20,
+      "id": "SPIKED_BAIT"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Shredder",
+      "category": "FISHING_WEAPON",
+      "tier": "LEGENDARY",
+      "stats": {
+        "damage": 120,
+        "ferocity": 50,
+        "fishing_speed": 115
+      },
+      "npc_sell_price": 1000,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 20
+        }
+      ],
+      "id": "THE_SHREDDER"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Speedster Rod",
+      "category": "FISHING_ROD",
+      "tier": "UNCOMMON",
+      "stats": {
+        "damage": 30,
+        "strength": 15,
+        "fishing_speed": 45
+      },
+      "npc_sell_price": 1000,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 6
+        }
+      ],
+      "museum": true,
+      "id": "SPEEDSTER_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Farmer's Rod",
+      "category": "FISHING_ROD",
+      "tier": "UNCOMMON",
+      "stats": {
+        "damage": 50,
+        "strength": 20,
+        "fishing_speed": 60
+      },
+      "npc_sell_price": 1050,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 8
+        }
+      ],
+      "museum": true,
+      "id": "FARMER_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Inferno Rod",
+      "category": "FISHING_ROD",
+      "tier": "EPIC",
+      "stats": {
+        "damage": 170,
+        "strength": 170,
+        "sea_creature_chance": 10,
+        "fishing_speed": 60
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 30
+        }
+      ],
+      "npc_sell_price": 1028000,
+      "can_have_attributes": true,
+      "salvageable_from_recipe": true,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ITEM",
+            "item_id": "LUMP_OF_MAGMA",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 1
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "MOOGMA_PELT",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 2
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 80
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "PYROCLASTIC_SCALE",
+            "amount": 20
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 3
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "CUP_OF_BLOOD",
+            "amount": 50
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 40
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 160
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "FLAMING_HEART",
+            "amount": 70
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 50
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "ORB_OF_ENERGY",
+            "amount": 80
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 60
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 300
+          }
+        ],
+        [
+          {
+            "type": "ITEM",
+            "item_id": "HORN_OF_TAURUS",
+            "amount": 90
+          },
+          {
+            "type": "ITEM",
+            "item_id": "MAGMA_FISH_SILVER",
+            "amount": 70
+          },
+          {
+            "type": "ESSENCE",
+            "essence_type": "CRIMSON",
+            "amount": 400
+          }
+        ]
+      ],
+      "id": "INFERNO_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Sponge Rod",
+      "category": "FISHING_ROD",
+      "stats": {
+        "damage": 20,
+        "strength": 15,
+        "fishing_speed": 30
+      },
+      "npc_sell_price": 36,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 5
+        }
+      ],
+      "museum": true,
+      "id": "SPONGE_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Prismarine Rod",
+      "category": "FISHING_ROD",
+      "stats": {
+        "damage": 15,
+        "strength": 10,
+        "fishing_speed": 15
+      },
+      "npc_sell_price": 10,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 3
+        }
+      ],
+      "museum": true,
+      "id": "PRISMARINE_ROD"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTY3NDM5MywKICAicHJvZmlsZUlkIiA6ICI4ZjE5NjJmYzE4NzY0MDU3ODYxMmIxMzNjODE4YmY5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW9uXzkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwYjc3ZWFhNmJjNGExODNhNjg4OGJhNTJkZjQ4NDE3YTZlMzg1YzNiNDYzYWM0OWI0MGEzYjk2ZTBhNWI3NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
@@ -16914,16 +17786,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjEwNTA0MSwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxM2M2ODk5ZDk3MTA5YzZjYWNiYmNkZDAxZTg5MDBhYmFmNDY0MzJmMTk3NTk1YmFhMTVhZDEzN2Q1ZmI5YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-      "name": "Hot Bait",
-      "category": "BAIT",
-      "tier": "UNCOMMON",
-      "npc_sell_price": 30,
-      "id": "HOT_BAIT"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU4NmUwYjI5M2RlZjVjMjU3MzM4NDNiYmU2Nzc5Y2NkYTc3NTkwZTEzMjI0YTJkYjYyNzZhZDgyM2VkNTVlIn19fQ==",
       "name": "Titan's Helmet",
       "category": "HELMET",
@@ -20955,7 +21817,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "WOLF_PAW"
     },
     {
@@ -24764,6 +25626,7 @@
       "material": "RAW_FISH",
       "name": "Stew the Fish",
       "glowing": true,
+      "description": "%%gray%%The stew was expired.",
       "tier": "SPECIAL",
       "museum": true,
       "id": "STEW_THE_FISH"
@@ -25809,15 +26672,6 @@
       "name": "Birch Sapling",
       "npc_sell_price": 0.25,
       "id": "SAPLING:2"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjliYjE4ZTFjZmU2ZWRmMDM1MzVlNWZkYzY0ODJlMDlhN2ZkZjk1MTI1Yzg2MTEyNjliOWRlOWQ1NDcxNWI5ZCJ9fX0=",
-      "name": "Fish Bait",
-      "category": "BAIT",
-      "npc_sell_price": 20,
-      "id": "FISH_BAIT"
     },
     {
       "material": "IRON_HELMET",
@@ -26952,7 +27806,7 @@
       "name": "Frozen Chicken",
       "category": "ACCESSORY",
       "tier": "RARE",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "npc_sell_price": 1,
       "stats": {
         "WALK_SPEED": 1
@@ -27271,15 +28125,6 @@
       "name": "Milk and Cookies",
       "furniture": "MILK_COOKIES",
       "id": "MILK_COOKIES"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY5MWExNDg2N2VmOTg2Nzg3MmRjZGM4YzU0ZTNkNGNmYjVlNTI1ZGNjZmI3Zjk5YTczMTRhNDVmYWViMzAxZSJ9fX0=",
-      "name": "Minnow Bait",
-      "category": "BAIT",
-      "npc_sell_price": 12,
-      "id": "MINNOW_BAIT"
     },
     {
       "material": "SKULL_ITEM",
@@ -27840,6 +28685,14 @@
       "name": "Dandelion",
       "npc_sell_price": 1,
       "id": "YELLOW_FLOWER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDQxODM0MTc3MCwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYmNjOTVhYzNiM2U2ZjdlZjA4NTUzMDNmZjBhMTAwMzUyMTQxZmJiZmEwNjczODZiZjlhZmUyZTM3NjI2OWQyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "%%green%%Swappable Preview %%gray%%(Click)",
+      "description": "Cycle between all the variations of the selected preview!",
+      "id": "SWAPPABLE_PREVIEW"
     },
     {
       "material": "PRISMARINE_SHARD",
@@ -28990,7 +29843,7 @@
       "name": "Shady Ring",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "SHADY_RING"
     },
     {
@@ -31765,7 +32618,7 @@
       "stats": {
         "WALK_SPEED": 3
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "npc_sell_price": 1000,
       "id": "CHEETAH_TALISMAN"
     },
@@ -36643,7 +37496,7 @@
       "name": "Jacobus Register",
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "stats": {
         "HEALTH": 10,
         "PET_LUCK": 1
@@ -38847,6 +39700,20 @@
       "dungeon_item": true,
       "gemstone_slots": [
         {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
           "slot_type": "COMBAT",
           "costs": [
             {
@@ -40362,7 +41229,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "npc_sell_price": 1000,
       "id": "PIGS_FOOT"
     },
@@ -41306,6 +42173,20 @@
       "dungeon_item": true,
       "gemstone_slots": [
         {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
           "slot_type": "COMBAT",
           "costs": [
             {
@@ -42051,7 +42932,7 @@
       "name": "Seal of the Family",
       "category": "ACCESSORY",
       "tier": "EPIC",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "SEAL_OF_THE_FAMILY"
     },
     {
@@ -44916,15 +45797,6 @@
       "id": "SCOVILLE_BELT"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTEwNzRiYTc5NjE2YzdkOGNmOGUzMzg0OTAzOWY2NzQxMGEyZjdjOWNlNzkzZDQ0N2UyMWY1YWEyNGQ1MDEwOCJ9fX0=",
-      "name": "Spooky Bait",
-      "category": "BAIT",
-      "npc_sell_price": 10,
-      "id": "SPOOKY_BAIT"
-    },
-    {
       "material": "ARROW",
       "name": "Bouncy Arrow",
       "glowing": true,
@@ -47485,15 +48357,6 @@
       "id": "FISHING_ROD"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMzYzUxNmYzZjM4MDkxNmQ0MWE5MzU1YTMxOWY4NTk0M2FhY2M4YTljMWI0YTEzODAxNzQ4NGI2MTExNGY2OCJ9fX0=",
-      "name": "Dark Bait",
-      "category": "BAIT",
-      "npc_sell_price": 8,
-      "id": "DARK_BAIT"
-    },
-    {
       "material": "RED_SANDSTONE",
       "name": "Red Sandstone",
       "npc_sell_price": 3,
@@ -47552,15 +48415,6 @@
         }
       ],
       "id": "EMBER_LEGGINGS"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM2YTlhZGQyNTY0NWJmY2MzNzdjMjVlZjBjMmU5OTAxZDE5NDkzYzNlOTgxZWJjNmJhN2ExYTFiNjQ2NmNlNCJ9fX0=",
-      "name": "Light Bait",
-      "category": "BAIT",
-      "npc_sell_price": 16,
-      "id": "LIGHT_BAIT"
     },
     {
       "material": "DIAMOND_ORE",
@@ -49582,6 +50436,7 @@
       "material": "RAW_FISH",
       "name": "Rock the Fish",
       "glowing": true,
+      "description": "%%gray%%Fish ore.",
       "tier": "SPECIAL",
       "museum": true,
       "id": "ROCK_THE_FISH"
@@ -51266,7 +52121,7 @@
       "category": "ACCESSORY",
       "tier": "LEGENDARY",
       "unstackable": true,
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "KUUDRA_FOLLOWER_RELIC"
     },
     {
@@ -51539,6 +52394,20 @@
       ],
       "dungeon_item": true,
       "gemstone_slots": [
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        },
         {
           "slot_type": "COMBAT",
           "costs": [
@@ -51878,12 +52747,6 @@
         }
       ],
       "id": "DIVER_LEGGINGS"
-    },
-    {
-      "material": "POTION",
-      "name": "§cBottle of Jyrre",
-      "npc_sell_price": 100,
-      "id": "BOTTLE_OF_JYRRE"
     },
     {
       "material": "GOLD_HELMET",
@@ -57739,15 +58602,6 @@
       "id": "OLD_SHIMMER"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU5ODg1MjcwNSwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJiY2RkZDQ1Y2QzNDc4NjViY2VhYjNlM2RjNWQzODI3MjM0NjM5NjNmODVlY2NlODFjZGQ2MWI1M2RiMTRlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Corrupted Bait",
-      "category": "BAIT",
-      "npc_sell_price": 1,
-      "id": "CORRUPTED_BAIT"
-    },
-    {
       "material": "SEA_LANTERN",
       "name": "Sea Lantern",
       "npc_sell_price": 45,
@@ -58091,15 +58945,6 @@
       },
       "museum": true,
       "id": "POTATO_CROWN"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQzYTZiZDk4YWMxODMzYzY2NGM0OTA5ZmY4ZDJkYzYyY2U4ODdiZGNmM2NjNWIzODQ4NjUxYWU1YWY2YiJ9fX0=",
-      "name": "Carrot Bait",
-      "category": "BAIT",
-      "npc_sell_price": 7,
-      "id": "CARROT_BAIT"
     },
     {
       "material": "SKULL_ITEM",
@@ -58640,7 +59485,7 @@
       "stats": {
         "WALK_SPEED": 2
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "npc_sell_price": 1000,
       "id": "LYNX_TALISMAN"
     },
@@ -58770,16 +59615,6 @@
       "tier": "RARE",
       "dungeon_item": true,
       "id": "LIVID_FRAGMENT"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA2MGE0NjQ5N2NlZTc2MTEzNDZjOWRkOGViOGY1ZGU0NDgzZGUyNTkxNDcyMTEzNTM4NDgzNTZkZTE1ZDE5In19fQ==",
-      "name": "Blessed Bait",
-      "category": "BAIT",
-      "tier": "UNCOMMON",
-      "npc_sell_price": 42,
-      "id": "BLESSED_BAIT"
     },
     {
       "material": "SKULL_ITEM",
@@ -60495,7 +61330,7 @@
       "name": "Crooked Artifact",
       "category": "ACCESSORY",
       "tier": "RARE",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "CROOKED_ARTIFACT"
     },
     {
@@ -60936,7 +61771,7 @@
       "name": "King Talisman",
       "category": "ACCESSORY",
       "npc_sell_price": 2000,
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "KING_TALISMAN"
     },
     {
@@ -61124,16 +61959,6 @@
       "name": "Blaze Powder",
       "npc_sell_price": 4,
       "id": "BLAZE_POWDER"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNhYTcxNjc2ZTgxZmI1M2EwNDBkZmRjYTNlNWI0N2Q1M2U2ZWZkNjY1ZTY5ZmI0Mzk3NzhlOGM0ZWZiMWNjIn19fQ==",
-      "name": "Whale Bait",
-      "category": "BAIT",
-      "tier": "RARE",
-      "npc_sell_price": 80,
-      "id": "WHALE_BAIT"
     },
     {
       "material": "SKULL_ITEM",
@@ -62619,16 +63444,6 @@
       "npc_sell_price": 1600,
       "tier": "UNCOMMON",
       "id": "ENCHANTED_RED_MUSHROOM"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTExMzY2MTZkOGM0YTg3YTU0Y2U3OGE5N2I1NTE2MTBjMmIyYzhmNmQ0MTBiYzM4Yjg1OGY5NzRiMTEzYjIwOCJ9fX0=",
-      "name": "Ice Bait",
-      "category": "BAIT",
-      "tier": "UNCOMMON",
-      "npc_sell_price": 3,
-      "id": "ICE_BAIT"
     },
     {
       "material": "CHEST",
@@ -65111,7 +65926,7 @@
       "stats": {
         "WALK_SPEED": 1
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "npc_sell_price": 1000,
       "id": "CAT_TALISMAN"
     },
@@ -67386,7 +68201,7 @@
       "stats": {
         "INTELLIGENCE": 6
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "requirements": [
         {
           "type": "MELODY_HAIR"
@@ -68563,6 +69378,20 @@
       "dungeon_item": true,
       "gemstone_slots": [
         {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
           "slot_type": "COMBAT",
           "costs": [
             {
@@ -68836,15 +69665,6 @@
       "npc_sell_price": 1,
       "dungeon_item": true,
       "id": "MAGE_DUNGEON_ABILITY_3"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTEyYmM1ZWYyNmYzNjdiZGJkNzExNmU4MGZkZTRhZjE4MjNjMGU5MzYwYWZhYjAyYTlkM2E0Y2I2ZDVmY2Q4MiJ9fX0=",
-      "name": "Spiked Bait",
-      "category": "BAIT",
-      "npc_sell_price": 20,
-      "id": "SPIKED_BAIT"
     },
     {
       "material": "LEATHER_LEGGINGS",
@@ -72348,7 +73168,7 @@
       "name": "Survivor Cube",
       "category": "ACCESSORY",
       "tier": "RARE",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "stats": {
         "vitality": 5
       },
@@ -74334,756 +75154,6 @@
       "id": "TROPICAL_BIRD_1_PERSONALITY"
     },
     {
-      "material": "FISHING_ROD",
-      "name": "Rod of Champions",
-      "category": "FISHING_ROD",
-      "tier": "RARE",
-      "stats": {
-        "damage": 90,
-        "strength": 80,
-        "sea_creature_chance": 4,
-        "fishing_speed": 90
-      },
-      "npc_sell_price": 17800,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 15
-        }
-      ],
-      "id": "CHAMP_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Yeti Rod",
-      "category": "FISHING_ROD",
-      "tier": "EPIC",
-      "stats": {
-        "damage": 150,
-        "strength": 130,
-        "fishing_speed": 75
-      },
-      "npc_sell_price": 150000,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 25
-        }
-      ],
-      "salvages": [
-        {
-          "type": "ESSENCE",
-          "essence_type": "ICE",
-          "amount": 20
-        }
-      ],
-      "id": "YETI_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Starter Lava Rod",
-      "category": "FISHING_ROD",
-      "tier": "UNCOMMON",
-      "stats": {
-        "damage": 50,
-        "strength": 50,
-        "fishing_speed": 8
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 10
-        }
-      ],
-      "soulbound": "COOP",
-      "id": "STARTER_LAVA_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Rod of Legends",
-      "category": "FISHING_ROD",
-      "tier": "EPIC",
-      "stats": {
-        "damage": 130,
-        "strength": 120,
-        "sea_creature_chance": 6,
-        "fishing_speed": 105
-      },
-      "npc_sell_price": 111000,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 20
-        }
-      ],
-      "id": "LEGEND_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Hellfire Rod",
-      "category": "FISHING_ROD",
-      "tier": "LEGENDARY",
-      "stats": {
-        "damage": 180,
-        "strength": 180,
-        "sea_creature_chance": 14,
-        "fishing_speed": 75
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 35
-        }
-      ],
-      "npc_sell_price": 5634000,
-      "can_have_attributes": true,
-      "salvageable_from_recipe": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ITEM",
-            "item_id": "LUMP_OF_MAGMA",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 1
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "MOOGMA_PELT",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 2
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "PYROCLASTIC_SCALE",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 3
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 100
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "CUP_OF_BLOOD",
-            "amount": 50
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 40
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 160
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "FLAMING_HEART",
-            "amount": 70
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 50
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 200
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "ORB_OF_ENERGY",
-            "amount": 80
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 60
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "HORN_OF_TAURUS",
-            "amount": 90
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 70
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 400
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "THUNDER_SHARDS",
-            "amount": 30
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_GOLD",
-            "amount": 30
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 3
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1000
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_LORD_FRAGMENT",
-            "amount": 25
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_GOLD",
-            "amount": 40
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 4
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1200
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_LORD_FRAGMENT",
-            "amount": 30
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_GOLD",
-            "amount": 50
-          },
-          {
-            "type": "ITEM",
-            "item_id": "HEAVY_PEARL",
-            "amount": 5
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 1600
-          }
-        ]
-      ],
-      "id": "HELLFIRE_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Ice Rod",
-      "category": "FISHING_ROD",
-      "tier": "RARE",
-      "stats": {
-        "damage": 30,
-        "fishing_speed": 15
-      },
-      "npc_sell_price": 20000,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 3
-        }
-      ],
-      "museum": true,
-      "salvages": [
-        {
-          "type": "ESSENCE",
-          "essence_type": "ICE",
-          "amount": 5
-        }
-      ],
-      "rarity_salvageable": true,
-      "id": "ICE_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Phantom Rod",
-      "category": "FISHING_WEAPON",
-      "tier": "LEGENDARY",
-      "stats": {
-        "damage": 200,
-        "strength": 125,
-        "fishing_speed": 100
-      },
-      "npc_sell_price": 1000,
-      "dungeon_item_conversion_cost": {
-        "essence_type": "UNDEAD",
-        "amount": 500
-      },
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "UNDEAD",
-            "amount": 200
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "UNDEAD",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "UNDEAD",
-            "amount": 400
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "UNDEAD",
-            "amount": 500
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "UNDEAD",
-            "amount": 600
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 21
-        }
-      ],
-      "id": "PHANTOM_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Auger Rod",
-      "category": "FISHING_ROD",
-      "tier": "LEGENDARY",
-      "stats": {
-        "damage": 135,
-        "strength": 90,
-        "fishing_speed": 110
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 25
-        }
-      ],
-      "id": "AUGER_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Magma Rod",
-      "category": "FISHING_ROD",
-      "tier": "RARE",
-      "stats": {
-        "damage": 150,
-        "strength": 150,
-        "sea_creature_chance": 6,
-        "fishing_speed": 40
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 27
-        }
-      ],
-      "npc_sell_price": 8000,
-      "can_have_attributes": true,
-      "salvageable_from_recipe": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ITEM",
-            "item_id": "LUMP_OF_MAGMA",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 1
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "MOOGMA_PELT",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 2
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "PYROCLASTIC_SCALE",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 3
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 100
-          }
-        ]
-      ],
-      "id": "MAGMA_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Challenging Rod",
-      "category": "FISHING_ROD",
-      "tier": "RARE",
-      "stats": {
-        "damage": 60,
-        "strength": 60,
-        "sea_creature_chance": 2,
-        "fishing_speed": 75
-      },
-      "npc_sell_price": 5000,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 10
-        }
-      ],
-      "id": "CHALLENGE_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Shredder",
-      "category": "FISHING_WEAPON",
-      "tier": "LEGENDARY",
-      "stats": {
-        "damage": 120,
-        "ferocity": 50,
-        "fishing_speed": 115
-      },
-      "npc_sell_price": 1000,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 20
-        }
-      ],
-      "id": "THE_SHREDDER"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Speedster Rod",
-      "category": "FISHING_ROD",
-      "tier": "UNCOMMON",
-      "stats": {
-        "damage": 30,
-        "strength": 15,
-        "fishing_speed": 45
-      },
-      "npc_sell_price": 1000,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 6
-        }
-      ],
-      "museum": true,
-      "id": "SPEEDSTER_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Farmer's Rod",
-      "category": "FISHING_ROD",
-      "tier": "UNCOMMON",
-      "stats": {
-        "damage": 50,
-        "strength": 20,
-        "fishing_speed": 60
-      },
-      "npc_sell_price": 1050,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 8
-        }
-      ],
-      "museum": true,
-      "id": "FARMER_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Inferno Rod",
-      "category": "FISHING_ROD",
-      "tier": "EPIC",
-      "stats": {
-        "damage": 170,
-        "strength": 170,
-        "sea_creature_chance": 10,
-        "fishing_speed": 60
-      },
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 30
-        }
-      ],
-      "npc_sell_price": 1028000,
-      "can_have_attributes": true,
-      "salvageable_from_recipe": true,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ITEM",
-            "item_id": "LUMP_OF_MAGMA",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 1
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "MOOGMA_PELT",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 2
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 80
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "PYROCLASTIC_SCALE",
-            "amount": 20
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 3
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 100
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "CUP_OF_BLOOD",
-            "amount": 50
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 40
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 160
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "FLAMING_HEART",
-            "amount": 70
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 50
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 200
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "ORB_OF_ENERGY",
-            "amount": 80
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 60
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 300
-          }
-        ],
-        [
-          {
-            "type": "ITEM",
-            "item_id": "HORN_OF_TAURUS",
-            "amount": 90
-          },
-          {
-            "type": "ITEM",
-            "item_id": "MAGMA_FISH_SILVER",
-            "amount": 70
-          },
-          {
-            "type": "ESSENCE",
-            "essence_type": "CRIMSON",
-            "amount": 400
-          }
-        ]
-      ],
-      "id": "INFERNO_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Sponge Rod",
-      "category": "FISHING_ROD",
-      "stats": {
-        "damage": 20,
-        "strength": 15,
-        "fishing_speed": 30
-      },
-      "npc_sell_price": 36,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 5
-        }
-      ],
-      "museum": true,
-      "id": "SPONGE_ROD"
-    },
-    {
-      "material": "FISHING_ROD",
-      "name": "Prismarine Rod",
-      "category": "FISHING_ROD",
-      "stats": {
-        "damage": 15,
-        "strength": 10,
-        "fishing_speed": 15
-      },
-      "npc_sell_price": 10,
-      "requirements": [
-        {
-          "type": "SKILL",
-          "skill": "FISHING",
-          "level": 3
-        }
-      ],
-      "museum": true,
-      "id": "PRISMARINE_ROD"
-    },
-    {
       "material": "EMPTY_MAP",
       "name": "Travel Scroll to Dragontail",
       "category": "TRAVEL_SCROLL",
@@ -76738,6 +76808,26 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3NGMyZTRjMGIyMjJlNDJlOGNkZGYzYmE4ZjZiNTQ2YzUxMDNhZGEyYzljMTU0NjFhYmMzZmEzZjQyNTA5In19fQ==",
+      "name": "Winter Fragment",
+      "description": "A magical shard capturing the warmth and joy of winter festivities.",
+      "category": "NONE",
+      "tier": "EPIC",
+      "npc_sell_price": 500,
+      "id": "WINTER_FRAGMENT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "name": "%%red%%Volcanic Rock",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjYzYzdmMTg4MDcwZDFmMjdkZmZmOGJlNGQ1MjU4YzVhMzE3MDA5ZjU2NmRmZDllODYxY2Y2ZTVmOGZiMzhlMiJ9fX0=",
+      "npc_sell_price": 1000,
+      "tier": "EPIC",
+      "id": "VOLCANIC_ROCK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI0MDdlNjZjODFiMTQ0M2MyZTdkZmM0ZDY1ODNlYjE5YzYyMmZhMjJmMzRmYmY5OWZlNmM0NWY3NmEifX19",
       "name": "Nutcracker Helmet",
       "category": "HELMET",
@@ -76957,6 +77047,19 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTM5NDI1NDY1NSwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRhYmQ3MGY3ZDlkZmE0N2MzMGEwOTkyZDNiN2Y1M2Q3NGU3M2VkY2JiM2Y1ZmE4MDYzYjkxNDg2YWM5ZmY0YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Expensive Toy",
+      "description": "%%dark_gray%%%%italic%%This toy is said to bring extraordinary luck and prosperity to its owner. But remember, with great power comes an even greater price tag.",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "item_specific": {
+        "memorable_event_key": "winter_2023"
+      },
+      "id": "EXPENSIVE_TOY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDEyNDM5NCwKICAicHJvZmlsZUlkIiA6ICJiMTM1MDRmMjMxOGI0OWNjYWFkZDcyYWVhYmMyNTQ1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeXBrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI4NWUyOWYyOWVjOWE5MGU0ODJlYTViODM5MWJjYjQ1NjBiYmFlMGRjZDE1ZDdjZTFkODYwMTZiNDM1NmU5OCIKICAgIH0KICB9Cn0=",
       "name": "Blue Gift Talisman",
       "category": "ACCESSORY",
@@ -77027,6 +77130,20 @@
       "id": "GLACIAL_TALISMAN"
     },
     {
+      "material": "POTION",
+      "name": "§cLost Bottle of Jyrre",
+      "npc_sell_price": 100,
+      "id": "BOTTLE_OF_JYRRE"
+    },
+    {
+      "material": "POTION",
+      "name": "Refined Bottle of Jyrre",
+      "npc_sell_price": 30000,
+      "tier": "LEGENDARY",
+      "glowing": true,
+      "id": "REFINED_BOTTLE_OF_JYRRE"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JiZThmZDFhYTM5ZjE1MDc2ZTg4NGRmZTZkZGI5YTNmMzc2MWRiMzFlMmIxZjk5NDBiNWRmZDM0ZDFjNGQifX19",
@@ -77065,6 +77182,41 @@
       "tier": "UNCOMMON",
       "npc_sell_price": 1,
       "id": "SALT_CUBE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE1YzVjOWYyNzliMTE2NGVjZDVlNjdlMTQ0Nzg4MDIxODRiYjAzMDMxZDFhOWZmMzVlNDZiODYzYTljMDZiYyJ9fX0=",
+      "name": "Magic Top Hat",
+      "description": "%%dark_gray%%%%italic%%A hat so charming, even rabbits wish to call it home.",
+      "tier": "LEGENDARY",
+      "id": "MAGIC_TOP_HAT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDE3MTU3ODYwMiwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk1MWYwNDA1Y2Q5NzY4NTMwZjkxMzg5OWE5NjIzYTlhMWU2YTRkMjc2YWE5NzUxNDAzNDc1NGRjZGRmNmM2MTkiCiAgICB9CiAgfQp9",
+      "name": "Einary's Red Hoodie",
+      "tier": "RARE",
+      "id": "EINARY_RED_HOODIE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "name": "Gift of Learning",
+      "unstackable": true,
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmU5YjMzNWMwYjEzMWFhNGNlZjc4MjAzZDhmNWJhNTJkMjZmNTg0NTJjY2IxNTU3OThhY2Q0YmRjNzQ1MTczIn19fQ==",
+      "npc_sell_price": 1000,
+      "tier": "RARE",
+      "soulbound": "SOLO",
+      "id": "GIFT_OF_LEARNING"
+    },
+    {
+      "material": "POTION",
+      "name": "§cBottle of Jyrre",
+      "npc_sell_price": 1000,
+      "tier": "RARE",
+      "id": "NEW_BOTTLE_OF_JYRRE"
     },
     {
       "material": "IRON_HOE",
@@ -77127,6 +77279,267 @@
         }
       ],
       "id": "FROZEN_SCYTHE"
+    },
+    {
+      "material": "DIAMOND_HOE",
+      "name": "Glacial Scythe",
+      "category": "SWORD",
+      "sword_type": "SCYTHE",
+      "tier": "EPIC",
+      "stats": {
+        "DAMAGE": 130,
+        "INTELLIGENCE": 40,
+        "WEAPON_ABILITY_DAMAGE": 1700
+      },
+      "ability_damage_scaling": 0.3,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE"
+        }
+      ],
+      "npc_sell_price": 500,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "ICE",
+        "amount": 50
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 10
+        }
+      ],
+      "id": "STARRED_GLACIAL_SCYTHE"
+    },
+    {
+      "material": "IRON_SWORD",
+      "name": "Yeti Sword",
+      "category": "SWORD",
+      "tier": "LEGENDARY",
+      "stats": {
+        "DAMAGE": 160,
+        "STRENGTH": 185,
+        "WEAPON_ABILITY_DAMAGE": 17000,
+        "INTELLIGENCE": 50
+      },
+      "ability_damage_scaling": 0.3,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "ICE",
+        "amount": 100
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 150
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 250
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 300
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 22
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 100000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 40
+            }
+          ]
+        }
+      ],
+      "id": "STARRED_YETI_SWORD"
+    },
+    {
+      "material": "STICK",
+      "name": "Ice Spray Wand",
+      "glowing": true,
+      "category": "SWORD",
+      "tier": "RARE",
+      "ability_damage_scaling": 0.1,
+      "npc_sell_price": 10000,
+      "tiered_stats": {
+        "DAMAGE": [
+          60,
+          64,
+          69,
+          74,
+          80,
+          86,
+          92,
+          99,
+          107,
+          115
+        ],
+        "WEAPON_ABILITY_DAMAGE": [
+          19000
+        ],
+        "INTELLIGENCE": [
+          135,
+          147,
+          160,
+          175,
+          190,
+          206,
+          224,
+          244,
+          265,
+          290
+        ]
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 200
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "ICE",
+            "amount": 300
+          }
+        ]
+      ],
+      "gear_score": 20,
+      "requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 20
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "id": "STARRED_ICE_SPRAY_WAND"
     },
     {
       "material": "DIAMOND_HOE",
@@ -77754,7 +78167,7 @@
         "fishing_wisdom": 1,
         "rift_time": 21
       },
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "FUTURE_CALORIES"
     },
     {
@@ -78760,7 +79173,7 @@
       "tier": "UNCOMMON",
       "category": "ACCESSORY",
       "origin": "RIFT",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "rift_transferrable": true,
       "stats": {
         "CRITICAL_DAMAGE": 1
@@ -78775,7 +79188,7 @@
       "tier": "UNCOMMON",
       "category": "ACCESSORY",
       "origin": "RIFT",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "rift_transferrable": true,
       "description": "Was it all a test?",
       "stats": {
@@ -78870,7 +79283,7 @@
       "tier": "COMMON",
       "category": "ACCESSORY",
       "origin": "RIFT",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "rift_transferrable": true,
       "stats": {
         "intelligence": 1
@@ -78885,7 +79298,7 @@
       "tier": "UNCOMMON",
       "category": "ACCESSORY",
       "origin": "RIFT",
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "rift_transferrable": true,
       "description": "Don't hate the player, hate the game. - Ice T",
       "stats": {
@@ -101052,7 +101465,7 @@
       "category": "ACCESSORY",
       "tier": "EPIC",
       "unstackable": true,
-      "soulbound": "COOP",
+      "soulbound": "SOLO",
       "id": "KUUDRA_FOLLOWER_ARTIFACT"
     },
     {

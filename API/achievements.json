@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1701357818267,
+  "lastUpdated": 1701358718259,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3880,17 +3880,16 @@
           "description": "Complete the Holiday Madness Special Weekly Quest in Build Battle",
           "globalPercentUnlocked": 1
         },
-        "REAL_SANTA_2022": {
-          "points": 15,
-          "name": "Real Santa (2022)",
-          "description": "Find all 95 presents in every lobby",
-          "globalPercentUnlocked": 1
-        },
         "HOLIDAY_MIRACLE": {
           "points": 10,
           "name": "Holiday Miracle",
           "description": "Claim 2 legendary gifts at the same time in Bed Wars",
           "globalPercentUnlocked": 1
+        },
+        "REAL_SANTA_2023": {
+          "points": 15,
+          "name": "Real Santa (2023)",
+          "description": "Find all 95 presents in every lobby"
         },
         "BOUNCY_CASTLE": {
           "points": 5,
@@ -3904,11 +3903,10 @@
           "description": "Win a game as Murderer after collecting at least 3 presents in Murder Mystery",
           "globalPercentUnlocked": 1
         },
-        "HUNT_BEGINS_2022": {
+        "HUNT_BEGINS_2023": {
           "points": 5,
-          "name": "The Hunt Begins (2022)",
-          "description": "Find 2 lobby presents",
-          "globalPercentUnlocked": 1
+          "name": "The Hunt Begins (2023)",
+          "description": "Find 2 lobby presents"
         },
         "VERY_MERRY_BINGO": {
           "points": 20,
@@ -4153,7 +4151,7 @@
         "OOOO_CHILLY": {
           "points": 5,
           "name": "Oooo Chilly!",
-          "description": "Win a game of TNT Tag wearing the snow suit and either the Polar Bear Hat, Winter Hat or the Canada Hat",
+          "description": "Win a game of TNT Tag wearing the Snow Suit and either the Polar Bear Hat, Winter Hat, Canada Hat, or the Thick Ice Hat",
           "globalPercentUnlocked": 1
         },
         "FREEZE_DONT_MOVE": {
@@ -4234,6 +4232,12 @@
           "description": "Win a game of Santa Simulator without being spotted by a single resident",
           "legacy": true
         },
+        "REAL_SANTA_2022": {
+          "points": 15,
+          "name": "Real Santa (2022)",
+          "description": "Find all 95 presents in every lobby",
+          "legacy": true
+        },
         "REAL_SANTA_2018": {
           "points": 15,
           "name": "Real Santa (2018)",
@@ -4250,6 +4254,12 @@
           "points": 15,
           "name": "Real Santa (2019)",
           "description": "Find all 88 presents in every lobby",
+          "legacy": true
+        },
+        "HUNT_BEGINS_2022": {
+          "points": 5,
+          "name": "The Hunt Begins (2022)",
+          "description": "Find 2 lobby presents",
           "legacy": true
         },
         "HUNT_BEGINS": {
@@ -4303,8 +4313,8 @@
             }
           ]
         },
-        "ADVENT_2022": {
-          "name": "Advent Calendar (2022)",
+        "ADVENT_2023": {
+          "name": "Advent Calendar (2023)",
           "description": "Claim %s days in the Advent Calendar",
           "tiers": [
             {
@@ -4424,6 +4434,38 @@
               "tier": 5,
               "points": 25,
               "amount": 300
+            }
+          ]
+        },
+        "ADVENT_2022": {
+          "name": "Advent Calendar (2022)",
+          "description": "Claim %s days in the Advent Calendar",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 3
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 7
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 14
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 21
             }
           ]
         },
@@ -4621,7 +4663,7 @@
         }
       },
       "total_points": 750,
-      "total_legacy_points": 595
+      "total_legacy_points": 690
     },
     "copsandcrims": {
       "one_time": {

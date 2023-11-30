@@ -7165,7 +7165,8 @@
         "tourney_blitz_duo_2_arrows_hit_donkeytamer": 0,
         "tourney_blitz_duo_2_blitz_uses": 0,
         "kit_item_rename_SlimeySlime_diamond_axe": "",
-        "wins_teams_slimeyslime": 0
+        "wins_teams_slimeyslime": 0,
+        "inGamePresentsCap_2023_30": 0
       },
       "MCGO": {
         "bombs_defused": 0,
@@ -38935,6 +38936,9 @@
                   "treasure": 0,
                   "junk": 0,
                   "orb": 0
+                },
+                "ice": {
+                  "fish": 0
                 }
               }
             },
@@ -46503,9 +46507,15 @@
                 "Murderholidaymaps": 0,
                 "Duelsvictor": 0,
                 "Cvcthrowprojectile": 0,
-                "Pbpowerup": 0
+                "Pbpowerup": 0,
+                "Blitzchests": 0
               },
               "rewards": []
+            },
+            "medium": {
+              "objectives": {
+                "Arcadecreeperfreeze": 0
+              }
             }
           },
           "presents": {

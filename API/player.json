@@ -2953,7 +2953,10 @@
           "projectile_trail_twirling_snowflake",
           "victory_dance_winter_twister",
           "victory_dance_snow_bomber",
-          "projectile_trail_flame_rings"
+          "projectile_trail_flame_rings",
+          "projectile_trail_icicle",
+          "snow_pixel_party_pants",
+          "frosted_wall"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -7778,7 +7781,8 @@
           "beam.bubbles",
           "beam.flames",
           "beam_easter",
-          "thunder"
+          "thunder",
+          "snowhat"
         ],
         "sight": "",
         "trigger": "",
@@ -8217,7 +8221,9 @@
           "ocean",
           "pastel",
           "doublejump_easter_eggs",
-          "deatheffect_eggsplosion"
+          "deatheffect_eggsplosion",
+          "dje_chilled",
+          "thick_ice"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -9261,7 +9267,9 @@
           "beaver",
           "convertedstats",
           "cakes_count_fix_flag",
-          "killmessage_bunny"
+          "killmessage_bunny",
+          "smiley_snowman",
+          "smiley_snowflake"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -17985,7 +17993,15 @@
           "cage_milkshake",
           "cage_pineapple",
           "killeffect_ring_of_fire",
-          "projectiletrail_flame_rings"
+          "projectiletrail_flame_rings",
+          "cage_snow_globe",
+          "balloon_north_star",
+          "projectiletrail_icicle",
+          "cage_hot_cocoa",
+          "sprays_gingerbread_jerry",
+          "sprays_silent_night",
+          "sprays_seasons_greetings",
+          "sprays_ugly_bed_wars_sweater"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -32608,7 +32624,15 @@
           "islandtopper_sand_castle",
           "beddestroy_water_spout",
           "islandtopper_crab",
-          "islandtopper_watermelon"
+          "islandtopper_watermelon",
+          "projectiletrail_icicle",
+          "sprays_silent_night",
+          "sprays_seasons_greetings",
+          "sprays_ugly_bed_wars_sweater",
+          "sprays_gingerbread_jerry",
+          "npcskin_bundled_snowman",
+          "islandtopper_snowy_cabin",
+          "islandtopper_pinecone"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33846,7 +33870,12 @@
           "knife_skin_salmon",
           "last_words_10th_anniversary",
           "projectile_trail_flame_rings",
-          "knife_skin_farming_implement"
+          "knife_skin_farming_implement",
+          "projectile_trail_icicle",
+          "kill_note_seasons_greetings",
+          "kill_note_ugly_bed_wars_sweater",
+          "kill_note_silent_night",
+          "kill_note_gingerbread_jerry"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -36132,7 +36161,9 @@
           "kill_effect_ring_of_fire",
           "projectile_trail_flame_rings",
           "emblem_hypixel_knight_red",
-          "emblem_hypixel_knight_blue"
+          "emblem_hypixel_knight_blue",
+          "projectile_trail_icicle",
+          "weaponpacks_frosted"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -38819,7 +38850,8 @@
           "projectiletrail_firework",
           "barrier_bubble_gum",
           "projectiletrail_flame_rings",
-          "killmessages_computer"
+          "killmessages_computer",
+          "projectiletrail_icicle"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -38938,7 +38970,9 @@
                   "orb": 0
                 },
                 "ice": {
-                  "fish": 0
+                  "fish": 0,
+                  "junk": 0,
+                  "treasure": 0
                 }
               }
             },
@@ -42012,7 +42046,13 @@
         "furniture_fisherman_cooler",
         "furniture_flamingo",
         "furniture_lifeguard_chair",
-        "furniture_greenhouse"
+        "furniture_greenhouse",
+        "firnvale_theme",
+        "furniture_bear_bed",
+        "furniture_bear_bench",
+        "furniture_bear_bookshelf",
+        "furniture_bear_chair",
+        "furniture_bear_side_table"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",
@@ -46514,7 +46554,9 @@
             },
             "medium": {
               "objectives": {
-                "Arcadecreeperfreeze": 0
+                "Arcadecreeperfreeze": 0,
+                "Bowspleefsurvivetwo": 0,
+                "Bedwarsemerald": 0
               }
             }
           },

@@ -38928,6 +38928,14 @@
                   "treasure": 0,
                   "orb": 0
                 }
+              },
+              "christmas": {
+                "water": {
+                  "fish": 0,
+                  "treasure": 0,
+                  "junk": 0,
+                  "orb": 0
+                }
               }
             },
             "permanent": {
@@ -46472,6 +46480,13 @@
         "2023": {
           "levelling": {
             "experience": 0
+          },
+          "bingo": {
+            "easy": {
+              "objectives": {
+                "Maincatchicefish": 0
+              }
+            }
           }
         }
       },

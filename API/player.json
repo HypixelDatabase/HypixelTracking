@@ -2829,7 +2829,8 @@
       "skywars_halloween_harvest_2023": {
         "active": {
           "objectives": {
-            "skywars_halloween_mega_wins": 0
+            "skywars_halloween_mega_wins": 0,
+            "skywars_halloween_kills": 0
           },
           "started": 0
         }
@@ -46567,7 +46568,8 @@
                 "Quakepodiumposition": 0,
                 "Pbtntrain": 0,
                 "Warlordsflagpickup": 0,
-                "Skywarsdiamondarmor": 0
+                "Skywarsdiamondarmor": 0,
+                "Skywarsholidayrefill": 0
               }
             }
           },

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1696636528862,
+  "lastUpdated": 1701357818267,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3910,6 +3910,11 @@
           "description": "Find 2 lobby presents",
           "globalPercentUnlocked": 1
         },
+        "VERY_MERRY_BINGO": {
+          "points": 20,
+          "name": "Very Merry Bingo",
+          "description": "Complete the Hard Bingo Card during a Holidays Event"
+        },
         "LEGENDARY": {
           "points": 10,
           "name": "LEGENDARY!",
@@ -4615,7 +4620,7 @@
           ]
         }
       },
-      "total_points": 730,
+      "total_points": 750,
       "total_legacy_points": 595
     },
     "copsandcrims": {

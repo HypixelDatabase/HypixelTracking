@@ -39107,7 +39107,8 @@
               "level": 0
             },
             "mythical_hook": {
-              "level": 0
+              "level": 0,
+              "toggle": true
             }
           },
           "activeFishingRod": ""
@@ -39978,7 +39979,8 @@
         "cloak_blaze",
         "pet_zombie_villager_baby",
         "gadget_giant_skeleton",
-        "pet_rabbit_white_baby"
+        "pet_rabbit_white_baby",
+        "clickeffects_snow"
       ]
     },
     "vanityTokens": 0,
@@ -46590,8 +46592,10 @@
                 "Arcadegrinchintermediate": 0,
                 "Wallsaggressor": 0,
                 "Wwflawless": 0,
-                "Vampzdeadstaydead": 0
-              }
+                "Vampzdeadstaydead": 0,
+                "Maincatchmythicalfish": 0
+              },
+              "rewards": []
             },
             "hard": {
               "objectives": {

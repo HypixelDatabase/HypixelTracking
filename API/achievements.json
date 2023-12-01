@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1701358718259,
+  "lastUpdated": 1701452318292,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3889,7 +3889,8 @@
         "REAL_SANTA_2023": {
           "points": 15,
           "name": "Real Santa (2023)",
-          "description": "Find all 95 presents in every lobby"
+          "description": "Find all 95 presents in every lobby",
+          "globalPercentUnlocked": 1
         },
         "BOUNCY_CASTLE": {
           "points": 5,
@@ -3906,12 +3907,14 @@
         "HUNT_BEGINS_2023": {
           "points": 5,
           "name": "The Hunt Begins (2023)",
-          "description": "Find 2 lobby presents"
+          "description": "Find 2 lobby presents",
+          "globalPercentUnlocked": 1
         },
         "VERY_MERRY_BINGO": {
           "points": 20,
           "name": "Very Merry Bingo",
-          "description": "Complete the Hard Bingo Card during a Holidays Event"
+          "description": "Complete the Hard Bingo Card during a Holidays Event",
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY": {
           "points": 10,

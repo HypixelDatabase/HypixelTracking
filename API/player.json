@@ -39980,7 +39980,8 @@
         "pet_zombie_villager_baby",
         "gadget_giant_skeleton",
         "pet_rabbit_white_baby",
-        "clickeffects_snow"
+        "clickeffects_snow",
+        "pet_packed_ice"
       ]
     },
     "vanityTokens": 0,
@@ -46624,11 +46625,14 @@
                 "Arcadepartystarswin": 0,
                 "Tntrunonestepabove": 0,
                 "Maincatchjunk": 0
-              }
+              },
+              "rewards": []
             }
           },
           "presents": {
-            "MAIN_LOBBY_1": true
+            "MAIN_LOBBY_1": true,
+            "ARCADE_1": true,
+            "ARCADE_3": true
           },
           "adventRewards": {
             "day1": 0

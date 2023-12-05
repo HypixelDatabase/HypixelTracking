@@ -33657,7 +33657,8 @@
               "npc_general_daku": true,
               "npc_john_pireso": true,
               "phase_two_asc": true,
-              "npc_blacksmith_apprentice": true
+              "npc_blacksmith_apprentice": true,
+              "npc_hammer": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33665,7 +33666,8 @@
               "npc_general_daku": 0,
               "npc_john_pireso": 0,
               "phase_two_asc": 0,
-              "npc_blacksmith_apprentice": 0
+              "npc_blacksmith_apprentice": 0,
+              "npc_hammer": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33676,7 +33678,9 @@
               "blacksmith_apprentice_iron": true,
               "blacksmith_apprentice_coins": true,
               "blacksmith_apprentice_iron_repeat": true,
-              "blacksmith_apprentice_coins_repeat": true
+              "blacksmith_apprentice_coins_repeat": true,
+              "hammer_coins": true,
+              "king_flut_amulet": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33687,7 +33691,10 @@
               "slumber_item_trusty_rope": 0,
               "slumber_item_iron_nugget": 0,
               "slumber_item_silver_coins": 0,
-              "slumber_item_comfy_pillow": 0
+              "slumber_item_comfy_pillow": 0,
+              "slumber_item_weapon_mold": 0,
+              "slumber_item_missing_amulet": 0,
+              "slumber_item_soul": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

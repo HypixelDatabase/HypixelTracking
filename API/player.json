@@ -33630,20 +33630,25 @@
             },
             "completed": {
               "npc_reception_start": true,
-              "npc_lady_saichi": true
+              "npc_lady_saichi": true,
+              "npc_general_daku": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
-              "npc_lady_saichi": 0
+              "npc_lady_saichi": 0,
+              "npc_general_daku": 0
             },
             "objective": {
               "receptionist_introduction": true,
-              "lady_saichi_mattress": true
+              "lady_saichi_mattress": true,
+              "general_daku_tea": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
               "slumber_item_perfume": 0,
-              "slumber_item_ender_dust": 0
+              "slumber_item_ender_dust": 0,
+              "slumber_item_imperial_leather": 0,
+              "slumber_item_indigos_map": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

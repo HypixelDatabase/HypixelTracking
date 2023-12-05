@@ -32660,7 +32660,9 @@
           "figurine_hammer_vs_heatwave",
           "figurine_executives_meeting",
           "figurine_blitz_star",
-          "figurine_kart_racing"
+          "figurine_kart_racing",
+          "npcskin_ratman",
+          "figurine_ratman"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33737,7 +33739,8 @@
               "npc_arcade_player": true,
               "npc_peter": true,
               "npc_jets_mcturbo": true,
-              "npc_hermes": true
+              "npc_hermes": true,
+              "npc_the_ratman": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33764,7 +33767,8 @@
               "npc_arcade_player": 0,
               "npc_peter": 0,
               "npc_jets_mcturbo": 0,
-              "npc_hermes": 0
+              "npc_hermes": 0,
+              "npc_the_ratman": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33812,7 +33816,8 @@
               "jets_emeralds": true,
               "jets_cables": true,
               "jets_nether_stars": true,
-              "hermes_mystery_boxes": true
+              "hermes_mystery_boxes": true,
+              "ratman_spark_plug": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33845,7 +33850,8 @@
               "slumber_item_ratman_mask": 0,
               "slumber_item_limbo_dust": 0,
               "slumber_item_nether_star": 0,
-              "slumber_item_discarded_kart_wheel": 0
+              "slumber_item_discarded_kart_wheel": 0,
+              "slumber_item_spark_plug": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33885,7 +33891,9 @@
           "minion": {
             "ender_dust": 0,
             "games": 0,
-            "tickets": 0
+            "tickets": 0,
+            "tickets_collected": 0,
+            "ender_dust_collected": 0
           }
         },
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0,

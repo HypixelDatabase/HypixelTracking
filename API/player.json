@@ -33633,7 +33633,10 @@
                 "HermesNpc": true,
                 "SkyBlockPlayerNpc": true,
                 "GamblerGeorgeNpc": true,
-                "JeremyJaggerNpc": true
+                "JeremyJaggerNpc": true,
+                "QuizShowHostNpc": true,
+                "RatmanNpc": true,
+                "BillStarrNpc": true
               }
             },
             "started": {
@@ -33657,7 +33660,10 @@
               "npc_hermes": true,
               "npc_skyblock_player": true,
               "npc_gambler_george": true,
-              "npc_jeremy_jagger": true
+              "npc_jeremy_jagger": true,
+              "npc_quiz_show_host": true,
+              "npc_the_ratman": true,
+              "npc_bill_starr": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33680,7 +33686,10 @@
               "npc_hermes": 0,
               "npc_skyblock_player": 0,
               "npc_gambler_george": 0,
-              "npc_jeremy_jagger": 0
+              "npc_jeremy_jagger": 0,
+              "npc_quiz_show_host": 0,
+              "npc_the_ratman": 0,
+              "npc_bill_starr": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33698,7 +33707,9 @@
               "npc_bucky": true,
               "npc_don_espresso": true,
               "npc_hammer_part_two": true,
-              "npc_gambler_george": true
+              "npc_gambler_george": true,
+              "npc_jeremy_jagger": true,
+              "npc_quiz_show_host": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33716,7 +33727,9 @@
               "npc_bucky": 0,
               "npc_don_espresso": 0,
               "npc_hammer_part_two": 0,
-              "npc_gambler_george": 0
+              "npc_gambler_george": 0,
+              "npc_jeremy_jagger": 0,
+              "npc_quiz_show_host": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33745,7 +33758,12 @@
               "chess_wool_cables": true,
               "don_espresso_gold": true,
               "hammer_part_two_silver_blade": true,
-              "gambler_george_win": true
+              "gambler_george_win": true,
+              "jagger_wool": true,
+              "jagger_iron": true,
+              "jagger_gold": true,
+              "jagger_diamond": true,
+              "jagger_emerald": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33771,7 +33789,8 @@
               "slumber_item_silver_blade_replay": 0,
               "slumber_item_timeworn_mystery_box": 0,
               "slumber_item_diamond_fragment": 0,
-              "slumber_item_emerald_shard": 0
+              "slumber_item_emerald_shard": 0,
+              "slumber_item_unused_bomb_materials": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33796,7 +33815,9 @@
             "room_2": true,
             "room_3": true,
             "room_4": true,
-            "room_5": true
+            "room_5": true,
+            "room_6": true,
+            "room_7": true
           },
           "boon_multiplier": 0,
           "phasethree": {

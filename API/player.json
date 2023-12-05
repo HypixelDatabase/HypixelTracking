@@ -33643,7 +33643,8 @@
                 "SpaceManNpc": true,
                 "PeterNpc": true,
                 "WallyNpc": true,
-                "InspectorMyaSterlingNpc": true
+                "InspectorMyaSterlingNpc": true,
+                "JetsMcTurboNpc": true
               }
             },
             "started": {
@@ -33675,7 +33676,8 @@
               "npc_spaceman": true,
               "npc_peter": true,
               "npc_wally": true,
-              "npc_inspector": true
+              "npc_inspector": true,
+              "npc_jets_mcturbo": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33706,7 +33708,8 @@
               "npc_spaceman": 0,
               "npc_peter": 0,
               "npc_wally": 0,
-              "npc_inspector": 0
+              "npc_inspector": 0,
+              "npc_jets_mcturbo": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33860,7 +33863,8 @@
             "room_7": true,
             "room_8": true,
             "room_10": true,
-            "room_11": true
+            "room_11": true,
+            "room_12": true
           },
           "boon_multiplier": 0,
           "phasethree": {

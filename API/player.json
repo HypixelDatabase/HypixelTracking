@@ -33613,42 +33613,57 @@
                 "TicketMachineNpc": true,
                 "LadySaichiNpc": true,
                 "GeneralDakuNpc": true,
-                "JohnIndigosNpc": true
+                "JohnIndigosNpc": true,
+                "LaundryGuyNpc": true,
+                "JohnIndigosPhaseTwoNpc": true
               }
             },
             "started": {
               "npc_reception_start": true,
               "npc_lady_saichi": true,
               "npc_general_daku": true,
-              "npc_john_pireso": true
+              "npc_john_pireso": true,
+              "phase_two_asc": true,
+              "npc_laundry": true,
+              "phase_three_asc": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
               "npc_lady_saichi": 0,
               "npc_general_daku": 0,
-              "npc_john_pireso": 0
+              "npc_john_pireso": 0,
+              "phase_two_asc": 0,
+              "npc_laundry": 0,
+              "phase_three_asc": 0
             },
             "completed": {
               "npc_reception_start": true,
               "npc_lady_saichi": true,
-              "npc_general_daku": true
+              "npc_general_daku": true,
+              "npc_john_pireso": true,
+              "phase_two_asc": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
               "npc_lady_saichi": 0,
-              "npc_general_daku": 0
+              "npc_general_daku": 0,
+              "npc_john_pireso": 0,
+              "phase_two_asc": 0
             },
             "objective": {
               "receptionist_introduction": true,
               "lady_saichi_mattress": true,
-              "general_daku_tea": true
+              "general_daku_tea": true,
+              "john_pireso_map": true,
+              "phase_two_recp": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
               "slumber_item_perfume": 0,
               "slumber_item_ender_dust": 0,
               "slumber_item_imperial_leather": 0,
-              "slumber_item_indigos_map": 0
+              "slumber_item_indigos_map": 0,
+              "slumber_item_trusty_rope": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33661,7 +33676,10 @@
           },
           "tickets": 0,
           "tickets_given_doorman": 0,
-          "tickets_requirement_met": true
+          "tickets_requirement_met": true,
+          "phase": {
+            "current": 0
+          }
         }
       },
       "MurderMystery": {

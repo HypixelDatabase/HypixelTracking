@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1701356954000,
+  "lastUpdated": 1701795770000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8304,6 +8304,18 @@
       },
       "description": "\n%%dark_gray%%It's about sending a message...",
       "id": "BURNING_COINS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwMTcyMDY4MDY3MywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZGRiMzc3ODRkODNkYmI2MDcwOTZhMzZmZmExYTI3OGY2MzNiMDc3MGQxNjI3NDFlOTg4NjI3MDQzZmZiMTk3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Golden Collar",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "item_specific": {
+        "memorable_event_key": "pet_care_expansion"
+      },
+      "id": "GOLDEN_COLLAR"
     },
     {
       "material": "SKULL_ITEM",

@@ -33629,13 +33629,25 @@
               "npc_john_pireso": 0
             },
             "completed": {
-              "npc_reception_start": true
+              "npc_reception_start": true,
+              "npc_lady_saichi": true
             },
             "lastCompleted": {
-              "npc_reception_start": 0
+              "npc_reception_start": 0,
+              "npc_lady_saichi": 0
             },
             "objective": {
-              "receptionist_introduction": true
+              "receptionist_introduction": true,
+              "lady_saichi_mattress": true
+            },
+            "item": {
+              "slumber_item_bed_sheets": 0,
+              "slumber_item_perfume": 0,
+              "slumber_item_ender_dust": 0
+            },
+            "gambler_george": {
+              "gamble_games_won": 0,
+              "won_last_game": true
             }
           },
           "fredgie": {

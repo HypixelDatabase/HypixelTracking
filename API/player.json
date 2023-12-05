@@ -33662,7 +33662,8 @@
               "npc_john_pireso": true,
               "phase_two_asc": true,
               "npc_blacksmith_apprentice": true,
-              "npc_hammer": true
+              "npc_hammer": true,
+              "npc_oasis": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33671,7 +33672,8 @@
               "npc_john_pireso": 0,
               "phase_two_asc": 0,
               "npc_blacksmith_apprentice": 0,
-              "npc_hammer": 0
+              "npc_hammer": 0,
+              "npc_oasis": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33686,7 +33688,9 @@
               "hammer_coins": true,
               "king_flut_amulet": true,
               "blacksmith_mold": true,
-              "bucky_sky_tea_leaves": true
+              "bucky_sky_tea_leaves": true,
+              "oasis_souls": true,
+              "blacksmith_water": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33700,7 +33704,8 @@
               "slumber_item_comfy_pillow": 0,
               "slumber_item_weapon_mold": 0,
               "slumber_item_missing_amulet": 0,
-              "slumber_item_soul": 0
+              "slumber_item_soul": 0,
+              "slumber_item_oasis_water": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33721,7 +33726,8 @@
             "room_1": true,
             "room_2": true,
             "room_3": true
-          }
+          },
+          "boon_multiplier": 0
         },
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0
       },

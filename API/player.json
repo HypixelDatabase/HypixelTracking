@@ -33632,7 +33632,8 @@
                 "HammerPartTwoNpc": true,
                 "HermesNpc": true,
                 "SkyBlockPlayerNpc": true,
-                "GamblerGeorgeNpc": true
+                "GamblerGeorgeNpc": true,
+                "JeremyJaggerNpc": true
               }
             },
             "started": {
@@ -33655,7 +33656,8 @@
               "npc_hammer_part_two": true,
               "npc_hermes": true,
               "npc_skyblock_player": true,
-              "npc_gambler_george": true
+              "npc_gambler_george": true,
+              "npc_jeremy_jagger": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33677,7 +33679,8 @@
               "npc_hammer_part_two": 0,
               "npc_hermes": 0,
               "npc_skyblock_player": 0,
-              "npc_gambler_george": 0
+              "npc_gambler_george": 0,
+              "npc_jeremy_jagger": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33766,12 +33769,16 @@
               "slumber_item_gold_bar": 0,
               "slumber_item_dwarven_mithril": 0,
               "slumber_item_silver_blade_replay": 0,
-              "slumber_item_timeworn_mystery_box": 0
+              "slumber_item_timeworn_mystery_box": 0,
+              "slumber_item_diamond_fragment": 0,
+              "slumber_item_emerald_shard": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
               "won_last_game": true,
-              "bet_amount": 0
+              "bet_amount": 0,
+              "lost_bet": true,
+              "lost_bet_time": 0
             }
           },
           "fredgie": {
@@ -33796,7 +33803,8 @@
             "completed_quests": 0
           }
         },
-        "four_four_lucky_fire_tick_final_deaths_bedwars": 0
+        "four_four_lucky_fire_tick_final_deaths_bedwars": 0,
+        "two_four_diamond_resources_collected_bedwars": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,

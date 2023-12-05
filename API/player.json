@@ -270,7 +270,8 @@
       "skyblock_sb_levels": 0,
       "skyblock_people_pleaser": 0,
       "arcade_dropper_skydiver": 0,
-      "arcade_dropper_flawless_faller": 0
+      "arcade_dropper_flawless_faller": 0,
+      "bedwars_slumber_ticket_master": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -33605,10 +33606,45 @@
           "quest": {
             "npc": {
               "talk": {
-                "DoorManNpc": true
+                "DoorManNpc": true,
+                "HotelReceptionistNpc": true,
+                "FredericFerntonNpc": true,
+                "HostessKatrinaNpc": true,
+                "TicketMachineNpc": true,
+                "LadySaichiNpc": true,
+                "GeneralDakuNpc": true,
+                "JohnIndigosNpc": true
               }
+            },
+            "started": {
+              "npc_reception_start": true,
+              "npc_lady_saichi": true,
+              "npc_general_daku": true,
+              "npc_john_pireso": true
+            },
+            "lastStarted": {
+              "npc_reception_start": 0,
+              "npc_lady_saichi": 0,
+              "npc_general_daku": 0,
+              "npc_john_pireso": 0
+            },
+            "completed": {
+              "npc_reception_start": true
+            },
+            "lastCompleted": {
+              "npc_reception_start": 0
+            },
+            "objective": {
+              "receptionist_introduction": true
             }
-          }
+          },
+          "fredgie": {
+            "should_update_index": true,
+            "dialogue_index": 0
+          },
+          "tickets": 0,
+          "tickets_given_doorman": 0,
+          "tickets_requirement_met": true
         }
       },
       "MurderMystery": {

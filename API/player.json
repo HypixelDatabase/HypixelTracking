@@ -32655,7 +32655,8 @@
           "islandtopper_pudding",
           "islandtopper_big_present",
           "islandtopper_stocking",
-          "islandtopper_gingerbread_house"
+          "islandtopper_gingerbread_house",
+          "figurine_don_espresso"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33626,7 +33627,8 @@
                 "JimmyNpc": true,
                 "BimmyNpc": true,
                 "CEONpc": true,
-                "DonEspressoNpc": true
+                "DonEspressoNpc": true,
+                "HammerPartTwoNpc": true
               }
             },
             "started": {
@@ -33645,7 +33647,8 @@
               "npc_bucky": true,
               "npc_jimmy_bimmy": true,
               "npc_executives": true,
-              "npc_don_espresso": true
+              "npc_don_espresso": true,
+              "npc_hammer_part_two": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33663,7 +33666,8 @@
               "npc_bucky": 0,
               "npc_jimmy_bimmy": 0,
               "npc_executives": 0,
-              "npc_don_espresso": 0
+              "npc_don_espresso": 0,
+              "npc_hammer_part_two": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33678,7 +33682,8 @@
               "npc_king_flut": true,
               "npc_blacksmith": true,
               "phase_three_asc": true,
-              "npc_bucky": true
+              "npc_bucky": true,
+              "npc_don_espresso": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33693,7 +33698,8 @@
               "npc_king_flut": 0,
               "npc_blacksmith": 0,
               "phase_three_asc": 0,
-              "npc_bucky": 0
+              "npc_bucky": 0,
+              "npc_don_espresso": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33719,7 +33725,8 @@
               "phase_three_recp": true,
               "bucky_fragments": true,
               "chess_tickets": true,
-              "chess_wool_cables": true
+              "chess_wool_cables": true,
+              "don_espresso_gold": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33739,7 +33746,9 @@
               "slumber_item_amulet": 0,
               "slumber_item_enchanted_hammer": 0,
               "slumber_item_cable": 0,
-              "slumber_item_proof_of_success": 0
+              "slumber_item_proof_of_success": 0,
+              "slumber_item_gold_bar": 0,
+              "slumber_item_dwarven_mithril": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33761,7 +33770,10 @@
             "room_2": true,
             "room_3": true
           },
-          "boon_multiplier": 0
+          "boon_multiplier": 0,
+          "phasethree": {
+            "completed_quests": 0
+          }
         },
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0
       },

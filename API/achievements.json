@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1701452318292,
+  "lastUpdated": 1701779757291,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2060,6 +2060,16 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "SLUMBER_FORGED_IN_FIRE": {
+          "points": 20,
+          "name": "Forged in Fire",
+          "description": "Obtain the mystery item from the Blacksmith's quest line"
+        },
+        "SLUMBER_SOLD_THE_DREAMSCAPE": {
+          "points": 20,
+          "name": "The Man who Sold the Dreamscape",
+          "description": "Meet the Owner of the Slumber Hotel"
+        },
         "STRATEGIST": {
           "points": 10,
           "name": "Strategist",
@@ -2073,6 +2083,11 @@
           "description": "Purchase the Diamond armor & sword",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "SLUMBER_HOTEL_REGULAR": {
+          "points": 10,
+          "name": "Fell Into a Deep Sleep",
+          "description": "Help John Indigos decipher the map"
         },
         "DISTRACTION": {
           "points": 5,
@@ -2101,6 +2116,11 @@
           "description": "Use Magic Milk to make a trap not activate",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "SLUMBER_HOTEL_VIP": {
+          "points": 15,
+          "name": "Can't Wake Up",
+          "description": "Enter the Slumber Hotel temple"
         },
         "THATS_A_FIRST": {
           "points": 5,
@@ -2143,6 +2163,11 @@
           "description": "Destroy a bed in style",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "SLUMBER_MILLIONAIRES_CLUB": {
+          "points": 10,
+          "name": "Millionaires Club",
+          "description": "Unlock the Explorer's Wallet"
         },
         "KATNISS_EVERDEEN_STYLE": {
           "points": 5,
@@ -2291,6 +2316,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "SLUMBER_YOU_DID_IT": {
+          "points": 5,
+          "name": "Waking Dreams",
+          "description": "Assist the first three Slumber Hotel guests"
+        },
         "GOLEM": {
           "points": 10,
           "name": "Golem's Rose",
@@ -2318,6 +2348,11 @@
           "description": "Destroy a bed while being invisible",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "SLUMBER_YOUR_JOURNEY_STARTS_HERE": {
+          "points": 5,
+          "name": "Introduce Yourself",
+          "description": "Introduce yourself to the Slumber Hotel Receptionist"
         },
         "PICKAXE_CHALLENGE": {
           "points": 5,
@@ -2480,6 +2515,32 @@
             }
           ]
         },
+        "SLUMBER_TICKET_MASTER": {
+          "name": "Dream Catcher",
+          "description": "Obtain %s Slumber Tickets",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            }
+          ]
+        },
         "BEDS": {
           "name": "Bed Removal",
           "description": "Destroy %s Beds",
@@ -2574,7 +2635,7 @@
           ]
         }
       },
-      "total_points": 870,
+      "total_points": 1005,
       "total_legacy_points": 0
     },
     "blitz": {

@@ -33615,7 +33615,12 @@
                 "GeneralDakuNpc": true,
                 "JohnIndigosNpc": true,
                 "LaundryGuyNpc": true,
-                "JohnIndigosPhaseTwoNpc": true
+                "JohnIndigosPhaseTwoNpc": true,
+                "KingFlutNpc": true,
+                "BlackSmithNpc": true,
+                "BlackSmithRobertoNpc": true,
+                "HammerNpc": true,
+                "OasisSpiritNpc": true
               }
             },
             "started": {
@@ -33625,7 +33630,12 @@
               "npc_john_pireso": true,
               "phase_two_asc": true,
               "npc_laundry": true,
-              "phase_three_asc": true
+              "phase_three_asc": true,
+              "npc_king_flut": true,
+              "npc_blacksmith": true,
+              "npc_blacksmith_apprentice": true,
+              "npc_hammer": true,
+              "npc_oasis": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33634,28 +33644,39 @@
               "npc_john_pireso": 0,
               "phase_two_asc": 0,
               "npc_laundry": 0,
-              "phase_three_asc": 0
+              "phase_three_asc": 0,
+              "npc_king_flut": 0,
+              "npc_blacksmith": 0,
+              "npc_blacksmith_apprentice": 0,
+              "npc_hammer": 0,
+              "npc_oasis": 0
             },
             "completed": {
               "npc_reception_start": true,
               "npc_lady_saichi": true,
               "npc_general_daku": true,
               "npc_john_pireso": true,
-              "phase_two_asc": true
+              "phase_two_asc": true,
+              "npc_blacksmith_apprentice": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
               "npc_lady_saichi": 0,
               "npc_general_daku": 0,
               "npc_john_pireso": 0,
-              "phase_two_asc": 0
+              "phase_two_asc": 0,
+              "npc_blacksmith_apprentice": 0
             },
             "objective": {
               "receptionist_introduction": true,
               "lady_saichi_mattress": true,
               "general_daku_tea": true,
               "john_pireso_map": true,
-              "phase_two_recp": true
+              "phase_two_recp": true,
+              "blacksmith_apprentice_iron": true,
+              "blacksmith_apprentice_coins": true,
+              "blacksmith_apprentice_iron_repeat": true,
+              "blacksmith_apprentice_coins_repeat": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33663,7 +33684,10 @@
               "slumber_item_ender_dust": 0,
               "slumber_item_imperial_leather": 0,
               "slumber_item_indigos_map": 0,
-              "slumber_item_trusty_rope": 0
+              "slumber_item_trusty_rope": 0,
+              "slumber_item_iron_nugget": 0,
+              "slumber_item_silver_coins": 0,
+              "slumber_item_comfy_pillow": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33679,8 +33703,14 @@
           "tickets_requirement_met": true,
           "phase": {
             "current": 0
+          },
+          "room": {
+            "room_1": true,
+            "room_2": true,
+            "room_3": true
           }
-        }
+        },
+        "four_four_lucky_fire_tick_final_deaths_bedwars": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,

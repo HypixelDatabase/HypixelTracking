@@ -33641,7 +33641,9 @@
                 "BillStarrNpc": true,
                 "ArcadePlayerNpc": true,
                 "SpaceManNpc": true,
-                "PeterNpc": true
+                "PeterNpc": true,
+                "WallyNpc": true,
+                "InspectorMyaSterlingNpc": true
               }
             },
             "started": {
@@ -33671,7 +33673,9 @@
               "npc_bill_starr": true,
               "npc_arcade_player": true,
               "npc_spaceman": true,
-              "npc_peter": true
+              "npc_peter": true,
+              "npc_wally": true,
+              "npc_inspector": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33700,7 +33704,9 @@
               "npc_bill_starr": 0,
               "npc_arcade_player": 0,
               "npc_spaceman": 0,
-              "npc_peter": 0
+              "npc_peter": 0,
+              "npc_wally": 0,
+              "npc_inspector": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33724,7 +33730,8 @@
               "npc_skyblock_player": true,
               "npc_executives": true,
               "npc_bill_starr": true,
-              "npc_arcade_player": true
+              "npc_arcade_player": true,
+              "npc_peter": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33748,7 +33755,8 @@
               "npc_skyblock_player": 0,
               "npc_executives": 0,
               "npc_bill_starr": 0,
-              "npc_arcade_player": 0
+              "npc_arcade_player": 0,
+              "npc_peter": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33787,7 +33795,11 @@
               "executives_meeting_numbers": true,
               "bill_starr_blitz": true,
               "arcade_quarters": true,
-              "arcade_quarters_repeat": true
+              "arcade_quarters_repeat": true,
+              "peter_escape": true,
+              "ratman_bedsheets": true,
+              "ratman_iron_bars": true,
+              "ratman_pillow": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33856,7 +33868,8 @@
           },
           "minion": {
             "ender_dust": 0,
-            "games": 0
+            "games": 0,
+            "tickets": 0
           }
         },
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0,

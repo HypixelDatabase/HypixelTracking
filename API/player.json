@@ -32656,7 +32656,8 @@
           "islandtopper_big_present",
           "islandtopper_stocking",
           "islandtopper_gingerbread_house",
-          "figurine_don_espresso"
+          "figurine_don_espresso",
+          "figurine_hammer_vs_heatwave"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33628,7 +33629,10 @@
                 "BimmyNpc": true,
                 "CEONpc": true,
                 "DonEspressoNpc": true,
-                "HammerPartTwoNpc": true
+                "HammerPartTwoNpc": true,
+                "HermesNpc": true,
+                "SkyBlockPlayerNpc": true,
+                "GamblerGeorgeNpc": true
               }
             },
             "started": {
@@ -33648,7 +33652,10 @@
               "npc_jimmy_bimmy": true,
               "npc_executives": true,
               "npc_don_espresso": true,
-              "npc_hammer_part_two": true
+              "npc_hammer_part_two": true,
+              "npc_hermes": true,
+              "npc_skyblock_player": true,
+              "npc_gambler_george": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33667,7 +33674,10 @@
               "npc_jimmy_bimmy": 0,
               "npc_executives": 0,
               "npc_don_espresso": 0,
-              "npc_hammer_part_two": 0
+              "npc_hammer_part_two": 0,
+              "npc_hermes": 0,
+              "npc_skyblock_player": 0,
+              "npc_gambler_george": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33683,7 +33693,9 @@
               "npc_blacksmith": true,
               "phase_three_asc": true,
               "npc_bucky": true,
-              "npc_don_espresso": true
+              "npc_don_espresso": true,
+              "npc_hammer_part_two": true,
+              "npc_gambler_george": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33699,7 +33711,9 @@
               "npc_blacksmith": 0,
               "phase_three_asc": 0,
               "npc_bucky": 0,
-              "npc_don_espresso": 0
+              "npc_don_espresso": 0,
+              "npc_hammer_part_two": 0,
+              "npc_gambler_george": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33726,7 +33740,9 @@
               "bucky_fragments": true,
               "chess_tickets": true,
               "chess_wool_cables": true,
-              "don_espresso_gold": true
+              "don_espresso_gold": true,
+              "hammer_part_two_silver_blade": true,
+              "gambler_george_win": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33748,11 +33764,14 @@
               "slumber_item_cable": 0,
               "slumber_item_proof_of_success": 0,
               "slumber_item_gold_bar": 0,
-              "slumber_item_dwarven_mithril": 0
+              "slumber_item_dwarven_mithril": 0,
+              "slumber_item_silver_blade_replay": 0,
+              "slumber_item_timeworn_mystery_box": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
-              "won_last_game": true
+              "won_last_game": true,
+              "bet_amount": 0
             }
           },
           "fredgie": {
@@ -33768,7 +33787,9 @@
           "room": {
             "room_1": true,
             "room_2": true,
-            "room_3": true
+            "room_3": true,
+            "room_4": true,
+            "room_5": true
           },
           "boon_multiplier": 0,
           "phasethree": {

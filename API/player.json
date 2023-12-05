@@ -33663,7 +33663,8 @@
               "phase_two_asc": true,
               "npc_blacksmith_apprentice": true,
               "npc_hammer": true,
-              "npc_oasis": true
+              "npc_oasis": true,
+              "npc_laundry": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33673,7 +33674,8 @@
               "phase_two_asc": 0,
               "npc_blacksmith_apprentice": 0,
               "npc_hammer": 0,
-              "npc_oasis": 0
+              "npc_oasis": 0,
+              "npc_laundry": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33690,7 +33692,10 @@
               "blacksmith_mold": true,
               "bucky_sky_tea_leaves": true,
               "oasis_souls": true,
-              "blacksmith_water": true
+              "blacksmith_water": true,
+              "laundry_manager_sheets": true,
+              "blacksmith_golden_ticket": true,
+              "blacksmith_iron_bars": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33705,7 +33710,8 @@
               "slumber_item_weapon_mold": 0,
               "slumber_item_missing_amulet": 0,
               "slumber_item_soul": 0,
-              "slumber_item_oasis_water": 0
+              "slumber_item_oasis_water": 0,
+              "slumber_item_golden_ticket": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

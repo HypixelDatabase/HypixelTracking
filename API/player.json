@@ -33624,7 +33624,9 @@
                 "ChefBuckyNpc": true,
                 "ChefGarryJamseyNpc": true,
                 "JimmyNpc": true,
-                "BimmyNpc": true
+                "BimmyNpc": true,
+                "CEONpc": true,
+                "DonEspressoNpc": true
               }
             },
             "started": {
@@ -33641,7 +33643,9 @@
               "npc_hammer": true,
               "npc_oasis": true,
               "npc_bucky": true,
-              "npc_jimmy_bimmy": true
+              "npc_jimmy_bimmy": true,
+              "npc_executives": true,
+              "npc_don_espresso": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33657,7 +33661,9 @@
               "npc_hammer": 0,
               "npc_oasis": 0,
               "npc_bucky": 0,
-              "npc_jimmy_bimmy": 0
+              "npc_jimmy_bimmy": 0,
+              "npc_executives": 0,
+              "npc_don_espresso": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33711,7 +33717,9 @@
               "king_flut_pillow": true,
               "blacksmith_amulet": true,
               "phase_three_recp": true,
-              "bucky_fragments": true
+              "bucky_fragments": true,
+              "chess_tickets": true,
+              "chess_wool_cables": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33730,7 +33738,8 @@
               "slumber_item_golden_ticket": 0,
               "slumber_item_amulet": 0,
               "slumber_item_enchanted_hammer": 0,
-              "slumber_item_cable": 0
+              "slumber_item_cable": 0,
+              "slumber_item_proof_of_success": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

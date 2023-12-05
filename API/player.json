@@ -32659,7 +32659,8 @@
           "figurine_don_espresso",
           "figurine_hammer_vs_heatwave",
           "figurine_executives_meeting",
-          "figurine_blitz_star"
+          "figurine_blitz_star",
+          "figurine_kart_racing"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33734,7 +33735,9 @@
               "npc_executives": true,
               "npc_bill_starr": true,
               "npc_arcade_player": true,
-              "npc_peter": true
+              "npc_peter": true,
+              "npc_jets_mcturbo": true,
+              "npc_hermes": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33759,7 +33762,9 @@
               "npc_executives": 0,
               "npc_bill_starr": 0,
               "npc_arcade_player": 0,
-              "npc_peter": 0
+              "npc_peter": 0,
+              "npc_jets_mcturbo": 0,
+              "npc_hermes": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33802,7 +33807,12 @@
               "peter_escape": true,
               "ratman_bedsheets": true,
               "ratman_iron_bars": true,
-              "ratman_pillow": true
+              "ratman_pillow": true,
+              "jets_iron_bars": true,
+              "jets_emeralds": true,
+              "jets_cables": true,
+              "jets_nether_stars": true,
+              "hermes_mystery_boxes": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33834,7 +33844,8 @@
               "slumber_item_faded_blitz_star": 0,
               "slumber_item_ratman_mask": 0,
               "slumber_item_limbo_dust": 0,
-              "slumber_item_nether_star": 0
+              "slumber_item_nether_star": 0,
+              "slumber_item_discarded_kart_wheel": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

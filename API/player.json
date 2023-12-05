@@ -32657,7 +32657,9 @@
           "islandtopper_stocking",
           "islandtopper_gingerbread_house",
           "figurine_don_espresso",
-          "figurine_hammer_vs_heatwave"
+          "figurine_hammer_vs_heatwave",
+          "figurine_executives_meeting",
+          "figurine_blitz_star"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33636,7 +33638,10 @@
                 "JeremyJaggerNpc": true,
                 "QuizShowHostNpc": true,
                 "RatmanNpc": true,
-                "BillStarrNpc": true
+                "BillStarrNpc": true,
+                "ArcadePlayerNpc": true,
+                "SpaceManNpc": true,
+                "PeterNpc": true
               }
             },
             "started": {
@@ -33663,7 +33668,10 @@
               "npc_jeremy_jagger": true,
               "npc_quiz_show_host": true,
               "npc_the_ratman": true,
-              "npc_bill_starr": true
+              "npc_bill_starr": true,
+              "npc_arcade_player": true,
+              "npc_spaceman": true,
+              "npc_peter": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33689,7 +33697,10 @@
               "npc_jeremy_jagger": 0,
               "npc_quiz_show_host": 0,
               "npc_the_ratman": 0,
-              "npc_bill_starr": 0
+              "npc_bill_starr": 0,
+              "npc_arcade_player": 0,
+              "npc_spaceman": 0,
+              "npc_peter": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33710,7 +33721,10 @@
               "npc_gambler_george": true,
               "npc_jeremy_jagger": true,
               "npc_quiz_show_host": true,
-              "npc_skyblock_player": true
+              "npc_skyblock_player": true,
+              "npc_executives": true,
+              "npc_bill_starr": true,
+              "npc_arcade_player": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33731,7 +33745,10 @@
               "npc_gambler_george": 0,
               "npc_jeremy_jagger": 0,
               "npc_quiz_show_host": 0,
-              "npc_skyblock_player": 0
+              "npc_skyblock_player": 0,
+              "npc_executives": 0,
+              "npc_bill_starr": 0,
+              "npc_arcade_player": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33766,7 +33783,11 @@
               "jagger_gold": true,
               "jagger_diamond": true,
               "jagger_emerald": true,
-              "skyblock_player_leaves": true
+              "skyblock_player_leaves": true,
+              "executives_meeting_numbers": true,
+              "bill_starr_blitz": true,
+              "arcade_quarters": true,
+              "arcade_quarters_repeat": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33793,7 +33814,11 @@
               "slumber_item_timeworn_mystery_box": 0,
               "slumber_item_diamond_fragment": 0,
               "slumber_item_emerald_shard": 0,
-              "slumber_item_unused_bomb_materials": 0
+              "slumber_item_unused_bomb_materials": 0,
+              "slumber_item_blitz_star": 0,
+              "slumber_item_faded_blitz_star": 0,
+              "slumber_item_ratman_mask": 0,
+              "slumber_item_limbo_dust": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33820,7 +33845,10 @@
             "room_4": true,
             "room_5": true,
             "room_6": true,
-            "room_7": true
+            "room_7": true,
+            "room_8": true,
+            "room_10": true,
+            "room_11": true
           },
           "boon_multiplier": 0,
           "phasethree": {

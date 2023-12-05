@@ -33620,7 +33620,9 @@
                 "BlackSmithNpc": true,
                 "BlackSmithRobertoNpc": true,
                 "HammerNpc": true,
-                "OasisSpiritNpc": true
+                "OasisSpiritNpc": true,
+                "ChefBuckyNpc": true,
+                "ChefGarryJamseyNpc": true
               }
             },
             "started": {
@@ -33635,7 +33637,8 @@
               "npc_blacksmith": true,
               "npc_blacksmith_apprentice": true,
               "npc_hammer": true,
-              "npc_oasis": true
+              "npc_oasis": true,
+              "npc_bucky": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33649,7 +33652,8 @@
               "npc_blacksmith": 0,
               "npc_blacksmith_apprentice": 0,
               "npc_hammer": 0,
-              "npc_oasis": 0
+              "npc_oasis": 0,
+              "npc_bucky": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33681,7 +33685,8 @@
               "blacksmith_apprentice_coins_repeat": true,
               "hammer_coins": true,
               "king_flut_amulet": true,
-              "blacksmith_mold": true
+              "blacksmith_mold": true,
+              "bucky_sky_tea_leaves": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,

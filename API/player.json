@@ -24505,7 +24505,8 @@
         "challenge_attempts_rookie_kit_basic_solo_archeologist": 0,
         "challenge_wins_1_kit_basic_solo_archeologist": 0,
         "challenge_wins_kit_basic_solo_archeologist": 0,
-        "challenge_wins_rookie_kit_basic_solo_archeologist": 0
+        "challenge_wins_rookie_kit_basic_solo_archeologist": 0,
+        "free_event_key_skywars_christmas_boxes_2023_2": true
       },
       "TrueCombat": {
         "coins": 0,
@@ -33597,7 +33598,18 @@
         },
         "free_event_key_bedwars_easter_boxes_2023": true,
         "activeWoodType": "",
-        "eight_one_fire_tick_final_kills_bedwars": 0
+        "eight_one_fire_tick_final_kills_bedwars": 0,
+        "free_event_key_bedwars_christmas_boxes_2023": true,
+        "slumber": {
+          "bag_type": "",
+          "quest": {
+            "npc": {
+              "talk": {
+                "DoorManNpc": true
+              }
+            }
+          }
+        }
       },
       "MurderMystery": {
         "knife_kills_library": 0,

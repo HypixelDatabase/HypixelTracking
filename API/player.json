@@ -33709,7 +33709,8 @@
               "npc_hammer_part_two": true,
               "npc_gambler_george": true,
               "npc_jeremy_jagger": true,
-              "npc_quiz_show_host": true
+              "npc_quiz_show_host": true,
+              "npc_skyblock_player": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33729,7 +33730,8 @@
               "npc_hammer_part_two": 0,
               "npc_gambler_george": 0,
               "npc_jeremy_jagger": 0,
-              "npc_quiz_show_host": 0
+              "npc_quiz_show_host": 0,
+              "npc_skyblock_player": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33763,7 +33765,8 @@
               "jagger_iron": true,
               "jagger_gold": true,
               "jagger_diamond": true,
-              "jagger_emerald": true
+              "jagger_emerald": true,
+              "skyblock_player_leaves": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33822,6 +33825,10 @@
           "boon_multiplier": 0,
           "phasethree": {
             "completed_quests": 0
+          },
+          "minion": {
+            "ender_dust": 0,
+            "games": 0
           }
         },
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0,

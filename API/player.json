@@ -33622,7 +33622,9 @@
                 "HammerNpc": true,
                 "OasisSpiritNpc": true,
                 "ChefBuckyNpc": true,
-                "ChefGarryJamseyNpc": true
+                "ChefGarryJamseyNpc": true,
+                "JimmyNpc": true,
+                "BimmyNpc": true
               }
             },
             "started": {
@@ -33638,7 +33640,8 @@
               "npc_blacksmith_apprentice": true,
               "npc_hammer": true,
               "npc_oasis": true,
-              "npc_bucky": true
+              "npc_bucky": true,
+              "npc_jimmy_bimmy": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33653,7 +33656,8 @@
               "npc_blacksmith_apprentice": 0,
               "npc_hammer": 0,
               "npc_oasis": 0,
-              "npc_bucky": 0
+              "npc_bucky": 0,
+              "npc_jimmy_bimmy": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33664,7 +33668,11 @@
               "npc_blacksmith_apprentice": true,
               "npc_hammer": true,
               "npc_oasis": true,
-              "npc_laundry": true
+              "npc_laundry": true,
+              "npc_king_flut": true,
+              "npc_blacksmith": true,
+              "phase_three_asc": true,
+              "npc_bucky": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33675,7 +33683,11 @@
               "npc_blacksmith_apprentice": 0,
               "npc_hammer": 0,
               "npc_oasis": 0,
-              "npc_laundry": 0
+              "npc_laundry": 0,
+              "npc_king_flut": 0,
+              "npc_blacksmith": 0,
+              "phase_three_asc": 0,
+              "npc_bucky": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33695,7 +33707,11 @@
               "blacksmith_water": true,
               "laundry_manager_sheets": true,
               "blacksmith_golden_ticket": true,
-              "blacksmith_iron_bars": true
+              "blacksmith_iron_bars": true,
+              "king_flut_pillow": true,
+              "blacksmith_amulet": true,
+              "phase_three_recp": true,
+              "bucky_fragments": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33711,7 +33727,10 @@
               "slumber_item_missing_amulet": 0,
               "slumber_item_soul": 0,
               "slumber_item_oasis_water": 0,
-              "slumber_item_golden_ticket": 0
+              "slumber_item_golden_ticket": 0,
+              "slumber_item_amulet": 0,
+              "slumber_item_enchanted_hammer": 0,
+              "slumber_item_cable": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

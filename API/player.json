@@ -33648,7 +33648,11 @@
                 "PeterNpc": true,
                 "WallyNpc": true,
                 "InspectorMyaSterlingNpc": true,
-                "JetsMcTurboNpc": true
+                "JetsMcTurboNpc": true,
+                "LaundryGalNpc": true,
+                "CombatArtistSallyNpc": true,
+                "JohnIndigosPhaseThreeNpc": true,
+                "MasterMeyerNpc": true
               }
             },
             "started": {
@@ -33681,7 +33685,15 @@
               "npc_peter": true,
               "npc_wally": true,
               "npc_inspector": true,
-              "npc_jets_mcturbo": true
+              "npc_jets_mcturbo": true,
+              "npc_laundry_gal": true,
+              "npc_combat_artist_sally": true,
+              "staff_wallet_upgrade": true,
+              "phase_four_ascension_q1": true,
+              "phase_four_ascension_q2": true,
+              "phase_four_ascension_q3": true,
+              "phase_four_ascension_q4": true,
+              "npc_master_meyer": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33713,7 +33725,15 @@
               "npc_peter": 0,
               "npc_wally": 0,
               "npc_inspector": 0,
-              "npc_jets_mcturbo": 0
+              "npc_jets_mcturbo": 0,
+              "npc_laundry_gal": 0,
+              "npc_combat_artist_sally": 0,
+              "staff_wallet_upgrade": 0,
+              "phase_four_ascension_q1": 0,
+              "phase_four_ascension_q2": 0,
+              "phase_four_ascension_q3": 0,
+              "phase_four_ascension_q4": 0,
+              "npc_master_meyer": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33743,7 +33763,13 @@
               "npc_hermes": true,
               "npc_the_ratman": true,
               "npc_spaceman": true,
-              "npc_wally": true
+              "npc_wally": true,
+              "npc_laundry_gal": true,
+              "npc_combat_artist_sally": true,
+              "staff_wallet_upgrade": true,
+              "phase_four_ascension_q1": true,
+              "phase_four_ascension_q2": true,
+              "phase_four_ascension_q3": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33773,7 +33799,13 @@
               "npc_hermes": 0,
               "npc_the_ratman": 0,
               "npc_spaceman": 0,
-              "npc_wally": 0
+              "npc_wally": 0,
+              "npc_laundry_gal": 0,
+              "npc_combat_artist_sally": 0,
+              "staff_wallet_upgrade": 0,
+              "phase_four_ascension_q1": 0,
+              "phase_four_ascension_q2": 0,
+              "phase_four_ascension_q3": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33829,7 +33861,12 @@
               "spaceman_nether_stars": true,
               "inspector_gloves": true,
               "wally_nether_stars": true,
-              "wally_bed_sheets": true
+              "wally_bed_sheets": true,
+              "laundry_gal_pillows": true,
+              "combat_artist_sally": true,
+              "phase_four_ascension_o1": true,
+              "phase_four_ascension_o2": true,
+              "phase_four_ascension_o3": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,

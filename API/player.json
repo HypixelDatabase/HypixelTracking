@@ -33740,7 +33740,8 @@
               "npc_peter": true,
               "npc_jets_mcturbo": true,
               "npc_hermes": true,
-              "npc_the_ratman": true
+              "npc_the_ratman": true,
+              "npc_spaceman": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33768,7 +33769,8 @@
               "npc_peter": 0,
               "npc_jets_mcturbo": 0,
               "npc_hermes": 0,
-              "npc_the_ratman": 0
+              "npc_the_ratman": 0,
+              "npc_spaceman": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33820,7 +33822,8 @@
               "ratman_spark_plug": true,
               "inspector_clue_weapon": true,
               "inspector_air_freshener": true,
-              "inspector_work_boots": true
+              "inspector_work_boots": true,
+              "spaceman_nether_stars": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33858,7 +33861,8 @@
               "slumber_item_murder_weapon": 0,
               "slumber_item_air_freshener": 0,
               "slumber_item_boots": 0,
-              "slumber_item_gloves": 0
+              "slumber_item_gloves": 0,
+              "slumber_item_moon_stone_nugget": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,

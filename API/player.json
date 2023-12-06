@@ -32663,7 +32663,13 @@
           "figurine_blitz_star",
           "figurine_kart_racing",
           "npcskin_ratman",
-          "figurine_ratman"
+          "figurine_ratman",
+          "figurine_portal",
+          "killeffect_balloons",
+          "npcskin_oasis_spirit",
+          "killeffect_pedestal",
+          "npcskin_man_wearing_suit",
+          "npcskin_spaceman"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33653,7 +33659,10 @@
                 "CombatArtistSallyNpc": true,
                 "JohnIndigosPhaseThreeNpc": true,
                 "MasterMeyerNpc": true,
-                "LesterBrodyNpc": true
+                "LesterBrodyNpc": true,
+                "GizzyMoonpowderNpc": true,
+                "SlumberVillagerNpc": true,
+                "ElectricianRusselNpc": true
               }
             },
             "started": {
@@ -33695,7 +33704,9 @@
               "phase_four_ascension_q3": true,
               "phase_four_ascension_q4": true,
               "npc_master_meyer": true,
-              "npc_lester_brody": true
+              "npc_lester_brody": true,
+              "npc_gizzy_moonpowder": true,
+              "npc_electrician_russel": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33736,7 +33747,9 @@
               "phase_four_ascension_q3": 0,
               "phase_four_ascension_q4": 0,
               "npc_master_meyer": 0,
-              "npc_lester_brody": 0
+              "npc_lester_brody": 0,
+              "npc_gizzy_moonpowder": 0,
+              "npc_electrician_russel": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33774,7 +33787,10 @@
               "phase_four_ascension_q2": true,
               "phase_four_ascension_q3": true,
               "npc_jimmy_bimmy": true,
-              "npc_master_meyer": true
+              "npc_master_meyer": true,
+              "npc_lester_brody": true,
+              "npc_gizzy_moonpowder": true,
+              "npc_electrician_russel": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33812,7 +33828,10 @@
               "phase_four_ascension_q2": 0,
               "phase_four_ascension_q3": 0,
               "npc_jimmy_bimmy": 0,
-              "npc_master_meyer": 0
+              "npc_master_meyer": 0,
+              "npc_lester_brody": 0,
+              "npc_gizzy_moonpowder": 0,
+              "npc_electrician_russel": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33875,7 +33894,10 @@
               "phase_four_ascension_o2": true,
               "phase_four_ascension_o3": true,
               "chess_tokens_of_ferocity": true,
-              "master_meyer": true
+              "master_meyer": true,
+              "lester_brody": true,
+              "gizzy_moonpowder": true,
+              "electrician_russel": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,

@@ -33652,7 +33652,8 @@
                 "LaundryGalNpc": true,
                 "CombatArtistSallyNpc": true,
                 "JohnIndigosPhaseThreeNpc": true,
-                "MasterMeyerNpc": true
+                "MasterMeyerNpc": true,
+                "LesterBrodyNpc": true
               }
             },
             "started": {
@@ -33693,7 +33694,8 @@
               "phase_four_ascension_q2": true,
               "phase_four_ascension_q3": true,
               "phase_four_ascension_q4": true,
-              "npc_master_meyer": true
+              "npc_master_meyer": true,
+              "npc_lester_brody": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33733,7 +33735,8 @@
               "phase_four_ascension_q2": 0,
               "phase_four_ascension_q3": 0,
               "phase_four_ascension_q4": 0,
-              "npc_master_meyer": 0
+              "npc_master_meyer": 0,
+              "npc_lester_brody": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33769,7 +33772,9 @@
               "staff_wallet_upgrade": true,
               "phase_four_ascension_q1": true,
               "phase_four_ascension_q2": true,
-              "phase_four_ascension_q3": true
+              "phase_four_ascension_q3": true,
+              "npc_jimmy_bimmy": true,
+              "npc_master_meyer": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33805,7 +33810,9 @@
               "staff_wallet_upgrade": 0,
               "phase_four_ascension_q1": 0,
               "phase_four_ascension_q2": 0,
-              "phase_four_ascension_q3": 0
+              "phase_four_ascension_q3": 0,
+              "npc_jimmy_bimmy": 0,
+              "npc_master_meyer": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33866,7 +33873,9 @@
               "combat_artist_sally": true,
               "phase_four_ascension_o1": true,
               "phase_four_ascension_o2": true,
-              "phase_four_ascension_o3": true
+              "phase_four_ascension_o3": true,
+              "chess_tokens_of_ferocity": true,
+              "master_meyer": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,

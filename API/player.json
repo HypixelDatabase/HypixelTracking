@@ -33742,7 +33742,8 @@
               "npc_jets_mcturbo": true,
               "npc_hermes": true,
               "npc_the_ratman": true,
-              "npc_spaceman": true
+              "npc_spaceman": true,
+              "npc_wally": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33771,7 +33772,8 @@
               "npc_jets_mcturbo": 0,
               "npc_hermes": 0,
               "npc_the_ratman": 0,
-              "npc_spaceman": 0
+              "npc_spaceman": 0,
+              "npc_wally": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33825,7 +33827,9 @@
               "inspector_air_freshener": true,
               "inspector_work_boots": true,
               "spaceman_nether_stars": true,
-              "inspector_gloves": true
+              "inspector_gloves": true,
+              "wally_nether_stars": true,
+              "wally_bed_sheets": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33864,7 +33868,8 @@
               "slumber_item_air_freshener": 0,
               "slumber_item_boots": 0,
               "slumber_item_gloves": 0,
-              "slumber_item_moon_stone_nugget": 0
+              "slumber_item_moon_stone_nugget": 0,
+              "slumber_item_block_of_mega_walls_obsidian": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33895,7 +33900,8 @@
             "room_8": true,
             "room_10": true,
             "room_11": true,
-            "room_12": true
+            "room_12": true,
+            "room_9": true
           },
           "boon_multiplier": 0,
           "phasethree": {

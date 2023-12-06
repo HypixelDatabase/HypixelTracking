@@ -33818,7 +33818,9 @@
               "jets_nether_stars": true,
               "hermes_mystery_boxes": true,
               "ratman_spark_plug": true,
-              "inspector_clue_weapon": true
+              "inspector_clue_weapon": true,
+              "inspector_air_freshener": true,
+              "inspector_work_boots": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33854,7 +33856,9 @@
               "slumber_item_discarded_kart_wheel": 0,
               "slumber_item_spark_plug": 0,
               "slumber_item_murder_weapon": 0,
-              "slumber_item_air_freshener": 0
+              "slumber_item_air_freshener": 0,
+              "slumber_item_boots": 0,
+              "slumber_item_gloves": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -33897,7 +33901,8 @@
             "tickets": 0,
             "tickets_collected": 0,
             "ender_dust_collected": 0
-          }
+          },
+          "wallet_full_warning": true
         },
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0,
         "two_four_diamond_resources_collected_bedwars": 0,

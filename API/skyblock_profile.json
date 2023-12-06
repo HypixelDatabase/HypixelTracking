@@ -8612,10 +8612,7 @@
                 "startTime": 0,
                 "slot": 0,
                 "notified": true,
-                "oldItem": {
-                  "type": 0,
-                  "data": ""
-                }
+                "oldItem": ""
               },
               "2": {
                 "type": "",
@@ -8623,17 +8620,15 @@
                 "startTime": 0,
                 "slot": 0,
                 "notified": true,
-                "oldItem": {
-                  "type": 0,
-                  "data": ""
-                }
+                "oldItem": ""
               },
               "3": {
                 "type": "",
                 "id": "",
                 "startTime": 0,
                 "slot": 0,
-                "notified": true
+                "notified": true,
+                "oldItem": ""
               },
               "4": {
                 "type": "",

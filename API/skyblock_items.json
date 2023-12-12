@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1701795770000,
+  "lastUpdated": 1702392893000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -185,7 +185,7 @@
       "material": "DIAMOND_HELMET",
       "name": "Helmet of Live Reloading",
       "stats": {
-        "HEALTH": 200
+        "HEALTH": 2000
       },
       "id": "HELMET_OF_LIVE_RELOADING"
     },
@@ -13913,6 +13913,12 @@
       "id": "FULL_CENTURY_CAKE_PACK"
     },
     {
+      "material": "PACKED_ICE",
+      "name": "Ice Cube",
+      "tier": "RARE",
+      "id": "ICE_CUBE"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDA3MDUyNzI3OSwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM1MDAyOGZkOTZhOThkNWIzM2QwODRkMjUyNGI3NmVkMGZjNmIyMWNjYzQwMDY0YTZkMmU3YmY5OTcxODYwZSIKICAgIH0KICB9Cn0",
@@ -22968,7 +22974,7 @@
       "name": "Plasma",
       "tier": "RARE",
       "npc_sell_price": 20000,
-      "description": "%%gray%%%%italic%%Stable magnetic field, but to handle with caution.",
+      "description": "%%gray%%%%italic%%Stable magnetic field, but handle with caution.",
       "id": "PLASMA"
     },
     {
@@ -23218,7 +23224,6 @@
       "tier": "RARE",
       "ability_damage_scaling": 0.1,
       "npc_sell_price": 10000,
-      "rarity_salvageable": true,
       "tiered_stats": {
         "DAMAGE": [
           52,
@@ -25223,6 +25228,16 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDQ0NTc2NDQ1MSwKICAicHJvZmlsZUlkIiA6ICJmNDY0NTcxNDNkMTU0ZmEwOTkxNjBlNGJmNzI3ZGNiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWxhcGFnbzA1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmMDNhZDk2MDkyZjNmNzg5OTAyNDM2NzA5Y2RmNjlkZTZiNzI3YzEyMWIzYzJkYWVmOWZmYTFjY2FlZDE4NmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Worm Bait",
+      "tier": "UNCOMMON",
+      "category": "BAIT",
+      "npc_sell_price": 25,
+      "id": "WORM_BAIT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjJiNjczMmVhYTk3ODg0NTg0NjhmNTk3Njk0Mzk4NjQ2NDk3NGFmMzVmZWFmYjRmY2FkMDVhN2EzMDhjMmE2NyJ9fX0K",
       "name": "Black Widow Skin",
       "category": "COSMETIC",
@@ -27138,6 +27153,12 @@
       "tier": "RARE",
       "npc_sell_price": 12800,
       "id": "ENCHANTED_PACKED_ICE"
+    },
+    {
+      "material": "FIREWORK",
+      "name": "Firework Rocket",
+      "npc_sell_price": 2,
+      "id": "FIREWORK"
     },
     {
       "material": "BOW",
@@ -33972,7 +33993,8 @@
       "category": "SWORD",
       "tier": "UNOBTAINABLE",
       "stats": {
-        "DAMAGE": 9999999
+        "DAMAGE": 99999999,
+        "SWING_RANGE": 99999999
       },
       "id": "STAR_SWORD_9000"
     },
@@ -42162,7 +42184,7 @@
     {
       "material": "INK_SACK",
       "durability": 3,
-      "name": "Enchanted Cocoa Bean",
+      "name": "Enchanted Cocoa Beans",
       "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 480,
@@ -47221,7 +47243,7 @@
       "name": "Enchanted Glowstone",
       "glowing": true,
       "tier": "UNCOMMON",
-      "npc_sell_price": 61000,
+      "npc_sell_price": 51200,
       "id": "ENCHANTED_GLOWSTONE"
     },
     {
@@ -64002,6 +64024,14 @@
       "id": "WATER_HYDRA_HEAD"
     },
     {
+      "material": "COMPASS",
+      "name": "Secret Tracker 3000",
+      "glowing": false,
+      "tier": "UNCOMMON",
+      "dungeon_item": true,
+      "id": "SECRET_TRACKER"
+    },
+    {
       "material": "BOOK",
       "name": "Textbook",
       "glowing": true,
@@ -76438,11 +76468,27 @@
       "id": "CASTLE_BARN_SKIN"
     },
     {
+      "material": "GOLD_BLOCK",
+      "durability": 2,
+      "name": "Town Hall Barn Skin",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "TOWN_HALL_BARN_SKIN"
+    },
+    {
       "material": "WOOD",
       "name": "Pinwheel House Barn Skin",
       "tier": "LEGENDARY",
       "category": "COSMETIC",
       "id": "PINWHEEL_HOUSE_BARN_SKIN"
+    },
+    {
+      "material": "PACKED_ICE",
+      "durability": 2,
+      "name": "Winter Homestead Barn Skin",
+      "tier": "RARE",
+      "category": "COSMETIC",
+      "id": "WINTER_HOMESTEAD_BARN_SKIN"
     },
     {
       "material": "LOG",
@@ -76930,6 +76976,7 @@
           "amount": 10
         }
       ],
+      "rarity_salvageable": true,
       "id": "SNOW_SUIT_CHESTPLATE"
     },
     {
@@ -76979,6 +77026,7 @@
           "amount": 10
         }
       ],
+      "rarity_salvageable": true,
       "id": "SNOW_SUIT_LEGGINGS"
     },
     {
@@ -76999,6 +77047,7 @@
           "amount": 10
         }
       ],
+      "rarity_salvageable": true,
       "id": "SNOW_SUIT_BOOTS"
     },
     {
@@ -77020,6 +77069,7 @@
           "amount": 10
         }
       ],
+      "rarity_salvageable": true,
       "id": "SNOW_SUIT_HELMET"
     },
     {
@@ -80580,6 +80630,14 @@
       "material": "CHEST",
       "name": "%%green%%Elle's Supplies",
       "id": "ELLE_SUPPLIES"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwMTEwNDQ2MjgzOCwKICAicHJvZmlsZUlkIiA6ICIzYmFlMTVhMWU0Zjg0ZTc5OWE3N2QwZDBhZTNlZDc5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYXlyb25fZ2FtZXJfMjU0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyZGY0ZTkyMWJmNTg4ZTNhMGJlZDZhNWZiYzc2ZGE1ZDAyZDIzOWZiMTVlZmNhYzQyNzc0NTkyYWQ2NzlkYWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Glowing Mush Mixin",
+      "tier": "RARE",
+      "id": "MUSHED_MUSHROOM_MIXIN"
     },
     {
       "material": "SKULL_ITEM",

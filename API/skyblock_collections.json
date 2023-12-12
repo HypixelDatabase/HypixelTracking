@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1701184060896,
-  "version": "0.19.271",
+  "lastUpdated": 1702393195649,
+  "version": "0.19.290",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -38,7 +38,7 @@
               "tier": 4,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Cocoa Bean Recipe",
+                "Enchanted Cocoa Beans Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2974,7 +2974,7 @@
               "tier": 6,
               "amountRequired": 15000,
               "unlocks": [
-                "Personal Bank",
+                "Access to /bank (Requires Cookie Buff)",
                 "Personal Bank Item Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3139,6 +3139,7 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Enchanted Packed Ice Recipe",
+                "Ice Cube Recipe",
                 "+4 SkyBlock XP"
               ]
             },

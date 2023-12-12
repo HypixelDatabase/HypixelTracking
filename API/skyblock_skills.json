@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1701695457344,
-  "version": "0.19.282",
+  "lastUpdated": 1702405495327,
+  "version": "0.19.292",
   "skills": {
     "FARMING": {
       "name": "Farming",
@@ -1382,7 +1382,7 @@
           "unlocks": [
             "Warrior X   Deal 36➜40% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Displaced Leech Reforge",
+            "Displaced Leech Power Stone",
             "+7,500 Coins",
             "+5 SkyBlock XP"
           ]
@@ -1435,9 +1435,9 @@
             "Warrior XV   Deal 56➜60% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
             "Intermediate Accessory Bag Powers",
-            "Luxurious Spool Reforge",
-            "Rock Candy Reforge",
-            "Ender Monocle Reforge",
+            "Luxurious Spool Power Stone",
+            "Rock Candy Power Stone",
+            "Ender Monocle Power Stone",
             "+30,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -1489,13 +1489,13 @@
             "Warrior XX   Deal 76➜80% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
             "+Access to Zealot Bruiser Hideout",
-            "Acacia Birdhouse Reforge",
-            "Furball Reforge",
-            "Obsidian Tablet Reforge",
-            "End Stone Shulker Reforge",
-            "Beating Heart Reforge",
-            "Dark Orb Reforge",
-            "Fang-tastic Chocolate Chip Reforge",
+            "Acacia Birdhouse Power Stone",
+            "Furball Power Stone",
+            "Obsidian Tablet Power Stone",
+            "End Stone Shulker Power Stone",
+            "Beating Heart Power Stone",
+            "Dark Orb Power Stone",
+            "Fang-tastic Chocolate Chip Power Stone",
             "+100,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -1547,11 +1547,11 @@
           "unlocks": [
             "Warrior XXV   Deal 96➜100% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Horns of Torment Reforge",
-            "Bubba Blister Reforge",
-            "Eccentric Painting Reforge",
-            "Magma Urchin Reforge",
-            "Precious Pearl Reforge",
+            "Horns of Torment Power Stone",
+            "Bubba Blister Power Stone",
+            "Eccentric Painting Power Stone",
+            "Magma Urchin Power Stone",
+            "Precious Pearl Power Stone",
             "+225,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -1602,9 +1602,9 @@
           "unlocks": [
             "Warrior XXX   Deal 116➜120% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Mandraa Reforge",
-            "Hazmat Enderman Reforge",
-            "Vitamin Death Reforge",
+            "Mandraa Power Stone",
+            "Hazmat Enderman Power Stone",
+            "Vitamin Death Power Stone",
             "+350,000 Coins",
             "+20 SkyBlock XP"
           ]
@@ -1655,7 +1655,7 @@
           "unlocks": [
             "Warrior XXXV   Deal 136➜140% more damage to mobs.",
             "+0.5% ☣ Crit Chance",
-            "Scorched Books Reforge",
+            "Scorched Books Power Stone",
             "+475,000 Coins",
             "+20 SkyBlock XP"
           ]
@@ -2692,7 +2692,7 @@
           "level": 24,
           "totalExpRequired": 2322425,
           "unlocks": [
-            "Zombie Miner Sea Creature",
+            "Abyssal Miner Sea Creature",
             "Great White Shark Sea Creature",
             "Treasure Hunter XXIV   Increases the chance to find treasure when fishing by 4.6➜4.8%.",
             "+4 ❤ Health",
@@ -5129,7 +5129,7 @@
     "TAMING": {
       "name": "Taming",
       "description": "Level up pets to earn Taming XP!",
-      "maxLevel": 50,
+      "maxLevel": 60,
       "levels": [
         {
           "level": 1,
@@ -5227,6 +5227,7 @@
           "unlocks": [
             "Zoologist X   Gain 9➜10% extra pet exp.",
             "+1 ♣ Pet Luck",
+            "+Free Training Session at Fann",
             "+7,500 Coins",
             "+5 SkyBlock XP"
           ]
@@ -5327,6 +5328,7 @@
           "unlocks": [
             "Zoologist XX   Gain 19➜20% extra pet exp.",
             "+1 ♣ Pet Luck",
+            "+Light Training Session at Fann",
             "+100,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -5427,6 +5429,7 @@
           "unlocks": [
             "Zoologist XXX   Gain 29➜30% extra pet exp.",
             "+1 ♣ Pet Luck",
+            "+Moderate Training Session at Fann",
             "+350,000 Coins",
             "+20 SkyBlock XP"
           ]
@@ -5527,6 +5530,7 @@
           "unlocks": [
             "Zoologist XL   Gain 39➜40% extra pet exp.",
             "+1 ♣ Pet Luck",
+            "+Expert Training Session at Fann",
             "+700,000 Coins",
             "+20 SkyBlock XP"
           ]
@@ -5627,8 +5631,110 @@
           "unlocks": [
             "Zoologist L   Gain 49➜50% extra pet exp.",
             "+1 ♣ Pet Luck",
+            "+Ultra Training Session at Fann",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 51,
+          "totalExpRequired": 59472425,
+          "unlocks": [
+            "Zoologist LI   Gain 50➜51% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 52,
+          "totalExpRequired": 64072425,
+          "unlocks": [
+            "Zoologist LII   Gain 51➜52% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 53,
+          "totalExpRequired": 68972425,
+          "unlocks": [
+            "Zoologist LIII   Gain 52➜53% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 54,
+          "totalExpRequired": 74172425,
+          "unlocks": [
+            "Zoologist LIV   Gain 53➜54% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 55,
+          "totalExpRequired": 79672425,
+          "unlocks": [
+            "Zoologist LV   Gain 54➜55% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 56,
+          "totalExpRequired": 85472425,
+          "unlocks": [
+            "Zoologist LVI   Gain 55➜56% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 57,
+          "totalExpRequired": 91572425,
+          "unlocks": [
+            "Zoologist LVII   Gain 56➜57% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 58,
+          "totalExpRequired": 97972425,
+          "unlocks": [
+            "Zoologist LVIII   Gain 57➜58% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 59,
+          "totalExpRequired": 104672425,
+          "unlocks": [
+            "Zoologist LIX   Gain 58➜59% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
+          ]
+        },
+        {
+          "level": 60,
+          "totalExpRequired": 111672425,
+          "unlocks": [
+            "Zoologist LX   Gain 59➜60% extra pet exp.",
+            "+1 ♣ Pet Luck",
+            "+Turbo! Training Session at Fann",
+            "+1,000,000 Coins",
+            "+30 SkyBlock XP"
           ]
         }
       ]

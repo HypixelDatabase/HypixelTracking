@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1702392893000,
+  "lastUpdated": 1702422413000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -80637,6 +80637,7 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwMTEwNDQ2MjgzOCwKICAicHJvZmlsZUlkIiA6ICIzYmFlMTVhMWU0Zjg0ZTc5OWE3N2QwZDBhZTNlZDc5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYXlyb25fZ2FtZXJfMjU0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyZGY0ZTkyMWJmNTg4ZTNhMGJlZDZhNWZiYzc2ZGE1ZDAyZDIzOWZiMTVlZmNhYzQyNzc0NTkyYWQ2NzlkYWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
       "name": "Glowing Mush Mixin",
       "tier": "RARE",
+      "unstackable": true,
       "id": "MUSHED_MUSHROOM_MIXIN"
     },
     {

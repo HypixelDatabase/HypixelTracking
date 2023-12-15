@@ -33717,7 +33717,9 @@
               "npc_master_meyer": true,
               "npc_lester_brody": true,
               "npc_gizzy_moonpowder": true,
-              "npc_electrician_russel": true
+              "npc_electrician_russel": true,
+              "phase_four_ascension_q5": true,
+              "phase_four_ascension_wallet_q": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -33760,7 +33762,9 @@
               "npc_master_meyer": 0,
               "npc_lester_brody": 0,
               "npc_gizzy_moonpowder": 0,
-              "npc_electrician_russel": 0
+              "npc_electrician_russel": 0,
+              "phase_four_ascension_q5": 0,
+              "phase_four_ascension_wallet_q": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -33802,7 +33806,10 @@
               "npc_lester_brody": true,
               "npc_gizzy_moonpowder": true,
               "npc_electrician_russel": true,
-              "npc_inspector": true
+              "npc_inspector": true,
+              "phase_four_ascension_q4": true,
+              "phase_four_ascension_q5": true,
+              "phase_four_ascension_wallet_q": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -33844,7 +33851,10 @@
               "npc_lester_brody": 0,
               "npc_gizzy_moonpowder": 0,
               "npc_electrician_russel": 0,
-              "npc_inspector": 0
+              "npc_inspector": 0,
+              "phase_four_ascension_q4": 0,
+              "phase_four_ascension_q5": 0,
+              "phase_four_ascension_wallet_q": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -33911,7 +33921,11 @@
               "lester_brody": true,
               "gizzy_moonpowder": true,
               "electrician_russel": true,
-              "inspector_photo": true
+              "inspector_photo": true,
+              "phase_four_ascension_o4": true,
+              "phase_four_ascension_o5": true,
+              "gizzy_moonpowder_repeat": true,
+              "electrician_russel_repeat": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -33954,7 +33968,8 @@
               "slumber_item_block_of_mega_walls_obsidian": 0,
               "slumber_item_token_of_ferocity": 0,
               "slumber_item_glowing_sand_paper": 0,
-              "slumber_item_victim_photo": 0
+              "slumber_item_victim_photo": 0,
+              "slumber_item_cleaned_up_murder_knife": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -34005,7 +34020,8 @@
         "four_four_lucky_fire_tick_final_deaths_bedwars": 0,
         "two_four_diamond_resources_collected_bedwars": 0,
         "four_three_magic_kills_bedwars": 0,
-        "eight_two_fire_kills_bedwars": 0
+        "eight_two_fire_kills_bedwars": 0,
+        "eight_two_rush_magic_deaths_bedwars": 0
       },
       "MurderMystery": {
         "knife_kills_library": 0,

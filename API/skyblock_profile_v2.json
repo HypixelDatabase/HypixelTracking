@@ -1021,7 +1021,8 @@
                 "completed_quest": true
               },
               "pet_trainer": {
-                "completed_quest": true
+                "completed_quest": true,
+                "last_call": 0
               }
             },
             "active_contacts": [],

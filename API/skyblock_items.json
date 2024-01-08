@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1704723725000,
+  "lastUpdated": 1704735662000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -65674,6 +65674,7 @@
       "material": "POTION",
       "name": "Water Bottle",
       "npc_sell_price": 2,
+      "has_uuid": false,
       "id": "POTION"
     },
     {

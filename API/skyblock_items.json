@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1704722084000,
+  "lastUpdated": 1704723725000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -532,7 +532,6 @@
       "name": "Nether Wart Pouch",
       "tier": "RARE",
       "can_auction": false,
-      "can_have_power_scroll": true,
       "id": "NETHER_WART_POUCH"
     },
     {
@@ -566,7 +565,6 @@
       "glowing": true,
       "tier": "EPIC",
       "can_auction": false,
-      "can_have_power_scroll": true,
       "id": "BASKET_OF_SEEDS"
     },
     {
@@ -15163,7 +15161,6 @@
       "glowing": true,
       "tier": "EPIC",
       "unstackable": true,
-      "can_have_power_scroll": true,
       "id": "BLOCK_ZAPPER"
     },
     {
@@ -54633,7 +54630,6 @@
       "material": "DIAMOND_SPADE",
       "name": "Snow Shovel",
       "tier": "RARE",
-      "can_have_power_scroll": true,
       "id": "SNOW_SHOVEL"
     },
     {

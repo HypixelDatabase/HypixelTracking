@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1702393195649,
-  "version": "0.19.290",
+  "lastUpdated": 1705416039492,
+  "version": "0.19.311",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -4747,7 +4747,7 @@
         },
         "PRISMARINE_SHARD": {
           "name": "Prismarine Shard",
-          "maxTiers": 6,
+          "maxTiers": 7,
           "tiers": [
             {
               "tier": 1,
@@ -4794,6 +4794,14 @@
               "amountRequired": 400,
               "unlocks": [
                 "Weather Node Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 800,
+              "unlocks": [
+                "Prismarine Necklace Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -5117,6 +5125,7 @@
               "tier": 7,
               "amountRequired": 800,
               "unlocks": [
+                "Clownfish Cloak Recipe",
                 "Greater Sack of Sacks Upgrade (+3 slots)",
                 "+4 SkyBlock XP"
               ]
@@ -5386,7 +5395,7 @@
         },
         "CLAY_BALL": {
           "name": "Clay",
-          "maxTiers": 5,
+          "maxTiers": 6,
           "tiers": [
             {
               "tier": 1,
@@ -5422,6 +5431,14 @@
             },
             {
               "tier": 5,
+              "amountRequired": 1500,
+              "unlocks": [
+                "Clay Bracelet Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
                 "Farmer's Rod Recipe",
@@ -5486,6 +5503,7 @@
               "tier": 7,
               "amountRequired": 1500,
               "unlocks": [
+                "Sponge Belt Recipe",
                 "Enchanted Wet Sponge Recipe",
                 "+4 SkyBlock XP"
               ]

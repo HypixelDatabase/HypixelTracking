@@ -3596,7 +3596,10 @@
           "fails": 0,
           "games_finished": 0
         },
-        "spider_maze_round_wins_party": 0
+        "spider_maze_round_wins_party": 0,
+        "pixelparty": {
+          "colorblind_preset": ""
+        }
       },
       "Arena": {
         "coins": 0,

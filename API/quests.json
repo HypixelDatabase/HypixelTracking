@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1704390639411,
+  "lastUpdated": 1706026086653,
   "quests": {
     "quake": [
       {
@@ -3143,11 +3143,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 5000
-          },
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
+            "amount": 7500
           }
         ],
         "objectives": [
@@ -3174,11 +3170,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 7500
-          },
-          {
-            "type": "GameLootChestReward",
-            "amount": 1
+            "amount": 10000
           }
         ],
         "objectives": [

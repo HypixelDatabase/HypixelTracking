@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1705415759000,
+  "lastUpdated": 1706184936000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8356,6 +8356,32 @@
       "category": "COSMETIC",
       "museum": true,
       "id": "WHITE_TIGER_PERSONALITY"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNDUzNDY5ODg3OCwKICAicHJvZmlsZUlkIiA6ICJmOGJmNDBjOWExYzY0ZTllOTIyZTc4M2UwMzNiODBiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeGxvbjUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmIwZjcyMmFlYzI3NDkwY2YwNTZmNTYwYWZkZDQ1N2EwYTc5NGU3MDM1NTZjYzRjM2I1MWE1ODJmNWM1N2FhNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Warden Dye",
+      "tier": "MYTHIC",
+      "unstackable": true,
+      "item_specific": {
+        "colors": [
+          "0x034150",
+          "0x034856",
+          "0x02505D",
+          "0x025763",
+          "0x025E69",
+          "0x02666F",
+          "0x016D76",
+          "0x01757C",
+          "0x017C82",
+          "0x018388",
+          "0x008B8F",
+          "0x009295"
+        ],
+        "cycle_back": true
+      },
+      "id": "DYE_WARDEN"
     },
     {
       "material": "INK_SACK",

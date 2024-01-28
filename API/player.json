@@ -2785,7 +2785,9 @@
       },
       "bedwars_weekly_challenges_win": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "bedwars_weekly_challenge_wins": 0
+          },
           "started": 0
         }
       },
@@ -33573,7 +33575,8 @@
           "bw_challenge_selfish_best_time": 0,
           "bw_challenge_collector_best_time": 0,
           "bw_challenge_stamina_best_time": 0,
-          "bw_challenge_capped_resources_best_time": 0
+          "bw_challenge_capped_resources_best_time": 0,
+          "bw_challenge_no_team_upgrades_best_time": 0
         },
         "four_four_swap__items_purchased_bedwars": 0,
         "four_four_swap_beds_broken_bedwars": 0,

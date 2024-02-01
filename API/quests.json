@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1706290986694,
+  "lastUpdated": 1706799786672,
   "quests": {
     "quake": [
       {
@@ -2468,15 +2468,11 @@
       },
       {
         "id": "skywars_weekly_free_loot_chest",
-        "name": "Weekly Quest: Free Loot Chest",
+        "name": "Weekly Quest: More Tokens!",
         "rewards": [
           {
-            "type": "GameLootChestReward",
-            "amount": 1
-          },
-          {
             "type": "SkyWarsTokenReward",
-            "amount": 4000
+            "amount": 10000
           }
         ],
         "objectives": [

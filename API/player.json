@@ -2789,7 +2789,12 @@
             "bedwars_weekly_challenge_wins": 0
           },
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "bedwars_weekly_final_killer": {
         "active": {
@@ -32797,7 +32802,9 @@
           "figurine_ender_pearl",
           "victorydance_dreamscape",
           "figurine_regular_sandman",
-          "figurine_golden_sandman"
+          "figurine_golden_sandman",
+          "figurine_crossed_swords",
+          "figurine_rezzus"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -33656,7 +33663,8 @@
           "bw_challenge_no_team_upgrades_best_time": 0,
           "bw_challenge_no_utilities_best_time": 0,
           "bw_challenge_slow_generator_best_time": 0,
-          "bw_challenge_reset_armor_best_time": 0
+          "bw_challenge_reset_armor_best_time": 0,
+          "bw_challenge_invisible_shop_best_time": 0
         },
         "four_four_swap__items_purchased_bedwars": 0,
         "four_four_swap_beds_broken_bedwars": 0,

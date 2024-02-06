@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1706280854000,
+  "lastUpdated": 1707230444000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -1319,7 +1319,7 @@
       "material": "FEATHER",
       "name": "Editor's Pencil",
       "glowing": true,
-      "tier": "VERY_SPECIAL",
+      "tier": "SPECIAL",
       "unstackable": true,
       "soulbound": "COOP",
       "museum": true,
@@ -20603,6 +20603,13 @@
       "stats": {
         "rift_Time": 11
       },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 60
+        }
+      ],
       "id": "SCARF_THESIS"
     },
     {
@@ -30310,14 +30317,6 @@
       "id": "GOLD_HUNTER_CHESTPLATE"
     },
     {
-      "material": "RED_MUSHROOM",
-      "name": "Bonzo Fragment",
-      "glowing": true,
-      "tier": "RARE",
-      "dungeon_item": true,
-      "id": "BONZO_FRAGMENT"
-    },
-    {
       "material": "STAINED_GLASS",
       "durability": 5,
       "name": "Lime Stained Glass",
@@ -37347,6 +37346,54 @@
         "DAMAGE": 600
       },
       "npc_sell_price": 8000,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "SPIDER",
+        "amount": 20
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "id": "STARRED_SPIDER_QUEENS_STINGER"
     },
     {
@@ -40106,6 +40153,13 @@
       "stats": {
         "rift_Time": 10
       },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 15
+        }
+      ],
       "id": "SCARF_STUDIES"
     },
     {
@@ -43005,6 +43059,54 @@
         "DAMAGE": 450
       },
       "npc_sell_price": 1,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "SPIDER",
+        "amount": 20
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "id": "SOULS_REBOUND"
     },
     {
@@ -48119,6 +48221,13 @@
       "tier": "EPIC",
       "npc_sell_price": 1000,
       "dungeon_item": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 120
+        }
+      ],
       "id": "TREASURE_RING"
     },
     {
@@ -51820,6 +51929,54 @@
         "STRENGTH": 180
       },
       "npc_sell_price": 8000,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "SPIDER",
+        "amount": 20
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "id": "STARRED_VENOMS_TOUCH"
     },
     {
@@ -56702,65 +56859,6 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
-      "name": "Bonzo's Mask",
-      "category": "HELMET",
-      "tier": "RARE",
-      "stats": {
-        "DEFENSE": 100,
-        "HEALTH": 125,
-        "INTELLIGENCE": 150
-      },
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 5
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 10
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 25
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 100
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "DUNGEON_TIER",
-          "dungeon_type": "CATACOMBS",
-          "tier": 1
-        }
-      ],
-      "dungeon_item": true,
-      "id": "STARRED_BONZO_MASK"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ==",
       "name": "Spirit Mask",
       "category": "HELMET",
@@ -57229,69 +57327,6 @@
       "category": "ACCESSORY",
       "npc_sell_price": 192,
       "id": "POTION_AFFINITY_TALISMAN"
-    },
-    {
-      "material": "BLAZE_ROD",
-      "name": "Bonzo's Staff",
-      "category": "SWORD",
-      "tier": "RARE",
-      "stats": {
-        "DAMAGE": 160,
-        "WEAPON_ABILITY_DAMAGE": 1000,
-        "INTELLIGENCE": 250
-      },
-      "ability_damage_scaling": 0.2,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 5
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 10
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 25
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 100
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "DUNGEON_TIER",
-          "dungeon_type": "CATACOMBS",
-          "tier": 1
-        }
-      ],
-      "dungeon_item": true,
-      "gemstone_slots": [
-        {
-          "slot_type": "SAPPHIRE"
-        }
-      ],
-      "id": "BONZO_STAFF"
     },
     {
       "material": "LEATHER_HELMET",
@@ -57785,6 +57820,13 @@
         "MINING_SPEED": 1500
       },
       "npc_sell_price": 12,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 5
+        }
+      ],
       "id": "PICKONIMBUS"
     },
     {
@@ -58654,83 +58696,6 @@
       "id": "LAMP_LILAC"
     },
     {
-      "material": "BLAZE_ROD",
-      "name": "Bonzo's Staff",
-      "category": "SWORD",
-      "tier": "RARE",
-      "stats": {
-        "DAMAGE": 160,
-        "WEAPON_ABILITY_DAMAGE": 1100,
-        "INTELLIGENCE": 300
-      },
-      "ability_damage_scaling": 0.2,
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 5
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 10
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 25
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 100
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "DUNGEON_TIER",
-          "dungeon_type": "CATACOMBS",
-          "tier": 1
-        }
-      ],
-      "dungeon_item": true,
-      "gemstone_slots": [
-        {
-          "slot_type": "SAPPHIRE"
-        },
-        {
-          "slot_type": "SAPPHIRE",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 50000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FINE_SAPPHIRE_GEM",
-              "amount": 20
-            }
-          ]
-        }
-      ],
-      "id": "STARRED_BONZO_STAFF"
-    },
-    {
       "material": "INK_SACK",
       "name": "Ink Sac",
       "npc_sell_price": 2,
@@ -59216,6 +59181,13 @@
       "stats": {
         "rift_Time": 12
       },
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "WITHER",
+          "amount": 240
+        }
+      ],
       "id": "SCARF_GRIMOIRE"
     },
     {
@@ -60730,6 +60702,13 @@
       "tier": "RARE",
       "npc_sell_price": 1000,
       "dungeon_item": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 15
+        }
+      ],
       "id": "TREASURE_TALISMAN"
     },
     {
@@ -62835,6 +62814,54 @@
         "STRENGTH": 100
       },
       "npc_sell_price": 5000,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "SPIDER",
+        "amount": 20
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "id": "VENOMS_TOUCH"
     },
     {
@@ -65516,65 +65543,6 @@
       "name": "Andesite",
       "npc_sell_price": 2,
       "id": "STONE:5"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
-      "name": "Bonzo's Mask",
-      "category": "HELMET",
-      "tier": "RARE",
-      "stats": {
-        "DEFENSE": 100,
-        "HEALTH": 100,
-        "INTELLIGENCE": 100
-      },
-      "upgrade_costs": [
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 5
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 10
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 25
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 50
-          }
-        ],
-        [
-          {
-            "type": "ESSENCE",
-            "essence_type": "WITHER",
-            "amount": 100
-          }
-        ]
-      ],
-      "requirements": [
-        {
-          "type": "DUNGEON_TIER",
-          "dungeon_type": "CATACOMBS",
-          "tier": 1
-        }
-      ],
-      "dungeon_item": true,
-      "id": "BONZO_MASK"
     },
     {
       "material": "SKULL_ITEM",
@@ -68969,6 +68937,54 @@
         "DAMAGE": 360
       },
       "npc_sell_price": 5000,
+      "dungeon_item_conversion_cost": {
+        "essence_type": "SPIDER",
+        "amount": 20
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "SPIDER",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "id": "SPIDER_QUEENS_STINGER"
     },
     {
@@ -70396,6 +70412,13 @@
       "tier": "LEGENDARY",
       "npc_sell_price": 1000,
       "dungeon_item": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "GOLD",
+          "amount": 1080
+        }
+      ],
       "id": "TREASURE_ARTIFACT"
     },
     {
@@ -72764,6 +72787,13 @@
           "level": 5
         }
       ],
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 15
+        }
+      ],
       "id": "HANDY_BLOOD_CHALICE"
     },
     {
@@ -72777,6 +72807,13 @@
           "type": "SLAYER",
           "slayer_boss_type": "enderman",
           "level": 4
+        }
+      ],
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DRAGON",
+          "amount": 15
         }
       ],
       "id": "POCKET_ESPRESSO_MACHINE"
@@ -73676,6 +73713,13 @@
       "name": "Tarantula Talisman",
       "category": "ACCESSORY",
       "tier": "EPIC",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "SPIDER",
+          "amount": 50
+        }
+      ],
       "id": "TARANTULA_TALISMAN"
     },
     {
@@ -77676,6 +77720,13 @@
       "name": "Glacial Ring",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "GLACIAL_RING"
     },
     {
@@ -77685,6 +77736,13 @@
       "name": "Glacial Artifact",
       "category": "ACCESSORY",
       "tier": "RARE",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "GLACIAL_ARTIFACT"
     },
     {
@@ -77694,6 +77752,13 @@
       "name": "Glacial Talisman",
       "category": "ACCESSORY",
       "tier": "COMMON",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 15
+        }
+      ],
       "id": "GLACIAL_TALISMAN"
     },
     {
@@ -80816,6 +80881,54 @@
         "DAMAGE": 125
       },
       "soulbound": "COOP",
+      "dungeon_item_conversion_cost": {
+        "essence_type": "DRAGON",
+        "amount": 20
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 15
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "DRAGON",
+            "amount": 30
+          }
+        ]
+      ],
+      "catacombs_requirements": [
+        {
+          "type": "DUNGEON_SKILL",
+          "dungeon_type": "CATACOMBS",
+          "level": 8
+        }
+      ],
       "id": "VOID_SWORD"
     },
     {
@@ -81266,6 +81379,65 @@
       "id": "TRAPPER_CREST"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODE4Nzc4NiwKICAicHJvZmlsZUlkIiA6ICI1MWIyZGY3NWEyYWM0OTA5YmM4YzlkMzM3Y2EwNDNkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWNvcm5lQXVCZXVycmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWEzNjFhNjdiNjNkMDQ1YTBhNjNiNTI1YzFhNzAxMjhmNjkwOWVmMWFjN2JjYzZlNDYzMWViODk1ZjA3NTAyZCIKICAgIH0KICB9Cn0=",
+      "name": "Bone Necklace",
+      "category": "NECKLACE",
+      "tier": "EPIC",
+      "npc_sell_price": 0,
+      "dungeon_item": true,
+      "stats": {
+        "DEFENSE": 45,
+        "CRITICAL_CHANCE": 5
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 20
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 40
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 60
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 150
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 4
+        }
+      ],
+      "id": "STARRED_BONE_NECKLACE"
+    },
+    {
       "material": "ENDER_PEARL",
       "name": "Spirit Leap",
       "glowing": true,
@@ -81564,6 +81736,14 @@
         }
       ],
       "id": "STARRED_SHADOW_ASSASSIN_CLOAK"
+    },
+    {
+      "material": "RED_MUSHROOM",
+      "name": "Bonzo Fragment",
+      "glowing": true,
+      "tier": "RARE",
+      "dungeon_item": true,
+      "id": "BONZO_FRAGMENT"
     },
     {
       "material": "DOUBLE_PLANT",
@@ -82121,6 +82301,128 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
+      "name": "Bonzo's Mask",
+      "category": "HELMET",
+      "tier": "RARE",
+      "stats": {
+        "DEFENSE": 100,
+        "HEALTH": 125,
+        "INTELLIGENCE": 150
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 5
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 1
+        }
+      ],
+      "dungeon_item": true,
+      "id": "STARRED_BONZO_MASK"
+    },
+    {
+      "material": "BLAZE_ROD",
+      "name": "Bonzo's Staff",
+      "category": "SWORD",
+      "tier": "RARE",
+      "stats": {
+        "DAMAGE": 160,
+        "WEAPON_ABILITY_DAMAGE": 1000,
+        "INTELLIGENCE": 250
+      },
+      "ability_damage_scaling": 0.2,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 5
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 1
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE"
+        }
+      ],
+      "id": "BONZO_STAFF"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0=",
       "name": "Adaptive Belt",
       "category": "BELT",
@@ -82177,6 +82479,83 @@
         }
       ],
       "id": "STARRED_ADAPTIVE_BELT"
+    },
+    {
+      "material": "BLAZE_ROD",
+      "name": "Bonzo's Staff",
+      "category": "SWORD",
+      "tier": "RARE",
+      "stats": {
+        "DAMAGE": 160,
+        "WEAPON_ABILITY_DAMAGE": 1100,
+        "INTELLIGENCE": 300
+      },
+      "ability_damage_scaling": 0.2,
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 5
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 1
+        }
+      ],
+      "dungeon_item": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "SAPPHIRE"
+        },
+        {
+          "slot_type": "SAPPHIRE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "id": "STARRED_BONZO_STAFF"
     },
     {
       "material": "LEATHER_BOOTS",
@@ -82239,6 +82618,65 @@
       ],
       "dungeon_item": true,
       "id": "STARRED_THORNS_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ0MTkzMTAxNjQsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyNzE2ZWNiZjViOGRhMDBiMDVmMzE2ZWM2YWY2MWU4YmQwMjgwNWIyMWViOGU0NDAxNTE0NjhkYzY1NjU0OWMifX19",
+      "name": "Bonzo's Mask",
+      "category": "HELMET",
+      "tier": "RARE",
+      "stats": {
+        "DEFENSE": 100,
+        "HEALTH": 100,
+        "INTELLIGENCE": 100
+      },
+      "upgrade_costs": [
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 5
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 10
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 25
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 50
+          }
+        ],
+        [
+          {
+            "type": "ESSENCE",
+            "essence_type": "WITHER",
+            "amount": 100
+          }
+        ]
+      ],
+      "requirements": [
+        {
+          "type": "DUNGEON_TIER",
+          "dungeon_type": "CATACOMBS",
+          "tier": 1
+        }
+      ],
+      "dungeon_item": true,
+      "id": "BONZO_MASK"
     },
     {
       "material": "SKULL_ITEM",
@@ -82586,6 +83024,13 @@
       "tier": "COMMON",
       "soulbound": "COOP",
       "npc_sell_price": 10000,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "CRIMSON",
+          "amount": 15
+        }
+      ],
       "id": "NETHERRACK_LOOKING_SUNSHADE"
     },
     {

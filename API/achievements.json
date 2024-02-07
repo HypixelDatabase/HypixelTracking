@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1707230269094,
+  "lastUpdated": 1707330848070,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2589,6 +2589,7 @@
         "LOOT_BOX": {
           "name": "Crate Looter",
           "description": "Open %s Loot Chests",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -2649,8 +2650,8 @@
           ]
         }
       },
-      "total_points": 1005,
-      "total_legacy_points": 0
+      "total_points": 930,
+      "total_legacy_points": 75
     },
     "blitz": {
       "one_time": {

@@ -22351,7 +22351,8 @@
           "chest_swords": "",
           "chest_armour": "",
           "one_hit_one_kill": true,
-          "low_gravity": true
+          "low_gravity": true,
+          "chest_bows": ""
         },
         "kit_mega_mega_armorsmith_inventory_auto_equip_armor": true,
         "kit_mega_mega_hunter_inventory": {
@@ -38375,7 +38376,9 @@
         "snowmen_players_hit_standard": 0,
         "privategames": {
           "duels_night_time": "",
-          "duels_give_slowness": ""
+          "duels_give_slowness": "",
+          "health_buff": "",
+          "duels_block_protection": true
         },
         "capture_threes_golden_apples_eaten": 0,
         "shop_sort": "",

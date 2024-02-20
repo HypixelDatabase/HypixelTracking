@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1707330848070,
+  "lastUpdated": 1708449519997,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5659,8 +5659,7 @@
           "points": 5,
           "name": "Getting Loot",
           "description": "Open a Duels Loot Chest",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "AXE_YOU_A_QUESTION": {
           "points": 10,
@@ -6211,8 +6210,8 @@
           ]
         }
       },
-      "total_points": 1430,
-      "total_legacy_points": 110
+      "total_points": 1425,
+      "total_legacy_points": 115
     },
     "easter": {
       "one_time": {

@@ -1348,7 +1348,7 @@
     },
     "/v2/resources/skyblock/bingo": {
       "get": {
-        "summary": "Active Bingo Goals",
+        "summary": "Current Bingo Event",
         "description": "Information regarding the current bingo event and its goals.",
         "tags": [
           "SkyBlock"
@@ -1360,17 +1360,57 @@
               "application/json": {
                 "schema": {
                   "type": "object",
+                  "required": [
+                    "success",
+                    "lastUpdated",
+                    "id",
+                    "name",
+                    "start",
+                    "end",
+                    "modifier",
+                    "goals"
+                  ],
                   "properties": {
                     "success": {
                       "type": "boolean"
                     },
                     "lastUpdated": {
-                      "type": "number"
+                      "type": "number",
+                      "format": "int64",
+                      "description": "The unix milliseconds timestamp of the last time this data was updated"
                     },
                     "id": {
                       "type": "number",
                       "format": "int32",
-                      "description": "The current bingo event ID, increments by 1 for each bingo hosted"
+                      "description": "The current bingo event ID, increments by 1 for each bingo hosted",
+                      "example": 27
+                    },
+                    "name": {
+                      "type": "string",
+                      "description": "The display name for the current bingo event",
+                      "example": "March 2024"
+                    },
+                    "start": {
+                      "type": "number",
+                      "format": "int64",
+                      "description": "The start time of the current bingo event in unix milliseconds",
+                      "example": 1709269200000
+                    },
+                    "end": {
+                      "type": "number",
+                      "format": "int64",
+                      "description": "The end time of the current bingo event in unix milliseconds",
+                      "example": 1709874000000
+                    },
+                    "modifier": {
+                      "type": "string",
+                      "enum": [
+                        "NORMAL",
+                        "EXTREME",
+                        "SECRET"
+                      ],
+                      "description": "The modifier for the current bingo event",
+                      "example": "NORMAL"
                     },
                     "goals": {
                       "type": "array",
@@ -1393,6 +1433,10 @@
                           "lore": {
                             "description": "Description of this goal",
                             "type": "string"
+                          },
+                          "fullLore": {
+                            "description": "The full description of this goal",
+                            "type": "array"
                           },
                           "tiers": {
                             "description": "The tiers of this goal, if a global goal",

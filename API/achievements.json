@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1709731395294,
+  "lastUpdated": 1709745195266,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -15146,8 +15146,7 @@
           "points": 15,
           "name": "Magic's-a-Gathering",
           "description": "Upgrade Blood Wizard Mana Regen to Level VI",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "TNT_TAG_SNOWBALL": {
           "points": 5,
@@ -15174,8 +15173,7 @@
           "points": 10,
           "name": "Legolas",
           "description": "Upgrade Bow Spleef TripleShot to level VI",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "WIZARDS_JUMPER": {
           "points": 10,
@@ -15188,8 +15186,7 @@
           "points": 10,
           "name": "Updating OS...",
           "description": "Upgrade Bow Spleef Double Jump to level V",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "THAT_WAS_CLOSE": {
           "points": 10,
@@ -15304,7 +15301,7 @@
         "HOLE_IN_MY_POCKET": {
           "points": 10,
           "name": "Hole in my pocket",
-          "description": "Spend over 200,000 coins on a single cosmetic in the TNT Games"
+          "description": "Spend over 200,000 tokens on a single cosmetic in the TNT Games"
         },
         "VARIETY_SHOW": {
           "points": 10,
@@ -15334,8 +15331,7 @@
           "points": 5,
           "name": "Quick Feet",
           "description": "Purchase a Speed Potion for TNT Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "WIZARDS_FIRST_WIN": {
           "points": 5,
@@ -15395,8 +15391,7 @@
           "points": 15,
           "name": "Inferno",
           "description": "Upgrade Fire Wizard Explode to Level VI",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SPLEEF_HITS": {
           "points": 5,
@@ -15437,8 +15432,7 @@
           "points": 10,
           "name": "Jedi Master",
           "description": "Upgrade Bow Spleef Repulsor to level VI",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "WIZARDS_THIRTY_KILLS": {
           "points": 10,
@@ -15643,8 +15637,7 @@
           "points": 10,
           "name": "Revenge is sweet",
           "description": "Kill a player while having Slowness from that player's Slowness Potion in PVP Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "TNT_RUN_FLYING": {
           "points": 10,
@@ -15664,8 +15657,7 @@
           "points": 5,
           "name": "Youngling",
           "description": "Get your first Bow Spleef Double Jump upgrade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "TIMER": {
           "points": 5,
@@ -15926,7 +15918,7 @@
         },
         "TNT_BANKER": {
           "name": "Banker",
-          "description": "Earn %s coins in TNT Games",
+          "description": "Earn %s tokens in TNT Games",
           "tiers": [
             {
               "tier": 1,
@@ -16142,8 +16134,8 @@
           ]
         }
       },
-      "total_points": 1920,
-      "total_legacy_points": 0
+      "total_points": 1840,
+      "total_legacy_points": 80
     },
     "truecombat": {
       "one_time": {

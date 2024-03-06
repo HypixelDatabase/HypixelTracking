@@ -273,7 +273,8 @@
       "arcade_dropper_flawless_faller": 0,
       "bedwars_slumber_ticket_master": 0,
       "christmas2017_advent_2023": 0,
-      "tntgames_the_upper_hand": 0
+      "tntgames_the_upper_hand": 0,
+      "tntgames_power_hungry": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -8298,7 +8299,9 @@
           "double_jump_chilled",
           "arrow_trail_fire",
           "arrow_trail_angry_villager",
-          "arrow_trail_cheese"
+          "arrow_trail_cheese",
+          "death_effect_eggsplosion",
+          "double_jump_easter_egg"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -8487,7 +8490,14 @@
           "resetType": "",
           "mode": ""
         },
-        "active_arrow_trail": ""
+        "active_arrow_trail": "",
+        "active_double_jump": "",
+        "arcane_wizard_alternate_effects_status": true,
+        "arcane_wizard_explode": 0,
+        "arcane_wizard_regen": 0,
+        "arcane_wizard_damage_taken": 0,
+        "arcane_wizard_healing": 0,
+        "new_firewizard_alternate_effects_status": true
       },
       "UHC": {
         "coins": 0,

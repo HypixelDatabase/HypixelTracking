@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1708449519997,
+  "lastUpdated": 1709731395294,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -15053,31 +15053,10 @@
     },
     "tntgames": {
       "one_time": {
-        "TNT_TAG_DIFFERENTTAGS": {
-          "points": 10,
-          "name": "One for you and for you and for you ...",
-          "description": "Tag 5 different people in a game of TNT Tag",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PRO_SURFER": {
-          "points": 5,
-          "name": "Pro Surfer",
-          "description": "Use Hydro wizards’ defense wand while standing in water",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "WIZARDS_NOGOOD": {
           "points": 5,
           "name": "This is no good",
           "description": "Jump into the void in TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_NPCS": {
-          "points": 5,
-          "name": "I know how this works!",
-          "description": "Use every NPC in the lobby to join games",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15088,45 +15067,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SPLEEF_REPULSOR": {
-          "points": 5,
-          "name": "Have Fun",
-          "description": "Use a Repulsor on someone that is in the air",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "WIZARDS_FIRE_WIZARD_EXPLODE": {
-          "points": 15,
-          "name": "Inferno",
-          "description": "Upgrade Fire Wizard Explode to Level VI",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SPLEEF_HITS": {
-          "points": 5,
-          "name": "It's raining arrows",
-          "description": "Shoot 30 arrows at other players in a game of Bow Spleef",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "NO_YOU": {
           "points": 5,
           "name": "No You",
           "description": "Tag a player 15 times in one round of TNT Tag and have them die",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SPLEEF_NOPERKS": {
-          "points": 10,
-          "name": "I don't need any of that",
-          "description": "Win a game of Bow Spleef without using any perks",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "WIZARDS_HURTS": {
-          "points": 10,
-          "name": "Gotcha",
-          "description": "Hit 3 enemies with 1 Wither Skull in TNT Wizards",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15144,26 +15088,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "FREEZE": {
+        "BEYOND_EXPECTATIONS": {
           "points": 5,
-          "name": "Freeze",
-          "description": "Freeze water with the Ice kit in TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "JACK_OF_ALL": {
-          "points": 15,
-          "name": "Jack-of-all-Wizards",
-          "description": "Have a total of 250 kills with each Wizards class",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BOW_SPLEEF_REPULSOR_UPGRADE": {
-          "points": 10,
-          "name": "Jedi Master",
-          "description": "Upgrade Bow Spleef Repulsor to level VI",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Beyond Expectations",
+          "description": "Exceed your double jump cap in PVP Run."
         },
         "PVP_RUN_FLYING": {
           "points": 10,
@@ -15186,24 +15114,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WIZARDS_THIRTY_KILLS": {
-          "points": 10,
-          "name": "Wand-erful",
-          "description": "Kill 30 players in one game of TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "TNT_WINS_IN_A_ROW": {
           "points": 15,
           "name": "Conqueror",
           "description": "Get 5 wins in a row",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_TAG_BLOWNUP": {
-          "points": 5,
-          "name": "Take me with you!",
-          "description": "Get blown up by someone else's explosion in TNT Tag",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15214,24 +15128,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "PVP_RUN_TRIPLE": {
-          "points": 10,
-          "name": "Make that three",
-          "description": "Kill 3 people within 12 seconds in PVP Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "TNT_RUN_NODJS": {
           "points": 5,
           "name": "Triumph",
           "description": "Win a game of TNT Run without using any double jumps",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "EXTRME_SPEED": {
-          "points": 10,
-          "name": "Extreme Speed",
-          "description": "Kill 5 players in the first minute of TNT Wizards",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15259,14 +15159,7 @@
         "TIME_WIZARDS": {
           "points": 10,
           "name": "Time Wizards",
-          "description": "Play a TNT Wizards game for over 15 minutes",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_TAG_TRAVELLER": {
-          "points": 5,
-          "name": "Traveller",
-          "description": "Travel 1,000 blocks in a game of TNT Tag",
+          "description": "Play a TNT Wizards game for over 12 minutes",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15284,17 +15177,308 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "PATIENCE": {
-          "points": 10,
-          "name": "Patience is Key",
-          "description": "Win a game of TNT Run that takes longer than 8 minutes",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "WIZARDS_JUMPER": {
           "points": 10,
           "name": "Weeeeeee",
           "description": "Use 100 Double Jumps in a game of TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BOW_SPLEEF_DOUBLE_JUMP_UPGRADE": {
+          "points": 10,
+          "name": "Updating OS...",
+          "description": "Upgrade Bow Spleef Double Jump to level V",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THAT_WAS_CLOSE": {
+          "points": 10,
+          "name": "That was close",
+          "description": "Double jump back on to the map after falling below it in Bow Spleef",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BYE_BYE": {
+          "points": 10,
+          "name": "Bye Bye!",
+          "description": "Tag someone and make them fall over 20 blocks in TNT Tag",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "POTION_SHOWER": {
+          "points": 10,
+          "name": "Potion Shower",
+          "description": "Get hit with 6 potions from other players in 1 game of TNT Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPLEEF_NOSHOTS": {
+          "points": 10,
+          "name": "My bow is not working!",
+          "description": "Win a game of Bow Spleef without firing any shots",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEAVE_ME_ALONE": {
+          "points": 15,
+          "name": "Leave me alone!",
+          "description": "Tag players 50 times in a game of TNT Tag."
+        },
+        "KANGAROO": {
+          "points": 10,
+          "name": "Kangaroo",
+          "description": "Use 25 double jumps in a single game of PVP Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PVP_RUN_MANYKILLS": {
+          "points": 15,
+          "name": "There is not enough room for all of us!",
+          "description": "Kill 7 Players in a game of PVP Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HEALER": {
+          "points": 10,
+          "name": "I'm Actually A Healer",
+          "description": "Heal over 100 hearts in 1 game of TNT Wizards with the Kinetic kit",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_PRESTIGE": {
+          "points": 15,
+          "name": "2fancy4me",
+          "description": "Purchase an alternative effect cosmetic for TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_RUN_SHORT": {
+          "points": 10,
+          "name": "We just started ...",
+          "description": "Win a game of TNT Run within 2 minutes",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_RUN_EFFECTS": {
+          "points": 10,
+          "name": "Ineffective",
+          "description": "Win a game of TNT Run while having Speed and Slowness",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "COMBO": {
+          "points": 5,
+          "name": "Learn To Combo",
+          "description": "Kill a player with a repulsor shortly after you double jump in Bow Spleef",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PVP_RUN_NOHIT": {
+          "points": 10,
+          "name": "Can't touch this",
+          "description": "Win a game of PVP Run without getting hit",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PVP_RUN_FIRST_WIN": {
+          "points": 5,
+          "name": "A Dangerous Place",
+          "description": "Win a game of PVP Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_TAG_CLOSE": {
+          "points": 5,
+          "name": "Close Call",
+          "description": "Survive a round in which you had the TNT 7 seconds before blowing up in TNT Tag",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIZARDS_AWIZARD": {
+          "points": 15,
+          "name": "You're a Wizard",
+          "description": "Get 2 Kills with every kit in a game of TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HOLE_IN_MY_POCKET": {
+          "points": 10,
+          "name": "Hole in my pocket",
+          "description": "Spend over 200,000 coins on a single cosmetic in the TNT Games"
+        },
+        "VARIETY_SHOW": {
+          "points": 10,
+          "name": "Variety Show",
+          "description": "Pick up three different powerups in a game of TNT Tag."
+        },
+        "WRONG_GAME": {
+          "points": 5,
+          "name": "Wrong Game?",
+          "description": "Use the repulsor powerup on 'IT' during a game of TNT Tag."
+        },
+        "PVP_RUN_HALFHEARTED": {
+          "points": 10,
+          "name": "Not even close",
+          "description": "Win a game of PVP Run on one heart or lower",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIZARDS_LEAD": {
+          "points": 10,
+          "name": "What a victory!",
+          "description": "Win by more than 1,000 points in TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_RUN_PURCHASE_POTION": {
+          "points": 5,
+          "name": "Quick Feet",
+          "description": "Purchase a Speed Potion for TNT Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIZARDS_FIRST_WIN": {
+          "points": 5,
+          "name": "DiamondZ",
+          "description": "Win a game of TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "QUARANTINE": {
+          "points": 15,
+          "name": "Quarantine",
+          "description": "Win a game of TNT Tag without getting tagged in the final 1v1."
+        },
+        "TNT_TAG_DM": {
+          "points": 5,
+          "name": "The Finals",
+          "description": "Survive until Deathmatch in TNT Tag",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PVP_RUN_FISTS": {
+          "points": 10,
+          "name": "Fists of Fury",
+          "description": "Kill an enemy with your fists in PVP Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_TAG_DIFFERENTTAGS": {
+          "points": 10,
+          "name": "One for you and for you and for you ...",
+          "description": "Tag 5 different people in a game of TNT Tag",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PRO_SURFER": {
+          "points": 5,
+          "name": "Pro Surfer",
+          "description": "Use Hydro wizards’ defense wand while standing in water",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_NPCS": {
+          "points": 5,
+          "name": "I know how this works!",
+          "description": "Use every NPC in the lobby to join games",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPLEEF_REPULSOR": {
+          "points": 5,
+          "name": "Have Fun",
+          "description": "Use a Repulsor on someone that is in the air",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIZARDS_FIRE_WIZARD_EXPLODE": {
+          "points": 15,
+          "name": "Inferno",
+          "description": "Upgrade Fire Wizard Explode to Level VI",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPLEEF_HITS": {
+          "points": 5,
+          "name": "It's raining arrows",
+          "description": "Shoot 30 arrows at other players in a game of Bow Spleef",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPLEEF_NOPERKS": {
+          "points": 10,
+          "name": "I don't need any of that",
+          "description": "Win a game of Bow Spleef without using any perks",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIZARDS_HURTS": {
+          "points": 10,
+          "name": "Gotcha",
+          "description": "Hit 3 enemies with 1 Wither Skull in TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "FREEZE": {
+          "points": 5,
+          "name": "Freeze",
+          "description": "Freeze water with the Ice kit in TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "JACK_OF_ALL": {
+          "points": 15,
+          "name": "Jack-of-all-Wizards",
+          "description": "Have a total of 250 kills with each Wizards class",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BOW_SPLEEF_REPULSOR_UPGRADE": {
+          "points": 10,
+          "name": "Jedi Master",
+          "description": "Upgrade Bow Spleef Repulsor to level VI",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIZARDS_THIRTY_KILLS": {
+          "points": 10,
+          "name": "Wand-erful",
+          "description": "Kill 30 players in one game of TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_TAG_BLOWNUP": {
+          "points": 5,
+          "name": "Take me with you!",
+          "description": "Get blown up by someone else's explosion in TNT Tag",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PVP_RUN_TRIPLE": {
+          "points": 10,
+          "name": "Make that three",
+          "description": "Kill 3 people within 12 seconds in PVP Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "EXTRME_SPEED": {
+          "points": 10,
+          "name": "Extreme Speed",
+          "description": "Kill 5 players in the first minute of TNT Wizards",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TNT_TAG_TRAVELLER": {
+          "points": 5,
+          "name": "Traveller",
+          "description": "Travel 1,000 blocks in a game of TNT Tag",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PATIENCE": {
+          "points": 10,
+          "name": "Patience is Key",
+          "description": "Win a game of TNT Run that takes longer than 8 minutes",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15309,13 +15493,6 @@
           "points": 10,
           "name": "How did that happen?",
           "description": "Push 3 players at the same time using your Repulsor in Bow Spleef",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BOW_SPLEEF_DOUBLE_JUMP_UPGRADE": {
-          "points": 10,
-          "name": "Updating OS...",
-          "description": "Upgrade Bow Spleef Double Jump to level V",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15340,13 +15517,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "THAT_WAS_CLOSE": {
-          "points": 10,
-          "name": "That was close",
-          "description": "Double jump back on to the map after falling below it in Bow Spleef",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "LUCKY": {
           "points": 5,
           "name": "Lucky!",
@@ -15358,27 +15528,6 @@
           "points": 10,
           "name": "Assistant",
           "description": "Get 20 assists in one TNT Wizards game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BYE_BYE": {
-          "points": 10,
-          "name": "Bye Bye!",
-          "description": "Tag someone and make them fall over 20 blocks in TNT Tag",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "POTION_SHOWER": {
-          "points": 10,
-          "name": "Potion Shower",
-          "description": "Get hit with 6 potions from other players in 1 game of TNT Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SPLEEF_NOSHOTS": {
-          "points": 10,
-          "name": "My bow is not working!",
-          "description": "Win a game of Bow Spleef without firing any shots",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15410,47 +15559,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "KANGAROO": {
+        "INFINITE_JUMP_GLITCH": {
           "points": 10,
-          "name": "Kangaroo",
-          "description": "Use 15 double jumps in a single game of PvP run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PVP_RUN_MANYKILLS": {
-          "points": 15,
-          "name": "There is not enough room for all of us!",
-          "description": "Kill 10 Players in a game of PVP Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HEALER": {
-          "points": 10,
-          "name": "I'm Actually A Healer",
-          "description": "Heal over 100 hearts in 1 game of TNT Wizards with the Kinetic kit",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_PRESTIGE": {
-          "points": 15,
-          "name": "2fancy4me",
-          "description": "Buy a prestige upgrade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_RUN_SHORT": {
-          "points": 10,
-          "name": "We just started ...",
-          "description": "Win a game of TNT Run within 2 minutes",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_RUN_EFFECTS": {
-          "points": 10,
-          "name": "Ineffective",
-          "description": "Win a game of TNT Run while having Speed and Slowness",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Infinite jump glitch",
+          "description": "Gain 15 Double Jumps from killing players in a single game of PVP Run"
         },
         "PVP_RUN_PACIFIST": {
           "points": 10,
@@ -15496,8 +15608,8 @@
         },
         "PVP_RUN_SABOTAGE": {
           "points": 5,
-          "name": "Sabotage",
-          "description": "Throw a slowness potion at someone in PVP Run",
+          "name": "Self-sabotage?",
+          "description": "Throw a slowness potion on yourself in PVP Run",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15508,34 +15620,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "COMBO": {
-          "points": 5,
-          "name": "Learn To Combo",
-          "description": "Kill a player with a repulsor shortly after you double jump in Bow Spleef",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PVP_RUN_NOHIT": {
-          "points": 10,
-          "name": "Can't touch this",
-          "description": "Win a game of PVP Run without getting hit",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PVP_RUN_FIRST_WIN": {
-          "points": 5,
-          "name": "A Dangerous Place",
-          "description": "Win a game of PVP Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_TAG_CLOSE": {
-          "points": 5,
-          "name": "Close Call",
-          "description": "Survive a round in which you had the TNT 7 seconds before blowing up in TNT Tag",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "WIZARDS_HEAL": {
           "points": 5,
           "name": "Team Player",
@@ -15543,24 +15627,15 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WIZARDS_AWIZARD": {
-          "points": 15,
-          "name": "You're a Wizard",
-          "description": "Get 3 Kills with every Wizard Class in a game of TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "FREE_POINTS": {
+          "points": 5,
+          "name": "Free Points",
+          "description": "Pick up 5 power orbs in a single game of TNT Wizards."
         },
         "GRAND_MASTER": {
           "points": 20,
           "name": "Grand Master",
           "description": "Unlock the Grand Master hat",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PVP_RUN_HALFHEARTED": {
-          "points": 10,
-          "name": "Not even close",
-          "description": "Win a game of PVP Run on one heart or lower",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15585,20 +15660,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WIZARDS_LEAD": {
-          "points": 10,
-          "name": "What a victory!",
-          "description": "Win by more than 1,000 points in TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_RUN_PURCHASE_POTION": {
-          "points": 5,
-          "name": "Quick Feet",
-          "description": "Purchase a Speed Potion for TNT Run",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "BOW_SPLEEF_FIRST_DOUBLE_JUMP": {
           "points": 5,
           "name": "Youngling",
@@ -15613,31 +15674,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WIZARDS_FIRST_WIN": {
-          "points": 5,
-          "name": "DiamondZ",
-          "description": "Win a game of TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "SNIPER": {
           "points": 5,
           "name": "Sniper",
           "description": "Get a kill from over 75 blocks away in TNT Wizards",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TNT_TAG_DM": {
-          "points": 5,
-          "name": "The Finals",
-          "description": "Survive until Deathmatch in TNT Tag",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PVP_RUN_FISTS": {
-          "points": 10,
-          "name": "Fists of Fury",
-          "description": "Kill an enemy with your fists in PVP Run",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -15648,12 +15688,22 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "THERE_AND_BACK_AGAIN": {
+          "points": 10,
+          "name": "There and back again",
+          "description": "As an Arcane Wizard, hit 3 players with a single Boomerang while using the Arcane Wizard class in TNT Wizards."
+        },
         "SECOND_CHANCE": {
           "points": 5,
           "name": "A second chance",
           "description": "Survive an explosion using your blast protection perk",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "CANT_STOP_WONT_STOP": {
+          "points": 5,
+          "name": "CAN'T STOP WON'T STOP",
+          "description": "Have a player use repulsor on you while Explosive Dash is active in a game of Bow Spleef."
         }
       },
       "tiered": {
@@ -15688,37 +15738,6 @@
             }
           ]
         },
-        "TNT_WIZARDS_CAPS": {
-          "name": "Conquistador",
-          "description": "Help capture %s points in TNT Wizards",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 25
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 75
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 150
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 300
-            }
-          ]
-        },
         "TNT_TRIATHLON": {
           "name": "Triathlon",
           "description": "Play TNT Games for %s minutes",
@@ -15750,9 +15769,9 @@
             }
           ]
         },
-        "BOW_SPLEEF_WINS": {
-          "name": "Archery",
-          "description": "Win %s games of Bow Spleef",
+        "TNT_RUN_WINS": {
+          "name": "Marathon",
+          "description": "Win %s games of TNT Run",
           "tiers": [
             {
               "tier": 1,
@@ -15781,9 +15800,226 @@
             }
           ]
         },
-        "TNT_RUN_WINS": {
-          "name": "Marathon",
-          "description": "Win %s games of TNT Run",
+        "CLINIC": {
+          "name": "Clinic",
+          "description": "Tag %s players in TNT Tag",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 100
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 500
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 1500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 4000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 7500
+            }
+          ]
+        },
+        "BLOCK_RUNNER": {
+          "name": "Block Runner",
+          "description": "Walk over %s blocks in TNT Run",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 125000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 750000
+            }
+          ]
+        },
+        "TNT_TAG_WINS": {
+          "name": "Tag! Tag! Tag!",
+          "description": "Place top 3 in %s games of TNT Tag",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
+            }
+          ]
+        },
+        "PVP_RUN_KILLER": {
+          "name": "Killer",
+          "description": "Kill %s players in PVP Run",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 150
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 350
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 750
+            }
+          ]
+        },
+        "TNT_BANKER": {
+          "name": "Banker",
+          "description": "Earn %s coins in TNT Games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5000
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 20000
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50000
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 125000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250000
+            }
+          ]
+        },
+        "THE_UPPER_HAND": {
+          "name": "The Upper Hand",
+          "description": "Collect %s powerups in TNT Tag.",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
+        "TNT_WIZARDS_CAPS": {
+          "name": "Conquistador",
+          "description": "Help capture %s points in TNT Wizards",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 75
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 150
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 300
+            }
+          ]
+        },
+        "BOW_SPLEEF_WINS": {
+          "name": "Archery",
+          "description": "Win %s games of Bow Spleef",
           "tiers": [
             {
               "tier": 1,
@@ -15874,163 +16110,39 @@
             }
           ]
         },
-        "CLINIC": {
-          "name": "Clinic",
-          "description": "Tag %s players in TNT Tag",
+        "POWER_HUNGRY": {
+          "name": "Power Hungry",
+          "description": "Collect %s power orbs in TNT Wizards.",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
-              "amount": 100
+              "amount": 5
             },
             {
               "tier": 2,
               "points": 10,
-              "amount": 500
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 1500
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 4000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 7500
-            }
-          ]
-        },
-        "BLOCK_RUNNER": {
-          "name": "Block Runner",
-          "description": "Walk over %s blocks in TNT Run",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 25000
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 125000
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 250000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 750000
-            }
-          ]
-        },
-        "TNT_TAG_WINS": {
-          "name": "Tag! Tag! Tag!",
-          "description": "Win %s games of TNT Tag",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 25
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 50
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 100
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 150
-            }
-          ]
-        },
-        "PVP_RUN_KILLER": {
-          "name": "Killer",
-          "description": "Kill %s players in PVP Run",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
               "amount": 15
             },
             {
-              "tier": 2,
-              "points": 10,
+              "tier": 3,
+              "points": 15,
               "amount": 50
             },
             {
-              "tier": 3,
-              "points": 15,
-              "amount": 150
-            },
-            {
               "tier": 4,
               "points": 20,
-              "amount": 350
+              "amount": 100
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 750
-            }
-          ]
-        },
-        "TNT_BANKER": {
-          "name": "Banker",
-          "description": "Earn %s coins in TNT Games",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 5000
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 20000
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 50000
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 125000
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 250000
+              "amount": 250
             }
           ]
         }
       },
-      "total_points": 1680,
+      "total_points": 1920,
       "total_legacy_points": 0
     },
     "truecombat": {

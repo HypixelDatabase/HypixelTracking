@@ -272,7 +272,8 @@
       "arcade_dropper_skydiver": 0,
       "arcade_dropper_flawless_faller": 0,
       "bedwars_slumber_ticket_master": 0,
-      "christmas2017_advent_2023": 0
+      "christmas2017_advent_2023": 0,
+      "tntgames_the_upper_hand": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -8296,7 +8297,8 @@
           "arrow_trail_white_smoke",
           "double_jump_chilled",
           "arrow_trail_fire",
-          "arrow_trail_angry_villager"
+          "arrow_trail_angry_villager",
+          "arrow_trail_cheese"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -8484,7 +8486,8 @@
         "leaderboardSettings": {
           "resetType": "",
           "mode": ""
-        }
+        },
+        "active_arrow_trail": ""
       },
       "UHC": {
         "coins": 0,

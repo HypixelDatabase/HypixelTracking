@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1709745195266,
+  "lastUpdated": 1709815292196,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -15091,7 +15091,9 @@
         "BEYOND_EXPECTATIONS": {
           "points": 5,
           "name": "Beyond Expectations",
-          "description": "Exceed your double jump cap in PVP Run."
+          "description": "Exceed your double jump cap in PVP Run.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PVP_RUN_FLYING": {
           "points": 10,
@@ -15219,7 +15221,9 @@
         "LEAVE_ME_ALONE": {
           "points": 15,
           "name": "Leave me alone!",
-          "description": "Tag players 50 times in a game of TNT Tag."
+          "description": "Tag players 50 times in a game of TNT Tag.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "KANGAROO": {
           "points": 10,
@@ -15301,17 +15305,23 @@
         "HOLE_IN_MY_POCKET": {
           "points": 10,
           "name": "Hole in my pocket",
-          "description": "Spend over 200,000 tokens on a single cosmetic in the TNT Games"
+          "description": "Spend over 200,000 tokens on a single cosmetic in the TNT Games",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "VARIETY_SHOW": {
           "points": 10,
           "name": "Variety Show",
-          "description": "Pick up three different powerups in a game of TNT Tag."
+          "description": "Pick up three different powerups in a game of TNT Tag.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "WRONG_GAME": {
           "points": 5,
           "name": "Wrong Game?",
-          "description": "Use the repulsor powerup on 'IT' during a game of TNT Tag."
+          "description": "Use the repulsor powerup on 'IT' during a game of TNT Tag.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PVP_RUN_HALFHEARTED": {
           "points": 10,
@@ -15343,7 +15353,9 @@
         "QUARANTINE": {
           "points": 15,
           "name": "Quarantine",
-          "description": "Win a game of TNT Tag without getting tagged in the final 1v1."
+          "description": "Win a game of TNT Tag without getting tagged in the final 1v1.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TNT_TAG_DM": {
           "points": 5,
@@ -15556,7 +15568,9 @@
         "INFINITE_JUMP_GLITCH": {
           "points": 10,
           "name": "Infinite jump glitch",
-          "description": "Gain 15 Double Jumps from killing players in a single game of PVP Run"
+          "description": "Gain 15 Double Jumps from killing players in a single game of PVP Run",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PVP_RUN_PACIFIST": {
           "points": 10,
@@ -15624,7 +15638,9 @@
         "FREE_POINTS": {
           "points": 5,
           "name": "Free Points",
-          "description": "Pick up 5 power orbs in a single game of TNT Wizards."
+          "description": "Pick up 5 power orbs in a single game of TNT Wizards.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GRAND_MASTER": {
           "points": 20,
@@ -15683,7 +15699,9 @@
         "THERE_AND_BACK_AGAIN": {
           "points": 10,
           "name": "There and back again",
-          "description": "As an Arcane Wizard, hit 3 players with a single Boomerang while using the Arcane Wizard class in TNT Wizards."
+          "description": "As an Arcane Wizard, hit 3 players with a single Boomerang while using the Arcane Wizard class in TNT Wizards.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SECOND_CHANCE": {
           "points": 5,
@@ -15695,7 +15713,9 @@
         "CANT_STOP_WONT_STOP": {
           "points": 5,
           "name": "CAN'T STOP WON'T STOP",
-          "description": "Have a player use repulsor on you while Explosive Dash is active in a game of Bow Spleef."
+          "description": "Have a player use repulsor on you while Explosive Dash is active in a game of Bow Spleef.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         }
       },
       "tiered": {

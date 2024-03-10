@@ -12532,7 +12532,9 @@
               },
               "pet_trainer": {
                 "completed_quest": true,
-                "last_call": 0
+                "last_call": 0,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "games": {

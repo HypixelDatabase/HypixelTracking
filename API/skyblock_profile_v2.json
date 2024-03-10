@@ -906,7 +906,9 @@
                   "last_mistake": 0,
                   "color_index_given": 0
                 },
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "walter": {
                 "talked_to": true,

@@ -863,7 +863,9 @@
               },
               "fairy": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "jacob": {
                 "talked_to": true,

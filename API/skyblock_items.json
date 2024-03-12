@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1707849707000,
+  "lastUpdated": 1710250028000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8409,7 +8409,8 @@
           "0x310417"
         ],
         "cycle_back": true,
-        "piece_offset": 5
+        "piece_offset": 5,
+        "tick_interval": 1
       },
       "id": "DYE_ROSE"
     },
@@ -16437,6 +16438,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThiOWUyOWFiMWE3OTVlMmI4ODdmYWYxYjFhMzEwMjVlN2NjMzA3MzMzMGFmZWMzNzUzOTNiNDVmYTMzNWQxIn19fQ==",
+      "name": "Egg Painting Station",
+      "furniture": "EGG_PAINTING_STATION",
+      "tier": "EPIC",
+      "id": "EGG_PAINTING_STATION"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg2OTI1NiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODEwZjdmZWY0YmQ0NDc3NGI0MTA2OWIwN2E3MjQ4OGY2Mjc1ZjhjY2Q4OGUyZmRhOWY5ZTI3NzUzNWE0YzcxIgogICAgfQogIH0KfQ==",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_MEMORY_FIRST",
@@ -16565,6 +16575,15 @@
       "furniture": "HALLOWEEN_SCARECROW",
       "tier": "RARE",
       "id": "HALLOWEEN_SCARECROW"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlYTU4NDQ1NTIwMmJlNTJjYzk1M2I5Zjk4ZDgxOTAyYjY3NGM2YzZkMDY4ODBhMjcxMDIzNThiNzFkNzllMSJ9fX0=",
+      "name": "Little Chick Tea Table",
+      "furniture": "CHICK_TEA_TABLE",
+      "tier": "EPIC",
+      "id": "CHICK_TEA_TABLE"
     },
     {
       "material": "SKULL_ITEM",
@@ -16763,6 +16782,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGYyYTUxNzM4NzkwNDMyOTAxNmE4ZTI1NmM0YjU1MTkyYTZjOWIxNzIwZTQ5YjVhNDQwMTkyNzZjOWMyZmJiMyJ9fX0=",
+      "name": "Little Chick Dresser",
+      "furniture": "CHICK_DRESSER",
+      "tier": "EPIC",
+      "id": "CHICK_DRESSER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTgzMTY2MSwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJkZDJmMTE1OWRmNWRlZjQ5YmVmMWJiYzIzMWMwMmM5YmYxYmJhYWMxMWUzY2U2NGUzM2Q4OGNjNmQ2YWE3ZiIKICAgIH0KICB9Cn0=",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_MEME_THIRD",
@@ -16803,6 +16831,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM0ZmI2YTg3Mzk0NDc0N2IwZTdmMTM1YmVkNjMzYzdjOTAyN2E4OGM5MGQxNzk4NDNjMGQyMGI0ZTllNzZhMCJ9fX0=",
+      "name": "Bunny Bench",
+      "furniture": "BUNNY_BENCH",
+      "tier": "EPIC",
+      "id": "BUNNY_BENCH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ5ZTYzN2U4ZTZmZjNmMmVkZGRmZjU5NTQwMmRlMzI0ZmNmNDUxYWQ1NTBmNjkwYWQxOGVkZTA1MGYyYTVmMiJ9fX0=",
       "name": "Flamingo Float",
       "furniture": "FLAMINGO",
@@ -16826,6 +16863,15 @@
       "furniture": "BEAR_BOOKSHELF",
       "tier": "EPIC",
       "id": "BEAR_BOOKSHELF"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDAwMTRjZTA3NGVhNmU3MTkyODdlNzRhNzk2MTVkNTkyOWZjNmZmNDJhYzgxYTdlMWU0NWEwMDVmNzY0MjE3OSJ9fX0=",
+      "name": "Little Chick Bed",
+      "furniture": "CHICK_BED",
+      "tier": "EPIC",
+      "id": "CHICK_BED"
     },
     {
       "material": "SKULL_ITEM",
@@ -76912,6 +76958,13 @@
       "id": "VINYL_CRICKET_CHOIR"
     },
     {
+      "material": "WATER_BUCKET",
+      "name": "Portable Washer",
+      "tier": "RARE",
+      "glowing": true,
+      "id": "PORTABLE_WASHER"
+    },
+    {
       "material": "LEAVES",
       "durability": 3,
       "name": "Plant Matter",
@@ -81794,6 +81847,13 @@
       "id": "STARRED_SHADOW_ASSASSIN_CLOAK"
     },
     {
+      "material": "PAPER",
+      "name": "Architect's First Draft",
+      "tier": "EPIC",
+      "dungeon_item": true,
+      "id": "ARCHITECT_FIRST_DRAFT"
+    },
+    {
       "material": "RED_MUSHROOM",
       "name": "Bonzo Fragment",
       "glowing": true,
@@ -82739,8 +82799,9 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "General's Medallion",
+      "description": "%%dark_gray%%%%italic%%Once worn proudly, now covered in filth and soot.",
       "category": "ACCESSORY",
-      "tier": "COMMON",
+      "tier": "RARE",
       "dungeon_item": true,
       "id": "GENERAL_MEDALLION"
     },

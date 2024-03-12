@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1709815292196,
+  "lastUpdated": 1710271892188,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6479,6 +6479,11 @@
           "description": "Catch a lily pad in the Main Lobby",
           "globalPercentUnlocked": 1
         },
+        "SPRINGY_BINGO": {
+          "points": 20,
+          "name": "Springy Bingo",
+          "description": "Complete the Hard Bingo Card during a Easter Event"
+        },
         "BW_JUMP_BOOST": {
           "points": 5,
           "name": "Jumpstart Investment",
@@ -6611,7 +6616,7 @@
           ]
         }
       },
-      "total_points": 530,
+      "total_points": 550,
       "total_legacy_points": 125
     },
     "general": {

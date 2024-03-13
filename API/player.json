@@ -2974,7 +2974,8 @@
           "projectile_trail_flame_rings",
           "projectile_trail_icicle",
           "snow_pixel_party_pants",
-          "frosted_wall"
+          "frosted_wall",
+          "victory_dance_rooted"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -8543,7 +8544,8 @@
           "2": "",
           "3": ""
         },
-        "new_firewizard_alternate_effects": ""
+        "new_firewizard_alternate_effects": "",
+        "arcane_wizard_assists": 0
       },
       "UHC": {
         "coins": 0,
@@ -18214,7 +18216,13 @@
           "killeffect_petal_gust",
           "sprays_egg_time",
           "sprays_easter_sweater",
-          "cage_easter_basket"
+          "cage_easter_basket",
+          "cage_flower_pot",
+          "sprays_sabeetage",
+          "sprays_one_of_us",
+          "sprays_buff_chicken",
+          "sprays_golem_picnic",
+          "victorydance_rooted"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -30897,7 +30905,8 @@
           "projectiletrail_rainbow",
           "projectiletrail_random",
           "projectiletrail_flame_rings",
-          "killeffect_ring_of_fire"
+          "killeffect_ring_of_fire",
+          "victory_dance_rooted"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -33070,7 +33079,13 @@
           "islandtopper_panda",
           "glyph_moon",
           "glyph_mouse",
-          "projectileTrail_portal_trail"
+          "projectileTrail_portal_trail",
+          "islandtopper_chocolate_bunny",
+          "sprays_sabeetage",
+          "sprays_buff_chicken",
+          "sprays_one_of_us",
+          "sprays_golem_picnic",
+          "victorydance_rooted"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -34835,7 +34850,13 @@
           "projectile_trail_spring_ribbons",
           "kill_note_easter_sweater",
           "kill_note_rabbits_in_basket",
-          "kill_note_egg_gunner"
+          "kill_note_egg_gunner",
+          "knife_skin_earthen_dagger",
+          "kill_note_buff_chicken",
+          "kill_note_sabeetage",
+          "kill_note_golem_picnic",
+          "kill_note_one_of_us",
+          "victory_dance_rooted"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -37160,7 +37181,8 @@
           "kill_effect_raining_eggs",
           "projectile_trail_bee",
           "emblem_whale",
-          "cosmetictitle_final_boss"
+          "cosmetictitle_final_boss",
+          "victory_dance_rooted"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -38905,7 +38927,8 @@
           "hats_forest_hat",
           "backdrops_ten_anniversary",
           "backdrops_tropical_sands",
-          "backdrops_cozy"
+          "backdrops_cozy",
+          "victory_dance_rooted"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -39862,7 +39885,8 @@
           "barrier_bubble_gum",
           "projectiletrail_flame_rings",
           "killmessages_computer",
-          "projectiletrail_icicle"
+          "projectiletrail_icicle",
+          "barrier_painted_egg"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -39984,6 +40008,13 @@
                   "fish": 0,
                   "junk": 0,
                   "treasure": 0
+                }
+              }
+            },
+            "2024": {
+              "easter": {
+                "water": {
+                  "fish": 0
                 }
               }
             },
@@ -40149,7 +40180,8 @@
           "christmas_guide_2022": true,
           "easter_guide_2023": true,
           "halloween_guide_2023": true,
-          "christmas_guide_2023": true
+          "christmas_guide_2023": true,
+          "easter_guide_2024": true
         },
         "discoveredZones": {
           "port": true,
@@ -44593,7 +44625,8 @@
         "WOOL_GAMES__builder_challenge": 0,
         "ARCADE__pixel_party_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
-        "ARCADE__dropper_challenge": 0
+        "ARCADE__dropper_challenge": 0,
+        "TNTGAMES__tnt_wizards_challenge": 0
       },
       "day_f": {
         "BEDWARS__offensive": 0,
@@ -47886,7 +47919,25 @@
         "2024": {
           "egghunt": {
             "eggs": {
-              "0": true
+              "0": true,
+              "1": true,
+              "2": true,
+              "13": true,
+              "16": true,
+              "18": true,
+              "29": true
+            }
+          },
+          "levelling": {
+            "experience": 0
+          },
+          "bingo": {
+            "easy": {
+              "objectives": {
+                "Blitzcountingdown": 0,
+                "Bedwarseatthis": 0,
+                "Bedwarssunshining": 0
+              }
             }
           }
         }

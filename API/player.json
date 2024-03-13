@@ -7810,7 +7810,8 @@
           "beam.flames",
           "beam_easter",
           "thunder",
-          "snowhat"
+          "snowhat",
+          "forestedhat"
         ],
         "sight": "",
         "trigger": "",
@@ -18222,7 +18223,8 @@
           "sprays_one_of_us",
           "sprays_buff_chicken",
           "sprays_golem_picnic",
-          "victorydance_rooted"
+          "victorydance_rooted",
+          "killeffect_bee_abduction"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -30906,7 +30908,8 @@
           "projectiletrail_random",
           "projectiletrail_flame_rings",
           "killeffect_ring_of_fire",
-          "victory_dance_rooted"
+          "victory_dance_rooted",
+          "kill_effect_bee_abduction"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -33085,7 +33088,9 @@
           "sprays_buff_chicken",
           "sprays_one_of_us",
           "sprays_golem_picnic",
-          "victorydance_rooted"
+          "victorydance_rooted",
+          "killeffect_bee_abduction",
+          "islandtopper_mister_egg"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -37182,7 +37187,8 @@
           "projectile_trail_bee",
           "emblem_whale",
           "cosmetictitle_final_boss",
-          "victory_dance_rooted"
+          "victory_dance_rooted",
+          "kill_effect_bee_abduction"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -43108,7 +43114,12 @@
         "furniture_bear_bench",
         "furniture_bear_bookshelf",
         "furniture_bear_chair",
-        "furniture_bear_side_table"
+        "furniture_bear_side_table",
+        "furniture_little_chick_bed",
+        "furniture_egg_painting_station",
+        "furniture_bunny_bench",
+        "furniture_little_chick_tea_table",
+        "furniture_little_chick_dresser"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",

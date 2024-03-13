@@ -40021,6 +40021,10 @@
               "easter": {
                 "water": {
                   "fish": 0
+                },
+                "lava": {
+                  "fish": 0,
+                  "junk": 0
                 }
               }
             },
@@ -47947,7 +47951,9 @@
               "objectives": {
                 "Blitzcountingdown": 0,
                 "Bedwarseatthis": 0,
-                "Bedwarssunshining": 0
+                "Bedwarssunshining": 0,
+                "Mainheatedfishing": 0,
+                "Arcadeperfectpartygoer": 0
               }
             }
           }

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1710271892188,
+  "lastUpdated": 1710340592210,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6221,6 +6221,12 @@
           "description": "Find an easter egg in the Main Lobby",
           "legacy": true
         },
+        "ALL_EGGS_2023": {
+          "points": 15,
+          "name": "All Eggs (2023)",
+          "description": "Find all easter eggs in the Main Lobby",
+          "legacy": true
+        },
         "ALL_EGGS_2022": {
           "points": 15,
           "name": "All Eggs (2022)",
@@ -6269,6 +6275,12 @@
           "description": "Find all easter eggs in the Main Lobby",
           "legacy": true
         },
+        "HAPPY_EASTER_2023": {
+          "points": 5,
+          "name": "Happy Easter (2023)",
+          "description": "Login on Easter Sunday 2023",
+          "legacy": true
+        },
         "HAPPY_EASTER_2019": {
           "points": 5,
           "name": "Happy Easter (2019)",
@@ -6284,6 +6296,12 @@
         "FIRST_EGG_2020": {
           "points": 5,
           "name": "The Chase Begins (2020)",
+          "description": "Find an Easter Egg in the Main Lobby",
+          "legacy": true
+        },
+        "FIRST_EGG_2023": {
+          "points": 5,
+          "name": "The Chase Begins (2023)",
           "description": "Find an Easter Egg in the Main Lobby",
           "legacy": true
         },
@@ -6311,11 +6329,10 @@
           "description": "Win a game of Blitz using the Florist Kit",
           "globalPercentUnlocked": 1
         },
-        "ALL_EGGS_2023": {
+        "ALL_EGGS_2024": {
           "points": 15,
-          "name": "All Eggs (2023)",
-          "description": "Find all easter eggs in the Main Lobby",
-          "globalPercentUnlocked": 1
+          "name": "All Eggs (2024)",
+          "description": "Find all Easter Eggs in the Main Lobby"
         },
         "ENVIRONMENT_PROTECTION": {
           "points": 5,
@@ -6359,11 +6376,10 @@
           "description": "Kill a Zombie with eggs in SkyBlock",
           "globalPercentUnlocked": 1
         },
-        "HAPPY_EASTER_2023": {
+        "HAPPY_EASTER_2024": {
           "points": 5,
-          "name": "Happy Easter (2023)",
-          "description": "Login on Easter Sunday 2023",
-          "globalPercentUnlocked": 1
+          "name": "Happy Easter (2024)",
+          "description": "Login on Easter Sunday 2024"
         },
         "ARCADE_CHICKEN_RACE": {
           "points": 5,
@@ -6508,16 +6524,15 @@
           "description": "Kill a player in Bed Wars while having Jump Boost and Invisibility potion effects.",
           "globalPercentUnlocked": 1
         },
+        "FIRST_EGG_2024": {
+          "points": 5,
+          "name": "The Chase Begins (2024)",
+          "description": "Find an Easter Egg in the Main Lobby"
+        },
         "VAMPIREZ_CARROT": {
           "points": 5,
           "name": "Modern Problems",
           "description": "Kill a vampire while holding a carrot in VampireZ",
-          "globalPercentUnlocked": 1
-        },
-        "FIRST_EGG_2023": {
-          "points": 5,
-          "name": "The Chase Begins (2023)",
-          "description": "Find an Easter Egg in the Main Lobby",
           "globalPercentUnlocked": 1
         }
       },
@@ -6617,7 +6632,7 @@
         }
       },
       "total_points": 550,
-      "total_legacy_points": 125
+      "total_legacy_points": 150
     },
     "general": {
       "one_time": {

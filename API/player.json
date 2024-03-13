@@ -36722,7 +36722,9 @@
         "trap_kills_darkfall_MURDER_CLASSIC": 0,
         "suicides_widow's_den": 0,
         "suicides_widow's_den_MURDER_DOUBLE_UP": 0,
-        "deaths_cattleridge_farm_MURDER_CLASSIC": 0
+        "deaths_cattleridge_farm_MURDER_CLASSIC": 0,
+        "trap_kills_cattleridge_farm": 0,
+        "trap_kills_cattleridge_farm_MURDER_CLASSIC": 0
       },
       "Duels": {
         "duels_recently_played": "",
@@ -47957,8 +47959,14 @@
                 "Tntwrongseason": 0,
                 "Duelsfarmerkit": 0,
                 "Paintballthreetimes": 0,
-                "Pitmmrobinhood": 0
-              }
+                "Pitmmrobinhood": 0,
+                "Murdergoldensun": 0,
+                "Bbguess": 0,
+                "Warlordshotspell": 0,
+                "Tntleafmealone": 0,
+                "Skywarsfunwithfriends": 0
+              },
+              "rewards": []
             }
           },
           "duelsWinsAchievement": 0

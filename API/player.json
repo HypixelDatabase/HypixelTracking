@@ -40026,7 +40026,9 @@
             "2024": {
               "easter": {
                 "water": {
-                  "fish": 0
+                  "fish": 0,
+                  "treasure": 0,
+                  "junk": 0
                 },
                 "lava": {
                   "fish": 0,
@@ -48000,7 +48002,8 @@
                 "Megawallsbedwarsgoodtimes": 0,
                 "Paintballyougrow": 0,
                 "Bbonfire": 0,
-                "Arcadeintermediateegghunter": 0
+                "Arcadeintermediateegghunter": 0,
+                "Maincatchtreasure": 0
               },
               "rewards": []
             },
@@ -48011,11 +48014,15 @@
                 "Bedwarspartysover": 0,
                 "Skywarsfunsun": 0,
                 "Arenaexerciserestraint": 0,
-                "Tntamayzing": 0
+                "Tntamayzing": 0,
+                "Bedwarscelebrations": 0,
+                "Mainprecooked": 0,
+                "Megawallsfinaldestination": 0
               }
             }
           },
-          "duelsWinsAchievement": 0
+          "duelsWinsAchievement": 0,
+          "bedWarsWinsAchievement": 0
         }
       },
       "anniversary": {

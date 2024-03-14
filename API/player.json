@@ -9405,7 +9405,8 @@
           "cakes_count_fix_flag",
           "killmessage_bunny",
           "smiley_snowman",
-          "smiley_snowflake"
+          "smiley_snowflake",
+          "smiley_carrot"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -33093,7 +33094,8 @@
           "sprays_golem_picnic",
           "victorydance_rooted",
           "killeffect_bee_abduction",
-          "islandtopper_mister_egg"
+          "islandtopper_mister_egg",
+          "islandtopper_nest_of_chicks"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -47945,11 +47947,35 @@
               "0": true,
               "1": true,
               "2": true,
+              "3": true,
+              "4": true,
+              "5": true,
+              "6": true,
+              "7": true,
+              "8": true,
+              "9": true,
+              "10": true,
+              "11": true,
+              "12": true,
               "13": true,
+              "14": true,
+              "15": true,
               "16": true,
+              "17": true,
               "18": true,
+              "19": true,
+              "20": true,
+              "21": true,
+              "22": true,
+              "23": true,
+              "24": true,
+              "25": true,
+              "26": true,
+              "27": true,
+              "28": true,
               "29": true
-            }
+            },
+            "reward": true
           },
           "levelling": {
             "experience": 0
@@ -48024,7 +48050,8 @@
                 "Arcadeslayinspring": 0,
                 "Wwnoenemywool": 0,
                 "Wallspursuit": 0,
-                "Paintballuntounchable": 0
+                "Paintballuntounchable": 0,
+                "Warlordscapture": 0
               }
             }
           },

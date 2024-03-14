@@ -36729,7 +36729,9 @@
         "suicides_widow's_den_MURDER_DOUBLE_UP": 0,
         "deaths_cattleridge_farm_MURDER_CLASSIC": 0,
         "trap_kills_cattleridge_farm": 0,
-        "trap_kills_cattleridge_farm_MURDER_CLASSIC": 0
+        "trap_kills_cattleridge_farm_MURDER_CLASSIC": 0,
+        "quickest_murderer_win_time_seconds_villa": 0,
+        "quickest_murderer_win_time_seconds_villa_MURDER_CLASSIC": 0
       },
       "Duels": {
         "duels_recently_played": "",
@@ -41051,7 +41053,8 @@
         "cloak_spooky_wings",
         "cloak_frozen_dragon_wings",
         "particlepack_cloud",
-        "pet_pastel_sheep"
+        "pet_pastel_sheep",
+        "cloak_feathered"
       ]
     },
     "vanityTokens": 0,
@@ -44724,7 +44727,10 @@
         "ARCADE__zombies_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
         "ARCADE__dropper_challenge": 0,
-        "SURVIVAL_GAMES__iron_man_challenge": 0
+        "SURVIVAL_GAMES__iron_man_challenge": 0,
+        "MURDER_MYSTERY__sherlock": 0,
+        "GINGERBREAD__banana_challenge": 0,
+        "GINGERBREAD__coin_challenge": 0
       }
     },
     "parkourCheckpointBests": {

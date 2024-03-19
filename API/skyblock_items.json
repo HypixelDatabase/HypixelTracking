@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1710250028000,
+  "lastUpdated": 1710869984000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -27048,7 +27048,7 @@
     {
       "material": "ENDER_PEARL",
       "name": "Silent Pearl",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "npc_sell_price": 100,
       "id": "SILENT_PEARL"
     },
@@ -33716,6 +33716,18 @@
       "npc_sell_price": 15,
       "tier": "RARE",
       "id": "MYCELIUM_DUST"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDg0ODc1MDk3NywKICAicHJvZmlsZUlkIiA6ICJmNzcxMDI1NGMzYWY0YjA5YmRjY2NiNDRjNjg1NjFiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZXJ1c1YyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyNmNhYzEwMGE4OGFhZjVlYzQyYTI5YmNmNzhiOTRhMmI1ODA0MzRlZGMxMzVhMTNkMzFlNzRmYzc4ZDg4MjUiCiAgICB9CiAgfQp9",
+      "name": "Locked Ballot Box",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "item_specific": {
+        "memorable_event_key": "community_center_refurbishment"
+      },
+      "id": "LOCKED_BALLOT_BOX"
     },
     {
       "material": "SKULL_ITEM",

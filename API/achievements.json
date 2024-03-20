@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1710505310789,
+  "lastUpdated": 1710976500197,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -16710,8 +16710,7 @@
           "points": 5,
           "name": "Crazy Hardcore",
           "description": "Win an Event Mode UHC",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "WEALTHY_CHAMPION": {
           "points": 10,
@@ -17211,8 +17210,8 @@
           ]
         }
       },
-      "total_points": 940,
-      "total_legacy_points": 0
+      "total_points": 935,
+      "total_legacy_points": 5
     },
     "vampirez": {
       "one_time": {

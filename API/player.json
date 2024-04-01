@@ -40238,7 +40238,8 @@
           "easter_guide_2023": true,
           "halloween_guide_2023": true,
           "christmas_guide_2023": true,
-          "easter_guide_2024": true
+          "easter_guide_2024": true,
+          "become_sheep": true
         },
         "discoveredZones": {
           "port": true,
@@ -40294,6 +40295,12 @@
         ],
         "leaderboardSettings": {
           "fishingType": ""
+        },
+        "becomeSheep": {
+          "eaten": {
+            "grass": 0,
+            "plants": 0
+          }
         }
       }
     },

@@ -836,7 +836,9 @@
               },
               "queen_mismyla": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "arrow_forger": {
                 "specific": {

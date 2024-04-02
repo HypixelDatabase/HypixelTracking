@@ -865,7 +865,9 @@
                 "completed_quest": true
               },
               "telekinesis_applier": {
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "fairy": {
                 "talked_to": true,

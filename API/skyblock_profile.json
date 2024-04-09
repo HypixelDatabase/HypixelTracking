@@ -6755,7 +6755,9 @@
           "UMBER_1",
           "UMBER_-1",
           "TUNGSTEN_-1",
-          "TUNGSTEN_1"
+          "TUNGSTEN_1",
+          "GLACITE_3",
+          "UMBER_2"
         ],
         "fishing_bag": {
           "type": 0,
@@ -7477,7 +7479,11 @@
           "FINE_AQUAMARINE_GEM": 0,
           "FINE_ONYX_GEM": 0,
           "FLAWED_CITRINE_GEM": 0,
-          "ROUGH_CITRINE_GEM": 0
+          "ROUGH_CITRINE_GEM": 0,
+          "FLAWED_AQUAMARINE_GEM": 0,
+          "ROUGH_AQUAMARINE_GEM": 0,
+          "FLAWED_ONYX_GEM": 0,
+          "ENCHANTED_UMBER": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {
@@ -13101,7 +13107,8 @@
             "master_crypt_undead_hypixel": 0,
             "master_crypt_tank_zombie": 0,
             "vampire_scion": 0,
-            "professor_archer_guardian": 0
+            "professor_archer_guardian": 0,
+            "freeze": 0
           },
           "rift": {
             "odonata_repeatable_completed": 0

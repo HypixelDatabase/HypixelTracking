@@ -7665,7 +7665,8 @@
             "team_treasurite_wendy": 0,
             "zealot_bruiser": 0,
             "master_scared_skeleton": 0,
-            "master_crypt_undead_agentk": 0
+            "master_crypt_undead_agentk": 0,
+            "freeze": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -9677,7 +9678,9 @@
             "UMBER_1",
             "UMBER_-1",
             "TUNGSTEN_-1",
-            "TUNGSTEN_1"
+            "TUNGSTEN_1",
+            "GLACITE_3",
+            "UMBER_2"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -10589,7 +10592,11 @@
             "FINE_AQUAMARINE_GEM": 0,
             "FINE_ONYX_GEM": 0,
             "FLAWED_CITRINE_GEM": 0,
-            "ROUGH_CITRINE_GEM": 0
+            "ROUGH_CITRINE_GEM": 0,
+            "FLAWED_AQUAMARINE_GEM": 0,
+            "ROUGH_AQUAMARINE_GEM": 0,
+            "FLAWED_ONYX_GEM": 0,
+            "ENCHANTED_UMBER": 0
           },
           "backpack_contents": {
             "0": {

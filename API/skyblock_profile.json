@@ -6762,7 +6762,8 @@
           "TUNGSTEN_2",
           "UMBER_5",
           "TUNGSTEN_3",
-          "UMBER_4"
+          "UMBER_4",
+          "TUNGSTEN_4"
         ],
         "fishing_bag": {
           "type": 0,
@@ -8619,7 +8620,9 @@
             "toggle_front_loaded": true,
             "star_powder": 0,
             "toggle_lonesome_miner": true,
-            "toggle_professional": true
+            "toggle_professional": true,
+            "no_stone_unturned": 0,
+            "warm_hearted": 0
           },
           "received_free_tier": true,
           "crystals": {
@@ -8698,7 +8701,8 @@
           "daily_ores_mined_day_glacite": 0,
           "daily_ores_mined_glacite": 0,
           "powder_glacite": 0,
-          "powder_glacite_total": 0
+          "powder_glacite_total": 0,
+          "powder_spent_glacite": 0
         },
         "forge": {
           "forge_processes": {

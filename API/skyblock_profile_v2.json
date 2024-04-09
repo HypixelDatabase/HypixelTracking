@@ -1169,7 +1169,9 @@
             "toggle_daily_effect": true,
             "pickaxe_toss": 0,
             "experience_orbs": 0,
-            "front_loaded": 0
+            "front_loaded": 0,
+            "no_stone_unturned": 0,
+            "warm_hearted": 0
           },
           "received_free_tier": true,
           "tokens": 0,
@@ -1247,7 +1249,8 @@
           "daily_ores_mined_day_glacite": 0,
           "daily_ores_mined_glacite": 0,
           "powder_glacite": 0,
-          "powder_glacite_total": 0
+          "powder_glacite_total": 0,
+          "powder_spent_glacite": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -9687,7 +9690,8 @@
             "TUNGSTEN_2",
             "UMBER_5",
             "TUNGSTEN_3",
-            "UMBER_4"
+            "UMBER_4",
+            "TUNGSTEN_4"
           ],
           "visited_zones": [
             "dynamic_portal_island",

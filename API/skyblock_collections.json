@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1710364592234,
-  "version": "0.19.367",
+  "lastUpdated": 1712671714812,
+  "version": "0.20.0.1",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1663,6 +1663,84 @@
             }
           ]
         },
+        "UMBER": {
+          "name": "Umber",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Umber Dice (COMING SOON)",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 2500,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Umber Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Excavator Potion (COMING SOON)",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Refined Umber Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 250000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 500000,
+              "unlocks": [
+                "Umber Key Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 750000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Umber Plate Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
         "COAL": {
           "name": "Coal",
           "maxTiers": 10,
@@ -1720,7 +1798,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Block of Coal Recipe",
+                "Enchanted Coal Block Recipe",
                 "Medium Mining Sack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2197,6 +2275,10 @@
                 "✧ Flawed Topaz Gemstone Recipe",
                 "❁ Flawed Jasper Gemstone Recipe",
                 "❂ Flawed Opal Gemstone Recipe",
+                "☠ Flawed Onyx Gemstone Recipe",
+                "☘ Flawed Citrine Gemstone Recipe",
+                "α Flawed Aquamarine Gemstone Recipe",
+                "☘ Flawed Peridot Gemstone Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2228,6 +2310,10 @@
                 "✧ Fine Topaz Gemstone Recipe",
                 "❁ Fine Jasper Gemstone Recipe",
                 "❂ Fine Opal Gemstone Recipe",
+                "☠ Fine Onyx Gemstone Recipe",
+                "☘ Fine Citrine Gemstone Recipe",
+                "α Fine Aquamarine Gemstone Recipe",
+                "☘ Fine Peridot Gemstone Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2273,6 +2359,10 @@
                 "✧ Flawless Topaz Gemstone Recipe",
                 "❁ Flawless Jasper Gemstone Recipe",
                 "❂ Flawless Opal Gemstone Recipe",
+                "☠ Flawless Onyx Gemstone Recipe",
+                "☘ Flawless Citrine Gemstone Recipe",
+                "α Flawless Aquamarine Gemstone Recipe",
+                "☘ Flawless Peridot Gemstone Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2289,6 +2379,10 @@
                 "✧ Perfect Topaz Gemstone Dwarven Forge Recipe",
                 "❁ Perfect Jasper Gemstone Dwarven Forge Recipe",
                 "❂ Perfect Opal Gemstone Dwarven Forge Recipe",
+                "☠ Perfect Onyx Gemstone Dwarven Forge Recipe",
+                "☘ Perfect Citrine Gemstone Dwarven Forge Recipe",
+                "α Perfect Aquamarine Gemstone Dwarven Forge Recipe",
+                "☘ Perfect Peridot Gemstone Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2297,6 +2391,84 @@
               "amountRequired": 2000000,
               "unlocks": [
                 "Gemstone Gauntlet Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "TUNGSTEN": {
+          "name": "Tungsten",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Chisel Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 2500,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Tungsten Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Enchanted Book (Metallurgy I) (COMING SOON)",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Refined Tungsten Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 250000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 500000,
+              "unlocks": [
+                "Tungsten Key Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 750000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Tungsten Plate Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -3177,6 +3349,85 @@
               "amountRequired": 500000,
               "unlocks": [
                 "Glacial Scythe Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "GLACITE": {
+          "name": "Glacite",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Chilled Torch (COMING SOON)",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 2500,
+              "unlocks": [
+                "+25,000 Mining Experience",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Enchanted Glacite Recipe",
+                "Cold Resistance Potion Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 25000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Glacite Amalgamation Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 250000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 500000,
+              "unlocks": [
+                "Frigid Husk Dwarven Forge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 750000,
+              "unlocks": [
+                "+1☘ Mining Fortune",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 1000000,
+              "unlocks": [
+                "Glacite Golem Pet (COMING SOON)",
                 "+4 SkyBlock XP"
               ]
             }

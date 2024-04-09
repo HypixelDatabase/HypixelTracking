@@ -4455,6 +4455,26 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_dulin_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_ticket_master_railroad_pass": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "go_to_base_camp": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "obtain_railroad_pass": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "tutorial": [
@@ -5836,7 +5856,9 @@
           "rift_castle_fairy_tower",
           "rift_castle_jail",
           "weaponsmith",
-          "pet_care"
+          "pet_care",
+          "glacite_tunnels",
+          "dwarven_base_camp"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -6724,7 +6746,12 @@
           "HEMOVIBE_8",
           "HEMOVIBE_9",
           "CLAY_BALL_6",
-          "PRISMARINE_SHARD_7"
+          "PRISMARINE_SHARD_7",
+          "GLACITE_-1",
+          "GLACITE_1",
+          "GLACITE_2",
+          "UMBER_1",
+          "UMBER_-1"
         ],
         "fishing_bag": {
           "type": 0,
@@ -6871,7 +6898,10 @@
           "AGARICUS_CAP": 0,
           "HALF_EATEN_CARROT": 0,
           "METAL_HEART": 0,
-          "HEMOVIBE": 0
+          "HEMOVIBE": 0,
+          "GLACITE": 0,
+          "UMBER": 0,
+          "TUNGSTEN": 0
         },
         "quiver": {
           "type": 0,
@@ -7430,7 +7460,16 @@
           "BIOFUEL": 0,
           "AGARIMOO_TONGUE": 0,
           "REFINED_MINERAL": 0,
-          "WINTER_FRAGMENT": 0
+          "WINTER_FRAGMENT": 0,
+          "ENCHANTED_GLACITE": 0,
+          "GLACITE": 0,
+          "UMBER": 0,
+          "ENCHANTED_TUNGSTEN": 0,
+          "TUNGSTEN": 0,
+          "FINE_CITRINE_GEM": 0,
+          "FINE_PERIDOT_GEM": 0,
+          "FLAWED_PERIDOT_GEM": 0,
+          "ROUGH_PERIDOT_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {
@@ -8633,7 +8672,11 @@
           "daily_ores_mined_gemstone": 0,
           "powder_spent_gemstone": 0,
           "current_daily_effect": "",
-          "current_daily_effect_last_changed": 0
+          "current_daily_effect_last_changed": 0,
+          "daily_ores_mined_day_glacite": 0,
+          "daily_ores_mined_glacite": 0,
+          "powder_glacite": 0,
+          "powder_glacite_total": 0
         },
         "forge": {
           "forge_processes": {
@@ -11455,7 +11498,9 @@
             "blazing_golem_200": 0,
             "last_killed_mob": "",
             "magma_follower_100": 0,
-            "blazing_golem_100": 0
+            "blazing_golem_100": 0,
+            "glacite_mage_155": 0,
+            "glacite_mutt_180": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,
@@ -13014,7 +13059,9 @@
             "blazing_golem_100": 0,
             "chaosmite_100": 0,
             "master_watcher_summon_undead_2": 0,
-            "master_cellar_spider_95": 0
+            "master_cellar_spider_95": 0,
+            "glacite_mage": 0,
+            "glacite_mutt_180": 0
           },
           "deaths": {
             "sea_witch": 0,

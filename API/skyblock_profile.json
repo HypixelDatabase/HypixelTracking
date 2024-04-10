@@ -6766,7 +6766,8 @@
           "TUNGSTEN_4",
           "GLACITE_5",
           "GLACITE_6",
-          "TUNGSTEN_5"
+          "TUNGSTEN_5",
+          "UMBER_3"
         ],
         "fishing_bag": {
           "type": 0,
@@ -7497,7 +7498,9 @@
           "FLAWLESS_ONYX_GEM": 0,
           "PERFECT_ONYX_GEM": 0,
           "FLAWLESS_PERIDOT_GEM": 0,
-          "PERFECT_PERIDOT_GEM": 0
+          "PERFECT_PERIDOT_GEM": 0,
+          "FLAWLESS_AQUAMARINE_GEM": 0,
+          "PERFECT_AQUAMARINE_GEM": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {
@@ -8630,7 +8633,10 @@
             "warm_hearted": 0,
             "surveyor": 0,
             "daily_grind": 0,
-            "strong_arm": 0
+            "strong_arm": 0,
+            "frozen_solid": 0,
+            "gifts_from_the_departed": 0,
+            "hungry_for_more": 0
           },
           "received_free_tier": true,
           "crystals": {

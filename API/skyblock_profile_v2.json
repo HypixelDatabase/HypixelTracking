@@ -3433,7 +3433,10 @@
                 "startTime": 0,
                 "slot": 0,
                 "notified": true,
-                "oldItem": ""
+                "oldItem": {
+                  "type": 0,
+                  "data": ""
+                }
               },
               "3": {
                 "type": "",

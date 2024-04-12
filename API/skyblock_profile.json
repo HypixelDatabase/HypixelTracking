@@ -6776,7 +6776,9 @@
           "TUNGSTEN_8",
           "UMBER_8",
           "TUNGSTEN_7",
-          "GLACITE_9"
+          "GLACITE_9",
+          "UMBER_9",
+          "TUNGSTEN_9"
         ],
         "fishing_bag": {
           "type": 0,
@@ -8649,7 +8651,8 @@
             "subzero_mining": 0,
             "mineshaft_mayhem": 0,
             "excavator": 0,
-            "toggle_mining_fortune": true
+            "toggle_mining_fortune": true,
+            "dust_collector": 0
           },
           "received_free_tier": true,
           "crystals": {

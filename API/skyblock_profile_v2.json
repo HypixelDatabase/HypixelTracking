@@ -1182,7 +1182,8 @@
             "mineshaft_mayhem": 0,
             "toggle_mining_speed": true,
             "excavator": 0,
-            "toggle_mining_fortune": true
+            "toggle_mining_fortune": true,
+            "dust_collector": 0
           },
           "received_free_tier": true,
           "tokens": 0,
@@ -9718,7 +9719,9 @@
             "TUNGSTEN_8",
             "UMBER_8",
             "TUNGSTEN_7",
-            "GLACITE_9"
+            "GLACITE_9",
+            "UMBER_9",
+            "TUNGSTEN_9"
           ],
           "visited_zones": [
             "dynamic_portal_island",

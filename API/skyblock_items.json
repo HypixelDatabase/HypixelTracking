@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1712668795000,
+  "lastUpdated": 1713964166000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -14039,6 +14039,22 @@
           "level": 25
         }
       ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AQUAMARINE",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AQUAMARINE_GEM",
+              "amount": 40
+            },
+            {
+              "type": "COINS",
+              "coins": 100000
+            }
+          ]
+        }
+      ],
       "id": "AUGER_ROD"
     },
     {
@@ -14748,6 +14764,121 @@
       "tier": "MYTHIC",
       "unstackable": true,
       "id": "FULL_CENTURY_CAKE_PACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ2NTczMiwKICAicHJvZmlsZUlkIiA6ICIzMTdkODc2MjZjYWM0Mjk0ODBiOTI4NGE4Y2ZjMWRlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWFtb1IzMjAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYxOWNlZWFiZjJlY2IwMjA2MTBiOGFhYmM5Mjk5MjY0ZmE2NzAwNDhjMDEwYzk2OTljZTY4N2ZjOWJmMzUxZSIKICAgIH0KICB9Cn0",
+      "name": "Prestige Chocolate Realm",
+      "category": "ACCESSORY",
+      "tier": "LEGENDARY",
+      "description": "%%dark_gray%%%%italic%%The Factory's pinnacle creation - its epic taste shatters expectations, offering a taste of utopia.",
+      "id": "PRESTIGE_CHOCOLATE_REALM"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUxMDg3MSwKICAicHJvZmlsZUlkIiA6ICJkNWMyZjNmZWY2NjM0ZDk4OGFmMmJjMDkwNGEzMzAzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCTU1HQSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Zjk0MjcxNzM2NGMwZmVjZjdhZDExYmFjOGNkOThkZDdhZDRkYmQ3MmUzZDNjZTJiNTdlYjQ4NzEzODI0ZmYiCiAgICB9CiAgfQp9",
+      "name": "Rich Chocolate Chunk",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "description": "%%dark_gray%%%%italic%%From the Factory's secret reserves, its rich flavor is a deep dive into indulgence.",
+      "id": "RICH_CHOCOLATE_CHUNK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjU0NzI5MCwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODgxODhkNjI5MDhhZjZlMTE0ZjczYTEwOWUxNWFjN2YxZmFkZWQzOWFiZDZhMjA1NDAzNGVjNWNjNzBjNzI3IgogICAgfQogIH0KfQ",
+      "name": "Nibble Chocolate Stick",
+      "category": "ACCESSORY",
+      "tier": "COMMON",
+      "description": "%%dark_gray%%%%italic%%A delightful treat from the Factory. Its crisp taste sparks joy with every bite.",
+      "id": "NIBBLE_CHOCOLATE_STICK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ4OTQxNywKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODk1MTIzMzFlZGZkYzI3Y2I3ZDRlODBmM2UwZGI0NjBkMDVjYWY2NmM3YzFjNDJlMGU3MTIxMzBhOWI2OTAiCiAgICB9CiAgfQp9",
+      "name": "Ganache Chocolate Slab",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "description": "%%dark_gray%%%%italic%%A Factory masterpiece - its divine taste transcends reality, offering a heavenly escape.",
+      "id": "GANACHE_CHOCOLATE_SLAB"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUyOTM4NywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTkzNzJlZmQyY2ExYTZjNmRmYzA2NmYxZWM4M2Y5NDU2NTc1YzM4NTBhMGU3ZDAxMTA5YzRmMWFmMzAwYmE4IgogICAgfQogIH0KfQ",
+      "name": "Smooth Chocolate Bar",
+      "category": "ACCESSORY",
+      "tier": "UNCOMMON",
+      "description": "%%dark_gray%%%%italic%%Crafted in the Factory, its smoothness melts hearts and tastes like a sweet escape.",
+      "id": "SMOOTH_CHOCOLATE_BAR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjYyODM2MCwKICAicHJvZmlsZUlkIiA6ICI5YzM1ZGU3MjdmMzU0ZTVlYjFiOWRhOGViYTZhYzM1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb21teXR3ZXJrZXVzZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZGNiNjdhNzJjMDFmM2NhNzVkYTg0NmY5NTdmZmVkNjQxN2YwYzQ1YWQ4MTRmYjNlMzQwYzMxN2NmMzE2NzE4IgogICAgfQogIH0KfQ",
+      "name": "Chocolate Syringe",
+      "tier": "LEGENDARY",
+      "id": "PET_ITEM_CHOCOLATE_SYRINGE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjAyNDY1Mzc0MSwKICAicHJvZmlsZUlkIiA6ICI0MDNlYmEzYjhkODg0MDVlYjhjMDlkNTQ4NmFjYzdiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0ZXh0dHYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFmNzIyNmE5Mjc1NThkMDY5YTZhZTM0M2I0ZTA4OWZiZDYwZmM2MDM3MTkwMDk3Yzc3MTMyMDhlOTg4ZmFhZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Zorro's Cape",
+      "category": "CLOAK",
+      "tier": "LEGENDARY",
+      "stats": {
+        "farming_fortune": 10,
+        "farming_wisdom": 1,
+        "strength": 10,
+        "ferocity": 2
+      },
+      "description": "%%dark_gray%%%%italic%%Not all Rabbits wear capes.",
+      "requirements": [
+        {
+          "type": "EASTER_RABBIT",
+          "rabbit": "ZORRO"
+        }
+      ],
+      "id": "ZORROS_CAPE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTk3OTUyOTAwNywKICAicHJvZmlsZUlkIiA6ICJlZjVjZjkzYWFhMTY0ZTMyODQ4NDYxYjIzNGQ1YWJhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU0YjdmM2YyYTZmMGQxYzJjMDU0Njc4MTI4ZWMyMzIyNjE5YWVmZmYwZjQ1MGMzOTBkNmE0MWI1OTUwMzAyZSIKICAgIH0KICB9Cn0",
+      "name": "Supreme Chocolate Bar",
+      "tier": "UNCOMMON",
+      "npc_sell_price": 3,
+      "id": "SUPREME_CHOCOLATE_BAR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjU4ODQwNSwKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmOTkxMjE1ZTI1OGQ2NWY3N2VlZGViNjkzNTZmNTUyMWJiMjRjYjlkZDQ3NzY1ZTM4ZjUyYTg5MmQ3OTg5YWQiCiAgICB9CiAgfQp9",
+      "name": "Refined Dark Cacao Truffle",
+      "tier": "LEGENDARY",
+      "id": "REFINED_DARK_CACAO_TRUFFLE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTk3OTUwOTk3OCwKICAicHJvZmlsZUlkIiA6ICJiYWRkZjIxZTFmNWE0ZGYzOGVjZmNkOTYwY2E0YzA5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmRlckJUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0YTdmZjlhMTBmZGFlMTQ0NDY0OTllZjNiYzFkZjEzYjc4ODhkNmNkMmUzMTFjY2FiNTFiODM1MmM2MDkzYjQiCiAgICB9CiAgfQp9",
+      "name": "Egglocator",
+      "tier": "COMMON",
+      "unstackable": true,
+      "id": "EGGLOCATOR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjYxMDEwNCwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI5ZGIzNzNjYWRiZWMxOTEyYTlhYjM4NmQzMWNlYjNlMGNkNGQ2YTY0ZjIyMjQyNjU4OGEzYjJlYjMxZWQyOSIKICAgIH0KICB9Cn0",
+      "name": "Dark Cacao Truffle",
+      "tier": "RARE",
+      "has_uuid": true,
+      "id": "DARK_CACAO_TRUFFLE"
     },
     {
       "material": "PACKED_ICE",
@@ -18244,7 +18375,7 @@
       "item_specific": {
         "portal": {
           "holo_name": "Crystal Hollows",
-          "description_name": "%%gray%%the %%aqua%%Crystal Hollows",
+          "description_name": "%%gray%%the %%dark_purple%%Crystal Hollows",
           "destination_mode": "crystal_hollows",
           "schematic_file": "sb_portal_crystal_hollows",
           "offset": "NEW",
@@ -26464,6 +26595,7 @@
       "glowing": true,
       "tier": "LEGENDARY",
       "museum": true,
+      "npc_sell_price": 10000,
       "id": "HELIX"
     },
     {
@@ -47368,7 +47500,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjY3ODAzMiwKICAicHJvZmlsZUlkIiA6ICI1ZjE4ZmY4NTEyZGQ0NmQ1OGY1MjJlYjg2MDg2ZjU5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWtlb3MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlZjcyMmRhMDVhZThiZDgxMzI5MDVhMTFiNWI2ZGZiZjhlN2FlMGFmNTk5YzgyNjZlMTYwZmIwNWU2MTU5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Amber-polished Drill Engine",
+      "name": "Amber-Polished Drill Engine",
       "tier": "RARE",
       "npc_sell_price": 103000,
       "requirements": [
@@ -55086,6 +55218,22 @@
         "fishing_speed": 20
       },
       "museum": true,
+      "gemstone_slots": [
+        {
+          "slot_type": "AQUAMARINE",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AQUAMARINE_GEM",
+              "amount": 40
+            },
+            {
+              "type": "COINS",
+              "coins": 100000
+            }
+          ]
+        }
+      ],
       "id": "GIANT_FISHING_ROD"
     },
     {
@@ -58782,7 +58930,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjYwMzk4MiwKICAicHJvZmlsZUlkIiA6ICI2MWUwNmYxMjFjNTk0ZDdiYjY5MmQ0ZDg1MDljNDdmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHpfU2NhcmxldHQ3MDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODYzZWZhNmMxM2ExODBlYWE3MWNmMGM2NGE2MjM1MGM0MmIyNDA5M2U5OTU3NDkyYjI0NDk1NzgyNjgyNTZhYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Sapphire-polished Drill Engine",
+      "name": "Sapphire-Polished Drill Engine",
       "tier": "RARE",
       "npc_sell_price": 103000,
       "requirements": [
@@ -71607,7 +71755,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjY0NDU1MywKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdmMGI5YzQ1YmJhZTExYjAwZTQzMjNhZjAxMTljMjc4ODNkMzY5MGU4YzQ4YjQ5Y2YyOWIyNDY5ODExNzllMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Ruby-polished Drill Engine",
+      "name": "Ruby-Polished Drill Engine",
       "tier": "RARE",
       "npc_sell_price": 103000,
       "requirements": [
@@ -74583,7 +74731,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI1OTIzMWE5NDY5ODdlYTUzMTQxNzg5YTA5NDk2ZjA5OGQ2ZWNhYzQxMmEwMWUwYTI0YzkwNmE5OWZkYmQ5YSJ9fX0=",
-      "name": "Exceedingly Rare Ender Artifact Upgrader",
+      "name": "Exceedingly Rare Ender Artifact Upgrade",
       "tier": "LEGENDARY",
       "id": "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER"
     },
@@ -77770,6 +77918,7 @@
       "name": "Ugly Fossil",
       "description": "The ugliest fossil to ever exist. It has a face only a mother could love.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 50000,
       "id": "UGLY_FOSSIL"
     },
     {
@@ -77779,6 +77928,7 @@
       "name": "Spine Fossil",
       "description": "A well-preserved set of neural spines. Whatever possessed these was an adept swimmer.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 50000,
       "id": "SPINE_FOSSIL"
     },
     {
@@ -77788,6 +77938,7 @@
       "name": "Clubbed Fossil",
       "description": "A tail ending in a thick club that was used to fend off predators.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 50000,
       "id": "CLUBBED_FOSSIL"
     },
     {
@@ -77797,6 +77948,7 @@
       "name": "Tusk Fossil",
       "description": "A great and powerful tusk belonging to a now-extinct creature.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 50000,
       "id": "TUSK_FOSSIL"
     },
     {
@@ -77806,6 +77958,7 @@
       "name": "Footprint Fossil",
       "description": "The daunting footprint of what was once a colossal and bloodthirsty predator.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 50000,
       "id": "FOOTPRINT_FOSSIL"
     },
     {
@@ -77815,6 +77968,7 @@
       "name": "Claw Fossil",
       "description": "A small but sharp claw once used for digging tunnels.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 10000,
       "id": "CLAW_FOSSIL"
     },
     {
@@ -77824,6 +77978,7 @@
       "name": "Webbed Fossil",
       "description": "The webbed foot of a small, agile creature which was a strong swimmer.",
       "tier": "LEGENDARY",
+      "npc_sell_price": 50000,
       "id": "WEBBED_FOSSIL"
     },
     {
@@ -77856,7 +78011,6 @@
       "name": "Skeleton Key",
       "tier": "LEGENDARY",
       "npc_sell_price": 10000,
-      "description": "Can be used to open any backpack held by %%aqua%%Frozen Corpses %%gray%%in the %%aqua%%Glacite Mineshafts%%gray%%.\n\n%%dark_gray%%Forged by the finest Dwarven Blacksmith around. The name would come to be quite ironic.",
       "can_place": false,
       "id": "SKELETON_KEY"
     },
@@ -77865,7 +78019,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTI0MjcyMDI4OSwKICAicHJvZmlsZUlkIiA6ICJlZjVjZjkzYWFhMTY0ZTMyODQ4NDYxYjIzNGQ1YWJhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE4NWEzZGRhZGUyY2RhZGY0MDRjOTE0NTczMzE3NjRmYWRjOTIwYTIxNDIxOTdmOTk1OTEwNjg2ZThiZDY4OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "Shattered Locket",
-      "description": "A dainty piece of jewelry covered in a thick coat of %%aqua%%Glacite%%gray%%. The frosty layer obscures the details of the photograph nestled within.",
+      "description": "A dainty piece of jewelry covered in a thick coat of glacite. The frosty layer obscures the details of the photograph nestled within.",
       "tier": "LEGENDARY",
       "id": "SHATTERED_PENDANT"
     },
@@ -77873,7 +78027,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTIyNjgwNSwKICAicHJvZmlsZUlkIiA6ICI0MWZlYzZlMWQzNWM0ZDIyOWYxOGQ3OGRkZjk3ZGQzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWJva2luZ190dyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMGNkYjY2YjUxNzliMmFmNjBiN2NmMDQ1Y2Q0MDNjOWEzMDRhNGIxOGFhMWE1ZWFhMmQ4YzQ3ODIxNDkyOTRmIgogICAgfQogIH0KfQ==",
-      "name": "Tungsten Keychain",
+      "name": "Tungsten Regulator",
       "tier": "RARE",
       "requirements": [
         {
@@ -78003,7 +78157,7 @@
       "npc_sell_price": 2500,
       "stats": {
         "MINING_SPEED": 15,
-        "MINING_FORTUNE": 6,
+        "MINING_FORTUNE": 15,
         "COLD_RESISTANCE": 5
       },
       "requirements": [
@@ -78104,7 +78258,7 @@
     },
     {
       "material": "ARMOR_STAND",
-      "name": "Glacite Chisel",
+      "name": "Glacite-Plated Chisel",
       "tier": "EPIC",
       "category": "CHISEL",
       "unstackable": true,
@@ -82088,7 +82242,7 @@
       "tier": "RARE",
       "origin": "RIFT",
       "motes_sell_price": 5,
-      "description": "It snakes around your blocky hand as your hold it.",
+      "description": "It snakes around your blocky hand as you hold it.",
       "id": "LIVING_METAL"
     },
     {
@@ -97689,11 +97843,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 13,
-        "DEFENSE": 164,
-        "HEALTH": 580,
-        "STRENGTH": 38,
-        "CRITICAL_DAMAGE": 25,
-        "INTELLIGENCE": 214
+        "DEFENSE": 171,
+        "HEALTH": 610,
+        "INTELLIGENCE": 214,
+        "mending": 12
       },
       "requirements": [
         {
@@ -97921,11 +98074,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 13,
-        "DEFENSE": 101,
-        "HEALTH": 328,
-        "STRENGTH": 38,
-        "CRITICAL_DAMAGE": 25,
-        "INTELLIGENCE": 214
+        "DEFENSE": 110,
+        "HEALTH": 366,
+        "INTELLIGENCE": 214,
+        "mending": 12
       },
       "requirements": [
         {
@@ -98153,11 +98305,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 13,
-        "DEFENSE": 139,
-        "HEALTH": 517,
-        "STRENGTH": 38,
-        "CRITICAL_DAMAGE": 25,
-        "INTELLIGENCE": 214
+        "DEFENSE": 146,
+        "HEALTH": 549,
+        "INTELLIGENCE": 214,
+        "mending": 12
       },
       "requirements": [
         {
@@ -98386,11 +98537,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 13,
-        "DEFENSE": 126,
-        "HEALTH": 403,
-        "STRENGTH": 38,
-        "CRITICAL_DAMAGE": 25,
-        "INTELLIGENCE": 328
+        "DEFENSE": 134,
+        "HEALTH": 427,
+        "INTELLIGENCE": 328,
+        "mending": 12
       },
       "requirements": [
         {
@@ -98641,11 +98791,10 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 5,
-        "DEFENSE": 55,
-        "HEALTH": 205,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 85
+        "DEFENSE": 60,
+        "HEALTH": 225,
+        "INTELLIGENCE": 85,
+        "mending": 5
       },
       "requirements": [
         {
@@ -98827,11 +98976,10 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 5,
-        "DEFENSE": 65,
-        "HEALTH": 230,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 85
+        "DEFENSE": 70,
+        "HEALTH": 250,
+        "INTELLIGENCE": 85,
+        "mending": 5
       },
       "requirements": [
         {
@@ -99013,11 +99161,10 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 5,
-        "DEFENSE": 40,
-        "HEALTH": 130,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 85
+        "DEFENSE": 45,
+        "HEALTH": 150,
+        "INTELLIGENCE": 85,
+        "mending": 5
       },
       "requirements": [
         {
@@ -99200,11 +99347,10 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 5,
-        "DEFENSE": 50,
-        "HEALTH": 160,
-        "STRENGTH": 15,
-        "CRITICAL_DAMAGE": 10,
-        "INTELLIGENCE": 130
+        "DEFENSE": 55,
+        "HEALTH": 175,
+        "INTELLIGENCE": 130,
+        "mending": 5
       },
       "requirements": [
         {
@@ -99388,11 +99534,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 8,
-        "DEFENSE": 79,
-        "HEALTH": 254,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 206
+        "DEFENSE": 86,
+        "HEALTH": 273,
+        "INTELLIGENCE": 206,
+        "mending": 8
       },
       "requirements": [
         {
@@ -99575,11 +99720,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 8,
-        "DEFENSE": 103,
-        "HEALTH": 365,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 135
+        "DEFENSE": 109,
+        "HEALTH": 391,
+        "INTELLIGENCE": 135,
+        "mending": 8
       },
       "requirements": [
         {
@@ -99762,11 +99906,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 8,
-        "DEFENSE": 64,
-        "HEALTH": 206,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 135
+        "DEFENSE": 70,
+        "HEALTH": 234,
+        "INTELLIGENCE": 135,
+        "mending": 8
       },
       "requirements": [
         {
@@ -99949,11 +100092,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 8,
-        "DEFENSE": 87,
-        "HEALTH": 325,
-        "STRENGTH": 24,
-        "CRITICAL_DAMAGE": 16,
-        "INTELLIGENCE": 135
+        "DEFENSE": 94,
+        "HEALTH": 352,
+        "INTELLIGENCE": 135,
+        "mending": 8
       },
       "requirements": [
         {
@@ -100136,11 +100278,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 6,
-        "DEFENSE": 82,
-        "HEALTH": 290,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 107
+        "DEFENSE": 88,
+        "HEALTH": 313,
+        "INTELLIGENCE": 107,
+        "mending": 6
       },
       "requirements": [
         {
@@ -100323,11 +100464,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 6,
-        "DEFENSE": 50,
-        "HEALTH": 164,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 107
+        "DEFENSE": 56,
+        "HEALTH": 188,
+        "INTELLIGENCE": 107,
+        "mending": 6
       },
       "requirements": [
         {
@@ -100510,11 +100650,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 6,
-        "DEFENSE": 69,
-        "HEALTH": 258,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 107
+        "DEFENSE": 75,
+        "HEALTH": 281,
+        "INTELLIGENCE": 107,
+        "mending": 6
       },
       "requirements": [
         {
@@ -100698,11 +100837,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 6,
-        "DEFENSE": 63,
-        "HEALTH": 202,
-        "STRENGTH": 19,
-        "CRITICAL_DAMAGE": 13,
-        "INTELLIGENCE": 164
+        "DEFENSE": 69,
+        "HEALTH": 219,
+        "INTELLIGENCE": 164,
+        "mending": 6
       },
       "requirements": [
         {
@@ -100885,11 +101023,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 10,
-        "DEFENSE": 130,
-        "HEALTH": 460,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 170
+        "DEFENSE": 137,
+        "HEALTH": 488,
+        "INTELLIGENCE": 170,
+        "mending": 10
       },
       "requirements": [
         {
@@ -101072,11 +101209,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 10,
-        "DEFENSE": 110,
-        "HEALTH": 410,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 170
+        "DEFENSE": 117,
+        "HEALTH": 439,
+        "INTELLIGENCE": 170,
+        "mending": 10
       },
       "requirements": [
         {
@@ -101260,11 +101396,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 10,
-        "DEFENSE": 100,
-        "HEALTH": 320,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 260
+        "DEFENSE": 107,
+        "HEALTH": 342,
+        "INTELLIGENCE": 260,
+        "mending": 10
       },
       "requirements": [
         {
@@ -101447,11 +101582,10 @@
       "soulbound": "COOP",
       "stats": {
         "WALK_SPEED": 10,
-        "DEFENSE": 80,
-        "HEALTH": 260,
-        "STRENGTH": 30,
-        "CRITICAL_DAMAGE": 20,
-        "INTELLIGENCE": 170
+        "DEFENSE": 88,
+        "HEALTH": 293,
+        "INTELLIGENCE": 170,
+        "mending": 10
       },
       "requirements": [
         {
@@ -101635,7 +101769,8 @@
       "stats": {
         "DEFENSE": 290,
         "HEALTH": 529,
-        "INTELLIGENCE": 13
+        "INTELLIGENCE": 13,
+        "TRUE_DEFENSE": 12
       },
       "requirements": [
         {
@@ -101865,7 +102000,8 @@
       "stats": {
         "DEFENSE": 252,
         "HEALTH": 454,
-        "INTELLIGENCE": 38
+        "INTELLIGENCE": 38,
+        "TRUE_DEFENSE": 12
       },
       "requirements": [
         {
@@ -102094,7 +102230,8 @@
       "stats": {
         "DEFENSE": 353,
         "HEALTH": 668,
-        "INTELLIGENCE": 13
+        "INTELLIGENCE": 13,
+        "TRUE_DEFENSE": 12
       },
       "requirements": [
         {
@@ -102323,7 +102460,8 @@
       "stats": {
         "DEFENSE": 214,
         "HEALTH": 403,
-        "INTELLIGENCE": 13
+        "INTELLIGENCE": 13,
+        "TRUE_DEFENSE": 12
       },
       "requirements": [
         {
@@ -102551,7 +102689,8 @@
       "stats": {
         "DEFENSE": 115,
         "HEALTH": 210,
-        "INTELLIGENCE": 5
+        "INTELLIGENCE": 5,
+        "TRUE_DEFENSE": 5
       },
       "requirements": [
         {
@@ -102735,7 +102874,8 @@
       "stats": {
         "DEFENSE": 100,
         "HEALTH": 180,
-        "INTELLIGENCE": 15
+        "INTELLIGENCE": 15,
+        "TRUE_DEFENSE": 5
       },
       "requirements": [
         {
@@ -102918,7 +103058,8 @@
       "stats": {
         "DEFENSE": 85,
         "HEALTH": 160,
-        "INTELLIGENCE": 5
+        "INTELLIGENCE": 5,
+        "TRUE_DEFENSE": 5
       },
       "requirements": [
         {
@@ -103101,7 +103242,8 @@
       "stats": {
         "DEFENSE": 140,
         "HEALTH": 265,
-        "INTELLIGENCE": 5
+        "INTELLIGENCE": 5,
+        "TRUE_DEFENSE": 5
       },
       "requirements": [
         {
@@ -103286,7 +103428,8 @@
       "stats": {
         "DEFENSE": 159,
         "HEALTH": 286,
-        "INTELLIGENCE": 24
+        "INTELLIGENCE": 24,
+        "TRUE_DEFENSE": 8
       },
       "requirements": [
         {
@@ -103470,7 +103613,8 @@
       "stats": {
         "DEFENSE": 135,
         "HEALTH": 254,
-        "INTELLIGENCE": 8
+        "INTELLIGENCE": 8,
+        "TRUE_DEFENSE": 8
       },
       "requirements": [
         {
@@ -103654,7 +103798,8 @@
       "stats": {
         "DEFENSE": 222,
         "HEALTH": 421,
-        "INTELLIGENCE": 8
+        "INTELLIGENCE": 8,
+        "TRUE_DEFENSE": 8
       },
       "requirements": [
         {
@@ -103838,7 +103983,8 @@
       "stats": {
         "DEFENSE": 183,
         "HEALTH": 333,
-        "INTELLIGENCE": 8
+        "INTELLIGENCE": 8,
+        "TRUE_DEFENSE": 8
       },
       "requirements": [
         {
@@ -104022,7 +104168,8 @@
       "stats": {
         "DEFENSE": 145,
         "HEALTH": 265,
-        "INTELLIGENCE": 6
+        "INTELLIGENCE": 6,
+        "TRUE_DEFENSE": 6
       },
       "requirements": [
         {
@@ -104206,7 +104353,8 @@
       "stats": {
         "DEFENSE": 176,
         "HEALTH": 334,
-        "INTELLIGENCE": 6
+        "INTELLIGENCE": 6,
+        "TRUE_DEFENSE": 6
       },
       "requirements": [
         {
@@ -104391,7 +104539,8 @@
       "stats": {
         "DEFENSE": 126,
         "HEALTH": 227,
-        "INTELLIGENCE": 19
+        "INTELLIGENCE": 19,
+        "TRUE_DEFENSE": 6
       },
       "requirements": [
         {
@@ -104575,7 +104724,8 @@
       "stats": {
         "DEFENSE": 107,
         "HEALTH": 202,
-        "INTELLIGENCE": 6
+        "INTELLIGENCE": 6,
+        "TRUE_DEFENSE": 6
       },
       "requirements": [
         {
@@ -104759,7 +104909,8 @@
       "stats": {
         "DEFENSE": 230,
         "HEALTH": 420,
-        "INTELLIGENCE": 10
+        "INTELLIGENCE": 10,
+        "TRUE_DEFENSE": 10
       },
       "requirements": [
         {
@@ -104943,7 +105094,8 @@
       "stats": {
         "DEFENSE": 280,
         "HEALTH": 530,
-        "INTELLIGENCE": 10
+        "INTELLIGENCE": 10,
+        "TRUE_DEFENSE": 10
       },
       "requirements": [
         {
@@ -105128,7 +105280,8 @@
       "stats": {
         "DEFENSE": 200,
         "HEALTH": 360,
-        "INTELLIGENCE": 30
+        "INTELLIGENCE": 30,
+        "TRUE_DEFENSE": 10
       },
       "requirements": [
         {
@@ -105312,7 +105465,8 @@
       "stats": {
         "DEFENSE": 170,
         "HEALTH": 320,
-        "INTELLIGENCE": 10
+        "INTELLIGENCE": 10,
+        "TRUE_DEFENSE": 10
       },
       "requirements": [
         {
@@ -107071,6 +107225,21 @@
         "bundled_amount": 9
       },
       "id": "ECCENTRIC_PAINTING_BUNDLE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzMxODQ4MzY1MiwKICAicHJvZmlsZUlkIiA6ICIzZWIxZDExYWE5NDU0YTZjODU5NWVhNWExZjg4ZjA0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWl2aWNpdG9fRWMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYyNDEyZDYzZGQyZTBlMjMyMjMwYWJkMDRhOGY3MjZlNTFjOTNhNzI2ODZjN2RhZTE3MjJjNDY3N2Y5ZjU0OCIKICAgIH0KICB9Cn0",
+      "name": "Magic 8 Ball",
+      "tier": "EPIC",
+      "category": "ACCESSORY",
+      "id": "MAGIC_8_BALL"
+    },
+    {
+      "material": "NAME_TAG",
+      "name": "Sirius' Personal Phone Number",
+      "tier": "LEGENDARY",
+      "id": "SIRIUS_PERSONAL_PHONE_NUMBER"
     }
   ]
 }

@@ -1048,6 +1048,9 @@
                 "last_call": 0,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
+              },
+              "sirius": {
+                "last_call": 0
               }
             },
             "active_contacts": [],
@@ -1061,7 +1064,8 @@
               "tic_tac_toe_losses": 0
             },
             "selected_sort": "",
-            "selected_ringtone": ""
+            "selected_ringtone": "",
+            "has_used_sirius_personal_phone_number_item": true
           },
           "matriarch": {
             "pearls_collected": 0,

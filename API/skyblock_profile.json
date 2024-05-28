@@ -12647,7 +12647,9 @@
                 "talked_to": true,
                 "completed_quest": true,
                 "last_call": 0,
-                "dnd_enabled": true
+                "dnd_enabled": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "trinity": {
                 "talked_to": true,

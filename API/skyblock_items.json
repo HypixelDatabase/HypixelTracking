@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1713964166000,
+  "lastUpdated": 1716902281000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -9203,6 +9203,14 @@
     },
     {
       "material": "INK_SACK",
+      "durability": 3,
+      "name": "Chocolate Dye",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DYE_CHOCOLATE"
+    },
+    {
+      "material": "INK_SACK",
       "durability": 15,
       "name": "Bone Dye",
       "tier": "EPIC",
@@ -14857,6 +14865,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDc3NjcxMTg5NywKICAicHJvZmlsZUlkIiA6ICJiMmQ4MTA2YTJjM2Y0ZTY4ODA0ODkzOWU0NGM1NmUyMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWdoeGQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTBiNTNlYzdkMDNjMjVhMWQ2ZDAxMzM5MzU3NTU3MDA5NjZmYTFmMDU1ZGQ5NDFlODIyODBhYTM0NmNiNzFiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Rabbit the Fish",
+      "tier": "SPECIAL",
+      "museum": true,
+      "id": "RABBIT_THE_FISH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjU4ODQwNSwKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmOTkxMjE1ZTI1OGQ2NWY3N2VlZGViNjkzNTZmNTUyMWJiMjRjYjlkZDQ3NzY1ZTM4ZjUyYTg5MmQ3OTg5YWQiCiAgICB9CiAgfQp9",
       "name": "Refined Dark Cacao Truffle",
       "tier": "LEGENDARY",
@@ -14870,6 +14887,16 @@
       "tier": "COMMON",
       "unstackable": true,
       "id": "EGGLOCATOR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDk1OTAwNzUwOSwKICAicHJvZmlsZUlkIiA6ICJiZmMyODE3ZWRhZWM0OWY5YTVmMWVkNTdjODZhMGFjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYm95UmV6YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MjJiMGU1ZmFhOTdjYTEwOWNkNDVmMWZiYTJkODRjYTJiOWI2MDFkZTUwYjQ3ZjRhZGQyZDgzNWFhMzYwZjc4IgogICAgfQogIH0KfQ",
+      "name": "Fish Chocolat à la Vapeur",
+      "tier": "EPIC",
+      "description": "%%dark_gray%%%%italic%%Savory fish with a chocolate twist. Mwah! C'est magnifique, no?",
+      "has_uuid": true,
+      "id": "STEAMED_CHOCOLATE_FISH"
     },
     {
       "material": "SKULL_ITEM",
@@ -40443,6 +40470,7 @@
       "glowing": true,
       "tier": "RARE",
       "can_place": false,
+      "npc_sell_price": 51200,
       "id": "ENCHANTED_BONE_BLOCK"
     },
     {
@@ -79931,6 +79959,15 @@
       "tier": "LEGENDARY",
       "category": "COSMETIC",
       "id": "MUSHROOM_BARN_SKIN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNTM1NDQ1NjY0OCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY5MGRhNDBjNTU3YWY0YWMwMWQzOWI2NzMzZTIwNGM3NGFlOWZlZThjMmJjNDBiZTFmZDRmMjhmODM3ZDUyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0",
+      "name": "Chocolate Factory Barn Skin",
+      "tier": "LEGENDARY",
+      "category": "COSMETIC",
+      "id": "CHOCOLATE_FACTORY_BARN_SKIN"
     },
     {
       "material": "COBBLESTONE",

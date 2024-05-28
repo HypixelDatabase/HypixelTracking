@@ -13606,12 +13606,19 @@
               "cinnamon": 0,
               "fitch": 0,
               "phantom": 0,
-              "willow": 0
+              "willow": 0,
+              "alpha": 0,
+              "beta": 0,
+              "delta": 0,
+              "epsilon": 0,
+              "gamma": 0,
+              "zeta": 0
             },
             "shop": {
               "year": 0,
               "rabbits": [],
-              "rabbits_purchased": []
+              "rabbits_purchased": [],
+              "chocolate_spent": 0
             },
             "employees": {
               "rabbit_bro": 0,
@@ -13634,7 +13641,8 @@
             "rabbit_sort": "",
             "rabbit_rarity_upgrades": 0,
             "chocolate_multiplier_upgrades": 0,
-            "supreme_chocolate_bars": 0
+            "supreme_chocolate_bars": 0,
+            "rabbit_filter": ""
           }
         },
         "winter_player_data": {

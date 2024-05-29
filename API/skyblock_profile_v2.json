@@ -11606,7 +11606,10 @@
               "delta": 0,
               "epsilon": 0,
               "gamma": 0,
-              "zeta": 0
+              "zeta": 0,
+              "collected_locations": {
+                "hub": []
+              }
             },
             "time_tower": {
               "charges": 0,

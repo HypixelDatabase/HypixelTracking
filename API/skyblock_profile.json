@@ -12269,7 +12269,8 @@
               "fetch": {
                 "status": "",
                 "progress": 0,
-                "completed_at": 0
+                "completed_at": 0,
+                "claimed_rewards": true
               },
               "wanted_mini_boss": {
                 "status": "",
@@ -12390,22 +12391,53 @@
               "crimson_isle_dojo_test_of_snake_crating_b": "",
               "crimson_isle_soulfish_c": "",
               "crimson_isle_fetch_digested_mushrooms_c": "",
-              "crimson_isle_kill_mage_outlaw_b": ""
+              "crimson_isle_kill_mage_outlaw_b": "",
+              "crimson_isle_moldfin_b": "",
+              "crimson_isle_kill_barbarian_duke_x_a": "",
+              "crimson_isle_fight_kuudra_burning_tier_s": "",
+              "crimson_isle_fetch_spectre_dust_c": "",
+              "LUMINO_FIBER": 0,
+              "crimson_isle_blobfish_c": "",
+              "crimson_isle_kill_barbarian_duke_x_s": "",
+              "crimson_isle_fetch_mutated_blaze_ashes_c": "",
+              "crimson_isle_kill_magma_boss_b": "",
+              "crimson_isle_dojo_test_of_sword_swap_brating_a": "",
+              "HORN_OF_TAURUS": 0,
+              "crimson_isle_goldfish_s": "",
+              "crimson_isle_manaray_b": "",
+              "crimson_isle_kill_ashfang_s": "",
+              "crimson_isle_dojo_test_of_lock_head_drating_c": "",
+              "crimson_isle_fetch_40_wither_soul_a": "",
+              "crimson_isle_volcanicstonefish_c": "",
+              "crimson_isle_rescue_c": "",
+              "crimson_isle_dojo_test_of_sword_swap_crating_b": "",
+              "crimson_isle_fetch_kada_lead_b": "",
+              "crimson_isle_slugfish_a": "",
+              "crimson_isle_blobfish_b": ""
             },
             "alchemist_quest": {
               "alchemist_quest_start": true,
               "alchemist_quest_progress": 0
             },
             "rulenor": {
-              "talked_to": true
+              "talked_to": true,
+              "last_payment": 0
             },
             "chicken_quest": {
               "chicken_quest_start": true,
               "chicken_quest_progress": 0,
               "chicken_quest_collected": []
             },
-            "pomtair_quest": {},
-            "suus_quest": {},
+            "pomtair_quest": {
+              "talked_to_npc": true,
+              "last_completion": 0
+            },
+            "suus_quest": {
+              "talked_to_npc": true,
+              "mob_id": "",
+              "last_toy_drop": 0,
+              "last_completion": 0
+            },
             "pablo_quest": {
               "pablo_item": "",
               "pablo_active": true,
@@ -12413,13 +12445,24 @@
             },
             "duel_training_quest": {
               "duel_training_phase_mages": 0,
-              "duel_training_last_complete_mages": 0
+              "duel_training_last_complete_mages": 0,
+              "duel_training_phase_barbarians": 0,
+              "duel_training_last_complete_barbarians": 0
             },
-            "sirih_quest": {},
+            "sirih_quest": {
+              "sulphur_given": 0,
+              "last_give": 0,
+              "dialogue_index": 0
+            },
             "edelis_quest": {
-              "heard_story_home": true
+              "heard_story_home": true,
+              "heard_story_statue": true
             },
-            "mollim_quest": {},
+            "mollim_quest": {
+              "talked_to_npc": true,
+              "completed_quest": true,
+              "splashed_grand_exp_bottle": true
+            },
             "aranya_quest": {
               "talked_to_npc": true,
               "last_completion": 0
@@ -12430,7 +12473,16 @@
             "found_kuudra_book": true,
             "last_kuudra_relic": 0,
             "found_kuudra_leggings": true,
-            "kuudra_loremaster": true
+            "kuudra_loremaster": true,
+            "last_vampire_blood": 0,
+            "last_believer_blessing": 0,
+            "weird_sailor": true,
+            "fished_wet_napkin": true,
+            "found_kuudra_helmet": true,
+            "found_kuudra_chestplate": true,
+            "found_kuudra_boots": true,
+            "unlocked_cavity_npcs": [],
+            "cavity_rarity": ""
           },
           "kuudra_completed_tiers": {
             "none": 0,

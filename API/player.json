@@ -9430,7 +9430,12 @@
           "killmessage_bunny",
           "smiley_snowman",
           "smiley_snowflake",
-          "smiley_carrot"
+          "smiley_carrot",
+          "CAKES_FIX_FLAG_2",
+          "ACHIEVEMENT_FIX_FLAG",
+          "convertedStats",
+          "CAKES_COUNT_FIX_FLAG",
+          "fighter_cry"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -10267,7 +10272,10 @@
             "skill_level_g": 0,
             "skill_level_b": 0,
             "prestige": 0,
-            "golden_tag": true
+            "golden_tag": true,
+            "prestige_tag": {
+              "type": ""
+            }
           },
           "blaze": {
             "skill_level_d": 0,
@@ -10427,6 +10435,11 @@
             "skill_level_b": 0,
             "prestige": 0,
             "enderchest_rows": 0
+          },
+          "sheep": {
+            "unlocked": true,
+            "skill_level_d": 0,
+            "skill_level_a": 0
           }
         },
         "zombie_reclaimed": 0,
@@ -16912,7 +16925,37 @@
         "skeleton_c_activations_deathmatch": 0,
         "skeleton_c_activations_deathmatch_standard": 0,
         "creeper_c_activations": 0,
-        "creeper_c_activations_standard": 0
+        "creeper_c_activations_standard": 0,
+        "angel_class_points": 0,
+        "arcanist_class_points": 0,
+        "assassin_class_points": 0,
+        "automaton_class_points": 0,
+        "blaze_class_points": 0,
+        "class_points": 0,
+        "cow_class_points": 0,
+        "creeper_class_points": 0,
+        "dragon_class_points": 0,
+        "dreadlord_class_points": 0,
+        "enderman_class_points": 0,
+        "golem_class_points": 0,
+        "herobrine_class_points": 0,
+        "hunter_class_points": 0,
+        "moleman_class_points": 0,
+        "phoenix_class_points": 0,
+        "pigman_class_points": 0,
+        "pirate_class_points": 0,
+        "renegade_class_points": 0,
+        "shaman_class_points": 0,
+        "shark_class_points": 0,
+        "sheep_class_points": 0,
+        "skeleton_class_points": 0,
+        "snowman_class_points": 0,
+        "spider_class_points": 0,
+        "squid_class_points": 0,
+        "werewolf_class_points": 0,
+        "zombie_class_points": 0,
+        "sheep_new_d": 0,
+        "sheep_new_a": 0
       },
       "GingerBread": {
         "coins": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1717429805373,
+  "lastUpdated": 1717599770136,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -17916,6 +17916,611 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "LEGENDARY_AUTOMATON": {
+          "points": 15,
+          "name": "Legendary Automaton",
+          "description": "Get 14 FK's or FA's in a single game as Automaton",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BULL_SHARK": {
+          "points": 10,
+          "name": "Bull Shark",
+          "description": "Hit someone with your full Blood Rage buff active",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BIRDS_EYE": {
+          "points": 10,
+          "name": "Bird's Eye",
+          "description": "Hit an enemy with Shadow Burst from over 35 blocks away.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PERFECT_DISGUISE": {
+          "points": 10,
+          "name": "Perfect Disguise",
+          "description": "Go the entire duration of your Dyed Disguise without taking damage 100 times"
+        },
+        "LEGENDARY_SQUID": {
+          "points": 15,
+          "name": "Legendary Squid",
+          "description": "Get 14 FK's or FA's in a single game as Squid",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "JUDGEMENT_CALL": {
+          "points": 10,
+          "name": "Judgement Call",
+          "description": "Final kill 4 players with Iron Punch in a single game"
+        },
+        "ALOTV1": {
+          "points": 10,
+          "name": "ALOTv1",
+          "description": "Kill a wither as Zombie while being the last player alive on your team.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "I_FEEL_SICK": {
+          "points": 10,
+          "name": "I feel sick",
+          "description": "Activate your gathering talent 8 times and consume 8 absorption potions in one game as Squid",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "FIRST_SKILL_UPGRADE": {
+          "points": 5,
+          "name": "Going to the Gym",
+          "description": "Unlock your first Skill upgrade",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "YOUNG_THUG": {
+          "points": 5,
+          "name": "Young Thug",
+          "description": "Final kill 5 players while Endurance is active"
+        },
+        "OCEANS_DEFENDER": {
+          "points": 10,
+          "name": "Ocean's Defender",
+          "description": "Get 250 defensive kills as Shark"
+        },
+        "REMOTE_DETONATION": {
+          "points": 10,
+          "name": "Remote detonation",
+          "description": "Get 5 total FK's or FA's with your Minion as Creeper",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TIME_TO_DIET": {
+          "points": 10,
+          "name": "Time to diet",
+          "description": "Eat 750 Steaks as Werewolf",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "CAKE_HUNTER_2": {
+          "points": 5,
+          "name": "Cake Hunter",
+          "description": "Find 150 different cakes in chests (as any class)",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_SKELETON": {
+          "points": 15,
+          "name": "Legendary Skeleton",
+          "description": "Get 14 FK's or FA's in a single game as Skeleton",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SNEAK_ATTACK": {
+          "points": 10,
+          "name": "Sneak attack",
+          "description": "Get 100 total FK's from behind as Enderman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BLOOD_LUST": {
+          "points": 5,
+          "name": "Blood Lust",
+          "description": "Deal 700 damage to withers in one game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_SPIDER": {
+          "points": 15,
+          "name": "Legendary Spider",
+          "description": "Get 14 FK's or FA's in a single game as Spider",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MORRA": {
+          "points": 10,
+          "name": "Morra",
+          "description": "Shadow Step to an enemy from exactly 20 blocks away",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "KINGMAKER": {
+          "points": 10,
+          "name": "Kingmaker",
+          "description": "As Assassin, kill 2 Withers in a single game"
+        },
+        "SLEEPYTIME": {
+          "points": 10,
+          "name": "Sleepytime",
+          "description": "Craft and place a bed in 50 games as Zombie",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ESC": {
+          "points": 10,
+          "name": "ESC",
+          "description": "Have sea legs activate 10 times during deathmatch in a single game as Pirate",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MARKSMAN": {
+          "points": 10,
+          "name": "Marksman",
+          "description": "Get 25 FK's from over 30 blocks as Skeleton",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "UNWAVERING": {
+          "points": 5,
+          "name": "Unwavering",
+          "description": "Heal 200HP from Generosity in a single game"
+        },
+        "MAGICAL_PARTY": {
+          "points": 10,
+          "name": "Magical Party",
+          "description": "Have allies pick up your Magical Wool 20 times in a single game"
+        },
+        "LASER_PRECISION": {
+          "points": 10,
+          "name": "Laser Precision",
+          "description": "Damage ten different players with ten consecutive arcane beams without dying as Arcanist",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "HAMMER_DOWN": {
+          "points": 10,
+          "name": "Hammer down",
+          "description": "Damage 5 different players with one Iron Punch as Golem",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "COLLECTOR": {
+          "points": 10,
+          "name": "Collector",
+          "description": "Find 500 armor sets in chests as Pigman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "OCEANS_EXPLORER": {
+          "points": 10,
+          "name": "Ocean's Explorer",
+          "description": "Activate Sea Treasure 1,000 times"
+        },
+        "LEGENDARY_ASSASSIN": {
+          "points": 15,
+          "name": "Legendary Assassin",
+          "description": "Get 14 FK's or FA's in a single game as Assassin",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_CREEPER": {
+          "points": 15,
+          "name": "Legendary Creeper",
+          "description": "Get 14 FK's or FA's in a single game as Creeper",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WOOLLY_RESPITE": {
+          "points": 10,
+          "name": "Woolly Respite",
+          "description": "Heal a total of 250 HP to allies with Wool War"
+        },
+        "I_DONT_FEEL_SO_GOOD": {
+          "points": 10,
+          "name": "i don't feel so good",
+          "description": "Deal a total of 600 poison damage with Venom Strike"
+        },
+        "UNSTOPPABLE_FORCE": {
+          "points": 5,
+          "name": "Unstoppable Force",
+          "description": "Kill 25 players with Berserk active"
+        },
+        "MINE_DIAMOND": {
+          "points": 10,
+          "name": "Front Line",
+          "description": "Mine Diamond Ore",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "CONFIGURATION": {
+          "points": 15,
+          "name": "Configuration",
+          "description": "???",
+          "secret": true
+        },
+        "LEGENDARY_ANGEL": {
+          "points": 15,
+          "name": "Legendary Angel",
+          "description": "Get 14 FK's or FA's in a single game as Angel"
+        },
+        "GRAVE_DIGGER": {
+          "points": 10,
+          "name": "Grave Digger",
+          "description": "As Snowman, final kill 3 players with your diamond shovel without dying"
+        },
+        "LIGHT_EM_UP": {
+          "points": 10,
+          "name": "Light 'em up",
+          "description": "Final kill 10 players while they are on fire"
+        },
+        "BURIAL_AT_SEA": {
+          "points": 10,
+          "name": "Burial At Sea",
+          "description": "Final kill 5 players while in water as Pirate"
+        },
+        "THIS_IS_MY_FINAL_FORM": {
+          "points": 10,
+          "name": "This is my final form!",
+          "description": "Unlock a Prestige upgrade for a class",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BIOLOGICAL_RESTORATION": {
+          "points": 15,
+          "name": "Biological Restoration",
+          "description": "Heal 2,500 players with Soothing Moo or Refreshing Sip as Cow",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_DREADLORD": {
+          "points": 15,
+          "name": "Legendary Dreadlord",
+          "description": "Get 14 FK's or FA's in a single game as Dreadlord",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BA_BOOM": {
+          "points": 10,
+          "name": "BA-BOOM!",
+          "description": "Get 5 FK's or FA's with Animal Companion as Hunter",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPEED_RUN": {
+          "points": 10,
+          "name": "Speedrun",
+          "description": "Attack all three enemy withers within 3 minutes after the walls have fallen as Enderman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TARGET_ELIMINATED": {
+          "points": 15,
+          "name": "Target Eliminated",
+          "description": "In a single game as Hunter, final kill 3 players you already killed while their Wither was alive"
+        },
+        "FIRST_GATHERING_SKILL_UPGRADE": {
+          "points": 5,
+          "name": "The Gatherer",
+          "description": "Unlock your first Gathering Skill upgrade",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BLAZECALLER": {
+          "points": 10,
+          "name": "Blazecaller",
+          "description": "Spawn 500 blazes with Call of the Blazes"
+        },
+        "ATTACK_WITHER": {
+          "points": 5,
+          "name": "Strategic Mind",
+          "description": "Attack an enemy's Wither",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_MOLEMAN": {
+          "points": 15,
+          "name": "Legendary Moleman",
+          "description": "Get 14 FK's or FA's in a single game as Moleman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "YOU_SHALL_NOT_PASS": {
+          "points": 10,
+          "name": "You shall not pass!",
+          "description": "Get 10 total defensive FK's or FA's as Squid",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "CHASED_DOWN": {
+          "points": 10,
+          "name": "Chased Down",
+          "description": "Final kill 20 players within 5 seconds of using your Grappling Hook"
+        },
+        "THANKS_CONNOR": {
+          "points": 10,
+          "name": "Thanks Connor",
+          "description": "Catch 30 arrows in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MAX_SKILLS": {
+          "points": 10,
+          "name": "This Is Not Even My Final Form",
+          "description": "Max out all skills for a non-starter class",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "REBORN": {
+          "points": 10,
+          "name": "Reborn",
+          "description": "Final kill a player within 10 seconds of resurrecting as Phoenix"
+        },
+        "TOUGH_SKIN": {
+          "points": 10,
+          "name": "Tough Skin",
+          "description": "As Pigman, be granted resistance from Endurance for a total of 500 seconds"
+        },
+        "SKELETONS_BEST_FRIEND": {
+          "points": 10,
+          "name": "Skeleton's best friend",
+          "description": "Mine 50 diamond ore as Skeleton",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SPEEDY_MINEMAN": {
+          "points": 10,
+          "name": "Speedy mineman",
+          "description": "Have shortcut activated for 5 minutes non-stop during deathmatch",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LUCKY_SUNNY": {
+          "points": 10,
+          "name": "Lucky Sunny",
+          "description": "Find 1000 chests while playing Herobrine",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ASHES_TO_BASHES": {
+          "points": 10,
+          "name": "Ashes to bashes",
+          "description": "Win a game as Phoenix whilst still alive, without having used Resurrection",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MAGNATE": {
+          "points": 20,
+          "name": "Magnate",
+          "description": "Unlock a Prestige IV upgrade for a class",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BOW_DOWN": {
+          "points": 10,
+          "name": "Bow Down",
+          "description": "Get 7 melee FK's or FA's as Skeleton in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_COW": {
+          "points": 15,
+          "name": "Legendary Cow",
+          "description": "Get 14 FK's or FA's in a single game as Cow",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "INSTABOOM": {
+          "points": 10,
+          "name": "INSTABOOM!",
+          "description": "Kill 20 players with Primed TNT"
+        },
+        "REVENGE_OF_THE_WOLVES": {
+          "points": 10,
+          "name": "Revenge of the Wolves",
+          "description": "Get 5 total FK's or FA's with your wolves as Shaman.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "RUSHLORD": {
+          "points": 10,
+          "name": "Rushlord",
+          "description": "Deal 20,000 wither damage total as Dreadlord",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "WIN_BEFORE_DEATHMATCH": {
+          "points": 15,
+          "name": "Easy Mode",
+          "description": "Win before the Deathmatch, without dying",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BREADLORD": {
+          "points": 10,
+          "name": "Breadlord",
+          "description": "Craft 617 bread as Dreadlord",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LOUIS": {
+          "points": 10,
+          "name": "Greedy Louis",
+          "description": "Drink 500 Ultra Pasteurized Milk as Cow",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_BLAZE": {
+          "points": 15,
+          "name": "Legendary Blaze",
+          "description": "Get 14 FK's or FA's in a single game as Blaze",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_SHEEP": {
+          "points": 15,
+          "name": "Legendary Sheep",
+          "description": "Get 14 FK's or FA's in a single game as Sheep"
+        },
+        "EXCHANGE": {
+          "points": 15,
+          "name": "Exchange",
+          "description": "Purchase 10 Mythic Favor at once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "CALL_IT_A_COMEBACK": {
+          "points": 10,
+          "name": "Call It A Comeback",
+          "description": "Kill a Wither after your Wither has been killed as Shaman"
+        },
+        "WIN_WITH_LIVING_WITHER": {
+          "points": 15,
+          "name": "The Blood of My Enemies",
+          "description": "Win with your Wither still alive",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_SHAMAN": {
+          "points": 15,
+          "name": "Legendary Shaman",
+          "description": "Get 14 FK's or FA's in a single game as Shaman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "AT_LEAST_HE_TRIED": {
+          "points": 10,
+          "name": "At least he tried",
+          "description": "Get a defensive final kill",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_GOLEM": {
+          "points": 15,
+          "name": "Legendary Golem",
+          "description": "Get 14 FK's or FA's in a single game as Golem",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "BEYOND_THE_GRAVE": {
+          "points": 10,
+          "name": "Beyond The Grave",
+          "description": "Get 15 FKs/FKAs with any class after being final killed"
+        },
+        "RANGED_TRAINING": {
+          "points": 10,
+          "name": "Ranged Training",
+          "description": "Win a game using only your Bow to deal damage as Skeleton"
+        },
+        "VEGETARIAN": {
+          "points": 5,
+          "name": "Vegetarian",
+          "description": "Win a game as Werewolf without eating any steak"
+        },
+        "MAX_ZOMBIE_SKILLS": {
+          "points": 10,
+          "name": "Zombie Leader",
+          "description": "Max out all Zombie skills",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "GUARDIAN_ANGEL": {
+          "points": 5,
+          "name": "Guardian Angel",
+          "description": "Give a player your Halo before the Walls fall and win the game with both of you alive and them holding your Halo"
+        },
+        "NOT_A_GOLEM": {
+          "points": 10,
+          "name": "Not a Golem",
+          "description": "Win a game as Herobrine wearing a Diamond Chestplate and Diamond Boots",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MASS_DESTRUCTION": {
+          "points": 10,
+          "name": "Mass destruction",
+          "description": "Break 3,000 blocks with detonate as Creeper",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "EXPLOSIVE_ENDING": {
+          "points": 10,
+          "name": "Explosive Ending",
+          "description": "Get 3 Final Kills with Explosive Arrow in a single game"
+        },
+        "FIERY_TOMB": {
+          "points": 5,
+          "name": "Fiery Tomb",
+          "description": "Final kill a player who is on fire with your Squid Splash"
+        },
+        "TERMINATED_SCRIPT": {
+          "points": 10,
+          "name": "Terminated Script",
+          "description": "Siphon 3000 energy from killing enemies",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MOO_BRAWL": {
+          "points": 10,
+          "name": "Moo Brawl",
+          "description": "Have 600 buckets of your Bucket Barrier break to defend you",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TAKING_THE_HEAT": {
+          "points": 10,
+          "name": "Taking the heat",
+          "description": "Kill an enemy wither while on fire as Golem",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DRAGONBORN": {
+          "points": 10,
+          "name": "Dragonborn",
+          "description": "As Dragon, set 15 different players on fire in a single game"
+        },
+        "LEGENDARY_DRAGON": {
+          "points": 15,
+          "name": "Legendary Dragon",
+          "description": "Get 14 FK's or FA's in a single game as Dragon"
+        },
+        "UNTOUCHABLE": {
+          "points": 10,
+          "name": "Untouchable",
+          "description": "Melee 7 different enemies consecutively without taking damage as Enderman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LEGENDARY_SNOWMAN": {
+          "points": 15,
+          "name": "Legendary Snowman",
+          "description": "Get 14 FK's or FA's in a single game as Snowman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "DERPBRINES_REVENGE": {
+          "points": 5,
+          "name": "Derpbrine's Revenge",
+          "description": "As Herobrine, final kill someone who killed you earlier in the game"
+        },
+        "MAX_HEROBRINE_SKILLS": {
+          "points": 10,
+          "name": "Herobrine Super Saiyan",
+          "description": "Max out all Herobrine skills",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "CURRENT_OBJECTIVE_SURVIVE": {
+          "points": 15,
+          "name": "Current Objective: Survive",
+          "description": "Win a game as Automaton after starting deathmatch as the team with the least amount of players remaining"
+        },
         "READY_SET_BOOM": {
           "points": 10,
           "name": "Ready.. Set.. Boom!",
@@ -17923,12 +18528,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_AUTOMATON": {
-          "points": 15,
-          "name": "Legendary Automaton",
-          "description": "Get 14 FK's or FA's in a single game as Automaton",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "REWRITING_FATE": {
+          "points": 10,
+          "name": "Rewriting Fate",
+          "description": "Use Divine Intervention to delay player deaths 250 times"
         },
         "WOLF_SMASH": {
           "points": 10,
@@ -17940,7 +18543,7 @@
         "HEAVY_EATER": {
           "points": 10,
           "name": "Heavy Eater",
-          "description": "Eat 1,000 Junk Items as Moleman",
+          "description": "Eat 2,000 Junk Items as Moleman",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -17958,24 +18561,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "BULL_SHARK": {
-          "points": 10,
-          "name": "Bull Shark",
-          "description": "Hit someone with your full Blood Rage buff active",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "THROWING_COCONUTS": {
           "points": 10,
           "name": "Throwing hot coconuts",
           "description": "Get 3 Final Kills with Fireballs as Blaze in one game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BIRDS_EYE": {
-          "points": 10,
-          "name": "Bird's Eye",
-          "description": "Hit an enemy with Shadow Burst from over 35 blocks away.",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18007,12 +18596,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_SQUID": {
-          "points": 15,
-          "name": "Legendary Squid",
-          "description": "Get 14 FK's or FA's in a single game as Squid",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "LADY_LUCK": {
+          "points": 10,
+          "name": "Lady Luck",
+          "description": "Obtain 5 unique items from Treasure Looter in a game"
         },
         "LEGENDARY_HUNTER": {
           "points": 15,
@@ -18025,27 +18612,6 @@
           "points": 5,
           "name": "Save your stuff",
           "description": "Buy an Enderchest upgrade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ALOTV1": {
-          "points": 10,
-          "name": "ALOTv1",
-          "description": "Kill a wither as Zombie while being the last player alive on your team.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "I_FEEL_SICK": {
-          "points": 10,
-          "name": "I feel sick",
-          "description": "Activate your gathering talent 8 times and consume 8 absorption potions in one game as Squid",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "FIRST_SKILL_UPGRADE": {
-          "points": 5,
-          "name": "Going to the Gym",
-          "description": "Unlock your first Skill upgrade",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18077,26 +18643,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "REMOTE_DETONATION": {
+        "TRIPLESHOT": {
           "points": 10,
-          "name": "Remote detonation",
-          "description": "Get 5 total FK's or FA's with your Minion as Creeper",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TIME_TO_DIET": {
-          "points": 10,
-          "name": "Time to diet",
-          "description": "Eat 750 Steaks as Werewolf",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CAKE_HUNTER_2": {
-          "points": 5,
-          "name": "Cake Hunter",
-          "description": "Find 150 different cakes in chests (as any class)",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Tripleshot",
+          "description": "Damage 3 enemies with a single Arcane Beam"
         },
         "FAILED_EXPERIMENT": {
           "points": 10,
@@ -18133,34 +18683,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_SKELETON": {
-          "points": 15,
-          "name": "Legendary Skeleton",
-          "description": "Get 14 FK's or FA's in a single game as Skeleton",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SNEAK_ATTACK": {
-          "points": 10,
-          "name": "Sneak attack",
-          "description": "Get 100 total FK's from behind as Enderman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BLOOD_LUST": {
-          "points": 5,
-          "name": "Blood Lust",
-          "description": "Deal 700 damage to withers in one game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY_SPIDER": {
-          "points": 15,
-          "name": "Legendary Spider",
-          "description": "Get 14 FK's or FA's in a single game as Spider",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "LEGENDARY_WEREWOLF": {
           "points": 15,
           "name": "Legendary Werewolf",
@@ -18168,12 +18690,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MORRA": {
-          "points": 10,
-          "name": "Morra",
-          "description": "Shadow Step to an enemy from exactly 20 blocks away",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "CONTRACT_KILLER": {
+          "points": 15,
+          "name": "Contract Killer",
+          "description": "Final kill 5 different classes in a single game"
         },
         "I_AM_COW": {
           "points": 10,
@@ -18182,12 +18702,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SLEEPYTIME": {
+        "EVERBLIND": {
           "points": 10,
-          "name": "Sleepytime",
-          "description": "Craft and place a bed in 50 games as Zombie",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Everblind",
+          "description": "Blind 250 players with your Inner Ink"
         },
         "LEGENDARY_ENDERMAN": {
           "points": 15,
@@ -18203,17 +18721,15 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "ASHES_TO_ASHES": {
+          "points": 10,
+          "name": "Ashes to Ashes",
+          "description": "Final kill 5 players with fire as Dragon"
+        },
         "MUCH_DOGS": {
           "points": 10,
           "name": "Much dogs",
           "description": "Spawn 500 wolves as Shaman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ESC": {
-          "points": 10,
-          "name": "ESC",
-          "description": "Have sea legs activate 10 times during deathmatch in a single game as Pirate",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18224,38 +18740,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MARKSMAN": {
-          "points": 10,
-          "name": "Marksman",
-          "description": "Get 25 FK's from over 30 blocks as Skeleton",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "LEGENDARY_SHARK": {
           "points": 15,
           "name": "Legendary Shark",
           "description": "Get 14 FK's or FA's in a single game as Shark",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LASER_PRECISION": {
-          "points": 10,
-          "name": "Laser Precision",
-          "description": "Damage ten different players with ten consecutive arcane beams without dying as Arcanist",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "HAMMER_DOWN": {
-          "points": 10,
-          "name": "Hammer down",
-          "description": "Damage 5 different players with one Iron Punch as Golem",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "COLLECTOR": {
-          "points": 10,
-          "name": "Collector",
-          "description": "Find 500 armor sets in chests as Pigman",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18280,12 +18768,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_ASSASSIN": {
-          "points": 15,
-          "name": "Legendary Assassin",
-          "description": "Get 14 FK's or FA's in a single game as Assassin",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "DRAGONS_EYE": {
+          "points": 10,
+          "name": "Dragon's Eye",
+          "description": "Set 4 different enemies on fire with Hellfire without missing a shot as Dragon"
         },
         "LEGENDARY_ZOMBIE": {
           "points": 15,
@@ -18294,12 +18780,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_CREEPER": {
-          "points": 15,
-          "name": "Legendary Creeper",
-          "description": "Get 14 FK's or FA's in a single game as Creeper",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "CROSSFIRE": {
+          "points": 10,
+          "name": "Crossfire",
+          "description": "Rend 5 players with a single ability as Renegade"
         },
         "HARD_AS_STEEL": {
           "points": 10,
@@ -18308,12 +18792,15 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MINE_DIAMOND": {
+        "COMPLETIONIST": {
+          "points": 20,
+          "name": "Completionist",
+          "description": "Unlock a Prestige V upgrade for a class"
+        },
+        "IRON_HEARTED": {
           "points": 10,
-          "name": "Front Line",
-          "description": "Mine Diamond Ore",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Iron Hearted",
+          "description": "Receive a total of 1,000 HP of Absorption from Iron Heart as Golem"
         },
         "PEACEKREEPER": {
           "points": 10,
@@ -18322,12 +18809,22 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "ONE_WITH_NATURE": {
+          "points": 10,
+          "name": "One With Nature",
+          "description": "Get 50 FK's or FA's with Force of Nature active as Hunter"
+        },
         "TRUST_ME_IM_A_DOCTOR": {
           "points": 10,
           "name": "Trust me I'm a doctor",
           "description": "Heal 2,500 total HP as Squid",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "THE_CHOSEN_FEW": {
+          "points": 10,
+          "name": "The Chosen Few",
+          "description": "Win a game as Dreadlord with 3 or less teammates remaining"
         },
         "ON_POINT": {
           "points": 10,
@@ -18357,6 +18854,16 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "FRIGHTFUL_FLAMES": {
+          "points": 10,
+          "name": "Frightful Flames",
+          "description": "Kill a player who is on fire while wearing a Pumpkin on your head"
+        },
+        "THINK_TWICE": {
+          "points": 5,
+          "name": "Think Twice",
+          "description": "Have a player trigger your Thick Coat while Dyed Disguise is active"
+        },
         "ALCHEMY_100": {
           "points": 10,
           "name": "Alchemy: 100",
@@ -18371,45 +18878,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "THIS_IS_MY_FINAL_FORM": {
-          "points": 10,
-          "name": "This is my final form!",
-          "description": "Unlock a Prestige upgrade for a class",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BIOLOGICAL_RESTORATION": {
-          "points": 15,
-          "name": "Biological Restoration",
-          "description": "Heal 2,500 players with Soothing Moo and Refreshing Sip as Cow",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY_DREADLORD": {
-          "points": 15,
-          "name": "Legendary Dreadlord",
-          "description": "Get 14 FK's or FA's in a single game as Dreadlord",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BA_BOOM": {
-          "points": 10,
-          "name": "BA-BOOM!",
-          "description": "Get 5 FK's or FA's with Animal Companion as Hunter",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "INVENTORY_MANAGEMENT": {
           "points": 10,
           "name": "Inventory Management",
           "description": "Hold 8 potions from your Looting skill in your inventory as Renegade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "SPEED_RUN": {
-          "points": 10,
-          "name": "Speedrun",
-          "description": "Attack all three enemy withers within 3 minutes after the walls have fallen as Enderman",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18420,34 +18892,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "FIRST_GATHERING_SKILL_UPGRADE": {
-          "points": 5,
-          "name": "The Gatherer",
-          "description": "Unlock your first Gathering Skill upgrade",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ATTACK_WITHER": {
-          "points": 5,
-          "name": "Strategic Mind",
-          "description": "Attack an enemy's Wither",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY_MOLEMAN": {
-          "points": 15,
-          "name": "Legendary Moleman",
-          "description": "Get 14 FK's or FA's in a single game as Moleman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "YOU_SHALL_NOT_PASS": {
-          "points": 10,
-          "name": "You shall not pass!",
-          "description": "Get 10 total defensive FK's or FA's as Squid",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "GREAT_WHITE": {
           "points": 10,
           "name": "Great White",
@@ -18455,19 +18899,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "THANKS_CONNOR": {
+        "DELAYING_THE_INEVITABLE": {
           "points": 10,
-          "name": "Thanks Connor",
-          "description": "Catch 30 arrows in a single game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "MAX_SKILLS": {
-          "points": 10,
-          "name": "This Is Not Even My Final Form",
-          "description": "Max out all skills for a non-starter class",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Delaying the Inevitable",
+          "description": "Use Divine Intervention on a teammate and have them save themselves from death 3 times in a single game"
         },
         "VETERAN": {
           "points": 15,
@@ -18475,6 +18910,11 @@
           "description": "Unlock 12 Classes",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "END_TO_END": {
+          "points": 15,
+          "name": "End to End",
+          "description": "Using any class, get the first and last final kill in a game"
         },
         "ITS_ALL_OGRE_NOW": {
           "points": 10,
@@ -18497,19 +18937,22 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SKELETONS_BEST_FRIEND": {
-          "points": 10,
-          "name": "Skeleton's best friend",
-          "description": "Mine 50 diamond ore as Skeleton",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DEATH_FROM_ABOVE": {
           "points": 10,
           "name": "Death from above",
           "description": "Get 12 total FK's or FA's with Parrots as Pirate",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "UNBRIDLED_RICHES": {
+          "points": 15,
+          "name": "Unbridled Riches",
+          "description": "Have 15 Dwarven Gold in your inventory at once"
+        },
+        "SIXTY_FEET_UNDER": {
+          "points": 10,
+          "name": "Sixty-feet Under",
+          "description": "Win a game without triggering Shortcut once"
         },
         "FEELS_BAD": {
           "points": 10,
@@ -18518,31 +18961,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SPEEDY_MINEMAN": {
-          "points": 10,
-          "name": "Speedy mineman",
-          "description": "Have shortcut activated for 5 minutes non-stop during deathmatch",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "COMPETITIVE": {
           "points": 10,
           "name": "Competitive",
           "description": "Get top final kills at the end of the match",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LUCKY_SUNNY": {
-          "points": 10,
-          "name": "Lucky Sunny",
-          "description": "Find 1000 chests while playing Herobrine",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "ASHES_TO_BASHES": {
-          "points": 10,
-          "name": "Ashes to bashes",
-          "description": "Win a game as Phoenix whilst still alive, without having used Resurrection",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18555,15 +18977,8 @@
         },
         "SEASONS_GREETINGS": {
           "points": 10,
-          "name": "Seasons Greetings",
-          "description": "Give away 1000 pieces of iron armor to your team during the month of December (party members excluded)",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "MAGNATE": {
-          "points": 20,
-          "name": "Magnate",
-          "description": "Unlock a Prestige IV upgrade for a class",
+          "name": "Season's Greetings",
+          "description": "Give away 1,500 pieces of iron armor to your teammates",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18574,24 +18989,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "BOW_DOWN": {
-          "points": 10,
-          "name": "Bow down",
-          "description": "Get 7 melee FK's or FA's as Skeleton in a single game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "TEAM_PLAYER": {
           "points": 10,
           "name": "Team Player",
           "description": "Affect 5 allies with a single refreshing sip during deathmatch as Cow",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY_COW": {
-          "points": 15,
-          "name": "Legendary Cow",
-          "description": "Get 14 FK's or FA's in a single game as Cow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18606,20 +19007,6 @@
           "points": 10,
           "name": "Maximum Effort",
           "description": "Get 3 Final Kills in 12 seconds as Dreadlord",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "REVENGE_OF_THE_WOLVES": {
-          "points": 10,
-          "name": "Revenge of the Wolves",
-          "description": "Get 5 total FK's or FA's with your wolves as Shaman.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "RUSHLORD": {
-          "points": 10,
-          "name": "Rushlord",
-          "description": "Deal 20,000 wither damage total as Dreadlord",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18651,31 +19038,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WIN_BEFORE_DEATHMATCH": {
-          "points": 15,
-          "name": "Easy Mode",
-          "description": "Win before the Deathmatch, without dying",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "BREADLORD": {
-          "points": 10,
-          "name": "Breadlord",
-          "description": "Craft 617 bread as Dreadlord",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "WHIRLPOOL": {
           "points": 10,
           "name": "Whirlpool",
           "description": "Damage 4 different players with one Tier V Splash as Squid",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LOUIS": {
-          "points": 10,
-          "name": "Greedy Louis",
-          "description": "Drink 500 Ultra Pasteurized Milk as Cow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18686,24 +19052,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_BLAZE": {
-          "points": 15,
-          "name": "Legendary Blaze",
-          "description": "Get 14 FK's or FA's in a single game as Blaze",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DONT_BLINK": {
           "points": 10,
           "name": "Don't Blink",
           "description": "Hit 1200 enemies while coming out of Shadow Cloak",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "EXCHANGE": {
-          "points": 15,
-          "name": "Exchange",
-          "description": "Purchase 10 Mythic Favor at once",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18721,20 +19073,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "WIN_WITH_LIVING_WITHER": {
-          "points": 15,
-          "name": "The Blood of My Enemies",
-          "description": "Win with your Wither still alive",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY_SHAMAN": {
-          "points": 15,
-          "name": "Legendary Shaman",
-          "description": "Get 14 FK's or FA's in a single game as Shaman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "TIMBER": {
           "points": 10,
           "name": "Timber!",
@@ -18742,12 +19080,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "AT_LEAST_HE_TRIED": {
-          "points": 10,
-          "name": "At least he tried",
-          "description": "Get a defensive final kill",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "MR_CLUTCHERSON": {
+          "points": 5,
+          "name": "Mr. Clutcherson",
+          "description": "Heal teammates who are below 10 HP 100 times"
         },
         "GOTCHA": {
           "points": 10,
@@ -18763,17 +19099,15 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "TRUE_TELEPORTER": {
+          "points": 10,
+          "name": "True Teleporter",
+          "description": "As Enderman, teleport 50 times in a single game"
+        },
         "NINJA_7S": {
           "points": 10,
           "name": "Ninja 7s",
           "description": "Craft an iron sword and get 7 FK's with that sword as Spider",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "LEGENDARY_GOLEM": {
-          "points": 15,
-          "name": "Legendary Golem",
-          "description": "Get 14 FK's or FA's in a single game as Golem",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18791,6 +19125,16 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "GATHERING_TALENT_INDEED": {
+          "points": 5,
+          "name": "Gathering Talent Indeed",
+          "description": "Obtain 500 pieces of armor using Dark Matter"
+        },
+        "HOWLING_MOON": {
+          "points": 10,
+          "name": "Howling Moon",
+          "description": "Damage 1,000 players with Lycanthropy"
+        },
         "MASTERPIECE": {
           "points": 10,
           "name": "Masterpiece",
@@ -18798,12 +19142,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MAX_ZOMBIE_SKILLS": {
+        "THE_HAND_THAT_FEEDS": {
           "points": 10,
-          "name": "Zombie Leader",
-          "description": "Max out all Zombie skills",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "The Hand That Feeds",
+          "description": "Have 2 teammates affected by a single Divine Intervention save themselevs from death"
         },
         "HAPPY": {
           "points": 5,
@@ -18822,14 +19164,7 @@
         "STAYIN_ALIVE": {
           "points": 10,
           "name": "Stayin' Alive",
-          "description": "Win a game without dying and get THE final kill with a Jukebox as Shaman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "NOT_A_GOLEM": {
-          "points": 10,
-          "name": "Not a Golem",
-          "description": "Win a game as Herobrine wearing a Diamond Chestplate and Diamond Boots",
+          "description": "Win a game without dying and contribute to THE final kill with a Jukebox as Shaman",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18840,12 +19175,20 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MASS_DESTRUCTION": {
+        "WORLD_ENDER": {
           "points": 10,
-          "name": "Mass destruction",
-          "description": "Break 3,000 blocks with detonate as Creeper",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "World Ender",
+          "description": "Final kill 4 players from the same team as Herobrine"
+        },
+        "NOM_NOM": {
+          "points": 5,
+          "name": "nom nom",
+          "description": "Obtain 1,000 pieces of junk food as Moleman"
+        },
+        "ONE_GIANT_LEAP": {
+          "points": 10,
+          "name": "One Giant Leap",
+          "description": "Kill 250 players with your Leap"
         },
         "INTO_THE_FUTURE": {
           "points": 10,
@@ -18861,12 +19204,15 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "TERMINATED_SCRIPT": {
-          "points": 10,
-          "name": "Terminated Script",
-          "description": "Siphon 3000 energy from killing enemies",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "SOULS_BOUND": {
+          "points": 5,
+          "name": "Souls Bound",
+          "description": "Final kill 3 players with tornadoes within 20 seconds as Shaman"
+        },
+        "ABIL_SPAMMER": {
+          "points": 5,
+          "name": "abil spammer",
+          "description": "Use Arcane Beam 1,000 times"
         },
         "CONSTRUCTOR": {
           "points": 10,
@@ -18875,24 +19221,20 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MOO_BRAWL": {
+        "TEAMKILL": {
           "points": 10,
-          "name": "Moo Brawl",
-          "description": "Have 600 buckets of your Bucket Barrier break to defend you",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Teamkill?",
+          "description": "Final kill a player while Dyed Disguise has you disguised as a member of their team"
+        },
+        "COLLATERAL": {
+          "points": 5,
+          "name": "Collateral",
+          "description": "Final kill 2 players with a single Detonate"
         },
         "MAX_SKELETON_SKILLS": {
           "points": 10,
           "name": "Skeleton Supremacy",
           "description": "Max out all Skeleton skills",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TAKING_THE_HEAT": {
-          "points": 10,
-          "name": "Taking the heat",
-          "description": "Kill an enemy wither while on fire as Golem",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -18903,12 +19245,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "UNTOUCHABLE": {
+        "LIVING_ON_THE_EDGE": {
           "points": 10,
-          "name": "Untouchable",
-          "description": "Melee 7 different enemies consecutively without taking damage as Enderman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Living on the Edge",
+          "description": "Trigger Heroism 250 times in deathmatch"
         },
         "TIME_TO_FEAST": {
           "points": 10,
@@ -18917,19 +19257,20 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "LEGENDARY_SNOWMAN": {
-          "points": 15,
-          "name": "Legendary Snowman",
-          "description": "Get 14 FK's or FA's in a single game as Snowman",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "FINE_DINING": {
+          "points": 5,
+          "name": "Fine Dining",
+          "description": "Get a final kill with Steak as Cow"
         },
-        "MAX_HEROBRINE_SKILLS": {
+        "SNOWBALL_FIGHT": {
+          "points": 5,
+          "name": "Snowball Fight!",
+          "description": "Final kill a player while holding a snowball"
+        },
+        "SIMMER_DOWN": {
           "points": 10,
-          "name": "Herobrine Super Saiyan",
-          "description": "Max out all Herobrine skills",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Simmer Down",
+          "description": "As Phoenix, final kill the player who currently has the most FK's or FA's"
         }
       },
       "tiered": {
@@ -19182,7 +19523,7 @@
           ]
         }
       },
-      "total_points": 2175,
+      "total_points": 2830,
       "total_legacy_points": 0
     },
     "warlords": {

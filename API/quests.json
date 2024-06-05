@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1712762905963,
+  "lastUpdated": 1717599770163,
   "quests": {
     "quake": [
       {
@@ -1107,6 +1107,60 @@
         "description": "Kill 15 players in Mega Walls"
       },
       {
+        "id": "mega_walls_aggressor",
+        "name": "Daily Quest: Aggressor",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 1500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mega_walls_wither_damage_daily",
+            "type": "IntegerObjective",
+            "integer": 500
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Deal 500 wither damage"
+      },
+      {
+        "id": "mega_walls_defender",
+        "name": "Daily Quest: Defender",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3500
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 1500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mega_walls_kill_daily",
+            "type": "IntegerObjective",
+            "integer": 10
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Get 10 defensive kills/assists"
+      },
+      {
         "id": "mega_walls_weekly",
         "name": "Weekly Quest: Mega Waller",
         "rewards": [
@@ -1139,6 +1193,38 @@
         "description": "Play 15 games of Mega Walls\nKill 25 players in Mega Walls"
       },
       {
+        "id": "mega_walls_teamwork",
+        "name": "Weekly Quest: Teamwork",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 21000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 4500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "mega_walls_wither_damage_weekly",
+            "type": "IntegerObjective",
+            "integer": 1500
+          },
+          {
+            "id": "mega_walls_kill_weekly",
+            "type": "IntegerObjective",
+            "integer": 50
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Deal 1,500 wither damage\nGet 50 defensive kills/assists"
+      },
+      {
         "id": "mega_walls_faithful",
         "name": "Mythic Quest: Faithful",
         "rewards": [
@@ -1168,7 +1254,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Play 3 games of standard Mega Walls\nWin a game of standard Mega Walls"
+        "description": "Play 3 games of standard Mega Walls\nWin a game with at least one kill in standard"
       }
     ],
     "arcade": [

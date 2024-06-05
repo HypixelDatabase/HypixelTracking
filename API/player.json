@@ -10187,7 +10187,10 @@
             "prestigeChecked4": true,
             "skill_level_gChecked4": true,
             "skill_level_cChecked4": true,
-            "skill_level_bChecked4": true
+            "skill_level_bChecked4": true,
+            "prestige_tag": {
+              "type": ""
+            }
           },
           "enderman": {
             "skill_level_b": 0,
@@ -10439,7 +10442,16 @@
           "sheep": {
             "unlocked": true,
             "skill_level_d": 0,
-            "skill_level_a": 0
+            "skill_level_a": 0,
+            "skill_level_b": 0,
+            "skill_level_c": 0,
+            "skill_level_g": 0
+          },
+          "angel": {
+            "unlocked": true
+          },
+          "dragon": {
+            "unlocked": true
           }
         },
         "zombie_reclaimed": 0,
@@ -16955,7 +16967,10 @@
         "werewolf_class_points": 0,
         "zombie_class_points": 0,
         "sheep_new_d": 0,
-        "sheep_new_a": 0
+        "sheep_new_a": 0,
+        "sheep_new_b": 0,
+        "sheep_new_c": 0,
+        "sheep_new_g": 0
       },
       "GingerBread": {
         "coins": 0,

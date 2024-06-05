@@ -9442,7 +9442,8 @@
           "ACHIEVEMENT_FIX_FLAG",
           "convertedStats",
           "CAKES_COUNT_FIX_FLAG",
-          "fighter_cry"
+          "fighter_cry",
+          "calculated_initial_class_points"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -16977,7 +16978,13 @@
         "sheep_new_a": 0,
         "sheep_new_b": 0,
         "sheep_new_c": 0,
-        "sheep_new_g": 0
+        "sheep_new_g": 0,
+        "arcanist_c_activations": 0,
+        "arcanist_c_activations_deathmatch": 0,
+        "arcanist_c_activations_deathmatch_standard": 0,
+        "arcanist_c_activations_standard": 0,
+        "arcanist_g_activations": 0,
+        "arcanist_g_activations_standard": 0
       },
       "GingerBread": {
         "coins": 0,

@@ -2868,13 +2868,17 @@
       },
       "mega_walls_defender": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mega_walls_kill_daily": 0
+          },
           "started": 0
         }
       },
       "mega_walls_teamwork": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mega_walls_kill_weekly": 0
+          },
           "started": 0
         }
       }

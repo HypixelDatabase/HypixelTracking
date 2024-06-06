@@ -17398,7 +17398,19 @@
         "zombie_players_healed": 0,
         "zombie_players_healed_standard": 0,
         "zombie_on_fire_kills": 0,
-        "zombie_on_fire_kills_standard": 0
+        "zombie_on_fire_kills_standard": 0,
+        "sheep_a_defender_assists": 0,
+        "sheep_a_defender_assists_standard": 0,
+        "sheep_b_assists": 0,
+        "sheep_b_assists_standard": 0,
+        "sheep_b_total_kills": 0,
+        "sheep_b_total_kills_standard": 0,
+        "sheep_final_kills": 0,
+        "sheep_final_kills_melee": 0,
+        "sheep_final_kills_melee_behind": 0,
+        "sheep_final_kills_melee_behind_standard": 0,
+        "sheep_final_kills_melee_standard": 0,
+        "sheep_final_kills_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -45225,7 +45237,8 @@
         "ARCADE__pixel_party_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
         "ARCADE__dropper_challenge": 0,
-        "TNTGAMES__tnt_wizards_challenge": 0
+        "TNTGAMES__tnt_wizards_challenge": 0,
+        "WALLS3__berserk_challenge": 0
       },
       "day_f": {
         "BEDWARS__offensive": 0,

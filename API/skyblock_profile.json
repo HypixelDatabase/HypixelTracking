@@ -12426,7 +12426,9 @@
               "crimson_isle_sulphurskitter_b": "",
               "crimson_isle_fetch_burning_eye_b": "",
               "crimson_isle_fetch_magmag_c": "",
-              "crimson_isle_gusher_a": ""
+              "crimson_isle_gusher_a": "",
+              "crimson_isle_soulfish_a": "",
+              "crimson_isle_kill_bladesoul_s": ""
             },
             "alchemist_quest": {
               "alchemist_quest_start": true,
@@ -12632,7 +12634,9 @@
               },
               "shady_bartender": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "telekinesis_applier": {
                 "completed_quest": true,

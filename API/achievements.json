@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1717599770136,
+  "lastUpdated": 1717784570171,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -17952,7 +17952,9 @@
         "JUDGEMENT_CALL": {
           "points": 10,
           "name": "Judgement Call",
-          "description": "Final kill 4 players with Iron Punch in a single game"
+          "description": "Final kill 4 players with Iron Punch in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ALOTV1": {
           "points": 10,
@@ -17983,7 +17985,9 @@
         "OCEANS_DEFENDER": {
           "points": 10,
           "name": "Ocean's Defender",
-          "description": "Get 250 defensive kills as Shark"
+          "description": "Get 250 defensive kills as Shark",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "REMOTE_DETONATION": {
           "points": 10,
@@ -18044,7 +18048,9 @@
         "KINGMAKER": {
           "points": 10,
           "name": "Kingmaker",
-          "description": "As Assassin, kill 2 Withers in a single game"
+          "description": "As Assassin, kill 2 Withers in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SLEEPYTIME": {
           "points": 10,
@@ -18070,12 +18076,16 @@
         "UNWAVERING": {
           "points": 5,
           "name": "Unwavering",
-          "description": "Heal 200HP from Generosity in a single game"
+          "description": "Heal 200HP from Generosity in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MAGICAL_PARTY": {
           "points": 10,
           "name": "Magical Party",
-          "description": "Have allies pick up your Magical Wool 20 times in a single game"
+          "description": "Have allies pick up your Magical Wool 20 times in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LASER_PRECISION": {
           "points": 10,
@@ -18101,7 +18111,9 @@
         "OCEANS_EXPLORER": {
           "points": 10,
           "name": "Ocean's Explorer",
-          "description": "Activate Sea Treasure 1,000 times"
+          "description": "Activate Sea Treasure 1,000 times",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_ASSASSIN": {
           "points": 15,
@@ -18120,12 +18132,16 @@
         "WOOLLY_RESPITE": {
           "points": 10,
           "name": "Woolly Respite",
-          "description": "Heal a total of 250 HP to allies with Wool War"
+          "description": "Heal a total of 250 HP to allies with Wool War",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "I_DONT_FEEL_SO_GOOD": {
           "points": 10,
           "name": "i don't feel so good",
-          "description": "Deal a total of 600 poison damage with Venom Strike"
+          "description": "Deal a total of 600 poison damage with Venom Strike",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "UNSTOPPABLE_FORCE": {
           "points": 5,
@@ -18143,22 +18159,30 @@
           "points": 15,
           "name": "Configuration",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_ANGEL": {
           "points": 15,
           "name": "Legendary Angel",
-          "description": "Get 14 FK's or FA's in a single game as Angel"
+          "description": "Get 14 FK's or FA's in a single game as Angel",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GRAVE_DIGGER": {
           "points": 10,
           "name": "Grave Digger",
-          "description": "As Snowman, final kill 3 players with your diamond shovel without dying"
+          "description": "As Snowman, final kill 3 players with your diamond shovel without dying",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LIGHT_EM_UP": {
           "points": 10,
           "name": "Light 'em up",
-          "description": "Final kill 10 players while they are on fire"
+          "description": "Final kill 10 players while they are on fire",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BURIAL_AT_SEA": {
           "points": 10,
@@ -18203,7 +18227,9 @@
         "TARGET_ELIMINATED": {
           "points": 15,
           "name": "Target Eliminated",
-          "description": "In a single game as Hunter, final kill 3 players you already killed while their Wither was alive"
+          "description": "In a single game as Hunter, final kill 3 players you already killed while their Wither was alive",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FIRST_GATHERING_SKILL_UPGRADE": {
           "points": 5,
@@ -18260,12 +18286,16 @@
         "REBORN": {
           "points": 10,
           "name": "Reborn",
-          "description": "Final kill a player within 10 seconds of resurrecting as Phoenix"
+          "description": "Final kill a player within 10 seconds of resurrecting as Phoenix",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TOUGH_SKIN": {
           "points": 10,
           "name": "Tough Skin",
-          "description": "As Pigman, be granted resistance from Endurance for a total of 500 seconds"
+          "description": "As Pigman, be granted resistance from Endurance for a total of 500 seconds",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SKELETONS_BEST_FRIEND": {
           "points": 10,
@@ -18319,7 +18349,9 @@
         "INSTABOOM": {
           "points": 10,
           "name": "INSTABOOM!",
-          "description": "Kill 20 players with Primed TNT"
+          "description": "Kill 20 players with Primed TNT",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "REVENGE_OF_THE_WOLVES": {
           "points": 10,
@@ -18366,7 +18398,9 @@
         "LEGENDARY_SHEEP": {
           "points": 15,
           "name": "Legendary Sheep",
-          "description": "Get 14 FK's or FA's in a single game as Sheep"
+          "description": "Get 14 FK's or FA's in a single game as Sheep",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "EXCHANGE": {
           "points": 15,
@@ -18378,7 +18412,9 @@
         "CALL_IT_A_COMEBACK": {
           "points": 10,
           "name": "Call It A Comeback",
-          "description": "Kill a Wither after your Wither has been killed as Shaman"
+          "description": "Kill a Wither after your Wither has been killed as Shaman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "WIN_WITH_LIVING_WITHER": {
           "points": 15,
@@ -18411,17 +18447,23 @@
         "BEYOND_THE_GRAVE": {
           "points": 10,
           "name": "Beyond The Grave",
-          "description": "Get 15 FKs/FKAs with any class after being final killed"
+          "description": "Get 15 FKs/FKAs with any class after being final killed",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "RANGED_TRAINING": {
           "points": 10,
           "name": "Ranged Training",
-          "description": "Win a game using only your Bow to deal damage as Skeleton"
+          "description": "Win a game using only your Bow to deal damage as Skeleton",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "VEGETARIAN": {
           "points": 5,
           "name": "Vegetarian",
-          "description": "Win a game as Werewolf without eating any steak"
+          "description": "Win a game as Werewolf without eating any steak",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MAX_ZOMBIE_SKILLS": {
           "points": 10,
@@ -18433,7 +18475,9 @@
         "GUARDIAN_ANGEL": {
           "points": 5,
           "name": "Guardian Angel",
-          "description": "Give a player your Halo before the Walls fall and win the game with both of you alive and them holding your Halo"
+          "description": "Give a player your Halo before the Walls fall and win the game with both of you alive and them holding your Halo",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NOT_A_GOLEM": {
           "points": 10,
@@ -18452,12 +18496,16 @@
         "EXPLOSIVE_ENDING": {
           "points": 10,
           "name": "Explosive Ending",
-          "description": "Get 3 Final Kills with Explosive Arrow in a single game"
+          "description": "Get 3 Final Kills with Explosive Arrow in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FIERY_TOMB": {
           "points": 5,
           "name": "Fiery Tomb",
-          "description": "Final kill a player who is on fire with your Squid Splash"
+          "description": "Final kill a player who is on fire with your Squid Splash",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TERMINATED_SCRIPT": {
           "points": 10,
@@ -18483,12 +18531,16 @@
         "DRAGONBORN": {
           "points": 10,
           "name": "Dragonborn",
-          "description": "As Dragon, set 15 different players on fire in a single game"
+          "description": "As Dragon, set 15 different players on fire in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_DRAGON": {
           "points": 15,
           "name": "Legendary Dragon",
-          "description": "Get 14 FK's or FA's in a single game as Dragon"
+          "description": "Get 14 FK's or FA's in a single game as Dragon",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "UNTOUCHABLE": {
           "points": 10,
@@ -18507,7 +18559,9 @@
         "DERPBRINES_REVENGE": {
           "points": 5,
           "name": "Derpbrine's Revenge",
-          "description": "As Herobrine, final kill someone who killed you earlier in the game"
+          "description": "As Herobrine, final kill someone who killed you earlier in the game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MAX_HEROBRINE_SKILLS": {
           "points": 10,
@@ -18519,7 +18573,9 @@
         "CURRENT_OBJECTIVE_SURVIVE": {
           "points": 15,
           "name": "Current Objective: Survive",
-          "description": "Win a game as Automaton after starting deathmatch as the team with the least amount of players remaining"
+          "description": "Win a game as Automaton after starting deathmatch as the team with the least amount of players remaining",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "READY_SET_BOOM": {
           "points": 10,
@@ -18599,7 +18655,9 @@
         "LADY_LUCK": {
           "points": 10,
           "name": "Lady Luck",
-          "description": "Obtain 5 unique items from Treasure Looter in a game"
+          "description": "Obtain 5 unique items from Treasure Looter in a game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_HUNTER": {
           "points": 15,
@@ -18646,7 +18704,9 @@
         "TRIPLESHOT": {
           "points": 10,
           "name": "Tripleshot",
-          "description": "Damage 3 enemies with a single Arcane Beam"
+          "description": "Damage 3 enemies with a single Arcane Beam",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FAILED_EXPERIMENT": {
           "points": 10,
@@ -18693,7 +18753,9 @@
         "CONTRACT_KILLER": {
           "points": 15,
           "name": "Contract Killer",
-          "description": "Final kill 5 different classes in a single game"
+          "description": "Final kill 5 different classes in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "I_AM_COW": {
           "points": 10,
@@ -18705,7 +18767,9 @@
         "EVERBLIND": {
           "points": 10,
           "name": "Everblind",
-          "description": "Blind 250 players with your Inner Ink"
+          "description": "Blind 250 players with your Inner Ink",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_ENDERMAN": {
           "points": 15,
@@ -18724,7 +18788,9 @@
         "ASHES_TO_ASHES": {
           "points": 10,
           "name": "Ashes to Ashes",
-          "description": "Final kill 5 players with fire as Dragon"
+          "description": "Final kill 5 players with fire as Dragon",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MUCH_DOGS": {
           "points": 10,
@@ -18771,7 +18837,9 @@
         "DRAGONS_EYE": {
           "points": 10,
           "name": "Dragon's Eye",
-          "description": "Set 4 different enemies on fire with Hellfire without missing a shot as Dragon"
+          "description": "Set 4 different enemies on fire with Hellfire without missing a shot as Dragon",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_ZOMBIE": {
           "points": 15,
@@ -18783,7 +18851,9 @@
         "CROSSFIRE": {
           "points": 10,
           "name": "Crossfire",
-          "description": "Rend 5 players with a single ability as Renegade"
+          "description": "Rend 5 players with a single ability as Renegade",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HARD_AS_STEEL": {
           "points": 10,
@@ -18795,12 +18865,16 @@
         "COMPLETIONIST": {
           "points": 20,
           "name": "Completionist",
-          "description": "Unlock a Prestige V upgrade for a class"
+          "description": "Unlock a Prestige V upgrade for a class",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "IRON_HEARTED": {
           "points": 10,
           "name": "Iron Hearted",
-          "description": "Receive a total of 1,000 HP of Absorption from Iron Heart as Golem"
+          "description": "Receive a total of 1,000 HP of Absorption from Iron Heart as Golem",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PEACEKREEPER": {
           "points": 10,
@@ -18824,7 +18898,9 @@
         "THE_CHOSEN_FEW": {
           "points": 10,
           "name": "The Chosen Few",
-          "description": "Win a game as Dreadlord with 3 or less teammates remaining"
+          "description": "Win a game as Dreadlord with 3 or less teammates remaining",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ON_POINT": {
           "points": 10,
@@ -18857,12 +18933,16 @@
         "FRIGHTFUL_FLAMES": {
           "points": 10,
           "name": "Frightful Flames",
-          "description": "Kill a player who is on fire while wearing a Pumpkin on your head"
+          "description": "Kill a player who is on fire while wearing a Pumpkin on your head",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THINK_TWICE": {
           "points": 5,
           "name": "Think Twice",
-          "description": "Have a player trigger your Thick Coat while Dyed Disguise is active"
+          "description": "Have a player trigger your Thick Coat while Dyed Disguise is active",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ALCHEMY_100": {
           "points": 10,
@@ -18914,7 +18994,9 @@
         "END_TO_END": {
           "points": 15,
           "name": "End to End",
-          "description": "Using any class, get the first and last final kill in a game"
+          "description": "Using any class, get the first and last final kill in a game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ITS_ALL_OGRE_NOW": {
           "points": 10,
@@ -18947,12 +19029,16 @@
         "UNBRIDLED_RICHES": {
           "points": 15,
           "name": "Unbridled Riches",
-          "description": "Have 15 Dwarven Gold in your inventory at once"
+          "description": "Have 15 Dwarven Gold in your inventory at once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SIXTY_FEET_UNDER": {
           "points": 10,
           "name": "Sixty-feet Under",
-          "description": "Win a game without triggering Shortcut once"
+          "description": "Win a game without triggering Shortcut once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FEELS_BAD": {
           "points": 10,
@@ -19102,7 +19188,9 @@
         "TRUE_TELEPORTER": {
           "points": 10,
           "name": "True Teleporter",
-          "description": "As Enderman, teleport 50 times in a single game"
+          "description": "As Enderman, teleport 50 times in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NINJA_7S": {
           "points": 10,
@@ -19133,7 +19221,9 @@
         "HOWLING_MOON": {
           "points": 10,
           "name": "Howling Moon",
-          "description": "Damage 1,000 players with Lycanthropy"
+          "description": "Damage 1,000 players with Lycanthropy",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MASTERPIECE": {
           "points": 10,
@@ -19178,17 +19268,23 @@
         "WORLD_ENDER": {
           "points": 10,
           "name": "World Ender",
-          "description": "Final kill 4 players from the same team as Herobrine"
+          "description": "Final kill 4 players from the same team as Herobrine",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NOM_NOM": {
           "points": 5,
           "name": "nom nom",
-          "description": "Obtain 1,000 pieces of junk food as Moleman"
+          "description": "Obtain 1,000 pieces of junk food as Moleman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ONE_GIANT_LEAP": {
           "points": 10,
           "name": "One Giant Leap",
-          "description": "Kill 250 players with your Leap"
+          "description": "Kill 250 players with your Leap",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "INTO_THE_FUTURE": {
           "points": 10,
@@ -19207,12 +19303,16 @@
         "SOULS_BOUND": {
           "points": 5,
           "name": "Souls Bound",
-          "description": "Final kill 3 players with tornadoes within 20 seconds as Shaman"
+          "description": "Final kill 3 players with tornadoes within 20 seconds as Shaman",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ABIL_SPAMMER": {
           "points": 5,
           "name": "abil spammer",
-          "description": "Use Arcane Beam 1,000 times"
+          "description": "Use Arcane Beam 1,000 times",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CONSTRUCTOR": {
           "points": 10,
@@ -19224,12 +19324,16 @@
         "TEAMKILL": {
           "points": 10,
           "name": "Teamkill?",
-          "description": "Final kill a player while Dyed Disguise has you disguised as a member of their team"
+          "description": "Final kill a player while Dyed Disguise has you disguised as a member of their team",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "COLLATERAL": {
           "points": 5,
           "name": "Collateral",
-          "description": "Final kill 2 players with a single Detonate"
+          "description": "Final kill 2 players with a single Detonate",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MAX_SKELETON_SKILLS": {
           "points": 10,
@@ -19248,7 +19352,9 @@
         "LIVING_ON_THE_EDGE": {
           "points": 10,
           "name": "Living on the Edge",
-          "description": "Trigger Heroism 250 times in deathmatch"
+          "description": "Trigger Heroism 250 times in deathmatch",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TIME_TO_FEAST": {
           "points": 10,
@@ -19260,17 +19366,23 @@
         "FINE_DINING": {
           "points": 5,
           "name": "Fine Dining",
-          "description": "Get a final kill with Steak as Cow"
+          "description": "Get a final kill with Steak as Cow",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SNOWBALL_FIGHT": {
           "points": 5,
           "name": "Snowball Fight!",
-          "description": "Final kill a player while holding a snowball"
+          "description": "Final kill a player while holding a snowball",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SIMMER_DOWN": {
           "points": 10,
           "name": "Simmer Down",
-          "description": "As Phoenix, final kill the player who currently has the most FK's or FA's"
+          "description": "As Phoenix, final kill the player who currently has the most FK's or FA's",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         }
       },
       "tiered": {

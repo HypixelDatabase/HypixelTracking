@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1717784570171,
+  "lastUpdated": 1718046770130,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -14492,6 +14492,11 @@
           "description": "Hit a player with a snowball in UHC",
           "globalPercentUnlocked": 1
         },
+        "RELAXING_BINGO": {
+          "points": 20,
+          "name": "Relaxing Bingo",
+          "description": "Complete the Hard Bingo Card during a Summer Event"
+        },
         "OASIS_JAKE": {
           "points": 5,
           "name": "Oasis Jake",
@@ -14767,7 +14772,7 @@
           ]
         }
       },
-      "total_points": 360,
+      "total_points": 380,
       "total_legacy_points": 185
     },
     "supersmash": {
@@ -17940,7 +17945,9 @@
         "PERFECT_DISGUISE": {
           "points": 10,
           "name": "Perfect Disguise",
-          "description": "Go the entire duration of your Dyed Disguise without taking damage 100 times"
+          "description": "Go the entire duration of your Dyed Disguise without taking damage 100 times",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY_SQUID": {
           "points": 15,
@@ -17980,7 +17987,9 @@
         "YOUNG_THUG": {
           "points": 5,
           "name": "Young Thug",
-          "description": "Final kill 5 players while Endurance is active"
+          "description": "Final kill 5 players while Endurance is active",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "OCEANS_DEFENDER": {
           "points": 10,
@@ -18146,7 +18155,9 @@
         "UNSTOPPABLE_FORCE": {
           "points": 5,
           "name": "Unstoppable Force",
-          "description": "Kill 25 players with Berserk active"
+          "description": "Kill 25 players with Berserk active",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MINE_DIAMOND": {
           "points": 10,
@@ -18187,7 +18198,9 @@
         "BURIAL_AT_SEA": {
           "points": 10,
           "name": "Burial At Sea",
-          "description": "Final kill 5 players while in water as Pirate"
+          "description": "Final kill 5 players while in water as Pirate",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THIS_IS_MY_FINAL_FORM": {
           "points": 10,
@@ -18241,7 +18254,9 @@
         "BLAZECALLER": {
           "points": 10,
           "name": "Blazecaller",
-          "description": "Spawn 500 blazes with Call of the Blazes"
+          "description": "Spawn 500 blazes with Call of the Blazes",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ATTACK_WITHER": {
           "points": 5,
@@ -18886,7 +18901,9 @@
         "ONE_WITH_NATURE": {
           "points": 10,
           "name": "One With Nature",
-          "description": "Get 50 FK's or FA's with Force of Nature active as Hunter"
+          "description": "Get 50 FK's or FA's with Force of Nature active as Hunter",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TRUST_ME_IM_A_DOCTOR": {
           "points": 10,
@@ -19216,7 +19233,9 @@
         "GATHERING_TALENT_INDEED": {
           "points": 5,
           "name": "Gathering Talent Indeed",
-          "description": "Obtain 500 pieces of armor using Dark Matter"
+          "description": "Obtain 500 pieces of armor using Dark Matter",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HOWLING_MOON": {
           "points": 10,

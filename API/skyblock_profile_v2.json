@@ -974,7 +974,10 @@
               "queen": {
                 "talked_to": true
               },
-              "dean": {},
+              "dean": {
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
+              },
               "captain_ahone": {
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
@@ -1229,7 +1232,8 @@
               "crimson_isle_dojo_test_of_mob_kb_brating_a": "",
               "crimson_isle_fetch_10_corrupted_fragment_a": "",
               "crimson_isle_slugfish_b": "",
-              "crimson_isle_fetch_40_magmag_a": ""
+              "crimson_isle_fetch_40_magmag_a": "",
+              "PYROCLASTIC_SCALE": 0
             },
             "alchemist_quest": {
               "alchemist_quest_start": true,
@@ -5454,7 +5458,9 @@
             "porc": 0,
             "bartender_ezekiel": 0,
             "mazakala": 0,
-            "arbadak": 0
+            "arbadak": 0,
+            "barbarian_blacksmith": 0,
+            "chihai_child_1": 0
           },
           "choose_faction": {
             "status": "",

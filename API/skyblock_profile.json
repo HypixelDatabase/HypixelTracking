@@ -3245,7 +3245,9 @@
             "arbadak": 0,
             "offea": 0,
             "mage_blacksmith": 0,
-            "an": 0
+            "an": 0,
+            "barbarian_blacksmith": 0,
+            "chihai_child_1": 0
           },
           "choose_faction": {
             "status": "",
@@ -12539,7 +12541,10 @@
                 "talked_to": true,
                 "completed_quest": true
               },
-              "dean": {},
+              "dean": {
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
+              },
               "elle": {
                 "last_call": 0
               },

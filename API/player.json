@@ -2866,7 +2866,12 @@
             "mega_walls_wither_damage_daily": 0
           },
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "mega_walls_defender": {
         "active": {
@@ -17469,7 +17474,25 @@
         "shark_c_activations_deathmatch": 0,
         "shark_c_activations_deathmatch_standard": 0,
         "enderman_on_fire_kills": 0,
-        "enderman_on_fire_kills_standard": 0
+        "enderman_on_fire_kills_standard": 0,
+        "dragon_a_activations_deathmatch": 0,
+        "dragon_a_activations_deathmatch_standard": 0,
+        "dragon_final_kills_ranged": 0,
+        "dragon_final_kills_ranged_30": 0,
+        "dragon_final_kills_ranged_30_standard": 0,
+        "dragon_final_kills_ranged_standard": 0,
+        "dragon_golden_apples_eaten": 0,
+        "dragon_golden_apples_eaten_standard": 0,
+        "dragon_b_assists": 0,
+        "dragon_b_assists_standard": 0,
+        "dragon_b_total_kills": 0,
+        "dragon_b_total_kills_standard": 0,
+        "dragon_wins": 0,
+        "dragon_wins_standard": 0,
+        "dragon_wither_damage": 0,
+        "dragon_wither_damage_standard": 0,
+        "dragon_wither_kills": 0,
+        "dragon_wither_kills_standard": 0
       },
       "GingerBread": {
         "coins": 0,

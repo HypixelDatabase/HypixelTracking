@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1718046770130,
+  "lastUpdated": 1718207570119,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -18282,7 +18282,9 @@
         "CHASED_DOWN": {
           "points": 10,
           "name": "Chased Down",
-          "description": "Final kill 20 players within 5 seconds of using your Grappling Hook"
+          "description": "Final kill 20 players within 5 seconds of using your Grappling Hook",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THANKS_CONNOR": {
           "points": 10,
@@ -19186,7 +19188,9 @@
         "MR_CLUTCHERSON": {
           "points": 5,
           "name": "Mr. Clutcherson",
-          "description": "Heal teammates who are below 10 HP 100 times"
+          "description": "Heal teammates who are below 10 HP 100 times",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GOTCHA": {
           "points": 10,

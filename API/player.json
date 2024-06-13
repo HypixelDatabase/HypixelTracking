@@ -17514,7 +17514,13 @@
         "automaton_c_activations": 0,
         "automaton_c_activations_standard": 0,
         "automaton_g_activations": 0,
-        "automaton_g_activations_standard": 0
+        "automaton_g_activations_standard": 0,
+        "dreadlord_finals_with_strength": 0,
+        "dreadlord_finals_with_strength_standard": 0,
+        "finals_with_strength": 0,
+        "finals_with_strength_standard": 0,
+        "assassin_c_activations_deathmatch": 0,
+        "assassin_c_activations_deathmatch_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -44994,7 +45000,9 @@
         "ARCADE__blocking_dead_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
         "ARCADE__dropper_challenge": 0,
-        "QUAKECRAFT__powerup_challenge": 0
+        "QUAKECRAFT__powerup_challenge": 0,
+        "WALLS3__comeback_challenge": 0,
+        "WALLS3__berserk_challenge": 0
       },
       "day_a": {
         "SKYWARS__feeding_the_void_challenge": 0,

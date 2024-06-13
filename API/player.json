@@ -17544,7 +17544,11 @@
         "hunter_c_activations": 0,
         "hunter_c_activations_deathmatch": 0,
         "hunter_c_activations_deathmatch_standard": 0,
-        "hunter_c_activations_standard": 0
+        "hunter_c_activations_standard": 0,
+        "creeper_primed_tnt_kills": 0,
+        "creeper_primed_tnt_kills_standard": 0,
+        "primed_tnt_kills": 0,
+        "primed_tnt_kills_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -45094,7 +45098,8 @@
         "ARCADE__dropper_challenge": 0,
         "ARCADE__hole_in_the_wall_challenge": 0,
         "BEDWARS__defensive": 0,
-        "WALLS3__protector_challenge": 0
+        "WALLS3__protector_challenge": 0,
+        "WALLS3__berserk_challenge": 0
       },
       "day_b": {
         "SKYWARS__feeding_the_void_challenge": 0,

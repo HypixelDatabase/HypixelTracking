@@ -11243,7 +11243,9 @@
           "6": "",
           "7": "",
           "8": "",
-          "31": ""
+          "30": "",
+          "31": "",
+          "34": ""
         },
         "weeklyLosses_face_off_Zombie": 0,
         "assists_Zombie": 0,
@@ -17619,7 +17621,11 @@
         "renegade_g_activations": 0,
         "renegade_g_activations_standard": 0,
         "renegade_players_healed": 0,
-        "renegade_players_healed_standard": 0
+        "renegade_players_healed_standard": 0,
+        "settings": {
+          "half": true,
+          "low": true
+        }
       },
       "GingerBread": {
         "coins": 0,

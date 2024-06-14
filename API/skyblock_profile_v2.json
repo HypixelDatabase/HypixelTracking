@@ -1504,7 +1504,8 @@
           "greater_mines_last_access": 0,
           "biomes": {
             "precursor": {
-              "parts_delivered": []
+              "parts_delivered": [],
+              "talked_to_professor": true
             },
             "goblin": {
               "king_quest_active": true,

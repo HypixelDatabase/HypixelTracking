@@ -39506,7 +39506,19 @@
         "leaderboardSettings": {
           "resetType": "",
           "mode": ""
-        }
+        },
+        "inner_ink_blinds": 0,
+        "inner_ink_blinds_standard": 0,
+        "pigman_c_resistance_time_seconds": 0,
+        "pigman_c_resistance_time_seconds_standard": 0,
+        "pigman_resistance_time_seconds": 0,
+        "pigman_resistance_time_seconds_standard": 0,
+        "resistance_time_seconds": 0,
+        "resistance_time_seconds_standard": 0,
+        "squid_b_inner_ink_blinds": 0,
+        "squid_b_inner_ink_blinds_standard": 0,
+        "squid_inner_ink_blinds": 0,
+        "squid_inner_ink_blinds_standard": 0
       },
       "BuildBattle": {
         "wins": 0,

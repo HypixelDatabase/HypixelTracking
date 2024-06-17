@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1718207570119,
+  "lastUpdated": 1718615571793,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -18604,7 +18604,9 @@
         "REWRITING_FATE": {
           "points": 10,
           "name": "Rewriting Fate",
-          "description": "Use Divine Intervention to delay player deaths 250 times"
+          "description": "Use Divine Intervention to delay player deaths 250 times",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "WOLF_SMASH": {
           "points": 10,

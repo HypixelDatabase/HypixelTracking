@@ -17790,7 +17790,13 @@
         "enderman_final_assists_after_final_killed": 0,
         "enderman_final_assists_after_final_killed_standard": 0,
         "shark_players_healed": 0,
-        "shark_players_healed_standard": 0
+        "shark_players_healed_standard": 0,
+        "blaze_b_activations_deathmatch": 0,
+        "blaze_b_activations_deathmatch_standard": 0,
+        "blaze_g_activations_deathmatch": 0,
+        "blaze_g_activations_deathmatch_standard": 0,
+        "blaze_on_fire_final_kills": 0,
+        "blaze_on_fire_final_kills_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -45714,7 +45720,8 @@
         "GINGERBREAD__banana_challenge": 0,
         "GINGERBREAD__coin_challenge": 0,
         "ARCADE__throw_out_challenge": 0,
-        "WALLS3__protector_challenge": 0
+        "WALLS3__protector_challenge": 0,
+        "WALLS3__comeback_challenge": 0
       }
     },
     "parkourCheckpointBests": {

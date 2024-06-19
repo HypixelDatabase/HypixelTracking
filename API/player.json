@@ -989,7 +989,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mega_walls_win": 0
+          },
           "started": 0
         }
       },
@@ -17849,7 +17851,9 @@
           "5": "",
           "7": "",
           "8": ""
-        }
+        },
+        "assassin_players_healed": 0,
+        "assassin_players_healed_standard": 0
       },
       "GingerBread": {
         "coins": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1718615571793,
+  "lastUpdated": 1718905762419,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -122,6 +122,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "ZOMBIES_PRISON_TURRET": {
+          "points": 5,
+          "name": "Zombies: Automated Shooter",
+          "description": "Purchase the Deployable Turret Skill in the Prison Map"
+        },
         "DROPPER_SPEEDFALLER": {
           "points": 15,
           "name": "Dropper: Speedfaller",
@@ -170,6 +175,12 @@
           "description": "Upgrade your weapon using the Ultimate Machine in Zombies",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ZOMBIES_PRISON_SECRET_BEYOND": {
+          "points": 15,
+          "name": "Zombies: What Lies Beyond?",
+          "description": "???",
+          "secret": true
         },
         "PIG_FISHING_SUPER_BACON": {
           "points": 5,
@@ -384,6 +395,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "ZOMBIES_PRISON_COMPUTERS": {
+          "points": 10,
+          "name": "Zombies: Technical Difficulties!",
+          "description": "???",
+          "secret": true
+        },
         "DW_QUICK_WIN": {
           "points": 15,
           "name": "Dragon Wars: Quick Win!",
@@ -509,6 +526,11 @@
           "description": "Find and kill 5 props in a game of Prop Hunt",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ZOMBIES_TIME_TRIAL_PRISON": {
+          "points": 10,
+          "name": "Zombies: Time Trial Prison",
+          "description": "Complete the Prison map in under 30 minutes"
         },
         "GALAXY_WARS_PERFECT_DEFLECT": {
           "points": 5,
@@ -707,6 +729,11 @@
           "description": "Complete the Dead End map in under 30 minutes",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ZOMBIES_PRISON_ESCAPE": {
+          "points": 15,
+          "name": "Zombies: Prison Escape",
+          "description": "Use the helicopter to escape the Prison Map in Zombies"
         },
         "CTW_NINJA": {
           "points": 15,
@@ -1612,7 +1639,7 @@
           ]
         }
       },
-      "total_points": 2965,
+      "total_points": 3020,
       "total_legacy_points": 5
     },
     "arena": {

@@ -12316,7 +12316,9 @@
               "MAGMA_BOSS": true,
               "MAGE_OUTLAW": true
             },
-            "kuuda_boss_daily": {},
+            "kuuda_boss_daily": {
+              "INFERNAL": true
+            },
             "quest_rewards": {
               "WITHER_SOUL": 0,
               "crimson_isle_dojo_test_of_snake_any_d": "",

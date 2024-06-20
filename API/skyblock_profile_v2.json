@@ -1130,7 +1130,9 @@
               }
             },
             "miniboss_daily": {},
-            "kuuda_boss_daily": {},
+            "kuuda_boss_daily": {
+              "INFERNAL": true
+            },
             "quest_rewards": {
               "BURNING_EYE": 0,
               "crimson_isle_dojo_test_of_archer_drating_c": "",

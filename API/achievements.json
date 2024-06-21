@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1718905762419,
+  "lastUpdated": 1718989762406,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -125,7 +125,9 @@
         "ZOMBIES_PRISON_TURRET": {
           "points": 5,
           "name": "Zombies: Automated Shooter",
-          "description": "Purchase the Deployable Turret Skill in the Prison Map"
+          "description": "Purchase the Deployable Turret Skill in the Prison Map",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DROPPER_SPEEDFALLER": {
           "points": 15,
@@ -180,7 +182,9 @@
           "points": 15,
           "name": "Zombies: What Lies Beyond?",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PIG_FISHING_SUPER_BACON": {
           "points": 5,
@@ -399,7 +403,9 @@
           "points": 10,
           "name": "Zombies: Technical Difficulties!",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DW_QUICK_WIN": {
           "points": 15,
@@ -530,7 +536,9 @@
         "ZOMBIES_TIME_TRIAL_PRISON": {
           "points": 10,
           "name": "Zombies: Time Trial Prison",
-          "description": "Complete the Prison map in under 30 minutes"
+          "description": "Complete the Prison map in under 30 minutes",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GALAXY_WARS_PERFECT_DEFLECT": {
           "points": 5,
@@ -733,7 +741,9 @@
         "ZOMBIES_PRISON_ESCAPE": {
           "points": 15,
           "name": "Zombies: Prison Escape",
-          "description": "Use the helicopter to escape the Prison Map in Zombies"
+          "description": "Use the helicopter to escape the Prison Map in Zombies",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CTW_NINJA": {
           "points": 15,

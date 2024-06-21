@@ -3703,7 +3703,15 @@
         "prisoner_pigman_2_cell_zombie_kills_zombies": 0,
         "wins_zombies_prison": 0,
         "wins_zombies_prison_normal": 0,
-        "wolf_drowned_zombie_kills_zombies": 0
+        "wolf_drowned_zombie_kills_zombies": 0,
+        "best_round_zombies_prison_rip": 0,
+        "deaths_zombies_prison_rip": 0,
+        "players_revived_zombies_prison_rip": 0,
+        "times_knocked_down_zombies_prison_rip": 0,
+        "total_rounds_survived_zombies_prison_rip": 0,
+        "windows_repaired_zombies_prison_rip": 0,
+        "zombie_kills_zombies_prison_rip": 0,
+        "doors_opened_zombies_prison_rip": 0
       },
       "Arena": {
         "coins": 0,
@@ -45209,7 +45217,8 @@
         "ARCADE__dragon_wars_challenge": 0,
         "WALLS__double_kill_challenge": 0,
         "WOOL_GAMES__flawless_challenge": 0,
-        "ARCADE__dropper_challenge": 0
+        "ARCADE__dropper_challenge": 0,
+        "ARCADE__zombies_challenge": 0
       },
       "day_j": {
         "SKYWARS__feeding_the_void_challenge": 0,

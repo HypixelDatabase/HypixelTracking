@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1713233460373,
+  "lastUpdated": 1718970623352,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -93,6 +93,11 @@
       "id": 5
     },
     "BATTLEGROUND": {
+      "modeNames": {
+        "DOM": "Domination",
+        "CTF": "Capture the Flag",
+        "TDM": "Team Deathmatch"
+      },
       "databaseName": "Battleground",
       "name": "Warlords",
       "id": 23

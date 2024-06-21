@@ -1133,7 +1133,10 @@
                 "completed_at": 0
               }
             },
-            "miniboss_daily": {},
+            "miniboss_daily": {
+              "BLADESOUL": true,
+              "MAGE_OUTLAW": true
+            },
             "kuuda_boss_daily": {
               "INFERNAL": true,
               "FIERY": true

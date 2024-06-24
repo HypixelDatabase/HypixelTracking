@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1716908167000,
+  "lastUpdated": 1719246424000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -17573,6 +17573,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE4Njk5YmFlOWYxZTAyYTdhNjUxODNiZDAwNzk0ODllNGU2MTVkYWRkY2UzYzkyNjQ5Y2RlZDMxMmIyMjZkYyJ9fX0=",
+      "name": "Jungle Cabin",
+      "furniture": "JUNGLE_CABIN",
+      "tier": "EPIC",
+      "id": "JUNGLE_CABIN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTEwMGUxNzdlMjYyNGJhOTQ5NTg4ZWZmODEzODkzMzJlZWMxZDM5MDg1YWExMWMwNWIzZjQxYzcwMjQxNmU4OSJ9fX0=",
       "name": "Bear Bench",
       "furniture": "BEAR_BENCH",
@@ -17837,11 +17846,29 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQzNTlkYTRmNzBmMWJjYmU4MTU0NWZjM2E5N2I2NWMxZDcwZjNmOTAxOThkNzU3ODQ1YWFiMTk4YjZlMDA1OSJ9fX0=",
+      "name": "Totem",
+      "furniture": "TOTEM",
+      "tier": "EPIC",
+      "id": "TOTEM"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc5N2ZlNTQ5OTE5MWRkZWM5NGY1MGZhNmFiOWNiYzE4YzljZDZmYTFiOTdlMzZiNGQ1MTliNjIzMTkzZDUifX19",
       "name": "Crab",
       "furniture": "CRAB",
       "tier": "RARE",
       "id": "CRAB"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlMWQzMDhkYzNkNzI1M2YzMmUzMDBlZGE0ZDAwMDNmZTY0YTU2YmYzYTU0NjZmZDIwMTFiMzVmNDAzZGEzYiJ9fX0=",
+      "name": "Jungle Table",
+      "furniture": "JUNGLE_TABLE",
+      "tier": "EPIC",
+      "id": "JUNGLE_TABLE"
     },
     {
       "material": "SKULL_ITEM",
@@ -17995,6 +18022,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlMWQzMDhkYzNkNzI1M2YzMmUzMDBlZGE0ZDAwMDNmZTY0YTU2YmYzYTU0NjZmZDIwMTFiMzVmNDAzZGEzYiJ9fX0=",
+      "name": "Jungle Dresser",
+      "furniture": "JUNGLE_DRESSER",
+      "tier": "EPIC",
+      "id": "JUNGLE_DRESSER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ0MjE3ODJmYTllMDQxY2E4Y2NlNmFhYzNhMGIzMzdlY2MxYjk3MWIxNjhlY2JlZWY2OGI4ODEzZWUzOTZkYiJ9fX0=",
       "name": "Small Pool",
       "furniture": "SMALL_POOL",
@@ -18009,6 +18045,15 @@
       "furniture": "BUNNY_BENCH",
       "tier": "EPIC",
       "id": "BUNNY_BENCH"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlMWQzMDhkYzNkNzI1M2YzMmUzMDBlZGE0ZDAwMDNmZTY0YTU2YmYzYTU0NjZmZDIwMTFiMzVmNDAzZGEzYiJ9fX0=",
+      "name": "Jungle Chair",
+      "furniture": "JUNGLE_CHAIR",
+      "tier": "EPIC",
+      "id": "JUNGLE_CHAIR"
     },
     {
       "material": "SKULL_ITEM",
@@ -18040,11 +18085,29 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmY1YTIzZjAzYzQ4MWVkNWY3YTA1NzJkMmNlOWE3Zjg3MTM5Yjg1ZGQ4MTI0MTQ0MTU0MmJlOTc3MzExZDExYSJ9fX0=",
+      "name": "Coconut Drink",
+      "furniture": "COCONUT_DRINK",
+      "tier": "EPIC",
+      "id": "COCONUT_DRINK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDAwMTRjZTA3NGVhNmU3MTkyODdlNzRhNzk2MTVkNTkyOWZjNmZmNDJhYzgxYTdlMWU0NWEwMDVmNzY0MjE3OSJ9fX0=",
       "name": "Little Chick Bed",
       "furniture": "CHICK_BED",
       "tier": "EPIC",
       "id": "CHICK_BED"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlMWQzMDhkYzNkNzI1M2YzMmUzMDBlZGE0ZDAwMDNmZTY0YTU2YmYzYTU0NjZmZDIwMTFiMzVmNDAzZGEzYiJ9fX0=",
+      "name": "Jungle Bed",
+      "furniture": "JUNGLE_BED",
+      "tier": "EPIC",
+      "id": "JUNGLE_BED"
     },
     {
       "material": "SKULL_ITEM",

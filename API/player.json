@@ -17996,7 +17996,9 @@
         "angel_defender_final_kills": 0,
         "angel_defender_final_kills_standard": 0,
         "angel_kills_ranged": 0,
-        "angel_kills_ranged_standard": 0
+        "angel_kills_ranged_standard": 0,
+        "angel_final_kills_ranged": 0,
+        "angel_final_kills_ranged_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -39952,7 +39954,13 @@
         "squid_b_inner_ink_blinds": 0,
         "squid_b_inner_ink_blinds_standard": 0,
         "squid_inner_ink_blinds": 0,
-        "squid_inner_ink_blinds_standard": 0
+        "squid_inner_ink_blinds_standard": 0,
+        "spider_b_venom_strike_poison_damage": 0,
+        "spider_b_venom_strike_poison_damage_standard": 0,
+        "spider_venom_strike_poison_damage": 0,
+        "spider_venom_strike_poison_damage_standard": 0,
+        "venom_strike_poison_damage": 0,
+        "venom_strike_poison_damage_standard": 0
       },
       "BuildBattle": {
         "wins": 0,

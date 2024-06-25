@@ -32,6 +32,7 @@ module.exports = [
       'aea28adee98d489eb582638d20e80e23', // Chissl/Lime
       'd5c8118f053e412680b5ed66bf71066e', // HuTayo/Mango
       '5825e8f071d04806b92687d79b733f30', // 15h/Mango
+      'fad90e13ff44441c8c5e1dbe489fd44f', // Nemqnja/Tomato
     ],
     transform: (obj, { merge, uniqueArrayElements }) => {
       let uuid = {};
@@ -62,6 +63,7 @@ module.exports = [
       'aea28adee98d489eb582638d20e80e23', // Chissl/Lime
       'd5c8118f053e412680b5ed66bf71066e', // HuTayo/Mango
       '5825e8f071d04806b92687d79b733f30', // 15h/Mango
+      'fad90e13ff44441c8c5e1dbe489fd44f', // Nemqnja/Tomato
     ],
     transform: (obj, { merge, uniqueArrayElements }) => {
       let uuid = {};

@@ -41309,6 +41309,14 @@
                   "treasure": 0,
                   "orb": 0
                 }
+              },
+              "summer": {
+                "water": {
+                  "fish": 0,
+                  "junk": 0,
+                  "orb": 0,
+                  "treasure": 0
+                }
               }
             },
             "permanent": {
@@ -49597,7 +49605,8 @@
                 "Pbpowerup": 0,
                 "Buildbattleswim": 0,
                 "Tntwaterblaster": 0,
-                "Wallscool": 0
+                "Wallscool": 0,
+                "Maincatchfish": 0
               }
             },
             "medium": {

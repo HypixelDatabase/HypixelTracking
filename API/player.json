@@ -3017,7 +3017,9 @@
           "projectile_trail_icicle",
           "snow_pixel_party_pants",
           "frosted_wall",
-          "victory_dance_rooted"
+          "victory_dance_rooted",
+          "projectile_trail_sparkler",
+          "deep_ocean_pixel_party_pants"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -8438,7 +8440,9 @@
           "void_message_pro_enough",
           "double_jump_slime",
           "particle_note",
-          "particle_heart"
+          "particle_heart",
+          "arrow_trail_sparkler",
+          "void_message_relaxing"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -9523,7 +9527,8 @@
           "CAKES_COUNT_FIX_FLAG",
           "fighter_cry",
           "calculated_initial_class_points",
-          "renegade_skill_alternate_active"
+          "renegade_skill_alternate_active",
+          "smiley_heart"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -19349,7 +19354,15 @@
           "sprays_buff_chicken",
           "sprays_golem_picnic",
           "victorydance_rooted",
-          "killeffect_bee_abduction"
+          "killeffect_bee_abduction",
+          "cage_flamingo",
+          "cage_red_parrot",
+          "projectiletrail_sparkler",
+          "sprays_jerry_island_poster",
+          "sprays_ice_scream_cart",
+          "sprays_undead_lifesaving_association",
+          "sprays_cooler_climates",
+          "cage_treasure_chest"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -32095,7 +32108,8 @@
           "projectiletrail_flame_rings",
           "killeffect_ring_of_fire",
           "victory_dance_rooted",
-          "kill_effect_bee_abduction"
+          "kill_effect_bee_abduction",
+          "projectile_trail_sparkler"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -34280,7 +34294,22 @@
           "islandtopper_nest_of_chicks",
           "glyph_easter_egg",
           "islandtopper_hatching_egg",
-          "npcskin_quack"
+          "npcskin_quack",
+          "islandtopper_flamingo",
+          "projectiletrail_sparkler",
+          "sprays_ice_scream_cart",
+          "sprays_jerry_island_poster",
+          "sprays_cooler_climates",
+          "sprays_undead_lifesaving_association",
+          "npcskin_dark_dragon",
+          "glyph_coconut",
+          "glyph_flame",
+          "glyph_palm_tree",
+          "glyph_strawberry",
+          "islandtopper_coconut_drink",
+          "npcskin_frog_man",
+          "islandtopper_fishing_rod",
+          "islandtopper_bungalow"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -36058,7 +36087,12 @@
           "kill_note_rabbit_costume",
           "kill_note_egg_surprise",
           "kill_note_golden_egg",
-          "last_words_eggy"
+          "last_words_eggy",
+          "projectile_trail_sparkler",
+          "kill_note_ice_scream_cart",
+          "kill_note_jerry_island_poster",
+          "kill_note_cooler_climates",
+          "kill_note_undead_lifesaving_association"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38396,7 +38430,11 @@
           "emblem_whale",
           "cosmetictitle_final_boss",
           "victory_dance_rooted",
-          "kill_effect_bee_abduction"
+          "kill_effect_bee_abduction",
+          "projectile_trail_sparkler",
+          "auras_sponge_trail",
+          "emblem_flamingo",
+          "emblem_palm_tree"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -41131,7 +41169,8 @@
           "killmessages_computer",
           "projectiletrail_icicle",
           "barrier_painted_egg",
-          "projectiletrail_wool_wars_level"
+          "projectiletrail_wool_wars_level",
+          "projectiletrail_sparkler"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -41488,7 +41527,8 @@
         "packages": [
           "apr_5_23_ench_reset",
           "fishing_rod_haunted",
-          "fishing_rod_festive"
+          "fishing_rod_festive",
+          "mainlobby_fishing_helios_breath"
         ],
         "leaderboardSettings": {
           "fishingType": ""
@@ -44389,7 +44429,14 @@
         "furniture_egg_painting_station",
         "furniture_bunny_bench",
         "furniture_little_chick_tea_table",
-        "furniture_little_chick_dresser"
+        "furniture_little_chick_dresser",
+        "furniture_jungle_bed",
+        "furniture_jungle_dresser",
+        "furniture_jungle_table",
+        "furniture_jungle_chair",
+        "furniture_jungle_cabin",
+        "furniture_totem",
+        "furniture_coconut_drink"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",
@@ -49548,7 +49595,8 @@
                 "Duelsboost": 0,
                 "Arcadehiderdamage": 0,
                 "Pbpowerup": 0,
-                "Buildbattleswim": 0
+                "Buildbattleswim": 0,
+                "Tntwaterblaster": 0
               }
             },
             "medium": {
@@ -49563,7 +49611,11 @@
                 "Bedwarschilledguy": 0,
                 "Blitzquenchy": 0,
                 "Arcadechillout": 0,
-                "Wwflawless": 0
+                "Wwflawless": 0,
+                "Cvcclosecall": 0,
+                "Tntfreepoints": 0,
+                "Arenabuffs": 0,
+                "Tkrnofun": 0
               }
             }
           }

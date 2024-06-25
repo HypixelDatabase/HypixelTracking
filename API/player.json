@@ -41336,7 +41336,8 @@
                   "cod": 0,
                   "trout": 0,
                   "pike": 0,
-                  "perch": 0
+                  "perch": 0,
+                  "kelp": 0
                 },
                 "treasure": {
                   "eye_of_ender": 0,
@@ -41444,6 +41445,10 @@
               "level": 0
             },
             "mythical_hook": {
+              "level": 0,
+              "toggle": true
+            },
+            "herbivore": {
               "level": 0,
               "toggle": true
             }
@@ -49606,7 +49611,8 @@
                 "Buildbattleswim": 0,
                 "Tntwaterblaster": 0,
                 "Wallscool": 0,
-                "Maincatchfish": 0
+                "Maincatchfish": 0,
+                "Smashthrowoff": 0
               }
             },
             "medium": {
@@ -49632,7 +49638,8 @@
                 "Skywarsdiamondarmor": 0,
                 "Paintballnotsummery": 0,
                 "Warlordsflagpickup": 0,
-                "Wallscatch": 0
+                "Wallscatch": 0,
+                "Smashnemesis": 0
               }
             },
             "hard": {
@@ -49654,7 +49661,8 @@
                 "Bedwarsflawless": 0,
                 "Bedwarsinvisibility": 0,
                 "Wallssharpeneddiamond": 0,
-                "Bbfastguess": 0
+                "Bbfastguess": 0,
+                "Smashtheendisnigh": 0
               }
             }
           }

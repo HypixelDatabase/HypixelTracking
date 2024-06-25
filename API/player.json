@@ -8655,7 +8655,8 @@
         "new_firewizard_alternate_effects": "",
         "arcane_wizard_assists": 0,
         "deaths_tourney_tnt_run_1": 0,
-        "wins_tourney_tnt_run_1": 0
+        "wins_tourney_tnt_run_1": 0,
+        "new_hydrowizard_alternate_effects_status": true
       },
       "UHC": {
         "coins": 0,
@@ -18009,7 +18010,9 @@
         "spider_on_fire_kills": 0,
         "spider_on_fire_kills_standard": 0,
         "shark_b_final_assists_after_final_killed": 0,
-        "shark_b_final_assists_after_final_killed_standard": 0
+        "shark_b_final_assists_after_final_killed_standard": 0,
+        "renegade_absorption_potions_drunk": 0,
+        "renegade_absorption_potions_drunk_standard": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -49520,6 +49523,16 @@
         "2024": {
           "levelling": {
             "experience": 0
+          },
+          "bingo": {
+            "easy": {
+              "objectives": {
+                "Quakehangofit": 0,
+                "Bedwarsflowingdefense": 0,
+                "Bedwarsdiamond": 0,
+                "Pitmmrobinhood": 0
+              }
+            }
           }
         }
       },

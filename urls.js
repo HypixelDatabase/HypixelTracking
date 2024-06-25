@@ -30,6 +30,8 @@ module.exports = [
       '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
       'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
       'aea28adee98d489eb582638d20e80e23', // Chissl/Lime
+      'd5c8118f053e412680b5ed66bf71066e', // HuTayo/Mango
+      '5825e8f071d04806b92687d79b733f30', // 15h/Mango
     ],
     transform: (obj, { merge, uniqueArrayElements }) => {
       let uuid = {};
@@ -58,6 +60,8 @@ module.exports = [
       '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
       'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
       'aea28adee98d489eb582638d20e80e23', // Chissl/Lime
+      'd5c8118f053e412680b5ed66bf71066e', // HuTayo/Mango
+      '5825e8f071d04806b92687d79b733f30', // 15h/Mango
     ],
     transform: (obj, { merge, uniqueArrayElements }) => {
       let uuid = {};

@@ -41436,10 +41436,12 @@
               "level": 0
             },
             "vulcans_blessing": {
-              "level": 0
+              "level": 0,
+              "toggle": true
             },
             "neptunes_fury": {
-              "level": 0
+              "level": 0,
+              "toggle": true
             },
             "lure": {
               "level": 0
@@ -49640,7 +49642,8 @@
                 "Paintballnotsummery": 0,
                 "Warlordsflagpickup": 0,
                 "Wallscatch": 0,
-                "Smashnemesis": 0
+                "Smashnemesis": 0,
+                "Vampzlongnight": 0
               }
             },
             "hard": {

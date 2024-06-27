@@ -1401,7 +1401,19 @@
           "rift_shen_item_bought_RIFT_PRISM": 0,
           "kills_dive_ghast_90": 0,
           "kills_old_wolf_50": 0,
-          "deaths_master_crypt_undead_sfarnham": 0
+          "deaths_master_crypt_undead_sfarnham": 0,
+          "kills_crypt_souleater_85": 0,
+          "deaths_invisible_creeper": 0,
+          "kills_skeleton_master_88": 0,
+          "deaths_master_necron_guard": 0,
+          "deaths_master_watcher_giant_boulder": 0,
+          "kills_crypt_tank_zombie_70": 0,
+          "kills_skeleton_grunt_70": 0,
+          "kills_skeleton_master_78": 0,
+          "kills_skeleton_grunt_80": 0,
+          "kills_crypt_souleater_75": 0,
+          "kills_scared_skeleton_72": 0,
+          "kills_crypt_dreadlord_77": 0
         },
         "objectives": {
           "collect_log": {
@@ -3056,7 +3068,8 @@
             "ENCHANTED_COAL": 0,
             "ENCHANTED_DIAMOND": 0,
             "ENCHANTED_LAPIS_LAZULI": 0,
-            "ENCHANTED_EMERALD": 0
+            "ENCHANTED_EMERALD": 0,
+            "ENCHANTED_GOLD": 0
           },
           "talk_to_archaeologist": {
             "status": "",
@@ -3248,7 +3261,15 @@
             "mage_blacksmith": 0,
             "an": 0,
             "barbarian_blacksmith": 0,
-            "chihai_child_1": 0
+            "chihai_child_1": 0,
+            "ulyn": 0,
+            "kherarad": 0,
+            "edelis": 0,
+            "chihai_child_0": 0,
+            "seffea": 0,
+            "yoink": 0,
+            "colore": 0,
+            "velyna": 0
           },
           "choose_faction": {
             "status": "",
@@ -5222,7 +5243,35 @@
           "DONATE_ALL_FOSSILS",
           "party_time_2024",
           "st_jerry_354",
-          "st_jerry_reward_354"
+          "st_jerry_reward_354",
+          "st_jerry_reward_108",
+          "st_jerry_reward_104",
+          "st_jerry_65",
+          "st_jerry_67",
+          "st_jerry_95",
+          "st_jerry_97",
+          "st_jerry_288",
+          "st_jerry_reward_288",
+          "st_jerry_296",
+          "st_jerry_reward_296",
+          "st_jerry_56",
+          "st_jerry_reward_79",
+          "st_jerry_85",
+          "st_jerry_260",
+          "st_jerry_250",
+          "st_jerry_238",
+          "st_jerry_318",
+          "st_jerry_350",
+          "st_jerry_230",
+          "st_jerry_reward_230",
+          "st_jerry_287",
+          "st_jerry_316",
+          "st_jerry_77",
+          "st_jerry_reward_89",
+          "st_jerry_reward_84",
+          "st_jerry_reward_81",
+          "st_jerry_reward_82",
+          "st_jerry_reward_96"
         ],
         "quests": {
           "collect_log": {
@@ -5902,7 +5951,9 @@
             "boss_kills_tier_2": 0,
             "boss_kills_tier_3": 0,
             "boss_attempts_tier_3": 0,
-            "boss_attempts_tier_2": 0
+            "boss_attempts_tier_2": 0,
+            "boss_attempts_tier_0": 0,
+            "boss_attempts_tier_1": 0
           },
           "zombie": {
             "claimed_levels": {
@@ -5928,7 +5979,8 @@
             "boss_attempts_tier_4": 0,
             "boss_attempts_tier_0": 0,
             "boss_attempts_tier_1": 0,
-            "boss_attempts_tier_3": 0
+            "boss_attempts_tier_3": 0,
+            "boss_attempts_tier_2": 0
           },
           "wolf": {
             "claimed_levels": {
@@ -5947,7 +5999,10 @@
             "boss_kills_tier_1": 0,
             "boss_kills_tier_2": 0,
             "boss_kills_tier_3": 0,
-            "boss_attempts_tier_3": 0
+            "boss_attempts_tier_3": 0,
+            "boss_attempts_tier_0": 0,
+            "boss_attempts_tier_1": 0,
+            "boss_attempts_tier_2": 0
           },
           "enderman": {
             "claimed_levels": {
@@ -5968,7 +6023,8 @@
             "boss_kills_tier_3": 0,
             "boss_attempts_tier_3": 0,
             "boss_attempts_tier_0": 0,
-            "boss_attempts_tier_1": 0
+            "boss_attempts_tier_1": 0,
+            "boss_attempts_tier_2": 0
           },
           "blaze": {
             "claimed_levels": {
@@ -5989,7 +6045,8 @@
             "boss_kills_tier_3": 0,
             "boss_attempts_tier_2": 0,
             "boss_attempts_tier_3": 0,
-            "boss_attempts_tier_1": 0
+            "boss_attempts_tier_1": 0,
+            "boss_attempts_tier_0": 0
           },
           "vampire": {
             "claimed_levels": {
@@ -6936,7 +6993,13 @@
           "HEMOVIBE": 0,
           "GLACITE": 0,
           "UMBER": 0,
-          "TUNGSTEN": 0
+          "TUNGSTEN": 0,
+          "ENCHANTED_POTATO": 0,
+          "ENCHANTED_BLAZE_POWDER": 0,
+          "ENCHANTED_RAW_BEEF": 0,
+          "ENCHANTED_COBBLESTONE": 0,
+          "HEMOGLASS": 0,
+          "ENCHANTED_REDSTONE": 0
         },
         "quiver": {
           "type": 0,
@@ -7522,7 +7585,12 @@
           "PERFECT_AQUAMARINE_GEM": 0,
           "FLAWLESS_CITRINE_GEM": 0,
           "PERFECT_CITRINE_GEM": 0,
-          "ARCHITECT_FIRST_DRAFT": 0
+          "ARCHITECT_FIRST_DRAFT": 0,
+          "RUNE_DRAGON_3": 0,
+          "RUNE_LAVATEARS_3": 0,
+          "RUNE_LAVATEARS_2": 0,
+          "STUFFED_CHILI_PEPPER": 0,
+          "RUNE_GRAND_SEARING_3": 0
         },
         "experience_skill_fishing": 0,
         "candy_inventory_contents": {
@@ -8671,7 +8739,9 @@
             "toggle_hungry_for_more": true,
             "toggle_daily_grind": true,
             "toggle_gifts_from_the_departed": true,
-            "toggle_warm_hearted": true
+            "toggle_warm_hearted": true,
+            "gemstone_infusion": 0,
+            "keen_eye": 0
           },
           "received_free_tier": true,
           "crystals": {
@@ -11599,7 +11669,81 @@
             "glacite_caver_200": 0,
             "ashfang_vehicle_1": 0,
             "shrine_skeleton_horseman_100": 0,
-            "trapper_pig_5": 0
+            "trapper_pig_5": 0,
+            "skeleton_5": 0,
+            "crypt_undead_agentk_25": 0,
+            "crypt_undead_rezzus_25": 0,
+            "crypt_undead_bembo_25": 0,
+            "crypt_undead_jamiethegeek_25": 0,
+            "crypt_undead_themgrf_25": 0,
+            "crypt_undead_judg3_25": 0,
+            "crypt_undead_orangemarshall_25": 0,
+            "crypt_undead_bloozing_25": 0,
+            "crypt_undead_nitroholic__25": 0,
+            "crypt_undead_codename_b_25": 0,
+            "crypt_undead_relenter_25": 0,
+            "rift_not_chicken_1": 0,
+            "crypt_undead_sfarnham_25": 0,
+            "crypt_undead_dueces_25": 0,
+            "crypt_undead_skyerzz_25": 0,
+            "crypt_undead_ladybleu_25": 0,
+            "crypt_undead__onah_25": 0,
+            "crypt_undead_thorlon_25": 0,
+            "crypt_undead_revengeee_25": 0,
+            "witch_13": 0,
+            "spider_6": 0,
+            "master_crypt_undead_flameboy101_25": 0,
+            "crypt_undead_mistresseldrid_25": 0,
+            "master_crypt_undead_judg3_25": 0,
+            "master_crypt_undead_revengeee_25": 0,
+            "master_crypt_undead_hypixel_25": 0,
+            "master_crypt_undead_bembo_25": 0,
+            "crypt_undead__fudgiethewhale_25": 0,
+            "crypt_undead_cheesey_25": 0,
+            "crypt_undead_districtgecko_25": 0,
+            "master_crypt_undead_magicboys_25": 0,
+            "crypt_undead_vinny8ball666_25": 0,
+            "master_crypt_undead_bloozing_25": 0,
+            "master_crypt_undead_orangemarshall_25": 0,
+            "master_crypt_undead_skyerzz_25": 0,
+            "crypt_undead_deadorkai_25": 0,
+            "master_crypt_undead_dueces_25": 0,
+            "master_crypt_undead_cecer_25": 0,
+            "master_crypt_undead_themgrf_25": 0,
+            "master_crypt_undead_thorlon_25": 0,
+            "master_crypt_undead_connorlinfoot_25": 0,
+            "master_crypt_undead_ladybleu_25": 0,
+            "master_crypt_undead__onah_25": 0,
+            "master_crypt_undead_chilynn_25": 0,
+            "master_crypt_undead_plancke_25": 0,
+            "master_crypt_undead_agentk_25": 0,
+            "master_crypt_undead_sylent_25": 0,
+            "master_crypt_undead_dctr_25": 0,
+            "master_crypt_undead_donpireso_25": 0,
+            "crypt_undead_blockskey_25": 0,
+            "crypt_undead_adamwho_25": 0,
+            "master_crypt_undead_williamtiger_25": 0,
+            "master_crypt_undead_externalizable_25": 0,
+            "master_crypt_undead_jamiethegeek_25": 0,
+            "crypt_undead_falloutowns_25": 0,
+            "master_crypt_undead_rezzus_25": 0,
+            "crypt_undead_plummel_25": 0,
+            "slime_7": 0,
+            "skeleton_9": 0,
+            "spider_9": 0,
+            "witch_9": 0,
+            "zombie_9": 0,
+            "master_crypt_undead_vinny8ball666_25": 0,
+            "crypt_undead_sylent_25": 0,
+            "master_crypt_undead_districtgecko_25": 0,
+            "master_crypt_undead_blockskey_25": 0,
+            "master_crypt_undead_mistresseldrid_25": 0,
+            "witch_10": 0,
+            "crypt_undead_plancke_25": 0,
+            "crypt_undead_externalizable_25": 0,
+            "crypt_undead_williamtiger_25": 0,
+            "slime_13": 0,
+            "crypt_undead_likaos_25": 0
           },
           "deaths": {
             "skeletor_prime_120": 0,
@@ -12166,7 +12310,140 @@
             "tarantula_spider_45": 0,
             "siamese_lynx_155": 0,
             "master_crypt_undead_sfarnham_25": 0,
-            "glacite_bowman_165": 0
+            "glacite_bowman_165": 0,
+            "diamond_zombie_20": 0,
+            "invisible_creeper_3": 0,
+            "spider_jockey_3": 0,
+            "flaming_spider_80": 0,
+            "glacite_caver_200": 0,
+            "master_lost_adventurer_90": 0,
+            "master_lost_adventurer_103": 0,
+            "master_king_midas_130": 0,
+            "master_lost_adventurer_110": 0,
+            "goblin_weakling_melee_25": 0,
+            "sludge_100": 0,
+            "pack_spirit_30": 0,
+            "endermite_40": 0,
+            "goblin_weakling_bow_25": 0,
+            "goblin_weakling_bow_5": 0,
+            "crypt_tank_zombie_40": 0,
+            "skeleton_master_98": 0,
+            "dungeon_respawning_skeleton_70": 0,
+            "skeleton_soldier_96": 0,
+            "crypt_tank_zombie_80": 0,
+            "super_tank_zombie_100": 0,
+            "weaver_spider_45": 0,
+            "scarf_warrior_1": 0,
+            "skeleton_soldier_76": 0,
+            "dungeon_respawning_skeleton_90": 0,
+            "watcher_summon_undead_6": 0,
+            "crypt_dreadlord_77": 0,
+            "sadan_giant_1": 0,
+            "zombie_soldier_103": 0,
+            "diamond_guy_130": 0,
+            "crypt_dreadlord_67": 0,
+            "zombie_soldier_93": 0,
+            "master_lost_adventurer_164": 0,
+            "master_shadow_assassin_171": 0,
+            "crypt_souleater_115": 0,
+            "lost_adventurer_152": 0,
+            "master_crypt_undead_jamiethegeek_35": 0,
+            "jockey_shot_silverfish_3": 0,
+            "master_crypt_undead_55": 0,
+            "master_diamond_guy_170": 0,
+            "team_treasurite_grunt_50": 0,
+            "master_lost_adventurer_85": 0,
+            "master_lost_adventurer_111": 0,
+            "spirit_sheep_1": 0,
+            "master_skeleton_soldier_76": 0,
+            "master_crypt_undead_magicboys_45": 0,
+            "dungeon_respawning_skeleton_110": 0,
+            "zombie_lord_150": 0,
+            "master_zombie_grunt_60": 0,
+            "master_crypt_souleater_65": 0,
+            "master_crypt_undead_jayavarmen_45": 0,
+            "master_zombie_grunt_70": 0,
+            "master_skeleton_soldier_66": 0,
+            "zombie_grunt_70": 0,
+            "master_crypt_tank_zombie_70": 0,
+            "master_scared_skeleton_62": 0,
+            "master_crypt_undead__onah_45": 0,
+            "master_crypt_tank_zombie_60": 0,
+            "master_crypt_undead_chilynn_45": 0,
+            "master_skeleton_grunt_70": 0,
+            "master_crypt_undead_skyerzz_45": 0,
+            "necron_guard_100": 0,
+            "master_lost_adventurer_86": 0,
+            "lonely_spider_115": 0,
+            "skeleton_soldier_86": 0,
+            "master_diamond_guy_90": 0,
+            "master_crypt_undead_hypixel_30": 0,
+            "master_crypt_dreadlord_67": 0,
+            "master_sniper_skeleton_73": 0,
+            "master_crypt_undead_hypixel_45": 0,
+            "diamond_guy_160": 0,
+            "blazing_golem_200": 0,
+            "kuudra_berserker_300": 0,
+            "master_sniper_skeleton_63": 0,
+            "inferno_magma_cube_500": 0,
+            "master_dungeon_respawning_skeleton_120": 0,
+            "master_crypt_undead_magicboys_55": 0,
+            "master_lonely_spider_115": 0,
+            "lost_adventurer_122": 0,
+            "master_lost_adventurer_162": 0,
+            "skeleton_master_118": 0,
+            "lost_adventurer_131": 0,
+            "master_crypt_undead_donpireso_40": 0,
+            "master_crypt_undead_sfarnham_45": 0,
+            "master_crypt_undead_hypixel_55": 0,
+            "master_skeleton_master_78": 0,
+            "barbarian_75": 0,
+            "master_watcher_giant_boulder_7": 0,
+            "master_necron_guard_300": 0,
+            "watcher_summon_undead_5": 0,
+            "voracious_spider_50": 0,
+            "master_skeleton_master_98": 0,
+            "master_crypt_undead_hypixel_40": 0,
+            "taurus_250": 0,
+            "dungeon_respawning_skeleton_40": 0,
+            "crypt_souleater_95": 0,
+            "sludge_10": 0,
+            "kalhuiki_elder_100": 0,
+            "enderman_13": 0,
+            "spider_13": 0,
+            "master_crypt_undead_donpireso_25": 0,
+            "kuudra_slasher_500": 0,
+            "kuudra_slasher_100": 0,
+            "chaosmite_300": 0,
+            "lost_adventurer_93": 0,
+            "master_lost_adventurer_163": 0,
+            "master_crypt_undead_flameboy101_45": 0,
+            "master_crypt_undead__fudgiethewhale_55": 0,
+            "glacite_mutt_180": 0,
+            "generator_slime_1": 0,
+            "watcher_bonzo_3": 0,
+            "sniper_skeleton_93": 0,
+            "crypt_undead_25": 0,
+            "watcher_summon_undead_3": 0,
+            "skeleton_grunt_60": 0,
+            "scared_skeleton_62": 0,
+            "zombie_grunt_60": 0,
+            "skeleton_soldier_66": 0,
+            "dungeon_respawning_skeleton_60": 0,
+            "bonzo_summon_undead_1": 0,
+            "lost_adventurer_91": 0,
+            "skeleton_grunt_70": 0,
+            "sniper_skeleton_63": 0,
+            "diamond_guy_110": 0,
+            "king_midas_160": 0,
+            "master_scarf_archer_1": 0,
+            "goblin_creeper_20": 0,
+            "lost_adventurer_100": 0,
+            "voracious_spider_45": 0,
+            "diamond_guy_90": 0,
+            "professor_warrior_guardian_1": 0,
+            "professor_guardian_summon_1": 0,
+            "master_crypt_undead_jayavarmen_25": 0
           },
           "milestone": {
             "last_claimed_milestone": 0
@@ -12294,7 +12571,8 @@
               "fishing": {
                 "status": "",
                 "progress": 0,
-                "completed_at": 0
+                "completed_at": 0,
+                "claimed_rewards": true
               },
               "boss": {
                 "status": "",
@@ -12324,7 +12602,8 @@
             },
             "kuuda_boss_daily": {
               "INFERNAL": true,
-              "FIERY": true
+              "FIERY": true,
+              "BURNING": true
             },
             "quest_rewards": {
               "WITHER_SOUL": 0,
@@ -12467,7 +12746,13 @@
               "crimson_isle_soulfish_b": "",
               "crimson_isle_lavahorse_c": "",
               "crimson_isle_dojo_test_of_fireball_brating_a": "",
-              "crimson_isle_dojo_test_of_sword_swap_arating_s": ""
+              "crimson_isle_dojo_test_of_sword_swap_arating_s": "",
+              "crimson_isle_rescue_s": "",
+              "crimson_isle_lavahorse_a": "",
+              "crimson_isle_steaming_hot_flounder_b": "",
+              "crimson_isle_fetch_wither_soul_b": "",
+              "crimson_isle_fetch_spectre_dust_b": "",
+              "crimson_isle_dojo_test_of_snake_brating_a": ""
             },
             "alchemist_quest": {
               "alchemist_quest_start": true,
@@ -12570,14 +12855,18 @@
             "contact_data": {
               "dusk": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "dean": {
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
               },
               "elle": {
-                "last_call": 0
+                "last_call": 0,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "captain_ahone": {
                 "incoming_calls_count": 0,
@@ -12650,23 +12939,33 @@
                 "last_call_incoming": 0
               },
               "anita": {
-                "talked_to": true
+                "talked_to": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "pet_collector": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "pet_sitter": {
                 "talked_to": true,
                 "completed_quest": true,
                 "last_call": 0,
-                "dnd_enabled": true
+                "dnd_enabled": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "zog": {
-                "talked_to": true
+                "talked_to": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "plumber": {
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "fairy": {
                 "talked_to": true,
@@ -12699,15 +12998,21 @@
                   "gave_saving_grace": true
                 },
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "walter": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "trevor_the_trapper": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "ophelia": {
                 "talked_to": true,
@@ -12741,7 +13046,9 @@
                 "completed_quest": true,
                 "specific": {
                   "last_reward_year": 0
-                }
+                },
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "duncan": {
                 "talked_to": true,
@@ -12769,7 +13076,10 @@
               "queen": {
                 "talked_to": true
               },
-              "sirih": {},
+              "sirih": {
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
+              },
               "spooky": {
                 "talked_to": true,
                 "completed_quest": true,
@@ -12784,11 +13094,15 @@
               },
               "lumber_merchant": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "odger": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "kuudra_gatekeeper": {
                 "talked_to": true,
@@ -12815,7 +13129,10 @@
                 "last_call_incoming": 0
               },
               "sirius": {
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "games": {
@@ -12878,7 +13195,8 @@
           "completions": {
             "NUCLEUS_RUNS": 0,
             "REAPER_PEPPERS": 0,
-            "REFINED_JYRRE": 0
+            "REFINED_JYRRE": 0,
+            "REFINED_DARK_CACAO_TRUFFLE": 0
           },
           "completed": [],
           "migrated_completions": true,
@@ -13109,6 +13427,11 @@
               "total": 0,
               "green_candy": 0,
               "purple_candy": 0
+            },
+            "unanticipated_spooky_festival_1": {
+              "total": 0,
+              "green_candy": 0,
+              "purple_candy": 0
             }
           },
           "kills": {
@@ -13301,7 +13624,122 @@
             "ashfang_vehicle": 0,
             "weaver_spider_3": 0,
             "enderman_45": 0,
-            "splatter_6": 0
+            "splatter_6": 0,
+            "arachne_keeper_100": 0,
+            "super_tank_zombie_90": 0,
+            "super_tank_zombie_100": 0,
+            "dungeon_respawning_skeleton_90": 0,
+            "skeleton_master_118": 0,
+            "goblin_weakling_bow_25": 0,
+            "super_archer_110": 0,
+            "skeleton_grunt_60": 0,
+            "blazing_golem_400": 0,
+            "dropship_300": 0,
+            "goblin_500": 0,
+            "magma_bacteria_400": 0,
+            "pest_locust_1": 0,
+            "pest_beetle_1": 0,
+            "pest_slug_1": 0,
+            "pest_fly_1": 0,
+            "pest_worm_1": 0,
+            "pest_moth_1": 0,
+            "pest_mosquito_1": 0,
+            "pest_cricket_1": 0,
+            "pest_rat_1": 0,
+            "pest_mite_1": 0,
+            "rift_not_chicken": 0,
+            "crypt_undead__onah": 0,
+            "crypt_undead_dueces": 0,
+            "crypt_undead_themgrf": 0,
+            "emerald_slime_5": 0,
+            "diamond_skeleton_15": 0,
+            "splitter_spider_silverfish_2": 0,
+            "spider_jockey_3": 0,
+            "master_lonely_spider_105": 0,
+            "master_cellar_spider_115": 0,
+            "master_cellar_spider_125": 0,
+            "commitment_phobia": 0,
+            "watcher_summon_undead_5": 0,
+            "master_crypt_undead_blockskey": 0,
+            "master_crypt_undead_deadorkai": 0,
+            "master_crypt_undead_plummel": 0,
+            "master_crypt_undead_adamwho": 0,
+            "master_crypt_undead_falloutowns": 0,
+            "master_crypt_undead_mistresseldrid": 0,
+            "master_crypt_undead_vinny8ball666": 0,
+            "watcher_summon_undead_6": 0,
+            "crypt_tank_zombie_40": 0,
+            "master_sniper_skeleton_103": 0,
+            "crypt_undead_districtgecko": 0,
+            "crypt_undead_falloutowns": 0,
+            "crypt_undead_mistresseldrid": 0,
+            "crypt_undead_blockskey": 0,
+            "crypt_undead_plummel": 0,
+            "crypt_undead_cheesey": 0,
+            "crypt_undead_deadorkai": 0,
+            "crypt_undead__fudgiethewhale": 0,
+            "crypt_undead_adamwho": 0,
+            "wither_sentry_400": 0,
+            "magma_follower_400": 0,
+            "omegagma_500": 0,
+            "lonely_spider_75": 0,
+            "sniper_skeleton_73": 0,
+            "master_crypt_undead_districtgecko": 0,
+            "master_crypt_undead__fudgiethewhale": 0,
+            "master_crypt_undead_cheesey": 0,
+            "watcher_summon_undead_3": 0,
+            "crypt_witherskeleton_90": 0,
+            "zombie_knight_106": 0,
+            "crypt_dreadlord_47": 0,
+            "skeletor_90": 0,
+            "shadow_3": 0,
+            "dropship_400": 0,
+            "dungeon_respawning_skeleton_60": 0,
+            "crypt_dreadlord_97": 0,
+            "skeleton_soldier_96": 0,
+            "spider_15": 0,
+            "zombie_15": 0,
+            "emerald_slime_10": 0,
+            "lapis_zombie_7": 0,
+            "siamese_lynx_25": 0,
+            "sniper_skeleton_123": 0,
+            "crypt_lurker_61": 0,
+            "crypt_souleater_65": 0,
+            "crypt_tank_zombie_60": 0,
+            "zombie_grunt_60": 0,
+            "skeleton_15": 0,
+            "siamese_lynx_85": 0,
+            "master_sniper_skeleton_93": 0,
+            "jockey_shot_silverfish_42": 0,
+            "crypt_souleater_95": 0,
+            "crypt_witherskeleton_100": 0,
+            "super_archer_100": 0,
+            "dungeon_respawning_skeleton_40": 0,
+            "crypt_dreadlord_67": 0,
+            "skeleton_soldier_66": 0,
+            "crypt_lurker_91": 0,
+            "skeleton_master_98": 0,
+            "witch_15": 0,
+            "slime_15": 0,
+            "slime_13": 0,
+            "witch_13": 0,
+            "crypt_lurker_41": 0,
+            "crypt_souleater_45": 0,
+            "scared_skeleton_42": 0,
+            "watcher_summon_undead_1": 0,
+            "skeleton_grunt_40": 0,
+            "zombie_grunt_40": 0,
+            "scared_skeleton_62": 0,
+            "zombie_knight_96": 0,
+            "watcher_summon_undead_4": 0,
+            "master_lonely_spider_85": 0,
+            "chaosmite_400": 0,
+            "goblin_creeper_20": 0,
+            "master_cellar_spider_65": 0,
+            "master_lonely_spider_55": 0,
+            "super_archer_90": 0,
+            "lonely_spider_105": 0,
+            "master_sniper_skeleton_73": 0
           },
           "deaths": {
             "sea_witch": 0,
@@ -13331,7 +13769,33 @@
             "great_white_shark": 0,
             "revenant_zombie": 0,
             "goblin_battler": 0,
-            "glacite_bowman": 0
+            "glacite_bowman": 0,
+            "night_respawning_skeleton": 0,
+            "flaming_spider": 0,
+            "glacite_caver": 0,
+            "goblin_weakling_melee": 0,
+            "cactus": 0,
+            "graveyard_zombie": 0,
+            "goblin_weakling_bow": 0,
+            "crypt_tank_zombie": 0,
+            "team_treasurite_grunt": 0,
+            "master_crypt_undead_jamiethegeek": 0,
+            "master_crypt_undead_jayavarmen": 0,
+            "master_crypt_undead__onah": 0,
+            "master_crypt_undead_chilynn": 0,
+            "master_crypt_undead_skyerzz": 0,
+            "master_crypt_undead_magicboys": 0,
+            "master_zombie_grunt": 0,
+            "barbarian": 0,
+            "taurus": 0,
+            "kalhuiki_elder": 0,
+            "kuudra_slasher": 0,
+            "master_crypt_undead_flameboy101": 0,
+            "master_crypt_undead__fudgiethewhale": 0,
+            "glacite_mutt": 0,
+            "master_scarf_archer": 0,
+            "goblin_creeper": 0,
+            "the_watcher": 0
           },
           "rift": {
             "odonata_repeatable_completed": 0
@@ -13343,7 +13807,22 @@
               "ULTIMATE": 0
             },
             "total_sold": {
-              "total": 0
+              "total": 0,
+              "ULTIMATE": 0
+            }
+          },
+          "mythos": {
+            "burrows_dug_next": {
+              "null": 0
+            },
+            "burrows_dug_combat": {
+              "null": 0
+            },
+            "burrows_chains_complete": {
+              "null": 0
+            },
+            "burrows_dug_treasure": {
+              "null": 0
             }
           }
         },
@@ -13795,7 +14274,23 @@
               "zea": 0,
               "murphy": 0,
               "stinky": 0,
-              "el_dorado": 0
+              "el_dorado": 0,
+              "april": 0,
+              "galaxy": 0,
+              "celestia": 0,
+              "zorro": 0,
+              "magic": 0,
+              "saga": 0,
+              "burst": 0,
+              "napoleon": 0,
+              "mediocrity": 0,
+              "king": 0,
+              "strawberry_swirl": 0,
+              "orion": 0,
+              "starfire": 0,
+              "mu": 0,
+              "aurora": 0,
+              "implode": 0
             },
             "shop": {
               "year": 0,
@@ -13829,7 +14324,8 @@
             "rabbit_filter": "",
             "golden_click_amount": 0,
             "golden_click_year": 0,
-            "el_dorado_progress": 0
+            "el_dorado_progress": 0,
+            "refined_dark_cacao_truffles": 0
           }
         },
         "winter_player_data": {

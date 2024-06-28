@@ -1175,7 +1175,8 @@
               "boss": {
                 "status": "",
                 "progress": 0,
-                "completed_at": 0
+                "completed_at": 0,
+                "claimed_rewards": true
               },
               "quest_list": [],
               "rescue": {
@@ -1193,7 +1194,8 @@
             "kuuda_boss_daily": {
               "INFERNAL": true,
               "FIERY": true,
-              "BURNING": true
+              "BURNING": true,
+              "HOT": true
             },
             "quest_rewards": {
               "BURNING_EYE": 0,

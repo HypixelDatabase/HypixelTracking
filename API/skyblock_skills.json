@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1719473482834,
-  "version": "0.20.2.38",
+  "lastUpdated": 1719934015117,
+  "version": "0.20.3.2",
   "skills": {
     "FARMING": {
       "name": "Farming",
@@ -891,6 +891,7 @@
           "unlocks": [
             "Spelunker 24   Grants +92➜96 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Gleaming Crystal Reforge",
             "Presumed Gallon of Red Paint Reforge",
             "Searing Stone Reforge",
             "Blaze Wax Reforge",
@@ -5140,6 +5141,7 @@
           "totalExpRequired": 50,
           "unlocks": [
             "Zoologist 1   Gain 1% extra pet exp.",
+            "+Gain 0.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+100 Coins",
             "+5 SkyBlock XP"
@@ -5150,6 +5152,7 @@
           "totalExpRequired": 175,
           "unlocks": [
             "Zoologist 2   Gain 1➜2% extra pet exp.",
+            "+Gain 0.2➜0.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+250 Coins",
             "+5 SkyBlock XP"
@@ -5160,6 +5163,7 @@
           "totalExpRequired": 375,
           "unlocks": [
             "Zoologist 3   Gain 2➜3% extra pet exp.",
+            "+Gain 0.4➜0.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+500 Coins",
             "+5 SkyBlock XP"
@@ -5170,6 +5174,7 @@
           "totalExpRequired": 675,
           "unlocks": [
             "Zoologist 4   Gain 3➜4% extra pet exp.",
+            "+Gain 0.6➜0.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+750 Coins",
             "+5 SkyBlock XP"
@@ -5180,6 +5185,7 @@
           "totalExpRequired": 1175,
           "unlocks": [
             "Zoologist 5   Gain 4➜5% extra pet exp.",
+            "+Gain 0.8➜1% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000 Coins",
             "+5 SkyBlock XP"
@@ -5190,6 +5196,7 @@
           "totalExpRequired": 1925,
           "unlocks": [
             "Zoologist 6   Gain 5➜6% extra pet exp.",
+            "+Gain 1➜1.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+2,000 Coins",
             "+5 SkyBlock XP"
@@ -5200,6 +5207,7 @@
           "totalExpRequired": 2925,
           "unlocks": [
             "Zoologist 7   Gain 6➜7% extra pet exp.",
+            "+Gain 1.2➜1.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+3,000 Coins",
             "+5 SkyBlock XP"
@@ -5210,6 +5218,7 @@
           "totalExpRequired": 4425,
           "unlocks": [
             "Zoologist 8   Gain 7➜8% extra pet exp.",
+            "+Gain 1.4➜1.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+4,000 Coins",
             "+5 SkyBlock XP"
@@ -5220,6 +5229,7 @@
           "totalExpRequired": 6425,
           "unlocks": [
             "Zoologist 9   Gain 8➜9% extra pet exp.",
+            "+Gain 1.6➜1.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+5,000 Coins",
             "+5 SkyBlock XP"
@@ -5230,6 +5240,7 @@
           "totalExpRequired": 9925,
           "unlocks": [
             "Zoologist 10   Gain 9➜10% extra pet exp.",
+            "+Gain 1.8➜2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+Free Training Session at Fann",
             "+7,500 Coins",
@@ -5241,6 +5252,7 @@
           "totalExpRequired": 14925,
           "unlocks": [
             "Zoologist 11   Gain 10➜11% extra pet exp.",
+            "+Gain 2➜2.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+10,000 Coins",
             "+10 SkyBlock XP"
@@ -5251,6 +5263,7 @@
           "totalExpRequired": 22425,
           "unlocks": [
             "Zoologist 12   Gain 11➜12% extra pet exp.",
+            "+Gain 2.2➜2.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+15,000 Coins",
             "+10 SkyBlock XP"
@@ -5261,6 +5274,7 @@
           "totalExpRequired": 32425,
           "unlocks": [
             "Zoologist 13   Gain 12➜13% extra pet exp.",
+            "+Gain 2.4➜2.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+20,000 Coins",
             "+10 SkyBlock XP"
@@ -5271,6 +5285,7 @@
           "totalExpRequired": 47425,
           "unlocks": [
             "Zoologist 14   Gain 13➜14% extra pet exp.",
+            "+Gain 2.6➜2.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -5281,6 +5296,7 @@
           "totalExpRequired": 67425,
           "unlocks": [
             "Zoologist 15   Gain 14➜15% extra pet exp.",
+            "+Gain 2.8➜3% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -5291,6 +5307,7 @@
           "totalExpRequired": 97425,
           "unlocks": [
             "Zoologist 16   Gain 15➜16% extra pet exp.",
+            "+Gain 3➜3.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+40,000 Coins",
             "+10 SkyBlock XP"
@@ -5301,6 +5318,7 @@
           "totalExpRequired": 147425,
           "unlocks": [
             "Zoologist 17   Gain 16➜17% extra pet exp.",
+            "+Gain 3.2➜3.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+50,000 Coins",
             "+10 SkyBlock XP"
@@ -5311,6 +5329,7 @@
           "totalExpRequired": 222425,
           "unlocks": [
             "Zoologist 18   Gain 17➜18% extra pet exp.",
+            "+Gain 3.4➜3.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+65,000 Coins",
             "+10 SkyBlock XP"
@@ -5321,6 +5340,7 @@
           "totalExpRequired": 322425,
           "unlocks": [
             "Zoologist 19   Gain 18➜19% extra pet exp.",
+            "+Gain 3.6➜3.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+80,000 Coins",
             "+10 SkyBlock XP"
@@ -5331,6 +5351,7 @@
           "totalExpRequired": 522425,
           "unlocks": [
             "Zoologist 20   Gain 19➜20% extra pet exp.",
+            "+Gain 3.8➜4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+Light Training Session at Fann",
             "+100,000 Coins",
@@ -5342,6 +5363,7 @@
           "totalExpRequired": 822425,
           "unlocks": [
             "Zoologist 21   Gain 20➜21% extra pet exp.",
+            "+Gain 4➜4.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+125,000 Coins",
             "+10 SkyBlock XP"
@@ -5352,6 +5374,7 @@
           "totalExpRequired": 1222425,
           "unlocks": [
             "Zoologist 22   Gain 21➜22% extra pet exp.",
+            "+Gain 4.2➜4.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+150,000 Coins",
             "+10 SkyBlock XP"
@@ -5362,6 +5385,7 @@
           "totalExpRequired": 1722425,
           "unlocks": [
             "Zoologist 23   Gain 22➜23% extra pet exp.",
+            "+Gain 4.4➜4.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+175,000 Coins",
             "+10 SkyBlock XP"
@@ -5372,6 +5396,7 @@
           "totalExpRequired": 2322425,
           "unlocks": [
             "Zoologist 24   Gain 23➜24% extra pet exp.",
+            "+Gain 4.6➜4.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -5382,6 +5407,7 @@
           "totalExpRequired": 3022425,
           "unlocks": [
             "Zoologist 25   Gain 24➜25% extra pet exp.",
+            "+Gain 4.8➜5% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+225,000 Coins",
             "+10 SkyBlock XP"
@@ -5392,6 +5418,7 @@
           "totalExpRequired": 3822425,
           "unlocks": [
             "Zoologist 26   Gain 25➜26% extra pet exp.",
+            "+Gain 5➜5.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+250,000 Coins",
             "+20 SkyBlock XP"
@@ -5402,6 +5429,7 @@
           "totalExpRequired": 4722425,
           "unlocks": [
             "Zoologist 27   Gain 26➜27% extra pet exp.",
+            "+Gain 5.2➜5.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+275,000 Coins",
             "+20 SkyBlock XP"
@@ -5412,6 +5440,7 @@
           "totalExpRequired": 5722425,
           "unlocks": [
             "Zoologist 28   Gain 27➜28% extra pet exp.",
+            "+Gain 5.4➜5.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+300,000 Coins",
             "+20 SkyBlock XP"
@@ -5422,6 +5451,7 @@
           "totalExpRequired": 6822425,
           "unlocks": [
             "Zoologist 29   Gain 28➜29% extra pet exp.",
+            "+Gain 5.6➜5.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+325,000 Coins",
             "+20 SkyBlock XP"
@@ -5432,6 +5462,7 @@
           "totalExpRequired": 8022425,
           "unlocks": [
             "Zoologist 30   Gain 29➜30% extra pet exp.",
+            "+Gain 5.8➜6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+Moderate Training Session at Fann",
             "+350,000 Coins",
@@ -5443,6 +5474,7 @@
           "totalExpRequired": 9322425,
           "unlocks": [
             "Zoologist 31   Gain 30➜31% extra pet exp.",
+            "+Gain 6➜6.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+375,000 Coins",
             "+20 SkyBlock XP"
@@ -5453,6 +5485,7 @@
           "totalExpRequired": 10722425,
           "unlocks": [
             "Zoologist 32   Gain 31➜32% extra pet exp.",
+            "+Gain 6.2➜6.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+400,000 Coins",
             "+20 SkyBlock XP"
@@ -5463,6 +5496,7 @@
           "totalExpRequired": 12222425,
           "unlocks": [
             "Zoologist 33   Gain 32➜33% extra pet exp.",
+            "+Gain 6.4➜6.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+425,000 Coins",
             "+20 SkyBlock XP"
@@ -5473,6 +5507,7 @@
           "totalExpRequired": 13822425,
           "unlocks": [
             "Zoologist 34   Gain 33➜34% extra pet exp.",
+            "+Gain 6.6➜6.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+450,000 Coins",
             "+20 SkyBlock XP"
@@ -5483,6 +5518,7 @@
           "totalExpRequired": 15522425,
           "unlocks": [
             "Zoologist 35   Gain 34➜35% extra pet exp.",
+            "+Gain 6.8➜7% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+475,000 Coins",
             "+20 SkyBlock XP"
@@ -5493,6 +5529,7 @@
           "totalExpRequired": 17322425,
           "unlocks": [
             "Zoologist 36   Gain 35➜36% extra pet exp.",
+            "+Gain 7➜7.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+500,000 Coins",
             "+20 SkyBlock XP"
@@ -5503,6 +5540,7 @@
           "totalExpRequired": 19222425,
           "unlocks": [
             "Zoologist 37   Gain 36➜37% extra pet exp.",
+            "+Gain 7.2➜7.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+550,000 Coins",
             "+20 SkyBlock XP"
@@ -5513,6 +5551,7 @@
           "totalExpRequired": 21222425,
           "unlocks": [
             "Zoologist 38   Gain 37➜38% extra pet exp.",
+            "+Gain 7.4➜7.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+600,000 Coins",
             "+20 SkyBlock XP"
@@ -5523,6 +5562,7 @@
           "totalExpRequired": 23322425,
           "unlocks": [
             "Zoologist 39   Gain 38➜39% extra pet exp.",
+            "+Gain 7.6➜7.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+650,000 Coins",
             "+20 SkyBlock XP"
@@ -5533,6 +5573,7 @@
           "totalExpRequired": 25522425,
           "unlocks": [
             "Zoologist 40   Gain 39➜40% extra pet exp.",
+            "+Gain 7.8➜8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+Expert Training Session at Fann",
             "+700,000 Coins",
@@ -5544,6 +5585,7 @@
           "totalExpRequired": 27822425,
           "unlocks": [
             "Zoologist 41   Gain 40➜41% extra pet exp.",
+            "+Gain 8➜8.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+750,000 Coins",
             "+20 SkyBlock XP"
@@ -5554,6 +5596,7 @@
           "totalExpRequired": 30222425,
           "unlocks": [
             "Zoologist 42   Gain 41➜42% extra pet exp.",
+            "+Gain 8.2➜8.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+800,000 Coins",
             "+20 SkyBlock XP"
@@ -5564,6 +5607,7 @@
           "totalExpRequired": 32722425,
           "unlocks": [
             "Zoologist 43   Gain 42➜43% extra pet exp.",
+            "+Gain 8.4➜8.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+850,000 Coins",
             "+20 SkyBlock XP"
@@ -5574,6 +5618,7 @@
           "totalExpRequired": 35322425,
           "unlocks": [
             "Zoologist 44   Gain 43➜44% extra pet exp.",
+            "+Gain 8.6➜8.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+900,000 Coins",
             "+20 SkyBlock XP"
@@ -5584,6 +5629,7 @@
           "totalExpRequired": 38072425,
           "unlocks": [
             "Zoologist 45   Gain 44➜45% extra pet exp.",
+            "+Gain 8.8➜9% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5594,6 +5640,7 @@
           "totalExpRequired": 40972425,
           "unlocks": [
             "Zoologist 46   Gain 45➜46% extra pet exp.",
+            "+Gain 9➜9.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5604,6 +5651,7 @@
           "totalExpRequired": 44072425,
           "unlocks": [
             "Zoologist 47   Gain 46➜47% extra pet exp.",
+            "+Gain 9.2➜9.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5614,6 +5662,7 @@
           "totalExpRequired": 47472425,
           "unlocks": [
             "Zoologist 48   Gain 47➜48% extra pet exp.",
+            "+Gain 9.4➜9.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5624,6 +5673,7 @@
           "totalExpRequired": 51172425,
           "unlocks": [
             "Zoologist 49   Gain 48➜49% extra pet exp.",
+            "+Gain 9.6➜9.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+20 SkyBlock XP"
@@ -5634,6 +5684,7 @@
           "totalExpRequired": 55172425,
           "unlocks": [
             "Zoologist 50   Gain 49➜50% extra pet exp.",
+            "+Gain 9.8➜10% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+Ultra Training Session at Fann",
             "+1,000,000 Coins",
@@ -5645,6 +5696,7 @@
           "totalExpRequired": 59472425,
           "unlocks": [
             "Zoologist 51   Gain 50➜51% extra pet exp.",
+            "+Gain 10➜10.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5655,6 +5707,7 @@
           "totalExpRequired": 64072425,
           "unlocks": [
             "Zoologist 52   Gain 51➜52% extra pet exp.",
+            "+Gain 10.2➜10.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5665,6 +5718,7 @@
           "totalExpRequired": 68972425,
           "unlocks": [
             "Zoologist 53   Gain 52➜53% extra pet exp.",
+            "+Gain 10.4➜10.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5675,6 +5729,7 @@
           "totalExpRequired": 74172425,
           "unlocks": [
             "Zoologist 54   Gain 53➜54% extra pet exp.",
+            "+Gain 10.6➜10.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5685,6 +5740,7 @@
           "totalExpRequired": 79672425,
           "unlocks": [
             "Zoologist 55   Gain 54➜55% extra pet exp.",
+            "+Gain 10.8➜11% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5695,6 +5751,7 @@
           "totalExpRequired": 85472425,
           "unlocks": [
             "Zoologist 56   Gain 55➜56% extra pet exp.",
+            "+Gain 11➜11.2% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5705,6 +5762,7 @@
           "totalExpRequired": 91572425,
           "unlocks": [
             "Zoologist 57   Gain 56➜57% extra pet exp.",
+            "+Gain 11.2➜11.4% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5715,6 +5773,7 @@
           "totalExpRequired": 97972425,
           "unlocks": [
             "Zoologist 58   Gain 57➜58% extra pet exp.",
+            "+Gain 11.4➜11.6% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5725,6 +5784,7 @@
           "totalExpRequired": 104672425,
           "unlocks": [
             "Zoologist 59   Gain 58➜59% extra pet exp.",
+            "+Gain 11.6➜11.8% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+1,000,000 Coins",
             "+30 SkyBlock XP"
@@ -5735,6 +5795,7 @@
           "totalExpRequired": 111672425,
           "unlocks": [
             "Zoologist 60   Gain 59➜60% extra pet exp.",
+            "+Gain 11.8➜12% Exp Share rate.",
             "+1 ♣ Pet Luck",
             "+Turbo! Training Session at Fann",
             "+1,000,000 Coins",

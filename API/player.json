@@ -8663,7 +8663,8 @@
         "arcane_wizard_assists": 0,
         "deaths_tourney_tnt_run_1": 0,
         "wins_tourney_tnt_run_1": 0,
-        "new_hydrowizard_alternate_effects_status": true
+        "new_hydrowizard_alternate_effects_status": true,
+        "new_witherwizard_alternate_effects_status": true
       },
       "UHC": {
         "coins": 0,
@@ -38003,7 +38004,11 @@
         "games_cattleridge_farm_MURDER_DOUBLE_UP": 0,
         "kills_cattleridge_farm_MURDER_DOUBLE_UP": 0,
         "was_hero_cattleridge_farm_MURDER_DOUBLE_UP": 0,
-        "trap_kills_cattleridge_farm_MURDER_DOUBLE_UP": 0
+        "trap_kills_cattleridge_farm_MURDER_DOUBLE_UP": 0,
+        "coins_pickedup_cattleridge_farm_MURDER_INFECTION": 0,
+        "games_cattleridge_farm_MURDER_INFECTION": 0,
+        "total_time_survived_seconds_cattleridge_farm": 0,
+        "total_time_survived_seconds_cattleridge_farm_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

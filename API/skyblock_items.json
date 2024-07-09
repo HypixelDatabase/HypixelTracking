@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1719928919000,
+  "lastUpdated": 1720534249000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -16394,7 +16394,6 @@
       "glowing": true,
       "tier": "SPECIAL",
       "npc_sell_price": 1,
-      "has_uuid": true,
       "id": "KAT_FLOWER"
     },
     {
@@ -43323,7 +43322,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc5M2VlZjQ4NDkwNzhkZjRjY2Q0OTgwNTRjNzRlMjE3MWM3NzFmMjczMDk0NDE2NGE4ZWU3YjJkNTYzODMyIn19fQ==",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2MjgwODg2NSwKICAicHJvZmlsZUlkIiA6ICJiM2E3NjExNGVmMzI0ZjYyYWM4NDRiOWJmNTY1NGFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmd1eW1hbnBlcnNvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMzMwMTk1MGExZTgwY2RmZWU4MmNmY2E0Y2IwZDhhZWVhNzEyZmUzMzMxY2NkN2UxZTU1NzIyMjMwYmQ0M2ZmIgogICAgfQogIH0KfQ==",
       "name": "Mender Helmet",
       "category": "HELMET",
       "tier": "RARE",
@@ -43669,7 +43668,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTg2NTE0Njc3MCwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWU1OTVlMTQzNDg2YmJkZDk4YjJiNTYyMzAwZDRjNjk4ZTZhNTNhNWFhM2ZhMzI4Zjc0Y2I4MzkwOWUwODhjNCIKICAgIH0KICB9Cn0=",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2Mjg3NDg0NiwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyZDBlN2I2MGZhZGY5YjA4MDVhYTg2NmVkN2JkMjk4MGFiZWEwODEyZGIyYjcxNTA3NTJhNzFmYmYyZTIwZWYiCiAgICB9CiAgfQp9",
       "name": "Mender Fedora",
       "category": "HELMET",
       "tier": "EPIC",
@@ -63186,7 +63185,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU0MzQwNjU0NSwKICAicHJvZmlsZUlkIiA6ICI5NGMzZGM3YTdiMmQ0NzQ1YmVlYjQzZDc2ZjRjNDVkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25fVml0b0Nvcmxlb25lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzMDY1ZDUwNDk1YzBhMmYyNWEzM2Y5MmFhOTBkMDg0OWNhZjkxNDcwYmIxMDI3ZDdmNzljZGI1Y2UzNzM4ZWMiCiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2Mjg1NDkzOSwKICAicHJvZmlsZUlkIiA6ICJmNmYxY2IxMmYzNDU0MDRlYjZlNjU2NGE2ZDlmMjU2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJlbGl1c0dlbWluaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzdlMTA3MGQxMjU4MWJkNDhlODBmNTkwNTRlOTI0MTJlNDUzYTYyN2VkMjk4OGIzYTVhMzVmZDVjNzA4ZTBkIgogICAgfQogIH0KfQ==",
       "name": "Mender Crown",
       "category": "HELMET",
       "tier": "EPIC",
@@ -74278,11 +74277,6 @@
           }
         ]
       ],
-      "gemstone_slots": [
-        {
-          "slot_type": "SAPPHIRE"
-        }
-      ],
       "id": "HELLSTORM_STAFF"
     },
     {
@@ -78896,7 +78890,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTQzNjM2MDg1NywKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2NlOWVlNmM5NDcyYTFmOThhYjlmNzg0NDc4NTQwNWRmYThiNTZkOGUyMzFjZDMyNjc1YWM1YmFhOTg0OWJlOSIKICAgIH0KICB9Cn0=",
-      "name": "Tropical Bird 1 Minion Skin",
+      "name": "Hyacinth Tropical Bird Minion Skin",
       "category": "COSMETIC",
       "museum": true,
       "id": "TROPICAL_BIRD_1_PERSONALITY"
@@ -79622,7 +79616,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTQzNjM5MDc5NywKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZDNjYzE2OTg0N2I0ZWYyOTM4ZmNmN2Y4Yzg0NzAxMTI1ZjlmYWY5MTBjZDA4MjBlY2Q2ZmRjZmNhZjViOGIiCiAgICB9CiAgfQp9",
-      "name": "Tropical Bird 2 Minion Skin",
+      "name": "Blue Gold Tropical Bird Minion Skin",
       "category": "COSMETIC",
       "museum": true,
       "id": "TROPICAL_BIRD_2_PERSONALITY"

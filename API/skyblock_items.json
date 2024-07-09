@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1720534249000,
+  "lastUpdated": 1720567000000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8897,6 +8897,18 @@
         "memorable_event_key": "pet_care_expansion"
       },
       "id": "GOLDEN_COLLAR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQyMjM3MDc0MSwKICAicHJvZmlsZUlkIiA6ICJkMDQ3ZGY3ZjMzMzk0MmM1OTA3ODY5ZjIwYmI0YzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleHBsaXloIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzMzU0OGM2OWI4ZjVjZDA5MzFkYTZiMTFlZDRjMTc1NmMxNWYwZjg5NmUxMDk1NjFlNzVhYWI0MjQ0NGRjMjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Painter's Palette",
+      "tier": "SPECIAL",
+      "category": "MEMENTO",
+      "item_specific": {
+        "memorable_event_key": "artist_adobe"
+      },
+      "id": "PAINTERS_PALETTE"
     },
     {
       "material": "SKULL_ITEM",

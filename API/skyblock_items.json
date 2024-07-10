@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1720567000000,
+  "lastUpdated": 1720644890000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -8906,7 +8906,7 @@
       "tier": "SPECIAL",
       "category": "MEMENTO",
       "item_specific": {
-        "memorable_event_key": "artist_adobe"
+        "memorable_event_key": "artist_abode"
       },
       "id": "PAINTERS_PALETTE"
     },
@@ -8984,6 +8984,71 @@
         "tick_interval": 1
       },
       "id": "DYE_ROSE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxODQyMzAwNjE5MSwKICAicHJvZmlsZUlkIiA6ICIwNTljODIxYzhhODU0NGJiOWJiODVhOGMxNjVhYTc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJoZWxsc3RydWNrZWR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYyMmYzZTRlNWFlMDYzOWQxZDJkZGFmYmU2OTMyM2RmZTdmOGE5MDhkZTQ1ODIyYjE3MDlhMzQ1ODg1MDk1OGEiCiAgICB9CiAgfQp9",
+      "name": "Portal Dye",
+      "tier": "MYTHIC",
+      "unstackable": true,
+      "item_specific": {
+        "colors": [
+          "0x5909c1",
+          "0x5909c1",
+          "0x5909c1",
+          "0x560aba",
+          "0x560aba",
+          "0x520cb1",
+          "0x4d0da7",
+          "0x490f9c",
+          "0x440f92",
+          "0x3f0f8a",
+          "0x3c1081",
+          "0x38107b",
+          "0x361076",
+          "0x361076",
+          "0x361076",
+          "0x361076",
+          "0x361076",
+          "0x361076",
+          "0x361076",
+          "0x371078",
+          "0x390f7c",
+          "0x3a1080",
+          "0x3c0f85",
+          "0x3e0e8c",
+          "0x400d92",
+          "0x430b9a",
+          "0x450aa1",
+          "0x4909a8",
+          "0x4c08af",
+          "0x5107b5",
+          "0x5608bc",
+          "0x5c0ac1",
+          "0x620dc5",
+          "0x680fc9",
+          "0x6f12ce",
+          "0x7814d1",
+          "0x8117d5",
+          "0x8a18d9",
+          "0x9419dc",
+          "0x9e1adf",
+          "0xa71ae3",
+          "0xb01ae5",
+          "0xb919e7",
+          "0xc117ea",
+          "0xc816ec",
+          "0xcf14ef",
+          "0xcf14ef",
+          "0xd412f0",
+          "0xd412f0",
+          "0xd412f0"
+        ],
+        "cycle_back": true,
+        "piece_offset": 5
+      },
+      "id": "DYE_PORTAL"
     },
     {
       "material": "SKULL_ITEM",

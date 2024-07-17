@@ -178,6 +178,26 @@
             }
           }
         }
+      },
+      "NoResult": {
+        "description": "The request responded with no result.",
+        "content": {
+          "application/json": {
+            "schema": {
+              "type": "object",
+              "properties": {
+                "success": {
+                  "type": "boolean",
+                  "example": false
+                },
+                "cause": {
+                  "type": "string",
+                  "example": "No result was found"
+                }
+              }
+            }
+          }
+        }
       }
     },
     "schemas": {
@@ -627,6 +647,216 @@
           "price": {
             "description": "The price in Gems for this sale",
             "type": "integer"
+          }
+        }
+      },
+      "SkyBlockGarden": {
+        "description": "Information about a player's SkyBlock garden, the only guaranteed field is the `uuid` field.",
+        "required": [
+          "uuid"
+        ],
+        "properties": {
+          "uuid": {
+            "type": "string",
+            "format": "uuid",
+            "description": "The UUID of the profile for this garden."
+          },
+          "commission_data": {
+            "type": "object",
+            "properties": {
+              "visits": {
+                "type": "object",
+                "description": "A map of visitor identifier to visit count",
+                "example": {
+                  "jerry": 1,
+                  "jacob": 2,
+                  "andrew": 3
+                }
+              },
+              "completed": {
+                "type": "object",
+                "description": "A map of visitor identifier to completed count",
+                "example": {
+                  "jerry": 1,
+                  "jacob": 1,
+                  "andrew": 2
+                }
+              },
+              "total_completed": {
+                "type": "integer",
+                "format": "int32"
+              },
+              "unique_npcs_served": {
+                "type": "integer",
+                "format": "int32"
+              }
+            }
+          },
+          "composter_data": {
+            "type": "object",
+            "example": {
+              "organic_matter": 1772.8,
+              "fuel_units": 17000,
+              "compost_units": 0,
+              "compost_items": 2,
+              "conversion_ticks": 300,
+              "last_save": 1721039418436,
+              "upgrades": {
+                "speed": 25,
+                "multi_drop": 25,
+                "fuel_cap": 22,
+                "organic_matter_cap": 25,
+                "cost_reduction": 25
+              }
+            }
+          },
+          "active_commissions": {
+            "type": "object",
+            "example": {
+              "liam": {
+                "requirement": [
+                  {
+                    "original_item": "NETHER_STALK",
+                    "original_amount": 93995,
+                    "item": "MUTANT_NETHER_STALK",
+                    "amount": 4
+                  }
+                ],
+                "status": "NOT_STARTED",
+                "position": 1
+              },
+              "lumberjack": {
+                "requirement": [
+                  {
+                    "original_item": "POTATO_ITEM",
+                    "original_amount": 81380,
+                    "item": "ENCHANTED_BAKED_POTATO",
+                    "amount": 3
+                  }
+                ],
+                "status": "NOT_STARTED",
+                "position": 2
+              },
+              "oringo": {
+                "requirement": [
+                  {
+                    "original_item": "WHEAT",
+                    "original_amount": 26798,
+                    "item": "ENCHANTED_HAY_BLOCK",
+                    "amount": 21
+                  }
+                ],
+                "status": "NOT_STARTED",
+                "position": 3
+              },
+              "rhys": {
+                "requirement": [
+                  {
+                    "original_item": "JACK_O_LANTERN",
+                    "original_amount": 512,
+                    "item": "JACK_O_LANTERN",
+                    "amount": 512
+                  }
+                ],
+                "status": "NOT_STARTED",
+                "position": 4
+              },
+              "fear_mongerer": {
+                "requirement": [
+                  {
+                    "original_item": "PUMPKIN",
+                    "original_amount": 27709,
+                    "item": "POLISHED_PUMPKIN",
+                    "amount": 1
+                  }
+                ],
+                "status": "NOT_STARTED",
+                "position": 5,
+                "extra_rewards": [
+                  {
+                    "candy": "PURPLE_CANDY"
+                  }
+                ]
+              }
+            }
+          },
+          "resources_collected": {
+            "type": "object",
+            "description": "A map of resource ID to amount collected",
+            "example": {
+              "WHEAT": 100,
+              "POTATO_ITEM": 100,
+              "INK_SACK:3": 100
+            }
+          },
+          "crop_upgrade_levels": {
+            "type": "object",
+            "example": {
+              "WHEAT": 1,
+              "POTATO_ITEM": 2,
+              "INK_SACK:3": 3
+            }
+          },
+          "garden_experience": {
+            "type": "integer",
+            "format": "double"
+          },
+          "unlocked_barn_skins": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "selected_barn_skin": {
+            "type": "string"
+          }
+        }
+      },
+      "HousingHouse": {
+        "description": "Information about a player's house. This data may be cached for a short period of time.",
+        "required": [
+          "uuid",
+          "owner",
+          "name",
+          "createdAt",
+          "players",
+          "cookies"
+        ],
+        "properties": {
+          "uuid": {
+            "type": "string",
+            "format": "uuid",
+            "description": "The UUID of this house."
+          },
+          "owner": {
+            "type": "string",
+            "format": "uuid",
+            "description": "The UUID of the owner of this house."
+          },
+          "name": {
+            "type": "string",
+            "nullable": true,
+            "description": "The name of this house, may contain Minecraft color symbols."
+          },
+          "createdAt": {
+            "type": "number",
+            "format": "int64",
+            "description": "The time this house was created."
+          },
+          "players": {
+            "type": "number",
+            "format": "int32",
+            "description": "The number of players in this house."
+          },
+          "cookies": {
+            "type": "object",
+            "properties": {
+              "current": {
+                "type": "number",
+                "format": "int32",
+                "description": "The current amount of cookies that this house has for the current week."
+              }
+            }
           }
         }
       }
@@ -1953,6 +2183,62 @@
         }
       }
     },
+    "/v2/skyblock/garden": {
+      "get": {
+        "summary": "Garden data by profile ID",
+        "description": "SkyBlock garden data for the provided profile.",
+        "tags": [
+          "SkyBlock"
+        ],
+        "security": [
+          {
+            "ApiKey": []
+          }
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "profile",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "garden": {
+                      "$ref": "#/components/schemas/SkyBlockGarden"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "403": {
+            "$ref": "#/components/responses/InvalidKey"
+          },
+          "404": {
+            "$ref": "#/components/responses/NoResult"
+          },
+          "422": {
+            "$ref": "#/components/responses/MalformedData"
+          },
+          "429": {
+            "$ref": "#/components/responses/RateLimited"
+          }
+        }
+      }
+    },
     "/v2/skyblock/bingo": {
       "get": {
         "summary": "Bingo data by player",
@@ -2090,6 +2376,129 @@
                 }
               }
             }
+          }
+        }
+      }
+    },
+    "/v2/housing/active": {
+      "get": {
+        "summary": "The currently active public houses.",
+        "tags": [
+          "Housing"
+        ],
+        "security": [
+          {
+            "ApiKey": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/HousingHouse"
+                  }
+                }
+              }
+            }
+          },
+          "403": {
+            "$ref": "#/components/responses/InvalidKey"
+          },
+          "429": {
+            "$ref": "#/components/responses/RateLimited"
+          }
+        }
+      }
+    },
+    "/v2/housing/house": {
+      "get": {
+        "summary": "Information about a specific house.",
+        "tags": [
+          "Housing"
+        ],
+        "security": [
+          {
+            "ApiKey": []
+          }
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "house",
+            "schema": {
+              "type": "string"
+            },
+            "required": true,
+            "description": "The UUID of the house to get information about."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HousingHouse"
+                }
+              }
+            }
+          },
+          "403": {
+            "$ref": "#/components/responses/InvalidKey"
+          },
+          "404": {
+            "$ref": "#/components/responses/NoResult"
+          },
+          "429": {
+            "$ref": "#/components/responses/RateLimited"
+          }
+        }
+      }
+    },
+    "/v2/housing/houses": {
+      "get": {
+        "summary": "The public houses for a specific player.",
+        "tags": [
+          "Housing"
+        ],
+        "security": [
+          {
+            "ApiKey": []
+          }
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "player",
+            "schema": {
+              "type": "string"
+            },
+            "description": "The UUID of the player to get houses for."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/HousingHouse"
+                  }
+                }
+              }
+            }
+          },
+          "403": {
+            "$ref": "#/components/responses/InvalidKey"
+          },
+          "429": {
+            "$ref": "#/components/responses/RateLimited"
           }
         }
       }

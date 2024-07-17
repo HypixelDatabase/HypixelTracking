@@ -797,6 +797,16 @@
               "INK_SACK:3": 3
             }
           },
+          "unlocked_plots_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "example": [
+              "beginner_1",
+              "intermediate_3"
+            ]
+          },
           "garden_experience": {
             "type": "integer",
             "format": "double"

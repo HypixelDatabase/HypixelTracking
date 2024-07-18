@@ -79,6 +79,25 @@ module.exports = [
     },
   },
   {
+    url: "https://api.hypixel.net/v2/skyblock/garden?key=KEY&profile=VALUE",
+    type: 'skyblock_garden',
+    values: [
+      'd05a0e80fa024f5a9367ca66135b7347', // LeaPhant/Grapes (Ironman)
+      '683a9f50cc9146f7b752839165c1245e', // Akinsoft/Not Allowed To Quit Skyblock Ever Again
+      // '64722047f9b34e69b67b76a62351eb05', // Technoblade/Mango
+      '739c8592161c47d2a61f25f246041967', // ThirtyVirus/Strawberry (Ironman)
+      'd3df3cccffd3473fbbba311d5329bd25', // Refraction/Apple
+      'fb3d96498a5b4d5b91b763db14b195ad', // DeathStreeks/Blueberry
+      '1277d71f338046e298d90c9fe4055f00', // 56ms/Strawberry
+      '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
+      'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
+      'aea28adee98d489eb582638d20e80e23', // Chissl/Lime
+      'd5c8118f053e412680b5ed66bf71066e', // HuTayo/Mango
+      '5825e8f071d04806b92687d79b733f30', // 15h/Mango
+      'fad90e13ff44441c8c5e1dbe489fd44f', // Nemqnja/Tomato
+    ],
+  },
+  {
     url: "https://api.hypixel.net/v2/guild?key=KEY&id=VALUE",
     type: 'guild',
     values: [

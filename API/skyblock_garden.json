@@ -1,0 +1,685 @@
+{
+  "success": true,
+  "garden": {
+    "uuid": "",
+    "unlocked_plots_ids": [],
+    "commission_data": {
+      "visits": {
+        "jerry": 0,
+        "stella": 0,
+        "fear_mongerer": 0,
+        "jotraeline_greatforge": 0,
+        "lumina": 0,
+        "gold_forger": 0,
+        "weaponsmith": 0,
+        "odawa": 0,
+        "trevor": 0,
+        "grandma_wolf": 0,
+        "jack": 0,
+        "lynn": 0,
+        "emissary_wilson": 0,
+        "duke": 0,
+        "gwendolyn": 0,
+        "rusty": 0,
+        "tom": 0,
+        "shaggy": 0,
+        "jamie": 0,
+        "jacob": 0,
+        "andrew": 0,
+        "bartender": 0,
+        "terry": 0,
+        "anita": 0,
+        "tia": 0,
+        "ryu": 0,
+        "emissary_fraiser": 0,
+        "fisherman": 0,
+        "madame_eleanor": 0,
+        "librarian": 0,
+        "rhys": 0,
+        "vex": 0,
+        "liam": 0,
+        "banker_broadjaw": 0,
+        "lazy_miner": 0,
+        "farmhand": 0,
+        "iron_forger": 0,
+        "emissary_carlton": 0,
+        "adventurer": 0,
+        "geonathan_greatforge": 0,
+        "felix": 0,
+        "zog": 0,
+        "beth": 0,
+        "guy": 0,
+        "wizard": 0,
+        "arthur": 0,
+        "royal_resident_neighbour": 0,
+        "queen_mismyla": 0,
+        "alchemist": 0,
+        "emissary_sisko": 0,
+        "lumberjack": 0,
+        "sargwyn": 0,
+        "friendly_hiker": 0,
+        "shifty": 0,
+        "farmer_jon": 0,
+        "dalbrek": 0,
+        "hornum": 0,
+        "emissary_ceanna": 0,
+        "mason": 0,
+        "old_man_garry": 0,
+        "dusk": 0,
+        "seymour": 0,
+        "puzzler": 0,
+        "plumber_joe": 0,
+        "tarwen": 0,
+        "hungry_hiker": 0,
+        "royal_resident_peasant": 0,
+        "fragilis": 0,
+        "sirius": 0,
+        "tammy": 0,
+        "gimley": 0,
+        "leo": 0,
+        "oringo": 0,
+        "seraphine": 0,
+        "royal_resident_reward": 0,
+        "xalx": 0,
+        "bear_pete": 0,
+        "maeve": 0,
+        "spaceman": 0,
+        "vinyl_collector": 0,
+        "disguised_rats": 0,
+        "pest_wrangler": 0,
+        "baker": 0,
+        "ravenous_rhino": 0
+      },
+      "completed": {
+        "jerry": 0,
+        "stella": 0,
+        "fear_mongerer": 0,
+        "jotraeline_greatforge": 0,
+        "lumina": 0,
+        "gold_forger": 0,
+        "weaponsmith": 0,
+        "odawa": 0,
+        "trevor": 0,
+        "jack": 0,
+        "grandma_wolf": 0,
+        "lynn": 0,
+        "emissary_wilson": 0,
+        "gwendolyn": 0,
+        "duke": 0,
+        "rusty": 0,
+        "tom": 0,
+        "shaggy": 0,
+        "jamie": 0,
+        "jacob": 0,
+        "andrew": 0,
+        "bartender": 0,
+        "terry": 0,
+        "anita": 0,
+        "tia": 0,
+        "emissary_fraiser": 0,
+        "ryu": 0,
+        "fisherman": 0,
+        "madame_eleanor": 0,
+        "librarian": 0,
+        "rhys": 0,
+        "vex": 0,
+        "liam": 0,
+        "banker_broadjaw": 0,
+        "lazy_miner": 0,
+        "farmhand": 0,
+        "emissary_carlton": 0,
+        "iron_forger": 0,
+        "adventurer": 0,
+        "geonathan_greatforge": 0,
+        "felix": 0,
+        "zog": 0,
+        "beth": 0,
+        "guy": 0,
+        "wizard": 0,
+        "arthur": 0,
+        "queen_mismyla": 0,
+        "royal_resident_neighbour": 0,
+        "alchemist": 0,
+        "lumberjack": 0,
+        "emissary_sisko": 0,
+        "shifty": 0,
+        "farmer_jon": 0,
+        "emissary_ceanna": 0,
+        "old_man_garry": 0,
+        "mason": 0,
+        "dusk": 0,
+        "dalbrek": 0,
+        "plumber_joe": 0,
+        "puzzler": 0,
+        "tarwen": 0,
+        "seymour": 0,
+        "royal_resident_peasant": 0,
+        "hungry_hiker": 0,
+        "fragilis": 0,
+        "friendly_hiker": 0,
+        "tammy": 0,
+        "gimley": 0,
+        "sargwyn": 0,
+        "sirius": 0,
+        "hornum": 0,
+        "leo": 0,
+        "oringo": 0,
+        "seraphine": 0,
+        "royal_resident_reward": 0,
+        "xalx": 0,
+        "bear_pete": 0,
+        "maeve": 0,
+        "spaceman": 0,
+        "vinyl_collector": 0,
+        "disguised_rats": 0,
+        "pest_wrangler": 0,
+        "baker": 0,
+        "ravenous_rhino": 0
+      },
+      "total_completed": 0,
+      "unique_npcs_served": 0
+    },
+    "active_commissions": {
+      "emissary_fraiser": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "extra_rewards": [
+          {
+            "powder": "",
+            "amount": 0
+          }
+        ]
+      },
+      "duke": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "liam": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "jack": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "royal_resident_reward": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "seraphine": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "sirius": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "jerry": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "maeve": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "gold_forger": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "extra_rewards": [
+          {
+            "amount": 0
+          }
+        ],
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
+      },
+      "spaceman": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "odawa": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "wizard": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "sargwyn": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "geonathan_greatforge": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "dalbrek": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "trevor": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "jotraeline_greatforge": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "banker_broadjaw": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "alchemist": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "emissary_carlton": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "extra_rewards": [
+          {
+            "powder": "",
+            "amount": 0
+          }
+        ]
+      },
+      "weaponsmith": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "shaggy": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "gwendolyn": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "fisherman": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "shifty": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "ryu": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "jacob": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "emissary_sisko": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "extra_rewards": [
+          {
+            "powder": "",
+            "amount": 0
+          }
+        ]
+      },
+      "mason": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
+      },
+      "tom": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "fragilis": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "jamie": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "madame_eleanor": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
+      },
+      "grandma_wolf": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      }
+    },
+    "garden_experience": 0,
+    "resources_collected": {
+      "WHEAT": 0,
+      "CARROT_ITEM": 0,
+      "PUMPKIN": 0,
+      "MELON": 0,
+      "CACTUS": 0,
+      "INK_SACK:3": 0,
+      "POTATO_ITEM": 0,
+      "NETHER_STALK": 0,
+      "SUGAR_CANE": 0,
+      "MUSHROOM_COLLECTION": 0
+    },
+    "selected_barn_skin": "",
+    "composter_data": {
+      "organic_matter": 0,
+      "fuel_units": 0,
+      "compost_units": 0,
+      "compost_items": 0,
+      "conversion_ticks": 0,
+      "last_save": 0,
+      "upgrades": {
+        "speed": 0,
+        "multi_drop": 0,
+        "fuel_cap": 0,
+        "organic_matter_cap": 0,
+        "cost_reduction": 0
+      }
+    },
+    "unlocked_barn_skins": [],
+    "crop_upgrade_levels": {
+      "CACTUS": 0,
+      "CARROT_ITEM": 0,
+      "INK_SACK:3": 0,
+      "MELON": 0,
+      "MUSHROOM_COLLECTION": 0,
+      "NETHER_STALK": 0,
+      "POTATO_ITEM": 0,
+      "PUMPKIN": 0,
+      "SUGAR_CANE": 0,
+      "WHEAT": 0
+    }
+  }
+}

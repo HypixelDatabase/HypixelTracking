@@ -719,7 +719,12 @@
           }
         ],
         "status": "",
-        "position": 0
+        "position": 0,
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
       },
       "xalx": {
         "requirement": [
@@ -976,6 +981,38 @@
         ],
         "status": "",
         "position": 0
+      },
+      "plumber_joe": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "seymour": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "extra_rewards": [
+          {
+            "item": "",
+            "red": 0,
+            "green": 0,
+            "blue": 0
+          }
+        ]
       }
     },
     "garden_experience": 0,

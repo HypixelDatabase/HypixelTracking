@@ -1217,6 +1217,36 @@
         ],
         "status": "",
         "position": 0
+      },
+      "tammy": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "ravenous_rhino": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "extra_rewards": [
+          {
+            "enchant": "",
+            "level": 0
+          }
+        ]
       }
     },
     "garden_experience": 0,

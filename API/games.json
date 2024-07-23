@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1718970623352,
+  "lastUpdated": 1721748780154,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -75,19 +75,26 @@
       "id": 26
     },
     "MCGO": {
+      "modeNames": {
+        "DEFUSAL_TOURNEY": "Defusal (Tournament)"
+      },
       "databaseName": "MCGO",
       "name": "Cops and Crims",
       "id": 21
     },
     "WOOL_GAMES": {
       "modeNames": {
-        "wool_wars_two_four_tourney": "4v4 (Tournament)"
+        "wool_wars_two_four_tourney": "4v4 (Tournament)",
+        "wool_wars_two_four": "4v4"
       },
       "databaseName": "WoolGames",
       "name": "Wool Wars",
       "id": 68
     },
     "SURVIVAL_GAMES": {
+      "modeNames": {
+        "teams_tourney": "Teams (Tournament)"
+      },
       "databaseName": "HungerGames",
       "name": "Blitz Survival Games",
       "id": 5
@@ -160,12 +167,15 @@
     "SKYWARS": {
       "modeNames": {
         "solo_insane_lucky": "Solo Lucky Block",
+        "teams_normal_tourney": "Doubles Normal (Tournament)",
         "solo_insane_slime": "Solo Slime",
         "teams_insane_slime": "Teams Slime",
         "teams_insane_rush": "Teams Rush",
         "teams_insane_lucky": "Teams Lucky Block",
+        "solo_crazyinsane": "Solo Crazy Insane (Tournament)",
         "solo_normal": "Solo Normal",
         "teams_insane": "Teams Insane",
+        "teams_insane_tourney": "Doubles Insane (Tournament)",
         "solo_insane_hunters_vs_beasts": "Solo Hunters vs Beasts",
         "ranked_normal": "Ranked",
         "solo_insane_tnt_madness": "Solo TNT Madness",
@@ -188,12 +198,7 @@
     },
     "PROTOTYPE": {
       "modeNames": {
-        "PIXEL_PARTY": "Pixel Party",
-        "INVADERS": "Invaders",
-        "TOWERWARS_SOLO": "TowerWars - Solo",
-        "SHEEPWARS_TWO_SIX": "Sheep Wars",
-        "WOOL_WARS": "Wool Wars",
-        "TOWERWARS_TEAM_OF_TWO": "TowerWars - Teams of Two"
+        "SHEEPWARS_TWO_SIX": "Sheep Wars"
       },
       "databaseName": "Prototype",
       "name": "Prototype",
@@ -207,12 +212,9 @@
     "BEDWARS": {
       "modeNames": {
         "BEDWARS_TWO_FOUR": "4v4",
-        "BEDWARS_EIGHT_ONE": "Solo",
-        "BEDWARS_FOUR_FOUR_RUSH": "Rush 4v4v4v4",
+        "BEDWARS_TWO_FOUR_TOURNEY": "4v4 (Tournament)",
         "BEDWARS_EIGHT_TWO_RUSH": "Rush Doubles",
-        "BEDWARS_EIGHT_TWO_VOIDLESS": "Voidless Doubles",
         "BEDWARS_FOUR_FOUR_ARMED": "Armed 4v4v4v4",
-        "BEDWARS_EIGHT_TWO_ARMED": "Armed Doubles",
         "BEDWARS_EIGHT_TWO_UNDERWORLD": "Underworld Doubles",
         "BEDWARS_EIGHT_TWO_SWAP": "Swappage Doubles",
         "BEDWARS_EIGHT_TWO": "Doubles",
@@ -220,14 +222,19 @@
         "BEDWARS_FOUR_FOUR_UNDERWORLD": "Underworld 4v4v4v4",
         "BEDWARS_EIGHT_ONE_RUSH": "Rush Solo",
         "BEDWARS_FOUR_FOUR_ULTIMATE": "Ultimate 4v4v4v4",
+        "BEDWARS_FOUR_FOUR_TOURNEY": "4v4v4v4 (Tournament)",
         "BEDWARS_EIGHT_TWO_LUCKY": "Lucky Doubles",
-        "BEDWARS_FOUR_FOUR_SWAP": "Swappage 4v4v4v4",
         "BEDWARS_FOUR_THREE": "3v3v3v3",
-        "BEDWARS_FOUR_FOUR_VOIDLESS": "Voidless 4v4v4v4",
         "BEDWARS_FOUR_FOUR_LUCKY": "Lucky 4v4v4v4",
         "BEDWARS_CASTLE": "Castle",
+        "BEDWARS_EIGHT_TWO_TOURNEY": "Doubles (Tournament)",
+        "BEDWARS_EIGHT_ONE": "Solo",
+        "BEDWARS_FOUR_FOUR_RUSH": "Rush 4v4v4v4",
+        "BEDWARS_EIGHT_TWO_VOIDLESS": "Voidless Doubles",
+        "BEDWARS_EIGHT_TWO_ARMED": "Armed Doubles",
+        "BEDWARS_FOUR_FOUR_SWAP": "Swappage 4v4v4v4",
+        "BEDWARS_FOUR_FOUR_VOIDLESS": "Voidless 4v4v4v4",
         "BEDWARS_EIGHT_ONE_ULTIMATE": "Ultimate Solo",
-        "BEDWARS_EIGHT_TWO_TOURNEY": "Doubles (Tourney)",
         "BEDWARS_EIGHT_TWO_ULTIMATE": "Ultimate Doubles"
       },
       "databaseName": "Bedwars",

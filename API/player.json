@@ -10393,7 +10393,8 @@
             "prestige": 0,
             "golden_tag": true,
             "prestige_tag": {
-              "type": ""
+              "type": "",
+              "class_points_showcase": true
             }
           },
           "blaze": {
@@ -45718,7 +45719,8 @@
         "ARCADE__dropper_challenge": 0,
         "WALLS3__berserk_challenge": 0,
         "WALLS3__comeback_challenge": 0,
-        "WALLS3__protector_challenge": 0
+        "WALLS3__protector_challenge": 0,
+        "WALLS3__wither_challenge": 0
       },
       "day_l": {
         "DUELS__feed_the_void_challenge": 0,

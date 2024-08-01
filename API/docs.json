@@ -823,7 +823,7 @@
         }
       },
       "HousingHouse": {
-        "description": "Information about a player's house. This data may be cached for a short period of time.",
+        "description": "Information about a player's house.",
         "required": [
           "uuid",
           "owner",
@@ -2393,6 +2393,7 @@
     "/v2/housing/active": {
       "get": {
         "summary": "The currently active public houses.",
+        "description": "This data may be cached for a short period of time.",
         "tags": [
           "Housing"
         ],
@@ -2427,6 +2428,7 @@
     "/v2/housing/house": {
       "get": {
         "summary": "Information about a specific house.",
+        "description": "This data may be cached for a short period of time.",
         "tags": [
           "Housing"
         ],
@@ -2472,6 +2474,7 @@
     "/v2/housing/houses": {
       "get": {
         "summary": "The public houses for a specific player.",
+        "description": "This data may be cached for a short period of time.",
         "tags": [
           "Housing"
         ],

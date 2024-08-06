@@ -1122,7 +1122,9 @@
               },
               "vincent": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "active_contacts": [],
@@ -1137,7 +1139,8 @@
             },
             "selected_sort": "",
             "selected_ringtone": "",
-            "has_used_sirius_personal_phone_number_item": true
+            "has_used_sirius_personal_phone_number_item": true,
+            "last_dye_called_year": 0
           },
           "matriarch": {
             "pearls_collected": 0,

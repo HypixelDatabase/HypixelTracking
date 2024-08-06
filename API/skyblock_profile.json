@@ -5919,7 +5919,8 @@
           "fossil_research_center",
           "glacite_lake",
           "trade_center",
-          "carnival"
+          "carnival",
+          "artist_abode"
         ],
         "fairy_souls_collected": 0,
         "fairy_souls": 0,
@@ -13186,6 +13187,9 @@
                 "last_call_incoming": 0,
                 "last_call": 0,
                 "dnd_enabled": true
+              },
+              "vincent": {
+                "talked_to": true
               }
             },
             "games": {

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1720644890000,
+  "lastUpdated": 1722951915000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -549,6 +549,22 @@
       "name": "Melon Dicer",
       "category": "AXE",
       "tier": "EPIC",
+      "gemstone_slots": [
+        {
+          "slot_type": "PERIDOT",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_PERIDOT_GEM",
+              "amount": 20
+            },
+            {
+              "type": "COINS",
+              "coins": 50000
+            }
+          ]
+        }
+      ],
       "id": "MELON_DICER"
     },
     {
@@ -1399,6 +1415,22 @@
       "name": "Pumpkin Dicer",
       "category": "AXE",
       "tier": "EPIC",
+      "gemstone_slots": [
+        {
+          "slot_type": "PERIDOT",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_PERIDOT_GEM",
+              "amount": 20
+            },
+            {
+              "type": "COINS",
+              "coins": 50000
+            }
+          ]
+        }
+      ],
       "id": "PUMPKIN_DICER"
     },
     {
@@ -8929,381 +8961,6 @@
       "id": "WHITE_TIGER_PERSONALITY"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzMwNzA5MDE1NCwKICAicHJvZmlsZUlkIiA6ICJiM2E3NjExNGVmMzI0ZjYyYWM4NDRiOWJmNTY1NGFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmd1eW1hbnBlcnNvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODkxMDg2MzRhNmZmOTNkNDIzZjEwNDNlZWFhMDdmZTdlM2JmNTMwYTNiZDkzYjgxOGEyNGY3N2U2MzAxYTI3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
-      "name": "Rose Dye",
-      "tier": "MYTHIC",
-      "unstackable": true,
-      "item_specific": {
-        "colors": [
-          "0xf06766",
-          "0xf06766",
-          "0xf06766",
-          "0xee6364",
-          "0xee6364",
-          "0xeb5e61",
-          "0xe8595e",
-          "0xe45359",
-          "0xe04d55",
-          "0xdb4650",
-          "0xd3404c",
-          "0xcb3947",
-          "0xc43043",
-          "0xbd2b40",
-          "0xb8293e",
-          "0xb3263d",
-          "0xae243b",
-          "0xa8223a",
-          "0xa32038",
-          "0x9c1e36",
-          "0x961c34",
-          "0x901a32",
-          "0x881731",
-          "0x81162e",
-          "0x881830",
-          "0x81162e",
-          "0x7b142d",
-          "0x74122b",
-          "0x6d1029",
-          "0x650e27",
-          "0x5e0d24",
-          "0x560b22",
-          "0x500a20",
-          "0x49081f",
-          "0x44061d",
-          "0x3e061b",
-          "0x39041a",
-          "0x39041a",
-          "0x310417",
-          "0x310417",
-          "0x310417"
-        ],
-        "cycle_back": true,
-        "piece_offset": 5,
-        "tick_interval": 1
-      },
-      "id": "DYE_ROSE"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxODQyMzAwNjE5MSwKICAicHJvZmlsZUlkIiA6ICIwNTljODIxYzhhODU0NGJiOWJiODVhOGMxNjVhYTc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJoZWxsc3RydWNrZWR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYyMmYzZTRlNWFlMDYzOWQxZDJkZGFmYmU2OTMyM2RmZTdmOGE5MDhkZTQ1ODIyYjE3MDlhMzQ1ODg1MDk1OGEiCiAgICB9CiAgfQp9",
-      "name": "Portal Dye",
-      "tier": "MYTHIC",
-      "unstackable": true,
-      "item_specific": {
-        "colors": [
-          "0x5909c1",
-          "0x5909c1",
-          "0x5909c1",
-          "0x560aba",
-          "0x560aba",
-          "0x520cb1",
-          "0x4d0da7",
-          "0x490f9c",
-          "0x440f92",
-          "0x3f0f8a",
-          "0x3c1081",
-          "0x38107b",
-          "0x361076",
-          "0x361076",
-          "0x361076",
-          "0x361076",
-          "0x361076",
-          "0x361076",
-          "0x361076",
-          "0x371078",
-          "0x390f7c",
-          "0x3a1080",
-          "0x3c0f85",
-          "0x3e0e8c",
-          "0x400d92",
-          "0x430b9a",
-          "0x450aa1",
-          "0x4909a8",
-          "0x4c08af",
-          "0x5107b5",
-          "0x5608bc",
-          "0x5c0ac1",
-          "0x620dc5",
-          "0x680fc9",
-          "0x6f12ce",
-          "0x7814d1",
-          "0x8117d5",
-          "0x8a18d9",
-          "0x9419dc",
-          "0x9e1adf",
-          "0xa71ae3",
-          "0xb01ae5",
-          "0xb919e7",
-          "0xc117ea",
-          "0xc816ec",
-          "0xcf14ef",
-          "0xcf14ef",
-          "0xd412f0",
-          "0xd412f0",
-          "0xd412f0"
-        ],
-        "cycle_back": true,
-        "piece_offset": 5
-      },
-      "id": "DYE_PORTAL"
-    },
-    {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNDUzNDY5ODg3OCwKICAicHJvZmlsZUlkIiA6ICJmOGJmNDBjOWExYzY0ZTllOTIyZTc4M2UwMzNiODBiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUeGxvbjUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmIwZjcyMmFlYzI3NDkwY2YwNTZmNTYwYWZkZDQ1N2EwYTc5NGU3MDM1NTZjYzRjM2I1MWE1ODJmNWM1N2FhNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "Warden Dye",
-      "tier": "MYTHIC",
-      "unstackable": true,
-      "item_specific": {
-        "colors": [
-          "0x034150",
-          "0x034150",
-          "0x034150",
-          "0x03404f",
-          "0x03404f",
-          "0x024554",
-          "0x004a59",
-          "0x004f5e",
-          "0x005463",
-          "0x005a68",
-          "0x005f6d",
-          "0x006472",
-          "0x006a76",
-          "0x006a76",
-          "0x00757f",
-          "0x007a84",
-          "0x008088",
-          "0x00868c",
-          "0x008b90",
-          "0x009194",
-          "0x009194",
-          "0x009295",
-          "0x009295",
-          "0x009295"
-        ],
-        "cycle_back": true,
-        "piece_offset": 3
-      },
-      "id": "DYE_WARDEN"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 6,
-      "name": "Livid Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_LIVID"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 12,
-      "name": "Tentacle Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "TENTACLE_DYE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 1,
-      "name": "Brick Red Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_BRICK_RED"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 2,
-      "name": "Holly Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_HOLLY"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 13,
-      "name": "Wild Strawberry Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_WILD_STRAWBERRY"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 15,
-      "name": "Pure White Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_PURE_WHITE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 12,
-      "name": "Celeste Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_CELESTE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 12,
-      "name": "Aquamarine Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_AQUAMARINE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 5,
-      "name": "Midnight Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_MIDNIGHT"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 4,
-      "name": "Bingo Blue Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_BINGO_BLUE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 10,
-      "name": "Celadon Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_CELADON"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 9,
-      "name": "Cyclamen Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_CYCLAMEN"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 1,
-      "name": "Carmine Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_CARMINE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 13,
-      "name": "Byzantium Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_BYZANTIUM"
-    },
-    {
-      "material": "ICE",
-      "name": "Iceberg Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_ICEBERG"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 14,
-      "name": "Mango Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_MANGO"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 5,
-      "name": "Dark Purple Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_DARK_PURPLE"
-    },
-    {
-      "material": "INK_SACK",
-      "name": "Pure Black Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_PURE_BLACK"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 9,
-      "name": "Nadeshiko Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_NADESHIKO"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 2,
-      "name": "Emerald Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_EMERALD"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 10,
-      "name": "Nyanza Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_NYANZA"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 11,
-      "name": "Pure Yellow Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_PURE_YELLOW"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 4,
-      "name": "Pure Blue Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_PURE_BLUE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 1,
-      "name": "Flame Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_FLAME"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 14,
-      "name": "Necron Dye",
-      "tier": "LEGENDARY",
-      "unstackable": true,
-      "id": "DYE_NECRON"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 3,
-      "name": "Chocolate Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_CHOCOLATE"
-    },
-    {
-      "material": "INK_SACK",
-      "durability": 15,
-      "name": "Bone Dye",
-      "tier": "EPIC",
-      "unstackable": true,
-      "id": "DYE_BONE"
-    },
-    {
       "material": "LEATHER_BOOTS",
       "color": "191,188,178",
       "name": "Adaptive Boots",
@@ -16516,7 +16173,6 @@
       "category": "COSMETIC",
       "tier": "LEGENDARY",
       "unstackable": true,
-      "soulbound": "COOP",
       "id": "DITTO_BLOB"
     },
     {
@@ -19960,6 +19616,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTI1NDg3ODc3MywKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk1ZThmZTg4NzE2OTdjNjJiYjE3MTRjNmYwODI4YjNmNDc0ZjBlYTJlNTkyMDE3YmNjMDA4NmQxNjQ2Nzc3YiIKICAgIH0KICB9Cn0",
+      "name": "Bucket of Dye",
+      "category": "ACCESSORY",
+      "tier": "RARE",
+      "id": "BUCKET_OF_DYE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJiODIwN2E1ZmUxOTJjZDQ3N2U5MjE0NjYxOTdjOGFmNzQ5YWYxOGRkMWVmMzg5ZTI3MzNhMmY3NGQwOTI4YiJ9fX0=",
       "name": "Rune",
       "category": "COSMETIC",
@@ -21418,12 +21083,6 @@
     },
     {
       "material": "GOLD_SWORD",
-      "enchantments": {
-        "first_strike": 1,
-        "scavenger": 1,
-        "sharpness": 2,
-        "vampirism": 1
-      },
       "name": "Fancy Sword",
       "category": "SWORD",
       "stats": {
@@ -30050,7 +29709,7 @@
           159
         ],
         "STRENGTH": [
-          50,
+          20,
           23,
           25,
           27,
@@ -68821,21 +68480,7 @@
       "dungeon_item": true,
       "gemstone_slots": [
         {
-          "slot_type": "JASPER",
-          "costs": [
-            {
-              "type": "COINS",
-              "coins": 50000
-            },
-            {
-              "type": "ITEM",
-              "item_id": "FINE_JASPER_GEM",
-              "amount": 20
-            }
-          ]
-        },
-        {
-          "slot_type": "JASPER",
+          "slot_type": "COMBAT",
           "costs": [
             {
               "type": "COINS",
@@ -68844,6 +68489,50 @@
             {
               "type": "ITEM",
               "item_id": "FINE_JASPER_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_RUBY_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AMETHYST_GEM",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 100000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_RUBY_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AMETHYST_GEM",
               "amount": 40
             }
           ]
@@ -79260,7 +78949,7 @@
       ],
       "gemstone_slots": [
         {
-          "slot_type": "JADE",
+          "slot_type": "AMBER",
           "costs": [
             {
               "type": "ITEM",
@@ -79270,7 +78959,7 @@
           ]
         },
         {
-          "slot_type": "AMBER",
+          "slot_type": "JADE",
           "costs": [
             {
               "type": "ITEM",
@@ -79704,6 +79393,7 @@
       "tier": "EPIC",
       "category": "VACUUM",
       "stats": {
+        "farming_fortune": 20,
         "damage": 200
       },
       "has_uuid": true,
@@ -79726,6 +79416,7 @@
       "tier": "LEGENDARY",
       "category": "VACUUM",
       "stats": {
+        "farming_fortune": 25,
         "damage": 250
       },
       "has_uuid": true,
@@ -79762,6 +79453,7 @@
       "tier": "COMMON",
       "category": "VACUUM",
       "stats": {
+        "farming_fortune": 5,
         "damage": 100
       },
       "has_uuid": true,
@@ -79779,6 +79471,7 @@
       "tier": "RARE",
       "category": "VACUUM",
       "stats": {
+        "farming_fortune": 15,
         "damage": 150
       },
       "has_uuid": true,
@@ -79796,6 +79489,7 @@
       "tier": "UNCOMMON",
       "category": "VACUUM",
       "stats": {
+        "farming_fortune": 10,
         "damage": 120
       },
       "has_uuid": true,
@@ -79895,6 +79589,20 @@
             {
               "type": "COINS",
               "coins": 50000
+            }
+          ]
+        },
+        {
+          "slot_type": "PERIDOT",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_PERIDOT_GEM",
+              "amount": 40
+            },
+            {
+              "type": "COINS",
+              "coins": 100000
             }
           ]
         }
@@ -80072,6 +79780,20 @@
             {
               "type": "COINS",
               "coins": 100000
+            }
+          ]
+        },
+        {
+          "slot_type": "PERIDOT",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_PERIDOT_GEM",
+              "amount": 1
+            },
+            {
+              "type": "COINS",
+              "coins": 250000
             }
           ]
         }
@@ -81084,6 +80806,20 @@
               "coins": 100000
             }
           ]
+        },
+        {
+          "slot_type": "PERIDOT",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FLAWLESS_PERIDOT_GEM",
+              "amount": 1
+            },
+            {
+              "type": "COINS",
+              "coins": 250000
+            }
+          ]
         }
       ],
       "id": "PUMPKIN_DICER_3"
@@ -81106,6 +80842,20 @@
             {
               "type": "COINS",
               "coins": 50000
+            }
+          ]
+        },
+        {
+          "slot_type": "PERIDOT",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_PERIDOT_GEM",
+              "amount": 40
+            },
+            {
+              "type": "COINS",
+              "coins": 100000
             }
           ]
         }

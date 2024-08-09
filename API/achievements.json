@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1722952019117,
+  "lastUpdated": 1723245125977,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -19041,7 +19041,9 @@
         "DELAYING_THE_INEVITABLE": {
           "points": 10,
           "name": "Delaying the Inevitable",
-          "description": "Use Divine Intervention on a teammate and have them save themselves from death 3 times in a single game"
+          "description": "Use Divine Intervention on a teammate and have them save themselves from death 3 times in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "VETERAN": {
           "points": 15,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1723245125977,
+  "lastUpdated": 1723321925924,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -19300,7 +19300,9 @@
         "THE_HAND_THAT_FEEDS": {
           "points": 10,
           "name": "The Hand That Feeds",
-          "description": "Have 2 teammates affected by a single Divine Intervention save themselves from death"
+          "description": "Have 2 teammates affected by a single Divine Intervention save themselves from death",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HAPPY": {
           "points": 5,

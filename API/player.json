@@ -274,7 +274,11 @@
       "bedwars_slumber_ticket_master": 0,
       "christmas2017_advent_2023": 0,
       "tntgames_the_upper_hand": 0,
-      "tntgames_power_hungry": 0
+      "tntgames_power_hungry": 0,
+      "woolgames_wool_wars_slayer": 0,
+      "woolgames_capture_the_wool_slayer": 0,
+      "woolgames_wool_wars_winner": 0,
+      "woolgames_capture_the_wool_smuggler": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -41296,7 +41300,10 @@
             "wool_placed": 0,
             "deaths": 0
           },
-          "selected_class": ""
+          "selected_class": "",
+          "settings": {
+            "preround_potion": true
+          }
         },
         "progression": {
           "available_layers": 0,
@@ -41327,7 +41334,12 @@
           "projectiletrail_icicle",
           "barrier_painted_egg",
           "projectiletrail_wool_wars_level",
-          "projectiletrail_sparkler"
+          "projectiletrail_sparkler",
+          "cage_void",
+          "cage_summer_view",
+          "cage_painted_egg",
+          "cage_barrierblock",
+          "cage_bubblegum_animated"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -41337,7 +41349,58 @@
         },
         "deathcry": "",
         "preround_potion": "",
-        "lastTourneyAd": 0
+        "lastTourneyAd": 0,
+        "data_migration_version": 0,
+        "capture_the_wool": {
+          "settings": {
+            "show_tips": true,
+            "show_tutorial_book": true,
+            "show_tip_hologram": true
+          },
+          "stats": {
+            "assists": 0,
+            "deaths": 0,
+            "wools_stolen": 0,
+            "wools_captured": 0,
+            "deaths_with_wool": 0,
+            "kills": 0,
+            "gold_earned": 0,
+            "kills_with_wool": 0,
+            "kills_on_woolholder": 0,
+            "experienced_wins": 0,
+            "gold_spent": 0,
+            "experienced_losses": 0,
+            "fastest_wool_capture": 0,
+            "participated_losses": 0,
+            "fastest_win": 0,
+            "longest_game": 0,
+            "deaths_to_woolholder": 0,
+            "most_gold_earned": 0,
+            "most_kills_and_assists": 0,
+            "participated_wins": 0
+          },
+          "layout": {
+            "0": 0,
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "9": 0
+          }
+        },
+        "sheep_wars": {
+          "stats": {
+            "games_played": 0,
+            "sheep_thrown": 0,
+            "deaths": 0,
+            "losses": 0,
+            "kills": 0,
+            "wins": 0
+          }
+        }
       },
       "MainLobby": {
         "fishing": {

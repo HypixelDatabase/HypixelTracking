@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1723321925924,
+  "lastUpdated": 1723649750970,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -32,13 +32,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CTW_HEY_THERE": {
-          "points": 10,
-          "name": "Capture the Wool: Hey there",
-          "description": "Knock 3 enemies into the void without dying",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "SHOOTING_RANGE_EXPLOSIVE_ARROW": {
           "points": 10,
           "name": "Party Games: Explosive Archer",
@@ -57,20 +50,6 @@
           "points": 10,
           "name": "Dropper: Sheer Brilliance",
           "description": "Win a game of Dropper without failing",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CTW_I_CAN_BE_ANYTHING": {
-          "points": 5,
-          "name": "Capture the Wool: I can be anything",
-          "description": "Purchase three different kits at once",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CTW_NO_NEED": {
-          "points": 5,
-          "name": "Capture the Wool: No need, bro",
-          "description": "Win a game without purchasing anything",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -257,13 +236,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CTW_RIGHT_PLACE_RIGHT_TIME": {
-          "points": 15,
-          "name": "Capture the Wool: Right place, right time",
-          "description": "Kill the enemy woolholder within 50m of them capturing",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "DROPPER_FAST_WAY_DOWN": {
           "points": 5,
           "name": "Dropper: Fast Way Down",
@@ -292,14 +264,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CTW_MAGICIAN": {
-          "points": 15,
-          "name": "Capture the Wool: Magician",
-          "description": "???",
-          "secret": true,
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "PARTY_PICASSO": {
           "points": 5,
           "name": "Party Games: Picasso",
@@ -321,24 +285,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CTW_FIRST": {
-          "points": 5,
-          "name": "Capture the Wool: First",
-          "description": "Get the first kill in a game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "PIXEL_PARTY_CLUMSY_DANCER": {
           "points": 5,
           "name": "Pixel Party: Clumsy Dancer",
           "description": "Fall into the void while the floor is still filled in.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CTW_COMEBACK": {
-          "points": 5,
-          "name": "Capture the Wool: Comeback",
-          "description": "Win a game after the enemy captured the first wool",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -554,13 +504,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CTW_MVP": {
-          "points": 15,
-          "name": "Capture the Wool: MVP",
-          "description": "Capture two wools at once",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "ZOMBES_SERIAL_KILLER": {
           "points": 15,
           "name": "Zombies: Serial Killer",
@@ -636,20 +579,6 @@
           "points": 5,
           "name": "Hole in The Wall: Finals",
           "description": "Reach finals in Hole in the Wall",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CTW_FASHIONABLY_LATE": {
-          "points": 10,
-          "name": "Capture the Wool: Fashionably late",
-          "description": "Join a game in progress and capture the game-winning wool",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CTW_SAFETY_IS_AN_ILLUSION": {
-          "points": 10,
-          "name": "Capture the Wool: Safety is an illusion",
-          "description": "Kill someone near your wool room who is carrying your wool",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -742,13 +671,6 @@
           "points": 15,
           "name": "Zombies: Prison Escape",
           "description": "Use the helicopter to escape the Prison Map in Zombies",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "CTW_NINJA": {
-          "points": 15,
-          "name": "Capture the Wool: Ninja",
-          "description": "Capture a wool without getting hit once",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -901,37 +823,6 @@
               "tier": 5,
               "points": 25,
               "amount": 250
-            }
-          ]
-        },
-        "CTW_OH_SHEEP": {
-          "name": "Capture the Wool: Oh sheep",
-          "description": "Capture %s wools",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 5
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 25
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 50
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 100
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 200
             }
           ]
         },
@@ -1586,37 +1477,6 @@
             }
           ]
         },
-        "CTW_SLAYER": {
-          "name": "Capture the Wool: Ding ding ding",
-          "description": "Get %s kills / assists",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 250
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1000
-            }
-          ]
-        },
         "THROW_OUT_KILLS": {
           "name": "Throw Out: Professional Yeeter",
           "description": "Kill %s Players in Throw Out",
@@ -1649,7 +1509,7 @@
           ]
         }
       },
-      "total_points": 3020,
+      "total_points": 2760,
       "total_legacy_points": 5
     },
     "arena": {
@@ -20433,118 +20293,179 @@
     },
     "woolgames": {
       "one_time": {
-        "ACE": {
+        "FAIR_AND_SQUARE": {
+          "points": 15,
+          "name": "Sheep Wars: Fair and Square",
+          "description": "Win a game without a single enemy player falling into the void"
+        },
+        "MAGICIAN": {
+          "points": 15,
+          "name": "Capture the Wool: Magician",
+          "description": "???",
+          "secret": true
+        },
+        "MVP": {
+          "points": 15,
+          "name": "Capture the Wool: MVP",
+          "description": "Capture two wools at once"
+        },
+        "NO_NEED_BRO": {
           "points": 5,
-          "name": "Ace",
-          "description": "Win a 2-2 match while being the only one left alive",
+          "name": "Capture the Wool: No Need, Bro",
+          "description": "Win a game without purchasing anything"
+        },
+        "ITS_DARK_DOWN_THERE": {
+          "points": 5,
+          "name": "Wool Wars: It's Dark Down There",
+          "description": "Fall into the void",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "FIRST_BLOOD": {
+        "I_CAN_BE_ANYTHING": {
           "points": 5,
-          "name": "First Blood",
-          "description": "Be the first player to kill an enemy",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Capture the Wool: I Can Be Anything",
+          "description": "Purchase three different kits at once"
+        },
+        "THE_BEST_OFFENSE": {
+          "points": 10,
+          "name": "Sheep Wars: The Best Offense",
+          "description": "Heal 3 different teammates with 1 Healing Sheep"
+        },
+        "FIRST": {
+          "points": 5,
+          "name": "Capture the Wool: First",
+          "description": "Get the first kill in a game"
+        },
+        "COMEBACK": {
+          "points": 5,
+          "name": "Capture the Wool: Comeback",
+          "description": "Win a game after the enemy captured the first wool"
         },
         "ENDERMAN": {
           "points": 10,
-          "name": "Enderman",
+          "name": "Wool Wars: Enderman",
           "description": "???",
           "secret": true,
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "TOP_KILLER": {
+        "ALL_ABOARD": {
           "points": 5,
-          "name": "Top Killer",
-          "description": "Win a game while being the top killer",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Sheep Wars: All Aboard!",
+          "description": "Use an Onboarding Sheep"
         },
-        "ITS_DARK_DOWN_THERE": {
+        "SAFETY_IS_AN_ILLUSION": {
+          "points": 10,
+          "name": "Capture the Wool: Safety Is An Illusion",
+          "description": "Kill someone near your wool room who is carrying your wool"
+        },
+        "HEY_THERE": {
+          "points": 10,
+          "name": "Capture the Wool: Hey There",
+          "description": "Knock 3 enemies into the void without dying"
+        },
+        "MISSING_THE_POINT": {
+          "points": 10,
+          "name": "Sheep Wars: Missing the Point",
+          "description": "Get kills with both your sword and bow in a single game"
+        },
+        "ACE": {
           "points": 5,
-          "name": "It's Dark Down There",
-          "description": "Fall into the void",
+          "name": "Wool Wars: Ace",
+          "description": "Win a 2-2 match while being the only one left alive",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MERCILESS": {
-          "points": 10,
-          "name": "Merciless",
-          "description": "Kill 8 enemies in one game of Wool Wars",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "STOCK_PILE": {
-          "points": 10,
-          "name": "Stock Pile",
-          "description": "Collect 8 powerups in one game of Wool Wars",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "CHROMATIC": {
+          "points": 5,
+          "name": "Sheep Wars: Chromatic",
+          "description": "Collect every type of sheep in a single game"
         },
         "TRUE_LEADER": {
           "points": 15,
-          "name": "True Leader",
-          "description": "Win while having the most kills and wool placed/broken",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "KEYSTONE": {
-          "points": 5,
-          "name": "Keystone",
-          "description": "Activate a Keystone Ability",
+          "name": "Wool Wars: True Leader",
+          "description": "Win a game while having the most kills and wool placed/broken",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "SURVIVOR": {
           "points": 10,
-          "name": "Survivor",
-          "description": "Win a game of Wool Wars without dying",
+          "name": "Wool Wars: Survivor",
+          "description": "Win a game without dying",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "FASHIONABLY_LATE": {
+          "points": 10,
+          "name": "Capture the Wool: Fashionably Late",
+          "description": "Join a game in progress and capture the game-winning wool"
+        },
+        "FIRST_BLOOD": {
+          "points": 5,
+          "name": "Wool Wars: First Blood",
+          "description": "Be the first player to kill an enemy",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "RESILIENT": {
+          "points": 5,
+          "name": "Sheep Wars: Resilient",
+          "description": "Kill a player with explosion damage"
+        },
+        "NINJA": {
+          "points": 15,
+          "name": "Capture the Wool: Ninja",
+          "description": "Capture a wool without getting hit once"
+        },
+        "RIGHT_PLACE_RIGHT_TIME": {
+          "points": 15,
+          "name": "Capture the Wool: Right Place, Right Time",
+          "description": "Kill the enemy woolholder within 50m of them capturing"
+        },
+        "TOP_KILLER": {
+          "points": 5,
+          "name": "Wool Wars: Top Killer",
+          "description": "Win a game while being the top killer",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "MERCILESS": {
+          "points": 10,
+          "name": "Wool Wars: Merciless",
+          "description": "Kill 8 enemies in one game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "STOCK_PILE": {
+          "points": 10,
+          "name": "Wool Wars: Stock Pile",
+          "description": "Collect 8 powerups in one game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "KEYSTONE": {
+          "points": 5,
+          "name": "Wool Wars: Keystone",
+          "description": "Activate a Keystone Ability",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "SHOPPING_FOR_WOOL": {
+          "points": 10,
+          "name": "Sheep Wars: Shopping for Wool",
+          "description": "???",
+          "secret": true
         }
       },
       "tiered": {
-        "WOOL_KILLS": {
-          "name": "Wool Killer",
-          "description": "Kill %s players in Wool Wars",
+        "SHEEP_WARS_SHEEP_SLAYER": {
+          "name": "Sheep Wars: Sheep Slayer",
+          "description": "Kill %s sheep",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
-              "amount": 50
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 500
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 2500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 10000
-            }
-          ]
-        },
-        "WOOL_WINS": {
-          "name": "Wool Warrior",
-          "description": "Win %s games of Wool Wars",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
+              "amount": 5
             },
             {
               "tier": 2,
@@ -20559,18 +20480,18 @@
             {
               "tier": 4,
               "points": 20,
-              "amount": 500
+              "amount": 250
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 2500
+              "amount": 500
             }
           ]
         },
-        "WOOL_CONTEST": {
-          "name": "Wool Contest",
-          "description": "Break/place %s blocks in Wool Wars",
+        "WOOL_WARS_CAPTURER": {
+          "name": "Wool Wars: Capturer",
+          "description": "Break/place %s blocks",
           "tiers": [
             {
               "tier": 1,
@@ -20580,22 +20501,239 @@
             {
               "tier": 2,
               "points": 10,
-              "amount": 100
+              "amount": 250
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 500
+              "amount": 750
             },
             {
               "tier": 4,
               "points": 20,
-              "amount": 2500
+              "amount": 1500
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 10000
+              "amount": 2500
+            }
+          ]
+        },
+        "SHEEP_WARS_SLAYER": {
+          "name": "Sheep Wars: Slayer",
+          "description": "Kill %s players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "CAPTURE_THE_WOOL_SMUGGLER": {
+          "name": "Capture the Wool: Smuggler",
+          "description": "Capture %s wools",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 3
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 25
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 50
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 100
+            }
+          ]
+        },
+        "SHEEP_WARS_WINNER": {
+          "name": "Sheep Wars: Winner",
+          "description": "Win %s games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
+            }
+          ]
+        },
+        "WOOL_WARS_WINNER": {
+          "name": "Wool Wars: Winner",
+          "description": "Win %s games",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
+            }
+          ]
+        },
+        "SHEEP_WARS_SHARPSHOOTER": {
+          "name": "Sheep Wars: Sharpshooter",
+          "description": "Shoot down %s Magic Wool",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
+        "CAPTURE_THE_WOOL_SLAYER": {
+          "name": "Capture the Wool: Slayer",
+          "description": "Get %s kills/assists",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "WOOL_WARS_SLAYER": {
+          "name": "Wool Wars: Slayer",
+          "description": "Kill %s players",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
             }
           ]
         },
@@ -20631,7 +20769,7 @@
           ]
         }
       },
-      "total_points": 380,
+      "total_points": 1000,
       "total_legacy_points": 0
     }
   }

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1719399680250,
+  "lastUpdated": 1723649750973,
   "quests": {
     "quake": [
       {
@@ -4050,7 +4050,7 @@
             "amount": 3850
           },
           {
-            "type": "WoolWarsExpReward",
+            "type": "WoolGamesExpReward",
             "amount": 400
           },
           {
@@ -4108,7 +4108,7 @@
         "name": "Weekly Quest: King of the Herd",
         "rewards": [
           {
-            "type": "WoolWarsExpReward",
+            "type": "WoolGamesExpReward",
             "amount": 3000
           },
           {
@@ -4148,7 +4148,7 @@
         "name": "Weekly Quest: Wool Connoisseur",
         "rewards": [
           {
-            "type": "WoolWarsExpReward",
+            "type": "WoolGamesExpReward",
             "amount": 3000
           },
           {
@@ -4176,7 +4176,7 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Shear 200 Layers from your sheep"
+        "description": "Shear 200 layers from your sheep"
       }
     ]
   }

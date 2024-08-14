@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1694701076408,
+  "lastUpdated": 1723649750974,
   "challenges": {
     "arcade": [
       {
@@ -136,16 +136,6 @@
       {
         "id": "ARCADE__mini_walls_challenge",
         "name": "Mini Walls Challenge",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3700
-          }
-        ]
-      },
-      {
-        "id": "ARCADE__capture_the_wool_challenge",
-        "name": "Capture the Wool Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1088,8 +1078,8 @@
     ],
     "woolgames": [
       {
-        "id": "WOOL_GAMES__flawless_challenge",
-        "name": "Flawless Challenge",
+        "id": "WOOL_GAMES__wool_wars_challenge",
+        "name": "Wool Wars Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1098,8 +1088,8 @@
         ]
       },
       {
-        "id": "WOOL_GAMES__builder_challenge",
-        "name": "Builder Challenge",
+        "id": "WOOL_GAMES__sheep_wars_challenge",
+        "name": "Sheep Wars Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1108,8 +1098,8 @@
         ]
       },
       {
-        "id": "WOOL_GAMES__merciless_killer_challenge",
-        "name": "Merciless Killer Challenge",
+        "id": "WOOL_GAMES__capture_the_wool_challenge",
+        "name": "Capture the Wool Challenge",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",

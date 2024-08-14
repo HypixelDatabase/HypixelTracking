@@ -278,7 +278,8 @@
       "woolgames_wool_wars_slayer": 0,
       "woolgames_capture_the_wool_slayer": 0,
       "woolgames_wool_wars_winner": 0,
-      "woolgames_capture_the_wool_smuggler": 0
+      "woolgames_capture_the_wool_smuggler": 0,
+      "woolgames_sheep_wars_sheep_slayer": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -41399,8 +41400,21 @@
             "losses": 0,
             "kills": 0,
             "wins": 0
+          },
+          "layout": {
+            "slot": {
+              "0": "",
+              "1": "",
+              "2": ""
+            }
           }
-        }
+        },
+        "sheepwars": {
+          "layout": {
+            "opened": true
+          }
+        },
+        "playtime": 0
       },
       "MainLobby": {
         "fishing": {

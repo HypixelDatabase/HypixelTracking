@@ -41408,7 +41408,9 @@
             "deaths_void": 0,
             "kills_void": 0,
             "magic_wool_hit": 0,
-            "kills_explosive": 0
+            "kills_explosive": 0,
+            "kills_bow": 0,
+            "kills_melee": 0
           },
           "layout": {
             "slot": {
@@ -41416,7 +41418,8 @@
               "1": "",
               "2": ""
             }
-          }
+          },
+          "default_kit": ""
         },
         "sheepwars": {
           "layout": {

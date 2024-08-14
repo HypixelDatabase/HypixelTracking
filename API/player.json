@@ -279,7 +279,11 @@
       "woolgames_capture_the_wool_slayer": 0,
       "woolgames_wool_wars_winner": 0,
       "woolgames_capture_the_wool_smuggler": 0,
-      "woolgames_sheep_wars_sheep_slayer": 0
+      "woolgames_sheep_wars_sheep_slayer": 0,
+      "woolgames_wool_wars_capturer": 0,
+      "woolgames_sheep_wars_slayer": 0,
+      "woolgames_sheep_wars_sharpshooter": 0,
+      "woolgames_sheep_wars_winner": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -41399,7 +41403,11 @@
             "deaths": 0,
             "losses": 0,
             "kills": 0,
-            "wins": 0
+            "wins": 0,
+            "damage_dealt": 0,
+            "deaths_void": 0,
+            "kills_void": 0,
+            "magic_wool_hit": 0
           },
           "layout": {
             "slot": {

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1723649750970,
+  "lastUpdated": 1723757150970,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -20296,23 +20296,31 @@
         "FAIR_AND_SQUARE": {
           "points": 15,
           "name": "Sheep Wars: Fair and Square",
-          "description": "Win a game without a single enemy player falling into the void"
+          "description": "Win a game without a single enemy player falling into the void",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MAGICIAN": {
           "points": 15,
           "name": "Capture the Wool: Magician",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MVP": {
           "points": 15,
           "name": "Capture the Wool: MVP",
-          "description": "Capture two wools at once"
+          "description": "Capture two wools at once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NO_NEED_BRO": {
           "points": 5,
           "name": "Capture the Wool: No Need, Bro",
-          "description": "Win a game without purchasing anything"
+          "description": "Win a game without purchasing anything",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ITS_DARK_DOWN_THERE": {
           "points": 5,
@@ -20324,22 +20332,30 @@
         "I_CAN_BE_ANYTHING": {
           "points": 5,
           "name": "Capture the Wool: I Can Be Anything",
-          "description": "Purchase three different kits at once"
+          "description": "Purchase three different kits at once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THE_BEST_OFFENSE": {
           "points": 10,
           "name": "Sheep Wars: The Best Offense",
-          "description": "Heal 3 different teammates with 1 Healing Sheep"
+          "description": "Heal 3 different teammates with 1 Healing Sheep",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FIRST": {
           "points": 5,
           "name": "Capture the Wool: First",
-          "description": "Get the first kill in a game"
+          "description": "Get the first kill in a game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "COMEBACK": {
           "points": 5,
           "name": "Capture the Wool: Comeback",
-          "description": "Win a game after the enemy captured the first wool"
+          "description": "Win a game after the enemy captured the first wool",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ENDERMAN": {
           "points": 10,
@@ -20352,22 +20368,30 @@
         "ALL_ABOARD": {
           "points": 5,
           "name": "Sheep Wars: All Aboard!",
-          "description": "Use an Onboarding Sheep"
+          "description": "Use an Onboarding Sheep",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SAFETY_IS_AN_ILLUSION": {
           "points": 10,
           "name": "Capture the Wool: Safety Is An Illusion",
-          "description": "Kill someone near your wool room who is carrying your wool"
+          "description": "Kill someone near your wool room who is carrying your wool",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HEY_THERE": {
           "points": 10,
           "name": "Capture the Wool: Hey There",
-          "description": "Knock 3 enemies into the void without dying"
+          "description": "Knock 3 enemies into the void without dying",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MISSING_THE_POINT": {
           "points": 10,
           "name": "Sheep Wars: Missing the Point",
-          "description": "Get kills with both your sword and bow in a single game"
+          "description": "Get kills with both your sword and bow in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ACE": {
           "points": 5,
@@ -20379,7 +20403,9 @@
         "CHROMATIC": {
           "points": 5,
           "name": "Sheep Wars: Chromatic",
-          "description": "Collect every type of sheep in a single game"
+          "description": "Collect every type of sheep in a single game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TRUE_LEADER": {
           "points": 15,
@@ -20398,7 +20424,9 @@
         "FASHIONABLY_LATE": {
           "points": 10,
           "name": "Capture the Wool: Fashionably Late",
-          "description": "Join a game in progress and capture the game-winning wool"
+          "description": "Join a game in progress and capture the game-winning wool",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FIRST_BLOOD": {
           "points": 5,
@@ -20410,17 +20438,23 @@
         "RESILIENT": {
           "points": 5,
           "name": "Sheep Wars: Resilient",
-          "description": "Kill a player with explosion damage"
+          "description": "Kill a player with explosion damage",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NINJA": {
           "points": 15,
           "name": "Capture the Wool: Ninja",
-          "description": "Capture a wool without getting hit once"
+          "description": "Capture a wool without getting hit once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "RIGHT_PLACE_RIGHT_TIME": {
           "points": 15,
           "name": "Capture the Wool: Right Place, Right Time",
-          "description": "Kill the enemy woolholder within 50m of them capturing"
+          "description": "Kill the enemy woolholder within 50m of them capturing",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "TOP_KILLER": {
           "points": 5,
@@ -20454,7 +20488,9 @@
           "points": 10,
           "name": "Sheep Wars: Shopping for Wool",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         }
       },
       "tiered": {

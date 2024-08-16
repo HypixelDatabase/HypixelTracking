@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1721748780154,
+  "lastUpdated": 1723822669590,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -84,11 +84,13 @@
     },
     "WOOL_GAMES": {
       "modeNames": {
-        "wool_wars_two_four_tourney": "4v4 (Tournament)",
-        "wool_wars_two_four": "4v4"
+        "capture_the_wool_two_twenty": "Capture the Wool",
+        "wool_wars_two_four_tourney": "Wool Wars (Tournament)",
+        "sheep_wars_two_six": "Sheep Wars",
+        "wool_wars_two_four": "Wool Wars"
       },
       "databaseName": "WoolGames",
-      "name": "Wool Wars",
+      "name": "Wool Games",
       "id": 68
     },
     "SURVIVAL_GAMES": {
@@ -126,7 +128,6 @@
         "ONEINTHEQUIVER": "Bounty Hunters",
         "SOCCER": "Football",
         "SIMON_SAYS": "Hypixel Says",
-        "PVP_CTW": "Capture the Wool",
         "ENDER": "Ender Spleef",
         "STARWARS": "Galaxy Wars",
         "DRAGONWARS2": "Dragon Wars",
@@ -197,9 +198,6 @@
       "id": 7
     },
     "PROTOTYPE": {
-      "modeNames": {
-        "SHEEPWARS_TWO_SIX": "Sheep Wars"
-      },
       "databaseName": "Prototype",
       "name": "Prototype",
       "id": 57

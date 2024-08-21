@@ -41355,7 +41355,9 @@
           "cage_barrierblock",
           "cage_bubblegum_animated",
           "glyph_cry_face",
-          "projectiletrail_wool_games_level"
+          "projectiletrail_wool_games_level",
+          "killmessages_love",
+          "cage_bubblegum"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -41453,7 +41455,8 @@
           }
         },
         "playtime": 0,
-        "glyph": ""
+        "glyph": "",
+        "cage": ""
       },
       "MainLobby": {
         "fishing": {

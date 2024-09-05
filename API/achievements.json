@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1723757150970,
+  "lastUpdated": 1725540317898,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -14483,7 +14483,7 @@
           "points": 10,
           "name": "Ice Scream",
           "description": "Kill the Murderer while under the effect of Magical Ice cream on Skyway Pier in Murder Mystery",
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "WIN_PINK_SHEEP": {
           "points": 15,
@@ -14670,8 +14670,8 @@
           ]
         }
       },
-      "total_points": 380,
-      "total_legacy_points": 185
+      "total_points": 370,
+      "total_legacy_points": 195
     },
     "supersmash": {
       "one_time": {

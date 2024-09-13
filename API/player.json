@@ -21101,7 +21101,9 @@
           "WATER_BUCKET:0": "",
           "DIAMOND_SWORD:0": "",
           "WATER_BUCKET:2": "",
-          "WATER_BUCKET:1": ""
+          "WATER_BUCKET:1": "",
+          "RAW_FISH:1": "",
+          "SPONGE:0": ""
         },
         "lab_win_lucky_blocks_lab_kit_advanced_solo_zookeeper": 0,
         "inGamePresentsCap_2018_9": 0,
@@ -21976,7 +21978,10 @@
         "kit_defending_team_golem_inventory": {
           "MONSTER_EGG:99": "",
           "BAKED_POTATO:0": "",
-          "LEATHER_BOOTS:0": ""
+          "LEATHER_BOOTS:0": "",
+          "RED_ROSE:0": "",
+          "IRON_BOOTS:0": "",
+          "IRON_CHESTPLATE:0": ""
         },
         "chests_opened_lab_kit_defending_team_farmer": 0,
         "deaths_lab_kit_defending_team_farmer": 0,
@@ -26143,7 +26148,11 @@
         "heads_heavenly_kit_supporting_team_pharaoh": 0,
         "heads_tasty_kit_supporting_team_pharaoh": 0,
         "heads_eww_kit_defending_team_golem": 0,
-        "bow_kills_kit_defending_team_golem": 0
+        "bow_kills_kit_defending_team_golem": 0,
+        "kit_attacking_team_slime_inventory": {
+          "SLIME_BLOCK:0": "",
+          "DIAMOND_BOOTS:0": ""
+        }
       },
       "TrueCombat": {
         "coins": 0,

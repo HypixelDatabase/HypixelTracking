@@ -8766,7 +8766,9 @@
             "mining_master": 0,
             "subterranean_fisher": 0,
             "steady_hand": 0,
-            "vanguard_seeker": 0
+            "vanguard_seeker": 0,
+            "sheer_force": 0,
+            "toggle_subterranean_fisher": true
           },
           "received_free_tier": true,
           "crystals": {
@@ -8901,6 +8903,20 @@
                 "notified": true
               },
               "5": {
+                "type": "",
+                "id": "",
+                "startTime": 0,
+                "slot": 0,
+                "notified": true
+              },
+              "6": {
+                "type": "",
+                "id": "",
+                "startTime": 0,
+                "slot": 0,
+                "notified": true
+              },
+              "7": {
                 "type": "",
                 "id": "",
                 "startTime": 0,

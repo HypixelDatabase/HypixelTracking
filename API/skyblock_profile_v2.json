@@ -1604,7 +1604,15 @@
             "star_powder": 0,
             "maniac_miner": 0,
             "toggle_subzero_mining": true,
-            "toggle_strong_arm": true
+            "toggle_strong_arm": true,
+            "old_school": 0,
+            "blockhead": 0,
+            "crystalline": 0,
+            "keep_it_cool": 0,
+            "metal_head": 0,
+            "mining_master": 0,
+            "subterranean_fisher": 0,
+            "steady_hand": 0
           },
           "received_free_tier": true,
           "tokens": 0,
@@ -10629,7 +10637,8 @@
             "TUNGSTEN_7",
             "GLACITE_9",
             "UMBER_9",
-            "TUNGSTEN_9"
+            "TUNGSTEN_9",
+            "LEATHER_11"
           ],
           "visited_zones": [
             "dynamic_portal_island",

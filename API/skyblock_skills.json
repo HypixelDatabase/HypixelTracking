@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1723752951036,
-  "version": "0.20.5.16",
+  "lastUpdated": 1726591138793,
+  "version": "0.20.6.3",
   "skills": {
     "FARMING": {
       "name": "Farming",
@@ -768,6 +768,7 @@
           "unlocks": [
             "Spelunker XIV   Grants +52➜56 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+1 ❈ Defense",
+            "Dwarven Treasure Reforge",
             "End Stone Geode Reforge",
             "+25,000 Coins",
             "+10 SkyBlock XP"
@@ -782,7 +783,7 @@
             "Beady Eyes Reforge",
             "Diamonite Reforge",
             "Clipped Wings Reforge",
-            "Salmon Opal Reforge",
+            "Kaleidoscopic Mineral Reforge",
             "Terry's Snowglobe Reforge",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -840,7 +841,7 @@
             "Spelunker XX   Grants +76➜80 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Entropy Suppressor Reforge",
-            "Jaderald Reforge",
+            "Titanium Tesseract Reforge",
             "Dragon Scale Reforge",
             "Molten Cube Reforge",
             "Frozen Bauble Reforge",
@@ -855,7 +856,7 @@
             "Spelunker XXI   Grants +80➜84 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Red Scarf Reforge",
-            "Rock Gemstone Reforge",
+            "Dwarven Geode Reforge",
             "+125,000 Coins",
             "+10 SkyBlock XP"
           ]
@@ -911,7 +912,7 @@
             "Spelunker XXV   Grants +96➜100 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
             "Giant Tooth Reforge",
-            "Refined Amber Reforge",
+            "Andesite Whetstone Reforge",
             "Bulky Stone Reforge",
             "Midas Jewel Reforge",
             "Sadan's Brooch Reforge",
@@ -940,6 +941,7 @@
           "unlocks": [
             "Spelunker XXVII   Grants +104➜108 ☘ Mining Fortune, which increases your chance for multiple ore drops.",
             "+2 ❈ Defense",
+            "Blazen Sphere Reforge",
             "+275,000 Coins",
             "+20 SkyBlock XP"
           ]
@@ -975,6 +977,7 @@
             "Precursor Gear Reforge",
             "Golden Ball Reforge",
             "Frigid Husk Reforge",
+            "Jaderald Reforge",
             "+350,000 Coins",
             "+20 SkyBlock XP"
           ]
@@ -3273,7 +3276,7 @@
             "+2 ✎ Intelligence",
             "Mana Vampire Enchantment",
             "Hardened Mana Enchantment",
-            "Pristine Enchantment",
+            "Prismatic Enchantment",
             "Counter-Strike Enchantment",
             "Ferocious Mana Enchantment",
             "Strong Mana Enchantment",
@@ -3301,6 +3304,7 @@
             "Conjurer XXIV   Gain 115➜120% more experience orbs from any source.",
             "+0.5% ๑ Ability Damage",
             "+2 ✎ Intelligence",
+            "Flowstate Enchantment",
             "Reflection Enchantment",
             "Green Thumb Enchantment",
             "Combo Enchantment",

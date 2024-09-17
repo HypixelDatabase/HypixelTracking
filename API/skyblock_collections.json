@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1716902705437,
-  "version": "0.20.2.0",
+  "lastUpdated": 1726579438711,
+  "version": "0.20.6.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1192,7 +1192,7 @@
         },
         "LEATHER": {
           "name": "Leather",
-          "maxTiers": 10,
+          "maxTiers": 11,
           "tiers": [
             {
               "tier": 1,
@@ -1221,6 +1221,14 @@
             },
             {
               "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Enchanted Leather Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Raw Beef Recipe",
@@ -1228,7 +1236,7 @@
               ]
             },
             {
-              "tier": 5,
+              "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
                 "Medium Backpack Recipe",
@@ -1236,15 +1244,15 @@
               ]
             },
             {
-              "tier": 6,
+              "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Leather Recipe",
+                "+5,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
             {
-              "tier": 7,
+              "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
                 "Saddle Recipe",
@@ -1252,7 +1260,7 @@
               ]
             },
             {
-              "tier": 8,
+              "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
                 "Large Backpack Recipe",
@@ -1260,7 +1268,7 @@
               ]
             },
             {
-              "tier": 9,
+              "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
                 "Mystery Horse Pet Recipe",
@@ -1268,7 +1276,7 @@
               ]
             },
             {
-              "tier": 10,
+              "tier": 11,
               "amountRequired": 100000,
               "unlocks": [
                 "Greater Backpack Recipe",
@@ -2162,6 +2170,10 @@
               "amountRequired": 100,
               "unlocks": [
                 "Golem Hat Recipe",
+                "Prospecting Helmet Recipe",
+                "Prospecting Chestplate Recipe",
+                "Prospecting Leggings Recipe",
+                "Prospecting Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2343,7 +2355,7 @@
               "tier": 8,
               "amountRequired": 250000,
               "unlocks": [
-                "Enchanted Book (Pristine I) Recipe",
+                "Enchanted Book (Prismatic I) Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2700,10 +2712,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Miner's Outfit Helmet Recipe",
-                "Miner's Outfit Chestplate Recipe",
-                "Miner's Outfit Leggings Recipe",
-                "Miner's Outfit Boots Recipe",
+                "Haste Ring Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2719,7 +2728,7 @@
               "tier": 9,
               "amountRequired": 40000,
               "unlocks": [
-                "Haste Ring Recipe",
+                "Haste Artifact Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2988,7 +2997,7 @@
               "tier": 4,
               "amountRequired": 50000,
               "unlocks": [
-                "Hot Stuff Dwarven Forge Recipe",
+                "Scorched Topaz Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3037,21 +3046,21 @@
               "tier": 2,
               "amountRequired": 250,
               "unlocks": [
-                "Spelunker Potion Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "tier": 3,
-              "amountRequired": 1000,
-              "unlocks": [
                 "Enchanted Mithril Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
-              "tier": 4,
+              "tier": 3,
               "amountRequired": 2500,
+              "unlocks": [
+                "Spelunker Potion Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 10000,
               "unlocks": [
                 "Mithril Crystal Recipe",
                 "+4 SkyBlock XP"
@@ -3059,15 +3068,15 @@
             },
             {
               "tier": 5,
-              "amountRequired": 5000,
+              "amountRequired": 50000,
               "unlocks": [
-                "Mithril Coat Recipe",
+                "Mystery Mithril Golem Pet Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
-              "amountRequired": 10000,
+              "amountRequired": 100000,
               "unlocks": [
                 "Dwarven Super Compactor Recipe",
                 "+4 SkyBlock XP"
@@ -3077,7 +3086,7 @@
               "tier": 7,
               "amountRequired": 250000,
               "unlocks": [
-                "Mystery Mithril Golem Pet Recipe",
+                "Mithril Coat Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5994,7 +6003,7 @@
             },
             {
               "tier": 7,
-              "amountRequired": 80000,
+              "amountRequired": 75000,
               "unlocks": [
                 "Full-Jaw Fanging Kit Recipe",
                 "+4 SkyBlock XP"
@@ -6010,7 +6019,7 @@
             },
             {
               "tier": 9,
-              "amountRequired": 400000,
+              "amountRequired": 250000,
               "unlocks": [
                 "Hemobomb Recipe",
                 "Blood Donor Artifact Recipe",

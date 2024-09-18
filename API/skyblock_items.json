@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1722951915000,
+  "lastUpdated": 1726579276000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -150,7 +150,6 @@
       "category": "REFORGE_STONE",
       "tier": "UNCOMMON",
       "npc_sell_price": 1,
-      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -158,6 +157,7 @@
           "amount": 1
         }
       ],
+      "rarity_salvageable": true,
       "id": "LUXURIOUS_SPOOL"
     },
     {
@@ -13771,6 +13771,66 @@
           "level": 21
         }
       ],
+      "gemstone_slots": [
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 20
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_RUBY_GEM",
+              "amount": 20
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AMETHYST_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
+          "slot_type": "COMBAT",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 200000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_SAPPHIRE_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_RUBY_GEM",
+              "amount": 40
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AMETHYST_GEM",
+              "amount": 40
+            }
+          ]
+        }
+      ],
       "id": "PHANTOM_ROD"
     },
     {
@@ -14137,6 +14197,45 @@
       ],
       "museum": true,
       "id": "FARMER_ROD"
+    },
+    {
+      "material": "FISHING_ROD",
+      "name": "Polished Topaz Rod",
+      "category": "FISHING_ROD",
+      "tier": "UNCOMMON",
+      "stats": {
+        "damage": 100,
+        "strength": 100,
+        "fishing_speed": 40
+      },
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "FISHING",
+          "level": 19
+        },
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 5
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AQUAMARINE",
+          "costs": [
+            {
+              "type": "ITEM",
+              "item_id": "FINE_AQUAMARINE_GEM",
+              "amount": 40
+            },
+            {
+              "type": "COINS",
+              "coins": 100000
+            }
+          ]
+        }
+      ],
+      "id": "POLISHED_TOPAZ_ROD"
     },
     {
       "material": "FISHING_ROD",
@@ -16427,7 +16526,8 @@
       "tier": "EPIC",
       "stats": {
         "WALK_SPEED": 10,
-        "DEFENSE": 70
+        "DEFENSE": 70,
+        "BLOCK_FORTUNE": 25
       },
       "id": "MINERAL_BOOTS"
     },
@@ -16439,7 +16539,8 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 25,
-        "DEFENSE": 150
+        "DEFENSE": 150,
+        "BLOCK_FORTUNE": 50
       },
       "id": "GLOSSY_MINERAL_CHESTPLATE"
     },
@@ -16451,7 +16552,8 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 25,
-        "DEFENSE": 150
+        "DEFENSE": 150,
+        "BLOCK_FORTUNE": 50
       },
       "id": "GLOSSY_MINERAL_LEGGINGS"
     },
@@ -16464,7 +16566,8 @@
       "tier": "EPIC",
       "stats": {
         "WALK_SPEED": 10,
-        "DEFENSE": 70
+        "DEFENSE": 70,
+        "BLOCK_FORTUNE": 25
       },
       "id": "MINERAL_HELMET"
     },
@@ -16477,7 +16580,8 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 20,
-        "DEFENSE": 90
+        "DEFENSE": 90,
+        "BLOCK_FORTUNE": 50
       },
       "id": "GLOSSY_MINERAL_HELMET"
     },
@@ -16489,7 +16593,8 @@
       "tier": "LEGENDARY",
       "stats": {
         "WALK_SPEED": 20,
-        "DEFENSE": 90
+        "DEFENSE": 90,
+        "BLOCK_FORTUNE": 50
       },
       "id": "GLOSSY_MINERAL_BOOTS"
     },
@@ -16501,7 +16606,8 @@
       "tier": "EPIC",
       "stats": {
         "WALK_SPEED": 15,
-        "DEFENSE": 125
+        "DEFENSE": 125,
+        "BLOCK_FORTUNE": 25
       },
       "id": "MINERAL_CHESTPLATE"
     },
@@ -16513,7 +16619,8 @@
       "tier": "EPIC",
       "stats": {
         "WALK_SPEED": 15,
-        "DEFENSE": 125
+        "DEFENSE": 125,
+        "BLOCK_FORTUNE": 25
       },
       "id": "MINERAL_LEGGINGS"
     },
@@ -20853,6 +20960,15 @@
       "id": "EXPERIMENTATION_TABLE"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzllMTA2Njk2YWEzMjMzNjdjN2JlYWNjMDc1ODM4NzAzYTY3NmY4ZTVjNDY0MDA5ZDUzNWMzMGI0NTJhMTlhIn19fQ==",
+      "name": "Dwarven Treasure",
+      "category": "REFORGE_STONE",
+      "tier": "RARE",
+      "id": "DWARVEN_TREASURE"
+    },
+    {
       "material": "DIAMOND_SWORD",
       "name": "Shadow Fury",
       "category": "SWORD",
@@ -21097,6 +21213,13 @@
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI5MTUzMzQzMywKICAicHJvZmlsZUlkIiA6ICIwZjlmYzU0MDQxZjk0NzEyOWQxYmEzODg1YmQ3N2M4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICI4MTE5NGJheiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGI3ZmMyYjY5YmNkNDI5YWJmZDFjZWIxYWVhMTBjZWJmMTc0OWE4MDY4MGM2M2NkOGI2MGYzYTRjN2U0ZmZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Pure Mithril Gem",
       "tier": "LEGENDARY",
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "DIAMOND",
+          "amount": 100
+        }
+      ],
       "id": "PET_ITEM_PURE_MITHRIL_GEM"
     },
     {
@@ -23135,6 +23258,16 @@
       "id": "PET_SKIN_SHEEP_ORANGE"
     },
     {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ5MTE0NDQzMSwKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjZiZGRiYTFlM2QwMTRmYzc1ZTcwZTI3MjIzY2EzMGNiZmE0Mjk5MGQ0NDhkOWE5NDBlNTAwYTY0MzViZWMiCiAgICB9CiAgfQp9",
+      "name": "Dwarven O's Block Bran",
+      "category": "CONSUMABLE",
+      "tier": "RARE",
+      "unstackable": true,
+      "id": "DWARVEN_OS_BLOCK_BRAN"
+    },
+    {
       "material": "WOOL",
       "durability": 6,
       "name": "Pink Wool",
@@ -23721,7 +23854,8 @@
         "DEFENSE": 110,
         "HEALTH": 80,
         "MINING_FORTUNE": 30,
-        "MINING_SPEED": 80
+        "MINING_SPEED": 80,
+        "HEAT_RESISTANCE": 10
       },
       "requirements": [
         {
@@ -24040,7 +24174,8 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 5
+        "DEFENSE": 15,
+        "MINING_SPEED": 10
       },
       "npc_sell_price": 3000,
       "id": "TANK_MINER_LEGGINGS"
@@ -27004,7 +27139,10 @@
       "tier": "EPIC",
       "stats": {
         "DEFENSE": 15,
-        "HEALTH": 50
+        "HEALTH": 50,
+        "MINING_SPEED": 25,
+        "MINING_FORTUNE": 20,
+        "HEAT_RESISTANCE": 10
       },
       "npc_sell_price": 38000,
       "requirements": [
@@ -27104,10 +27242,12 @@
       "category": "HELMET",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 20,
+        "DEFENSE": 50,
         "HEALTH": 20,
-        "MINING_FORTUNE": 5,
-        "MINING_SPEED": 10
+        "MINING_FORTUNE": 10,
+        "MINING_SPEED": 15,
+        "STRENGTH": 15,
+        "HEAT_RESISTANCE": 20
       },
       "requirements": [
         {
@@ -29025,7 +29165,7 @@
       "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDA3NjQyNzU5NCwKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0OWE2ZDMzMDQ2NWJjOTRkNTczNzE2NDI4ZGM2NjJjYzE2YWNkM2I4MDUzNWI1MjAyOGM2NjVmNGRhZjY4MmUiCiAgICB9CiAgfQp9",
       "name": "Topaz Crystal",
-      "tier": "RARE",
+      "tier": "SPECIAL",
       "id": "TOPAZ_CRYSTAL"
     },
     {
@@ -30792,13 +30932,34 @@
       "stats": {
         "BREAKING_POWER": 8,
         "DAMAGE": 75,
-        "MINING_SPEED": 300
+        "MINING_SPEED": 300,
+        "GEMSTONE_FORTUNE": 80,
+        "PRISTINE": 1
       },
       "npc_sell_price": 253000,
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
           "tier": 4
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMBER"
+        },
+        {
+          "slot_type": "JADE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JADE_GEM",
+              "amount": 20
+            }
+          ]
         }
       ],
       "id": "GEMSTONE_DRILL_2"
@@ -31756,6 +31917,20 @@
     },
     {
       "material": "WOOD_PICKAXE",
+      "name": "Rusty Titanium Pickaxe",
+      "glowing": true,
+      "category": "PICKAXE",
+      "tier": "UNCOMMON",
+      "stats": {
+        "BREAKING_POWER": 5,
+        "DAMAGE": 55,
+        "MINING_SPEED": 100
+      },
+      "npc_sell_price": 50000,
+      "id": "RUSTY_TITANIUM_PICKAXE"
+    },
+    {
+      "material": "WOOD_PICKAXE",
       "name": "Zoom",
       "glowing": true,
       "category": "PICKAXE",
@@ -31954,7 +32129,8 @@
       "category": "BOOTS",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 5
+        "DEFENSE": 15,
+        "MINING_SPEED": 10
       },
       "npc_sell_price": 2000,
       "id": "TANK_MINER_BOOTS"
@@ -33209,13 +33385,14 @@
       "stats": {
         "BREAKING_POWER": 5,
         "DAMAGE": 65,
-        "MINING_SPEED": 450
+        "MINING_SPEED": 450,
+        "MINING_FORTUNE": 15
       },
       "npc_sell_price": 7000,
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
-          "tier": 3
+          "tier": 2
         }
       ],
       "id": "MITHRIL_DRILL_1"
@@ -33252,13 +33429,34 @@
       "stats": {
         "BREAKING_POWER": 7,
         "DAMAGE": 75,
-        "MINING_SPEED": 150
+        "MINING_SPEED": 150,
+        "GEMSTONE_FORTUNE": 60,
+        "PRISTINE": 0.5
       },
       "npc_sell_price": 253000,
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
-          "tier": 3
+          "tier": 4
+        }
+      ],
+      "gemstone_slots": [
+        {
+          "slot_type": "AMBER"
+        },
+        {
+          "slot_type": "JADE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JADE_GEM",
+              "amount": 20
+            }
+          ]
         }
       ],
       "id": "GEMSTONE_DRILL_1"
@@ -33279,7 +33477,7 @@
       "stats": {
         "BREAKING_POWER": 6,
         "DAMAGE": 60,
-        "MINING_SPEED": 310
+        "MINING_SPEED": 140
       },
       "npc_sell_price": 5000,
       "requirements": [
@@ -33604,8 +33802,9 @@
       "stats": {
         "DEFENSE": 35,
         "HEALTH": 35,
-        "MINING_FORTUNE": 10,
-        "MINING_SPEED": 25
+        "MINING_FORTUNE": 15,
+        "MINING_SPEED": 25,
+        "HEAT_RESISTANCE": 5
       },
       "requirements": [
         {
@@ -33669,7 +33868,8 @@
       "stats": {
         "HEALTH": 140,
         "INTELLIGENCE": -1,
-        "MINING_SPEED": 10
+        "MINING_SPEED": 10,
+        "MINING_FORTUNE": 4
       },
       "npc_sell_price": 1500,
       "gemstone_slots": [
@@ -34688,6 +34888,9 @@
       "category": "ACCESSORY",
       "tier": "RARE",
       "npc_sell_price": 20500,
+      "stats": {
+        "MINING_SPEED": 10
+      },
       "id": "HASTE_RING"
     },
     {
@@ -35130,13 +35333,14 @@
       "stats": {
         "BREAKING_POWER": 6,
         "DAMAGE": 65,
-        "MINING_SPEED": 600
+        "MINING_SPEED": 600,
+        "MINING_FORTUNE": 20
       },
       "npc_sell_price": 29000,
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
-          "tier": 4
+          "tier": 3
         }
       ],
       "id": "MITHRIL_DRILL_2"
@@ -35182,6 +35386,14 @@
         "MINING_SPEED": 10
       },
       "npc_sell_price": 1750,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 2
+        }
+      ],
       "gemstone_slots": [
         {
           "slot_type": "AMBER"
@@ -35475,7 +35687,8 @@
       "stats": {
         "HEALTH": 125,
         "INTELLIGENCE": -1,
-        "MINING_SPEED": 10
+        "MINING_SPEED": 10,
+        "MINING_FORTUNE": 4
       },
       "npc_sell_price": 1500,
       "gemstone_slots": [
@@ -35550,9 +35763,14 @@
     },
     {
       "material": "PUMPKIN_PIE",
-      "name": "Mining Pumpkin",
-      "glowing": true,
-      "tier": "RARE",
+      "name": "Powder Pumpkin",
+      "tier": "UNCOMMON",
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 1
+        }
+      ],
       "id": "MINING_PUMPKIN"
     },
     {
@@ -35837,10 +36055,12 @@
       "category": "LEGGINGS",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 30,
-        "HEALTH": 30,
-        "MINING_FORTUNE": 5,
-        "MINING_SPEED": 10
+        "DEFENSE": 50,
+        "HEALTH": 20,
+        "MINING_FORTUNE": 10,
+        "MINING_SPEED": 15,
+        "STRENGTH": 15,
+        "HEAT_RESISTANCE": 20
       },
       "requirements": [
         {
@@ -36760,7 +36980,8 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 5
+        "DEFENSE": 15,
+        "MINING_SPEED": 10
       },
       "npc_sell_price": 4000,
       "id": "TANK_MINER_CHESTPLATE"
@@ -37495,7 +37716,7 @@
       "id": "BOOSTER_COOKIE_BOX"
     },
     {
-      "material": "IRON_PICKAXE",
+      "material": "DIAMOND_PICKAXE",
       "name": "Mithril Pickaxe",
       "glowing": true,
       "category": "PICKAXE",
@@ -37503,7 +37724,8 @@
       "stats": {
         "BREAKING_POWER": 5,
         "DAMAGE": 40,
-        "MINING_SPEED": 280
+        "MINING_SPEED": 300,
+        "MINING_FORTUNE": 7
       },
       "npc_sell_price": 400,
       "requirements": [
@@ -39903,8 +40125,9 @@
       "stats": {
         "DEFENSE": 60,
         "HEALTH": 60,
-        "MINING_FORTUNE": 10,
-        "MINING_SPEED": 25
+        "MINING_FORTUNE": 15,
+        "MINING_SPEED": 25,
+        "HEAT_RESISTANCE": 5
       },
       "requirements": [
         {
@@ -40829,7 +41052,8 @@
       "category": "HELMET",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 5
+        "DEFENSE": 15,
+        "MINING_SPEED": 10
       },
       "npc_sell_price": 2000,
       "id": "TANK_MINER_HELMET"
@@ -40841,7 +41065,9 @@
       "category": "CHESTPLATE",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 40
+        "DEFENSE": 40,
+        "MINING_SPEED": 20,
+        "MINING_FORTUNE": 2
       },
       "npc_sell_price": 2000,
       "requirements": [
@@ -43462,8 +43688,8 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU3NzVmZjFkYWE0NmI3YzJiZWFiNTYzMTI5ZDM0NjQ0YzVkNWY5MTg2YmIxM2M1MTZhNWUwNWYwY2Q0ZTQ1MSJ9fX0",
-      "name": "Refined Amber",
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M1OGRmMmYwMDVlZGEwZWExODU3MjNmMGQyNjdhOTE0NGJlMzE4OGJlZWQ4M2Y4NDEyOTU3MmE3YTQ2M2EzOSJ9fX0=",
+      "name": "Andesite Whetstone",
       "category": "REFORGE_STONE",
       "tier": "EPIC",
       "npc_sell_price": 1,
@@ -43489,7 +43715,7 @@
       "stats": {
         "BREAKING_POWER": 3,
         "DAMAGE": 20,
-        "MINING_SPEED": 190
+        "MINING_SPEED": 50
       },
       "npc_sell_price": 10,
       "museum": true,
@@ -43795,6 +44021,15 @@
       "name": "Lettuce",
       "npc_sell_price": 10,
       "id": "BUILDER_LETTUCE"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxODI5NjcyMzc0NiwKICAicHJvZmlsZUlkIiA6ICJmZDIwMGYwMDE4OTI0NzgxODI5OWIzZjE5Yzc4Y2E3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0dXNnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4OGY4YjU1MTBiNzNhNTA0NWY1OTIxN2UxY2FjNDg5NDZhNzA0MGM0MTkyNDJkYjljMDRlNGM1ZDBiZjdhM2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Titanium Tesseract",
+      "category": "REFORGE_STONE",
+      "tier": "RARE",
+      "id": "TITANIUM_TESSERACT"
     },
     {
       "material": "GHAST_TEAR",
@@ -44412,7 +44647,7 @@
       "id": "RED_ROSE:4"
     },
     {
-      "material": "DIAMOND_AXE",
+      "material": "WOOD_AXE",
       "name": "Scavenged Emerald Hammer",
       "glowing": true,
       "tier": "SPECIAL",
@@ -44495,6 +44730,12 @@
         "TRUE_DEFENSE": 40,
         "MINING_SPEED": 50
       },
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 5
+        }
+      ],
       "npc_sell_price": 60000,
       "gemstone_slots": [
         {
@@ -44560,6 +44801,18 @@
         }
       ],
       "id": "SORROW_BOOTS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RlNjIwZTE4MDBiM2JlZDViNzcyODYwZDdmNWU0YzNmOGE3MTJhZTQ2MmJmOWE3OTdkNTA0YmUxMzBkYTNiOCJ9fX0=",
+      "name": "Haste Artifact",
+      "category": "ACCESSORY",
+      "tier": "EPIC",
+      "stats": {
+        "MINING_SPEED": 25
+      },
+      "id": "HASTE_ARTIFACT"
     },
     {
       "material": "SKULL_ITEM",
@@ -44917,7 +45170,8 @@
       "stats": {
         "BREAKING_POWER": 5,
         "DAMAGE": 30,
-        "MINING_SPEED": 225
+        "MINING_SPEED": 225,
+        "MINING_FORTUNE": 2
       },
       "npc_sell_price": 500,
       "id": "FRACTURED_MITHRIL_PICKAXE"
@@ -45616,7 +45870,9 @@
       "category": "BOOTS",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 20
+        "DEFENSE": 20,
+        "MINING_SPEED": 20,
+        "MINING_FORTUNE": 2
       },
       "npc_sell_price": 1000,
       "requirements": [
@@ -45799,6 +46055,16 @@
       "tier": "EPIC",
       "soulbound": "COOP",
       "id": "REKINDLED_EMBER_FRAGMENT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ5MTA5ODE0NywKICAicHJvZmlsZUlkIiA6ICJlOTUyODY0OGZhYzU0ZDdlOGI0ZGU1NDhiMzU3MDY5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwNjAwMDEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY2YzUwZjFhYTkxNzIzOWIxNzlkY2MwM2RmYjFlZDZiNWQyODQ0ZWI4YzhmYTc3OWYxMjIzZDZjYmJhNTA2MyIKICAgIH0KICB9Cn0",
+      "name": "Dwarven O's Gemstone Grahams",
+      "category": "CONSUMABLE",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "DWARVEN_OS_GEMSTONE_GRAHAMS"
     },
     {
       "material": "SKULL_ITEM",
@@ -47291,7 +47557,7 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjY3ODAzMiwKICAicHJvZmlsZUlkIiA6ICI1ZjE4ZmY4NTEyZGQ0NmQ1OGY1MjJlYjg2MDg2ZjU5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWtlb3MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlZjcyMmRhMDVhZThiZDgxMzI5MDVhMTFiNWI2ZGZiZjhlN2FlMGFmNTk5YzgyNjZlMTYwZmIwNWU2MTU5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTEzNzU5MiwKICAicHJvZmlsZUlkIiA6ICI1ZTdmY2RjYTU5YzI0NjkwODAwNjg4OTNkODU1ODM3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYWVsbGFyaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMDlmZjg5MTM4YmExZGI0MGViNzIzNTljZDliZWNhZWM1ODFjMzc0ZGRkYmVhNzRmMTQzZjZlODc1ZWE0ZTk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "Gemstone Fuel Tank",
       "tier": "RARE",
       "npc_sell_price": 103000,
@@ -48084,15 +48350,13 @@
     },
     {
       "material": "STONE_PICKAXE",
-      "enchantments": {
-        "efficiency": 1
-      },
       "name": "Rookie Pickaxe",
       "category": "PICKAXE",
       "stats": {
         "BREAKING_POWER": 2,
         "DAMAGE": 15,
-        "MINING_SPEED": 150
+        "MINING_SPEED": 150,
+        "ORE_FORTUNE": 5
       },
       "npc_sell_price": 2,
       "museum": true,
@@ -48555,11 +48819,12 @@
     {
       "material": "LEATHER_CHESTPLATE",
       "color": "122,121,100",
-      "name": "Miner's Outfit Chestplate",
+      "name": "Prospecting Chestplate",
       "category": "CHESTPLATE",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 40
+        "DEFENSE": 40,
+        "MINING_SPEED": 15
       },
       "npc_sell_price": 640,
       "id": "MINER_OUTFIT_CHESTPLATE"
@@ -49040,7 +49305,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc1YjU4NmQyOWFhNGY2MzAwNjcwN2ZiZTk0YTMzYzg5YzIyNWY0OWIzYjQ0Y2IxODE3Mzg2NTZjOTQyZTI3NyJ9fX0=",
-      "name": "Fuel Tank",
+      "name": "Fuel Canister",
       "tier": "RARE",
       "npc_sell_price": 510,
       "id": "FUEL_TANK"
@@ -49082,6 +49347,16 @@
       "tier": "MYTHIC",
       "unstackable": true,
       "id": "UNSTABLE_SHIMMER"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ5MTEyMjA0OSwKICAicHJvZmlsZUlkIiA6ICJiNzRlYjViMTc5OTc0YzZjODk3ZTgwNTM4Y2M1NmYwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYW5kYUNoYW4yOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZGE3OTNiNDA5NTg5MmIwMWQ5NTRjYTEwZGIwZDZlMWQzNjZkNmI0ZTc2MTJkZWRjMjczZGZhNTc5ZWNiMjI3IgogICAgfQogIH0KfQ",
+      "name": "Dwarven O's Ore Oats",
+      "category": "CONSUMABLE",
+      "tier": "UNCOMMON",
+      "unstackable": true,
+      "id": "DWARVEN_OS_ORE_OATS"
     },
     {
       "material": "SKULL_ITEM",
@@ -49551,7 +49826,9 @@
       "stats": {
         "BREAKING_POWER": 9,
         "DAMAGE": 75,
-        "MINING_SPEED": 450
+        "MINING_SPEED": 450,
+        "GEMSTONE_FORTUNE": 100,
+        "PRISTINE": 1.5
       },
       "npc_sell_price": 253000,
       "requirements": [
@@ -49563,6 +49840,20 @@
       "gemstone_slots": [
         {
           "slot_type": "AMBER"
+        },
+        {
+          "slot_type": "JADE",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 50000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JADE_GEM",
+              "amount": 20
+            }
+          ]
         }
       ],
       "id": "GEMSTONE_DRILL_3"
@@ -50493,8 +50784,8 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
-      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNTY3MDA4NTU4NiwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZhNmNiOGQ2NDUzYjY4N2ZkZDA5ZWJmNzYwOWM2OGNkNmFlMzllNTUyYTkyYTM0YTcxMWRlOTJmZmM0MTNhMSIKICAgIH0KICB9Cn0=",
-      "name": "Hot Stuff",
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzczNjI2OTcyMywKICAicHJvZmlsZUlkIiA6ICIxMTM1Njg1ZTk3ZGE0ZjYyYTliNDQ3MzA0NGFiZjQ0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJpb1dsZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU5OTgxMTU2OWViY2E0ZWJlZjkxOGFiMWUxYTY2OGNhMDZjMDJmN2MyNWIzYTIyOTQ4NjA2NzRlZTUyZTE1MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Scorched Topaz",
       "tier": "LEGENDARY",
       "category": "REFORGE_STONE",
       "id": "HOT_STUFF"
@@ -50532,6 +50823,15 @@
       "glowing": true,
       "tier": "RARE",
       "id": "SUPER_EGG"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdkNTdiNWJjOWFiM2Y1M2VjOWNjMmY5NGI3MmMxMzRhY2RlODU1YTY0M2MyNWU1YTI2YzNlMGIyYTYwM2FkZCJ9fX0=",
+      "name": "Blazen Sphere",
+      "category": "REFORGE_STONE",
+      "tier": "RARE",
+      "id": "BLAZEN_SPHERE"
     },
     {
       "material": "INK_SACK",
@@ -50748,8 +51048,9 @@
       "stats": {
         "DEFENSE": 40,
         "HEALTH": 40,
-        "MINING_FORTUNE": 10,
-        "MINING_SPEED": 25
+        "MINING_FORTUNE": 15,
+        "MINING_SPEED": 25,
+        "HEAT_RESISTANCE": 5
       },
       "requirements": [
         {
@@ -50842,10 +51143,12 @@
       "category": "BOOTS",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 20,
+        "DEFENSE": 50,
         "HEALTH": 20,
-        "MINING_FORTUNE": 5,
-        "MINING_SPEED": 10
+        "MINING_FORTUNE": 10,
+        "MINING_SPEED": 15,
+        "STRENGTH": 15,
+        "HEAT_RESISTANCE": 20
       },
       "requirements": [
         {
@@ -51277,11 +51580,12 @@
     {
       "material": "LEATHER_BOOTS",
       "color": "122,121,100",
-      "name": "Miner's Outfit Boots",
+      "name": "Prospecting Boots",
       "category": "BOOTS",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 15
+        "DEFENSE": 15,
+        "MINING_SPEED": 15
       },
       "npc_sell_price": 320,
       "id": "MINER_OUTFIT_BOOTS"
@@ -51711,6 +52015,12 @@
         "TRUE_DEFENSE": 70,
         "MINING_SPEED": 50
       },
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 5
+        }
+      ],
       "npc_sell_price": 105000,
       "gemstone_slots": [
         {
@@ -51894,6 +52204,23 @@
       "name": "Purple Banner",
       "npc_sell_price": 2,
       "id": "BANNER:5"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzczNjE4NTgzNiwKICAicHJvZmlsZUlkIiA6ICIxZGI3ZjUxYWZmOWM0NTcyOGZmNmU5MjMxMmZhZGZkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXNtZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUwY2MxNTYzZTZlZTZhZTRmNjI5YmQ3ZjlkZTk1MGExOGM0ZmI0ZmJiNWQ4MmM3ZWI5MzA2NGMzOGU1OTI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Pocket Iceberg",
+      "category": "REFORGE_STONE",
+      "tier": "EPIC",
+      "npc_sell_price": 1,
+      "requirements": [
+        {
+          "type": "SKILL",
+          "skill": "MINING",
+          "level": 25
+        }
+      ],
+      "id": "POCKET_ICEBERG"
     },
     {
       "material": "SKULL_ITEM",
@@ -52472,6 +52799,14 @@
         "MINING_SPEED": 10
       },
       "npc_sell_price": 1750,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 2
+        }
+      ],
       "gemstone_slots": [
         {
           "slot_type": "AMBER"
@@ -52549,10 +52884,12 @@
       "category": "CHESTPLATE",
       "tier": "RARE",
       "stats": {
-        "DEFENSE": 35,
-        "HEALTH": 35,
-        "MINING_FORTUNE": 5,
-        "MINING_SPEED": 10
+        "DEFENSE": 50,
+        "HEALTH": 20,
+        "MINING_FORTUNE": 10,
+        "MINING_SPEED": 15,
+        "STRENGTH": 15,
+        "HEAT_RESISTANCE": 20
       },
       "requirements": [
         {
@@ -53333,7 +53670,7 @@
       "stats": {
         "BREAKING_POWER": 6,
         "DAMAGE": 65,
-        "MINING_SPEED": 400
+        "MINING_SPEED": 200
       },
       "npc_sell_price": 14500,
       "requirements": [
@@ -54795,7 +55132,8 @@
         "DEFENSE": 170,
         "HEALTH": 130,
         "MINING_FORTUNE": 30,
-        "MINING_SPEED": 80
+        "MINING_SPEED": 80,
+        "HEAT_RESISTANCE": 10
       },
       "requirements": [
         {
@@ -55329,7 +55667,8 @@
         "DEFENSE": 130,
         "HEALTH": 200,
         "MINING_FORTUNE": 30,
-        "MINING_SPEED": 80
+        "MINING_SPEED": 80,
+        "HEAT_RESISTANCE": 10
       },
       "requirements": [
         {
@@ -57972,7 +58311,7 @@
       "name": "Enchanted Gold Block",
       "glowing": true,
       "tier": "RARE",
-      "npc_sell_price": 102000,
+      "npc_sell_price": 102400,
       "can_place": false,
       "id": "ENCHANTED_GOLD_BLOCK"
     },
@@ -58752,7 +59091,9 @@
       "stats": {
         "BREAKING_POWER": 9,
         "DAMAGE": 75,
-        "MINING_SPEED": 600
+        "MINING_SPEED": 600,
+        "GEMSTONE_FORTUNE": 120,
+        "PRISTINE": 2
       },
       "npc_sell_price": 253000,
       "requirements": [
@@ -60302,16 +60643,23 @@
       "category": "PICKAXE",
       "tier": "EPIC",
       "stats": {
-        "BREAKING_POWER": 7,
+        "BREAKING_POWER": 8,
         "DAMAGE": 30,
-        "MINING_SPEED": 1500
+        "MINING_SPEED": 750
       },
       "npc_sell_price": 12,
+      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
           "essence_type": "DIAMOND",
           "amount": 5
+        }
+      ],
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 4
         }
       ],
       "id": "PICKONIMBUS"
@@ -60394,6 +60742,12 @@
         "TRUE_DEFENSE": 80,
         "MINING_SPEED": 50
       },
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 5
+        }
+      ],
       "npc_sell_price": 120000,
       "gemstone_slots": [
         {
@@ -60542,11 +60896,12 @@
     {
       "material": "LEATHER_HELMET",
       "color": "122,121,100",
-      "name": "Miner's Outfit Helmet",
+      "name": "Prospecting Helmet",
       "category": "HELMET",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 15
+        "DEFENSE": 15,
+        "MINING_SPEED": 15
       },
       "npc_sell_price": 400,
       "id": "MINER_OUTFIT_HELMET"
@@ -60813,7 +61168,8 @@
       "stats": {
         "HEALTH": 70,
         "INTELLIGENCE": -1,
-        "MINING_SPEED": 10
+        "MINING_SPEED": 10,
+        "MINING_FORTUNE": 4
       },
       "npc_sell_price": 1500,
       "gemstone_slots": [
@@ -60906,7 +61262,8 @@
       "stats": {
         "BREAKING_POWER": 5,
         "DAMAGE": 30,
-        "MINING_SPEED": 250
+        "MINING_SPEED": 250,
+        "MINING_FORTUNE": 4
       },
       "npc_sell_price": 500,
       "requirements": [
@@ -61218,6 +61575,15 @@
       "name": "Green Lamp",
       "npc_sell_price": 500,
       "id": "LAMP_GREEN"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1NDE4MDgxMSwKICAicHJvZmlsZUlkIiA6ICIzY2I3YTA3YWY3ZjM0ZWZiYTlkNGI4ODQ3NDM4Mzc0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckthaWxldCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYWUwZDE1NTBmZGE2OTgzM2M2YWI4ODQ3NDZkMDM5YmQ3NTJhNGYyZTQ0NDcyY2MwYTNiMDVjNjk0ZjgwNTliIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Titanium Minecart",
+      "category": "PET_ITEM",
+      "tier": "RARE",
+      "id": "PET_ITEM_TITANIUM_MINECART"
     },
     {
       "material": "BANNER",
@@ -61871,7 +62237,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE0NmQ3YjJjZjlhMjE3ODRmMzZmNDU5MjE1MWRmYzU1YWE3YzZlZjlhZjRhNDMwYWJkODZkZTBmMDhiMjI0ZCJ9fX0",
-      "name": "Rock Gemstone",
+      "name": "Dwarven Geode",
       "category": "REFORGE_STONE",
       "tier": "RARE",
       "npc_sell_price": 23000,
@@ -61884,9 +62250,10 @@
       "id": "WATCHER_BOOTS"
     },
     {
-      "material": "DIAMOND",
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGJmYzdmYTRlNzRiNmU0MDFhZTA2NDE0OGFlNWU3NjhiODkzZjFkOTI5N2Y4NzQ3NTEwMWY3MjI1YTJhNWE2YSJ9fX0=",
       "name": "Refined Diamond",
-      "glowing": true,
       "tier": "EPIC",
       "npc_sell_price": 4096,
       "description": "%%gray%%%%italic%%Looking at it for too long may cause eye trauma.",
@@ -62794,7 +63161,8 @@
       "stats": {
         "HEALTH": 60,
         "INTELLIGENCE": -1,
-        "MINING_SPEED": 10
+        "MINING_SPEED": 10,
+        "MINING_FORTUNE": 4
       },
       "npc_sell_price": 1500,
       "gemstone_slots": [
@@ -62858,8 +63226,9 @@
       "stats": {
         "DEFENSE": 70,
         "HEALTH": 70,
-        "MINING_FORTUNE": 10,
-        "MINING_SPEED": 25
+        "MINING_FORTUNE": 15,
+        "MINING_SPEED": 25,
+        "HEAT_RESISTANCE": 5
       },
       "requirements": [
         {
@@ -63056,7 +63425,10 @@
       "tier": "EPIC",
       "stats": {
         "DEFENSE": 15,
-        "HEALTH": 50
+        "HEALTH": 50,
+        "MINING_SPEED": 25,
+        "MINING_FORTUNE": 20,
+        "HEAT_RESISTANCE": 10
       },
       "npc_sell_price": 38000,
       "requirements": [
@@ -63332,9 +63704,10 @@
       "category": "GAUNTLET",
       "tier": "LEGENDARY",
       "stats": {
-        "BREAKING_POWER": 9,
-        "DAMAGE": 200,
-        "MINING_SPEED": 1600
+        "BREAKING_POWER": 8,
+        "DAMAGE": 300,
+        "MINING_SPEED": 800,
+        "STRENGTH": 50
       },
       "requirements": [
         {
@@ -63449,7 +63822,10 @@
       "tier": "EPIC",
       "stats": {
         "DEFENSE": 15,
-        "HEALTH": 50
+        "HEALTH": 50,
+        "MINING_SPEED": 25,
+        "MINING_FORTUNE": 20,
+        "HEAT_RESISTANCE": 10
       },
       "npc_sell_price": 38000,
       "requirements": [
@@ -64699,7 +65075,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNiNGU0M2MyZjg1Nzc3MDVmM2VlMWM1NzBmYmJmNGUyN2ZkZTljM2RjMGU0NzI3MjFhYWE4YjA1Mzc3NWJlYiJ9fX0=",
-      "name": "Drill Engine",
+      "name": "Drill Motor",
       "tier": "RARE",
       "npc_sell_price": 5884,
       "id": "DRILL_ENGINE"
@@ -64749,6 +65125,14 @@
         "MINING_SPEED": 10
       },
       "npc_sell_price": 1750,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 2
+        }
+      ],
       "gemstone_slots": [
         {
           "slot_type": "AMBER"
@@ -65269,7 +65653,9 @@
       "category": "LEGGINGS",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 35
+        "DEFENSE": 35,
+        "MINING_SPEED": 20,
+        "MINING_FORTUNE": 2
       },
       "npc_sell_price": 1750,
       "requirements": [
@@ -65718,6 +66104,12 @@
         "TRUE_DEFENSE": 50,
         "MINING_SPEED": 50
       },
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 5
+        }
+      ],
       "npc_sell_price": 75000,
       "gemstone_slots": [
         {
@@ -65860,7 +66252,6 @@
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
       "npc_sell_price": 50,
-      "rarity_salvageable": true,
       "salvages": [
         {
           "type": "ESSENCE",
@@ -65868,6 +66259,7 @@
           "amount": 10
         }
       ],
+      "rarity_salvageable": true,
       "id": "SPIDER_TALISMAN"
     },
     {
@@ -67007,7 +67399,7 @@
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY1MjQxNjZmN2NlODhhNTM3MTU4NzY2YTFjNTExZTMyMmE5M2E1ZTExZGJmMzBmYTZlODVlNzhkYTg2MWQ4In19fQ",
-      "name": "Salmon Opal",
+      "name": "Kaleidoscopic Mineral",
       "category": "REFORGE_STONE",
       "tier": "RARE",
       "npc_sell_price": 2000,
@@ -67745,6 +68137,14 @@
         "MINING_SPEED": 10
       },
       "npc_sell_price": 1750,
+      "rarity_salvageable": true,
+      "salvages": [
+        {
+          "type": "ESSENCE",
+          "essence_type": "ICE",
+          "amount": 2
+        }
+      ],
       "gemstone_slots": [
         {
           "slot_type": "AMBER"
@@ -68045,7 +68445,8 @@
         "DEFENSE": 130,
         "HEALTH": 100,
         "MINING_FORTUNE": 30,
-        "MINING_SPEED": 80
+        "MINING_SPEED": 80,
+        "HEAT_RESISTANCE": 10
       },
       "requirements": [
         {
@@ -68360,6 +68761,41 @@
       "tier": "RARE",
       "npc_sell_price": 128000,
       "id": "ENCHANTED_GRILLED_PORK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFlNzBkMzkzNTcwMWZhMGUxMjliYjZhYTA2NTYxNjUzMTAxM2NjZDliNmUwMGFjZWM1NzBhZWVhM2VmNTA1MiJ9fX0=",
+      "name": "Precursor Apparatus",
+      "tier": "EPIC",
+      "recipes": [
+        {
+          "output": {
+            "item_id": "PRECURSOR_APPARATUS"
+          },
+          "ingredient_symbols": {
+            "A": "CONTROL_SWITCH",
+            "B": "ELECTRON_TRANSMITTER",
+            "C": "FTX_3070",
+            "D": "ROBOTRON_REFLECTOR",
+            "E": "SUPERLITE_MOTOR",
+            "F": "SYNTHETIC_HEART"
+          },
+          "matrix": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            " ",
+            " ",
+            " "
+          ],
+          "allow_quick_crafting": true
+        }
+      ],
+      "id": "PRECURSOR_APPARATUS"
     },
     {
       "material": "MUSHROOM_SOUP",
@@ -68873,6 +69309,9 @@
       "name": "Jungle Amulet",
       "category": "ACCESSORY",
       "tier": "UNCOMMON",
+      "stats": {
+        "GEMSTONE_FORTUNE": 10
+      },
       "id": "JUNGLE_AMULET"
     },
     {
@@ -69275,7 +69714,10 @@
       "tier": "EPIC",
       "stats": {
         "DEFENSE": 15,
-        "HEALTH": 50
+        "HEALTH": 50,
+        "MINING_SPEED": 25,
+        "MINING_FORTUNE": 20,
+        "HEAT_RESISTANCE": 10
       },
       "npc_sell_price": 38000,
       "requirements": [
@@ -71536,11 +71978,12 @@
     {
       "material": "LEATHER_LEGGINGS",
       "color": "122,121,100",
-      "name": "Miner's Outfit Leggings",
+      "name": "Prospecting Leggings",
       "category": "LEGGINGS",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 30
+        "DEFENSE": 30,
+        "MINING_SPEED": 15
       },
       "npc_sell_price": 560,
       "id": "MINER_OUTFIT_LEGGINGS"
@@ -72031,7 +72474,9 @@
       "category": "HELMET",
       "tier": "UNCOMMON",
       "stats": {
-        "DEFENSE": 25
+        "DEFENSE": 25,
+        "MINING_SPEED": 20,
+        "MINING_FORTUNE": 2
       },
       "npc_sell_price": 1000,
       "requirements": [
@@ -72255,6 +72700,15 @@
       "tier": "RARE",
       "npc_sell_price": 1,
       "id": "ONYX"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ5MTA3NjQzOSwKICAicHJvZmlsZUlkIiA6ICIwMzcyOTQyZWRhOTQ0MjQ3YWRlODcyZjRjYjQxZTFkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJiZW5rZXRvbWkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY2NjNiNTQ0YWU4ZjhhNGNlNGNiMGNiYjZmOTE5MGVmZTVjZDk5OTYwNDc1MjA3MDVjMjc2Njk1YWQxNzM0IgogICAgfQogIH0KfQ",
+      "name": "Dwarven O's Metallic Minis",
+      "category": "CONSUMABLE",
+      "tier": "LEGENDARY",
+      "id": "DWARVEN_OS_METALLIC_MINIS"
     },
     {
       "material": "WOOD_PLATE",
@@ -72495,7 +72949,7 @@
       "id": "POLISHED_PEBBLE"
     },
     {
-      "material": "IRON_PICKAXE",
+      "material": "DIAMOND_PICKAXE",
       "name": "Refined Mithril Pickaxe",
       "glowing": true,
       "category": "PICKAXE",
@@ -72503,7 +72957,8 @@
       "stats": {
         "BREAKING_POWER": 5,
         "DAMAGE": 50,
-        "MINING_SPEED": 300
+        "MINING_SPEED": 350,
+        "MINING_FORTUNE": 10
       },
       "npc_sell_price": 5000,
       "requirements": [
@@ -73661,7 +74116,7 @@
       "id": "WISE_WITHER_HELMET"
     },
     {
-      "material": "IRON_SWORD",
+      "material": "DIAMOND_SWORD",
       "name": "Scavenged Lapis Sword",
       "glowing": true,
       "tier": "SPECIAL",
@@ -78873,6 +79328,30 @@
       "id": "WEBBED_FOSSIL"
     },
     {
+      "material": "COOKED_FISH",
+      "name": "Filet O' Fortune",
+      "tier": "RARE",
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 4
+        }
+      ],
+      "id": "FILET_O_FORTUNE"
+    },
+    {
+      "material": "BAKED_POTATO",
+      "name": "Chilled Pristine Potato",
+      "tier": "EPIC",
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 7
+        }
+      ],
+      "id": "CHILLED_PRISTINE_POTATO"
+    },
+    {
       "material": "PAPER",
       "name": "Secret Railroad Pass",
       "glowing": true,
@@ -78895,6 +79374,9 @@
           "tier": 8
         }
       ],
+      "stats": {
+        "DWARVEN_METAL_FORTUNE": 15
+      },
       "id": "DWARVEN_METAL"
     },
     {
@@ -78913,6 +79395,16 @@
       "description": "A dainty piece of jewelry covered in a thick coat of glacite. The frosty layer obscures the details of the photograph nestled within.",
       "tier": "LEGENDARY",
       "id": "SHATTERED_PENDANT"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI4OTkxNTI5NiwKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YxMDYyNzdhZDU0MWFhNzZkOWQ0YTE5ZTdhYWM5MjYyMWEzZjAyNTFmZjk0MjdkZmRlYTUzOWI1MWRkOGQxZWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "Royal Compass",
+      "tier": "RARE",
+      "soulbound": "COOP",
+      "has_uuid": true,
+      "id": "ROYAL_COMPASS"
     },
     {
       "material": "SKULL_ITEM",
@@ -79016,6 +79508,12 @@
           "slot_type": "AQUAMARINE"
         }
       ],
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 10
+        }
+      ],
       "unstackable": true,
       "can_auction": false,
       "can_trade": false,
@@ -79058,6 +79556,21 @@
         }
       ],
       "id": "DWARVEN_HANDWARMERS"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDM2NjcxNjExMiwKICAicHJvZmlsZUlkIiA6ICJjYmYxNGIxMGJhNWU0NzgwYjIyNmFiNmQzOTUxODk4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFZ2d5QnV0dG9uMjQxMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZTZlMzY5YWM5MjY4ZTA5NzEzZGE1ZWMyYmQzZjY2M2ZkZTZlYWJhYjE3ZjRjMjY3ODE1ODc2MGUyNWEwNzgwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "Starfall Seasoning",
+      "tier": "RARE",
+      "unstackable": true,
+      "requirements": [
+        {
+          "type": "HEART_OF_THE_MOUNTAIN",
+          "tier": 2
+        }
+      ],
+      "id": "STARFALL_SEASONING"
     },
     {
       "material": "SKULL_ITEM",
@@ -84698,14 +85211,16 @@
       }
     },
     {
-      "material": "EGG",
+      "material": "MONSTER_EGG",
+      "durability": 96,
       "name": "§cRed Goblin Egg",
       "tier": "RARE",
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_RED"
     },
     {
-      "material": "EGG",
+      "material": "MONSTER_EGG",
+      "durability": 4,
       "name": "Goblin Egg",
       "tier": "RARE",
       "npc_sell_price": 421,
@@ -84713,21 +85228,24 @@
       "id": "GOBLIN_EGG"
     },
     {
-      "material": "EGG",
+      "material": "MONSTER_EGG",
+      "durability": 94,
       "name": "§3Blue Goblin Egg",
       "tier": "RARE",
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_BLUE"
     },
     {
-      "material": "EGG",
+      "material": "MONSTER_EGG",
+      "durability": 61,
       "name": "§eYellow Goblin Egg",
       "tier": "RARE",
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
       "id": "GOBLIN_EGG_YELLOW"
     },
     {
-      "material": "EGG",
+      "material": "MONSTER_EGG",
+      "durability": 55,
       "name": "§aGreen Goblin Egg",
       "tier": "UNCOMMON",
       "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
@@ -84751,7 +85269,7 @@
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
-          "tier": 4
+          "tier": 5
         }
       ],
       "id": "GOBLIN_OMELETTE_SUNNY_SIDE"
@@ -84783,7 +85301,7 @@
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
-          "tier": 6
+          "tier": 5
         }
       ],
       "id": "GOBLIN_OMELETTE_BLUE_CHEESE"
@@ -84799,7 +85317,7 @@
       "requirements": [
         {
           "type": "HEART_OF_THE_MOUNTAIN",
-          "tier": 3
+          "tier": 5
         }
       ],
       "id": "GOBLIN_OMELETTE_PESTO"

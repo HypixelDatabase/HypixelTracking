@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1726768893000,
+  "lastUpdated": 1727710007000,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -17969,6 +17969,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjc3NDY1ODk3NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUwYzUzN2EzZDAyMjlmNzMyZTlkMWY4NTRiMzc3YWQwNDA3NjE4ZmQwM2NkNGJiZTgwMzc2MjI0YTRmMWQxZSIKICAgIH0KICB9Cn0=",
+      "name": "Pumpkin Armchair",
+      "furniture": "PUMPKIN_ARMCHAIR",
+      "tier": "EPIC",
+      "id": "PUMPKIN_ARMCHAIR"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTgzMTY2MSwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJkZDJmMTE1OWRmNWRlZjQ5YmVmMWJiYzIzMWMwMmM5YmYxYmJhYWMxMWUzY2U2NGUzM2Q4OGNjNmQ2YWE3ZiIKICAgIH0KICB9Cn0=",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_MEMORY_THIRD",
@@ -18103,6 +18112,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjc3NDY1ODk3NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUwYzUzN2EzZDAyMjlmNzMyZTlkMWY4NTRiMzc3YWQwNDA3NjE4ZmQwM2NkNGJiZTgwMzc2MjI0YTRmMWQxZSIKICAgIH0KICB9Cn0=",
+      "name": "Pumpkin Bed",
+      "furniture": "PUMPKIN_BED",
+      "tier": "EPIC",
+      "id": "PUMPKIN_BED"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg1MTQ2MywKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzIyYmE1OWUxMDhlOGI0MGJmYzdiNjYxZTI5ZjMyNDBhMWU1NTI4OTY1MzFmM2YyZDNjYzZjYzliZWNlODk2IgogICAgfQogIH0KfQ==",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_MEMORY_SECOND",
@@ -18152,6 +18170,15 @@
     {
       "material": "SKULL_ITEM",
       "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcyNTYzOTE4MDcyMCwKICAicHJvZmlsZUlkIiA6ICI3ZGExYjViODdhMTg0NzgyOTQ2ZjZiYTdhMmNiMDhlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeWt1bk9jYXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZTUwOTg4MGRjYjQ0N2FmNjYwNjI2NzU4NDlhZmM3YjUxMDhlZTAxOTc5ZDZmMjk1NDNlZjAxY2FlNzdhNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "Pumpkin TV",
+      "furniture": "PUMPKIN_TV",
+      "tier": "EPIC",
+      "id": "PUMPKIN_TV"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
       "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg2OTI1NiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODEwZjdmZWY0YmQ0NDc3NGI0MTA2OWIwN2E3MjQ4OGY2Mjc1ZjhjY2Q4OGUyZmRhOWY5ZTI3NzUzNWE0YzcxIgogICAgfQogIH0KfQ==",
       "name": "10th Anniversary Podium",
       "furniture": "ANNI_PODIUM_ART_FIRST",
@@ -18159,6 +18186,15 @@
       "soulbound": "COOP",
       "unstackable": true,
       "id": "ANNI_PODIUM_ART_FIRST"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjc3NDY1ODk3NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUwYzUzN2EzZDAyMjlmNzMyZTlkMWY4NTRiMzc3YWQwNDA3NjE4ZmQwM2NkNGJiZTgwMzc2MjI0YTRmMWQxZSIKICAgIH0KICB9Cn0=",
+      "name": "Pumpkin Couch",
+      "furniture": "PUMPKIN_COUCH",
+      "tier": "EPIC",
+      "id": "PUMPKIN_COUCH"
     },
     {
       "material": "SKULL_ITEM",
@@ -18300,6 +18336,15 @@
       "soulbound": "COOP",
       "unstackable": true,
       "id": "ANNI_PODIUM_MEMORY_RUNNERUP"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjM4NjQxMzg1MywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMmIyODEzZjNkYzkzM2EwZjdlM2FiODg0ODJhZGRlYzk4OThlYjUyYTg5MzU4NjZkNTJjNTY5NGM1NmZmYWY5IgogICAgfQogIH0KfQ==",
+      "name": "Pumpkin Dresser",
+      "furniture": "PUMPKIN_DRESSER",
+      "tier": "EPIC",
+      "id": "PUMPKIN_DRESSER"
     },
     {
       "material": "SKULL_ITEM",

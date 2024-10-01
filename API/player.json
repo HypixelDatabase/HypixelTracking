@@ -3040,7 +3040,8 @@
           "frosted_wall",
           "victory_dance_rooted",
           "projectile_trail_sparkler",
-          "deep_ocean_pixel_party_pants"
+          "deep_ocean_pixel_party_pants",
+          "pumpkin_wall"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -5574,12 +5575,15 @@
           "2": "",
           "3": "",
           "4": "",
+          "5": "",
           "6": "",
           "7": "",
           "8": "",
           "9": "",
           "10": "",
           "28": "",
+          "29": "",
+          "30": "",
           "31": "",
           "32": "",
           "33": "",
@@ -8479,7 +8483,8 @@
           "particle_note",
           "particle_heart",
           "arrow_trail_sparkler",
-          "void_message_relaxing"
+          "void_message_relaxing",
+          "spooky"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -9037,7 +9042,8 @@
         "packages": [
           "attractive",
           "attractive_enderman",
-          "attractive_skeleton"
+          "attractive_skeleton",
+          "vampirecolor_blood"
         ],
         "kill_booster": 0,
         "wave_booster": 0,
@@ -9104,7 +9110,8 @@
         "bought_dye_color:[rgb0x80080]": true,
         "bought_dye_color:[rgb0xc0c0c0]": true,
         "bought_dye_color:[rgb0xffffff]": true,
-        "bought_dye_color:[rgb0x08080]": true
+        "bought_dye_color:[rgb0x08080]": true,
+        "bought_dye_color:[argb0xffb34400]": true
       },
       "Walls": {
         "berserk": 0,
@@ -9592,7 +9599,8 @@
           "abyss",
           "ender dragon",
           "elvish",
-          "frozen alex"
+          "frozen alex",
+          "smiley_pumpkin"
         ],
         "skeleton_c": 0,
         "skeleton_d": 0,
@@ -19533,7 +19541,13 @@
           "cage_treasure_chest",
           "balloon_you",
           "cage_tournament_hall",
-          "favoritemap_embercell"
+          "favoritemap_embercell",
+          "sprays_gothic_jerry",
+          "sprays_haunted_conscience",
+          "sprays_comfy_web",
+          "sprays_pumpkin_pals",
+          "cage_frankenstein",
+          "cage_crystal_ball"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -34537,7 +34551,14 @@
           "islandtopper_coconut_drink",
           "npcskin_frog_man",
           "islandtopper_fishing_rod",
-          "islandtopper_bungalow"
+          "islandtopper_bungalow",
+          "sprays_pumpkin_pals",
+          "sprays_gothic_jerry",
+          "sprays_haunted_conscience",
+          "sprays_comfy_web",
+          "islandtopper_witch",
+          "islandtopper_cyclops",
+          "islandtopper_owl"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -36320,7 +36341,11 @@
           "kill_note_ice_scream_cart",
           "kill_note_jerry_island_poster",
           "kill_note_cooler_climates",
-          "kill_note_undead_lifesaving_association"
+          "kill_note_undead_lifesaving_association",
+          "kill_note_gothic_jerry",
+          "kill_note_comfy_web",
+          "kill_note_pumpkin_pals",
+          "kill_note_haunted_conscience"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38674,7 +38699,10 @@
           "projectile_trail_sparkler",
           "auras_sponge_trail",
           "emblem_flamingo",
-          "emblem_palm_tree"
+          "emblem_palm_tree",
+          "cosmetictitle_the_haunted",
+          "emblem_jack_o_lantern",
+          "emblem_boo"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -42724,7 +42752,10 @@
         "pet_flying_guardian",
         "particlepack_heat_wave",
         "gadget_tournament_banner_sw_normal_doubles_0",
-        "gadget_tournament_banner_tnt_run_1"
+        "gadget_tournament_banner_tnt_run_1",
+        "gadget_levitation_gun",
+        "pet_specter",
+        "pet_enderman_pumpkin"
       ]
     },
     "vanityTokens": 0,
@@ -44822,7 +44853,12 @@
         "furniture_totem",
         "furniture_coconut_drink",
         "serenity_theme",
-        "gladiator_arena_theme"
+        "gladiator_arena_theme",
+        "furniture_pumpkin_couch",
+        "furniture_pumpkin_dresser",
+        "furniture_pumpkin_bed",
+        "furniture_pumpkin_armchair",
+        "furniture_pumpkin_tv"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",
@@ -50256,6 +50292,23 @@
             "ingredients": []
           },
           "skyBlockAlchemistIntro": true
+        },
+        "2024": {
+          "levelling": {
+            "experience": 0
+          },
+          "bingo": {
+            "easy": {
+              "objectives": {
+                "Blitzaxeman": 0
+              }
+            }
+          },
+          "tbr": {
+            "forest_fright": {
+              "attempts": 0
+            }
+          }
         }
       }
     },

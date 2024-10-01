@@ -50300,14 +50300,28 @@
           "bingo": {
             "easy": {
               "objectives": {
-                "Blitzaxeman": 0
+                "Blitzaxeman": 0,
+                "Maintbreasy": 0
               }
             }
           },
           "tbr": {
             "forest_fright": {
+              "attempts": 0,
+              "best_time": 0,
+              "completions": 0
+            },
+            "riverside_revenge": {
+              "attempts": 0,
+              "best_time": 0,
+              "completions": 0
+            },
+            "cryptic_castle": {
               "attempts": 0
             }
+          },
+          "candyhunt": {
+            "baskets": []
           }
         }
       }

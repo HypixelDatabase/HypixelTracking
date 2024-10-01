@@ -2922,6 +2922,20 @@
             "time": 0
           }
         ]
+      },
+      "skywars_halloween_harvest_2024": {
+        "active": {
+          "objectives": {
+            "skywars_halloween_kills": 0
+          },
+          "started": 0
+        }
+      },
+      "mm_special_weekly_killer_instinct_2024": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
       }
     },
     "settings": {
@@ -21665,7 +21679,8 @@
           "GOLD_SWORD:0": "",
           "SADDLE:0": "",
           "CARROT_STICK:0": "",
-          "MONSTER_EGG:90": ""
+          "MONSTER_EGG:90": "",
+          "HAY_BLOCK:0": ""
         },
         "arrows_hit_kit_attacking_team_pig-rider": 0,
         "arrows_shot_kit_attacking_team_pig-rider": 0,
@@ -50307,8 +50322,16 @@
                 "Tntmutant": 0,
                 "Pitbwnoheart": 0,
                 "Bedwarseatthis": 0,
-                "Bedwarsshopoftraps": 0
-              }
+                "Bedwarsshopoftraps": 0,
+                "Mainpssmasher": 0,
+                "Quakedash": 0,
+                "Duelsvictor": 0,
+                "Megawallsskywarsfreefood": 0,
+                "Skywarsfunwithfriends": 0,
+                "Murderhauntedmansion": 0,
+                "Wizardscapture": 0
+              },
+              "rewards": []
             }
           },
           "tbr": {

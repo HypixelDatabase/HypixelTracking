@@ -1701,7 +1701,8 @@
           "biomes": {
             "precursor": {
               "parts_delivered": [],
-              "talked_to_professor": true
+              "talked_to_professor": true,
+              "claiming_with_precursor_apparatus": true
             },
             "goblin": {
               "king_quest_active": true,

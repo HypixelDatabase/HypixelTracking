@@ -41722,6 +41722,14 @@
                   "fish": 0,
                   "orb": 0
                 }
+              },
+              "halloween": {
+                "lava": {
+                  "junk": 0,
+                  "fish": 0,
+                  "treasure": 0,
+                  "orb": 0
+                }
               }
             },
             "permanent": {
@@ -50340,7 +50348,8 @@
                 "Bbhorrifyingprospect": 0,
                 "Vampzvampirekill": 0,
                 "Warlordshotspell": 0,
-                "Wallsinthedarkdepths": 0
+                "Wallsinthedarkdepths": 0,
+                "Mainheatedfishing": 0
               },
               "rewards": []
             },
@@ -50368,7 +50377,9 @@
                 "Vampzsurvivorkill": 0,
                 "Arcadeanotherbag": 0,
                 "Smashbloodthirsty": 0,
-                "Wallssharingiscaring": 0
+                "Wallssharingiscaring": 0,
+                "Cvctrickortreat": 0,
+                "Maincatchtreasure": 0
               },
               "rewards": []
             },
@@ -50397,7 +50408,8 @@
                 "Warlordsgraveconsequences": 0,
                 "Cvcredwire": 0,
                 "Wallsdiamond": 0,
-                "Murderstreak": 0
+                "Murderstreak": 0,
+                "Maincatchjunk": 0
               }
             }
           },

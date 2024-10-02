@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1727732704286,
+  "lastUpdated": 1727885289818,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7536,17 +7536,16 @@
           "description": "Win a game of Build Battle Halloween Hyper Mode",
           "globalPercentUnlocked": 1
         },
+        "FIVE_BASKETS_2024": {
+          "points": 5,
+          "name": "Five Baskets (2024)",
+          "description": "Find five Candy Baskets in the Main Lobby"
+        },
         "THAT_TIME_OF_YEAR": {
           "points": 5,
           "name": "That Time of Year",
           "description": "???",
           "secret": true,
-          "globalPercentUnlocked": 1
-        },
-        "FIVE_BASKETS_2023": {
-          "points": 5,
-          "name": "Five Baskets (2023)",
-          "description": "Find five Candy Baskets in the Main Lobby",
           "globalPercentUnlocked": 1
         },
         "SMOKING_VEIL": {
@@ -7663,11 +7662,10 @@
           "description": "Finish games on 5 Halloween exclusive maps",
           "globalPercentUnlocked": 1
         },
-        "ALL_BASKETS_2023": {
+        "ALL_BASKETS_2024": {
           "points": 15,
-          "name": "All Baskets (2023)",
-          "description": "Find all Candy Baskets in the Main Lobby",
-          "globalPercentUnlocked": 1
+          "name": "All Baskets (2024)",
+          "description": "Find all Candy Baskets in the Main Lobby"
         },
         "TBR_RIVERSIDE_REVENGE": {
           "points": 5,
@@ -7831,6 +7829,12 @@
           "description": "Complete Seaside Drive in under 1:15",
           "legacy": true
         },
+        "ALL_BASKETS_2023": {
+          "points": 15,
+          "name": "All Baskets (2023)",
+          "description": "Find all Candy Baskets in the Main Lobby",
+          "legacy": true
+        },
         "ALL_BASKETS_2022": {
           "points": 15,
           "name": "All Baskets (2022)",
@@ -7901,6 +7905,12 @@
           "points": 5,
           "name": "Pumpkin Jump Completion",
           "description": "Complete Pumpkin Jump in Turbo Bat Racers",
+          "legacy": true
+        },
+        "FIVE_BASKETS_2023": {
+          "points": 5,
+          "name": "Five Baskets (2023)",
+          "description": "Find five Candy Baskets in the Main Lobby",
           "legacy": true
         },
         "NECROTHERAPY": {
@@ -8069,7 +8079,7 @@
         }
       },
       "total_points": 700,
-      "total_legacy_points": 380
+      "total_legacy_points": 400
     },
     "housing": {
       "one_time": {
@@ -8851,7 +8861,7 @@
         "ACTIVATE_PLUS_TEN": {
           "points": 10,
           "name": "Team Player",
-          "description": "Activate +1 three times in a game",
+          "description": "Activate +10 three times in a game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

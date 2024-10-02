@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1719399680238,
+  "lastUpdated": 1727856304266,
   "types": [
     {
       "key": "CAT_BLACK",
@@ -883,6 +883,18 @@
       "name": "Flying Guardian",
       "rarity": "LEGENDARY",
       "package": "pet_flying_guardian"
+    },
+    {
+      "key": "ENDERMAN_PUMPKIN",
+      "name": "Enderman: Pumpkin",
+      "rarity": "LEGENDARY",
+      "package": "pet_enderman_pumpkin"
+    },
+    {
+      "key": "SPECTER",
+      "name": "Specter",
+      "rarity": "LEGENDARY",
+      "package": "pet_specter"
     }
   ],
   "rarities": [

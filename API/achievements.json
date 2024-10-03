@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1727885289818,
+  "lastUpdated": 1727960589811,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7539,7 +7539,8 @@
         "FIVE_BASKETS_2024": {
           "points": 5,
           "name": "Five Baskets (2024)",
-          "description": "Find five Candy Baskets in the Main Lobby"
+          "description": "Find five Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "THAT_TIME_OF_YEAR": {
           "points": 5,
@@ -7665,7 +7666,8 @@
         "ALL_BASKETS_2024": {
           "points": 15,
           "name": "All Baskets (2024)",
-          "description": "Find all Candy Baskets in the Main Lobby"
+          "description": "Find all Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "TBR_RIVERSIDE_REVENGE": {
           "points": 5,

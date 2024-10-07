@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1727960589811,
+  "lastUpdated": 1728317289791,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7398,12 +7398,6 @@
           "description": "Complete Cryptic Castle in under 0:33",
           "globalPercentUnlocked": 1
         },
-        "SPOOKY_LOOKS": {
-          "points": 5,
-          "name": "Spooky Looks",
-          "description": "Open a Halloween Mystery Box during the Halloween Event",
-          "globalPercentUnlocked": 1
-        },
         "TRICK_OR_TREAT_TIME": {
           "points": 5,
           "name": "Trick or Treat Time!",
@@ -7492,12 +7486,6 @@
           "points": 5,
           "name": "Forest Fright Completion",
           "description": "Complete Forest Fright in Turbo Bat Racers",
-          "globalPercentUnlocked": 1
-        },
-        "KILLER_LOOT": {
-          "points": 5,
-          "name": "Killer Loot",
-          "description": "Open a Murder Mystery Spooky Chest",
           "globalPercentUnlocked": 1
         },
         "OCTOBER_BETRAYAL": {
@@ -7639,12 +7627,6 @@
           "description": "Win as Detective or Murderer in the Spooky Mansion map in Murder Mystery",
           "globalPercentUnlocked": 1
         },
-        "SPOOKY_CHEST": {
-          "points": 5,
-          "name": "Spooky Spooky",
-          "description": "Open 3 Bed Wars Spooky Chests",
-          "globalPercentUnlocked": 1
-        },
         "CLASSY_WITHER": {
           "points": 10,
           "name": "Classy Wither",
@@ -7753,6 +7735,12 @@
           "description": "Complete Seaside Drive in Turbo Bat Racers",
           "legacy": true
         },
+        "SPOOKY_LOOKS": {
+          "points": 5,
+          "name": "Spooky Looks",
+          "description": "Open a Halloween Mystery Box during the Halloween Event",
+          "legacy": true
+        },
         "TBR_MIDTOWN_TRIP": {
           "points": 5,
           "name": "Midtown Trip Completion",
@@ -7825,6 +7813,12 @@
           "description": "Find five Candy Baskets in the Main Lobby",
           "legacy": true
         },
+        "SPOOKY_CHEST": {
+          "points": 5,
+          "name": "Spooky Spooky",
+          "description": "Open 3 Bed Wars Spooky Chests",
+          "legacy": true
+        },
         "TBR_SEASIDE_DRIVE_FAST": {
           "points": 10,
           "name": "Seaside Drive Great Time",
@@ -7841,6 +7835,12 @@
           "points": 15,
           "name": "All Baskets (2022)",
           "description": "Find all Candy Baskets in the Main Lobby",
+          "legacy": true
+        },
+        "KILLER_LOOT": {
+          "points": 5,
+          "name": "Killer Loot",
+          "description": "Open a Murder Mystery Spooky Chest",
           "legacy": true
         },
         "ALL_BASKETS_2021": {
@@ -8080,8 +8080,8 @@
           ]
         }
       },
-      "total_points": 700,
-      "total_legacy_points": 400
+      "total_points": 685,
+      "total_legacy_points": 415
     },
     "housing": {
       "one_time": {

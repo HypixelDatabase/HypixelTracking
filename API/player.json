@@ -2935,7 +2935,9 @@
       },
       "mm_special_weekly_killer_instinct_2024": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mm_target_kills": 0
+          },
           "started": 0
         }
       }
@@ -36363,7 +36365,10 @@
           "kill_note_gothic_jerry",
           "kill_note_comfy_web",
           "kill_note_pumpkin_pals",
-          "kill_note_haunted_conscience"
+          "kill_note_haunted_conscience",
+          "deathcry_coffin_close",
+          "gravestone_humble",
+          "knife_skin_fragile_plant"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38247,7 +38252,45 @@
         "kills_cattleridge_farm_MURDER_INFECTION": 0,
         "survivor_wins_cattleridge_farm": 0,
         "survivor_wins_cattleridge_farm_MURDER_INFECTION": 0,
-        "wins_cattleridge_farm_MURDER_INFECTION": 0
+        "wins_cattleridge_farm_MURDER_INFECTION": 0,
+        "descent": {
+          "Firststeps": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Highroller": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Localspecialty": {
+            "progress": 0
+          },
+          "Firstjob": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Armed": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Selfdefense": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Eyeonprey": {
+            "progress": 0
+          },
+          "Cleanjob": {
+            "progress": 0,
+            "claimed": true
+          }
+        },
+        "knifeSkinPrestiges": {
+          "xp": {
+            "timber": 0
+          }
+        },
+        "favoriteDescentMode": ""
       },
       "Duels": {
         "duels_recently_played": "",

@@ -36368,7 +36368,8 @@
           "kill_note_haunted_conscience",
           "deathcry_coffin_close",
           "gravestone_humble",
-          "knife_skin_fragile_plant"
+          "knife_skin_fragile_plant",
+          "deathcry_sigh"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38278,9 +38279,17 @@
             "claimed": true
           },
           "Eyeonprey": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Cleanjob": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Bountyhunter": {
+            "progress": 0
+          },
+          "Slaughterhouse": {
             "progress": 0,
             "claimed": true
           }
@@ -38290,7 +38299,9 @@
             "timber": 0
           }
         },
-        "favoriteDescentMode": ""
+        "favoriteDescentMode": "",
+        "trap_kills_spooky_mansion": 0,
+        "trap_kills_spooky_mansion_MURDER_ASSASSINS": 0
       },
       "Duels": {
         "duels_recently_played": "",

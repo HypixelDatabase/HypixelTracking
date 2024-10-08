@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1728317289791,
+  "lastUpdated": 1728399892681,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -8179,35 +8179,35 @@
         "KILL_MURDERER_AS_LAST_ALIVE": {
           "points": 15,
           "name": "Close Enough",
-          "description": "Be the last one alive and kill the murderer",
+          "description": "Kill the Murderer as the last person alive",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "WIN_SURVIVOR_DUE_TO_TIME": {
           "points": 5,
           "name": "Catch Me If You Can",
-          "description": "As innocent, win because the murderer's time ran out",
+          "description": "Win a game as Innocent by surviving until time runs out",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "THIRTY_GOLD_PICKED_UP": {
           "points": 10,
           "name": "Gold Hunter",
-          "description": "Pick up 30 gold in one game",
+          "description": "Pick up 30 Gold in a single game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "SHOOT_THROWN_KNIFE": {
           "points": 15,
           "name": "Sniper",
-          "description": "Shoot a thrown knife with a bow",
+          "description": "Shoot a thrown knife with a Bow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "TRAPPER_TERRITORY": {
           "points": 10,
           "name": "Trapper Territory",
-          "description": "Kill 2 players with traps in one game as Murderer",
+          "description": "Kill 2 players with Traps as the Murderer in a single game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8221,14 +8221,14 @@
         "JAWS": {
           "points": 5,
           "name": "JAWS!",
-          "description": "Get eaten by a Shark",
+          "description": "Get eaten by a Shark on Aquarium",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "WIN_AS_MURDERER_SHORT_TIME": {
           "points": 5,
           "name": "Calculated",
-          "description": "As murderer, win with less than 15 seconds remaining",
+          "description": "Win a game as Murderer with only 15 seconds remaining",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8256,14 +8256,14 @@
         "BLOCK_WITH_BARRIER": {
           "points": 10,
           "name": "I Am Your Shield",
-          "description": "Deploy a barrier that blocks an arrow or thrown sword on Transport",
+          "description": "Block a projectile with a Shield Spawner on Transport",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "SIXTH_SENSE": {
           "points": 10,
           "name": "Sixth Sense",
-          "description": "Kill two targets within 5 seconds of each other in Assassins",
+          "description": "Kill 2 Targets within 5 seconds in Assassins",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8284,49 +8284,49 @@
         "FIRST_SHOT_HIT": {
           "points": 10,
           "name": "On Point",
-          "description": "As innocent, kill the murderer with your first bow shot",
+          "description": "Kill the Murderer as an Innocent with your first Arrow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "MURDERER_FIRST_KILL": {
           "points": 15,
           "name": "Clean Round",
-          "description": "Kill the murderer before anybody has died",
+          "description": "Kill the Murderer before anybody has died",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "THREE_KNIFE_THROW_KILLS": {
           "points": 10,
           "name": "Assassin",
-          "description": "As murderer, kill 3 players in one game by throwing your knife at them",
+          "description": "Kill 3 players with Knife Throws as the Murderer in a single game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "KILL_MURDERER_AFTER_KILL": {
           "points": 10,
           "name": "Caught In The Act",
-          "description": "Kill the murderer within three seconds after they killed someone",
+          "description": "Kill the Murderer within 3 seconds of them killing someone",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "DRINK_MANY_POTIONS": {
           "points": 10,
           "name": "Quenchy",
-          "description": "Drink sixteen potions in one game",
+          "description": "Drink sixteen Mystery Potions in a single game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "KILL_MURDERER_WHILE_BLINDED": {
           "points": 15,
           "name": "Blind Justice",
-          "description": "Kill the murderer while being blinded",
+          "description": "Kill the Murderer while having the Blindness effect",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "LAST_SURVIVOR": {
           "points": 10,
           "name": "Last Survivor",
-          "description": "Be the last survivor standing in Infection",
+          "description": "Be the last Survivor standing in Infection",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8347,7 +8347,7 @@
         "WATSON": {
           "points": 5,
           "name": "Elementary, my dear Watson.",
-          "description": "Accidentally shoot yourself with a bow",
+          "description": "Accidentally shoot yourself with a Bow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8361,7 +8361,7 @@
         "KILL_DETECTIVE_FAST": {
           "points": 10,
           "name": "Not Today",
-          "description": "As murderer, kill the detective within 30 seconds of receiving your weapon",
+          "description": "Kill the Detective as the Murderer within 30 seconds of receiving your weapon",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8375,7 +8375,7 @@
         "KILLSTREAK": {
           "points": 10,
           "name": "Slice N Dice",
-          "description": "As murderer, get five kills in five seconds",
+          "description": "Kill 5 players within 5 seconds as the Murderer",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8389,49 +8389,49 @@
         "PICKUP_GOLD": {
           "points": 5,
           "name": "That Was Easy",
-          "description": "Collect 10 gold in the first minute of the game",
+          "description": "Collect 10 Gold in the first minute of the game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "BOW_KILLSTREAK": {
           "points": 10,
           "name": "The Arrow Streak",
-          "description": "Get 5 kills in a row with a bow",
+          "description": "Kill 5 players in a row with a Bow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "BE_THE_HERO": {
           "points": 5,
           "name": "Saving The Day",
-          "description": "Be the hero of the game",
+          "description": "Be the Hero of the game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "THREE_ARROWS": {
           "points": 10,
           "name": "Lock And Load",
-          "description": "As innocent, have three arrows at once",
+          "description": "Have three Arrows at once as an Innocent",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "SWORD_KILL_LONG_RANGE": {
           "points": 10,
           "name": "Bullseye",
-          "description": "Nail a sword throw from over 30 blocks",
+          "description": "Nail a Knife Throw from over 30 blocks away",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "RIDE_MONORAIL": {
           "points": 5,
           "name": "This Isn't A Funfair ... Maybe",
-          "description": "Ride the monorail",
+          "description": "Ride the Monorail on Hypixel World",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "BOW_KILL_ON_DETECTIVE": {
           "points": 15,
           "name": "Humiliation",
-          "description": "As murderer, use a bow and arrow to kill the detective",
+          "description": "Kill the Detective as the Murderer with a Bow",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8445,21 +8445,21 @@
         "WIN_INNO_MONORAIL": {
           "points": 15,
           "name": "Wicked Ride",
-          "description": "Be the last innocent alive, and win the game while riding the monorail.",
+          "description": "As the last Innocent alive, win a game while riding the Monorail on Hypixel World.",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "EMP": {
           "points": 15,
           "name": "Where's my EMP?",
-          "description": "Kill all 15 players in one round as Murderer",
+          "description": "Kill 15 players in one round as Murderer",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "UNCALCULATED": {
           "points": 15,
           "name": "Uncalculated",
-          "description": "As murderer, win with more than 2 minutes remaining",
+          "description": "Win a game as Murderer with over 2 minutes remaining",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8474,14 +8474,14 @@
         "PARANOID": {
           "points": 10,
           "name": "Paranoid much?",
-          "description": "Place 18 shield spawners in one game",
+          "description": "Place 18 Shield Spawners in a single game on Transport",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "LONGRANGE_SHOT": {
           "points": 15,
           "name": "Sharpshooter",
-          "description": "As detective, shoot the murderer from over 30 blocks",
+          "description": "Kill the Murderer as the Detective from over 30 blocks away",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8495,28 +8495,28 @@
         "WIN_MURDERER_FELL_IN_TRAP": {
           "points": 10,
           "name": "Don't Go There",
-          "description": "Win a game due to the murderer falling into a trapdoor",
+          "description": "Win a game due to the Murderer falling into a Trap",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "NO_GOLD_PICKUP": {
           "points": 15,
           "name": "No Money, No Problems",
-          "description": "As innocent, survive until the end of the game, while the murderer is still alive, without having collected any gold",
+          "description": "Survive until time runs out as an Innocent without collecting any Gold",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "TOP_ZOMBIE": {
           "points": 5,
           "name": "Top Zombie",
-          "description": "Infect 5 survivors in a single game of Infection",
+          "description": "Infect 5 Survivors in a single game of Infection",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "DANCE": {
           "points": 5,
           "name": "Shut up and dance!",
-          "description": "Activate your gesture for the first time",
+          "description": "Use a Gesture",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8544,7 +8544,7 @@
         "MURDERER_BOW_KILLS": {
           "points": 10,
           "name": "Wrong Weapon",
-          "description": "As murderer, get 3 kills in one game with a bow",
+          "description": "Kill 3 people with a Bow as Murderer in a single game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8565,14 +8565,14 @@
         "KILL_WHILE_MONORAIL": {
           "points": 10,
           "name": "You Did Not See That Coming!",
-          "description": "Kill a player while riding the monorail",
+          "description": "Kill a player while riding the Monorail on Hypixel World",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
         "TRIGGER_HAPPY_HAVOC": {
           "points": 5,
           "name": "Trigger Happy Havoc",
-          "description": "Fire 50 bow shots in a game",
+          "description": "Fire 50 Arrows in a single game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -8580,13 +8580,12 @@
           "points": 5,
           "name": "Tricked!",
           "description": "Trick a Murderer into attacking a decoy",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "KILL_ON_HORSE": {
           "points": 10,
           "name": "It's High Noon",
-          "description": "Kill the murderer as an innocent, or any innocent as the murderer with a bow whilst riding a horse on Gold Rush",
+          "description": "Kill a player while on a Horse on Gold Rush",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         }
@@ -8841,8 +8840,8 @@
           ]
         }
       },
-      "total_points": 1170,
-      "total_legacy_points": 0
+      "total_points": 1165,
+      "total_legacy_points": 5
     },
     "paintball": {
       "one_time": {
@@ -14369,7 +14368,7 @@
           "points": 5,
           "name": "Ocean Offering",
           "description": "Bring a fish home on Villa in Murder Mystery",
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SHOCKWAVE": {
           "points": 10,
@@ -14682,8 +14681,8 @@
           ]
         }
       },
-      "total_points": 370,
-      "total_legacy_points": 195
+      "total_points": 365,
+      "total_legacy_points": 200
     },
     "supersmash": {
       "one_time": {

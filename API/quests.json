@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1727798104282,
+  "lastUpdated": 1728399892685,
   "quests": {
     "quake": [
       {
@@ -3593,7 +3593,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1500
+            "amount": 2500
           },
           {
             "type": "FestivalExperienceReward",
@@ -3624,7 +3624,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1500
+            "amount": 2500
           },
           {
             "type": "FestivalExperienceReward",
@@ -3643,7 +3643,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Kill the murderer or win as murderer in Classic mode."
+        "description": "Kill the Murderer or win as Murderer in Classic or Double Up!"
       },
       {
         "id": "mm_daily_target_kill",
@@ -3655,7 +3655,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1000
+            "amount": 2500
           },
           {
             "type": "FestivalExperienceReward",
@@ -3674,7 +3674,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Kill 2 targets in Assassins mode."
+        "description": "Kill 2 Targets in Assassins."
       },
       {
         "id": "mm_daily_infector",
@@ -3686,7 +3686,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 1500
+            "amount": 2500
           },
           {
             "type": "FestivalExperienceReward",
@@ -3705,7 +3705,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Kill 10 players in Infection mode."
+        "description": "Kill 10 Survivors in Infection."
       },
       {
         "id": "mm_weekly_murderer_kills",
@@ -3717,7 +3717,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 7500
+            "amount": 10000
           },
           {
             "type": "FestivalExperienceReward",
@@ -3748,7 +3748,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 10000
+            "amount": 15000
           },
           {
             "type": "FestivalExperienceReward",

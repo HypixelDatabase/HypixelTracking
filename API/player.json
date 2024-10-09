@@ -38340,6 +38340,10 @@
           "Cuttingtheroots": {
             "progress": 0,
             "claimed": true
+          },
+          "Patientzero": {
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {
@@ -38361,7 +38365,15 @@
         },
         "doEmblemsInGame": true,
         "doHints": true,
-        "active_gravestone": ""
+        "active_gravestone": "",
+        "alpha_wins": 0,
+        "alpha_wins_MURDER_INFECTION": 0,
+        "alpha_wins_villa": 0,
+        "alpha_wins_villa_MURDER_INFECTION": 0,
+        "kills_as_alpha": 0,
+        "kills_as_alpha_MURDER_INFECTION": 0,
+        "kills_as_alpha_villa": 0,
+        "kills_as_alpha_villa_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

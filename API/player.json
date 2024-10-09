@@ -36380,7 +36380,8 @@
           "last_words_rats",
           "emblem.color_unlocked",
           "gravestone_unadorned",
-          "knife_skin_10000_spoons"
+          "knife_skin_10000_spoons",
+          "deathcry_static"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38329,7 +38330,16 @@
             "claimed": true
           },
           "Mowingdown": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
+          },
+          "Postpandemic": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Cuttingtheroots": {
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {

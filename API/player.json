@@ -36369,7 +36369,16 @@
           "deathcry_coffin_close",
           "gravestone_humble",
           "knife_skin_fragile_plant",
-          "deathcry_sigh"
+          "deathcry_sigh",
+          "gravestone_basic",
+          "gravestone_mossy_basic",
+          "deathcry_dragon_roar",
+          "kill_note_year_of_the_dragon",
+          "kill_note_pig_peace",
+          "kill_note_dragon",
+          "last_words_squeak",
+          "last_words_rats",
+          "emblem.color_unlocked"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38287,21 +38296,37 @@
             "claimed": true
           },
           "Bountyhunter": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Slaughterhouse": {
             "progress": 0,
             "claimed": true
+          },
+          "Huntsman": {
+            "progress": 0
           }
         },
         "knifeSkinPrestiges": {
           "xp": {
-            "timber": 0
+            "timber": 0,
+            "bone": 0
           }
         },
         "favoriteDescentMode": "",
         "trap_kills_spooky_mansion": 0,
-        "trap_kills_spooky_mansion_MURDER_ASSASSINS": 0
+        "trap_kills_spooky_mansion_MURDER_ASSASSINS": 0,
+        "emblem": {
+          "selected_icon": "",
+          "selected_color": "",
+          "color_unlocked": {
+            "gray": true,
+            "white": true
+          }
+        },
+        "doEmblemsInGame": true,
+        "doHints": true,
+        "active_gravestone": ""
       },
       "Duels": {
         "duels_recently_played": "",

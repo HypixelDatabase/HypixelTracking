@@ -38349,6 +38349,9 @@
           "Holdground": {
             "progress": 0,
             "claimed": true
+          },
+          "Exponentiation": {
+            "progress": 0
           }
         },
         "knifeSkinPrestiges": {
@@ -38380,7 +38383,9 @@
         "kills_as_alpha_villa": 0,
         "kills_as_alpha_villa_MURDER_INFECTION": 0,
         "last_one_alive_subway": 0,
-        "last_one_alive_subway_MURDER_INFECTION": 0
+        "last_one_alive_subway_MURDER_INFECTION": 0,
+        "kills_as_infected_cattleridge_farm": 0,
+        "kills_as_infected_cattleridge_farm_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

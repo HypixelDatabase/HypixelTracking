@@ -38377,6 +38377,9 @@
           "Trapping101": {
             "progress": 0,
             "claimed": true
+          },
+          "Lurkingcontagion": {
+            "progress": 0
           }
         },
         "knifeSkinPrestiges": {
@@ -38414,7 +38417,13 @@
         "suicides_headquarters_MURDER_CLASSIC": 0,
         "mapsConsumablesUsed": [],
         "suicides_skyway_pier": 0,
-        "suicides_skyway_pier_MURDER_CLASSIC": 0
+        "suicides_skyway_pier_MURDER_CLASSIC": 0,
+        "alpha_wins_mountain": 0,
+        "alpha_wins_mountain_MURDER_INFECTION": 0,
+        "kills_as_alpha_mountain": 0,
+        "kills_as_alpha_mountain_MURDER_INFECTION": 0,
+        "last_one_alive_snowfall": 0,
+        "last_one_alive_snowfall_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

@@ -38278,7 +38278,8 @@
             "claimed": true
           },
           "Localspecialty": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Firstjob": {
             "progress": 0,
@@ -38361,6 +38362,21 @@
           },
           "Contagioncontained": {
             "progress": 0
+          },
+          "Cornucopia": {
+            "progress": 0
+          },
+          "Sneaky": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Legacy": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Trapping101": {
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {
@@ -38394,7 +38410,11 @@
         "last_one_alive_subway": 0,
         "last_one_alive_subway_MURDER_INFECTION": 0,
         "kills_as_infected_cattleridge_farm": 0,
-        "kills_as_infected_cattleridge_farm_MURDER_INFECTION": 0
+        "kills_as_infected_cattleridge_farm_MURDER_INFECTION": 0,
+        "suicides_headquarters_MURDER_CLASSIC": 0,
+        "mapsConsumablesUsed": [],
+        "suicides_skyway_pier": 0,
+        "suicides_skyway_pier_MURDER_CLASSIC": 0
       },
       "Duels": {
         "duels_recently_played": "",

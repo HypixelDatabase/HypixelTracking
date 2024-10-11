@@ -36383,7 +36383,9 @@
           "knife_skin_10000_spoons",
           "deathcry_static",
           "gravestone_floral",
-          "deathcry_up_in_flames"
+          "deathcry_up_in_flames",
+          "knife_skin_campfire_leftovers",
+          "gravestone_unsubtle"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38380,6 +38382,17 @@
           },
           "Lurkingcontagion": {
             "progress": 0
+          },
+          "Serialtrapper": {
+            "progress": 0
+          },
+          "Survival": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Deadlyprecision": {
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {
@@ -38424,7 +38437,9 @@
         "kills_as_alpha_mountain": 0,
         "kills_as_alpha_mountain_MURDER_INFECTION": 0,
         "last_one_alive_snowfall": 0,
-        "last_one_alive_snowfall_MURDER_INFECTION": 0
+        "last_one_alive_snowfall_MURDER_INFECTION": 0,
+        "mapsMurdererTrapKills": [],
+        "trap_kills_spooky_mansion_MURDER_CLASSIC": 0
       },
       "Duels": {
         "duels_recently_played": "",

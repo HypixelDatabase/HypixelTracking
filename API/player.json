@@ -36385,7 +36385,8 @@
           "gravestone_floral",
           "deathcry_up_in_flames",
           "knife_skin_campfire_leftovers",
-          "gravestone_unsubtle"
+          "gravestone_unsubtle",
+          "gravestone_warrior"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -38312,7 +38313,8 @@
             "claimed": true
           },
           "Huntsman": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Reloaded": {
             "progress": 0,
@@ -38397,6 +38399,9 @@
           "Quickdraw": {
             "progress": 0,
             "claimed": true
+          },
+          "Deadoralive": {
+            "progress": 0
           }
         },
         "knifeSkinPrestiges": {

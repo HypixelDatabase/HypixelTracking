@@ -996,7 +996,9 @@
               },
               "pablo": {
                 "last_call": 0,
-                "dnd_enabled": true
+                "dnd_enabled": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "st_jerry": {
                 "completed_quest": true,

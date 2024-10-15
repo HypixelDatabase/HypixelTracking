@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1726579438711,
-  "version": "0.20.6.0",
+  "lastUpdated": 1729001787961,
+  "version": "0.20.7.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -267,7 +267,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Chicken Head Recipe",
+                "Chicken Hat Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1206,7 +1206,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Cow Head Recipe",
+                "Cow Hat Recipe",
                 "Milk Bucket Trade",
                 "+4 SkyBlock XP"
               ]
@@ -6034,7 +6034,7 @@
           "tiers": [
             {
               "tier": 1,
-              "amountRequired": 1,
+              "amountRequired": 50,
               "unlocks": [
                 "Nearly-Whole Carrot Recipe",
                 "+4 SkyBlock XP"

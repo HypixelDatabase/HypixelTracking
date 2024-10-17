@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1728399892685,
+  "lastUpdated": 1729185087923,
   "quests": {
     "quake": [
       {
@@ -3897,7 +3897,7 @@
       },
       {
         "id": "build_battle_halloween",
-        "name": "Special Daily: Hyper",
+        "name": "Special Daily: Spooky",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -3920,7 +3920,7 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Play 2 Halloween Hyper Mode games"
+        "description": "Play 2 games with spooky themes"
       }
     ],
     "duels": [

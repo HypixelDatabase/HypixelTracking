@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1729185087923,
+  "lastUpdated": 1729538787882,
   "quests": {
     "quake": [
       {
@@ -1273,6 +1273,10 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3500
           }
         ],
         "objectives": [
@@ -1300,6 +1304,10 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 1500
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3500
           }
         ],
         "objectives": [
@@ -1363,6 +1371,10 @@
           {
             "type": "MultipliedCoinReward",
             "amount": 4500
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 21000
           }
         ],
         "objectives": [

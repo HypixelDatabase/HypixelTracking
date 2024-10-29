@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1730216032238,
+  "lastUpdated": 1730220532250,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -4916,8 +4916,7 @@
           "points": 5,
           "name": "Secret Order",
           "description": "Win a Challenge Mode game",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "TEAM_COMMUNICATOR": {
           "points": 5,
@@ -5019,8 +5018,7 @@
           "points": 5,
           "name": "Less Talky Talky, more Pew Pew",
           "description": "Play a game of Challenge Mode",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SNEAKY": {
           "points": 5,
@@ -5351,8 +5349,8 @@
           ]
         }
       },
-      "total_points": 1255,
-      "total_legacy_points": 0
+      "total_points": 1245,
+      "total_legacy_points": 10
     },
     "duels": {
       "one_time": {

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1729538787882,
+  "lastUpdated": 1730216032241,
   "quests": {
     "quake": [
       {
@@ -1889,8 +1889,39 @@
     ],
     "mcgo": [
       {
+        "id": "cvc_play_daily_gungame",
+        "name": "Daily Quest: Gun Gaming",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3850
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 1250
+          },
+          {
+            "type": "FestivalExperienceReward",
+            "amount": 3850
+          }
+        ],
+        "objectives": [
+          {
+            "id": "cvc_play_daily_gungame",
+            "type": "IntegerObjective",
+            "integer": 3
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Play 3 games of Gun Game"
+      },
+      {
         "id": "cvc_win_daily_normal",
-        "name": "Daily Quest: Win a game! (Defusal)",
+        "name": "Daily Quest: Victorious",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1921,7 +1952,7 @@
       },
       {
         "id": "cvc_kill_daily_normal",
-        "name": "Daily Quest: Kill 15 players! (Defusal)",
+        "name": "Daily Quest: Dominator",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1952,7 +1983,7 @@
       },
       {
         "id": "cvc_kill",
-        "name": "Daily Quest: Get 300 points! (Deathmatch)",
+        "name": "Daily Quest: Leader",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -1983,7 +2014,7 @@
       },
       {
         "id": "cvc_win_daily_deathmatch",
-        "name": "Daily Quest: Win a game! (Deathmatch)",
+        "name": "Daily Quest: Conqueror",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -2014,7 +2045,7 @@
       },
       {
         "id": "cvc_kill_weekly",
-        "name": "Weekly Quest: 100 kills and 1,500 points",
+        "name": "Weekly Quest: Versatile",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
@@ -2039,6 +2070,11 @@
             "id": "cvc_play_weekly_2",
             "type": "IntegerObjective",
             "integer": 1500
+          },
+          {
+            "id": "cvc_play_weekly_3",
+            "type": "IntegerObjective",
+            "integer": 20
           }
         ],
         "requirements": [
@@ -2046,7 +2082,7 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Kill 100 players in Defusal\nGet 1,500 points in Deathmatch"
+        "description": "Kill 100 players in Defusal\nGet 1,500 points in Deathmatch\nKill 20 players in Gun Game"
       }
     ],
     "battleground": [

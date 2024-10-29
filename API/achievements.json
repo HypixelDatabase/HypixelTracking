@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1729848548835,
+  "lastUpdated": 1730216032238,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -4709,7 +4709,7 @@
         "RAISE_YOUR_VOICE": {
           "points": 5,
           "name": "RAISE YOUR VOICE",
-          "description": "Reach the max level of the Shout Upgrade",
+          "description": "Use the /shout command",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -4733,6 +4733,11 @@
           "description": "Get 15 kills with the SMG without dying in one game of Defusal",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "STYLISTIC": {
+          "points": 10,
+          "name": "Stylistic",
+          "description": "Equip a Scheme"
         },
         "DARUDE_SANDSTORM": {
           "points": 5,
@@ -4860,6 +4865,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "SNAZZY": {
+          "points": 5,
+          "name": "Snazzy",
+          "description": "Equip an Emblem"
+        },
         "CHARACTER_UPGRADES": {
           "points": 15,
           "name": "Better Version Of Yourself",
@@ -4943,6 +4953,11 @@
           "description": "Get 60 kills with the Rifle in one game of Team Deathmatch",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "RUBBING_IT_IN": {
+          "points": 5,
+          "name": "Rubbing It In",
+          "description": "Equip a Glyph"
         },
         "SWORDFIGHTER": {
           "points": 10,
@@ -5037,27 +5052,58 @@
             {
               "tier": 1,
               "points": 5,
-              "amount": 15
+              "amount": 5
             },
             {
               "tier": 2,
               "points": 10,
-              "amount": 100
+              "amount": 25
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 250
+              "amount": 50
             },
             {
               "tier": 4,
               "points": 20,
-              "amount": 500
+              "amount": 100
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 1000
+              "amount": 250
+            }
+          ]
+        },
+        "ASSASSIN": {
+          "name": "Assassin",
+          "description": "Get %s Knife kills",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
             }
           ]
         },
@@ -5242,6 +5288,37 @@
             }
           ]
         },
+        "PROMISING_RECRUIT": {
+          "name": "Promising Recruit",
+          "description": "Reach Cops and Crims Level %s",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 15
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 20
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25
+            }
+          ]
+        },
         "HERO_TERRORIST": {
           "name": "Warfare",
           "description": "Win %s Games",
@@ -5274,7 +5351,7 @@
           ]
         }
       },
-      "total_points": 1085,
+      "total_points": 1255,
       "total_legacy_points": 0
     },
     "duels": {

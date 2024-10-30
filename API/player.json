@@ -283,7 +283,8 @@
       "woolgames_wool_wars_capturer": 0,
       "woolgames_sheep_wars_slayer": 0,
       "woolgames_sheep_wars_sharpshooter": 0,
-      "woolgames_sheep_wars_winner": 0
+      "woolgames_sheep_wars_winner": 0,
+      "copsandcrims_promising_recruit": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -2938,6 +2939,12 @@
           "objectives": {
             "mm_target_kills": 0
           },
+          "started": 0
+        }
+      },
+      "cvc_play_daily_gungame": {
+        "active": {
+          "objectives": {},
           "started": 0
         }
       }
@@ -7512,7 +7519,27 @@
           "pump_action_plus",
           "spas_12_plus",
           "bullpup_clip",
-          "usp_whisper_plus"
+          "usp_whisper_plus",
+          "emblem_magnum",
+          "emblem_pistol",
+          "emblem_armor",
+          "emblem_knife",
+          "emblem_helmet",
+          "emblem_rifle",
+          "emblem_carbine",
+          "emblem_msg",
+          "emblem_shotgun",
+          "emblem_cops",
+          "emblem_crims",
+          "scheme_gray",
+          "emblem_grenade",
+          "emblem_firebomb",
+          "emblem_hp",
+          "glyph_celebration_popper",
+          "emblem_cargo",
+          "emblem_headshot",
+          "emblem_c4",
+          "glyph_chicken"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -7679,7 +7706,18 @@
           "mode": "",
           "resetType": ""
         },
-        "selectedHandgunDev": ""
+        "selectedHandgunDev": "",
+        "score": 0,
+        "level": 0,
+        "claimed_level_rewards": [],
+        "perk": {
+          "base_coin": {
+            "kills": 0,
+            "assists": 0
+          }
+        },
+        "active_glyph": "",
+        "active_emblem": ""
       },
       "Paintball": {
         "coins": 0,

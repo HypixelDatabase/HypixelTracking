@@ -284,7 +284,8 @@
       "woolgames_sheep_wars_slayer": 0,
       "woolgames_sheep_wars_sharpshooter": 0,
       "woolgames_sheep_wars_winner": 0,
-      "copsandcrims_promising_recruit": 0
+      "copsandcrims_promising_recruit": 0,
+      "copsandcrims_assassin": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -7539,7 +7540,16 @@
           "emblem_cargo",
           "emblem_headshot",
           "emblem_c4",
-          "glyph_chicken"
+          "glyph_chicken",
+          "emblem_fire",
+          "emblem_landing_pad",
+          "emblem_double_star",
+          "glyph_storm",
+          "emblem_wire_cutters",
+          "emblem_peace",
+          "scheme_dark_green",
+          "glyph_heart",
+          "emblem_serious"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -7713,11 +7723,16 @@
         "perk": {
           "base_coin": {
             "kills": 0,
-            "assists": 0
+            "assists": 0,
+            "bomb_plants": 0,
+            "deathmatch_challenges": 0
           }
         },
         "active_glyph": "",
-        "active_emblem": ""
+        "active_emblem": "",
+        "active_scheme": "",
+        "game_wins_melon factory v2": 0,
+        "knife_kills": 0
       },
       "Paintball": {
         "coins": 0,

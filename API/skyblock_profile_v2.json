@@ -1017,7 +1017,9 @@
                 "last_call_incoming": 0
               },
               "queen": {
-                "talked_to": true
+                "talked_to": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "dean": {
                 "incoming_calls_count": 0,

@@ -7550,7 +7550,11 @@
           "scheme_dark_green",
           "glyph_heart",
           "emblem_serious",
-          "emblem_sniper"
+          "emblem_sniper",
+          "emblem_handgun",
+          "emblem_augoShotgun",
+          "emblem_airstrike",
+          "emblem_shield"
         ],
         "pistol_damage_increase": 0,
         "pistol_recoil_reduction": 0,
@@ -7726,7 +7730,8 @@
             "kills": 0,
             "assists": 0,
             "bomb_plants": 0,
-            "deathmatch_challenges": 0
+            "deathmatch_challenges": 0,
+            "bomb_defuses": 0
           }
         },
         "active_glyph": "",

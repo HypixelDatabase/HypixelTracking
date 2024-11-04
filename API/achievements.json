@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1730220532250,
+  "lastUpdated": 1730720122432,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -4737,7 +4737,9 @@
         "STYLISTIC": {
           "points": 10,
           "name": "Stylistic",
-          "description": "Equip a Scheme"
+          "description": "Equip a Scheme",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DARUDE_SANDSTORM": {
           "points": 5,
@@ -4868,7 +4870,9 @@
         "SNAZZY": {
           "points": 5,
           "name": "Snazzy",
-          "description": "Equip an Emblem"
+          "description": "Equip an Emblem",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CHARACTER_UPGRADES": {
           "points": 15,
@@ -4956,7 +4960,9 @@
         "RUBBING_IT_IN": {
           "points": 5,
           "name": "Rubbing It In",
-          "description": "Equip a Glyph"
+          "description": "Equip a Glyph",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SWORDFIGHTER": {
           "points": 10,

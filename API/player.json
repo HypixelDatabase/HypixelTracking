@@ -286,7 +286,8 @@
       "woolgames_sheep_wars_winner": 0,
       "copsandcrims_promising_recruit": 0,
       "copsandcrims_assassin": 0,
-      "buildbattle_speed_builders_perfectionist": 0
+      "buildbattle_speed_builders_perfectionist": 0,
+      "buildbattle_speed_builders_winner": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -40822,8 +40823,10 @@
         },
         "votes_Jetski": 0,
         "last_won": {
-          "GUESS_THE_BUILD": 0
-        }
+          "GUESS_THE_BUILD": 0,
+          "SPEED_BUILDERS": 0
+        },
+        "wins_speed_builders": 0
       },
       "Pit": {
         "profile": {

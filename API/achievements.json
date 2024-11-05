@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1730720122432,
+  "lastUpdated": 1730810575846,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3511,6 +3511,96 @@
     },
     "buildbattle": {
       "one_time": {
+        "CLASSIC_MAN": {
+          "points": 5,
+          "name": "Classic Man",
+          "description": "Win a game of Build Battle Solo having placed 50 blocks or less",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "RENOWNED_BUILDER": {
+          "points": 10,
+          "name": "Renowned Builder",
+          "description": "Win a match having used every pro tool"
+        },
+        "NO_MISTAKES": {
+          "points": 10,
+          "name": "No Mistakes",
+          "description": "Have your theme guessed correctly without breaking any blocks",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "ARTIST": {
+          "points": 15,
+          "name": "Artist",
+          "description": "Use only 1 type of block and have your theme guessed correctly",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PRO_WINNER": {
+          "points": 10,
+          "name": "Pro Winner",
+          "description": "Win a game of Pro Mode",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "TEAMWORK": {
+          "points": 10,
+          "name": "Teamwork",
+          "description": "Win a game of Build Battle Teams",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THAT_WOOD_BE_PERFECT": {
+          "points": 10,
+          "name": "That Wood Be Perfect",
+          "description": "How much wood can a woodchuck chuck if a woodchuck could chuck wood... aka, win a game by only placing wooden blocks.",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "LOCKED_IN": {
+          "points": 10,
+          "name": "Locked In",
+          "description": "Complete a round with 100% accuracy without breaking a block in a game of Speed Builders"
+        },
+        "EVERY_SECOND_COUNTS": {
+          "points": 5,
+          "name": "Every Second Counts",
+          "description": "Guess a build correctly in the last 5 seconds",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PAID_HOURLY": {
+          "points": 15,
+          "name": "Paid Hourly",
+          "description": "Win a Solo match having only built during the first minute"
+        },
+        "MUSICIAN": {
+          "points": 10,
+          "name": "Musician",
+          "description": "Unlock 25 songs in the shop",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PERFECT_HARMONY": {
+          "points": 10,
+          "name": "Perfect Harmony",
+          "description": "Win a game of Build Battle Teams without breaking a single block you or your teammate placed",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "THE_HAT_MASTER": {
+          "points": 15,
+          "name": "The Hat Master",
+          "description": "Unlock the Master Builder Hat",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
+        },
+        "PODIUM_POSITION": {
+          "points": 5,
+          "name": "Podium Position",
+          "description": "Finish in the top 3 in a game of Speed Builders"
+        },
         "GUESSING_STREAK": {
           "points": 5,
           "name": "Guessing Streak",
@@ -3560,12 +3650,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CLASSIC_MAN": {
+        "PERFECTION": {
           "points": 5,
-          "name": "Classic Man",
-          "description": "Win a game of Build Battle Solo having placed 50 blocks or less",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Perfection",
+          "description": "Complete a round with 100% accuracy in a game of Speed Builders"
         },
         "STENOGRAPHER": {
           "points": 5,
@@ -3581,13 +3669,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "NO_MISTAKES": {
-          "points": 10,
-          "name": "No Mistakes",
-          "description": "Have your theme guessed correctly without breaking any blocks",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
         "BRANIAC": {
           "points": 5,
           "name": "Braniac",
@@ -3595,12 +3676,10 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "ARTIST": {
+        "ALL_KNOWING": {
           "points": 15,
-          "name": "Artist",
-          "description": "Use only 1 type of block and have your theme guessed correctly",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "All Knowing",
+          "description": "Win a match of Guess the Build without guessing wrong once"
         },
         "FANCY": {
           "points": 5,
@@ -3616,33 +3695,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "PRO_WINNER": {
-          "points": 10,
-          "name": "Pro Winner",
-          "description": "Win a game of Pro Mode",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "TEAMWORK": {
-          "points": 10,
-          "name": "Teamwork",
-          "description": "Win a game of Build Battle Teams",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "THAT_WOOD_BE_PERFECT": {
-          "points": 10,
-          "name": "That Wood Be Perfect",
-          "description": "How much wood can a woodchuck chuck if a woodchuck could chuck wood... aka, win a game by only placing wooden blocks.",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "EVERY_SECOND_COUNTS": {
-          "points": 5,
-          "name": "Every Second Counts",
-          "description": "Guess a build correctly in the last 5 seconds",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+        "PERFECTCEPTIONCEPTION": {
+          "points": 20,
+          "name": "Perfectceptionception",
+          "description": "???",
+          "secret": true
         },
         "SUPERIOR_VOTE": {
           "points": 5,
@@ -3651,26 +3708,20 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "MUSICIAN": {
-          "points": 10,
-          "name": "Musician",
-          "description": "Unlock 25 songs in the shop",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "PERFECT_HARMONY": {
-          "points": 10,
-          "name": "Perfect Harmony",
-          "description": "Win a game of Build Battle Teams without breaking a single block you or your teammate placed",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
-        },
-        "THE_HAT_MASTER": {
+        "GRAND_SLAM": {
           "points": 15,
-          "name": "The Hat Master",
-          "description": "Unlock the Master Builder Hat",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "name": "Grand Slam",
+          "description": "Win a match in Solo Mode, Teams Mode, and Party Mode in 1 hour"
+        },
+        "PERFECTLY_BALANCED": {
+          "points": 10,
+          "name": "Perfectly Balanced",
+          "description": "Win a match of Teams Mode with no teammate having placed more than 55% of the blocks"
+        },
+        "PERFECTCEPTION": {
+          "points": 15,
+          "name": "Perfectception",
+          "description": "Complete every round with 100% accuracy in a game of Speed Builders"
         }
       },
       "tiered": {
@@ -3702,6 +3753,37 @@
               "tier": 5,
               "points": 25,
               "amount": 2000
+            }
+          ]
+        },
+        "SPEED_BUILDERS_PERFECTIONIST": {
+          "name": "Perfectionist",
+          "description": "Complete %s rounds in Speed Builders with 100%% accuracy",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 75
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 150
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
             }
           ]
         },
@@ -3828,9 +3910,40 @@
               "amount": 5000
             }
           ]
+        },
+        "SPEED_BUILDERS_WINNER": {
+          "name": "Speed Builders Winner",
+          "description": "Win %s games of Speed Builders",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 75
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 150
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
+            }
+          ]
         }
       },
-      "total_points": 560,
+      "total_points": 830,
       "total_legacy_points": 0
     },
     "christmas2017": {

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1730810575846,
+  "lastUpdated": 1730915575853,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3521,7 +3521,9 @@
         "RENOWNED_BUILDER": {
           "points": 10,
           "name": "Renowned Builder",
-          "description": "Win a match having used every pro tool"
+          "description": "Win a match having used every pro tool",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NO_MISTAKES": {
           "points": 10,
@@ -3561,7 +3563,9 @@
         "LOCKED_IN": {
           "points": 10,
           "name": "Locked In",
-          "description": "Complete a round with 100% accuracy without breaking a block in a game of Speed Builders"
+          "description": "Complete a round with 100% accuracy without breaking a block in a game of Speed Builders",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "EVERY_SECOND_COUNTS": {
           "points": 5,
@@ -3573,7 +3577,9 @@
         "PAID_HOURLY": {
           "points": 15,
           "name": "Paid Hourly",
-          "description": "Win a Solo match having only built during the first minute"
+          "description": "Win a Solo match having only built during the first minute",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MUSICIAN": {
           "points": 10,
@@ -3599,7 +3605,9 @@
         "PODIUM_POSITION": {
           "points": 5,
           "name": "Podium Position",
-          "description": "Finish in the top 3 in a game of Speed Builders"
+          "description": "Finish in the top 3 in a game of Speed Builders",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GUESSING_STREAK": {
           "points": 5,
@@ -3653,7 +3661,9 @@
         "PERFECTION": {
           "points": 5,
           "name": "Perfection",
-          "description": "Complete a round with 100% accuracy in a game of Speed Builders"
+          "description": "Complete a round with 100% accuracy in a game of Speed Builders",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "STENOGRAPHER": {
           "points": 5,
@@ -3679,7 +3689,9 @@
         "ALL_KNOWING": {
           "points": 15,
           "name": "All Knowing",
-          "description": "Win a match of Guess the Build without guessing wrong once"
+          "description": "Win a match of Guess the Build without guessing wrong once",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FANCY": {
           "points": 5,
@@ -3699,7 +3711,9 @@
           "points": 20,
           "name": "Perfectceptionception",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SUPERIOR_VOTE": {
           "points": 5,
@@ -3711,17 +3725,23 @@
         "GRAND_SLAM": {
           "points": 15,
           "name": "Grand Slam",
-          "description": "Win a match in Solo Mode, Teams Mode, and Party Mode in 1 hour"
+          "description": "Win a match in Solo Mode, Teams Mode, and Pro Mode in 1 hour",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PERFECTLY_BALANCED": {
           "points": 10,
           "name": "Perfectly Balanced",
-          "description": "Win a match of Teams Mode with no teammate having placed more than 55% of the blocks"
+          "description": "Win a match of Teams Mode with no teammate having placed more than 55% of the blocks",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PERFECTCEPTION": {
           "points": 15,
           "name": "Perfectception",
-          "description": "Complete every round with 100% accuracy in a game of Speed Builders"
+          "description": "Complete every round with 100% accuracy in a game of Speed Builders",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         }
       },
       "tiered": {

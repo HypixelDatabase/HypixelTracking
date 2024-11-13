@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1731425875855,
+  "lastUpdated": 1731492036423,
   "quests": {
     "quake": [
       {
@@ -1840,7 +1840,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 9000
+            "amount": 3000
           },
           {
             "type": "WarlordsBrokenWeaponReward",
@@ -1870,7 +1870,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 9000
+            "amount": 3000
           },
           {
             "type": "WarlordsBrokenWeaponReward",
@@ -1900,7 +1900,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 9000
+            "amount": 3000
           },
           {
             "type": "WarlordsBrokenWeaponReward",
@@ -1930,7 +1930,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 9000
+            "amount": 3000
           },
           {
             "type": "WarlordsBrokenWeaponReward",
@@ -1960,7 +1960,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 9000
+            "amount": 3000
           },
           {
             "type": "WarlordsBrokenWeaponReward",
@@ -1991,7 +1991,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 30000
+            "amount": 10000
           },
           {
             "type": "WarlordsMagicDustReward",
@@ -2004,17 +2004,13 @@
           {
             "type": "WarlordsBrokenWeaponReward",
             "amount": 15
-          },
-          {
-            "type": "WarlordsLegendaryBrokenWeaponReward",
-            "amount": 1
           }
         ],
         "objectives": [
           {
             "id": "warlords_weekly_dedi",
             "type": "IntegerObjective",
-            "integer": 20
+            "integer": 30
           }
         ],
         "requirements": [
@@ -2022,7 +2018,7 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Complete 20 matches with at least 10 kills or assists in any game mode."
+        "description": "Complete 30 matches with at least 10 kills or assists in any game mode. "
       },
       {
         "id": "warlords_all_star",
@@ -2034,7 +2030,7 @@
           },
           {
             "type": "MultipliedCoinReward",
-            "amount": 30000
+            "amount": 10000
           },
           {
             "type": "WarlordsMagicDustReward",

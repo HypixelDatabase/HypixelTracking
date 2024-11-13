@@ -4504,7 +4504,10 @@
           "resetType": "",
           "mode": ""
         },
-        "legendary_broken_inventory": 0
+        "legendary_broken_inventory": 0,
+        "active_boost": {
+          "pyromancer": ""
+        }
       },
       "HungerGames": {
         "arachnologist": 0,

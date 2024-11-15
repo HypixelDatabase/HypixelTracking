@@ -4518,7 +4518,13 @@
           "aquamancer": "",
           "cryomancer": ""
         },
-        "first-discount-used": true
+        "first-discount-used": true,
+        "repair_salvage_rare": true,
+        "repair_salvage_common": true,
+        "repair_salvage_epic": true,
+        "wounding_strike_berserker": 0,
+        "blood_frenzy": 0,
+        "wounding_strike_defender": 0
       },
       "HungerGames": {
         "arachnologist": 0,

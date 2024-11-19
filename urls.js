@@ -16,6 +16,7 @@ module.exports = [
       '04cd3f240c7f42009b3398fba995c3a6', // Ealman
     ],
   },
+  /*
   {
     url: "https://api.hypixel.net/skyblock/profile?key=KEY&profile=VALUE",
     type: 'skyblock_profile',
@@ -47,6 +48,7 @@ module.exports = [
       return obj;
     },
   },
+  */
   {
     url: "https://api.hypixel.net/v2/skyblock/profile?key=KEY&profile=VALUE",
     type: 'skyblock_profile_v2',

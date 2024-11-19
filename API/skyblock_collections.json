@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1729001787961,
-  "version": "0.20.7.0",
+  "lastUpdated": 1732026636463,
+  "version": "0.20.8.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -552,6 +552,7 @@
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
+                "Enchanted Wheat Recipe",
                 "Enchanted Bread Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -568,7 +569,6 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Hay Bale Recipe",
                 "Small Agronomy Sack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -604,7 +604,7 @@
               "tier": 11,
               "amountRequired": 100000,
               "unlocks": [
-                "Tightly-Tied Hay Bale Recipe",
+                "Enchanted Hay Bale Recipe",
                 "Large Enchanted Agronomy Sack Recipe",
                 "+4 SkyBlock XP"
               ]

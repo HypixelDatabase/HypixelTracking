@@ -12728,7 +12728,9 @@
             "refined_dark_cacao_truffles": 0,
             "rabbit_hitmen": {
               "rabbit_hitmen_slots": 0,
-              "missed_uncollected_eggs": 0
+              "missed_uncollected_eggs": 0,
+              "egg_slot_cooldown_mark": 0,
+              "egg_slot_cooldown_sum": 0
             },
             "rabbit_hotspot_filer": ""
           }

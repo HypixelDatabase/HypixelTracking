@@ -26309,7 +26309,14 @@
         "heads_meh_kit_mythical_nether-lord": 0,
         "mobs_killed_kit_mythical_chronobreaker": 0,
         "heads_eww_kit_basic_solo_fisherman": 0,
-        "heads_divine_kit_basic_solo_ecologist": 0
+        "heads_divine_kit_basic_solo_ecologist": 0,
+        "arrows_hit_kit_mythical_cryomancer": 0,
+        "arrows_shot_kit_mythical_cryomancer": 0,
+        "fastest_win_kit_mythical_cryomancer": 0,
+        "games_kit_mythical_cryomancer": 0,
+        "killstreak_kit_mythical_cryomancer": 0,
+        "longest_bow_shot_kit_mythical_cryomancer": 0,
+        "wins_kit_mythical_cryomancer": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -38503,6 +38510,9 @@
             "progress": 0
           },
           "Doubledosage": {
+            "progress": 0
+          },
+          "Jobsearch": {
             "progress": 0
           }
         },

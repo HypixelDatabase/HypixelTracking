@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1730915575853,
+  "lastUpdated": 1733162469554,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -4161,6 +4161,11 @@
           "description": "Win a round of Workshop in Party Games",
           "globalPercentUnlocked": 1
         },
+        "KNEAD_NO_MORE": {
+          "points": 15,
+          "name": "Knead No More",
+          "description": "Bake 15 treats in one game of Baker's Bash in the Main Lobby"
+        },
         "NOT_MY_MOM": {
           "points": 5,
           "name": "You're not my mom",
@@ -4422,8 +4427,8 @@
             }
           ]
         },
-        "ADVENT_2023": {
-          "name": "Advent Calendar (2023)",
+        "ADVENT_2024": {
+          "name": "Advent Calendar (2024)",
           "description": "Claim %s days in the Advent Calendar",
           "tiers": [
             {
@@ -4543,6 +4548,69 @@
               "tier": 5,
               "points": 25,
               "amount": 300
+            }
+          ]
+        },
+        "PROTEGE": {
+          "name": "Protégé",
+          "description": "Bake %s treats in Baker's Bash in the Main Lobby",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 250
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 500
+            }
+          ]
+        },
+        "ADVENT_2023": {
+          "name": "Advent Calendar (2023)",
+          "description": "Claim %s days in the Advent Calendar",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 3
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 7
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 14
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 21
             }
           ]
         },
@@ -4771,8 +4839,8 @@
           ]
         }
       },
-      "total_points": 750,
-      "total_legacy_points": 690
+      "total_points": 840,
+      "total_legacy_points": 765
     },
     "copsandcrims": {
       "one_time": {

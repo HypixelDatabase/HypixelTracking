@@ -287,7 +287,8 @@
       "copsandcrims_promising_recruit": 0,
       "copsandcrims_assassin": 0,
       "buildbattle_speed_builders_perfectionist": 0,
-      "buildbattle_speed_builders_winner": 0
+      "buildbattle_speed_builders_winner": 0,
+      "christmas2017_advent_2024": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -50110,6 +50111,17 @@
             "day23": 0,
             "day24": 0,
             "day25": 0
+          }
+        },
+        "2024": {
+          "adventRewards": {
+            "day1": 0,
+            "day2": 0
+          },
+          "presents": {
+            "MAIN_LOBBY_3": true,
+            "MAIN_LOBBY_2": true,
+            "MAIN_LOBBY_1": true
           }
         }
       },

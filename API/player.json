@@ -2287,7 +2287,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "warlords_daily_win": true
+          },
           "started": 0
         }
       },

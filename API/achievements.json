@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1733252469558,
+  "lastUpdated": 1733329518765,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3998,12 +3998,6 @@
           "description": "Claim 2 legendary gifts at the same time in Bed Wars",
           "globalPercentUnlocked": 1
         },
-        "REAL_SANTA_2023": {
-          "points": 15,
-          "name": "Real Santa (2023)",
-          "description": "Find all 95 presents in every lobby",
-          "legacy": true
-        },
         "BOUNCY_CASTLE": {
           "points": 5,
           "name": "Bouncy Castle",
@@ -4014,18 +4008,6 @@
           "points": 5,
           "name": "Present Priorities",
           "description": "Win a game as Murderer after collecting at least 3 presents in Murder Mystery",
-          "globalPercentUnlocked": 1
-        },
-        "HUNT_BEGINS_2023": {
-          "points": 5,
-          "name": "The Hunt Begins (2023)",
-          "description": "Find 2 lobby presents",
-          "legacy": true
-        },
-        "VERY_MERRY_BINGO": {
-          "points": 20,
-          "name": "Very Merry Bingo",
-          "description": "Complete the Hard Bingo Card during a Holidays Event",
           "globalPercentUnlocked": 1
         },
         "HUNT_BEGINS_2024": {
@@ -4221,12 +4203,6 @@
           "description": "Punch a Frozen Zombie Pet in a lobby",
           "globalPercentUnlocked": 1
         },
-        "CHRISTMAS_TOPPER": {
-          "points": 5,
-          "name": "Marvelous Hat",
-          "description": "Win a Bed Wars Game with a Holiday island topper active",
-          "globalPercentUnlocked": 1
-        },
         "FRIENDLY_FIRE": {
           "points": 5,
           "name": "Friendly Fire",
@@ -4329,6 +4305,12 @@
           "description": "Find all 94 presents in every lobby",
           "legacy": true
         },
+        "CHRISTMAS_TOPPER": {
+          "points": 5,
+          "name": "Marvelous Hat",
+          "description": "Win a Bed Wars Game with a Holiday island topper active",
+          "legacy": true
+        },
         "REAL_SANTA_2021": {
           "points": 15,
           "name": "Real Santa (2021)",
@@ -4365,6 +4347,12 @@
           "description": "Find all 95 presents in every lobby",
           "legacy": true
         },
+        "REAL_SANTA_2023": {
+          "points": 15,
+          "name": "Real Santa (2023)",
+          "description": "Find all 95 presents in every lobby",
+          "legacy": true
+        },
         "REAL_SANTA_2018": {
           "points": 15,
           "name": "Real Santa (2018)",
@@ -4383,6 +4371,12 @@
           "description": "Find all 88 presents in every lobby",
           "legacy": true
         },
+        "HUNT_BEGINS_2023": {
+          "points": 5,
+          "name": "The Hunt Begins (2023)",
+          "description": "Find 2 lobby presents",
+          "legacy": true
+        },
         "HUNT_BEGINS_2022": {
           "points": 5,
           "name": "The Hunt Begins (2022)",
@@ -4399,6 +4393,12 @@
           "points": 5,
           "name": "Santa Helper",
           "description": "Bring the right items back to every special character in a single Bed Wars game",
+          "legacy": true
+        },
+        "VERY_MERRY_BINGO": {
+          "points": 20,
+          "name": "Very Merry Bingo",
+          "description": "Complete the Hard Bingo Card during a Holidays Event",
           "legacy": true
         },
         "HUNT_BEGINS_2018": {
@@ -4852,8 +4852,8 @@
           ]
         }
       },
-      "total_points": 860,
-      "total_legacy_points": 785
+      "total_points": 815,
+      "total_legacy_points": 810
     },
     "copsandcrims": {
       "one_time": {
@@ -6449,6 +6449,12 @@
           "description": "Login on Easter Sunday 2021",
           "legacy": true
         },
+        "SPRINGY_BINGO": {
+          "points": 20,
+          "name": "Springy Bingo",
+          "description": "Complete the Hard Bingo Card during a Easter Event",
+          "legacy": true
+        },
         "HAPPY_EASTER_2020": {
           "points": 5,
           "name": "Happy Easter (2020)",
@@ -6689,12 +6695,6 @@
           "description": "Catch a lily pad in the Main Lobby",
           "globalPercentUnlocked": 1
         },
-        "SPRINGY_BINGO": {
-          "points": 20,
-          "name": "Springy Bingo",
-          "description": "Complete the Hard Bingo Card during a Easter Event",
-          "globalPercentUnlocked": 1
-        },
         "BW_JUMP_BOOST": {
           "points": 5,
           "name": "Jumpstart Investment",
@@ -6827,8 +6827,8 @@
           ]
         }
       },
-      "total_points": 550,
-      "total_legacy_points": 150
+      "total_points": 530,
+      "total_legacy_points": 170
     },
     "general": {
       "one_time": {
@@ -7958,12 +7958,6 @@
           "description": "Speak to the Halloween Guide in the Main Lobby",
           "globalPercentUnlocked": 1
         },
-        "SPOOKTACULAR_BINGO": {
-          "points": 20,
-          "name": "Spooktacular Bingo",
-          "description": "Complete the Hard Bingo Card during a Halloween Event",
-          "globalPercentUnlocked": 1
-        },
         "TBR_FOREST_FRIGHT_FAST": {
           "points": 10,
           "name": "Forest Fright Great Time",
@@ -8180,6 +8174,12 @@
           "description": "Complete Clock Tower Trip in Turbo Bat Racers",
           "legacy": true
         },
+        "SPOOKTACULAR_BINGO": {
+          "points": 20,
+          "name": "Spooktacular Bingo",
+          "description": "Complete the Hard Bingo Card during a Halloween Event",
+          "legacy": true
+        },
         "TBR_MIDTOWN_TRIP_1_20": {
           "points": 10,
           "name": "Midtown Trip Great Time",
@@ -8375,8 +8375,8 @@
           ]
         }
       },
-      "total_points": 685,
-      "total_legacy_points": 415
+      "total_points": 665,
+      "total_legacy_points": 435
     },
     "housing": {
       "one_time": {
@@ -14699,7 +14699,7 @@
           "points": 20,
           "name": "Relaxing Bingo",
           "description": "Complete the Hard Bingo Card during a Summer Event",
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "OASIS_JAKE": {
           "points": 5,
@@ -14976,8 +14976,8 @@
           ]
         }
       },
-      "total_points": 365,
-      "total_legacy_points": 200
+      "total_points": 345,
+      "total_legacy_points": 220
     },
     "supersmash": {
       "one_time": {

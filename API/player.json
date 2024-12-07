@@ -3073,7 +3073,8 @@
           "victory_dance_rooted",
           "projectile_trail_sparkler",
           "deep_ocean_pixel_party_pants",
-          "pumpkin_wall"
+          "pumpkin_wall",
+          "movement_trail_frosty"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -8073,7 +8074,10 @@
           "beam_easter",
           "thunder",
           "snowhat",
-          "forestedhat"
+          "forestedhat",
+          "muzzle.frosted",
+          "shatter",
+          "sight.glacial"
         ],
         "sight": "",
         "trigger": "",
@@ -19666,7 +19670,14 @@
           "sprays_comfy_web",
           "sprays_pumpkin_pals",
           "cage_frankenstein",
-          "cage_crystal_ball"
+          "cage_crystal_ball",
+          "cage_elf",
+          "sprays_angelic_jerry",
+          "sprays_casual_christmas",
+          "sprays_family_photo_christmas",
+          "sprays_turkey_day",
+          "cage_holiday_bell",
+          "cage_snowball"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -34686,7 +34697,18 @@
           "sprays_comfy_web",
           "islandtopper_witch",
           "islandtopper_cyclops",
-          "islandtopper_owl"
+          "islandtopper_owl",
+          "glyph_bauble",
+          "glyph_pilgrim_hat",
+          "glyph_festive_bell",
+          "sprays_casual_christmas",
+          "sprays_turkey_day",
+          "sprays_family_photo_christmas",
+          "sprays_angelic_jerry",
+          "npcskin_ice_queen",
+          "islandtopper_penguin_stack",
+          "islandtopper_roast_turkey",
+          "islandtopper_hot_cocoa"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -36494,7 +36516,12 @@
           "deathcry_up_in_flames",
           "knife_skin_campfire_leftovers",
           "gravestone_unsubtle",
-          "gravestone_warrior"
+          "gravestone_warrior",
+          "gravestone_frozen_skeleton",
+          "kill_note_angelic_jerry",
+          "kill_note_turkey_day",
+          "kill_note_casual_christmas",
+          "kill_note_family_photo_christmas"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -40826,7 +40853,8 @@
           "backdrops_tropical_sands",
           "backdrops_cozy",
           "victory_dance_rooted",
-          "island_hourglass"
+          "island_hourglass",
+          "movement_trail_frosty"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -43123,7 +43151,8 @@
         "gadget_tournament_banner_tnt_run_1",
         "gadget_levitation_gun",
         "pet_specter",
-        "pet_enderman_pumpkin"
+        "pet_enderman_pumpkin",
+        "pet_enderman_snow_block"
       ]
     },
     "vanityTokens": 0,
@@ -45226,7 +45255,12 @@
         "furniture_pumpkin_dresser",
         "furniture_pumpkin_bed",
         "furniture_pumpkin_armchair",
-        "furniture_pumpkin_tv"
+        "furniture_pumpkin_tv",
+        "furniture_gingerbread_bed",
+        "furniture_extra_large_nutcracker",
+        "furniture_candy_cane_chair",
+        "furniture_candy_cane_table",
+        "furniture_yule_log"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",

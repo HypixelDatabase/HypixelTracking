@@ -7998,6 +7998,116 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "rift_accessory_7": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_eye_7": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_find_shen": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_balloons": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_close_breach": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_eleanor_0": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_eleanor_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_eleanor_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_eleanor_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_eleanor_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_flowerpot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_ikrus": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_leap_of_faith": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_phantom": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_sungecko_perks": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_ubik_averages": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_ubik_boxes": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_ubik_tats": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_unlock_timite": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_walk_of_fame_wall": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_mountain_wizardman_trials": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "rift_reverse_murder_part_two": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "collection": {
@@ -9581,7 +9691,9 @@
             "gaia_construct_140": 0,
             "creeper_1": 0,
             "pest_mouse": 0,
-            "pest_mouse_1": 0
+            "pest_mouse_1": 0,
+            "puff": 0,
+            "sun_gecko": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -10946,7 +11058,10 @@
             "trade_center",
             "carnival",
             "artist_abode",
-            "rabbit_house"
+            "rabbit_house",
+            "rift_time_chamber",
+            "rift_mountain",
+            "continuum"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [

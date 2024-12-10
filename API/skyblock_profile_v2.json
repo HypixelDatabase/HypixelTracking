@@ -8255,7 +8255,8 @@
           "ENCHANTED_COBBLESTONE": 0,
           "HEMOGLASS": 0,
           "ENCHANTED_REDSTONE": 0,
-          "ENCHANTED_COAL": 0
+          "ENCHANTED_COAL": 0,
+          "TIMITE": 0
         },
         "player_stats": {
           "deaths": {
@@ -10827,7 +10828,11 @@
             "UMBER_9",
             "TUNGSTEN_9",
             "LEATHER_11",
-            "GOLD_INGOT_10"
+            "GOLD_INGOT_10",
+            "TIMITE_-1",
+            "TIMITE_1",
+            "TIMITE_3",
+            "TIMITE_2"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -11061,7 +11066,11 @@
             "rabbit_house",
             "rift_time_chamber",
             "rift_mountain",
-            "continuum"
+            "continuum",
+            "wof_mirrorverse",
+            "wizardman_race_trial_grounds",
+            "time_torn_isles",
+            "walk_of_fame"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -12157,7 +12166,8 @@
           "village_plaza": {
             "murder": {
               "step_index": 0,
-              "room_clues": []
+              "room_clues": [],
+              "step_index_pt2": 0
             },
             "barry_center": {
               "first_talk_to_barry": true,

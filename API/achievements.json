@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1733329518765,
+  "lastUpdated": 1733840704752,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10891,7 +10891,7 @@
         "BAITED": {
           "points": 5,
           "name": "Baited",
-          "description": "Obtain the Bait Ring",
+          "description": "Craft a Bait Ring",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11171,6 +11171,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "TRAGEDY_REVERSED": {
+          "points": 5,
+          "name": "Tragedy reversed",
+          "description": "???",
+          "secret": true
+        },
         "ROYAL_RESIDENT_DIALOGUE": {
           "points": 15,
           "name": "Royal Conversation",
@@ -11276,6 +11282,12 @@
           "description": "Fish 2 treasures at once using the blessing enchant",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "HASTA_LA_VISTA": {
+          "points": 15,
+          "name": "Hasta la vista!",
+          "description": "???",
+          "secret": true
         },
         "NEXT_LEVEL": {
           "points": 10,
@@ -11390,6 +11402,12 @@
           "description": "[Co-op or you] Upgrade a minion with the Super Compactor 3000",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ZOOP": {
+          "points": 5,
+          "name": "Zoop!",
+          "description": "???",
+          "secret": true
         },
         "ARCADIA": {
           "points": 5,
@@ -11591,6 +11609,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "GENIUS": {
+          "points": 10,
+          "name": "Genius",
+          "description": "???",
+          "secret": true
+        },
         "PRODUCTION_EXPANDED": {
           "points": 5,
           "name": "Production Expanded",
@@ -11626,6 +11650,12 @@
           "description": "Obtain the King's Talisman",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "WATCHFUL_PRESENCE": {
+          "points": 10,
+          "name": "The ultimate scheme",
+          "description": "???",
+          "secret": true
         },
         "FLAMIN_HOT": {
           "points": 5,
@@ -11691,6 +11721,12 @@
           "description": "Have Wizardman decide not to help you",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "NOT_THE_EXIT": {
+          "points": 5,
+          "name": "That's... not the exit...",
+          "description": "???",
+          "secret": true
         },
         "ANIMAL_FISHING": {
           "points": 5,
@@ -11826,6 +11862,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "MAXIMUM_POWER": {
+          "points": 15,
+          "name": "Maximum Power",
+          "description": "???",
+          "secret": true
+        },
         "MULTIDIMENSIONAL_SLAYER": {
           "points": 15,
           "name": "Multi-Dimensional Slayer",
@@ -11909,7 +11951,7 @@
         "NIGHT_EYES": {
           "points": 5,
           "name": "Night Eyes",
-          "description": "Obtain the Night Vision charm",
+          "description": "Craft a Night Vision charm",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11926,6 +11968,12 @@
           "description": "Grapple 5 blazes at once",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "RETURN_FROM_BREACH": {
+          "points": 10,
+          "name": "The first to have ever done it",
+          "description": "???",
+          "secret": true
         },
         "THE_ONE_BOTTLE": {
           "points": 5,
@@ -11961,6 +12009,12 @@
           "description": "Kill a Bat Piñata",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "DEFEAT_SUN_GECKO": {
+          "points": 5,
+          "name": "\"If you wish to defeat me...\"",
+          "description": "???",
+          "secret": true
         },
         "DOJO_MASTER": {
           "points": 5,
@@ -12273,6 +12327,12 @@
           "description": "Secure a Timecharm in the Rift Gallery",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "WIZARD_FOOD_CHAIN": {
+          "points": 10,
+          "name": "Top of the Wizard food chain",
+          "description": "???",
+          "secret": true
         },
         "SIX_STAR_MEAL": {
           "points": 5,
@@ -12942,7 +13002,7 @@
           ]
         }
       },
-      "total_points": 2835,
+      "total_points": 2925,
       "total_legacy_points": 0
     },
     "skyclash": {

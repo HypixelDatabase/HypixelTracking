@@ -10714,7 +10714,8 @@
             "GLACITE_9",
             "UMBER_9",
             "TUNGSTEN_9",
-            "LEATHER_11"
+            "LEATHER_11",
+            "GOLD_INGOT_10"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -12185,7 +12186,8 @@
               "rift_server_joins": 0,
               "from_refund": true,
               "used_prism": true
-            }
+            },
+            "charge_track_timestamp": 0
           },
           "dreadfarm": {
             "shania_stage": 0,

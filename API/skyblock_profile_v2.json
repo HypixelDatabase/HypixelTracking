@@ -11070,7 +11070,8 @@
             "wof_mirrorverse",
             "wizardman_race_trial_grounds",
             "time_torn_isles",
-            "walk_of_fame"
+            "walk_of_fame",
+            "roses_end"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -12167,7 +12168,8 @@
             "murder": {
               "step_index": 0,
               "room_clues": [],
-              "step_index_pt2": 0
+              "step_index_pt2": 0,
+              "step_index_pt3": 0
             },
             "barry_center": {
               "first_talk_to_barry": true,

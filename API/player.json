@@ -1416,7 +1416,8 @@
         "active": {
           "objectives": {
             "cvc_play_weekly_2": 0,
-            "cvc_play_weekly": 0
+            "cvc_play_weekly": 0,
+            "cvc_play_weekly_3": 0
           },
           "started": 0
         }
@@ -2951,7 +2952,9 @@
       },
       "cvc_play_daily_gungame": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "cvc_play_daily_gungame": 0
+          },
           "started": 0
         }
       }

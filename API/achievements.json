@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1734099304727,
+  "lastUpdated": 1736893221468,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -735,7 +735,7 @@
       "tiered": {
         "HITW_PRACTICE_MAKES_PERFECT": {
           "name": "Hole in the Wall: Practice Makes Perfect",
-          "description": "Obtain a total score of %s in Hole in the Wall Qualifying & Finals",
+          "description": "Obtain a total score of %%value%% in Hole in the Wall Qualifying & Finals",
           "tiers": [
             {
               "tier": 1,
@@ -766,7 +766,7 @@
         },
         "DW_SLAYER": {
           "name": "Dragon Wars: Slayer",
-          "description": "Get %s kills in Dragon Wars",
+          "description": "Get %%value%% kills in Dragon Wars",
           "tiers": [
             {
               "tier": 1,
@@ -797,7 +797,7 @@
         },
         "HIDE_AND_SEEK_HIDER_KILLS": {
           "name": "Hide and Seek: Master Seeker",
-          "description": "Kill %s hiders as a seeker in Party Pooper",
+          "description": "Kill %%value%% hiders as a seeker in Party Pooper",
           "tiers": [
             {
               "tier": 1,
@@ -828,7 +828,7 @@
         },
         "TEAM_WORK": {
           "name": "Creeper Attack: Team Work",
-          "description": "Reach wave %s in Creeper Attack",
+          "description": "Reach wave %%value%% in Creeper Attack",
           "tiers": [
             {
               "tier": 1,
@@ -859,7 +859,7 @@
         },
         "ENDER_SPLEEF_POWERUPS": {
           "name": "Ender Spleef: Unmatched Power",
-          "description": "Activate %s Powerups in Ender Spleef",
+          "description": "Activate %%value%% Powerups in Ender Spleef",
           "tiers": [
             {
               "tier": 1,
@@ -890,7 +890,7 @@
         },
         "HIDE_AND_SEEK_MASTER_HIDER": {
           "name": "Hide and Seek: Master Hider",
-          "description": "Complete %s Objectives as Hider in \"Hide and Seek: Party Pooper\"",
+          "description": "Complete %%value%% Objectives as Hider in \"Hide and Seek: Party Pooper\"",
           "tiers": [
             {
               "tier": 1,
@@ -921,7 +921,7 @@
         },
         "ENDER_SPLEEF_BLOCK_STEALER": {
           "name": "Ender Spleef: Block Stealer",
-          "description": "Destroy %s Blocks in Ender Spleef",
+          "description": "Destroy %%value%% Blocks in Ender Spleef",
           "tiers": [
             {
               "tier": 1,
@@ -952,7 +952,7 @@
         },
         "ZOMBIES_HIGH_ROUND": {
           "name": "Zombies: Alien Arcadium Rounds",
-          "description": "Get to round %s in Alien Arcadium",
+          "description": "Get to round %%value%% in Alien Arcadium",
           "tiers": [
             {
               "tier": 1,
@@ -983,7 +983,7 @@
         },
         "GALAXY_WARS_KILLS": {
           "name": "Galaxy Wars: Galactic Warrior",
-          "description": "Kill %s Players in Galaxy Wars",
+          "description": "Kill %%value%% Players in Galaxy Wars",
           "tiers": [
             {
               "tier": 1,
@@ -1014,7 +1014,7 @@
         },
         "FOOTBALL_PRO": {
           "name": "Football: Football Pro",
-          "description": "Score %s Goals in Football",
+          "description": "Score %%value%% Goals in Football",
           "tiers": [
             {
               "tier": 1,
@@ -1045,7 +1045,7 @@
         },
         "FARMHUNT_DOMINATOR": {
           "name": "Farm Hunt: Farm Domination",
-          "description": "Win %s games of Farm Hunt as an Animal",
+          "description": "Win %%value%% games of Farm Hunt as an Animal",
           "tiers": [
             {
               "tier": 1,
@@ -1076,7 +1076,7 @@
         },
         "ZOMBIES_NICE_SHOT": {
           "name": "Zombies: Nice Shot",
-          "description": "Get %s zombie kills",
+          "description": "Get %%value%% zombie kills",
           "tiers": [
             {
               "tier": 1,
@@ -1107,7 +1107,7 @@
         },
         "DROPPER_SKYDIVER": {
           "name": "Dropper: Skydiver",
-          "description": "Complete %s games of Dropper",
+          "description": "Complete %%value%% games of Dropper",
           "tiers": [
             {
               "tier": 1,
@@ -1138,7 +1138,7 @@
         },
         "ZOMBIE_KILLER": {
           "name": "Blocking Dead: Zombie Killer",
-          "description": "Kill %s Zombies in the Blocking Dead",
+          "description": "Kill %%value%% Zombies in the Blocking Dead",
           "tiers": [
             {
               "tier": 1,
@@ -1169,7 +1169,7 @@
         },
         "PARTY_SUPER_STAR": {
           "name": "Party Games: Super Star",
-          "description": "Earn %s stars in Party Games",
+          "description": "Earn %%value%% stars in Party Games",
           "tiers": [
             {
               "tier": 1,
@@ -1200,7 +1200,7 @@
         },
         "ZOMBIES_ROUND_PROGRESSION": {
           "name": "Zombies: Is that all you got?!",
-          "description": "Make it past Round %s in Zombies",
+          "description": "Make it past Round %%value%% in Zombies",
           "tiers": [
             {
               "tier": 1,
@@ -1231,7 +1231,7 @@
         },
         "ARCADE_BANKER": {
           "name": "General: Arcade Banker",
-          "description": "Earn %s coins in Arcade",
+          "description": "Earn %%value%% coins in Arcade",
           "tiers": [
             {
               "tier": 1,
@@ -1262,7 +1262,7 @@
         },
         "PIXEL_PARTY_COLOR_COORDINATED": {
           "name": "Pixel Party: Color Coordinated",
-          "description": "Survive %s rounds in Pixel Party",
+          "description": "Survive %%value%% rounds in Pixel Party",
           "tiers": [
             {
               "tier": 1,
@@ -1293,7 +1293,7 @@
         },
         "DROPPER_FLAWLESS_FALLER": {
           "name": "Dropper: Flawless Faller",
-          "description": "Complete %s flawless games of Dropper",
+          "description": "Complete %%value%% flawless games of Dropper",
           "tiers": [
             {
               "tier": 1,
@@ -1324,7 +1324,7 @@
         },
         "PIXEL_PARTY_POWERED_UP": {
           "name": "Pixel Party: Powered Up",
-          "description": "Collect %s Power-Ups in Pixel Party Normal Mode",
+          "description": "Collect %%value%% Power-Ups in Pixel Party Normal Mode",
           "tiers": [
             {
               "tier": 1,
@@ -1355,7 +1355,7 @@
         },
         "DW_DRAGONBORN": {
           "name": "Dragon Wars: Dragonborn",
-          "description": "Mount a Dragon %s times in Dragon Wars",
+          "description": "Mount a Dragon %%value%% times in Dragon Wars",
           "tiers": [
             {
               "tier": 1,
@@ -1386,7 +1386,7 @@
         },
         "MINIWALLS_WINNER": {
           "name": "Mini Walls: Winner",
-          "description": "Win %s games of Mini Walls",
+          "description": "Win %%value%% games of Mini Walls",
           "tiers": [
             {
               "tier": 1,
@@ -1417,7 +1417,7 @@
         },
         "BOUNTY_HUNTER": {
           "name": "Bounty Hunters: Kills",
-          "description": "Kill %s players in Bounty Hunters",
+          "description": "Kill %%value%% players in Bounty Hunters",
           "tiers": [
             {
               "tier": 1,
@@ -1448,7 +1448,7 @@
         },
         "ARCADE_WINNER": {
           "name": "General: Arcade Winner",
-          "description": "Win %s Arcade games",
+          "description": "Win %%value%% Arcade games",
           "tiers": [
             {
               "tier": 1,
@@ -1479,7 +1479,7 @@
         },
         "THROW_OUT_KILLS": {
           "name": "Throw Out: Professional Yeeter",
-          "description": "Kill %s Players in Throw Out",
+          "description": "Kill %%value%% Players in Throw Out",
           "tiers": [
             {
               "tier": 1,
@@ -1770,7 +1770,7 @@
       "tiered": {
         "POWERUP": {
           "name": "Powerup!",
-          "description": "Activate %s powerups",
+          "description": "Activate %%value%% powerups",
           "tiers": [
             {
               "tier": 1,
@@ -1801,7 +1801,7 @@
         },
         "BOSSED": {
           "name": "Bossed",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -1832,7 +1832,7 @@
         },
         "GOTTA_WEAR_EM_ALL": {
           "name": "Gotta Wear 'Em All",
-          "description": "Collect %s hats",
+          "description": "Collect %%value%% hats",
           "tiers": [
             {
               "tier": 1,
@@ -1863,7 +1863,7 @@
         },
         "MAGICAL_BOX": {
           "name": "Magical Box",
-          "description": "Use the Magical Box %s times",
+          "description": "Use the Magical Box %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -1894,7 +1894,7 @@
         },
         "GLADIATOR": {
           "name": "Gladiator",
-          "description": "Win %s times",
+          "description": "Win %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -1925,7 +1925,7 @@
         },
         "CLIMB_THE_RANKS": {
           "name": "Climb the Ranks",
-          "description": "Reach %s rating",
+          "description": "Reach %%value%% rating",
           "tiers": [
             {
               "tier": 1,
@@ -2304,7 +2304,7 @@
       "tiered": {
         "COLLECTORS_EDITION": {
           "name": "Collectors Edition",
-          "description": "Collect %s wool from enemy teams",
+          "description": "Collect %%value%% wool from enemy teams",
           "tiers": [
             {
               "tier": 1,
@@ -2335,7 +2335,7 @@
         },
         "BEDWARS_KILLER": {
           "name": "Bed Wars Killer",
-          "description": "Get %s final kills",
+          "description": "Get %%value%% final kills",
           "tiers": [
             {
               "tier": 1,
@@ -2366,7 +2366,7 @@
         },
         "LEVEL": {
           "name": "Road to Prestige",
-          "description": "Reach %s Bed Wars Level",
+          "description": "Reach %%value%% Bed Wars Level",
           "tiers": [
             {
               "tier": 1,
@@ -2397,7 +2397,7 @@
         },
         "WINS": {
           "name": "Victory Dancer",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -2428,7 +2428,7 @@
         },
         "SLUMBER_TICKET_MASTER": {
           "name": "Dream Catcher",
-          "description": "Obtain %s Slumber Tickets",
+          "description": "Obtain %%value%% Slumber Tickets",
           "tiers": [
             {
               "tier": 1,
@@ -2454,7 +2454,7 @@
         },
         "BEDS": {
           "name": "Bed Removal",
-          "description": "Destroy %s Beds",
+          "description": "Destroy %%value%% Beds",
           "tiers": [
             {
               "tier": 1,
@@ -2485,7 +2485,7 @@
         },
         "LOOT_BOX": {
           "name": "Crate Looter",
-          "description": "Open %s Loot Chests",
+          "description": "Open %%value%% Loot Chests",
           "legacy": true,
           "tiers": [
             {
@@ -2517,7 +2517,7 @@
         },
         "BEDWARS_CHALLENGER": {
           "name": "True Challenger",
-          "description": "Complete %s Challenges",
+          "description": "Complete %%value%% Challenges",
           "tiers": [
             {
               "tier": 1,
@@ -3011,7 +3011,7 @@
       "tiered": {
         "KIT_COLLECTOR": {
           "name": "Kit Collector",
-          "description": "Unlock %s Advanced or Ultimate kits",
+          "description": "Unlock %%value%% Advanced or Ultimate kits",
           "tiers": [
             {
               "tier": 1,
@@ -3042,7 +3042,7 @@
         },
         "DISRESPECT": {
           "name": "DISRESPECT.",
-          "description": "Get %s Taunt Kills",
+          "description": "Get %%value%% Taunt Kills",
           "tiers": [
             {
               "tier": 1,
@@ -3073,7 +3073,7 @@
         },
         "KIT_EXPERT": {
           "name": "Kit Expert",
-          "description": "Kill %s players using a single kit",
+          "description": "Kill %%value%% players using a single kit",
           "tiers": [
             {
               "tier": 1,
@@ -3104,7 +3104,7 @@
         },
         "RNG_MASTER": {
           "name": "RNG Master",
-          "description": "Win %s games using the random kit option",
+          "description": "Win %%value%% games using the random kit option",
           "tiers": [
             {
               "tier": 1,
@@ -3135,7 +3135,7 @@
         },
         "MASTER_OF_KITS": {
           "name": "Master of Kits",
-          "description": "Win %s games using a single kit",
+          "description": "Win %%value%% games using a single kit",
           "tiers": [
             {
               "tier": 1,
@@ -3166,7 +3166,7 @@
         },
         "WAR_VETERAN": {
           "name": "War Veteran",
-          "description": "Win a game with the Rambo Kit %s times",
+          "description": "Win a game with the Rambo Kit %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -3197,7 +3197,7 @@
         },
         "KILLS": {
           "name": "Blitz Slayer",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -3228,7 +3228,7 @@
         },
         "RANGED_COMBAT": {
           "name": "Ranged Combat",
-          "description": "Kill %s players using a bow and arrow",
+          "description": "Kill %%value%% players using a bow and arrow",
           "tiers": [
             {
               "tier": 1,
@@ -3259,7 +3259,7 @@
         },
         "COINS": {
           "name": "Blitz Banker",
-          "description": "Earn %s coins in Blitz",
+          "description": "Earn %%value%% coins in Blitz",
           "tiers": [
             {
               "tier": 1,
@@ -3290,7 +3290,7 @@
         },
         "LOOTER": {
           "name": "Looter",
-          "description": "Open a total of %s Chests",
+          "description": "Open a total of %%value%% Chests",
           "tiers": [
             {
               "tier": 1,
@@ -3321,7 +3321,7 @@
         },
         "FIGHTING_EXPERT": {
           "name": "Fighting Expert",
-          "description": "Kill %s players using a sword or axe",
+          "description": "Kill %%value%% players using a sword or axe",
           "tiers": [
             {
               "tier": 1,
@@ -3352,7 +3352,7 @@
         },
         "TREASURE_SEEKER": {
           "name": "Treasure Seeker",
-          "description": "Find the Blitz Star %s times",
+          "description": "Find the Blitz Star %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -3383,7 +3383,7 @@
         },
         "KIT_EXPERIENCE_COLLECTOR": {
           "name": "Kit Experience Collector",
-          "description": "Collect %s Ultimate Kit Experience",
+          "description": "Collect %%value%% Ultimate Kit Experience",
           "tiers": [
             {
               "tier": 1,
@@ -3414,7 +3414,7 @@
         },
         "MOB_MASTER": {
           "name": "Mob Master",
-          "description": "Spawn %s mobs",
+          "description": "Spawn %%value%% mobs",
           "tiers": [
             {
               "tier": 1,
@@ -3445,7 +3445,7 @@
         },
         "WINS": {
           "name": "One Man Army",
-          "description": "Win %s solo games",
+          "description": "Win %%value%% solo games",
           "tiers": [
             {
               "tier": 1,
@@ -3476,7 +3476,7 @@
         },
         "WINS_TEAMS": {
           "name": "Two Man Army",
-          "description": "Win %s team games",
+          "description": "Win %%value%% team games",
           "tiers": [
             {
               "tier": 1,
@@ -3747,7 +3747,7 @@
       "tiered": {
         "BUILD_BATTLE_VOTER": {
           "name": "Judge",
-          "description": "Vote on %s builds in Build Battle",
+          "description": "Vote on %%value%% builds in Build Battle",
           "tiers": [
             {
               "tier": 1,
@@ -3778,7 +3778,7 @@
         },
         "SPEED_BUILDERS_PERFECTIONIST": {
           "name": "Perfectionist",
-          "description": "Complete %s rounds in Speed Builders with 100%% accuracy",
+          "description": "Complete %%value%% rounds in Speed Builders with 100% accuracy",
           "tiers": [
             {
               "tier": 1,
@@ -3809,7 +3809,7 @@
         },
         "GUESS_THE_BUILD_GUESSES": {
           "name": "No luck, just skill",
-          "description": "Guess %s themes correctly in Guess the Build",
+          "description": "Guess %%value%% themes correctly in Guess the Build",
           "tiers": [
             {
               "tier": 1,
@@ -3840,7 +3840,7 @@
         },
         "BUILD_BATTLE_POINTS": {
           "name": "Build Battle Points",
-          "description": "Earn %s points in a Build Battle game",
+          "description": "Earn %%value%% points in a Build Battle game",
           "tiers": [
             {
               "tier": 1,
@@ -3871,7 +3871,7 @@
         },
         "GUESS_THE_BUILD_WINNER": {
           "name": "Guess the Build Winner",
-          "description": "Win %s games of Guess the Build",
+          "description": "Win %%value%% games of Guess the Build",
           "tiers": [
             {
               "tier": 1,
@@ -3902,7 +3902,7 @@
         },
         "BUILD_BATTLE_SCORE": {
           "name": "Skilled Progress",
-          "description": "Earn %s score in Build Battle",
+          "description": "Earn %%value%% score in Build Battle",
           "tiers": [
             {
               "tier": 1,
@@ -3933,7 +3933,7 @@
         },
         "SPEED_BUILDERS_WINNER": {
           "name": "Speed Builders Winner",
-          "description": "Win %s games of Speed Builders",
+          "description": "Win %%value%% games of Speed Builders",
           "tiers": [
             {
               "tier": 1,
@@ -4411,7 +4411,7 @@
       "tiered": {
         "BEST_PRESENTS": {
           "name": "Best Presents",
-          "description": "Win %s games of Grinch Simulator",
+          "description": "Win %%value%% games of Grinch Simulator",
           "tiers": [
             {
               "tier": 1,
@@ -4442,7 +4442,7 @@
         },
         "ADVENT_2024": {
           "name": "Advent Calendar (2024)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "tiers": [
             {
               "tier": 1,
@@ -4473,7 +4473,7 @@
         },
         "PRESENT_COLLECTOR": {
           "name": "Present Collector",
-          "description": "Give in %s presents in Bed Wars",
+          "description": "Give in %%value%% presents in Bed Wars",
           "tiers": [
             {
               "tier": 1,
@@ -4504,7 +4504,7 @@
         },
         "SANTA_SAYS_ROUNDS": {
           "name": "Santa Says Winner",
-          "description": "Complete %s tasks in Santa Says",
+          "description": "Complete %%value%% tasks in Santa Says",
           "tiers": [
             {
               "tier": 1,
@@ -4535,7 +4535,7 @@
         },
         "NO_CHRISTMAS": {
           "name": "No Christmas For You",
-          "description": "Pick up %s presents in Grinch Simulator",
+          "description": "Pick up %%value%% presents in Grinch Simulator",
           "tiers": [
             {
               "tier": 1,
@@ -4566,7 +4566,7 @@
         },
         "PROTEGE": {
           "name": "Protégé",
-          "description": "Bake %s treats in Baker's Bash in the Main Lobby",
+          "description": "Bake %%value%% treats in Baker's Bash in the Main Lobby",
           "tiers": [
             {
               "tier": 1,
@@ -4597,7 +4597,7 @@
         },
         "ADVENT_2023": {
           "name": "Advent Calendar (2023)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -4629,7 +4629,7 @@
         },
         "ADVENT_2022": {
           "name": "Advent Calendar (2022)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -4661,7 +4661,7 @@
         },
         "ADVENT_2021": {
           "name": "Advent Calendar (2021)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -4693,7 +4693,7 @@
         },
         "SECRET_SANTA": {
           "name": "Secret Santa",
-          "description": "Fill %s stockings in Santa Simulator",
+          "description": "Fill %%value%% stockings in Santa Simulator",
           "legacy": true,
           "tiers": [
             {
@@ -4725,7 +4725,7 @@
         },
         "ADVENT_2020": {
           "name": "Advent Calendar (2020)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -4757,7 +4757,7 @@
         },
         "ADVENT_2019": {
           "name": "Advent Calendar (2019)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -4789,7 +4789,7 @@
         },
         "ADVENT": {
           "name": "Advent Calendar (2017)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -4821,7 +4821,7 @@
         },
         "ADVENT_2018": {
           "name": "Advent Calendar (2018)",
-          "description": "Claim %s days in the Advent Calendar",
+          "description": "Claim %%value%% days in the Advent Calendar",
           "legacy": true,
           "tiers": [
             {
@@ -5265,7 +5265,7 @@
       "tiered": {
         "ANY_GUN_ANY_TIME": {
           "name": "Any Gun Any Time",
-          "description": "Win %s games of Gun Game",
+          "description": "Win %%value%% games of Gun Game",
           "tiers": [
             {
               "tier": 1,
@@ -5296,7 +5296,7 @@
         },
         "ASSASSIN": {
           "name": "Assassin",
-          "description": "Get %s Knife kills",
+          "description": "Get %%value%% Knife kills",
           "tiers": [
             {
               "tier": 1,
@@ -5327,7 +5327,7 @@
         },
         "CAC_BANKER": {
           "name": "Bounty Collector",
-          "description": "Earn %s Coins",
+          "description": "Earn %%value%% Coins",
           "tiers": [
             {
               "tier": 1,
@@ -5358,7 +5358,7 @@
         },
         "BOMB_SPECIALIST": {
           "name": "Bomb Specialist",
-          "description": "Defuse or Plant %s bombs.",
+          "description": "Defuse or Plant %%value%% bombs.",
           "tiers": [
             {
               "tier": 1,
@@ -5389,7 +5389,7 @@
         },
         "PRACTICE_MAKES_PERFECT": {
           "name": "Practice Makes Perfect",
-          "description": "Kill %s mobs in the Shooting Range",
+          "description": "Kill %%value%% mobs in the Shooting Range",
           "tiers": [
             {
               "tier": 1,
@@ -5415,7 +5415,7 @@
         },
         "SERIAL_KILLER": {
           "name": "War Hero",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -5446,7 +5446,7 @@
         },
         "HEADSHOT_KILLS": {
           "name": "In Your Face",
-          "description": "Get %s headshot kills",
+          "description": "Get %%value%% headshot kills",
           "tiers": [
             {
               "tier": 1,
@@ -5477,7 +5477,7 @@
         },
         "GRENADE_KILLS": {
           "name": "Trigger-less",
-          "description": "Get %s grenade kills",
+          "description": "Get %%value%% grenade kills",
           "tiers": [
             {
               "tier": 1,
@@ -5508,7 +5508,7 @@
         },
         "PROMISING_RECRUIT": {
           "name": "Promising Recruit",
-          "description": "Reach Cops and Crims Level %s",
+          "description": "Reach Cops and Crims Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -5539,7 +5539,7 @@
         },
         "HERO_TERRORIST": {
           "name": "Warfare",
-          "description": "Win %s Games",
+          "description": "Win %%value%% Games",
           "tiers": [
             {
               "tier": 1,
@@ -5937,7 +5937,7 @@
       "tiered": {
         "DUELS_DIVISION": {
           "name": "Climbing the Ranks",
-          "description": "Achieve %s Title in any mode",
+          "description": "Achieve %%value%% Title in any mode",
           "tiers": [
             {
               "tier": 1,
@@ -5968,7 +5968,7 @@
         },
         "BRIDGE_FOUR_TEAMS_WINS": {
           "name": "Four Teams Winner",
-          "description": "Win %s games in Four Teams modes",
+          "description": "Win %%value%% games in Four Teams modes",
           "tiers": [
             {
               "tier": 1,
@@ -5999,7 +5999,7 @@
         },
         "DUELS_WINNER": {
           "name": "Duels Winner",
-          "description": "Win %s Duels",
+          "description": "Win %%value%% Duels",
           "tiers": [
             {
               "tier": 1,
@@ -6030,7 +6030,7 @@
         },
         "DUELS_WIN_STREAK": {
           "name": "Duels Win Streak",
-          "description": "Achieve an Overall Win Streak of %s",
+          "description": "Achieve an Overall Win Streak of %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -6061,7 +6061,7 @@
         },
         "DUELS_MASTERY": {
           "name": "Duels Mastery",
-          "description": "Unlock a Division Title in %s different modes",
+          "description": "Unlock a Division Title in %%value%% different modes",
           "tiers": [
             {
               "tier": 1,
@@ -6092,7 +6092,7 @@
         },
         "BRIDGE_WINS": {
           "name": "The Bridge Winner",
-          "description": "Win %s games of The Bridge",
+          "description": "Win %%value%% games of The Bridge",
           "tiers": [
             {
               "tier": 1,
@@ -6123,7 +6123,7 @@
         },
         "BRIDGE_DOUBLES_WINS": {
           "name": "The Bridge Doubles Winner",
-          "description": "Win %s games of The Bridge Doubles",
+          "description": "Win %%value%% games of The Bridge Doubles",
           "tiers": [
             {
               "tier": 1,
@@ -6154,7 +6154,7 @@
         },
         "GOALS": {
           "name": "The Bridge Scorer",
-          "description": "Score %s goals in The Bridge",
+          "description": "Score %%value%% goals in The Bridge",
           "tiers": [
             {
               "tier": 1,
@@ -6185,7 +6185,7 @@
         },
         "BRIDGE_TEAMS_WINS": {
           "name": "The Bridge Teams Winner",
-          "description": "Win %s games of The Bridge Teams",
+          "description": "Win %%value%% games of The Bridge Teams",
           "tiers": [
             {
               "tier": 1,
@@ -6216,7 +6216,7 @@
         },
         "DUELS_TRAVELLER": {
           "name": "Traveller",
-          "description": "Win a Duel on %s different maps",
+          "description": "Win a Duel on %%value%% different maps",
           "tiers": [
             {
               "tier": 1,
@@ -6247,7 +6247,7 @@
         },
         "ARENA_MASTERY": {
           "name": "Well Practiced",
-          "description": "Win %s rounds in Arena 1 in the Duel Arena",
+          "description": "Win %%value%% rounds in Arena 1 in the Duel Arena",
           "tiers": [
             {
               "tier": 1,
@@ -6278,7 +6278,7 @@
         },
         "BRIDGE_WIN_STREAK": {
           "name": "The Bridge Streak",
-          "description": "Get a win streak of %s in The Bridge",
+          "description": "Get a win streak of %%value%% in The Bridge",
           "tiers": [
             {
               "tier": 1,
@@ -6309,7 +6309,7 @@
         },
         "BRIDGE_DUELS_WINS": {
           "name": "The Bridge Duel Winner",
-          "description": "Win %s The Bridge Duels",
+          "description": "Win %%value%% The Bridge Duels",
           "tiers": [
             {
               "tier": 1,
@@ -6340,7 +6340,7 @@
         },
         "UNIQUE_MAP_WINS": {
           "name": "The Bridge Conqueror",
-          "description": "Win The Bridge games on %s unique maps",
+          "description": "Win The Bridge games on %%value%% unique maps",
           "tiers": [
             {
               "tier": 1,
@@ -6371,7 +6371,7 @@
         },
         "DUELS_TROPHIES": {
           "name": "Duels Trophies",
-          "description": "Obtain %s Trophies by winning Duels Tournaments",
+          "description": "Obtain %%value%% Trophies by winning Duels Tournaments",
           "legacy": true,
           "tiers": [
             {
@@ -6735,7 +6735,7 @@
       "tiered": {
         "THROW_EGGS": {
           "name": "Egg Thrower",
-          "description": "Throw %s eggs",
+          "description": "Throw %%value%% eggs",
           "tiers": [
             {
               "tier": 1,
@@ -6766,7 +6766,7 @@
         },
         "MASTER_TRACKER": {
           "name": "Master Tracker",
-          "description": "Win %s games of Easter Simulator",
+          "description": "Win %%value%% games of Easter Simulator",
           "tiers": [
             {
               "tier": 1,
@@ -6797,7 +6797,7 @@
         },
         "EGG_FINDER": {
           "name": "Egg Finder",
-          "description": "Find %s eggs in Easter Simulator",
+          "description": "Find %%value%% eggs in Easter Simulator",
           "tiers": [
             {
               "tier": 1,
@@ -7045,7 +7045,7 @@
       "tiered": {
         "LUCKIEST_OF_THE_SEA": {
           "name": "Main Lobby: Luckiest of the Sea",
-          "description": "Catch %s treasure items in the Main Lobby",
+          "description": "Catch %%value%% treasure items in the Main Lobby",
           "tiers": [
             {
               "tier": 1,
@@ -7076,7 +7076,7 @@
         },
         "TRASHIEST_DIVER": {
           "name": "Main Lobby: Trashiest Diver",
-          "description": "Catch %s junk items in the Main Lobby",
+          "description": "Catch %%value%% junk items in the Main Lobby",
           "tiers": [
             {
               "tier": 1,
@@ -7107,7 +7107,7 @@
         },
         "CHALLENGER": {
           "name": "Challenger",
-          "description": "Complete a total of %s challenges",
+          "description": "Complete a total of %%value%% challenges",
           "tiers": [
             {
               "tier": 1,
@@ -7138,7 +7138,7 @@
         },
         "COINS": {
           "name": "Ultimate Banker",
-          "description": "Earn a total of %s coins",
+          "description": "Earn a total of %%value%% coins",
           "tiers": [
             {
               "tier": 1,
@@ -7169,7 +7169,7 @@
         },
         "QUEST_MASTER": {
           "name": "Quest Master",
-          "description": "Complete a total of %s quests",
+          "description": "Complete a total of %%value%% quests",
           "tiers": [
             {
               "tier": 1,
@@ -7200,7 +7200,7 @@
         },
         "WINS": {
           "name": "Well Rounded!",
-          "description": "Win %s minigames",
+          "description": "Win %%value%% minigames",
           "tiers": [
             {
               "tier": 1,
@@ -7231,7 +7231,7 @@
         },
         "MASTER_LURE": {
           "name": "Main Lobby: Master Lure",
-          "description": "Catch %s fish in the Main Lobby",
+          "description": "Catch %%value%% fish in the Main Lobby",
           "tiers": [
             {
               "tier": 1,
@@ -7529,7 +7529,7 @@
       "tiered": {
         "WINNER": {
           "name": "Medalist",
-          "description": "Get %s trophies",
+          "description": "Get %%value%% trophies",
           "tiers": [
             {
               "tier": 1,
@@ -7560,7 +7560,7 @@
         },
         "BANKER": {
           "name": "TKR Banker",
-          "description": "Earn %s coins",
+          "description": "Earn %%value%% coins",
           "tiers": [
             {
               "tier": 1,
@@ -7591,7 +7591,7 @@
         },
         "RACER": {
           "name": "Racer",
-          "description": "Complete %s races",
+          "description": "Complete %%value%% races",
           "tiers": [
             {
               "tier": 1,
@@ -7622,7 +7622,7 @@
         },
         "MYSTERY": {
           "name": "Mystery",
-          "description": "Pickup %s item boxes",
+          "description": "Pickup %%value%% item boxes",
           "tiers": [
             {
               "tier": 1,
@@ -8220,7 +8220,7 @@
       "tiered": {
         "PUMPKINATOR": {
           "name": "Pumpkinator Collector",
-          "description": "Collect %s pumpkins in Bed Wars",
+          "description": "Collect %%value%% pumpkins in Bed Wars",
           "tiers": [
             {
               "tier": 1,
@@ -8251,7 +8251,7 @@
         },
         "PUMPKIN_SMASHER": {
           "name": "Pumpkin Smasher",
-          "description": "Smash %s pumpkins in Pumpkin Smash",
+          "description": "Smash %%value%% pumpkins in Pumpkin Smash",
           "tiers": [
             {
               "tier": 1,
@@ -8282,7 +8282,7 @@
         },
         "BRAVE_THE_DARK": {
           "name": "Brave the Dark",
-          "description": "Win %s games of Halloween Simulator",
+          "description": "Win %%value%% games of Halloween Simulator",
           "tiers": [
             {
               "tier": 1,
@@ -8313,7 +8313,7 @@
         },
         "CANDY_HOARDER": {
           "name": "Candy Hoarder",
-          "description": "Collect %s candy in Halloween Simulator",
+          "description": "Collect %%value%% candy in Halloween Simulator",
           "tiers": [
             {
               "tier": 1,
@@ -8344,7 +8344,7 @@
         },
         "GET_THEM_APPLES": {
           "name": "Get Them Apples",
-          "description": "Score %s points in Apple Bobbing",
+          "description": "Score %%value%% points in Apple Bobbing",
           "legacy": true,
           "tiers": [
             {
@@ -8888,7 +8888,7 @@
       "tiered": {
         "COUNTERMEASURES": {
           "name": "Countermeasures",
-          "description": "Get %s Hero wins in Classic or Double Up!",
+          "description": "Get %%value%% Hero wins in Classic or Double Up!",
           "tiers": [
             {
               "tier": 1,
@@ -8919,7 +8919,7 @@
         },
         "HITMAN": {
           "name": "Hitman",
-          "description": "Kill %s players in Assassins",
+          "description": "Kill %%value%% players in Assassins",
           "tiers": [
             {
               "tier": 1,
@@ -8950,7 +8950,7 @@
         },
         "WINS_AS_SURVIVOR": {
           "name": "Peace is Mine",
-          "description": "Win %s games as Innocent or Detective without dying",
+          "description": "Win %%value%% games as Innocent or Detective without dying",
           "tiers": [
             {
               "tier": 1,
@@ -8981,7 +8981,7 @@
         },
         "KILLS_AS_MURDERER": {
           "name": "Stabber",
-          "description": "Kill %s survivors as Murderer",
+          "description": "Kill %%value%% survivors as Murderer",
           "tiers": [
             {
               "tier": 1,
@@ -9012,7 +9012,7 @@
         },
         "WINS_AS_MURDERER": {
           "name": "You're All Mine",
-          "description": "Win %s games as Murderer",
+          "description": "Win %%value%% games as Murderer",
           "tiers": [
             {
               "tier": 1,
@@ -9043,7 +9043,7 @@
         },
         "BRAINIAC": {
           "name": "Brainiac",
-          "description": "Infect %s Survivors in Infection",
+          "description": "Infect %%value%% Survivors in Infection",
           "tiers": [
             {
               "tier": 1,
@@ -9074,7 +9074,7 @@
         },
         "HOARDER": {
           "name": "Hoarder",
-          "description": "Gather a total of %s Gold",
+          "description": "Gather a total of %%value%% Gold",
           "tiers": [
             {
               "tier": 1,
@@ -9105,7 +9105,7 @@
         },
         "SURVIVAL_SKILLS": {
           "name": "Survival Skills",
-          "description": "Win %s games as Survivor in Infection",
+          "description": "Win %%value%% games as Survivor in Infection",
           "tiers": [
             {
               "tier": 1,
@@ -9382,7 +9382,7 @@
       "tiered": {
         "WINS": {
           "name": "Paintball Superstar",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -9413,7 +9413,7 @@
         },
         "HAT_COLLECTOR": {
           "name": "Hat Collector",
-          "description": "Collect %s hats",
+          "description": "Collect %%value%% hats",
           "tiers": [
             {
               "tier": 1,
@@ -9434,7 +9434,7 @@
         },
         "INVINCIBLE": {
           "name": "Invincible",
-          "description": "Spend %s seconds in a Forcefield",
+          "description": "Spend %%value%% seconds in a Forcefield",
           "tiers": [
             {
               "tier": 1,
@@ -9465,7 +9465,7 @@
         },
         "KILL_STREAKS": {
           "name": "Kill Streaks",
-          "description": "Activate %s killstreaks",
+          "description": "Activate %%value%% killstreaks",
           "tiers": [
             {
               "tier": 1,
@@ -9496,7 +9496,7 @@
         },
         "COINS": {
           "name": "Paintball Banker",
-          "description": "Earn %s coins in Paintball",
+          "description": "Earn %%value%% coins in Paintball",
           "tiers": [
             {
               "tier": 1,
@@ -9527,7 +9527,7 @@
         },
         "KILLS": {
           "name": "Painter",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -10000,7 +10000,7 @@
       "tiered": {
         "MYSTICISM": {
           "name": "Mysticism",
-          "description": "Enchant %s items",
+          "description": "Enchant %%value%% items",
           "tiers": [
             {
               "tier": 1,
@@ -10031,7 +10031,7 @@
         },
         "KILLS": {
           "name": "Kills",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -10062,7 +10062,7 @@
         },
         "PRESTIGES": {
           "name": "Prestige",
-          "description": "Prestige %s times",
+          "description": "Prestige %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -10093,7 +10093,7 @@
         },
         "CONTRACTS": {
           "name": "Contracts",
-          "description": "Complete %s contracts",
+          "description": "Complete %%value%% contracts",
           "tiers": [
             {
               "tier": 1,
@@ -10124,7 +10124,7 @@
         },
         "RENOWN": {
           "name": "Renown",
-          "description": "Earn %s renown",
+          "description": "Earn %%value%% renown",
           "tiers": [
             {
               "tier": 1,
@@ -10155,7 +10155,7 @@
         },
         "GOLD": {
           "name": "Gold",
-          "description": "Earn %s total gold",
+          "description": "Earn %%value%% total gold",
           "tiers": [
             {
               "tier": 1,
@@ -10186,7 +10186,7 @@
         },
         "EVENTS": {
           "name": "Events",
-          "description": "Participate in %s major events",
+          "description": "Participate in %%value%% major events",
           "tiers": [
             {
               "tier": 1,
@@ -10624,7 +10624,7 @@
       "tiered": {
         "COINS": {
           "name": "Quake Banker",
-          "description": "Earn %s coins",
+          "description": "Earn %%value%% coins",
           "tiers": [
             {
               "tier": 1,
@@ -10655,7 +10655,7 @@
         },
         "HEADSHOTS": {
           "name": "Accuracy",
-          "description": "Get %s headshots",
+          "description": "Get %%value%% headshots",
           "tiers": [
             {
               "tier": 1,
@@ -10686,7 +10686,7 @@
         },
         "WINS": {
           "name": "Winner",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -10717,7 +10717,7 @@
         },
         "WEAPON_ARSENAL": {
           "name": "Weapon Arsenal",
-          "description": "Win a game with %s different guns",
+          "description": "Win a game with %%value%% different guns",
           "tiers": [
             {
               "tier": 1,
@@ -10748,7 +10748,7 @@
         },
         "KILLING_SPREES": {
           "name": "Killing Spree Madness",
-          "description": "Get %s killing sprees",
+          "description": "Get %%value%% killing sprees",
           "tiers": [
             {
               "tier": 1,
@@ -10779,7 +10779,7 @@
         },
         "GODLIKES": {
           "name": "God walking among mere mortals",
-          "description": "Get %s godlikes",
+          "description": "Get %%value%% godlikes",
           "tiers": [
             {
               "tier": 1,
@@ -10810,7 +10810,7 @@
         },
         "KILLS": {
           "name": "MLG",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -12372,7 +12372,7 @@
       "tiered": {
         "ANGLER": {
           "name": "Angler",
-          "description": "Achieve fishing level %s",
+          "description": "Achieve fishing level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12403,7 +12403,7 @@
         },
         "TREASURE_HUNTER": {
           "name": "Treasure Hunter",
-          "description": "Find %s Secrets in dungeons",
+          "description": "Find %%value%% Secrets in dungeons",
           "tiers": [
             {
               "tier": 1,
@@ -12434,7 +12434,7 @@
         },
         "EXCAVATOR": {
           "name": "Excavator",
-          "description": "Achieve mining level %s",
+          "description": "Achieve mining level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12465,7 +12465,7 @@
         },
         "DUNGEONEER": {
           "name": "Dungeoneer",
-          "description": "Reach level %s of any Dungeon Class",
+          "description": "Reach level %%value%% of any Dungeon Class",
           "tiers": [
             {
               "tier": 1,
@@ -12496,7 +12496,7 @@
         },
         "HARVESTER": {
           "name": "Harvester",
-          "description": "Achieve farming level %s",
+          "description": "Achieve farming level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12527,7 +12527,7 @@
         },
         "CONCOCTOR": {
           "name": "Concoctor",
-          "description": "Achieve alchemy level %s",
+          "description": "Achieve alchemy level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12558,7 +12558,7 @@
         },
         "CURATOR": {
           "name": "Curator",
-          "description": "Donate %s items to the Museum",
+          "description": "Donate %%value%% items to the Museum",
           "tiers": [
             {
               "tier": 1,
@@ -12589,7 +12589,7 @@
         },
         "DOMESTICATOR": {
           "name": "Domesticator",
-          "description": "Achieve taming level %s",
+          "description": "Achieve taming level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12620,7 +12620,7 @@
         },
         "PEOPLE_PLEASER": {
           "name": "People Pleaser",
-          "description": "Serve %s Total Visitors in The Garden",
+          "description": "Serve %%value%% Total Visitors in The Garden",
           "tiers": [
             {
               "tier": 1,
@@ -12651,7 +12651,7 @@
         },
         "COMBAT": {
           "name": "Combat!",
-          "description": "Achieve combat level %s",
+          "description": "Achieve combat level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12682,7 +12682,7 @@
         },
         "CRYSTAL_NUCLEUS": {
           "name": "Crystal Nucleus",
-          "description": "Complete the Crystal Nucleus %s times",
+          "description": "Complete the Crystal Nucleus %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -12713,7 +12713,7 @@
         },
         "AUGMENTATION": {
           "name": "Augmentation",
-          "description": "Achieve enchanting level %s",
+          "description": "Achieve enchanting level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12744,7 +12744,7 @@
         },
         "GATHERER": {
           "name": "Gatherer",
-          "description": "Achieve foraging level %s",
+          "description": "Achieve foraging level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12775,7 +12775,7 @@
         },
         "GOBLIN_KILLER": {
           "name": "Goblin Killer",
-          "description": "Kill %s Golden Goblins",
+          "description": "Kill %%value%% Golden Goblins",
           "tiers": [
             {
               "tier": 1,
@@ -12806,7 +12806,7 @@
         },
         "TREASURY": {
           "name": "Treasury",
-          "description": "Unlock %s Collections",
+          "description": "Unlock %%value%% Collections",
           "tiers": [
             {
               "tier": 1,
@@ -12837,7 +12837,7 @@
         },
         "SLAYER": {
           "name": "Slayer",
-          "description": "Get %sk Slayer exp",
+          "description": "Get %%value%%k Slayer exp",
           "tiers": [
             {
               "tier": 1,
@@ -12868,7 +12868,7 @@
         },
         "UNIQUE_GIFTS": {
           "name": "Festive Altruist",
-          "description": "Give gifts to %s different players",
+          "description": "Give gifts to %%value%% different players",
           "tiers": [
             {
               "tier": 1,
@@ -12899,7 +12899,7 @@
         },
         "SB_LEVELS": {
           "name": "Climbing the Ranks",
-          "description": "Reach SkyBlock Level %s",
+          "description": "Reach SkyBlock Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12930,7 +12930,7 @@
         },
         "DIVANS_TREASURES": {
           "name": "Divan's Treasures",
-          "description": "Find treasures in the Mines of Divan %s times",
+          "description": "Find treasures in the Mines of Divan %%value%% times",
           "tiers": [
             {
               "tier": 1,
@@ -12961,7 +12961,7 @@
         },
         "MINION_LOVER": {
           "name": "Minion Lover",
-          "description": "[Co-op or you] Craft %s unique minions",
+          "description": "[Co-op or you] Craft %%value%% unique minions",
           "tiers": [
             {
               "tier": 1,
@@ -12992,7 +12992,7 @@
         },
         "HARD_WORKING_MINER": {
           "name": "Hard Working Miner",
-          "description": "Complete %s commissions",
+          "description": "Complete %%value%% commissions",
           "tiers": [
             {
               "tier": 1,
@@ -13271,7 +13271,7 @@
       "tiered": {
         "CARDS_UNLOCKED": {
           "name": "Collector!",
-          "description": "Unlock %s different Cards",
+          "description": "Unlock %%value%% different Cards",
           "legacy": true,
           "tiers": [
             {
@@ -13293,7 +13293,7 @@
         },
         "PACKS_OPENED": {
           "name": "Hoarder!",
-          "description": "Open %s Card Packs",
+          "description": "Open %%value%% Card Packs",
           "legacy": true,
           "tiers": [
             {
@@ -13325,7 +13325,7 @@
         },
         "WINS": {
           "name": "Clashing",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "legacy": true,
           "tiers": [
             {
@@ -13357,7 +13357,7 @@
         },
         "KILLS": {
           "name": "SkyClash Killer",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "legacy": true,
           "tiers": [
             {
@@ -13389,7 +13389,7 @@
         },
         "TREASURE_HUNTER": {
           "name": "Treasure Hunter",
-          "description": "Open a total of %s Ender Chests",
+          "description": "Open a total of %%value%% Ender Chests",
           "legacy": true,
           "tiers": [
             {
@@ -13421,7 +13421,7 @@
         },
         "MOB_BEHEADING": {
           "name": "Mob Beheading",
-          "description": "Kill a total of %s mobs",
+          "description": "Kill a total of %%value%% mobs",
           "legacy": true,
           "tiers": [
             {
@@ -13902,7 +13902,7 @@
       "tiered": {
         "KILLS_TEAM": {
           "name": "Team Killer",
-          "description": "Kill %s players in Team mode",
+          "description": "Kill %%value%% players in Team mode",
           "tiers": [
             {
               "tier": 1,
@@ -13933,7 +13933,7 @@
         },
         "KILLS_SOLO": {
           "name": "Solo Killer",
-          "description": "Kill %s players in Solo mode",
+          "description": "Kill %%value%% players in Solo mode",
           "tiers": [
             {
               "tier": 1,
@@ -13964,7 +13964,7 @@
         },
         "KITS_TEAM": {
           "name": "Kit Hoarder (Insane)",
-          "description": "Unlock %s Insane kits",
+          "description": "Unlock %%value%% Insane kits",
           "tiers": [
             {
               "tier": 1,
@@ -13990,7 +13990,7 @@
         },
         "KITS_SOLO": {
           "name": "Kit Hoarder (Normal)",
-          "description": "Unlock %s Normal kits",
+          "description": "Unlock %%value%% Normal kits",
           "tiers": [
             {
               "tier": 1,
@@ -14016,7 +14016,7 @@
         },
         "KITS_MEGA": {
           "name": "Kit Hoarder (Mega)",
-          "description": "Unlock %s Mega kits",
+          "description": "Unlock %%value%% Mega kits",
           "tiers": [
             {
               "tier": 1,
@@ -14037,7 +14037,7 @@
         },
         "OPAL_OBSESSION": {
           "name": "Opal Obsession",
-          "description": "Earn %s Opals",
+          "description": "Earn %%value%% Opals",
           "tiers": [
             {
               "tier": 1,
@@ -14068,7 +14068,7 @@
         },
         "WINS_TEAM": {
           "name": "Team Winner",
-          "description": "Win %s games in Team mode",
+          "description": "Win %%value%% games in Team mode",
           "tiers": [
             {
               "tier": 1,
@@ -14099,7 +14099,7 @@
         },
         "WINS_LAB": {
           "name": "Scientist",
-          "description": "Win %s games in any Lab modes",
+          "description": "Win %%value%% games in any Lab modes",
           "tiers": [
             {
               "tier": 1,
@@ -14130,7 +14130,7 @@
         },
         "WINS_SOLO": {
           "name": "Solo Winner",
-          "description": "Win %s games in Solo mode",
+          "description": "Win %%value%% games in Solo mode",
           "tiers": [
             {
               "tier": 1,
@@ -14161,7 +14161,7 @@
         },
         "WINS_MEGA": {
           "name": "Mega Winner",
-          "description": "Win %s games in Mega mode",
+          "description": "Win %%value%% games in Mega mode",
           "tiers": [
             {
               "tier": 1,
@@ -14192,7 +14192,7 @@
         },
         "CAGES": {
           "name": "Cage Hoarder",
-          "description": "Unlock %s cages",
+          "description": "Unlock %%value%% cages",
           "tiers": [
             {
               "tier": 1,
@@ -14223,7 +14223,7 @@
         },
         "NEW_DAY_NEW_CHALLENGE": {
           "name": "New Day, New Challenge",
-          "description": "Complete %s in-game challenges",
+          "description": "Complete %%value%% in-game challenges",
           "tiers": [
             {
               "tier": 1,
@@ -14254,7 +14254,7 @@
         },
         "KILLS_MEGA": {
           "name": "Mega Killer",
-          "description": "Kill %s players in Mega mode",
+          "description": "Kill %%value%% players in Mega mode",
           "tiers": [
             {
               "tier": 1,
@@ -14285,7 +14285,7 @@
         },
         "TONIC_TAKER": {
           "name": "Tonic Taker",
-          "description": "Brew %s times in the Angel's Brewery",
+          "description": "Brew %%value%% times in the Angel's Brewery",
           "tiers": [
             {
               "tier": 1,
@@ -14316,7 +14316,7 @@
         },
         "HEADS": {
           "name": "Head Hoarder",
-          "description": "Gather %s Heads",
+          "description": "Gather %%value%% Heads",
           "tiers": [
             {
               "tier": 1,
@@ -14347,7 +14347,7 @@
         },
         "YOU_RE_A_STAR": {
           "name": "You're a Star",
-          "description": "Reach SkyWars level %s",
+          "description": "Reach SkyWars level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -14566,7 +14566,7 @@
       "tiered": {
         "SALTY": {
           "name": "Salty",
-          "description": "Collect %s Salt",
+          "description": "Collect %%value%% Salt",
           "legacy": true,
           "tiers": [
             {
@@ -14598,7 +14598,7 @@
         },
         "HUNTER": {
           "name": "Hunter",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -14629,7 +14629,7 @@
         },
         "COLLECTOR": {
           "name": "Collector",
-          "description": "Unlock %s Perk tiers",
+          "description": "Unlock %%value%% Perk tiers",
           "tiers": [
             {
               "tier": 1,
@@ -14660,7 +14660,7 @@
         },
         "PROMOTION": {
           "name": "Promotion",
-          "description": "Reach %s Score",
+          "description": "Reach %%value%% Score",
           "tiers": [
             {
               "tier": 1,
@@ -14691,7 +14691,7 @@
         },
         "UHC_MASTER": {
           "name": "UHC Master",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -14941,7 +14941,7 @@
       "tiered": {
         "GONE_FISHING": {
           "name": "Gone Fishing",
-          "description": "Catch %s treasure items in the Main Lobby",
+          "description": "Catch %%value%% treasure items in the Main Lobby",
           "tiers": [
             {
               "tier": 1,
@@ -14962,7 +14962,7 @@
         },
         "TREASURE_HOARDER": {
           "name": "Treasure Hoarder",
-          "description": "Score %s points in Scuba Simulator",
+          "description": "Score %%value%% points in Scuba Simulator",
           "legacy": true,
           "tiers": [
             {
@@ -14994,7 +14994,7 @@
         },
         "TREASURE_MASTER": {
           "name": "Treasure Master",
-          "description": "Win %s games of Scuba Simulator",
+          "description": "Win %%value%% games of Scuba Simulator",
           "legacy": true,
           "tiers": [
             {
@@ -15026,7 +15026,7 @@
         },
         "SHOPAHOLIC": {
           "name": "Shopaholic!",
-          "description": "Buy %s items in Bed Wars",
+          "description": "Buy %%value%% items in Bed Wars",
           "tiers": [
             {
               "tier": 1,
@@ -15254,7 +15254,7 @@
       "tiered": {
         "SMASH_CHAMPION": {
           "name": "Smash Champion",
-          "description": "Reach Smash Level %s",
+          "description": "Reach Smash Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -15285,7 +15285,7 @@
         },
         "SMASH_WINNER": {
           "name": "Smashing!",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -15316,7 +15316,7 @@
         },
         "HERO_SLAYER": {
           "name": "Hero Slayer",
-          "description": "Kill %s enemy heroes",
+          "description": "Kill %%value%% enemy heroes",
           "tiers": [
             {
               "tier": 1,
@@ -15347,7 +15347,7 @@
         },
         "HANDYMAN": {
           "name": "Handyman",
-          "description": "Purchase and unlock %s Heroes",
+          "description": "Purchase and unlock %%value%% Heroes",
           "tiers": [
             {
               "tier": 1,
@@ -16040,7 +16040,7 @@
       "tiered": {
         "PVP_RUN_WINS": {
           "name": "Running Killer",
-          "description": "Win %s games of PVP Run",
+          "description": "Win %%value%% games of PVP Run",
           "tiers": [
             {
               "tier": 1,
@@ -16071,7 +16071,7 @@
         },
         "TNT_TRIATHLON": {
           "name": "Triathlon",
-          "description": "Play TNT Games for %s minutes",
+          "description": "Play TNT Games for %%value%% minutes",
           "tiers": [
             {
               "tier": 1,
@@ -16102,7 +16102,7 @@
         },
         "TNT_RUN_WINS": {
           "name": "Marathon",
-          "description": "Win %s games of TNT Run",
+          "description": "Win %%value%% games of TNT Run",
           "tiers": [
             {
               "tier": 1,
@@ -16133,7 +16133,7 @@
         },
         "CLINIC": {
           "name": "Clinic",
-          "description": "Tag %s players in TNT Tag",
+          "description": "Tag %%value%% players in TNT Tag",
           "tiers": [
             {
               "tier": 1,
@@ -16164,7 +16164,7 @@
         },
         "BLOCK_RUNNER": {
           "name": "Block Runner",
-          "description": "Walk over %s blocks in TNT Run",
+          "description": "Walk over %%value%% blocks in TNT Run",
           "tiers": [
             {
               "tier": 1,
@@ -16195,7 +16195,7 @@
         },
         "TNT_TAG_WINS": {
           "name": "Tag! Tag! Tag!",
-          "description": "Place top 3 in %s games of TNT Tag",
+          "description": "Place top 3 in %%value%% games of TNT Tag",
           "tiers": [
             {
               "tier": 1,
@@ -16226,7 +16226,7 @@
         },
         "PVP_RUN_KILLER": {
           "name": "Killer",
-          "description": "Kill %s players in PVP Run",
+          "description": "Kill %%value%% players in PVP Run",
           "tiers": [
             {
               "tier": 1,
@@ -16257,7 +16257,7 @@
         },
         "TNT_BANKER": {
           "name": "Banker",
-          "description": "Earn %s tokens in TNT Games",
+          "description": "Earn %%value%% tokens in TNT Games",
           "tiers": [
             {
               "tier": 1,
@@ -16288,7 +16288,7 @@
         },
         "THE_UPPER_HAND": {
           "name": "The Upper Hand",
-          "description": "Collect %s powerups in TNT Tag.",
+          "description": "Collect %%value%% powerups in TNT Tag.",
           "tiers": [
             {
               "tier": 1,
@@ -16319,7 +16319,7 @@
         },
         "TNT_WIZARDS_CAPS": {
           "name": "Conquistador",
-          "description": "Help capture %s points in TNT Wizards",
+          "description": "Help capture %%value%% points in TNT Wizards",
           "tiers": [
             {
               "tier": 1,
@@ -16350,7 +16350,7 @@
         },
         "BOW_SPLEEF_WINS": {
           "name": "Archery",
-          "description": "Win %s games of Bow Spleef",
+          "description": "Win %%value%% games of Bow Spleef",
           "tiers": [
             {
               "tier": 1,
@@ -16381,7 +16381,7 @@
         },
         "WIZARDS_WINS": {
           "name": "Sorcery",
-          "description": "Win %s games of Wizards",
+          "description": "Win %%value%% games of Wizards",
           "tiers": [
             {
               "tier": 1,
@@ -16412,7 +16412,7 @@
         },
         "TNT_WIZARDS_KILLS": {
           "name": "Kill Reaping",
-          "description": "Get %s kills in TNT Wizards",
+          "description": "Get %%value%% kills in TNT Wizards",
           "tiers": [
             {
               "tier": 1,
@@ -16443,7 +16443,7 @@
         },
         "POWER_HUNGRY": {
           "name": "Power Hungry",
-          "description": "Collect %s power orbs in TNT Wizards.",
+          "description": "Collect %%value%% power orbs in TNT Wizards.",
           "tiers": [
             {
               "tier": 1,
@@ -16692,7 +16692,7 @@
       "tiered": {
         "SOLO_KILLER": {
           "name": "Crazy Killer",
-          "description": "Kill %s players in Solo Normal or Lucky modes",
+          "description": "Kill %%value%% players in Solo Normal or Lucky modes",
           "legacy": true,
           "tiers": [
             {
@@ -16724,7 +16724,7 @@
         },
         "KIT_HOARDER_SOLO": {
           "name": "Kit Hoarder (Solo)",
-          "description": "Unlock %s Solo Kits",
+          "description": "Unlock %%value%% Solo Kits",
           "legacy": true,
           "tiers": [
             {
@@ -16746,7 +16746,7 @@
         },
         "SOLO_WINNER": {
           "name": "Maniac",
-          "description": "Win %s games of Solo Normal or Lucky modes",
+          "description": "Win %%value%% games of Solo Normal or Lucky modes",
           "legacy": true,
           "tiers": [
             {
@@ -16778,7 +16778,7 @@
         },
         "FEELS_LUCKY": {
           "name": "Feels Lucky Man",
-          "description": "Open a total of %s villager lucky blocks",
+          "description": "Open a total of %%value%% villager lucky blocks",
           "legacy": true,
           "tiers": [
             {
@@ -16810,7 +16810,7 @@
         },
         "KING": {
           "name": "King",
-          "description": "Collect %s golden skulls",
+          "description": "Collect %%value%% golden skulls",
           "legacy": true,
           "tiers": [
             {
@@ -16842,7 +16842,7 @@
         },
         "KIT_HOARDER_TEAM": {
           "name": "Kit Hoarder (Team)",
-          "description": "Unlock %s Team Kits",
+          "description": "Unlock %%value%% Team Kits",
           "legacy": true,
           "tiers": [
             {
@@ -16864,7 +16864,7 @@
         },
         "TEAM_WINNER": {
           "name": "Crazy Teamwork",
-          "description": "Win %s games of Team Normal or Lucky modes",
+          "description": "Win %%value%% games of Team Normal or Lucky modes",
           "legacy": true,
           "tiers": [
             {
@@ -16896,7 +16896,7 @@
         },
         "TEAM_KILLER": {
           "name": "Team Butcher",
-          "description": "Kill %s players in Team Normal or Lucky modes",
+          "description": "Kill %%value%% players in Team Normal or Lucky modes",
           "legacy": true,
           "tiers": [
             {
@@ -17321,7 +17321,7 @@
       "tiered": {
         "HUNTER": {
           "name": "Hunter",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -17352,7 +17352,7 @@
         },
         "MOVING_UP": {
           "name": "Moving up in life",
-          "description": "Obtain %s Title",
+          "description": "Obtain %%value%% Title",
           "tiers": [
             {
               "tier": 1,
@@ -17383,7 +17383,7 @@
         },
         "CHAMPION": {
           "name": "Champion",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -17414,7 +17414,7 @@
         },
         "CONSUMER": {
           "name": "Head Hunter",
-          "description": "Eat %s heads in UHC",
+          "description": "Eat %%value%% heads in UHC",
           "tiers": [
             {
               "tier": 1,
@@ -17445,7 +17445,7 @@
         },
         "BOUNTY": {
           "name": "Bounty",
-          "description": "Earn %s coins",
+          "description": "Earn %%value%% coins",
           "tiers": [
             {
               "tier": 1,
@@ -17476,7 +17476,7 @@
         },
         "ULTIMATUM": {
           "name": "Ultimatum",
-          "description": "Craft %s Ultimates after Grace Period",
+          "description": "Craft %%value%% Ultimates after Grace Period",
           "tiers": [
             {
               "tier": 1,
@@ -17718,7 +17718,7 @@
       "tiered": {
         "ZOMBIE_KILLER": {
           "name": "Zombie Hunter",
-          "description": "Kill %s Zombies",
+          "description": "Kill %%value%% Zombies",
           "tiers": [
             {
               "tier": 1,
@@ -17749,7 +17749,7 @@
         },
         "COINS": {
           "name": "VampireZ Banker",
-          "description": "Earn %s coins in VampireZ",
+          "description": "Earn %%value%% coins in VampireZ",
           "tiers": [
             {
               "tier": 1,
@@ -17780,7 +17780,7 @@
         },
         "KILL_VAMPIRES": {
           "name": "Vampire Hunter",
-          "description": "Kill %s Vampires",
+          "description": "Kill %%value%% Vampires",
           "tiers": [
             {
               "tier": 1,
@@ -17811,7 +17811,7 @@
         },
         "KILL_SURVIVORS": {
           "name": "Blood Sucker",
-          "description": "Kill %s Survivors",
+          "description": "Kill %%value%% Survivors",
           "tiers": [
             {
               "tier": 1,
@@ -17842,7 +17842,7 @@
         },
         "SURVIVOR_WINS": {
           "name": "Survivor",
-          "description": "Win %s games as a Survivor",
+          "description": "Win %%value%% games as a Survivor",
           "tiers": [
             {
               "tier": 1,
@@ -18070,7 +18070,7 @@
       "tiered": {
         "DIAMOND_MINER": {
           "name": "Rare Ore Miner",
-          "description": "Mine %s Diamonds",
+          "description": "Mine %%value%% Diamonds",
           "tiers": [
             {
               "tier": 1,
@@ -18101,7 +18101,7 @@
         },
         "KILLS": {
           "name": "Walls Slayer",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -18132,7 +18132,7 @@
         },
         "COINS": {
           "name": "Walls Banker",
-          "description": "Earn %s coins in The Walls",
+          "description": "Earn %%value%% coins in The Walls",
           "tiers": [
             {
               "tier": 1,
@@ -18163,7 +18163,7 @@
         },
         "WINS": {
           "name": "Walls Warrior",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -19700,7 +19700,7 @@
       "tiered": {
         "COINS": {
           "name": "Mega Walls Banker",
-          "description": "Earn %s coins in Mega Walls",
+          "description": "Earn %%value%% coins in Mega Walls",
           "tiers": [
             {
               "tier": 1,
@@ -19731,7 +19731,7 @@
         },
         "JACK_OF_ALL_TRADES": {
           "name": "Jack of all Trades",
-          "description": "Collect %s classes",
+          "description": "Collect %%value%% classes",
           "tiers": [
             {
               "tier": 1,
@@ -19762,7 +19762,7 @@
         },
         "GUARDIAN": {
           "name": "Mega Walls Guardian",
-          "description": "Get %s defender kills",
+          "description": "Get %%value%% defender kills",
           "tiers": [
             {
               "tier": 1,
@@ -19793,7 +19793,7 @@
         },
         "WINS": {
           "name": "Mega Walls Champion",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -19824,7 +19824,7 @@
         },
         "CAKE_HUNTER_TIERED": {
           "name": "Cake Hunter Tiered",
-          "description": "Find %s different types of cakes while mining as any class",
+          "description": "Find %%value%% different types of cakes while mining as any class",
           "tiers": [
             {
               "tier": 1,
@@ -19855,7 +19855,7 @@
         },
         "KILLS": {
           "name": "Mega Walls Slayer",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -19886,7 +19886,7 @@
         },
         "MOCTEZUMA": {
           "name": "Moctezuma",
-          "description": "Unlock %s Prestige upgrades",
+          "description": "Unlock %%value%% Prestige upgrades",
           "tiers": [
             {
               "tier": 1,
@@ -19917,7 +19917,7 @@
         },
         "RUSHER": {
           "name": "Mega Walls Rusher",
-          "description": "Deal %s damage to withers",
+          "description": "Deal %%value%% damage to withers",
           "tiers": [
             {
               "tier": 1,
@@ -20271,7 +20271,7 @@
       "tiered": {
         "ASSIST": {
           "name": "Quit Stealing My Kills!",
-          "description": "Earn %s assists in any game mode",
+          "description": "Earn %%value%% assists in any game mode",
           "tiers": [
             {
               "tier": 1,
@@ -20302,7 +20302,7 @@
         },
         "REPAIR_WEAPONS": {
           "name": "RNG God Offerings",
-          "description": "Get %s Broken Weapons repaired by The Weaponsmith.",
+          "description": "Get %%value%% Broken Weapons repaired by The Weaponsmith.",
           "tiers": [
             {
               "tier": 1,
@@ -20333,7 +20333,7 @@
         },
         "CTF_WINS": {
           "name": "Vexillologist",
-          "description": "Win %s games of Capture the Flag",
+          "description": "Win %%value%% games of Capture the Flag",
           "tiers": [
             {
               "tier": 1,
@@ -20364,7 +20364,7 @@
         },
         "SHAMAN_LEVEL": {
           "name": "Master of the Elements",
-          "description": "Obtain Lv%s with the Shaman class.",
+          "description": "Obtain Lv%%value%% with the Shaman class.",
           "tiers": [
             {
               "tier": 1,
@@ -20395,7 +20395,7 @@
         },
         "MAGE_LEVEL": {
           "name": "Icy Hot",
-          "description": "Obtain Lv%s with the Mage class.",
+          "description": "Obtain Lv%%value%% with the Mage class.",
           "tiers": [
             {
               "tier": 1,
@@ -20426,7 +20426,7 @@
         },
         "DOM_OBJECTIVE": {
           "name": "Domination Objective",
-          "description": "Capture %s points in domination",
+          "description": "Capture %%value%% points in domination",
           "tiers": [
             {
               "tier": 1,
@@ -20457,7 +20457,7 @@
         },
         "WARRIOR_LEVEL": {
           "name": "Anger Management",
-          "description": "Obtain Lv%s with the Warrior class.",
+          "description": "Obtain Lv%%value%% with the Warrior class.",
           "tiers": [
             {
               "tier": 1,
@@ -20488,7 +20488,7 @@
         },
         "TDM_WINS": {
           "name": "Deathmatched",
-          "description": "Win %s games of Team Deathmatch",
+          "description": "Win %%value%% games of Team Deathmatch",
           "tiers": [
             {
               "tier": 1,
@@ -20519,7 +20519,7 @@
         },
         "COINS": {
           "name": "Spoils of War",
-          "description": "Earn %s coins in Warlords",
+          "description": "Earn %%value%% coins in Warlords",
           "tiers": [
             {
               "tier": 1,
@@ -20550,7 +20550,7 @@
         },
         "KILLS": {
           "name": "Kill Secured",
-          "description": "Kill %s players in any game mode",
+          "description": "Kill %%value%% players in any game mode",
           "tiers": [
             {
               "tier": 1,
@@ -20581,7 +20581,7 @@
         },
         "CTF_OBJECTIVE": {
           "name": "CTF Objective",
-          "description": "Capture or return %s flags",
+          "description": "Capture or return %%value%% flags",
           "tiers": [
             {
               "tier": 1,
@@ -20612,7 +20612,7 @@
         },
         "PALADIN_LEVEL": {
           "name": "Knight of Justice",
-          "description": "Obtain Lv%s with the Paladin class.",
+          "description": "Obtain Lv%%value%% with the Paladin class.",
           "tiers": [
             {
               "tier": 1,
@@ -20643,7 +20643,7 @@
         },
         "DOM_WINS": {
           "name": "Dominator",
-          "description": "Win %s games of Domination",
+          "description": "Win %%value%% games of Domination",
           "tiers": [
             {
               "tier": 1,
@@ -20881,7 +20881,7 @@
       "tiered": {
         "SHEEP_WARS_SHEEP_SLAYER": {
           "name": "Sheep Wars: Sheep Slayer",
-          "description": "Kill %s sheep",
+          "description": "Kill %%value%% sheep",
           "tiers": [
             {
               "tier": 1,
@@ -20912,7 +20912,7 @@
         },
         "WOOL_WARS_CAPTURER": {
           "name": "Wool Wars: Capturer",
-          "description": "Break/place %s blocks",
+          "description": "Break/place %%value%% blocks",
           "tiers": [
             {
               "tier": 1,
@@ -20943,7 +20943,7 @@
         },
         "SHEEP_WARS_SLAYER": {
           "name": "Sheep Wars: Slayer",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -20974,7 +20974,7 @@
         },
         "CAPTURE_THE_WOOL_SMUGGLER": {
           "name": "Capture the Wool: Smuggler",
-          "description": "Capture %s wools",
+          "description": "Capture %%value%% wools",
           "tiers": [
             {
               "tier": 1,
@@ -21005,7 +21005,7 @@
         },
         "SHEEP_WARS_WINNER": {
           "name": "Sheep Wars: Winner",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -21036,7 +21036,7 @@
         },
         "WOOL_WARS_WINNER": {
           "name": "Wool Wars: Winner",
-          "description": "Win %s games",
+          "description": "Win %%value%% games",
           "tiers": [
             {
               "tier": 1,
@@ -21067,7 +21067,7 @@
         },
         "SHEEP_WARS_SHARPSHOOTER": {
           "name": "Sheep Wars: Sharpshooter",
-          "description": "Shoot down %s Magic Wool",
+          "description": "Shoot down %%value%% Magic Wool",
           "tiers": [
             {
               "tier": 1,
@@ -21098,7 +21098,7 @@
         },
         "CAPTURE_THE_WOOL_SLAYER": {
           "name": "Capture the Wool: Slayer",
-          "description": "Get %s kills/assists",
+          "description": "Get %%value%% kills/assists",
           "tiers": [
             {
               "tier": 1,
@@ -21129,7 +21129,7 @@
         },
         "WOOL_WARS_SLAYER": {
           "name": "Wool Wars: Slayer",
-          "description": "Kill %s players",
+          "description": "Kill %%value%% players",
           "tiers": [
             {
               "tier": 1,
@@ -21160,7 +21160,7 @@
         },
         "MOUNTAIN_OF_WOOL": {
           "name": "Mountain of Wool",
-          "description": "Earn %s wool",
+          "description": "Earn %%value%% wool",
           "tiers": [
             {
               "tier": 1,

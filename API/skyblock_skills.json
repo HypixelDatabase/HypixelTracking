@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1733336451274,
-  "version": "0.20.9.4",
+  "lastUpdated": 1737485721545,
+  "version": "0.21.1.2",
   "skills": {
     "FARMING": {
       "name": "Farming",
@@ -2436,8 +2436,8 @@
           "level": 1,
           "totalExpRequired": 50,
           "unlocks": [
-            "Agarimoo Sea Creature",
             "Squid Sea Creature",
+            "Agarimoo Sea Creature",
             "Treasure Hunter I   Increases the chance to find treasure when fishing by 0.2%.",
             "+2 ❤ Health",
             "+100 Coins",
@@ -2481,8 +2481,8 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Nurse Shark Sea Creature",
             "Sea Guardian Sea Creature",
+            "Nurse Shark Sea Creature",
             "Treasure Hunter V   Increases the chance to find treasure when fishing by 0.8➜1%.",
             "+2 ❤ Health",
             "+1,000 Coins",
@@ -2493,6 +2493,10 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
+            "Medium Mithril Grubber Sea Creature",
+            "Mithril Grubber Sea Creature",
+            "Bloated Mithril Grubber Sea Creature",
+            "Large Mithril Grubber Sea Creature",
             "Frosty Sea Creature",
             "Treasure Hunter VI   Increases the chance to find treasure when fishing by 1➜1.2%.",
             "+2 ❤ Health",
@@ -2537,9 +2541,9 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
+            "Oasis Sheep Sea Creature",
             "Blue Shark Sea Creature",
             "Oasis Rabbit Sea Creature",
-            "Oasis Sheep Sea Creature",
             "Treasure Hunter X   Increases the chance to find treasure when fishing by 1.8➜2%.",
             "+2 ❤ Health",
             "+7,500 Coins",
@@ -2594,8 +2598,8 @@
           "level": 15,
           "totalExpRequired": 67425,
           "unlocks": [
-            "Water Worm Sea Creature",
             "Carrot King Sea Creature",
+            "Water Worm Sea Creature",
             "Treasure Hunter XV   Increases the chance to find treasure when fishing by 2.8➜3%.",
             "+3 ❤ Health",
             "+30,000 Coins",
@@ -2618,8 +2622,8 @@
           "totalExpRequired": 147425,
           "unlocks": [
             "Guardian Defender Sea Creature",
-            "Poisoned Water Worm Sea Creature",
             "Werewolf Sea Creature",
+            "Poisoned Water Worm Sea Creature",
             "Treasure Hunter XVII   Increases the chance to find treasure when fishing by 3.2➜3.4%.",
             "+3 ❤ Health",
             "+50,000 Coins",
@@ -2654,8 +2658,8 @@
           "level": 20,
           "totalExpRequired": 522425,
           "unlocks": [
-            "The Sea Emperor Sea Creature",
             "Lava Blaze Sea Creature",
+            "The Sea Emperor Sea Creature",
             "Treasure Hunter XX   Increases the chance to find treasure when fishing by 3.8➜4%.",
             "+4 ❤ Health",
             "+100,000 Coins",

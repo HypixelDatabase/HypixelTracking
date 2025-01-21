@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1736893221468,
+  "lastUpdated": 1737478521446,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12019,6 +12019,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "FINALLY_OVER": {
+          "points": 5,
+          "name": "Finally over...",
+          "description": "???",
+          "secret": true
+        },
         "BAT_PINATA": {
           "points": 5,
           "name": "WHAM! POW!",
@@ -13022,7 +13028,7 @@
           ]
         }
       },
-      "total_points": 2925,
+      "total_points": 2930,
       "total_legacy_points": 0
     },
     "skyclash": {

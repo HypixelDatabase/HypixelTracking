@@ -1554,7 +1554,8 @@
           },
           "claims_resets": 0,
           "claims_resets_timestamp": 0,
-          "serums_drank": 0
+          "serums_drank": 0,
+          "claimed_retroactive_rng": true
         },
         "mining_core": {
           "nodes": {
@@ -3368,7 +3369,8 @@
             "crypt_undead_likaos_25": 0,
             "zealot_special_enderman_55": 0,
             "magma_follower_200": 0,
-            "pest_mouse_1": 0
+            "pest_mouse_1": 0,
+            "small_mithril_grubber_15": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -9730,7 +9732,8 @@
             "pest_mouse_1": 0,
             "puff": 0,
             "sun_gecko": 0,
-            "wizardman_brawler": 0
+            "wizardman_brawler": 0,
+            "small_mithril_grubber": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -11115,7 +11118,8 @@
             "rift_cerebral_citadel",
             "wizardman_chambers",
             "wizardman_trial_grounds",
-            "wizardman_vents"
+            "wizardman_vents",
+            "abandoned_quarry"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [

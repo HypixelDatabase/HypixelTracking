@@ -1516,7 +1516,9 @@
             "claims_4": 0,
             "best_score_4": 0,
             "claims_5": 0,
-            "best_score_5": 0
+            "best_score_5": 0,
+            "claimed": true,
+            "bonus_clicks": 0
           },
           "simon": {
             "last_attempt": 0,
@@ -1536,7 +1538,8 @@
             "best_score_3": 0,
             "attempts_5": 0,
             "claims_5": 0,
-            "best_score_5": 0
+            "best_score_5": 0,
+            "claimed": true
           },
           "numbers": {
             "last_attempt": 0,
@@ -1550,7 +1553,8 @@
             "best_score_2": 0,
             "attempts_3": 0,
             "claims_3": 0,
-            "best_score_3": 0
+            "best_score_3": 0,
+            "claimed": true
           },
           "claims_resets": 0,
           "claims_resets_timestamp": 0,

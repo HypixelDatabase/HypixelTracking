@@ -1555,7 +1555,8 @@
           "claims_resets": 0,
           "claims_resets_timestamp": 0,
           "serums_drank": 0,
-          "claimed_retroactive_rng": true
+          "claimed_retroactive_rng": true,
+          "charge_track_timestamp": 0
         },
         "mining_core": {
           "nodes": {
@@ -3370,7 +3371,10 @@
             "zealot_special_enderman_55": 0,
             "magma_follower_200": 0,
             "pest_mouse_1": 0,
-            "small_mithril_grubber_15": 0
+            "small_mithril_grubber_15": 0,
+            "bloated_mithril_grubber_15": 0,
+            "medium_mithril_grubber_15": 0,
+            "large_mithril_grubber_15": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -9733,7 +9737,13 @@
             "puff": 0,
             "sun_gecko": 0,
             "wizardman_brawler": 0,
-            "small_mithril_grubber": 0
+            "small_mithril_grubber": 0,
+            "small_mithril_grubber_15": 0,
+            "bloated_mithril_grubber_15": 0,
+            "medium_mithril_grubber": 0,
+            "medium_mithril_grubber_15": 0,
+            "large_mithril_grubber_15": 0,
+            "large_mithril_grubber": 0
           },
           "mythos": {
             "burrows_chains_complete": {

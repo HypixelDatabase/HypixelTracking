@@ -10657,7 +10657,10 @@
             "skill_level_b": 0,
             "skill_level_a": 0,
             "skill_level_c": 0,
-            "enderchest_rows": 0
+            "enderchest_rows": 0,
+            "prestige_tag": {
+              "type": ""
+            }
           },
           "snowman": {
             "unlocked": true,
@@ -13442,6 +13445,7 @@
           "3": "",
           "4": "",
           "5": "",
+          "6": "",
           "7": "",
           "8": ""
         },

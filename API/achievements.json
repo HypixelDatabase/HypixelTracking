@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1737478521446,
+  "lastUpdated": 1737849921477,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12023,7 +12023,9 @@
           "points": 5,
           "name": "Finally over...",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BAT_PINATA": {
           "points": 5,

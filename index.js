@@ -176,7 +176,9 @@ const tasks = [
     name: 'Get OpenAPI schema',
     func: async () => {
       log('Starting Puppeteer...');
-      const browser = await puppeteer.launch();
+      const browser = await puppeteer.launch({
+        args: ['--no-sandbox', '--disable-setuid-sandbox'],
+      });
       const page = await browser.newPage();
       await page.goto('https://api.hypixel.net', { waitUntil: 'networkidle2' });
 

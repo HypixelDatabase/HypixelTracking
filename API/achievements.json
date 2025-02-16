@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1737849921477,
+  "lastUpdated": 1739741309030,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12066,7 +12066,7 @@
         "SPIKY": {
           "points": 5,
           "name": "Spiky",
-          "description": "Craft a Thorns 3 book",
+          "description": "Apply the Thorns 3 enchantment to an armor piece",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -12566,7 +12566,7 @@
         },
         "CURATOR": {
           "name": "Curator",
-          "description": "Donate %%value%% items to the Museum",
+          "description": "Donate %%value%% items/sets to the Museum",
           "tiers": [
             {
               "tier": 1,

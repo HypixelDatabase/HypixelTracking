@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1739741309030,
+  "lastUpdated": 1741011462970,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6997,7 +6997,7 @@
           "points": 15,
           "name": "Gift Giver",
           "description": "Send a gift bundle to one of your friends",
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "FIRST_PARTY": {
           "points": 10,
@@ -7261,8 +7261,8 @@
           ]
         }
       },
-      "total_points": 715,
-      "total_legacy_points": 35
+      "total_points": 700,
+      "total_legacy_points": 50
     },
     "gingerbread": {
       "one_time": {

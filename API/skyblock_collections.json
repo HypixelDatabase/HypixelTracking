@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1739283809047,
-  "version": "0.21.3.0",
+  "lastUpdated": 1742307453431,
+  "version": "0.22.0.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1743,7 +1743,7 @@
               "tier": 9,
               "amountRequired": 1000000,
               "unlocks": [
-                "+1☘ Mining Fortune",
+                "Umberella Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -2289,7 +2289,7 @@
                 "❂ Flawed Opal Gemstone Recipe",
                 "☠ Flawed Onyx Gemstone Recipe",
                 "☘ Flawed Citrine Gemstone Recipe",
-                "α Flawed Aquamarine Gemstone Recipe",
+                "☂ Flawed Aquamarine Gemstone Recipe",
                 "☘ Flawed Peridot Gemstone Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2324,7 +2324,7 @@
                 "❂ Fine Opal Gemstone Recipe",
                 "☠ Fine Onyx Gemstone Recipe",
                 "☘ Fine Citrine Gemstone Recipe",
-                "α Fine Aquamarine Gemstone Recipe",
+                "☂ Fine Aquamarine Gemstone Recipe",
                 "☘ Fine Peridot Gemstone Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2373,7 +2373,7 @@
                 "❂ Flawless Opal Gemstone Recipe",
                 "☠ Flawless Onyx Gemstone Recipe",
                 "☘ Flawless Citrine Gemstone Recipe",
-                "α Flawless Aquamarine Gemstone Recipe",
+                "☂ Flawless Aquamarine Gemstone Recipe",
                 "☘ Flawless Peridot Gemstone Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2393,7 +2393,7 @@
                 "❂ Perfect Opal Gemstone Dwarven Forge Recipe",
                 "☠ Perfect Onyx Gemstone Dwarven Forge Recipe",
                 "☘ Perfect Citrine Gemstone Dwarven Forge Recipe",
-                "α Perfect Aquamarine Gemstone Dwarven Forge Recipe",
+                "☂ Perfect Aquamarine Gemstone Dwarven Forge Recipe",
                 "☘ Perfect Peridot Gemstone Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3287,7 +3287,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Frost Walker Exp Discount (-25%)",
+                "Ice Bait Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3319,7 +3319,6 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Ice Bait Recipe",
                 "Glacial Ring Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3337,7 +3336,6 @@
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Frozen Scythe Recipe",
                 "Glacial Artifact Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3357,7 +3355,7 @@
               "tier": 10,
               "amountRequired": 250000,
               "unlocks": [
-                "Auger Rod Recipe",
+                "Frozen Scythe Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4977,7 +4975,7 @@
               "tier": 5,
               "amountRequired": 500,
               "unlocks": [
-                "Challenging Rod Recipe",
+                "Common Hook Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5047,7 +5045,7 @@
               "tier": 4,
               "amountRequired": 100,
               "unlocks": [
-                "Prismarine Rod Recipe",
+                "Prismarine Sinker Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5164,6 +5162,7 @@
               "amountRequired": 20,
               "unlocks": [
                 "Fish Hat Recipe",
+                "Minnow Bait Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5195,10 +5194,7 @@
               "tier": 5,
               "amountRequired": 500,
               "unlocks": [
-                "Angler Helmet Recipe",
-                "Angler Chestplate Recipe",
-                "Angler Leggings Recipe",
-                "Angler Boots Recipe",
+                "+2,500 Fishing Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5317,7 +5313,7 @@
               "tier": 8,
               "amountRequired": 4800,
               "unlocks": [
-                "+10,000 Fishing Experience",
+                "Hotspot Bait Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5427,7 +5423,7 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Minnow Bait Recipe",
+                "Salmon Hat Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5459,7 +5455,7 @@
               "tier": 5,
               "amountRequired": 500,
               "unlocks": [
-                "Speedster Rod Recipe",
+                "Fish Bait Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5467,7 +5463,10 @@
               "tier": 6,
               "amountRequired": 1000,
               "unlocks": [
-                "Fish Bait Recipe",
+                "Salmon Helmet Recipe",
+                "Salmon Chestplate Recipe",
+                "Salmon Leggings Recipe",
+                "Salmon Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5475,10 +5474,7 @@
               "tier": 7,
               "amountRequired": 2500,
               "unlocks": [
-                "Salmon Helmet Recipe",
-                "Salmon Chestplate Recipe",
-                "Salmon Leggings Recipe",
-                "Salmon Boots Recipe",
+                "+5,000 Fishing Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5712,7 +5708,7 @@
               "tier": 6,
               "amountRequired": 2500,
               "unlocks": [
-                "Farmer's Rod Recipe",
+                "+2,500 Fishing Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5734,15 +5730,15 @@
               "tier": 1,
               "amountRequired": 20,
               "unlocks": [
-                "Sponge Rod Recipe",
+                "Sponge Trade",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 2,
-              "amountRequired": 40,
+              "amountRequired": 50,
               "unlocks": [
-                "Sponge Trade",
+                "Sponge Sinker Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5750,29 +5746,29 @@
               "tier": 3,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Sponge Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "tier": 4,
-              "amountRequired": 200,
-              "unlocks": [
                 "Sea Creature Talisman Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
-              "tier": 5,
-              "amountRequired": 400,
+              "tier": 4,
+              "amountRequired": 250,
               "unlocks": [
-                "Stereo Pants Recipe",
+                "Enchanted Sponge Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 500,
+              "unlocks": [
+                "Sponge Belt Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 6,
-              "amountRequired": 800,
+              "amountRequired": 1000,
               "unlocks": [
                 "Sea Creature Ring Recipe",
                 "+4 SkyBlock XP"
@@ -5782,14 +5778,14 @@
               "tier": 7,
               "amountRequired": 1500,
               "unlocks": [
-                "Sponge Belt Recipe",
                 "Enchanted Wet Sponge Recipe",
+                "Stereo Pants Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
-              "amountRequired": 2500,
+              "amountRequired": 2000,
               "unlocks": [
                 "Sea Creature Artifact Recipe",
                 "+4 SkyBlock XP"
@@ -5802,7 +5798,7 @@
                 "Sponge Helmet Recipe",
                 "Sponge Chestplate Recipe",
                 "Sponge Leggings Recipe",
-                "Spongy Shoes Recipe",
+                "Sponge Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             }

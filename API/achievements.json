@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1741011462970,
+  "lastUpdated": 1742313753328,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5780,7 +5780,7 @@
         "LOBBY_SLAYER": {
           "points": 10,
           "name": "Lobby Slayer",
-          "description": "Get a 10 kill streak in the lobby Battle Arena",
+          "description": "Get a 10 kill streak in the lobby Battle Pit",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11281,7 +11281,7 @@
         "FORTUNATE": {
           "points": 5,
           "name": "Fortunate",
-          "description": "Fish 2 treasures at once using the blessing enchant",
+          "description": "Apply the Fortune enchantment to an item",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11743,7 +11743,7 @@
         "ANIMAL_FISHING": {
           "points": 5,
           "name": "Animal Fishing",
-          "description": "Fish using the Farmer's Rod",
+          "description": "Fish an Oasis Sea Creature",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

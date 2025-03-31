@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1742307453431,
-  "version": "0.22.0.0",
+  "lastUpdated": 1743450202382,
+  "version": "0.22.1.7",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -30,7 +30,7 @@
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "Portal to Mushroom Island Recipe",
+                "+3,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -46,7 +46,7 @@
               "tier": 5,
               "amountRequired": 5000,
               "unlocks": [
-                "Travel Scroll to Mushroom Island Recipe",
+                "+5,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -690,7 +690,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "+500 Farming Experience",
+                "Mycelium Trade",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1128,7 +1128,7 @@
               "tier": 2,
               "amountRequired": 200,
               "unlocks": [
-                "Portal to The Barn Recipe",
+                "+2,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1160,7 +1160,7 @@
               "tier": 6,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to The Barn Recipe",
+                "+6,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1589,7 +1589,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to Deep Caverns Recipe",
+                "+7,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1798,7 +1798,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Travel Scroll to the Gold Mine Recipe",
+                "+6,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1951,7 +1951,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to The End Recipe",
+                "+3,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1991,7 +1991,7 @@
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Travel Scroll to the End Recipe",
+                "+8,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2107,7 +2107,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "+250 Mining Experience",
+                "Red Sand Trade",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2596,7 +2596,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to the Deep Caverns Recipe",
+                "+3,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2758,7 +2758,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Portal to the Crimson Isle Recipe",
+                "+2,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2774,7 +2774,7 @@
               "tier": 4,
               "amountRequired": 2500,
               "unlocks": [
-                "Travel Scroll to the Crimson Isle Recipe",
+                "+4,000 Mining Experience",
                 "Glowstone Gauntlet Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2838,7 +2838,7 @@
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "Portal to the Gold Mine Recipe",
+                "+4,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2916,7 +2916,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to the Spider's Den Recipe",
+                "+3,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2956,7 +2956,7 @@
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Travel Scroll to Spider's Den Recipe",
+                "+8,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4469,7 +4469,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Savanna Woodland Recipe",
+                "+3,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4548,7 +4548,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Spruce Woods Recipe",
+                "+3,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4626,7 +4626,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Jungle Island Recipe",
+                "+3,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4704,7 +4704,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Birch Park Recipe",
+                "+3,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4746,7 +4746,7 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to The Park Recipe",
+                "+8,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4873,7 +4873,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Portal to Dark Thicket Recipe",
+                "+3,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },

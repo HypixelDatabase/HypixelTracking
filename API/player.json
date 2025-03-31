@@ -21631,11 +21631,11 @@
           "DIAMOND_SWORD:0": ""
         },
         "kit_mythical_end-lord_inventory": {
-          "LEATHER_CHESTPLATE:0": "",
-          "LEATHER_LEGGINGS:0": "",
-          "ENDER_STONE:0": "",
-          "ENDER_PEARL:0": "",
-          "LEATHER_BOOTS:0": ""
+          "LEATHER_CHESTPLATE:0": [],
+          "LEATHER_LEGGINGS:0": [],
+          "ENDER_STONE:0": [],
+          "ENDER_PEARL:0": [],
+          "LEATHER_BOOTS:0": []
         },
         "most_kills_game_lab_team": 0,
         "longest_bow_shot_lab_team": 0,
@@ -22398,7 +22398,7 @@
           "BOW:0": ""
         },
         "kit_basic_solo_fisherman_inventory": {
-          "FISHING_ROD:0": [],
+          "FISHING_ROD:0": "",
           "COOKED_FISH:0": [],
           "CHAINMAIL_BOOTS:0": [],
           "CHAINMAIL_HELMET:0": [],

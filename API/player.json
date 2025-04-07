@@ -2962,6 +2962,48 @@
             "time": 0
           }
         ]
+      },
+      "skywars_daily_mini_win": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "skywars_daily_mega_kills": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "skywars_weekly_wins": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "skywars_monthly_earn_opals": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "skywars_solo_win_LEGACY": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "skywars_team_win_LEGACY": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
+      },
+      "skywars_arcade_win_LEGACY": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
       }
     },
     "settings": {
@@ -19724,7 +19766,27 @@
           "sprays_family_photo_christmas",
           "sprays_turkey_day",
           "cage_holiday_bell",
-          "cage_snowball"
+          "cage_snowball",
+          "scheme_gold_prestige",
+          "scheme_ruby_prestige",
+          "scheme_crystal_prestige",
+          "scheme_iron_prestige",
+          "scheme_stone_prestige",
+          "scheme_amethyst_prestige",
+          "scheme_diamond_prestige",
+          "scheme_bloody_prestige",
+          "scheme_opal_prestige",
+          "scheme_cobalt_prestige",
+          "scheme_topaz_prestige",
+          "scheme_mythic_i_prestige",
+          "scheme_jade_prestige",
+          "merged_souls_shards",
+          "more_default_perks_update",
+          "emblem_alpha",
+          "emblem_rich",
+          "emblem_null_icon",
+          "emblem_carrots_for_eyes",
+          "emblem_formerly_known"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -25911,7 +25973,9 @@
             "1": "",
             "2": "",
             "3": "",
-            "4": ""
+            "4": "",
+            "5": "",
+            "6": ""
           }
         },
         "toggle_mega_arrow_recovery": true,
@@ -26382,7 +26446,11 @@
         "games_kit_mythical_cryomancer": 0,
         "killstreak_kit_mythical_cryomancer": 0,
         "longest_bow_shot_kit_mythical_cryomancer": 0,
-        "wins_kit_mythical_cryomancer": 0
+        "wins_kit_mythical_cryomancer": 0,
+        "active_scheme": "",
+        "kitsMaxPrestige": "",
+        "last_prestige_unlocked": "",
+        "challenge_milestones_achieved": 0
       },
       "TrueCombat": {
         "coins": 0,

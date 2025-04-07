@@ -2985,7 +2985,12 @@
         "active": {
           "objectives": {},
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "skywars_solo_win_LEGACY": {
         "active": {
@@ -19786,7 +19791,15 @@
           "emblem_rich",
           "emblem_null_icon",
           "emblem_carrots_for_eyes",
-          "emblem_formerly_known"
+          "emblem_formerly_known",
+          "armorsmith_prestige_1",
+          "armorsmith_prestige_2",
+          "armorsmith_prestige_3",
+          "armorer_prestige_1",
+          "armorer_prestige_2",
+          "armorer_prestige_3",
+          "armorer_prestige_4",
+          "baseball-player_prestige_1"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,

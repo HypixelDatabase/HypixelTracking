@@ -289,7 +289,9 @@
       "buildbattle_speed_builders_perfectionist": 0,
       "buildbattle_speed_builders_winner": 0,
       "christmas2017_advent_2024": 0,
-      "christmas2017_protege": 0
+      "christmas2017_protege": 0,
+      "skywars_kills_mini": 0,
+      "skywars_wins_mini": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -2967,7 +2969,12 @@
         "active": {
           "objectives": {},
           "started": 0
-        }
+        },
+        "completions": [
+          {
+            "time": 0
+          }
+        ]
       },
       "skywars_daily_mega_kills": {
         "active": {
@@ -2977,7 +2984,9 @@
       },
       "skywars_weekly_wins": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_weekly_wins": 0
+          },
           "started": 0
         }
       },
@@ -19805,7 +19814,50 @@
           "knight_prestige_3",
           "ecologist_prestige_1",
           "knight_prestige_4",
-          "knight_prestige_5"
+          "knight_prestige_5",
+          "scout_prestige_1",
+          "scout_prestige_2",
+          "scout_prestige_3",
+          "scout_prestige_4",
+          "champion_prestige_1",
+          "champion_prestige_2",
+          "champion_prestige_3",
+          "champion_prestige_4",
+          "champion_prestige_5",
+          "champion_prestige_6",
+          "champion_prestige_7",
+          "blacksmith_prestige_1",
+          "blacksmith_prestige_2",
+          "blacksmith_prestige_3",
+          "enderman_prestige_1",
+          "enderman_prestige_2",
+          "rookie_prestige_1",
+          "rookie_prestige_2",
+          "rookie_prestige_3",
+          "rookie_prestige_4",
+          "disco_prestige_1",
+          "disco_prestige_2",
+          "disco_prestige_3",
+          "frog_prestige_1",
+          "frog_prestige_2",
+          "frog_prestige_3",
+          "slime_prestige_1",
+          "end-lord_prestige_1",
+          "end-lord_prestige_2",
+          "golem_prestige_1",
+          "armorer_prestige_5",
+          "enderchest_prestige_1",
+          "enderchest_prestige_2",
+          "enderchest_prestige_3",
+          "enderchest_prestige_4",
+          "farmer_prestige_1",
+          "farmer_prestige_2",
+          "farmer_prestige_3",
+          "snowman_prestige_1",
+          "disco_prestige_4",
+          "frog_prestige_4",
+          "frog_prestige_5",
+          "frog_prestige_6"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -26577,7 +26629,45 @@
         "xp_kit_supporting_team_princess": 0,
         "xp_kit_supporting_team_troll": 0,
         "xp_kit_supporting_team_warlock": 0,
-        "xp_kit_defending_team_golem": 0
+        "xp_kit_defending_team_golem": 0,
+        "kit_mini_solo_athlete_inventory": {
+          "FISHING_ROD:0": [],
+          "IRON_LEGGINGS:0": [],
+          "IRON_AXE:0": [],
+          "IRON_PICKAXE:0": [],
+          "IRON_BOOTS:0": [],
+          "IRON_HELMET:0": [],
+          "WATER_BUCKET:0": [],
+          "IRON_CHESTPLATE:0": [],
+          "DIAMOND_SWORD:0": []
+        },
+        "xp_kit_mini_solo_athlete": 0,
+        "chests_opened_kit_mini_solo_athlete": 0,
+        "chests_opened_mini": 0,
+        "fastest_win_kit_mini_solo_athlete": 0,
+        "fastest_win_mini": 0,
+        "games_kit_mini_solo_athlete": 0,
+        "games_mini": 0,
+        "kills_kit_mini_solo_athlete": 0,
+        "kills_mini": 0,
+        "kills_mini_normal": 0,
+        "killstreak_kit_mini_solo_athlete": 0,
+        "killstreak_mini": 0,
+        "longest_bow_kill_kit_mini_solo_athlete": 0,
+        "longest_bow_kill_mini": 0,
+        "melee_kills_kit_mini_solo_athlete": 0,
+        "melee_kills_mini": 0,
+        "most_kills_game_kit_mini_solo_athlete": 0,
+        "most_kills_game_mini": 0,
+        "survived_players_kit_mini_solo_athlete": 0,
+        "survived_players_mini": 0,
+        "time_played_kit_mini_solo_athlete": 0,
+        "time_played_mini": 0,
+        "wins_kit_mini_solo_athlete": 0,
+        "wins_mini": 0,
+        "wins_mini_normal": 0,
+        "void_kills_kit_mini_solo_athlete": 0,
+        "void_kills_mini": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -52407,7 +52497,12 @@
         "Gondola": 0
       }
     },
-    "lastMapVote": 0
+    "lastMapVote": 0,
+    "kits": {
+      "kitShopSorting": {
+        "currentSort": ""
+      }
+    }
   },
   "cause": "",
   "throttle": true

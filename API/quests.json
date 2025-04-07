@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1736175838749,
+  "lastUpdated": 1744051482275,
   "quests": {
     "quake": [
       {
@@ -2318,20 +2318,59 @@
     ],
     "skywars": [
       {
-        "id": "skywars_solo_win",
-        "name": "Daily Quest: SkyWars Solo Win",
+        "id": "skywars_daily_mini_win",
+        "name": "Daily Quest: Mini SkyWars Wins",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
             "amount": 3300
           },
           {
-            "type": "MultipliedCoinReward",
+            "type": "SkyWarsXpReward",
+            "amount": 15
+          },
+          {
+            "type": "SkyWarsBonusCoinsReward",
             "amount": 1500
           },
           {
-            "type": "SkyWarsSoulReward",
-            "amount": 1
+            "type": "SkyWarsTokenReward",
+            "amount": 500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_mini_daily_win",
+            "type": "IntegerObjective",
+            "integer": 1
+          }
+        ],
+        "requirements": [
+          {
+            "type": "DailyResetQuestRequirement"
+          }
+        ],
+        "description": "Win a game of Mini SkyWars"
+      },
+      {
+        "id": "skywars_solo_win",
+        "name": "Daily Quest: SkyWars Solo Wins",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 3300
+          },
+          {
+            "type": "SkyWarsXpReward",
+            "amount": 15
+          },
+          {
+            "type": "SkyWarsBonusCoinsReward",
+            "amount": 1500
+          },
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 500
           }
         ],
         "objectives": [
@@ -2346,54 +2385,27 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Win a game in Solo Mode"
-      },
-      {
-        "id": "skywars_solo_kills",
-        "name": "Daily Quest: SkyWars Solo Kills",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3300
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 1500
-          },
-          {
-            "type": "SkyWarsSoulReward",
-            "amount": 1
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_solo_kills",
-            "type": "IntegerObjective",
-            "integer": 15
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Kill 15 players in Solo Mode"
+        "description": "Win a game of SkyWars Solo"
       },
       {
         "id": "skywars_team_win",
-        "name": "Daily Quest: SkyWars Doubles Win",
+        "name": "Daily Quest: SkyWars Doubles Wins",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
             "amount": 3300
           },
           {
-            "type": "MultipliedCoinReward",
+            "type": "SkyWarsXpReward",
+            "amount": 15
+          },
+          {
+            "type": "SkyWarsBonusCoinsReward",
             "amount": 1500
           },
           {
-            "type": "SkyWarsSoulReward",
-            "amount": 1
+            "type": "SkyWarsTokenReward",
+            "amount": 500
           }
         ],
         "objectives": [
@@ -2408,54 +2420,27 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Win a game in Doubles Mode"
-      },
-      {
-        "id": "skywars_team_kills",
-        "name": "Daily Quest: SkyWars Doubles Kills",
-        "rewards": [
-          {
-            "type": "MultipliedExperienceReward",
-            "amount": 3300
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 1500
-          },
-          {
-            "type": "SkyWarsSoulReward",
-            "amount": 1
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_team_kills",
-            "type": "IntegerObjective",
-            "integer": 15
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Kill 15 players in Doubles Mode"
+        "description": "Win a game of SkyWars Doubles"
       },
       {
         "id": "skywars_arcade_win",
-        "name": "Daily Quest: SkyWars Lucky Win",
+        "name": "Daily Quest: Lucky Block SkyWars Wins",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
             "amount": 3300
           },
           {
-            "type": "MultipliedCoinReward",
-            "amount": 750
+            "type": "SkyWarsXpReward",
+            "amount": 15
           },
           {
-            "type": "SkyWarsSoulReward",
-            "amount": 3
+            "type": "SkyWarsBonusCoinsReward",
+            "amount": 1500
+          },
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 500
           }
         ],
         "objectives": [
@@ -2470,30 +2455,34 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Win a game of SkyWars Lucky Block Mode"
+        "description": "Win a game of Lucky Block SkyWars"
       },
       {
-        "id": "skywars_corrupt_win",
-        "name": "Daily Quest: SkyWars Corrupted Win",
+        "id": "skywars_daily_mega_kills",
+        "name": "Daily Quest: Mega SkyWars Kills",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
             "amount": 3300
           },
           {
-            "type": "MultipliedCoinReward",
-            "amount": 750
+            "type": "SkyWarsXpReward",
+            "amount": 15
           },
           {
-            "type": "SkyWarsSoulReward",
-            "amount": 3
+            "type": "SkyWarsBonusCoinsReward",
+            "amount": 1500
+          },
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 500
           }
         ],
         "objectives": [
           {
-            "id": "skywars_corrupt_win",
+            "id": "skywars_mega_daily_kills",
             "type": "IntegerObjective",
-            "integer": 1
+            "integer": 5
           }
         ],
         "requirements": [
@@ -2501,23 +2490,66 @@
             "type": "DailyResetQuestRequirement"
           }
         ],
-        "description": "Win a corrupted game"
+        "description": "Kill players in Mega SkyWars"
       },
       {
-        "id": "skywars_weekly_kills",
-        "name": "Weekly Quest: SkyWars Weekly Kills",
+        "id": "skywars_weekly_wins",
+        "name": "Weekly Quest: SkyWars Wins",
         "rewards": [
           {
             "type": "MultipliedExperienceReward",
             "amount": 19800
           },
           {
-            "type": "MultipliedCoinReward",
-            "amount": 5000
+            "type": "SkyWarsXpReward",
+            "amount": 250
+          },
+          {
+            "type": "SkyWarsBonusCoinsReward",
+            "amount": 25000
+          },
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 7500
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_weekly_wins",
+            "type": "IntegerObjective",
+            "integer": 15
+          }
+        ],
+        "requirements": [
+          {
+            "type": "WeeklyResetQuestRequirement"
+          }
+        ],
+        "description": "Win games of SkyWars"
+      },
+      {
+        "id": "skywars_weekly_kills",
+        "name": "Weekly Quest: SkyWars Kills",
+        "rewards": [
+          {
+            "type": "MultipliedExperienceReward",
+            "amount": 19800
+          },
+          {
+            "type": "SkyWarsXpReward",
+            "amount": 250
+          },
+          {
+            "type": "SkyWarsBonusCoinsReward",
+            "amount": 25000
+          },
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 7500
           },
           {
             "type": "SkyWarsSoulReward",
-            "amount": 3
+            "amount": 200
           }
         ],
         "objectives": [
@@ -2532,84 +2564,30 @@
             "type": "WeeklyResetQuestRequirement"
           }
         ],
-        "description": "Kill a total of 150 players in any mode"
+        "description": "Kill players in SkyWars"
       },
       {
-        "id": "skywars_weekly_arcade_win_all",
-        "name": "Weekly Quest: SkyWars Scientist",
+        "id": "skywars_monthly_earn_opals",
+        "name": "Monthly Quest: Earn an Opal",
         "rewards": [
           {
-            "type": "MultipliedExperienceReward",
-            "amount": 11000
-          },
-          {
-            "type": "MultipliedCoinReward",
-            "amount": 3500
-          },
-          {
-            "type": "SkyWarsSoulReward",
-            "amount": 5
+            "type": "SkyWarsOpalReward",
+            "amount": 1
           }
         ],
         "objectives": [
           {
-            "id": "skywars_arcade_weekly_win",
+            "id": "skywars_earn_opals",
             "type": "IntegerObjective",
-            "integer": 10
+            "integer": 1
           }
         ],
         "requirements": [
           {
-            "type": "WeeklyResetQuestRequirement"
+            "type": "MonthlyResetQuestRequirement"
           }
         ],
-        "description": "Win 10 games of Lucky Block Mode"
-      },
-      {
-        "id": "skywars_daily_tokens",
-        "name": "Daily Quest: Tokens!",
-        "rewards": [
-          {
-            "type": "SkyWarsTokenReward",
-            "amount": 2000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_daily_tokens_wins",
-            "type": "IntegerObjective",
-            "integer": 10
-          }
-        ],
-        "requirements": [
-          {
-            "type": "DailyResetQuestRequirement"
-          }
-        ],
-        "description": "Kill 10 players in Solo or Team Mode"
-      },
-      {
-        "id": "skywars_weekly_free_loot_chest",
-        "name": "Weekly Quest: More Tokens!",
-        "rewards": [
-          {
-            "type": "SkyWarsTokenReward",
-            "amount": 10000
-          }
-        ],
-        "objectives": [
-          {
-            "id": "skywars_free_loot_chest_win",
-            "type": "IntegerObjective",
-            "integer": 3
-          }
-        ],
-        "requirements": [
-          {
-            "type": "WeeklyResetQuestRequirement"
-          }
-        ],
-        "description": "Win 3 games in Solo or Team Mode"
+        "description": "Earn an Opal"
       }
     ],
     "truecombat": [

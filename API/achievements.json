@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1742313753328,
+  "lastUpdated": 1744051482272,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -13493,6 +13493,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "ALL_PERKS": {
+          "points": 10,
+          "name": "All Perks!",
+          "description": "Purchase all perks in any mode"
+        },
         "CHALLENGE_ROOKIE": {
           "points": 5,
           "name": "Rookie Challenge",
@@ -13791,9 +13796,9 @@
           "globalPercentUnlocked": 1
         },
         "LUCKY_SOULS": {
-          "points": 5,
+          "points": 10,
           "name": "Lucky Souls",
-          "description": "Obtain 5 Mega Perks",
+          "description": "Obtain 10 Mega Perks",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -13803,6 +13808,11 @@
           "description": "Kill 20 players in a single Mega game or 12 players in a single Mega Doubles game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "CHALLENGER": {
+          "points": 5,
+          "name": "Challenger",
+          "description": "Reach the first SkyWars Challenge Milestone"
         },
         "NICK_CAGE": {
           "points": 15,
@@ -13908,6 +13918,37 @@
         }
       },
       "tiered": {
+        "KILLS_MINI": {
+          "name": "Mini Killer",
+          "description": "Kill %%value%% players in Mini mode",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 50
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 250
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 500
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 1000
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 2500
+            }
+          ]
+        },
         "KILLS_TEAM": {
           "name": "Team Killer",
           "description": "Kill %%value%% players in Team mode",
@@ -14107,7 +14148,7 @@
         },
         "WINS_LAB": {
           "name": "Scientist",
-          "description": "Win %%value%% games in any Lab modes",
+          "description": "Win %%value%% games in Lucky Block mode",
           "tiers": [
             {
               "tier": 1,
@@ -14179,22 +14220,22 @@
             {
               "tier": 2,
               "points": 10,
-              "amount": 50
+              "amount": 25
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 100
+              "amount": 50
             },
             {
               "tier": 4,
               "points": 20,
-              "amount": 250
+              "amount": 100
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 500
+              "amount": 250
             }
           ]
         },
@@ -14277,17 +14318,48 @@
             {
               "tier": 3,
               "points": 15,
-              "amount": 1000
+              "amount": 500
             },
             {
               "tier": 4,
               "points": 20,
-              "amount": 5000
+              "amount": 1000
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 10000
+              "amount": 2500
+            }
+          ]
+        },
+        "WINS_MINI": {
+          "name": "Mini Winner",
+          "description": "Win %%value%% games in Mini mode",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
             }
           ]
         },
@@ -14385,7 +14457,7 @@
           ]
         }
       },
-      "total_points": 1580,
+      "total_points": 1750,
       "total_legacy_points": 65
     },
     "speeduhc": {
@@ -14852,7 +14924,7 @@
         "BBQ_IN_THE_SKY": {
           "points": 10,
           "name": "BBQ in the Sky",
-          "description": "Win a game of SkyWars Mega while using the Pyromaniac Kit",
+          "description": "Win a game of SkyWars Mega while using the Pyro Kit",
           "globalPercentUnlocked": 1
         },
         "SUNBURNT": {

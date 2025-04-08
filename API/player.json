@@ -50943,11 +50943,18 @@
                 "Bedwarsstaydead": 0,
                 "Bedwarsbedbug": 0,
                 "Bedwarsemerald": 0,
-                "Bedwarsnorest": 0
+                "Bedwarsnorest": 0,
+                "Bedwarsshopoftraps": 0
+              }
+            },
+            "pvp_hard": {
+              "objectives": {
+                "Bedwarspartysover": 0
               }
             }
           },
-          "duelsWinsAchievement": 0
+          "duelsWinsAchievement": 0,
+          "bedWarsWinsAchievement": 0
         }
       },
       "anniversary": {

@@ -26710,7 +26710,11 @@
         "arrows_shot_kit_mini_solo_athlete": 0,
         "arrows_shot_mini": 0,
         "active_emblem": "",
-        "opal_rollback": 0
+        "opal_rollback": 0,
+        "favorite_kits_solo": [],
+        "arrows_hit_kit_mythical_fishmonger": 0,
+        "arrows_shot_kit_mythical_fishmonger": 0,
+        "longest_bow_shot_kit_mythical_fishmonger": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -42658,7 +42662,8 @@
           "easter_guide_2024": true,
           "become_sheep": true,
           "halloween_guide_2024": true,
-          "easter_guide_2025": true
+          "easter_guide_2025": true,
+          "bingo_12": true
         },
         "discoveredZones": {
           "port": true,
@@ -50925,10 +50930,18 @@
             "pvp_easy": {
               "objectives": {
                 "Duelsparkour3rd": 0,
-                "Woolsheepexplosion": 0
+                "Woolsheepexplosion": 0,
+                "Duelseasykillsacrossmodes": 0,
+                "Duelsclassicwin": 0,
+                "Duelssumowin": 0,
+                "Skywarsopenchests": 0,
+                "Skywarsfunwithfriends": 0,
+                "Skywarsvoidkill": 0,
+                "Skywarsironarmor": 0
               }
             }
-          }
+          },
+          "duelsWinsAchievement": 0
         }
       },
       "anniversary": {

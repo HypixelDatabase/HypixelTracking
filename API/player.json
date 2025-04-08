@@ -42657,7 +42657,8 @@
           "christmas_guide_2023": true,
           "easter_guide_2024": true,
           "become_sheep": true,
-          "halloween_guide_2024": true
+          "halloween_guide_2024": true,
+          "easter_guide_2025": true
         },
         "discoveredZones": {
           "port": true,
@@ -50918,6 +50919,9 @@
         "2025": {
           "levelling": {
             "experience": 0
+          },
+          "bingo": {
+            "pinned": ""
           }
         }
       },

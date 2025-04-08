@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1744051482272,
+  "lastUpdated": 1744116991972,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -13496,7 +13496,9 @@
         "ALL_PERKS": {
           "points": 10,
           "name": "All Perks!",
-          "description": "Purchase all perks in any mode"
+          "description": "Purchase all perks in any mode",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CHALLENGE_ROOKIE": {
           "points": 5,
@@ -13812,7 +13814,9 @@
         "CHALLENGER": {
           "points": 5,
           "name": "Challenger",
-          "description": "Reach the first SkyWars Challenge Milestone"
+          "description": "Reach the first SkyWars Challenge Milestone",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NICK_CAGE": {
           "points": 15,

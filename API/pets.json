@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1733162469541,
+  "lastUpdated": 1744127491912,
   "types": [
     {
       "key": "CAT_BLACK",
@@ -901,6 +901,18 @@
       "name": "Enderman: Snow Block",
       "rarity": "LEGENDARY",
       "package": "pet_enderman_snow_block"
+    },
+    {
+      "key": "ENDERMAN_HAY_BALE",
+      "name": "Enderman: Hay Bale",
+      "rarity": "LEGENDARY",
+      "package": "pet_enderman_hay_bale"
+    },
+    {
+      "key": "MELON",
+      "name": "Melon",
+      "rarity": "LEGENDARY",
+      "package": "pet_melon"
     }
   ],
   "rarities": [

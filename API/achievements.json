@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1744116991972,
+  "lastUpdated": 1744127491928,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6413,6 +6413,12 @@
           "description": "Find an easter egg in the Main Lobby",
           "legacy": true
         },
+        "ALL_EGGS_2024": {
+          "points": 15,
+          "name": "All Eggs (2024)",
+          "description": "Find all Easter Eggs in the Main Lobby",
+          "legacy": true
+        },
         "ALL_EGGS_2023": {
           "points": 15,
           "name": "All Eggs (2023)",
@@ -6467,6 +6473,12 @@
           "description": "Spawn 99 chickens in a game of Tower Wars",
           "legacy": true
         },
+        "HAPPY_EASTER_2024": {
+          "points": 5,
+          "name": "Happy Easter (2024)",
+          "description": "Login on Easter Sunday 2024",
+          "legacy": true
+        },
         "ALL_EGGS_2019": {
           "points": 30,
           "name": "Egghunter (2019)",
@@ -6494,6 +6506,12 @@
         "FIRST_EGG_2020": {
           "points": 5,
           "name": "The Chase Begins (2020)",
+          "description": "Find an Easter Egg in the Main Lobby",
+          "legacy": true
+        },
+        "FIRST_EGG_2024": {
+          "points": 5,
+          "name": "The Chase Begins (2024)",
           "description": "Find an Easter Egg in the Main Lobby",
           "legacy": true
         },
@@ -6527,11 +6545,10 @@
           "description": "Win a game of Blitz using the Florist Kit",
           "globalPercentUnlocked": 1
         },
-        "ALL_EGGS_2024": {
+        "ALL_EGGS_2025": {
           "points": 15,
-          "name": "All Eggs (2024)",
-          "description": "Find all Easter Eggs in the Main Lobby",
-          "globalPercentUnlocked": 1
+          "name": "All Eggs (2025)",
+          "description": "Find all Easter Eggs in the Main Lobby"
         },
         "ENVIRONMENT_PROTECTION": {
           "points": 5,
@@ -6575,11 +6592,10 @@
           "description": "Kill a Zombie with eggs in SkyBlock",
           "globalPercentUnlocked": 1
         },
-        "HAPPY_EASTER_2024": {
+        "HAPPY_EASTER_2025": {
           "points": 5,
-          "name": "Happy Easter (2024)",
-          "description": "Login on Easter Sunday 2024",
-          "globalPercentUnlocked": 1
+          "name": "Happy Easter (2025)",
+          "description": "Login on Easter Sunday 2025"
         },
         "ARCADE_CHICKEN_RACE": {
           "points": 5,
@@ -6719,11 +6735,10 @@
           "description": "Kill a player in Bed Wars while having Jump Boost and Invisibility potion effects.",
           "globalPercentUnlocked": 1
         },
-        "FIRST_EGG_2024": {
+        "FIRST_EGG_2025": {
           "points": 5,
-          "name": "The Chase Begins (2024)",
-          "description": "Find an Easter Egg in the Main Lobby",
-          "globalPercentUnlocked": 1
+          "name": "The Chase Begins (2025)",
+          "description": "Find an Easter Egg in the Main Lobby"
         },
         "VAMPIREZ_CARROT": {
           "points": 5,
@@ -6828,7 +6843,7 @@
         }
       },
       "total_points": 530,
-      "total_legacy_points": 170
+      "total_legacy_points": 195
     },
     "general": {
       "one_time": {
@@ -6932,12 +6947,6 @@
           "secret": true,
           "globalPercentUnlocked": 1
         },
-        "TREASURE_HUNT_2024": {
-          "points": 0,
-          "name": "Treasure Hunt 2024",
-          "description": "Complete the 2024 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
-          "globalPercentUnlocked": 1
-        },
         "GRAPPLE_PRO": {
           "points": 5,
           "name": "Main Lobby: Grapple Pro",
@@ -7027,6 +7036,12 @@
           "points": 0,
           "name": "Treasure Hunt 2023",
           "description": "Complete the 2023 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
+          "legacy": true
+        },
+        "TREASURE_HUNT_2024": {
+          "points": 0,
+          "name": "Treasure Hunt 2024",
+          "description": "Complete the 2024 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
           "legacy": true
         },
         "HAPPIEST_ANNIVERSARY": {

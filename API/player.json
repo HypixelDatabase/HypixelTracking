@@ -50921,7 +50921,13 @@
             "experience": 0
           },
           "bingo": {
-            "pinned": ""
+            "pinned": "",
+            "pvp_easy": {
+              "objectives": {
+                "Duelsparkour3rd": 0,
+                "Woolsheepexplosion": 0
+              }
+            }
           }
         }
       },

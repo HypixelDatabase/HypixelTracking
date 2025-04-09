@@ -26715,7 +26715,14 @@
         "favorite_kits_solo": [],
         "arrows_hit_kit_mythical_fishmonger": 0,
         "arrows_shot_kit_mythical_fishmonger": 0,
-        "longest_bow_shot_kit_mythical_fishmonger": 0
+        "longest_bow_shot_kit_mythical_fishmonger": 0,
+        "arrows_hit_kit_mini_solo_athlete": 0,
+        "arrows_hit_mini": 0,
+        "longest_bow_shot_kit_mini_solo_athlete": 0,
+        "longest_bow_shot_mini": 0,
+        "heads_indescribable": 0,
+        "heads_indescribable_kit_basic_solo_frog": 0,
+        "heads_indescribable_solo": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -42490,6 +42497,15 @@
                 }
               }
             },
+            "2025": {
+              "easter": {
+                "water": {
+                  "fish": 0,
+                  "junk": 0,
+                  "treasure": 0
+                }
+              }
+            },
             "permanent": {
               "water": {
                 "fish": 0,
@@ -50949,7 +50965,10 @@
             },
             "pvp_hard": {
               "objectives": {
-                "Bedwarspartysover": 0
+                "Bedwarspartysover": 0,
+                "Skywarscabinetofsouls": 0,
+                "Swoffering": 0,
+                "Duelsheadintheclouds": 0
               }
             },
             "classic_easy": {
@@ -50962,7 +50981,13 @@
                 "Cvctrickortreat": 0,
                 "Cvcdefusalwin": 0,
                 "Vampzlongnight": 0,
-                "Wizardscapture": 0
+                "Wizardscapture": 0,
+                "Tntrevelingsun": 0
+              }
+            },
+            "casual_easy": {
+              "objectives": {
+                "Maincatchfish": 0
               }
             }
           },

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1744127491928,
+  "lastUpdated": 1744296192230,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6548,7 +6548,8 @@
         "ALL_EGGS_2025": {
           "points": 15,
           "name": "All Eggs (2025)",
-          "description": "Find all Easter Eggs in the Main Lobby"
+          "description": "Find all Easter Eggs in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "ENVIRONMENT_PROTECTION": {
           "points": 5,
@@ -6738,7 +6739,8 @@
         "FIRST_EGG_2025": {
           "points": 5,
           "name": "The Chase Begins (2025)",
-          "description": "Find an Easter Egg in the Main Lobby"
+          "description": "Find an Easter Egg in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "VAMPIREZ_CARROT": {
           "points": 5,

@@ -45804,7 +45804,8 @@
       "given_cookies_105279": [],
       "given_cookies_105284": [],
       "given_cookies_105287": [],
-      "given_cookies_105289": []
+      "given_cookies_105289": [],
+      "given_cookies_105315": []
     },
     "transformation": "",
     "rewardConsumed": true,
@@ -50969,7 +50970,9 @@
                 "Bedwarspartysover": 0,
                 "Skywarscabinetofsouls": 0,
                 "Swoffering": 0,
-                "Duelsheadintheclouds": 0
+                "Duelsheadintheclouds": 0,
+                "Duelshardkillsacrossmodes": 0,
+                "Duelsbridgeflawless": 0
               }
             },
             "classic_easy": {
@@ -50995,7 +50998,20 @@
                 "Disasterssurvive": 0,
                 "Disasterspotato": 0,
                 "Arcadetop3round": 0,
-                "Arcademanywinseasy": 0
+                "Arcademanywinseasy": 0,
+                "Arcadeintothelabyrinth": 0,
+                "Arcadedropperfallinpast": 0,
+                "Housingcookie": 0,
+                "Bbthething": 0,
+                "Bbspeedmedium": 0,
+                "Murdergoldensun": 0,
+                "Murderbowkill": 0,
+                "Arcadezombiesdoor": 0
+              }
+            },
+            "classic_hard": {
+              "objectives": {
+                "Blitzdiamondarmorkill": 0
               }
             }
           },

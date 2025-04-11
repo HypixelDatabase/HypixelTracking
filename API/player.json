@@ -39025,7 +39025,18 @@
         "alpha_wins_cruise_ship": 0,
         "alpha_wins_cruise_ship_MURDER_INFECTION": 0,
         "kills_as_alpha_cruise_ship": 0,
-        "kills_as_alpha_cruise_ship_MURDER_INFECTION": 0
+        "kills_as_alpha_cruise_ship_MURDER_INFECTION": 0,
+        "bow_kills_easter_world_MURDER_INFECTION": 0,
+        "coins_pickedup_easter_world_MURDER_INFECTION": 0,
+        "games_easter_world_MURDER_INFECTION": 0,
+        "kills_as_survivor_easter_world": 0,
+        "kills_as_survivor_easter_world_MURDER_INFECTION": 0,
+        "kills_easter_world_MURDER_INFECTION": 0,
+        "survivor_wins_easter_world": 0,
+        "survivor_wins_easter_world_MURDER_INFECTION": 0,
+        "total_time_survived_seconds_easter_world": 0,
+        "total_time_survived_seconds_easter_world_MURDER_INFECTION": 0,
+        "wins_easter_world_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",
@@ -51039,7 +51050,8 @@
                 "Murdergoldensun": 0,
                 "Murderbowkill": 0,
                 "Arcadezombiesdoor": 0,
-                "Murdersurvivorwin": 0
+                "Murdersurvivorwin": 0,
+                "Arcadeintermediateegghunter": 0
               }
             },
             "classic_hard": {
@@ -51061,7 +51073,8 @@
                 "Murdercantcatchme": 0,
                 "Bbfastguess": 0,
                 "Bbscarygood": 0,
-                "Bbspeedfirst": 0
+                "Bbspeedfirst": 0,
+                "Arcademasteregghunter": 0
               }
             }
           },

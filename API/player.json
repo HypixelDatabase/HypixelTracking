@@ -26723,7 +26723,32 @@
         "heads_indescribable": 0,
         "heads_indescribable_kit_basic_solo_frog": 0,
         "heads_indescribable_solo": 0,
-        "opalsmith": 0
+        "opalsmith": 0,
+        "kit_mini_solo_scout_inventory": {
+          "POTION:2": [],
+          "DIAMOND_BOOTS:0:2": [],
+          "DIAMOND_AXE:0:32,16": [],
+          "IRON_LEGGINGS:0": [],
+          "DIAMOND_PICKAXE:0:32": [],
+          "IRON_HELMET:0": [],
+          "IRON_CHESTPLATE:0": []
+        },
+        "time_played_kit_mini_solo_scout": 0,
+        "xp_kit_mini_solo_scout": 0,
+        "assists_kit_mini_solo_scout": 0,
+        "chests_opened_kit_mini_solo_scout": 0,
+        "games_kit_mini_solo_scout": 0,
+        "survived_players_kit_mini_solo_scout": 0,
+        "xp_kit_mini_solo_champion": 0,
+        "chests_opened_kit_mini_solo_champion": 0,
+        "kills_kit_mini_solo_champion": 0,
+        "longest_bow_kill_kit_mini_solo_champion": 0,
+        "melee_kills_kit_mini_solo_champion": 0,
+        "most_kills_game_kit_mini_solo_champion": 0,
+        "survived_players_kit_mini_solo_champion": 0,
+        "time_played_kit_mini_solo_champion": 0,
+        "void_kills_kit_mini_solo_champion": 0,
+        "games_kit_mini_solo_champion": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -50994,7 +51019,8 @@
                 "Smashthrowoff": 0,
                 "Tntnotenough": 0,
                 "Quakesunnydelight": 0
-              }
+              },
+              "rewards": []
             },
             "casual_easy": {
               "objectives": {
@@ -51010,13 +51036,29 @@
                 "Bbspeedmedium": 0,
                 "Murdergoldensun": 0,
                 "Murderbowkill": 0,
-                "Arcadezombiesdoor": 0
+                "Arcadezombiesdoor": 0,
+                "Murdersurvivorwin": 0
               }
             },
             "classic_hard": {
               "objectives": {
                 "Blitzdiamondarmorkill": 0,
-                "Wallssharpeneddiamond": 0
+                "Wallssharpeneddiamond": 0,
+                "Arenaexerciserestraint": 0,
+                "Cvcallaround": 0
+              }
+            },
+            "casual_hard": {
+              "objectives": {
+                "Arcadezombies25": 0,
+                "Arcademanywins": 0,
+                "Arcadezombiesprison": 0,
+                "Murdercollectgoldmultigame": 0,
+                "Murdercaughtintheact": 0,
+                "Murdercantcatchme": 0,
+                "Bbfastguess": 0,
+                "Bbscarygood": 0,
+                "Bbspeedfirst": 0
               }
             }
           },

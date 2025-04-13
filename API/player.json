@@ -3143,7 +3143,8 @@
           "projectile_trail_sparkler",
           "deep_ocean_pixel_party_pants",
           "pumpkin_wall",
-          "movement_trail_frosty"
+          "movement_trail_frosty",
+          "victory_dance_egg_meteors"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -19889,7 +19890,15 @@
           "ecologist_prestige_2",
           "athlete_prestige_1",
           "emblem_default",
-          "emblem_omega"
+          "emblem_omega",
+          "cage_caterpillar",
+          "victorydance_egg_meteors",
+          "sprays_painted_dragon_egg",
+          "sprays_flowers_for_you",
+          "sprays_lazy_spring",
+          "sprays_bee_that_chicken",
+          "cage_birdhouse",
+          "cage_tulip"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -32910,7 +32919,8 @@
           "projectile_trail_rose",
           "victorydance_heat_wave",
           "kill_effect_shockwave",
-          "projectile_trail_stormy"
+          "projectile_trail_stormy",
+          "victorydance_egg_meteors"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -35131,7 +35141,15 @@
           "islandtopper_penguin_stack",
           "islandtopper_roast_turkey",
           "islandtopper_hot_cocoa",
-          "projectiletrail_snowball_rain"
+          "projectiletrail_snowball_rain",
+          "victorydance_egg_meteors",
+          "sprays_flowers_for_you",
+          "sprays_lazy_spring",
+          "sprays_bee_that_chicken",
+          "sprays_painted_dragon_egg",
+          "islandtopper_picnic_basket",
+          "islandtopper_watering_can",
+          "islandtopper_birdhouse"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -36944,7 +36962,12 @@
           "kill_note_angelic_jerry",
           "kill_note_turkey_day",
           "kill_note_casual_christmas",
-          "kill_note_family_photo_christmas"
+          "kill_note_family_photo_christmas",
+          "victory_dance_egg_meteors",
+          "kill_note_bee_that_chicken",
+          "kill_note_flowers_for_you",
+          "kill_note_lazy_spring",
+          "kill_note_painted_dragon_egg"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39516,7 +39539,11 @@
           "emblem_palm_tree",
           "cosmetictitle_the_haunted",
           "emblem_jack_o_lantern",
-          "emblem_boo"
+          "emblem_boo",
+          "victory_dance_egg_meteors",
+          "emblem_rabbit",
+          "emblem_easter_egg",
+          "emblem_tulip"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -41293,7 +41320,8 @@
           "victory_dance_rooted",
           "island_hourglass",
           "movement_trail_frosty",
-          "island_jerry"
+          "island_jerry",
+          "victory_dance_egg_meteors"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -43602,7 +43630,9 @@
         "gadget_levitation_gun",
         "pet_specter",
         "pet_enderman_pumpkin",
-        "pet_enderman_snow_block"
+        "pet_enderman_snow_block",
+        "gadget_golden_chicken_statue",
+        "pet_enderman_hay_bale"
       ]
     },
     "vanityTokens": 0,

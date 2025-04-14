@@ -43632,7 +43632,9 @@
         "pet_enderman_pumpkin",
         "pet_enderman_snow_block",
         "gadget_golden_chicken_statue",
-        "pet_enderman_hay_bale"
+        "pet_enderman_hay_bale",
+        "gadget_pig_launcher",
+        "pet_melon"
       ]
     },
     "vanityTokens": 0,
@@ -51039,7 +51041,8 @@
                 "Bedwarsnorest": 0,
                 "Bedwarsshopoftraps": 0,
                 "Wwflawless": 0
-              }
+              },
+              "rewards": []
             },
             "pvp_hard": {
               "objectives": {
@@ -51059,7 +51062,8 @@
                 "Wwnoenemywool": 0,
                 "Wooltechnicolor": 0,
                 "Duelsuhcwins": 0
-              }
+              },
+              "rewards": []
             },
             "classic_easy": {
               "objectives": {
@@ -51100,7 +51104,8 @@
                 "Murdersurvivorwin": 0,
                 "Arcadeintermediateegghunter": 0,
                 "Bbvote": 0
-              }
+              },
+              "rewards": []
             },
             "classic_hard": {
               "objectives": {
@@ -51118,8 +51123,10 @@
                 "Warlordscapture": 0,
                 "Tkrdeadlydrifting": 0,
                 "Blitzstar": 0,
-                "Megawallsfinaldestination": 0
-              }
+                "Megawallsfinaldestination": 0,
+                "Smashtwolives": 0
+              },
+              "rewards": []
             },
             "casual_hard": {
               "objectives": {
@@ -51139,7 +51146,12 @@
                 "Murderinfectionstreak": 0,
                 "Maincatchjunk": 0,
                 "Disastersfullhealth": 0
-              }
+              },
+              "rewards": []
+            },
+            "rewards": {
+              "easy": true,
+              "hard": true
             }
           },
           "duelsWinsAchievement": 0,
@@ -51647,6 +51659,9 @@
       },
       "eventShopSorting": {
         "ownedFirst": true
+      },
+      "bingo": {
+        "bucks": 0
       }
     },
     "completed_christmas_quests_2022": 0,

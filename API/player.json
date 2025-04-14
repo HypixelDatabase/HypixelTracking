@@ -36992,7 +36992,8 @@
           "kill_note_lazy_spring",
           "kill_note_painted_dragon_egg",
           "victory_dance_swarm",
-          "projectile_trail_bee"
+          "projectile_trail_bee",
+          "knife_skin_spray_painted_shovel"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39012,9 +39013,13 @@
             "progress": 0
           },
           "Doubledosage": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Jobsearch": {
+            "progress": 0
+          },
+          "Silverbullet": {
             "progress": 0
           }
         },

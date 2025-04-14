@@ -35149,7 +35149,11 @@
           "sprays_painted_dragon_egg",
           "islandtopper_picnic_basket",
           "islandtopper_watering_can",
-          "islandtopper_birdhouse"
+          "islandtopper_birdhouse",
+          "projectiletrail_bee",
+          "islandtopper_rabbit_ears",
+          "killeffect_rainbow",
+          "npcskin_blue_rabbit"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -36967,7 +36971,9 @@
           "kill_note_bee_that_chicken",
           "kill_note_flowers_for_you",
           "kill_note_lazy_spring",
-          "kill_note_painted_dragon_egg"
+          "kill_note_painted_dragon_egg",
+          "victory_dance_swarm",
+          "projectile_trail_bee"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -51658,7 +51664,8 @@
         }
       },
       "eventShopSorting": {
-        "ownedFirst": true
+        "ownedFirst": true,
+        "currentSort": ""
       },
       "bingo": {
         "bucks": 0

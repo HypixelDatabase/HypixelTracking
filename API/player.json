@@ -26761,7 +26761,26 @@
         "void_kills_kit_mini_solo_champion": 0,
         "games_kit_mini_solo_champion": 0,
         "mobs_killed_lab_kit_attacking_team_pig-rider": 0,
-        "xp_kit_basic_solo_default": 0
+        "xp_kit_basic_solo_default": 0,
+        "activeKit_MINI": "",
+        "activeKit_MINI_random": true,
+        "kills_kit_mini_solo_scout": 0,
+        "longest_bow_kill_kit_mini_solo_scout": 0,
+        "melee_kills_kit_mini_solo_scout": 0,
+        "most_kills_game_kit_mini_solo_scout": 0,
+        "assists_kit_mini_solo_champion": 0,
+        "arrows_hit_kit_mini_solo_champion": 0,
+        "arrows_shot_kit_mini_solo_champion": 0,
+        "longest_bow_shot_kit_mini_solo_champion": 0,
+        "arrows_hit_kit_mini_solo_scout": 0,
+        "arrows_shot_kit_mini_solo_scout": 0,
+        "bow_kills_kit_mini_solo_scout": 0,
+        "bow_kills_mini": 0,
+        "fastest_win_kit_mini_solo_scout": 0,
+        "killstreak_kit_mini_solo_scout": 0,
+        "longest_bow_shot_kit_mini_solo_scout": 0,
+        "void_kills_kit_mini_solo_scout": 0,
+        "wins_kit_mini_solo_scout": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -38971,7 +38990,8 @@
             "claimed": true
           },
           "Lurkingcontagion": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Serialtrapper": {
             "progress": 0
@@ -39072,7 +39092,11 @@
         "alpha_wins_archives_top_floor": 0,
         "alpha_wins_archives_top_floor_MURDER_INFECTION": 0,
         "kills_as_alpha_archives_top_floor": 0,
-        "kills_as_alpha_archives_top_floor_MURDER_INFECTION": 0
+        "kills_as_alpha_archives_top_floor_MURDER_INFECTION": 0,
+        "alpha_wins_widow's_den": 0,
+        "alpha_wins_widow's_den_MURDER_INFECTION": 0,
+        "kills_as_alpha_widow's_den": 0,
+        "kills_as_alpha_widow's_den_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

@@ -36994,7 +36994,8 @@
           "victory_dance_swarm",
           "projectile_trail_bee",
           "knife_skin_spray_painted_shovel",
-          "projectile_trail_glitch"
+          "projectile_trail_glitch",
+          "knife_skin_shred"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39018,9 +39019,14 @@
             "claimed": true
           },
           "Jobsearch": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Silverbullet": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Hero": {
             "progress": 0,
             "claimed": true
           }

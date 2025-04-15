@@ -38997,7 +38997,8 @@
             "claimed": true
           },
           "Serialtrapper": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Survival": {
             "progress": 0,
@@ -39127,7 +39128,13 @@
         "kills_as_murderer_darkfall_MURDER_DOUBLE_UP": 0,
         "knife_kills_darkfall_MURDER_DOUBLE_UP": 0,
         "murderer_wins_darkfall_MURDER_DOUBLE_UP": 0,
-        "thrown_knife_kills_darkfall_MURDER_DOUBLE_UP": 0
+        "thrown_knife_kills_darkfall_MURDER_DOUBLE_UP": 0,
+        "kills_as_infected_easter_world": 0,
+        "kills_as_infected_easter_world_MURDER_INFECTION": 0,
+        "alpha_wins_archives": 0,
+        "alpha_wins_archives_MURDER_INFECTION": 0,
+        "kills_as_alpha_archives": 0,
+        "kills_as_alpha_archives_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

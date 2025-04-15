@@ -36993,7 +36993,8 @@
           "kill_note_painted_dragon_egg",
           "victory_dance_swarm",
           "projectile_trail_bee",
-          "knife_skin_spray_painted_shovel"
+          "knife_skin_spray_painted_shovel",
+          "projectile_trail_glitch"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39020,7 +39021,8 @@
             "progress": 0
           },
           "Silverbullet": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {

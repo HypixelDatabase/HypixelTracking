@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1744296192230,
+  "lastUpdated": 1744731483185,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6458,7 +6458,7 @@
         "SPRINGY_BINGO": {
           "points": 20,
           "name": "Springy Bingo",
-          "description": "Complete the Hard Bingo Card during a Easter Event",
+          "description": "Complete the Hard Bingo Card during an Easter Event",
           "legacy": true
         },
         "HAPPY_EASTER_2020": {
@@ -6954,6 +6954,11 @@
           "name": "Main Lobby: Grapple Pro",
           "description": "Obtain the Grappling Hook from Lobby Explorer Oliver",
           "globalPercentUnlocked": 1
+        },
+        "TREASURE_HUNT_2025": {
+          "points": 0,
+          "name": "Treasure Hunt 2025",
+          "description": "Participate in the 2025 Hypixel Anniversary Event. Thank you for being a part of Hypixel!"
         },
         "USE_PORTAL": {
           "points": 5,

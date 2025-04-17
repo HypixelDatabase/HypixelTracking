@@ -37006,7 +37006,8 @@
           "projectile_trail_bee",
           "knife_skin_spray_painted_shovel",
           "projectile_trail_glitch",
-          "knife_skin_shred"
+          "knife_skin_shred",
+          "deathcry_puddle"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39048,7 +39049,8 @@
             "claimed": true
           },
           "Bloodlust": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Pythagoreandisposal": {
             "progress": 0,
@@ -39154,7 +39156,8 @@
         "was_hero_easter_world_MURDER_DOUBLE_UP": 0,
         "bow_kills_easter_world_MURDER_DOUBLE_UP": 0,
         "murderer_wins_archives_MURDER_DOUBLE_UP": 0,
-        "quickest_murderer_win_time_seconds_archives_MURDER_DOUBLE_UP": 0
+        "quickest_murderer_win_time_seconds_archives_MURDER_DOUBLE_UP": 0,
+        "thrown_knife_kills_mountain_MURDER_DOUBLE_UP": 0
       },
       "Duels": {
         "duels_recently_played": "",

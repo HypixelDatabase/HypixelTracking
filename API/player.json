@@ -37008,7 +37008,8 @@
           "projectile_trail_glitch",
           "knife_skin_shred",
           "deathcry_puddle",
-          "projectile_trail_wither_skull"
+          "projectile_trail_wither_skull",
+          "gravestone_botanic"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39063,6 +39064,10 @@
           "Makeshiftshield": {
             "progress": 0,
             "claimed": true
+          },
+          "Totaloutbreak": {
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {
@@ -39167,7 +39172,11 @@
         "quickest_murderer_win_time_seconds_archives_MURDER_DOUBLE_UP": 0,
         "thrown_knife_kills_mountain_MURDER_DOUBLE_UP": 0,
         "suicides_cattleridge_farm": 0,
-        "suicides_cattleridge_farm_MURDER_CLASSIC": 0
+        "suicides_cattleridge_farm_MURDER_CLASSIC": 0,
+        "alpha_wins_ancient_tomb": 0,
+        "alpha_wins_ancient_tomb_MURDER_INFECTION": 0,
+        "kills_as_alpha_ancient_tomb": 0,
+        "kills_as_alpha_ancient_tomb_MURDER_INFECTION": 0
       },
       "Duels": {
         "duels_recently_played": "",

@@ -206,6 +206,18 @@ const tasks = [
         //
       }
     },
+  },
+  {
+    name: 'Get API policy',
+    func: async () => {
+      try {
+        const policyResponse = await axios.get('https://api.ragingenby.dev/apipolicy');
+        await fs.promises.writeFile('./API/policy.json', JSON.stringify(policyResponse.data, null, 2));
+        log('Saved API policy to ./API/policy.json', 'ok');
+      } catch (error) {
+        log(`Failed to fetch API policy: ${error}`, 'error');
+      }
+    },
   }
 ];
 

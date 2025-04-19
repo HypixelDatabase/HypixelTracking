@@ -37010,7 +37010,9 @@
           "deathcry_puddle",
           "projectile_trail_wither_skull",
           "gravestone_botanic",
-          "projectile_trail_derailed"
+          "projectile_trail_derailed",
+          "knife_skin_double_death_scythe",
+          "deathcry_greed"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39084,9 +39086,14 @@
             "claimed": true
           },
           "Seasonedhitman": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Dualproficiency": {
+            "progress": 0,
+            "claimed": true
+          },
+          "Deathdefy": {
             "progress": 0,
             "claimed": true
           }

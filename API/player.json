@@ -37009,7 +37009,8 @@
           "knife_skin_shred",
           "deathcry_puddle",
           "projectile_trail_wither_skull",
-          "gravestone_botanic"
+          "gravestone_botanic",
+          "projectile_trail_derailed"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -39075,7 +39076,8 @@
             "progress": 0
           },
           "Collateral": {
-            "progress": 0
+            "progress": 0,
+            "claimed": true
           },
           "Grandslam": {
             "progress": 0,
@@ -39083,6 +39085,10 @@
           },
           "Seasonedhitman": {
             "progress": 0
+          },
+          "Dualproficiency": {
+            "progress": 0,
+            "claimed": true
           }
         },
         "knifeSkinPrestiges": {

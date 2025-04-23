@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1744899965670,
+  "lastUpdated": 1745422348972,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6596,7 +6596,8 @@
         "HAPPY_EASTER_2025": {
           "points": 5,
           "name": "Happy Easter (2025)",
-          "description": "Login on Easter Sunday 2025"
+          "description": "Login on Easter Sunday 2025",
+          "globalPercentUnlocked": 1
         },
         "ARCADE_CHICKEN_RACE": {
           "points": 5,
@@ -13551,6 +13552,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "DIGGING_THROUGH_THE_DESCENT": {
+          "points": 25,
+          "name": "Digging Through The Descent",
+          "description": "Unlock the Archeologist Kit in the Angel's Descent"
+        },
         "CHALLENGE_NO_BLOCK": {
           "points": 5,
           "name": "No Block Challenge",
@@ -13583,8 +13589,7 @@
           "points": 25,
           "name": "The Angel's Journey",
           "description": "Complete the Angel's Descent",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "ATTENTION_SEEKING": {
           "points": 10,
@@ -13702,8 +13707,7 @@
           "points": 10,
           "name": "Max Soul Well",
           "description": "Max out the capacity on your soul well",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "SPEED_RUNNER": {
           "points": 10,
@@ -13759,6 +13763,11 @@
           "description": "Win a Mega game with all your teammates alive",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "BLASPHEMOUS": {
+          "points": 25,
+          "name": "Blasphemous",
+          "description": "Unlock the Fallen Angel Kit"
         },
         "HAPPY_MEAL": {
           "points": 10,
@@ -13952,27 +13961,27 @@
             {
               "tier": 1,
               "points": 5,
-              "amount": 50
+              "amount": 10
             },
             {
               "tier": 2,
               "points": 10,
-              "amount": 250
+              "amount": 50
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 500
+              "amount": 250
             },
             {
               "tier": 4,
               "points": 20,
-              "amount": 1000
+              "amount": 500
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 2500
+              "amount": 1000
             }
           ]
         },
@@ -14484,8 +14493,8 @@
           ]
         }
       },
-      "total_points": 1750,
-      "total_legacy_points": 65
+      "total_points": 1765,
+      "total_legacy_points": 100
     },
     "speeduhc": {
       "one_time": {

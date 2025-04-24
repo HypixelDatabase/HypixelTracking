@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1745422348972,
+  "lastUpdated": 1745496232055,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -13555,7 +13555,9 @@
         "DIGGING_THROUGH_THE_DESCENT": {
           "points": 25,
           "name": "Digging Through The Descent",
-          "description": "Unlock the Archeologist Kit in the Angel's Descent"
+          "description": "Unlock the Archeologist Kit in the Angel's Descent",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CHALLENGE_NO_BLOCK": {
           "points": 5,
@@ -13767,7 +13769,9 @@
         "BLASPHEMOUS": {
           "points": 25,
           "name": "Blasphemous",
-          "description": "Unlock the Fallen Angel Kit"
+          "description": "Unlock the Fallen Angel Kit",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "HAPPY_MEAL": {
           "points": 10,

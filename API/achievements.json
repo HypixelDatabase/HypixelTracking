@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1745496232055,
+  "lastUpdated": 1746725885741,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7163,6 +7163,7 @@
         "COINS": {
           "name": "Ultimate Banker",
           "description": "Earn a total of %%value%% coins",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -7285,8 +7286,8 @@
           ]
         }
       },
-      "total_points": 700,
-      "total_legacy_points": 50
+      "total_points": 625,
+      "total_legacy_points": 125
     },
     "gingerbread": {
       "one_time": {

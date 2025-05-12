@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1746725885741,
+  "lastUpdated": 1747039199134,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -16065,8 +16065,7 @@
           "points": 15,
           "name": "Overpowered archery",
           "description": "Get Bow Spleef Double Jump, Repulsor, and Triple Shot to level 6",
-          "gamePercentUnlocked": 1,
-          "globalPercentUnlocked": 1
+          "legacy": true
         },
         "WIZARDS_HEAL": {
           "points": 5,
@@ -16594,8 +16593,8 @@
           ]
         }
       },
-      "total_points": 1840,
-      "total_legacy_points": 80
+      "total_points": 1825,
+      "total_legacy_points": 95
     },
     "truecombat": {
       "one_time": {

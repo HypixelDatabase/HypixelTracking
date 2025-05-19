@@ -26494,12 +26494,14 @@
         "challenge_attempts_rookie_kit_advanced_solo_zookeeper": 0,
         "challenge_wins_rookie_kit_advanced_solo_zookeeper": 0,
         "kit_basic_solo_archeologist_inventory": {
-          "FISHING_ROD:0": "",
-          "LEATHER_CHESTPLATE:0": "",
-          "POTION:5": "",
-          "GOLD_HELMET:0": "",
-          "POTION:3": "",
-          "LEATHER_BOOTS:0": ""
+          "FISHING_ROD:0": [],
+          "LEATHER_CHESTPLATE:0": [],
+          "POTION:5": [],
+          "GOLD_HELMET:0": [],
+          "POTION:3": [],
+          "LEATHER_BOOTS:0": [],
+          "GOLD_HELMET:0:34": [],
+          "FISHING_ROD:0:34,61": []
         },
         "assists_kit_basic_solo_archeologist": 0,
         "chests_opened_kit_basic_solo_archeologist": 0,

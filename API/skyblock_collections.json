@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1743515602367,
-  "version": "0.22.1.8",
+  "lastUpdated": 1750685994547,
+  "version": "0.23.0.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -2550,7 +2550,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Treecapitator Recipe",
+                "+25,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4445,8 +4445,94 @@
     "FORAGING": {
       "name": "Foraging",
       "items": {
+        "SEA_LUMIES": {
+          "name": "Sea Lumies",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 25,
+              "unlocks": [
+                "Basic Fishing Net Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 50,
+              "unlocks": [
+                "Enchanted Sea Lumies Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Bubbles of Air Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 250,
+              "unlocks": [
+                "Enchanted Book (Scuba I) Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 500,
+              "unlocks": [
+                "Medium Fishing Net Recipe",
+                "Pressure Talisman Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 750,
+              "unlocks": [
+                "Diver's Mask Recipe",
+                "Diver's Shirt Recipe",
+                "Diver's Trunks Recipe",
+                "Diver's Boots Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Pressure Ring Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Abyssal Helmet Recipe",
+                "Abyssal Chestplate Recipe",
+                "Abyssal Leggings Recipe",
+                "Abyssal Boots Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Turbo Fishing Net Recipe",
+                "Pressure Artifact Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
         "LOG_2": {
-          "name": "Acacia Wood",
+          "name": "Acacia Log",
           "maxTiers": 9,
           "tiers": [
             {
@@ -4469,6 +4555,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "Enchanted Acacia Log Recipe",
                 "Portal to Savanna Woodland Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -4477,7 +4564,7 @@
               "tier": 4,
               "amountRequired": 500,
               "unlocks": [
-                "+500 Foraging Experience",
+                "Savanna Bow Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4493,8 +4580,7 @@
               "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Acacia Wood Recipe",
-                "Repelling Candle Recipe",
+                "+2,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4502,7 +4588,7 @@
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Savanna Bow Recipe",
+                "Repelling Candle Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4525,7 +4611,7 @@
           ]
         },
         "LOG:1": {
-          "name": "Spruce Wood",
+          "name": "Spruce Log",
           "maxTiers": 9,
           "tiers": [
             {
@@ -4540,6 +4626,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
+                "Spruce Axe Recipe",
                 "Spruce Leaves Trade",
                 "+4 SkyBlock XP"
               ]
@@ -4548,12 +4635,21 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "Enchanted Spruce Log Recipe",
                 "Portal to Spruce Woods Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "+500 Foraging Experience",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
                 "Taiga Biome Stick Recipe",
@@ -4561,32 +4657,24 @@
               ]
             },
             {
-              "tier": 5,
+              "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Spruce Wood Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "tier": 6,
-              "amountRequired": 5000,
-              "unlocks": [
-                "+2,500 Foraging Experience",
+                "+2,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
-              "amountRequired": 10000,
+              "amountRequired": 5000,
               "unlocks": [
-                "+5,000 Foraging Experience",
+                "Woodcutting Crystal Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 8,
-              "amountRequired": 25000,
+              "amountRequired": 10000,
               "unlocks": [
                 "Mystery Wolf Pet Recipe",
                 "+4 SkyBlock XP"
@@ -4594,16 +4682,96 @@
             },
             {
               "tier": 9,
-              "amountRequired": 50000,
+              "amountRequired": 25000,
               "unlocks": [
-                "+10,000 Foraging Experience",
+                "+25,000 Foraging Experience",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "VINESAP": {
+          "name": "Vinesap",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Worn Huntaxe - Genesis Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 25,
+              "unlocks": [
+                "Vinerip Lasso Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 50,
+              "unlocks": [
+                "Sharpened Huntaxe - Dominus Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Vinesap Recipe",
+                "Entangler Lasso Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 200,
+              "unlocks": [
+                "Reinforced Huntaxe - Cursus Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 400,
+              "unlocks": [
+                "Everstretch Lasso Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 600,
+              "unlocks": [
+                "Savage Huntaxe - Praedator Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 800,
+              "unlocks": [
+                "+50,000 Hunting Experience",
+                "+50,000 Foraging Experience",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Prime Huntaxe - Nex Titanum Recipe",
                 "+4 SkyBlock XP"
               ]
             }
           ]
         },
         "LOG:3": {
-          "name": "Jungle Wood",
+          "name": "Jungle Log",
           "maxTiers": 9,
           "tiers": [
             {
@@ -4626,6 +4794,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "Enchanted Jungle Log Recipe",
                 "Portal to Jungle Island Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -4650,7 +4819,7 @@
               "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Jungle Wood Recipe",
+                "+2,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4658,7 +4827,7 @@
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Jungle Axe Recipe",
+                "Treecapitator Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4666,7 +4835,7 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "+1,000 Foraging Experience",
+                "+10,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4681,8 +4850,8 @@
           ]
         },
         "LOG:2": {
-          "name": "Birch Wood",
-          "maxTiers": 10,
+          "name": "Birch Log",
+          "maxTiers": 9,
           "tiers": [
             {
               "tier": 1,
@@ -4704,6 +4873,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "Enchanted Birch Log Recipe",
                 "Portal to Birch Park Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -4729,7 +4899,6 @@
               "amountRequired": 2000,
               "unlocks": [
                 "Small Foraging Sack Recipe",
-                "Enchanted Birch Wood Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4738,7 +4907,6 @@
               "amountRequired": 5000,
               "unlocks": [
                 "Medium Foraging Sack Recipe",
-                "Woodcutting Crystal Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4746,7 +4914,7 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Travel Scroll to The Park Recipe",
+                "Large Foraging Sack Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4754,22 +4922,140 @@
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Large Foraging Sack Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "tier": 10,
-              "amountRequired": 50000,
-              "unlocks": [
                 "Large Enchanted Foraging Sack Recipe",
                 "+4 SkyBlock XP"
               ]
             }
           ]
         },
+        "LUSHLILAC": {
+          "name": "Lushlilac",
+          "maxTiers": 5,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 25,
+              "unlocks": [
+                "Lushlilac Bonbon Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 50,
+              "unlocks": [
+                "Oceandy Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 100,
+              "unlocks": [
+                "Prime Lushlilac Bonbon Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 250,
+              "unlocks": [
+                "+1,000 Hunting Experience",
+                "+1,000 Foraging Experience",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 500,
+              "unlocks": [
+                "Exalted Lushlilac Bonbon Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "MANGROVE_LOG": {
+          "name": "Mangrove Log",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 500,
+              "unlocks": [
+                "Travel Scroll to Murkwater Loch Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Mangrove Log Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Mangrove Locket Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Mangrove Vine Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Mangrove Gem Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Mangcore Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Seagull Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Mangrove Grippers Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 150000,
+              "unlocks": [
+                "+110,000 Foraging Experience",
+                "+1 Foraging Level Cap",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
         "LOG": {
-          "name": "Oak Wood",
+          "name": "Oak Log",
           "maxTiers": 9,
           "tiers": [
             {
@@ -4784,6 +5070,10 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
+                "Leaflet Hat Recipe",
+                "Leaflet Tunic Recipe",
+                "Leaflet Pants Recipe",
+                "Leaflet Sandals Recipe",
                 "Oak Leaves Trade",
                 "+4 SkyBlock XP"
               ]
@@ -4792,10 +5082,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Leaflet Hat Recipe",
-                "Leaflet Tunic Recipe",
-                "Leaflet Pants Recipe",
-                "Leaflet Sandals Recipe",
+                "Enchanted Oak Log Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4819,7 +5106,7 @@
               "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Oak Wood Recipe",
+                "Medium Storage Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4827,7 +5114,7 @@
               "tier": 7,
               "amountRequired": 5000,
               "unlocks": [
-                "Medium Storage Recipe",
+                "Wood Affinity Talisman Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4835,13 +5122,13 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Wood Affinity Talisman Recipe",
+                "+10,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 9,
-              "amountRequired": 30000,
+              "amountRequired": 25000,
               "unlocks": [
                 "Large Storage Recipe",
                 "+4 SkyBlock XP"
@@ -4849,8 +5136,171 @@
             }
           ]
         },
+        "FIG_LOG": {
+          "name": "Fig Log",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 500,
+              "unlocks": [
+                "Tiny Scaffolding Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Fig Log Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Medium Scaffolding Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Fig Hew Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Large Scaffolding Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Figstone Recipe",
+                "Figstone Splitter Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Sparrow Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Fig Cap Recipe",
+                "Figmail Recipe",
+                "Fig Trousers Recipe",
+                "Fig Striders Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 150000,
+              "unlocks": [
+                "+100,000 Foraging Experience",
+                "+1 Foraging Level Cap",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "TENDER_WOOD": {
+          "name": "Tender Wood",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 10,
+              "unlocks": [
+                "Small Huntrap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 25,
+              "unlocks": [
+                "Small Fish Bowl Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 50,
+              "unlocks": [
+                "Medium Huntrap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Tender Wood Recipe",
+                "Medium Fish Bowl Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 200,
+              "unlocks": [
+                "Large Huntrap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 400,
+              "unlocks": [
+                "Large Fish Bowl Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 600,
+              "unlocks": [
+                "Greater Huntrap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 800,
+              "unlocks": [
+                "+50,000 Hunting Experience",
+                "+50,000 Foraging Experience",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Astral Huntrap Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
         "LOG_2:1": {
-          "name": "Dark Oak Wood",
+          "name": "Dark Oak Log",
           "maxTiers": 9,
           "tiers": [
             {
@@ -4873,12 +5323,21 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "Enchanted Dark Oak Log Recipe",
                 "Portal to Dark Thicket Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "Roofed Forest Island Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
                 "Roofed Forest Biome Stick Recipe",
@@ -4886,24 +5345,16 @@
               ]
             },
             {
-              "tier": 5,
+              "tier": 6,
               "amountRequired": 2000,
               "unlocks": [
-                "Enchanted Dark Oak Wood Recipe",
-                "+4 SkyBlock XP"
-              ]
-            },
-            {
-              "tier": 6,
-              "amountRequired": 5000,
-              "unlocks": [
-                "Roofed Forest Island Recipe",
+                "+2,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 7,
-              "amountRequired": 10000,
+              "amountRequired": 5000,
               "unlocks": [
                 "Growth Exp Discount (-25%)",
                 "+4 SkyBlock XP"
@@ -4911,9 +5362,9 @@
             },
             {
               "tier": 8,
-              "amountRequired": 15000,
+              "amountRequired": 10000,
               "unlocks": [
-                "+2,500 Foraging Experience",
+                "+10,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },

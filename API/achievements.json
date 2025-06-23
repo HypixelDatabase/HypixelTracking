@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1747039199134,
+  "lastUpdated": 1750685094497,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11036,7 +11036,7 @@
         "AMALGAMATION": {
           "points": 5,
           "name": "Amalgamation",
-          "description": "Fuse 2 items to increase attributes",
+          "description": "Obtain a new shard from the Fusion Machine",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -11518,6 +11518,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "JADE_DRAGONS_EGG": {
+          "points": 10,
+          "name": "The Jade Dragon's Egg",
+          "description": "Buy a Jade Dragon Egg from the dragon in Galatea"
+        },
         "DIVERSE_DESTRUCTION": {
           "points": 15,
           "name": "The Crux of it All",
@@ -11990,7 +11995,7 @@
         "NIGHT_EYES": {
           "points": 5,
           "name": "Night Eyes",
-          "description": "Craft a Night Vision charm",
+          "description": "Craft a Night Vision Charm",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -13055,7 +13060,7 @@
           ]
         }
       },
-      "total_points": 2930,
+      "total_points": 2940,
       "total_legacy_points": 0
     },
     "skyclash": {

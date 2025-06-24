@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1750685094497,
+  "lastUpdated": 1750776807420,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6497,6 +6497,12 @@
           "description": "Login on Easter Sunday 2019",
           "legacy": true
         },
+        "INNER_RABBIT": {
+          "points": 5,
+          "name": "Inner Rabbit",
+          "description": "Use a Mars Potion on the map Archives Top Floor in Murder Mystery",
+          "legacy": true
+        },
         "FIRST_EGG_2021": {
           "points": 5,
           "name": "The Chase Begins (2021)",
@@ -6629,12 +6635,6 @@
           "description": "Activate the Leeroy Jenkins killstreak in Paintball",
           "globalPercentUnlocked": 1
         },
-        "INNER_RABBIT": {
-          "points": 5,
-          "name": "Inner Rabbit",
-          "description": "Use a Mars Potion on the map Archives Top Floor in Murder Mystery",
-          "globalPercentUnlocked": 1
-        },
         "MIDSPRING_NIGHTS_DREAM": {
           "points": 10,
           "name": "Midspring Night's Dream",
@@ -6662,7 +6662,7 @@
         "SW_EGG_VOID": {
           "points": 10,
           "name": "Fill the Void",
-          "description": "Throw 3 players in the void within 8 seconds using eggs in a game of SkyWars",
+          "description": "Throw 3 players in the void using eggs in a game of SkyWars",
           "globalPercentUnlocked": 1
         },
         "SPRINGTIME_MATCH_UPS": {
@@ -6845,8 +6845,8 @@
           ]
         }
       },
-      "total_points": 530,
-      "total_legacy_points": 195
+      "total_points": 525,
+      "total_legacy_points": 200
     },
     "general": {
       "one_time": {

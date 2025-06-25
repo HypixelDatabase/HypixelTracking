@@ -9251,7 +9251,8 @@
           "attractive",
           "attractive_enderman",
           "attractive_skeleton",
-          "vampirecolor_blood"
+          "vampirecolor_blood",
+          "vampirecolor_wet_sand"
         ],
         "kill_booster": 0,
         "wave_booster": 0,
@@ -20044,7 +20045,14 @@
           "kit_advanced_solo_farmer_prestige_6",
           "kit_mega_mega_armorer_prestige_4",
           "kit_mega_mega_scout_prestige_3",
-          "kit_mega_mega_pyromaniac_prestige_1"
+          "kit_mega_mega_pyromaniac_prestige_1",
+          "cage_blue_parrot",
+          "cage_lighthouse",
+          "sprays_sand_castle",
+          "sprays_sloth_burn",
+          "sprays_sea_bass",
+          "sprays_surfs_up",
+          "cage_popsicle"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -35381,7 +35389,16 @@
           "projectiletrail_bee",
           "islandtopper_rabbit_ears",
           "killeffect_rainbow",
-          "npcskin_blue_rabbit"
+          "npcskin_blue_rabbit",
+          "glyph_hot",
+          "glyph_shell",
+          "glyph_umbrella",
+          "sprays_sea_bass",
+          "sprays_sloth_burn",
+          "sprays_sand_castle",
+          "sprays_surfs_up",
+          "islandtopper_sailboat",
+          "islandtopper_hermit_crab"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -37212,7 +37229,12 @@
           "knife_skin_double_death_scythe",
           "deathcry_greed",
           "gravestone_niche",
-          "gravestone_creeper"
+          "gravestone_creeper",
+          "gravestone_sand_castle",
+          "kill_note_sea_bass",
+          "kill_note_surfs_up",
+          "kill_note_sloth_burn",
+          "kill_note_sand_castle"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -43171,7 +43193,9 @@
           "apr_5_23_ench_reset",
           "fishing_rod_haunted",
           "fishing_rod_festive",
-          "mainlobby_fishing_helios_breath"
+          "mainlobby_fishing_helios_breath",
+          "mainlobby_fishing_ominous_rain",
+          "mainlobby_fishing_neptune_grace"
         ],
         "leaderboardSettings": {
           "fishingType": ""
@@ -43999,7 +44023,8 @@
         "gadget_golden_chicken_statue",
         "pet_enderman_hay_bale",
         "gadget_pig_launcher",
-        "pet_melon"
+        "pet_melon",
+        "pet_iron_golem_rose"
       ]
     },
     "vanityTokens": 0,
@@ -46128,7 +46153,12 @@
         "furniture_bunny_tv",
         "furniture_bunny_coffee_table",
         "furniture_bunny_armchair",
-        "furniture_bunny_sofa"
+        "furniture_bunny_sofa",
+        "furniture_patio_stool",
+        "furniture_patio_fire_pit",
+        "furniture_patio_side_table",
+        "furniture_patio_bench",
+        "furniture_patio_sofa"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",

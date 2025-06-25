@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1750776807420,
+  "lastUpdated": 1750871907420,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11521,7 +11521,9 @@
         "JADE_DRAGONS_EGG": {
           "points": 10,
           "name": "The Jade Dragon's Egg",
-          "description": "Buy a Jade Dragon Egg from the dragon in Galatea"
+          "description": "Buy a Jade Dragon Egg from the dragon in Galatea",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DIVERSE_DESTRUCTION": {
           "points": 15,

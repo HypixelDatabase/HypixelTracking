@@ -41504,7 +41504,8 @@
         "sheep_b_perfect_disguises": 0,
         "sheep_b_perfect_disguises_standard": 0,
         "sheep_perfect_disguises": 0,
-        "sheep_perfect_disguises_standard": 0
+        "sheep_perfect_disguises_standard": 0,
+        "redis_to_player_data_sync": true
       },
       "BuildBattle": {
         "wins": 0,

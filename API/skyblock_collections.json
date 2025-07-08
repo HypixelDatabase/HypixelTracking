@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1750685994547,
-  "version": "0.23.0.0",
+  "lastUpdated": 1751995406024,
+  "version": "0.23.1.1",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -267,6 +267,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Chicken Recipe",
                 "Chicken Hat Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -291,7 +292,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Chicken Pet Recipe",
+                "+5,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -690,7 +691,10 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "+500 Farming Experience",
+                "Mushroom Helmet Recipe",
+                "Mushroom Chestplate Recipe",
+                "Mushroom Leggings Recipe",
+                "Mushroom Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -698,10 +702,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Mushroom Helmet Recipe",
-                "Mushroom Chestplate Recipe",
-                "Mushroom Leggings Recipe",
-                "Mushroom Boots Recipe",
+                "[Lvl 1] Bat Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -753,7 +754,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Bat Pet Recipe",
+                "+10,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -775,7 +776,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Mystery Rabbit Pet Recipe",
+                "+100 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -784,6 +785,7 @@
               "amountRequired": 250,
               "unlocks": [
                 "Rabbit Potion Recipe",
+                "[Lvl 1] Rabbit Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -792,6 +794,7 @@
               "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Rabbit Foot Recipe",
+                "Enchanted Raw Rabbit Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -816,6 +819,7 @@
               "amountRequired": 10000,
               "unlocks": [
                 "Luck of the Sea Exp Discount (-25%)",
+                "Enchanted Cooked Rabbit Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -966,7 +970,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "+25 Farming Experience",
+                "[Lvl 1] Sheep Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -999,7 +1003,6 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Mystery Sheep Pet Recipe",
                 "Medium Husbandry Sack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1215,6 +1218,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Horse Recipe",
                 "Small Backpack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1271,7 +1275,7 @@
               "tier": 10,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Horse Pet Recipe",
+                "+10,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1309,7 +1313,9 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "Mystery Pig Pet Recipe",
+                "[Lvl 1] Pig Recipe",
+                "[Lvl 1] Pigman Recipe",
+                "Enchanted Pork Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1317,7 +1323,7 @@
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Pork Recipe",
+                "+100 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1349,7 +1355,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Pigman Pet Recipe",
+                "+10,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1677,7 +1683,7 @@
           "tiers": [
             {
               "tier": 1,
-              "amountRequired": 1000,
+              "amountRequired": 100,
               "unlocks": [
                 "Umber Dice (COMING SOON)",
                 "+4 SkyBlock XP"
@@ -1685,7 +1691,7 @@
             },
             {
               "tier": 2,
-              "amountRequired": 2500,
+              "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Umber Recipe",
                 "+4 SkyBlock XP"
@@ -1693,7 +1699,7 @@
             },
             {
               "tier": 3,
-              "amountRequired": 10000,
+              "amountRequired": 5000,
               "unlocks": [
                 "Refined Umber Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -1701,7 +1707,7 @@
             },
             {
               "tier": 4,
-              "amountRequired": 25000,
+              "amountRequired": 10000,
               "unlocks": [
                 "Umber Key Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -1709,7 +1715,7 @@
             },
             {
               "tier": 5,
-              "amountRequired": 100000,
+              "amountRequired": 25000,
               "unlocks": [
                 "Excavator Potion (COMING SOON)",
                 "+4 SkyBlock XP"
@@ -1717,7 +1723,7 @@
             },
             {
               "tier": 6,
-              "amountRequired": 250000,
+              "amountRequired": 50000,
               "unlocks": [
                 "Umber Plate Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -1725,7 +1731,7 @@
             },
             {
               "tier": 7,
-              "amountRequired": 500000,
+              "amountRequired": 100000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -1733,7 +1739,7 @@
             },
             {
               "tier": 8,
-              "amountRequired": 750000,
+              "amountRequired": 250000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -1741,7 +1747,7 @@
             },
             {
               "tier": 9,
-              "amountRequired": 1000000,
+              "amountRequired": 500000,
               "unlocks": [
                 "Umberella Recipe",
                 "+4 SkyBlock XP"
@@ -1773,6 +1779,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "Enchanted Coal Recipe",
                 "Haste Potion Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1781,7 +1788,7 @@
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Coal Recipe",
+                "[Lvl 1] Wither Skeleton Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1823,7 +1830,6 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Wither Skeleton Pet Recipe",
                 "Large Mining Sack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1863,6 +1869,7 @@
               "amountRequired": 750,
               "unlocks": [
                 "Enchanted Mycelium Recipe",
+                "[Lvl 1] Mooshroom Cow Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1902,7 +1909,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Mooshroom Cow Pet Recipe",
+                "+10,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1952,6 +1959,7 @@
               "amountRequired": 250,
               "unlocks": [
                 "Portal to The End Recipe",
+                "[Lvl 1] Endermite Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1983,7 +1991,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Mystery Endermite Pet Recipe",
+                "+10,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2414,7 +2422,7 @@
           "tiers": [
             {
               "tier": 1,
-              "amountRequired": 1000,
+              "amountRequired": 100,
               "unlocks": [
                 "Chisel Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -2422,7 +2430,7 @@
             },
             {
               "tier": 2,
-              "amountRequired": 2500,
+              "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Tungsten Recipe",
                 "+4 SkyBlock XP"
@@ -2430,7 +2438,7 @@
             },
             {
               "tier": 3,
-              "amountRequired": 10000,
+              "amountRequired": 5000,
               "unlocks": [
                 "Refined Tungsten Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -2438,7 +2446,7 @@
             },
             {
               "tier": 4,
-              "amountRequired": 25000,
+              "amountRequired": 10000,
               "unlocks": [
                 "Tungsten Key Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -2446,7 +2454,7 @@
             },
             {
               "tier": 5,
-              "amountRequired": 100000,
+              "amountRequired": 25000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -2454,7 +2462,7 @@
             },
             {
               "tier": 6,
-              "amountRequired": 250000,
+              "amountRequired": 50000,
               "unlocks": [
                 "Tungsten Plate Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -2462,7 +2470,7 @@
             },
             {
               "tier": 7,
-              "amountRequired": 500000,
+              "amountRequired": 100000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -2470,7 +2478,7 @@
             },
             {
               "tier": 8,
-              "amountRequired": 750000,
+              "amountRequired": 250000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -2478,7 +2486,7 @@
             },
             {
               "tier": 9,
-              "amountRequired": 1000000,
+              "amountRequired": 500000,
               "unlocks": [
                 "Enchanted Book (Metallurgy I) (COMING SOON)",
                 "+4 SkyBlock XP"
@@ -2680,6 +2688,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Silverfish Recipe",
                 "Auto Smelter Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -2704,7 +2713,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Silverfish Pet Recipe",
+                "+1,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3062,6 +3071,7 @@
               "tier": 3,
               "amountRequired": 2500,
               "unlocks": [
+                "[Lvl 1] Mithril Golem Recipe",
                 "Spelunker Potion Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3078,7 +3088,7 @@
               "tier": 5,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Mithril Golem Pet Recipe",
+                "+5,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3222,6 +3232,7 @@
               "tier": 3,
               "amountRequired": 2500,
               "unlocks": [
+                "[Lvl 1] Snail Recipe",
                 "Mesa Biome Stick Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -3246,7 +3257,7 @@
               "tier": 6,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Snail Pet Recipe",
+                "+10,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -3375,7 +3386,7 @@
           "tiers": [
             {
               "tier": 1,
-              "amountRequired": 1000,
+              "amountRequired": 100,
               "unlocks": [
                 "Chilled Torch (COMING SOON)",
                 "+4 SkyBlock XP"
@@ -3383,7 +3394,7 @@
             },
             {
               "tier": 2,
-              "amountRequired": 2500,
+              "amountRequired": 1000,
               "unlocks": [
                 "Enchanted Glacite Recipe",
                 "Cold Resistance Potion Recipe",
@@ -3392,7 +3403,7 @@
             },
             {
               "tier": 3,
-              "amountRequired": 10000,
+              "amountRequired": 5000,
               "unlocks": [
                 "Glacite Amalgamation Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -3400,15 +3411,15 @@
             },
             {
               "tier": 4,
-              "amountRequired": 25000,
+              "amountRequired": 10000,
               "unlocks": [
-                "+25,000 Mining Experience",
+                "[Lvl 1] Glacite Golem Recipe",
                 "+4 SkyBlock XP"
               ]
             },
             {
               "tier": 5,
-              "amountRequired": 100000,
+              "amountRequired": 25000,
               "unlocks": [
                 "Frigid Husk Dwarven Forge Recipe",
                 "+4 SkyBlock XP"
@@ -3416,7 +3427,7 @@
             },
             {
               "tier": 6,
-              "amountRequired": 250000,
+              "amountRequired": 50000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -3424,7 +3435,7 @@
             },
             {
               "tier": 7,
-              "amountRequired": 500000,
+              "amountRequired": 100000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -3432,7 +3443,7 @@
             },
             {
               "tier": 8,
-              "amountRequired": 750000,
+              "amountRequired": 250000,
               "unlocks": [
                 "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
@@ -3440,9 +3451,9 @@
             },
             {
               "tier": 9,
-              "amountRequired": 1000000,
+              "amountRequired": 500000,
               "unlocks": [
-                "Mystery Glacite Golem Pet Recipe",
+                "+10,000 Mining Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -4052,6 +4063,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Zombie Recipe",
                 "Smite Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
@@ -4077,7 +4089,6 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Zombie Pet Recipe",
                 "Zombie's Heart Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -4221,6 +4232,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Skeleton Recipe",
                 "Power Exp Discount (-25%)",
                 "+4 SkyBlock XP"
               ]
@@ -4245,7 +4257,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "Mystery Skeleton Pet Recipe",
+                "+1,000 Combat Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4334,6 +4346,7 @@
               "unlocks": [
                 "Enchanted Blaze Rod Recipe",
                 "Blaze Wax Recipe",
+                "[Lvl 1] Blaze Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4353,7 +4366,7 @@
               "tier": 8,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Blaze Pet Recipe",
+                "+10,000 Combat Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -4383,6 +4396,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Spider Recipe",
                 "Quiver",
                 "+4 SkyBlock XP"
               ]
@@ -4433,7 +4447,6 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Mystery Spider Pet Recipe",
                 "Giant Quiver Upgrade (+9 slots)",
                 "+4 SkyBlock XP"
               ]
@@ -4636,6 +4649,7 @@
               "amountRequired": 250,
               "unlocks": [
                 "Enchanted Spruce Log Recipe",
+                "[Lvl 1] Wolf Recipe",
                 "Portal to Spruce Woods Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -4676,7 +4690,7 @@
               "tier": 8,
               "amountRequired": 10000,
               "unlocks": [
-                "Mystery Wolf Pet Recipe",
+                "+10,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -4794,6 +4808,7 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
+                "[Lvl 1] Ocelot Recipe",
                 "Enchanted Jungle Log Recipe",
                 "Portal to Jungle Island Recipe",
                 "+4 SkyBlock XP"
@@ -4843,7 +4858,7 @@
               "tier": 9,
               "amountRequired": 25000,
               "unlocks": [
-                "Mystery Ocelot Pet Recipe",
+                "+10,000 Foraging Experience",
                 "+4 SkyBlock XP"
               ]
             }

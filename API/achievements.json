@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1750871907420,
+  "lastUpdated": 1752587905952,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -15091,7 +15091,6 @@
         "TREASURE_HOARDER": {
           "name": "Treasure Hoarder",
           "description": "Score %%value%% points in Scuba Simulator",
-          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -15123,7 +15122,6 @@
         "TREASURE_MASTER": {
           "name": "Treasure Master",
           "description": "Win %%value%% games of Scuba Simulator",
-          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -15184,8 +15182,8 @@
           ]
         }
       },
-      "total_points": 345,
-      "total_legacy_points": 220
+      "total_points": 495,
+      "total_legacy_points": 70
     },
     "supersmash": {
       "one_time": {

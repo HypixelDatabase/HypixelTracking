@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1752587905952,
+  "lastUpdated": 1754401053655,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10877,6 +10877,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "FORGOTTEN_SHRINE": {
+          "points": 10,
+          "name": "Forgotten Shrine",
+          "description": "Reactivate a Starborn Temple"
+        },
         "BEACONATOR_TWO": {
           "points": 5,
           "name": "Beaconator 2.0",
@@ -10940,6 +10945,11 @@
           "description": "Use a Recombobulator 3000 to obtain a Mythic rarity",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "THE_FAMILY": {
+          "points": 10,
+          "name": "The Family",
+          "description": "Show 20 Fishes to Coral"
         },
         "GLASS_CANNON": {
           "points": 15,
@@ -11247,6 +11257,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "GOTCHA": {
+          "points": 5,
+          "name": "Gotcha!",
+          "description": "Hunt a mob with a Black Hole"
+        },
         "FULLY_EVOLVED": {
           "points": 10,
           "name": "Fully Evolved",
@@ -11260,6 +11275,11 @@
           "description": "Kill a Ghost",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "WEIRD_SCIENCE": {
+          "points": 10,
+          "name": "Weird Science",
+          "description": "Syphon 50 Attributes"
         },
         "PROMISED_FULFILLED": {
           "points": 5,
@@ -11345,6 +11365,11 @@
           "description": "Obtain the Black Belt from Master Tao in the Dojo",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "SHINE_BRIGHT": {
+          "points": 10,
+          "name": "Shine Bright",
+          "description": "Reach Agatha's Milestone 5"
         },
         "FANCY_FARMING": {
           "points": 5,
@@ -12301,6 +12326,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "HANDYMAN": {
+          "points": 5,
+          "name": "Handyman",
+          "description": "Tune the Beacon on Galatea"
+        },
         "DUNGEON_EXPLORER": {
           "points": 10,
           "name": "Dungeon Explorer",
@@ -12359,8 +12389,8 @@
           "globalPercentUnlocked": 1
         },
         "DRAGONS_EGG": {
-          "points": 10,
-          "name": "The Dragon's Egg",
+          "points": 15,
+          "name": "The Golden Dragon's Egg",
           "description": "Buy a Golden Dragon Egg from the dragon in the Crystal Hollows",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
@@ -12394,6 +12424,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "EVOLUTION": {
+          "points": 10,
+          "name": "Evolution",
+          "description": "Complete 50 Shard Fusions"
+        },
         "SIX_STAR_MEAL": {
           "points": 5,
           "name": "Six-star Meal",
@@ -12410,9 +12445,40 @@
         }
       },
       "tiered": {
+        "PREDATOR": {
+          "name": "Predator",
+          "description": "Achieve Hunting Level %%value%%",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 10
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 15
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 20
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 25
+            }
+          ]
+        },
         "ANGLER": {
           "name": "Angler",
-          "description": "Achieve fishing level %%value%%",
+          "description": "Achieve Fishing Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12474,7 +12540,7 @@
         },
         "EXCAVATOR": {
           "name": "Excavator",
-          "description": "Achieve mining level %%value%%",
+          "description": "Achieve Mining Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12505,7 +12571,7 @@
         },
         "DUNGEONEER": {
           "name": "Dungeoneer",
-          "description": "Reach level %%value%% of any Dungeon Class",
+          "description": "Reach Level %%value%% of any Dungeon Class",
           "tiers": [
             {
               "tier": 1,
@@ -12536,7 +12602,7 @@
         },
         "HARVESTER": {
           "name": "Harvester",
-          "description": "Achieve farming level %%value%%",
+          "description": "Achieve Farming Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12567,7 +12633,7 @@
         },
         "CONCOCTOR": {
           "name": "Concoctor",
-          "description": "Achieve alchemy level %%value%%",
+          "description": "Achieve Alchemy Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12629,7 +12695,7 @@
         },
         "DOMESTICATOR": {
           "name": "Domesticator",
-          "description": "Achieve taming level %%value%%",
+          "description": "Achieve Taming Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12690,8 +12756,8 @@
           ]
         },
         "COMBAT": {
-          "name": "Combat!",
-          "description": "Achieve combat level %%value%%",
+          "name": "Combat",
+          "description": "Achieve Combat Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12753,7 +12819,7 @@
         },
         "AUGMENTATION": {
           "name": "Augmentation",
-          "description": "Achieve enchanting level %%value%%",
+          "description": "Achieve Enchanting Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -12784,7 +12850,7 @@
         },
         "GATHERER": {
           "name": "Gatherer",
-          "description": "Achieve foraging level %%value%%",
+          "description": "Achieve Foraging Level %%value%%",
           "tiers": [
             {
               "tier": 1,
@@ -13062,7 +13128,7 @@
           ]
         }
       },
-      "total_points": 2940,
+      "total_points": 3080,
       "total_legacy_points": 0
     },
     "skyclash": {

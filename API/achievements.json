@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1754401053655,
+  "lastUpdated": 1754490755707,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -10880,7 +10880,9 @@
         "FORGOTTEN_SHRINE": {
           "points": 10,
           "name": "Forgotten Shrine",
-          "description": "Reactivate a Starborn Temple"
+          "description": "Reactivate a Starborn Temple",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BEACONATOR_TWO": {
           "points": 5,
@@ -10949,7 +10951,9 @@
         "THE_FAMILY": {
           "points": 10,
           "name": "The Family",
-          "description": "Show 20 Fishes to Coral"
+          "description": "Show 20 Fishes to Coral",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GLASS_CANNON": {
           "points": 15,
@@ -11260,7 +11264,9 @@
         "GOTCHA": {
           "points": 5,
           "name": "Gotcha!",
-          "description": "Hunt a mob with a Black Hole"
+          "description": "Hunt a mob with a Black Hole",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FULLY_EVOLVED": {
           "points": 10,
@@ -11279,7 +11285,9 @@
         "WEIRD_SCIENCE": {
           "points": 10,
           "name": "Weird Science",
-          "description": "Syphon 50 Attributes"
+          "description": "Syphon 50 Attributes",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PROMISED_FULFILLED": {
           "points": 5,
@@ -11369,7 +11377,9 @@
         "SHINE_BRIGHT": {
           "points": 10,
           "name": "Shine Bright",
-          "description": "Reach Agatha's Milestone 5"
+          "description": "Reach Agatha's Milestone 5",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FANCY_FARMING": {
           "points": 5,
@@ -12329,7 +12339,9 @@
         "HANDYMAN": {
           "points": 5,
           "name": "Handyman",
-          "description": "Tune the Beacon on Galatea"
+          "description": "Tune the Beacon on Galatea",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DUNGEON_EXPLORER": {
           "points": 10,
@@ -12427,7 +12439,9 @@
         "EVOLUTION": {
           "points": 10,
           "name": "Evolution",
-          "description": "Complete 50 Shard Fusions"
+          "description": "Complete 50 Shard Fusions",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SIX_STAR_MEAL": {
           "points": 5,

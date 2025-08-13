@@ -41695,7 +41695,12 @@
         "two_one_duels_rush_losses": 0,
         "void_final_deaths_bedwars": 0,
         "entity_attack_final_kills_bedwars": 0,
-        "magic_deaths_bedwars": 0
+        "magic_deaths_bedwars": 0,
+        "settings": {
+          "enable_projectile_trails": true
+        },
+        "duel_arena_coins": 0,
+        "duel_arena_coins_gained": 0
       },
       "BuildBattle": {
         "wins": 0,

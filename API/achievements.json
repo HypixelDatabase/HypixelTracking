@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1755007463027,
+  "lastUpdated": 1755085462977,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5655,7 +5655,8 @@
           "points": 5,
           "name": "Carried",
           "description": "Score 5 goals in a Four Teams game of The Bridge",
-          "legacy": true
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "REPLAY": {
           "points": 5,
@@ -5773,7 +5774,8 @@
           "points": 10,
           "name": "Silent Thief",
           "description": "Steal the opponents flag and capture it without taking damage in Bridge CTF",
-          "legacy": true
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "LOBBY_SLAYER": {
           "points": 10,
@@ -5876,7 +5878,8 @@
           "points": 10,
           "name": "Heart Hoarder",
           "description": "Win a Four Teams game of The Bridge with 7 lives remaining",
-          "legacy": true
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ACE": {
           "points": 15,
@@ -6242,97 +6245,34 @@
             }
           ]
         },
-        "BED_WARS_DUELS_WINNER": {
-          "name": "Bed Wars Duels Winner",
-          "description": "Win %%value%% games of Bed Wars Duels (any mode)",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 15
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 100
-            }
-          ]
-        },
-        "SPLEEF_DUELS_WINNER": {
-          "name": "Spleef Duels Winner",
-          "description": "Win %%value%% games of Spleef Duels (any mode)",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 15
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 100
-            }
-          ]
-        },
         "ARENA_MASTERY": {
           "name": "Well Practiced",
-          "description": "Win %%value%% rounds in the Duel Arena",
+          "description": "Win %%value%% rounds in Arena 1 in the Duel Arena",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
-              "amount": 10
+              "amount": 50
             },
             {
               "tier": 2,
               "points": 10,
-              "amount": 25
+              "amount": 100
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 50
+              "amount": 250
             },
             {
               "tier": 4,
               "points": 20,
-              "amount": 100
+              "amount": 500
             },
             {
               "tier": 5,
               "points": 25,
-              "amount": 250
-            }
-          ]
-        },
-        "QUAKECRAFT_DUELS_WINNER": {
-          "name": "Quakecraft Duels Winner",
-          "description": "Win %%value%% games of Quakecraft Duels",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 15
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 50
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 100
+              "amount": 1000
             }
           ]
         },
@@ -6462,8 +6402,8 @@
           ]
         }
       },
-      "total_points": 1515,
-      "total_legacy_points": 140
+      "total_points": 1425,
+      "total_legacy_points": 115
     },
     "easter": {
       "one_time": {
@@ -10309,7 +10249,7 @@
         "SHOW_ME_THE_MONEY": {
           "points": 15,
           "name": "Show me the money!",
-          "description": "Unlock the Polished Bling Case",
+          "description": "Unlock the Polished Bling Case or the 1.0s trigger",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

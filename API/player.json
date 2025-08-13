@@ -41640,7 +41640,8 @@
           "spleef": 0,
           "sumo": 0,
           "uhc": 0,
-          "arena": 0
+          "arena": 0,
+          "mega_walls": 0
         },
         "spleef_duel_blocks_broken": 0,
         "spleef_duel_losses": 0,
@@ -41714,7 +41715,8 @@
         "entity_attack_final_kills_bedwars": 0,
         "magic_deaths_bedwars": 0,
         "settings": {
-          "enable_projectile_trails": true
+          "enable_projectile_trails": true,
+          "ping_range": 0
         },
         "duel_arena_coins": 0,
         "duel_arena_coins_gained": 0

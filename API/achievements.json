@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1755092354480,
+  "lastUpdated": 1755114185801,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -5651,12 +5651,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "CARRIED": {
-          "points": 5,
-          "name": "Carried",
-          "description": "Score 5 goals in a Four Teams game of The Bridge",
-          "legacy": true
-        },
         "REPLAY": {
           "points": 5,
           "name": "Replay",
@@ -5769,12 +5763,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "SILENT_THIEF": {
-          "points": 10,
-          "name": "Silent Thief",
-          "description": "Steal the opponents flag and capture it without taking damage in Bridge CTF",
-          "legacy": true
-        },
         "LOBBY_SLAYER": {
           "points": 10,
           "name": "Lobby Slayer",
@@ -5872,12 +5860,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "HEART_HOARDER": {
-          "points": 10,
-          "name": "Heart Hoarder",
-          "description": "Win a Four Teams game of The Bridge with 7 lives remaining",
-          "legacy": true
-        },
         "ACE": {
           "points": 15,
           "name": "Ace!",
@@ -5916,6 +5898,24 @@
           "points": 10,
           "name": "Smash your Keyboard",
           "description": "Come Second Place in a Duels Tournament",
+          "legacy": true
+        },
+        "SILENT_THIEF": {
+          "points": 10,
+          "name": "Silent Thief",
+          "description": "Steal the opponents flag and capture it without taking damage in Bridge CTF",
+          "legacy": true
+        },
+        "HEART_HOARDER": {
+          "points": 10,
+          "name": "Heart Hoarder",
+          "description": "Win a Four Teams game of The Bridge with 7 lives remaining",
+          "legacy": true
+        },
+        "CARRIED": {
+          "points": 5,
+          "name": "Carried",
+          "description": "Score 5 goals in a Four Teams game of The Bridge",
           "legacy": true
         },
         "WE_ARE_NUMBER_ONE": {
@@ -5960,37 +5960,6 @@
               "tier": 5,
               "points": 25,
               "amount": 5
-            }
-          ]
-        },
-        "BRIDGE_FOUR_TEAMS_WINS": {
-          "name": "Four Teams Winner",
-          "description": "Win %%value%% games in Four Teams modes",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 10
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 25
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 50
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 100
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 250
             }
           ]
         },
@@ -6429,6 +6398,38 @@
             }
           ]
         },
+        "BRIDGE_FOUR_TEAMS_WINS": {
+          "name": "Four Teams Winner",
+          "description": "Win %%value%% games in Four Teams modes",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 25
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 50
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 100
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 250
+            }
+          ]
+        },
         "DUELS_TROPHIES": {
           "name": "Duels Trophies",
           "description": "Obtain %%value%% Trophies by winning Duels Tournaments",
@@ -6462,8 +6463,8 @@
           ]
         }
       },
-      "total_points": 1515,
-      "total_legacy_points": 140
+      "total_points": 1415,
+      "total_legacy_points": 215
     },
     "easter": {
       "one_time": {

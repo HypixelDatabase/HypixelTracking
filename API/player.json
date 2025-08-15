@@ -40039,7 +40039,12 @@
           "title_athlete",
           "title_division_mega_walls",
           "title_division_quakecraft",
-          "prefix_icon_beam"
+          "prefix_icon_beam",
+          "title_the_trickster",
+          "title_overlord",
+          "title_the_undefeated",
+          "title_salty",
+          "title_division_combo"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -41723,7 +41728,9 @@
         },
         "duel_arena_coins": 0,
         "duel_arena_coins_gained": 0,
-        "quakeGunType": ""
+        "quakeGunType": "",
+        "bowspleef_duel_coins": 0,
+        "bowspleef_duel_coins_gained": 0
       },
       "BuildBattle": {
         "wins": 0,

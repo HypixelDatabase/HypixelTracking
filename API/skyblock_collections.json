@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1755623585838,
-  "version": "0.23.3.21",
+  "lastUpdated": 1756818969428,
+  "version": "0.23.4.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -628,7 +628,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Clay Trade",
+                "Clay Ball Trade",
                 "+4 SkyBlock XP"
               ]
             },
@@ -947,7 +947,7 @@
           ]
         },
         "MUTTON": {
-          "name": "Mutton",
+          "name": "Raw Mutton",
           "maxTiers": 10,
           "tiers": [
             {
@@ -986,7 +986,7 @@
               "tier": 5,
               "amountRequired": 2500,
               "unlocks": [
-                "Enchanted Mutton Recipe",
+                "Enchanted Raw Mutton Recipe",
                 "Small Husbandry Sack Recipe",
                 "+4 SkyBlock XP"
               ]
@@ -1035,7 +1035,7 @@
           ]
         },
         "MELON": {
-          "name": "Melon",
+          "name": "Melon Slice",
           "maxTiers": 9,
           "tiers": [
             {
@@ -1066,7 +1066,7 @@
               "tier": 4,
               "amountRequired": 5000,
               "unlocks": [
-                "Enchanted Melon Recipe",
+                "Enchanted Melon Slice Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1074,7 +1074,7 @@
               "tier": 5,
               "amountRequired": 15000,
               "unlocks": [
-                "Enchanted Glistering Melon Recipe",
+                "Enchanted Glistering Melon Slice Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1082,7 +1082,7 @@
               "tier": 6,
               "amountRequired": 25000,
               "unlocks": [
-                "Enchanted Melon Block Recipe",
+                "Enchanted Melon Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1315,7 +1315,7 @@
               "unlocks": [
                 "[Lvl 1] Pig Recipe",
                 "[Lvl 1] Pigman Recipe",
-                "Enchanted Pork Recipe",
+                "Enchanted Raw Porkchop Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1347,7 +1347,7 @@
               "tier": 7,
               "amountRequired": 10000,
               "unlocks": [
-                "Enchanted Grilled Pork Recipe",
+                "Enchanted Cooked Porkchop Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1509,7 +1509,7 @@
               "tier": 7,
               "amountRequired": 50000,
               "unlocks": [
-                "Enchanted Lapis Block Recipe",
+                "Enchanted Lapis Lazuli Block Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1540,7 +1540,7 @@
           ]
         },
         "REDSTONE": {
-          "name": "Redstone",
+          "name": "Redstone Dust",
           "maxTiers": 16,
           "tiers": [
             {
@@ -1571,7 +1571,7 @@
               "tier": 4,
               "amountRequired": 1500,
               "unlocks": [
-                "Enchanted Redstone Recipe",
+                "Enchanted Redstone Dust Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2053,7 +2053,7 @@
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Quartz Recipe",
+                "Enchanted Nether Quartz Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2197,7 +2197,7 @@
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Iron Recipe",
+                "Enchanted Iron Ingot Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2855,7 +2855,7 @@
               "tier": 5,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Gold Recipe",
+                "Enchanted Gold Ingot Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5621,7 +5621,7 @@
           ]
         },
         "RAW_FISH": {
-          "name": "Raw Fish",
+          "name": "Raw Cod",
           "maxTiers": 11,
           "tiers": [
             {
@@ -5669,7 +5669,7 @@
               "tier": 6,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Raw Fish Recipe",
+                "Enchanted Raw Cod Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5685,7 +5685,7 @@
               "tier": 8,
               "amountRequired": 15000,
               "unlocks": [
-                "Enchanted Cooked Fish Recipe",
+                "Enchanted Cooked Cod Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5803,14 +5803,14 @@
           ]
         },
         "RAW_FISH:2": {
-          "name": "Clownfish",
+          "name": "Tropical Fish",
           "maxTiers": 9,
           "tiers": [
             {
               "tier": 1,
               "amountRequired": 10,
               "unlocks": [
-                "Clownfish Hat Recipe",
+                "Tropical Fish Hat Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5835,7 +5835,7 @@
               "amountRequired": 100,
               "unlocks": [
                 "Small Sack of Sacks",
-                "Enchanted Clownfish Recipe",
+                "Enchanted Tropical Fish Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5859,7 +5859,7 @@
               "tier": 7,
               "amountRequired": 800,
               "unlocks": [
-                "Clownfish Cloak Recipe",
+                "Tropical Cloak Recipe",
                 "Greater Sack of Sacks Upgrade (+3 slots)",
                 "+4 SkyBlock XP"
               ]
@@ -6128,7 +6128,7 @@
           ]
         },
         "CLAY_BALL": {
-          "name": "Clay",
+          "name": "Clay Ball",
           "maxTiers": 7,
           "tiers": [
             {
@@ -6143,7 +6143,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "Enchanted Clay Recipe",
+                "Enchanted Clay Ball Recipe",
                 "+4 SkyBlock XP"
               ]
             },

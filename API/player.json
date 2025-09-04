@@ -2190,7 +2190,9 @@
           }
         ],
         "active": {
-          "objectives": {},
+          "objectives": {
+            "win": 0
+          },
           "started": 0
         }
       },
@@ -40049,7 +40051,13 @@
           "title_the_undefeated",
           "title_salty",
           "title_division_combo",
-          "prefix_icon_confused"
+          "prefix_icon_confused",
+          "emblem_mushroom_soup",
+          "auras_smokey_particle",
+          "prefix_icon_arena",
+          "emblem_cherry_blossom",
+          "title_heavyweight_champion",
+          "prefix_scheme_heavy_dark_green"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -41654,7 +41662,8 @@
           "uhc": 0,
           "arena": 0,
           "mega_walls": 0,
-          "quake": 0
+          "quake": 0,
+          "combo": 0
         },
         "spleef_duel_blocks_broken": 0,
         "spleef_duel_losses": 0,
@@ -41762,7 +41771,8 @@
         "bedwars_two_one_duels_rush_losses": 0,
         "fall_final_kills_bedwars": 0,
         "magic_final_kills_bedwars": 0,
-        "magic_kills_bedwars": 0
+        "magic_kills_bedwars": 0,
+        "active_title": ""
       },
       "BuildBattle": {
         "wins": 0,

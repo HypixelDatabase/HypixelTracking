@@ -41779,7 +41779,13 @@
         "active_prefix_scheme": "",
         "golden_heads_eaten": 0,
         "uhc_duel_golden_heads_eaten": 0,
-        "parkour_players_hidden": true
+        "parkour_players_hidden": true,
+        "parkour_checkpoints_reached": 0,
+        "parkour_eight_coins": 0,
+        "parkour_eight_coins_gained": 0,
+        "parkour_eight_parkour_checkpoints_reached": 0,
+        "parkour_eight_parkour_personal_best": 0,
+        "parkour_personal_best": 0
       },
       "BuildBattle": {
         "wins": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1756710369406,
+  "lastUpdated": 1757937221060,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2062,6 +2062,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "FUTURE_IS_NOW": {
+          "points": 5,
+          "name": "The Future Is Now",
+          "description": "Punch a chest to deposit your held item"
+        },
         "BUGGY_BEDS": {
           "points": 5,
           "name": "Showoff",
@@ -2159,6 +2164,11 @@
           "description": "Collect at least 50 Diamonds from generators in a game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "RETURN_TO_SPAMMER": {
+          "points": 10,
+          "name": "Return to Spammer",
+          "description": "Get a kill by deflecting someone else's Fireball"
         },
         "SLAYER": {
           "points": 15,
@@ -2547,7 +2557,7 @@
           ]
         }
       },
-      "total_points": 930,
+      "total_points": 945,
       "total_legacy_points": 75
     },
     "blitz": {
@@ -11892,7 +11902,7 @@
         "SERIOUSLY": {
           "points": 10,
           "name": "Seriously?",
-          "description": "Put a Wood Singularity on an Aspect of the Jerry",
+          "description": "Recombobulate an Aspect of the Jerry",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },

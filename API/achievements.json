@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1757937221060,
+  "lastUpdated": 1758028798847,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2065,7 +2065,9 @@
         "FUTURE_IS_NOW": {
           "points": 5,
           "name": "The Future Is Now",
-          "description": "Punch a chest to deposit your held item"
+          "description": "Punch a chest to deposit your held item",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BUGGY_BEDS": {
           "points": 5,
@@ -2168,7 +2170,9 @@
         "RETURN_TO_SPAMMER": {
           "points": 10,
           "name": "Return to Spammer",
-          "description": "Get a kill by deflecting someone else's Fireball"
+          "description": "Get a kill by deflecting someone else's Fireball",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SLAYER": {
           "points": 15,
@@ -5783,7 +5787,7 @@
         "CHANGE_ICON": {
           "points": 5,
           "name": "Customizing!",
-          "description": "Unlock and change your Division Titles prefix!",
+          "description": "Change your title, prefix scheme, or prefix icon",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -5843,12 +5847,6 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
-        "GETTING_LOOT": {
-          "points": 5,
-          "name": "Getting Loot",
-          "description": "Open a Duels Loot Chest",
-          "legacy": true
-        },
         "AXE_YOU_A_QUESTION": {
           "points": 10,
           "name": "Can I Axe you a Question?",
@@ -5902,6 +5900,12 @@
           "points": 5,
           "name": "More Damage",
           "description": "Win a round of a Duels Tournament after the timer runs out by dealing the most damage",
+          "legacy": true
+        },
+        "GETTING_LOOT": {
+          "points": 5,
+          "name": "Getting Loot",
+          "description": "Open a Duels Loot Chest",
           "legacy": true
         },
         "SMASH_YOUR_KEYBOARD": {
@@ -5973,133 +5977,94 @@
             }
           ]
         },
-        "DUELS_WINNER": {
-          "name": "Duels Winner",
-          "description": "Win %%value%% Duels",
+        "COMBO_DUELS_WINNER": {
+          "name": "Combo Duels Winner",
+          "description": "Win %%value%% games of Combo Duels",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
-              "amount": 25
+              "amount": 15
             },
             {
               "tier": 2,
               "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
               "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 250
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1500
             }
           ]
         },
-        "DUELS_WIN_STREAK": {
-          "name": "Duels Win Streak",
-          "description": "Achieve an Overall Win Streak of %%value%%",
+        "SUMO_DUELS_WINNER": {
+          "name": "Sumo Duels Winner",
+          "description": "Win %%value%% games of Sumo Duels (any mode)",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
-              "amount": 2
+              "amount": 15
             },
             {
               "tier": 2,
               "points": 10,
-              "amount": 4
+              "amount": 50
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 8
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 12
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 20
-            }
-          ]
-        },
-        "DUELS_MASTERY": {
-          "name": "Duels Mastery",
-          "description": "Unlock a Division Title in %%value%% different modes",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 4
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 6
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 8
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 10
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 12
-            }
-          ]
-        },
-        "BRIDGE_WINS": {
-          "name": "The Bridge Winner",
-          "description": "Win %%value%% games of The Bridge",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 20
-            },
-            {
-              "tier": 2,
-              "points": 10,
               "amount": 100
+            }
+          ]
+        },
+        "OP_DUELS_WINNER": {
+          "name": "OP Duels Winner",
+          "description": "Win %%value%% games of OP Duels (any mode)",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 200
+              "amount": 100
+            }
+          ]
+        },
+        "BOXING_DUELS_WINNER": {
+          "name": "Boxing Duels Winner",
+          "description": "Win %%value%% games of Boxing Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
             },
             {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
+              "tier": 2,
+              "points": 10,
+              "amount": 50
             },
             {
-              "tier": 5,
-              "points": 25,
-              "amount": 1000
+              "tier": 3,
+              "points": 15,
+              "amount": 100
             }
           ]
         },
         "BRIDGE_DOUBLES_WINS": {
           "name": "The Bridge Doubles Winner",
           "description": "Win %%value%% games of The Bridge Doubles",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6125,43 +6090,13 @@
               "tier": 5,
               "points": 25,
               "amount": 500
-            }
-          ]
-        },
-        "GOALS": {
-          "name": "The Bridge Scorer",
-          "description": "Score %%value%% goals in The Bridge",
-          "tiers": [
-            {
-              "tier": 1,
-              "points": 5,
-              "amount": 25
-            },
-            {
-              "tier": 2,
-              "points": 10,
-              "amount": 100
-            },
-            {
-              "tier": 3,
-              "points": 15,
-              "amount": 250
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 500
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 1000
             }
           ]
         },
         "BRIDGE_TEAMS_WINS": {
           "name": "The Bridge Teams Winner",
           "description": "Win %%value%% games of The Bridge Teams",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6190,40 +6125,51 @@
             }
           ]
         },
-        "DUELS_TRAVELLER": {
-          "name": "Traveller",
-          "description": "Win a Duel on %%value%% different maps",
+        "BOW_DUELS_WINNER": {
+          "name": "Bow Duels Winner",
+          "description": "Win %%value%% games of Bow Duels",
           "tiers": [
             {
               "tier": 1,
               "points": 5,
-              "amount": 10
+              "amount": 15
             },
             {
               "tier": 2,
               "points": 10,
-              "amount": 15
+              "amount": 50
             },
             {
               "tier": 3,
               "points": 15,
-              "amount": 20
-            },
-            {
-              "tier": 4,
-              "points": 20,
-              "amount": 25
-            },
-            {
-              "tier": 5,
-              "points": 25,
-              "amount": 30
+              "amount": 100
             }
           ]
         },
-        "BED_WARS_DUELS_WINNER": {
-          "name": "Bed Wars Duels Winner",
-          "description": "Win %%value%% games of Bed Wars Duels (any mode)",
+        "MEGA_WALLS_DUELS_WINNER": {
+          "name": "Mega Walls Duels Winner",
+          "description": "Win %%value%% games of Mega Walls Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            }
+          ]
+        },
+        "BLITZ_DUELS_WINNER": {
+          "name": "Blitz Duels Winner",
+          "description": "Win %%value%% games of Blitz Duels",
           "tiers": [
             {
               "tier": 1,
@@ -6315,9 +6261,271 @@
             }
           ]
         },
+        "DUELS_WINNER": {
+          "name": "Duels Winner",
+          "description": "Win %%value%% Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1500
+            }
+          ]
+        },
+        "CLASSIC_DUELS_WINNER": {
+          "name": "Classic Duels Winner",
+          "description": "Win %%value%% games of Classic Duels (any mode)",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            }
+          ]
+        },
+        "DUELS_WIN_STREAK": {
+          "name": "Duels Win Streak",
+          "description": "Achieve an Overall Win Streak of %%value%%",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 2
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 4
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 8
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 12
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 20
+            }
+          ]
+        },
+        "DUELS_MASTERY": {
+          "name": "Duels Mastery",
+          "description": "Unlock a Division Title in %%value%% different modes",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 4
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 6
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 8
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 10
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 12
+            }
+          ]
+        },
+        "BRIDGE_WINS": {
+          "name": "The Bridge Winner",
+          "description": "Win %%value%% games of The Bridge",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            }
+          ]
+        },
+        "GOALS": {
+          "name": "The Bridge Scorer",
+          "description": "Score %%value%% goals in The Bridge",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 25
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 100
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 250
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 500
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 1000
+            }
+          ]
+        },
+        "NO_DEBUFF_DUELS_WINNER": {
+          "name": "NoDebuff Duels Winner",
+          "description": "Win %%value%% games of NoDebuff Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            }
+          ]
+        },
+        "DUELS_TRAVELLER": {
+          "name": "Traveller",
+          "description": "Win a Duel on %%value%% different maps",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 10
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 15
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 20
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 25
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 30
+            }
+          ]
+        },
+        "SKYWARS_DUELS_WINNER": {
+          "name": "SkyWars Duels Winner",
+          "description": "Win %%value%% games of SkyWars Duels (any mode)",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            }
+          ]
+        },
+        "BED_WARS_DUELS_WINNER": {
+          "name": "Bed Wars Duels Winner",
+          "description": "Win %%value%% games of Bed Wars Duels (any mode)",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
+            }
+          ]
+        },
         "BRIDGE_WIN_STREAK": {
           "name": "The Bridge Streak",
           "description": "Get a win streak of %%value%% in The Bridge",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6349,6 +6557,7 @@
         "BRIDGE_DUELS_WINS": {
           "name": "The Bridge Duel Winner",
           "description": "Win %%value%% The Bridge Duels",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6380,6 +6589,7 @@
         "UNIQUE_MAP_WINS": {
           "name": "The Bridge Conqueror",
           "description": "Win The Bridge games on %%value%% unique maps",
+          "legacy": true,
           "tiers": [
             {
               "tier": 1,
@@ -6405,6 +6615,48 @@
               "tier": 5,
               "points": 25,
               "amount": 15
+            }
+          ]
+        },
+        "PARKOUR_DUELS_WINNER": {
+          "name": "Parkour Duels Winner",
+          "description": "Win %%value%% games of Parkour Duels",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 5
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 15
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 30
+            }
+          ]
+        },
+        "UHC_DUELS_WINNER": {
+          "name": "UHC Duels Winner",
+          "description": "Win %%value%% games of UHC Duels (any mode)",
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 15
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 50
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 100
             }
           ]
         },
@@ -6473,8 +6725,8 @@
           ]
         }
       },
-      "total_points": 1415,
-      "total_legacy_points": 215
+      "total_points": 1280,
+      "total_legacy_points": 665
     },
     "easter": {
       "one_time": {

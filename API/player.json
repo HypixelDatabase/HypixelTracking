@@ -41909,7 +41909,11 @@
         "sumo_duel_coins": 0,
         "sumo_duel_coins_gained": 0,
         "bow_duel_coins": 0,
-        "bow_duel_coins_gained": 0
+        "bow_duel_coins_gained": 0,
+        "combo_duel_coins": 0,
+        "combo_duel_coins_gained": 0,
+        "combo_duel_longest_combo": 0,
+        "longest_combo": 0
       },
       "BuildBattle": {
         "wins": 0,

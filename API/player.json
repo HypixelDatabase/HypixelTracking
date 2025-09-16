@@ -40147,7 +40147,8 @@
           "cage_witch_hut",
           "projectile_trail_twisted_trail",
           "hat_l",
-          "title_division_tnt_games"
+          "title_division_tnt_games",
+          "prefix_icon_deny"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -41903,7 +41904,9 @@
           "8": ""
         },
         "boxing_duel_coins": 0,
-        "boxing_duel_coins_gained": 0
+        "boxing_duel_coins_gained": 0,
+        "sumo_duel_coins": 0,
+        "sumo_duel_coins_gained": 0
       },
       "BuildBattle": {
         "wins": 0,

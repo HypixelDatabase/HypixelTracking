@@ -22843,12 +22843,13 @@
         },
         "kit_basic_solo_fisherman_inventory": {
           "FISHING_ROD:0": "",
-          "COOKED_FISH:0": [],
+          "COOKED_FISH:0": "",
           "CHAINMAIL_BOOTS:0": [],
           "CHAINMAIL_HELMET:0": [],
           "CHAINMAIL_LEGGINGS:0": [],
           "CHAINMAIL_HELMET:0:5": [],
-          "FISHING_ROD:0:34,19,61,62": []
+          "FISHING_ROD:0:34,19,61,62": [],
+          "FISHING_ROD:0:34,61,62": []
         },
         "kit_advanced_solo_enderman_inventory": {
           "ENDER_PEARL:0": ""

@@ -35566,7 +35566,8 @@
           "projectiletrail_pumpkin_spice_powered",
           "killeffect_witch_ritual",
           "islandtopper_crystal_ball",
-          "islandtopper_coffin"
+          "islandtopper_coffin",
+          "islandtopper_broken_pumpkin"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -36989,7 +36990,12 @@
         "halloween": {
           "talked_to_patches": true,
           "pumpkin_milestone": {
-            "2025": 0
+            "2025": 0,
+            "rewards": {
+              "2025": {
+                "I": true
+              }
+            }
           }
         }
       },

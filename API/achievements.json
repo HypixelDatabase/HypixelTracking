@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1758031198875,
+  "lastUpdated": 1759329651983,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -8167,12 +8167,6 @@
           "description": "Win a game of Build Battle with a spooky theme",
           "globalPercentUnlocked": 1
         },
-        "FIVE_BASKETS_2024": {
-          "points": 5,
-          "name": "Five Baskets (2024)",
-          "description": "Find five Candy Baskets in the Main Lobby",
-          "globalPercentUnlocked": 1
-        },
         "THAT_TIME_OF_YEAR": {
           "points": 5,
           "name": "That Time of Year",
@@ -8186,11 +8180,10 @@
           "description": "Punch a Smoldering Skeleton Pet in a lobby",
           "globalPercentUnlocked": 1
         },
-        "FEAR_THE_PUMPKINATOR": {
-          "points": 10,
-          "name": "Fear The Pumpkinator",
-          "description": "Complete the Pumpkinator Special Weekly Quest in Bed Wars",
-          "globalPercentUnlocked": 1
+        "FIVE_BASKETS_2025": {
+          "points": 5,
+          "name": "Five Baskets (2025)",
+          "description": "Find five Candy Baskets in the Main Lobby"
         },
         "FIRE_FROM_HELL": {
           "points": 5,
@@ -8258,6 +8251,11 @@
           "description": "Reach a score of 333 before the 1 minute mark in the Main Lobby Shooting Range",
           "globalPercentUnlocked": 1
         },
+        "REACH_PUMPKIN_MILESTONE_V": {
+          "points": 10,
+          "name": "Reach Pumpkin Milestone V",
+          "description": "Reach Pumpkin Milestone V in Bed Wars"
+        },
         "THE_CRAWLING_DEAD": {
           "points": 5,
           "name": "The Crawling Dead",
@@ -8282,16 +8280,15 @@
           "description": "Die against the first bomb in Pumpkin Smash",
           "globalPercentUnlocked": 1
         },
+        "ALL_BASKETS_2025": {
+          "points": 15,
+          "name": "All Baskets (2025)",
+          "description": "Find all Candy Baskets in the Main Lobby"
+        },
         "HAUNTED_MAPS": {
           "points": 5,
           "name": "Haunted Maps",
           "description": "Finish games on 5 Halloween exclusive maps",
-          "globalPercentUnlocked": 1
-        },
-        "ALL_BASKETS_2024": {
-          "points": 15,
-          "name": "All Baskets (2024)",
-          "description": "Find all Candy Baskets in the Main Lobby",
           "globalPercentUnlocked": 1
         },
         "TBR_RIVERSIDE_REVENGE": {
@@ -8462,6 +8459,12 @@
           "description": "Complete Seaside Drive in under 1:15",
           "legacy": true
         },
+        "ALL_BASKETS_2024": {
+          "points": 15,
+          "name": "All Baskets (2024)",
+          "description": "Find all Candy Baskets in the Main Lobby",
+          "legacy": true
+        },
         "ALL_BASKETS_2023": {
           "points": 15,
           "name": "All Baskets (2023)",
@@ -8544,6 +8547,12 @@
           "points": 10,
           "name": "Village Sweep Great Time",
           "description": "Complete Village Sweep in under 0:51",
+          "legacy": true
+        },
+        "FIVE_BASKETS_2024": {
+          "points": 5,
+          "name": "Five Baskets (2024)",
+          "description": "Find five Candy Baskets in the Main Lobby",
           "legacy": true
         },
         "TBR_PUMPKIN_JUMP": {
@@ -8724,7 +8733,7 @@
         }
       },
       "total_points": 665,
-      "total_legacy_points": 435
+      "total_legacy_points": 455
     },
     "housing": {
       "one_time": {

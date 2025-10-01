@@ -3162,7 +3162,8 @@
           "deep_ocean_pixel_party_pants",
           "pumpkin_wall",
           "movement_trail_frosty",
-          "victory_dance_egg_meteors"
+          "victory_dance_egg_meteors",
+          "projectile_trail_pumpkin_spice_powered"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -8701,7 +8702,8 @@
           "particle_heart",
           "arrow_trail_sparkler",
           "void_message_relaxing",
-          "spooky"
+          "spooky",
+          "arrow_trail_pumpkin_spice_powered"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -20175,7 +20177,15 @@
           "emblem_airplane",
           "emblem_coffin",
           "emblem_maltese_cross",
-          "kit_mega_mega_armorer_prestige_5"
+          "kit_mega_mega_armorer_prestige_5",
+          "sprays_ouija",
+          "sprays_murder_mystery_poster",
+          "sprays_vampire_jerry",
+          "sprays_haunted_house",
+          "projectiletrail_pumpkin_spice_powered",
+          "killeffect_witch_ritual",
+          "cage_crow",
+          "cage_coffin"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -33305,7 +33315,8 @@
           "victorydance_heat_wave",
           "kill_effect_shockwave",
           "projectile_trail_stormy",
-          "victorydance_egg_meteors"
+          "victorydance_egg_meteors",
+          "kill_effect_witch_ritual"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -35547,7 +35558,15 @@
           "sprays_sand_castle",
           "sprays_surfs_up",
           "islandtopper_sailboat",
-          "islandtopper_hermit_crab"
+          "islandtopper_hermit_crab",
+          "sprays_ouija",
+          "sprays_vampire_jerry",
+          "sprays_murder_mystery_poster",
+          "sprays_haunted_house",
+          "projectiletrail_pumpkin_spice_powered",
+          "killeffect_witch_ritual",
+          "islandtopper_crystal_ball",
+          "islandtopper_coffin"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -37411,7 +37430,12 @@
           "kill_note_sea_bass",
           "kill_note_surfs_up",
           "kill_note_sloth_burn",
-          "kill_note_sand_castle"
+          "kill_note_sand_castle",
+          "kill_note_vampire_jerry",
+          "kill_note_ouija",
+          "kill_note_murder_mystery_poster",
+          "kill_note_haunted_house",
+          "projectile_trail_pumpkin_spice_powered"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -40210,7 +40234,10 @@
           "prefix_scheme_carpeted_light_purple",
           "title_division_boxing",
           "title_division_bedwars",
-          "title_division_parkour"
+          "title_division_parkour",
+          "emblem_rip",
+          "projectile_trail_pumpkin_spice_powered",
+          "kill_effect_witch_ritual"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -43218,7 +43245,8 @@
           "glyph_cry_face",
           "projectiletrail_wool_games_level",
           "killmessages_love",
-          "cage_bubblegum"
+          "cage_bubblegum",
+          "projectiletrail_pumpkin_spice_powered"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -43658,7 +43686,8 @@
           "halloween_guide_2024": true,
           "easter_guide_2025": true,
           "bingo_12": true,
-          "summer_guide_2025": true
+          "summer_guide_2025": true,
+          "halloween_guide_2025": true
         },
         "discoveredZones": {
           "port": true,
@@ -46676,7 +46705,12 @@
         "furniture_patio_fire_pit",
         "furniture_patio_side_table",
         "furniture_patio_bench",
-        "furniture_patio_sofa"
+        "furniture_patio_sofa",
+        "furniture_vampire_table",
+        "furniture_vampire_candelabra",
+        "furniture_vampire_sofa",
+        "furniture_vampire_bed",
+        "furniture_vampire_throne"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",
@@ -52641,6 +52675,11 @@
           "candyhunt": {
             "baskets": [],
             "reward": true
+          }
+        },
+        "2025": {
+          "levelling": {
+            "experience": 0
           }
         }
       },

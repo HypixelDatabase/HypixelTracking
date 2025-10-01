@@ -36985,7 +36985,10 @@
         "eight_one_oneblock_magic_kills_bedwars": 0,
         "eight_one_oneblock_entity_attack_final_deaths_bedwars": 0,
         "eight_one_oneblock_projectile_deaths_bedwars": 0,
-        "eight_one_oneblock_lava_deaths_bedwars": 0
+        "eight_one_oneblock_lava_deaths_bedwars": 0,
+        "halloween": {
+          "talked_to_patches": true
+        }
       },
       "MurderMystery": {
         "knife_kills_library": 0,
@@ -52680,6 +52683,10 @@
         "2025": {
           "levelling": {
             "experience": 0
+          },
+          "candyhunt": {
+            "baskets": [],
+            "reward": true
           }
         }
       },

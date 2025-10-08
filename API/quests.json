@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1759349938691,
+  "lastUpdated": 1759929727251,
   "quests": {
     "quake": [
       {
@@ -2870,6 +2870,47 @@
           }
         ],
         "description": "Win games of SkyWars"
+      },
+      {
+        "id": "skywars_halloween_harvest_2025",
+        "name": "Special Quest: Harvest Season",
+        "rewards": [
+          {
+            "type": "SkyWarsTokenReward",
+            "amount": 80000
+          },
+          {
+            "type": "MultipliedCoinReward",
+            "amount": 20000
+          },
+          {
+            "type": "PackageReward",
+            "package": "cage_house"
+          }
+        ],
+        "objectives": [
+          {
+            "id": "skywars_halloween_kills",
+            "type": "IntegerObjective",
+            "integer": 333
+          },
+          {
+            "id": "skywars_halloween_corrupted_wins",
+            "type": "IntegerObjective",
+            "integer": 3
+          },
+          {
+            "id": "skywars_halloween_mega_wins",
+            "type": "IntegerObjective",
+            "integer": 10
+          }
+        ],
+        "requirements": [
+          {
+            "type": "OneTimeQuestRequirement"
+          }
+        ],
+        "description": "Collect %%aqua%%333 souls %%gray%%from kills and wins in insane SkyWars\nWin 3 %%dark_purple%%spooky %%gray%%games\nWin 10 games in any mode"
       },
       {
         "id": "skywars_weekly_kills",

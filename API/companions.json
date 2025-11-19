@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1639227729556,
+  "lastUpdated": 1763583249009,
   "types": [
     {
       "key": "PENGUIN",
@@ -23,7 +23,7 @@
     {
       "key": "BLACK_PUG",
       "name": "Black Pug",
-      "rarity": null,
+      "rarity": "LEGENDARY",
       "package": "pet_black_pug"
     },
     {
@@ -133,6 +133,12 @@
       "name": "Present",
       "rarity": "LEGENDARY",
       "package": "pet_present"
+    },
+    {
+      "key": "TURKEY",
+      "name": "Turkey",
+      "rarity": "LEGENDARY",
+      "package": "pet_turkey"
     }
   ],
   "rarities": [

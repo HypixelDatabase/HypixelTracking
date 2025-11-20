@@ -53927,7 +53927,13 @@
         "currentSort": ""
       }
     },
-    "collectibles_menu_visibility_sort": ""
+    "collectibles_menu_visibility_sort": "",
+    "cachedData": {
+      "superstarMonths": {
+        "value": 0,
+        "lastUpdated": 0
+      }
+    }
   },
   "cause": "",
   "throttle": true

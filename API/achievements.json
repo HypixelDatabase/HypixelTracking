@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1760537646256,
+  "lastUpdated": 1764620680057,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3988,17 +3988,16 @@
           "description": "Steal 42 presents in a single game of Grinch Simulator",
           "globalPercentUnlocked": 1
         },
-        "REAL_SANTA_2024": {
-          "points": 15,
-          "name": "Real Santa (2024)",
-          "description": "Find all 95 presents in every lobby",
-          "globalPercentUnlocked": 1
-        },
         "SNOWBALL_SNIPER": {
           "points": 10,
           "name": "Snowball Sniper",
           "description": "Throw 3 players into the void using snowballs in a game of SkyWars",
           "globalPercentUnlocked": 1
+        },
+        "REAL_SANTA_2025": {
+          "points": 15,
+          "name": "Real Santa (2025)",
+          "description": "Find all 95 presents in every lobby"
         },
         "RUSH": {
           "points": 10,
@@ -4024,11 +4023,10 @@
           "description": "Win a game as Murderer after collecting at least 3 presents in Murder Mystery",
           "globalPercentUnlocked": 1
         },
-        "HUNT_BEGINS_2024": {
+        "HUNT_BEGINS_2025": {
           "points": 5,
-          "name": "The Hunt Begins (2024)",
-          "description": "Find 2 lobby presents",
-          "globalPercentUnlocked": 1
+          "name": "The Hunt Begins (2025)",
+          "description": "Find 2 lobby presents"
         },
         "LEGENDARY": {
           "points": 10,
@@ -4349,6 +4347,12 @@
           "description": "Find 2 lobby presents",
           "legacy": true
         },
+        "REAL_SANTA_2024": {
+          "points": 15,
+          "name": "Real Santa (2024)",
+          "description": "Find all 95 presents in every lobby",
+          "legacy": true
+        },
         "SECRETEST_SANTA": {
           "points": 15,
           "name": "Secretest Santa",
@@ -4415,6 +4419,12 @@
           "description": "Complete the Hard Bingo Card during a Holidays Event",
           "legacy": true
         },
+        "HUNT_BEGINS_2024": {
+          "points": 5,
+          "name": "The Hunt Begins (2024)",
+          "description": "Find 2 lobby presents",
+          "legacy": true
+        },
         "HUNT_BEGINS_2018": {
           "points": 5,
           "name": "The Hunt Begins (2018)",
@@ -4454,8 +4464,8 @@
             }
           ]
         },
-        "ADVENT_2024": {
-          "name": "Advent Calendar (2024)",
+        "ADVENT_2025": {
+          "name": "Advent Calendar (2025)",
           "description": "Claim %%value%% days in the Advent Calendar",
           "tiers": [
             {
@@ -4606,6 +4616,38 @@
               "tier": 5,
               "points": 25,
               "amount": 500
+            }
+          ]
+        },
+        "ADVENT_2024": {
+          "name": "Advent Calendar (2024)",
+          "description": "Claim %%value%% days in the Advent Calendar",
+          "legacy": true,
+          "tiers": [
+            {
+              "tier": 1,
+              "points": 5,
+              "amount": 1
+            },
+            {
+              "tier": 2,
+              "points": 10,
+              "amount": 3
+            },
+            {
+              "tier": 3,
+              "points": 15,
+              "amount": 7
+            },
+            {
+              "tier": 4,
+              "points": 20,
+              "amount": 14
+            },
+            {
+              "tier": 5,
+              "points": 25,
+              "amount": 21
             }
           ]
         },
@@ -4867,7 +4909,7 @@
         }
       },
       "total_points": 815,
-      "total_legacy_points": 810
+      "total_legacy_points": 905
     },
     "copsandcrims": {
       "one_time": {

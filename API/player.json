@@ -308,7 +308,8 @@
       "duels_sumo_duels_winner": 0,
       "duels_uhc_duels_winner": 0,
       "duels_combo_duels_winner": 0,
-      "duels_duels_killer": 0
+      "duels_duels_killer": 0,
+      "christmas2017_advent_2025": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -83507,7 +83508,13 @@
             "BEDWARS_2": true,
             "BEDWARS_3": true,
             "BEDWARS_4": true,
-            "BEDWARS_5": true
+            "BEDWARS_5": true,
+            "MAIN_LOBBY_19": true,
+            "MAIN_LOBBY_15": true,
+            "SKYWARS_1": true
+          },
+          "adventRewards": {
+            "day1": 0
           }
         }
       },

@@ -59394,7 +59394,23 @@
         "seasonal": {
           "christmas": {
             "2025": {
-              "talked_to_npc": true
+              "talked_to_npc": true,
+              "happy_holidays": {
+                "progression": 0,
+                "claimed": 0
+              },
+              "two_week_phase": {
+                "progression": 0
+              },
+              "festive_frenzy": {
+                "progression": 0
+              },
+              "gift_exchange": {
+                "progression": 0
+              },
+              "season_of_giving": {
+                "progression": 0
+              }
             }
           }
         }
@@ -83653,7 +83669,8 @@
           },
           "levelling": {
             "experience": 0
-          }
+          },
+          "completed_holiday_quests": 0
         }
       },
       "easter": {

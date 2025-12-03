@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1764620680057,
+  "lastUpdated": 1764767380078,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -3997,7 +3997,8 @@
         "REAL_SANTA_2025": {
           "points": 15,
           "name": "Real Santa (2025)",
-          "description": "Find all 95 presents in every lobby"
+          "description": "Find all 95 presents in every lobby",
+          "globalPercentUnlocked": 1
         },
         "RUSH": {
           "points": 10,
@@ -4026,7 +4027,8 @@
         "HUNT_BEGINS_2025": {
           "points": 5,
           "name": "The Hunt Begins (2025)",
-          "description": "Find 2 lobby presents"
+          "description": "Find 2 lobby presents",
+          "globalPercentUnlocked": 1
         },
         "LEGENDARY": {
           "points": 10,

@@ -88,7 +88,9 @@
         "disguised_rats": 0,
         "pest_wrangler": 0,
         "baker": 0,
-        "ravenous_rhino": 0
+        "ravenous_rhino": 0,
+        "carpenter": 0,
+        "master_tactician": 0
       },
       "completed": {
         "jerry": 0,
@@ -174,7 +176,9 @@
         "disguised_rats": 0,
         "pest_wrangler": 0,
         "baker": 0,
-        "ravenous_rhino": 0
+        "ravenous_rhino": 0,
+        "carpenter": 0,
+        "master_tactician": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -1665,7 +1669,8 @@
       "POTATO_ITEM": 0,
       "NETHER_STALK": 0,
       "SUGAR_CANE": 0,
-      "MUSHROOM_COLLECTION": 0
+      "MUSHROOM_COLLECTION": 0,
+      "MOONFLOWER": 0
     },
     "selected_barn_skin": "",
     "composter_data": {
@@ -1694,7 +1699,10 @@
       "POTATO_ITEM": 0,
       "PUMPKIN": 0,
       "SUGAR_CANE": 0,
-      "WHEAT": 0
+      "WHEAT": 0,
+      "MOONFLOWER": 0,
+      "DOUBLE_PLANT": 0,
+      "WILD_ROSE": 0
     }
   }
 }

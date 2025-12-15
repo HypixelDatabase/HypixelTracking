@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1764767380078,
+  "lastUpdated": 1765808708116,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11363,6 +11363,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "TOO_MUCH_JOY": {
+          "points": 5,
+          "name": "Too much joy",
+          "description": "???",
+          "secret": true
+        },
         "SUPREME_FARMER": {
           "points": 5,
           "name": "Supreme Farmer",
@@ -13521,7 +13527,7 @@
           ]
         }
       },
-      "total_points": 3080,
+      "total_points": 3085,
       "total_legacy_points": 0
     },
     "skyclash": {

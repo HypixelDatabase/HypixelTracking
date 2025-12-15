@@ -117,7 +117,9 @@
         "queen_nyx": 0,
         "sherry": 0,
         "trinity": 0,
-        "vincent": 0
+        "vincent": 0,
+        "chief_scorn": 0,
+        "bruuh": 0
       },
       "completed": {
         "jerry": 0,
@@ -232,7 +234,9 @@
         "queen_nyx": 0,
         "sherry": 0,
         "trinity": 0,
-        "vincent": 0
+        "vincent": 0,
+        "chief_scorn": 0,
+        "bruuh": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -1792,6 +1796,18 @@
             "item_id": ""
           }
         ]
+      },
+      "archaeologist": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
       }
     },
     "garden_experience": 0,

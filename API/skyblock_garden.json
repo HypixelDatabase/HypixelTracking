@@ -101,7 +101,9 @@
         "lift_operator": 0,
         "dulin_tunnels": 0,
         "scardius": 0,
-        "snowmaker": 0
+        "snowmaker": 0,
+        "dragon_ritualist": 0,
+        "cold_enjoyer": 0
       },
       "completed": {
         "jerry": 0,
@@ -200,7 +202,9 @@
         "lift_operator": 0,
         "dulin_tunnels": 0,
         "scardius": 0,
-        "snowmaker": 0
+        "snowmaker": 0,
+        "dragon_ritualist": 0,
+        "cold_enjoyer": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -1692,6 +1696,18 @@
         "position": 0
       },
       "bednom": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "farm_merchant": {
         "requirement": [
           {
             "original_item": "",

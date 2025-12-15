@@ -94,7 +94,9 @@
         "gemma": 0,
         "marigold": 0,
         "fire_guy": 0,
-        "romero": 0
+        "romero": 0,
+        "spider_tamer": 0,
+        "bednom": 0
       },
       "completed": {
         "jerry": 0,
@@ -185,7 +187,9 @@
         "master_tactician": 0,
         "gemma": 0,
         "marigold": 0,
-        "fire_guy": 0
+        "fire_guy": 0,
+        "romero": 0,
+        "spider_tamer": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -1665,6 +1669,18 @@
         ]
       },
       "romero": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "bednom": {
         "requirement": [
           {
             "original_item": "",

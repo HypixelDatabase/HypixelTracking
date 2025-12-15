@@ -90,7 +90,11 @@
         "baker": 0,
         "ravenous_rhino": 0,
         "carpenter": 0,
-        "master_tactician": 0
+        "master_tactician": 0,
+        "gemma": 0,
+        "marigold": 0,
+        "fire_guy": 0,
+        "romero": 0
       },
       "completed": {
         "jerry": 0,
@@ -178,7 +182,10 @@
         "baker": 0,
         "ravenous_rhino": 0,
         "carpenter": 0,
-        "master_tactician": 0
+        "master_tactician": 0,
+        "gemma": 0,
+        "marigold": 0,
+        "fire_guy": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -1656,6 +1663,18 @@
             "item_id": ""
           }
         ]
+      },
+      "romero": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
       }
     },
     "garden_experience": 0,
@@ -1670,7 +1689,8 @@
       "NETHER_STALK": 0,
       "SUGAR_CANE": 0,
       "MUSHROOM_COLLECTION": 0,
-      "MOONFLOWER": 0
+      "MOONFLOWER": 0,
+      "DOUBLE_PLANT": 0
     },
     "selected_barn_skin": "",
     "composter_data": {

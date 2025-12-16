@@ -127,7 +127,8 @@
         "hendrik": 0,
         "ophelia": 0,
         "dante_goon": 0,
-        "ludleth": 0
+        "ludleth": 0,
+        "elle": 0
       },
       "completed": {
         "jerry": 0,
@@ -252,7 +253,8 @@
         "hendrik": 0,
         "ophelia": 0,
         "dante_goon": 0,
-        "ludleth": 0
+        "ludleth": 0,
+        "elle": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -1850,6 +1852,42 @@
         "position": 0
       },
       "chunk": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "chantelle": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "queen_nyx": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "hendrik": {
         "requirement": [
           {
             "original_item": "",

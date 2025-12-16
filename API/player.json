@@ -309,7 +309,8 @@
       "duels_uhc_duels_winner": 0,
       "duels_combo_duels_winner": 0,
       "duels_duels_killer": 0,
-      "christmas2017_advent_2025": 0
+      "christmas2017_advent_2025": 0,
+      "arcade_disasters_prepared": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -4339,7 +4340,24 @@
         "fb_kicks": 0,
         "fb_powerkicks": 0,
         "fb_goals": 0,
-        "fb_wins": 0
+        "fb_wins": 0,
+        "disasters": {
+          "stats": {
+            "deaths": {
+              "unknown": 0,
+              "withers": 0
+            },
+            "games_played": 0,
+            "losses": 0,
+            "time_survived": 0,
+            "survived": {
+              "hypixel_says": 0,
+              "solar_flare": 0,
+              "blackout": 0,
+              "nuke": 0
+            }
+          }
+        }
       },
       "Arena": {
         "coins": 0,

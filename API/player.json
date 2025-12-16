@@ -57018,7 +57018,8 @@
           "sprays_jerrys_workshop",
           "islandtopper_holly_gingerbread_house",
           "islandtopper_candy_cane_factory",
-          "islandtopper_rudolph"
+          "islandtopper_rudolph",
+          "npcskin_red_presents_shopkeeper_skin"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -59411,21 +59412,24 @@
                 "claimed": 0
               },
               "festive_frenzy": {
-                "progression": 0
+                "progression": 0,
+                "claimed": 0
               },
               "gift_exchange": {
                 "progression": 0,
                 "claimed": 0
               },
               "season_of_giving": {
-                "progression": 0
+                "progression": 0,
+                "claimed": 0
               },
               "candy_cane_challenger": {
                 "progression": [],
                 "claimed": 0
               },
               "winter_vacation": {
-                "progression": []
+                "progression": [],
+                "claimed": 0
               },
               "sneaky_santa": {
                 "progression": 0,
@@ -59434,6 +59438,10 @@
               "holiday_shopping": {
                 "progression": 0,
                 "claimed": 0
+              },
+              "megagift": {
+                "sent": 0,
+                "received": 0
               }
             }
           }

@@ -310,7 +310,8 @@
       "duels_combo_duels_winner": 0,
       "duels_duels_killer": 0,
       "christmas2017_advent_2025": 0,
-      "arcade_disasters_prepared": 0
+      "arcade_disasters_prepared": 0,
+      "arcade_disasters_survivalist": 0
     },
     "achievementsOneTime": [],
     "auto_spawn_pet": true,
@@ -4345,7 +4346,18 @@
           "stats": {
             "deaths": {
               "unknown": 0,
-              "withers": 0
+              "withers": 0,
+              "zombie_apocalypse": 0,
+              "sinkhole": 0,
+              "stampede": 0,
+              "lightning": 0,
+              "fall": 0,
+              "void": 0,
+              "solar_flare": 0,
+              "tnt_rain": 0,
+              "tornado": 0,
+              "acid_rain": 0,
+              "disco": 0
             },
             "games_played": 0,
             "losses": 0,
@@ -4354,8 +4366,29 @@
               "hypixel_says": 0,
               "solar_flare": 0,
               "blackout": 0,
-              "nuke": 0
-            }
+              "nuke": 0,
+              "swappage": 0,
+              "the_floor_is_lava": 0,
+              "disco": 0,
+              "purge": 0,
+              "fragile_ground": 0,
+              "half_health": 0,
+              "hot_potato": 0,
+              "tnt_rain": 0,
+              "tornado": 0,
+              "grounded": 0,
+              "bat_swarm": 0,
+              "lightning": 0,
+              "sinkhole": 0,
+              "zombie_apocalypse": 0,
+              "acid_rain": 0,
+              "anvil_rain": 0,
+              "dragons": 0,
+              "withers": 0,
+              "stampede": 0,
+              "werewolf": 0
+            },
+            "wins": 0
           }
         }
       },

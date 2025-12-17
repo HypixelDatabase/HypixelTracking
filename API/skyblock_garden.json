@@ -2087,6 +2087,30 @@
             "item_id": ""
           }
         ]
+      },
+      "lift_operator": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "artist": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
       }
     },
     "garden_experience": 0,

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1765893383063,
+  "lastUpdated": 1765992683072,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -49,7 +49,9 @@
         "DISASTERS_SHIELDWALL": {
           "points": 10,
           "name": "Disasters: Shieldwall",
-          "description": "Wear a full set of gold armor"
+          "description": "Wear a full set of gold armor",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DROPPER_SHEER_BRILLIANCE": {
           "points": 10,
@@ -61,7 +63,9 @@
         "DISASTERS_UNTOUCHABLE": {
           "points": 15,
           "name": "Disasters: Untouchable",
-          "description": "Survive without taking any damage"
+          "description": "Survive without taking any damage",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "MINI_WALLS_LAST_MAN": {
           "points": 5,
@@ -93,7 +97,9 @@
         "DISASTERS_SHARING_IS_CARING": {
           "points": 5,
           "name": "Disasters: Sharing Is Caring",
-          "description": "Pass the Hot Potato to another player"
+          "description": "Pass the Hot Potato to another player",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CREEPER_ATTACK_WAVES": {
           "points": 10,
@@ -175,7 +181,9 @@
         "DISASTERS_LAST_MAN_STANDING": {
           "points": 10,
           "name": "Disasters: Last Man Standing",
-          "description": "Survive a game as the last player alive"
+          "description": "Survive a game as the last player alive",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ZOMBIES_PRISON_SECRET_BEYOND": {
           "points": 15,
@@ -195,7 +203,9 @@
         "DISASTERS_FULL_HOUSE": {
           "points": 15,
           "name": "Disasters: Full House",
-          "description": "Survive a game without anyone dying"
+          "description": "Survive a game without anyone dying",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "BOUNTY_HUNTER_TARGET_KILLER": {
           "points": 5,
@@ -299,12 +309,16 @@
         "DISASTERS_ALWAYS_A_BIGGER_FISH": {
           "points": 10,
           "name": "Disasters: Always a Bigger Fish",
-          "description": "Kill the Werewolf"
+          "description": "Kill the Werewolf",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DISASTERS_LIKE_A_STATUE": {
           "points": 15,
           "name": "Disasters: Like a Statue",
-          "description": "Survive a game without moving (after the first disaster starts)"
+          "description": "Survive a game without moving (after the first disaster starts)",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "NO_MERCY": {
           "points": 5,
@@ -437,7 +451,9 @@
         "DISASTERS_DUMPSTER_DIVING": {
           "points": 5,
           "name": "Disasters: Dumpster Diving",
-          "description": "Use a dumpster to travel across the map"
+          "description": "Use a dumpster to travel across the map",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "CANT_HIDE_FROM_ME": {
           "points": 5,
@@ -477,7 +493,9 @@
         "DISASTERS_HERE_WE_GO": {
           "points": 5,
           "name": "Disasters: Here We Go!",
-          "description": "Survive a game"
+          "description": "Survive a game",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THROW_OUT_REGULAR_GUY": {
           "points": 10,
@@ -496,7 +514,9 @@
         "DISASTERS_FINAL_DESTINATION": {
           "points": 5,
           "name": "Disasters: Final Destination",
-          "description": "Be the first player to get crushed by an anvil from Anvil Rain"
+          "description": "Be the first player to get crushed by an anvil from Anvil Rain",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DRAGON_WARS_BLAST": {
           "points": 5,
@@ -514,7 +534,9 @@
         "DISASTERS_GOT_ANY_CHANGE": {
           "points": 5,
           "name": "Disasters: Got Any Change?",
-          "description": "Obtain a potion from a vending machine"
+          "description": "Obtain a potion from a vending machine",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PARTY_SURVIVOR": {
           "points": 15,
@@ -534,7 +556,9 @@
           "points": 15,
           "name": "Disasters: Titanfall",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DROPPER_WASNT_SO_BAD": {
           "points": 5,
@@ -581,7 +605,9 @@
         "DISASTERS_TORNADO_WRANGLER": {
           "points": 5,
           "name": "Disasters: Tornado Wrangler",
-          "description": "Survive being lifted by a tornado"
+          "description": "Survive being lifted by a tornado",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PIXEL_PARTY_CRUSHED_DISCO": {
           "points": 5,
@@ -692,12 +718,16 @@
         "DISASTERS_YAHOO": {
           "points": 5,
           "name": "Disasters: Yahoo!",
-          "description": "Pick up a power up"
+          "description": "Pick up a power up",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DISASTERS_MAXIMUM_OVERLOAD": {
           "points": 10,
           "name": "Disasters: Maximum Overload",
-          "description": "Survive a game in which 6 different disasters occurred"
+          "description": "Survive a game in which 6 different disasters occurred",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ZOMBIES_ELECTRICIAN": {
           "points": 5,
@@ -780,7 +810,9 @@
         "DISASTERS_WARWICK": {
           "points": 10,
           "name": "Disasters: Warwick",
-          "description": "Win a game as the Werewolf"
+          "description": "Win a game as the Werewolf",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ANIMAL_SLAUGHTER": {
           "points": 10,
@@ -792,7 +824,9 @@
         "DISASTERS_HALF_A_HEART_AND_A_DREAM": {
           "points": 5,
           "name": "Disasters: Half a Heart and a Dream",
-          "description": "Survive a game with only half a heart remaining"
+          "description": "Survive a game with only half a heart remaining",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SAVAGE": {
           "points": 10,
@@ -804,7 +838,9 @@
         "DISASTERS_JUGGLER": {
           "points": 10,
           "name": "Disasters: Juggler",
-          "description": "Pass the Hot Potato back to the same player 5 times in a single game and survive"
+          "description": "Pass the Hot Potato back to the same player 5 times in a single game and survive",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DRAGON_KILLER": {
           "points": 10,
@@ -816,7 +852,9 @@
         "DISASTERS_PEACEKEEPER": {
           "points": 10,
           "name": "Disasters: Peacekeeper",
-          "description": "Survive the Purge without damaging another player"
+          "description": "Survive the Purge without damaging another player",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "GALAXY_WARS_NOW_I_AM_THE_MASTER": {
           "points": 15,

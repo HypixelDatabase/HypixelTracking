@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1765992683072,
+  "lastUpdated": 1766066587986,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -529,7 +529,9 @@
           "points": 5,
           "name": "Disasters: Dragon Tamer",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DISASTERS_GOT_ANY_CHANGE": {
           "points": 5,

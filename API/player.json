@@ -60015,7 +60015,16 @@
           "kill_note_sloth_santa",
           "kill_note_jerrys_workshop",
           "kill_note_skyblock_winter",
-          "kill_note_naughty_list_certificate"
+          "kill_note_naughty_list_certificate",
+          "prefixicon_divine",
+          "prefixicon_omega",
+          "prefixicon_zero",
+          "prefixicon_rich",
+          "prefixscheme_sharp_gray",
+          "prefixscheme_bloodthirsty_gold",
+          "prefixicon_sigma",
+          "prefixscheme_basic_white",
+          "prefixicon_alpha"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -62701,7 +62710,9 @@
         "mm_merry_chests": 0,
         "suicides_towerfall_MURDER_HARDCORE": 0,
         "suicides_MURDER_ASSASSINS": 0,
-        "suicides_gold_rush_MURDER_ASSASSINS": 0
+        "suicides_gold_rush_MURDER_ASSASSINS": 0,
+        "convertedEmblemIcons": true,
+        "doPrefixesInGame": true
       },
       "Duels": {
         "duels_recently_played": "",

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1766066587986,
+  "lastUpdated": 1767801122420,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -9212,6 +9212,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "MURDERERS_PINNACLE": {
+          "points": 15,
+          "name": "Murderer's Pinnacle",
+          "description": "Complete the Classic / Double Up! Descent into Madness"
+        },
         "DRINK_MANY_POTIONS": {
           "points": 10,
           "name": "Quenchy",
@@ -9233,12 +9238,22 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "ASSASSINS_PINNACLE": {
+          "points": 15,
+          "name": "Assassin's Pinnacle",
+          "description": "Complete the Assassins Descent into Madness"
+        },
         "PLAY_GAME_IN_LOBBY": {
           "points": 5,
           "name": "Well, That's Cool",
           "description": "Play one of the minigames in the lobby",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "ALPHAS_PINNACLE": {
+          "points": 15,
+          "name": "Alpha's Pinnacle",
+          "description": "Complete the Infection Descent into Madness"
         },
         "SOLDIERS_ELIMINATED": {
           "points": 5,
@@ -9309,6 +9324,11 @@
           "description": "Be the Hero of the game",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "HAPPY_AND_WINNING": {
+          "points": 5,
+          "name": "Happy AND Winning",
+          "description": "Win a game of Assassins during Assassin's Happy Hour"
         },
         "THREE_ARROWS": {
           "points": 10,
@@ -9422,6 +9442,11 @@
           "description": "Use a Gesture",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "PRESTIGIOUS": {
+          "points": 10,
+          "name": "Prestigious",
+          "description": "Prestige a Knife Skin"
         },
         "SURVIVE_STORM_ON_TOP": {
           "points": 10,
@@ -9743,7 +9768,7 @@
           ]
         }
       },
-      "total_points": 1165,
+      "total_points": 1225,
       "total_legacy_points": 5
     },
     "paintball": {

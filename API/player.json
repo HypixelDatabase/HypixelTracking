@@ -62712,7 +62712,12 @@
         "suicides_MURDER_ASSASSINS": 0,
         "suicides_gold_rush_MURDER_ASSASSINS": 0,
         "convertedEmblemIcons": true,
-        "doPrefixesInGame": true
+        "doPrefixesInGame": true,
+        "settings": {
+          "doPrefixesInGame": true
+        },
+        "active_prefixscheme": "",
+        "active_prefixicon": ""
       },
       "Duels": {
         "duels_recently_played": "",

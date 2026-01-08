@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1767801122420,
+  "lastUpdated": 1767888122411,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -9215,7 +9215,9 @@
         "MURDERERS_PINNACLE": {
           "points": 15,
           "name": "Murderer's Pinnacle",
-          "description": "Complete the Classic / Double Up! Descent into Madness"
+          "description": "Complete the Classic / Double Up! Descent into Madness",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "DRINK_MANY_POTIONS": {
           "points": 10,
@@ -9241,7 +9243,9 @@
         "ASSASSINS_PINNACLE": {
           "points": 15,
           "name": "Assassin's Pinnacle",
-          "description": "Complete the Assassins Descent into Madness"
+          "description": "Complete the Assassins Descent into Madness",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "PLAY_GAME_IN_LOBBY": {
           "points": 5,
@@ -9253,7 +9257,9 @@
         "ALPHAS_PINNACLE": {
           "points": 15,
           "name": "Alpha's Pinnacle",
-          "description": "Complete the Infection Descent into Madness"
+          "description": "Complete the Infection Descent into Madness",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SOLDIERS_ELIMINATED": {
           "points": 5,
@@ -9446,7 +9452,9 @@
         "PRESTIGIOUS": {
           "points": 10,
           "name": "Prestigious",
-          "description": "Prestige a Knife Skin"
+          "description": "Prestige a Knife Skin",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SURVIVE_STORM_ON_TOP": {
           "points": 10,

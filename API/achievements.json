@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1767888122411,
+  "lastUpdated": 1768050722484,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -9334,7 +9334,9 @@
         "HAPPY_AND_WINNING": {
           "points": 5,
           "name": "Happy AND Winning",
-          "description": "Win a game of Assassins during Assassin's Happy Hour"
+          "description": "Win a game of Assassins during Assassin's Happy Hour",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "THREE_ARROWS": {
           "points": 10,

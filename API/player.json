@@ -46820,7 +46820,10 @@
         "inGamePresentsCap_2025_4": 0,
         "inGamePresentsCap_2025_7": 0,
         "inGamePresentsCap_2025_12": 0,
-        "inGamePresentsCap_2025_26": 0
+        "inGamePresentsCap_2025_26": 0,
+        "inGamePresentsCap_2025_21": 0,
+        "inGamePresentsCap_2025_6": 0,
+        "inGamePresentsCap_2025_18": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -57086,7 +57089,8 @@
           "islandtopper_holly_gingerbread_house",
           "islandtopper_candy_cane_factory",
           "islandtopper_rudolph",
-          "npcskin_red_presents_shopkeeper_skin"
+          "npcskin_red_presents_shopkeeper_skin",
+          "favoritemap_gingerbread town"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -60025,7 +60029,24 @@
           "prefixicon_sigma",
           "prefixscheme_basic_white",
           "prefixicon_alpha",
-          "prefixscheme_obvious_yellow"
+          "prefixscheme_obvious_yellow",
+          "prefixscheme_silent_black",
+          "prefixscheme_camo_green",
+          "prefixscheme_disguised_blue",
+          "prefixicon_podium",
+          "prefixscheme_shady_dark_green",
+          "prefixstat_assassins_kills",
+          "prefixstat_assassins_wins",
+          "prefixstat_classic_wins",
+          "prefixstat_classic_kills",
+          "prefixscheme_passive_aqua",
+          "prefixscheme_suspicious_dark_aqua",
+          "prefixicon_equivalence",
+          "prefixscheme_dried_dark_red",
+          "prefixscheme_ruthless_light_purple",
+          "prefixstat_infection_wins",
+          "prefixscheme_regal_dark_purple",
+          "prefixstat_infection_kills"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -62324,7 +62345,10 @@
           "last_words": [],
           "victory_dance": [],
           "kill_note": [],
-          "gesture": []
+          "gesture": [],
+          "prefixicon": [],
+          "prefixscheme": [],
+          "prefixstat": []
         },
         "kills_as_alpha_aquarium": 0,
         "kills_as_alpha_aquarium_MURDER_INFECTION": 0,
@@ -62715,7 +62739,9 @@
         "convertedEmblemIcons": true,
         "doPrefixesInGame": true,
         "settings": {
-          "doPrefixesInGame": true
+          "doPrefixesInGame": true,
+          "doHints": true,
+          "doHeartbeatSounds": true
         },
         "active_prefixscheme": "",
         "active_prefixicon": "",
@@ -62724,10 +62750,45 @@
           "1": "",
           "2": "",
           "3": "",
+          "4": "",
           "5": "",
           "6": "",
-          "8": ""
-        }
+          "7": "",
+          "8": "",
+          "17": ""
+        },
+        "active_prefixstat": "",
+        "classic": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "9": "",
+          "17": "",
+          "28": "",
+          "33": ""
+        },
+        "infection": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": "",
+          "5": "",
+          "6": "",
+          "7": "",
+          "8": "",
+          "17": "",
+          "27": "",
+          "30": "",
+          "33": ""
+        },
+        "bow_kills_archives_top_floor_MURDER_SHOWDOWN": 0
       },
       "Duels": {
         "duels_recently_played": "",
@@ -73828,7 +73889,7 @@
           "speed": "",
           "block_place": true,
           "no_block_break": true,
-          "no_class": "",
+          "no_class": true,
           "one_hit_one_kill": true,
           "game_speed": "",
           "low_gravity": true
@@ -74095,6 +74156,24 @@
                   "treasure": 0,
                   "creature": 0,
                   "plant": 0
+                }
+              },
+              "christmas": {
+                "ice": {
+                  "fish": 0,
+                  "orb": 0,
+                  "junk": 0,
+                  "treasure": 0
+                },
+                "water": {
+                  "junk": 0,
+                  "orb": 0,
+                  "fish": 0,
+                  "treasure": 0
+                },
+                "lava": {
+                  "fish": 0,
+                  "junk": 0
                 }
               }
             },
@@ -78594,7 +78673,13 @@
       "given_cookies_105346": [],
       "given_cookies_104968": [],
       "given_cookies_105345": [],
-      "given_cookies_105349": []
+      "given_cookies_105349": [],
+      "given_cookies_105348": [],
+      "given_cookies_105350": [],
+      "given_cookies_105347": [],
+      "given_cookies_105351": [],
+      "given_cookies_105352": [],
+      "given_cookies_105354": []
     },
     "transformation": "",
     "rewardConsumed": true,
@@ -79706,7 +79791,8 @@
         "VAMPIREZ__purifying_challenge": 0,
         "VAMPIREZ__last_stand_challenge": 0,
         "ARCADE__bounty_hunter_challenge": 0,
-        "ARCADE__creeper_attack_challenge": 0
+        "ARCADE__creeper_attack_challenge": 0,
+        "ARCADE__farm_hunt_challenge": 0
       },
       "day_a": {
         "SKYWARS__feeding_the_void_challenge": 0,
@@ -79865,7 +79951,8 @@
         "ARCADE__pixel_party_challenge": 0,
         "WALLS3__comeback_challenge": 0,
         "ARCADE__blocking_dead_challenge": 0,
-        "BEDWARS__defensive": 0
+        "BEDWARS__defensive": 0,
+        "ARCADE__hide_and_seek_challenge": 0
       },
       "day_c": {
         "BATTLEGROUND__brute_challenge": 0,
@@ -81786,7 +81873,6 @@
       "day6": 0,
       "day23": 0
     },
-    "claimed_solo_bank_3abe2f6b-d45a-4e22-82d4-f9014569db25": 0,
     "main2017Tutorial": true,
     "adventRewards_v2_2019": {
       "day2": 0,
@@ -81811,7 +81897,6 @@
     },
     "levelUp_VIP": 0,
     "levelUp_VIP_PLUS": 0,
-    "claimed_solo_bank_9cc15d80-2eb4-4f2a-af20-75604ce452d5": 0,
     "outfit": {
       "LEGGINGS": "",
       "BOOTS": "",
@@ -83827,7 +83912,10 @@
           "levelling": {
             "experience": 0
           },
-          "completed_holiday_quests": 0
+          "completed_holiday_quests": 0,
+          "baking": {
+            "best_score": 0
+          }
         }
       },
       "easter": {
@@ -84809,9 +84897,6 @@
     },
     "customCloakBase64": "",
     "scorpius_bribe_240": 0,
-    "claimed_solo_bank_1c0e4f84-81d1-4c9b-adcc-78f6bfb2d063": 0,
-    "claimed_coop_bank_05c9bb60-e39e-4463-82c6-d5a7fe2fa0f0": 0,
-    "claimed_solo_bank_bf7c14fb-0189-4689-9d94-4d56e65222d2": 0,
     "s": {
       "SkyWars": {
         "levelFormatted": "",

@@ -46,6 +46,8 @@ function containsBadKey(key) {
     || key.startsWith('fetchur-')
     || key.startsWith('spooky_festival_')
     || key.startsWith('layout_items_')
+    || key.startsWith('claimed_solo_bank_')
+    || key.startsWith('claimed_coop_bank_')
     || /\d+:\d+_\d+:/.test(key)
     || /^[0-9a-fA-F]{32}$/.test(key);
 }

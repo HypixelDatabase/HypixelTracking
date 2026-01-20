@@ -132,7 +132,8 @@
         "hoppity": 0,
         "erihann": 0,
         "tomioka": 0,
-        "vargul_garden": 0
+        "vargul_garden": 0,
+        "mayor_aatrox": 0
       },
       "completed": {
         "jerry": 0,
@@ -2423,6 +2424,18 @@
         "position": 0
       },
       "vargul_garden": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0
+      },
+      "mayor_aatrox": {
         "requirement": [
           {
             "original_item": "",

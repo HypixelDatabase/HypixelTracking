@@ -2967,7 +2967,9 @@
       },
       "pit_daily_contract": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "pit_daily_contract": 0
+          },
           "started": 0
         },
         "completions": [

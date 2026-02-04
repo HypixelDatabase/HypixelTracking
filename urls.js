@@ -30,7 +30,7 @@ module.exports = [
       '1277d71f338046e298d90c9fe4055f00', // 56ms/Strawberry
       '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
       'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
-      '5825e8f071d04806b92687d79b733f30', // 15h/Mango
+      'cf8e438488834985bae1749013de6db1', // 15h/Coconut
       'fad90e13ff44441c8c5e1dbe489fd44f', // Nemqnja/Tomato
     ],
     transform: (obj, { merge, uniqueArrayElements }) => {
@@ -60,7 +60,7 @@ module.exports = [
       '1277d71f338046e298d90c9fe4055f00', // 56ms/Strawberry
       '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
       'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
-      '5825e8f071d04806b92687d79b733f30', // 15h/Mango
+      'cf8e438488834985bae1749013de6db1', // 15h/Coconut
       'fad90e13ff44441c8c5e1dbe489fd44f', // Nemqnja/Tomato
     ],
     transform: (obj, { merge, uniqueArrayElements }) => {
@@ -89,7 +89,7 @@ module.exports = [
       '1277d71f338046e298d90c9fe4055f00', // 56ms/Strawberry
       '7c207917505f4b48bab6631f2953151f', // Dueces/Kiwi
       'a7da9276d9fa49a18e770a0509584780', // TheOriginalAce/Mango
-      '5825e8f071d04806b92687d79b733f30', // 15h/Mango
+      'cf8e438488834985bae1749013de6db1', // 15h/Coconut
       'fad90e13ff44441c8c5e1dbe489fd44f', // Nemqnja/Tomato
     ],
   },

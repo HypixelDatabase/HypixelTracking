@@ -1138,6 +1138,27 @@
                 "completed_quest": true,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
+              },
+              "roddy": {
+                "talked_to": true,
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
+              },
+              "alda": {
+                "completed_quest": true
+              },
+              "kiara": {
+                "talked_to": true,
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
+              },
+              "jake_lab": {
+                "talked_to": true,
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "active_contacts": [],
@@ -1153,7 +1174,8 @@
             "selected_sort": "",
             "selected_ringtone": "",
             "has_used_sirius_personal_phone_number_item": true,
-            "last_dye_called_year": 0
+            "last_dye_called_year": 0,
+            "speed_dial": ""
           },
           "matriarch": {
             "pearls_collected": 0,
@@ -1506,7 +1528,9 @@
             "found_kuudra_boots": true,
             "unlocked_cavity_npcs": [],
             "cavity_rarity": ""
-          }
+          },
+          "barbarians_reputation_highest": 0,
+          "mages_reputation_highest": 0
         },
         "experimentation": {
           "pairings": {
@@ -3385,7 +3409,68 @@
             "small_mithril_grubber_15": 0,
             "bloated_mithril_grubber_15": 0,
             "medium_mithril_grubber_15": 0,
-            "large_mithril_grubber_15": 0
+            "large_mithril_grubber_15": 0,
+            "pest_dragonfly_1": 0,
+            "pest_firefly_1": 0,
+            "pest_praying_mantis_1": 0,
+            "dumpster_diver_15": 0,
+            "frog_man_10": 0,
+            "snapping_turtle_30": 0,
+            "trash_gobbler_8": 0,
+            "banshee_10": 0,
+            "titanoboa_240": 0,
+            "bayou_sludge_25": 0,
+            "alligator_120": 0,
+            "blue_ringed_octopus_275": 0,
+            "wiki_tiki_400": 0,
+            "fireproof_witch_75": 0,
+            "fried_chicken_30": 0,
+            "fiery_scuttler_475": 0,
+            "chillshot_31": 0,
+            "chillblade_31": 0,
+            "wetwing_chicken_18": 0,
+            "ent_14": 0,
+            "hydrospear_25": 0,
+            "seacurse_15": 0,
+            "tidetot_10": 0,
+            "strider_20": 0,
+            "tadgang_frog_10": 0,
+            "tadgang_frog_8": 0,
+            "cretan_bull_150": 0,
+            "gaia_construct_325": 0,
+            "minos_hunter_200": 0,
+            "minos_inquisitor_1250": 0,
+            "cretan_bull_250": 0,
+            "harpy_325": 0,
+            "siamese_lynx_200": 0,
+            "stranded_nymph_250": 0,
+            "sphinx_1250": 0,
+            "minos_champion_550": 0,
+            "manticore_1750": 0,
+            "king_minos_1750": 0,
+            "strider_21": 0,
+            "bogged_10": 0,
+            "ragnarok_666": 0,
+            "harpy_175": 0,
+            "stranded_nymph_150": 0,
+            "sphinx_750": 0,
+            "gaia_construct_85": 0,
+            "harpy_110": 0,
+            "siamese_lynx_15": 0,
+            "minos_hunter_25": 0,
+            "siamese_lynx_55": 0,
+            "zombuddy_1": 0,
+            "timestalk_clone_100": 0,
+            "cretan_bull_70": 0,
+            "harpy_85": 0,
+            "stranded_nymph_70": 0,
+            "skeleton_4": 0,
+            "spider_4": 0,
+            "zombie_4": 0,
+            "witch_4": 0,
+            "enderman_4": 0,
+            "enderman_11": 0,
+            "slime_11": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -4093,7 +4178,37 @@
             "master_crypt_undead_plummel_25": 0,
             "master_crypt_undead_districtgecko_25": 0,
             "inferno_magma_cube_400": 0,
-            "zombie_knight_126": 0
+            "zombie_knight_126": 0,
+            "blue_ringed_octopus_275": 0,
+            "wiki_tiki_laser_totem_100": 0,
+            "wiki_tiki_400": 0,
+            "primordial_bat_1": 0,
+            "conjoined_brood_2230": 0,
+            "minos_inquisitor_1250": 0,
+            "manticore_1750": 0,
+            "king_minos_1750": 0,
+            "gaia_construct_325": 0,
+            "cretan_bull_250": 0,
+            "mage_skull_100": 0,
+            "burningsoul_demon_3530": 0,
+            "burningsoul_demon_2090": 0,
+            "ragnarok_666": 0,
+            "titanoboa_240": 0,
+            "harpy_175": 0,
+            "cretan_bull_150": 0,
+            "minos_champion_550": 0,
+            "master_crypt_undead_minikloon_25": 0,
+            "fiery_scuttler_475": 0,
+            "dropship_500": 0,
+            "dropship_300": 0,
+            "dropship_200": 0,
+            "dropship_100": 0,
+            "primal_fear_100": 0,
+            "sphinx_1250": 0,
+            "harpy_325": 0,
+            "primordial_minion_610": 0,
+            "hydrospear_25": 0,
+            "chillblade_31": 0
           },
           "migration": true,
           "milestone": {
@@ -4984,7 +5099,73 @@
             "ADVENT_2024_12:advent_gift",
             "ADVENT_2024_12:advent_coins",
             "ADVENT_2024_12:furniture",
-            "commission_milestone_reward_carlton_wilson_fraisier_ceanna_lilith_eliza_braum_lissandra_sisko"
+            "commission_milestone_reward_carlton_wilson_fraisier_ceanna_lilith_eliza_braum_lissandra_sisko",
+            "stat_unlock_notification_treasure_chance",
+            "stat_unlock_notification_cold_resistance",
+            "stat_unlock_notification_true_defense",
+            "stat_unlock_notification_trophy_fish_chance",
+            "stat_unlock_notification_ferocity",
+            "stat_unlock_notification_pet_luck",
+            "stat_unlock_notification_pristine",
+            "stat_unlock_notification_attack_speed",
+            "stat_unlock_notification_magic_find",
+            "stat_unlock_notification_hunter_fortune",
+            "stat_unlock_notification_farming_fortune",
+            "stat_unlock_notification_mining_fortune",
+            "stat_unlock_notification_foraging_fortune",
+            "stat_unlock_notification_sweep",
+            "view_hina_tasks",
+            "stat_unlock_notification_respiration",
+            "stat_unlock_notification_pressure_resistance",
+            "stat_unlock_notification_heat_resistance",
+            "stat_unlock_notification_mining_spread",
+            "stat_unlock_notification_fear",
+            "stat_unlock_notification_bonus_pest_chance",
+            "stat_unlock_notification_tracking",
+            "stat_unlock_notification_vitality",
+            "stat_unlock_notification_breaking_power",
+            "stat_unlock_notification_double_hook_chance",
+            "view_swoop_menu",
+            "stat_unlock_notification_sea_creature_chance",
+            "st_jerry_462",
+            "dna_analysis_rewardbioanalysis_talisman",
+            "dna_analysis_rewardmutation_sack_1",
+            "dna_analysis_rewardmutation_sack_1_give",
+            "dna_analysis_rewardhydro_can_turbo_2000",
+            "dna_analysis_rewardcrop_growth_1",
+            "dna_analysis_rewardfarming_fortune_1",
+            "dna_analysis_rewardskyblock_xp_1",
+            "party_time_2025",
+            "view_david_menu",
+            "stat_unlock_notification_gemstone_spread",
+            "st_jerry_461",
+            "dna_analysis_rewardovergrown_grass",
+            "dna_analysis_rewardhydro_can_ultra_3000",
+            "dna_analysis_rewardcrop_growth_2",
+            "dna_analysis_rewardfarming_fortune_2",
+            "dna_analysis_rewardskyblock_xp_2",
+            "dna_analysis_rewardmutation_sack_3",
+            "dna_analysis_rewardaquamaster_x",
+            "dna_analysis_rewardcrop_growth_3",
+            "dna_analysis_rewardfarming_fortune_3",
+            "dna_analysis_rewardskyblock_xp_3",
+            "st_jerry_460",
+            "dna_analysis_rewardbioanalysis_ring",
+            "dna_analysis_rewardaquamaster_hydromax",
+            "dna_analysis_rewardcrop_growth_4",
+            "dna_analysis_rewardfarming_fortune_4",
+            "dna_analysis_rewardskyblock_xp_4",
+            "dna_analysis_rewardmutation_sack_5",
+            "dna_analysis_rewardgreenhouse_skin_5",
+            "dna_analysis_rewardcrop_growth_5",
+            "dna_analysis_rewardfarming_fortune_5",
+            "dna_analysis_rewardskyblock_xp_5",
+            "dna_analysis_rewardbioanalysis_artifact",
+            "dna_analysis_rewardcrop_growth_6",
+            "dna_analysis_rewardfarming_fortune_6",
+            "dna_analysis_rewardskyblock_xp_6",
+            "stat_unlock_notification_mending",
+            "st_jerry_reward_424"
           ],
           "collect_log": {
             "status": "",
@@ -8166,6 +8347,711 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_enid": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_lumber_jack": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "give_greenhouse_resources": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0,
+            "ENCHANTED_OAK_LOG": 0,
+            "ENCHANTED_SAND": 0
+          },
+          "give_sam_greenhouse_blueprint": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "place_a_greenhouse": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_sam_at_greenhouse": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "wait_for_greenhouse_paste": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "reach_garden_level": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_jeff": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_oak_logs": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_lumber_jack_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "warp_the_park": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_charlie_new": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "claim_charlie_trousers": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_birch_logs_new": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_spruce_logs": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "find_the_campfire": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_charlie_new_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_charlie_new_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_kelly": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_kelly_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_ryan": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "travel_to_dark_thicket": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "travel_to_spruce_woods": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_dark_oak_logs_new": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "complete_fire_trial": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_complete_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_ryan_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_ryan_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_xavier": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "travel_to_savanna_woodland": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_acacia_logs": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_molbert_items": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_molbert_logs": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "leave_zone_molbert": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "place_molbert_traps": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_melody_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_melody_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_molbert": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_molbert_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "help_molbert": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "leave_zone_molbert_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_molbert_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_molbert_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_molbert_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_dax": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_hina": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_teddy": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "catch_fish": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "claim_fishing_rod": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fish_rusty_engine": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "reach_fishing_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_enid_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_gerald": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "apply_engine": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_baha": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "warp_bayou": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "apply_rod_part": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "claim_sinker": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fish_hotspot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_hattie": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_hattie_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_junker": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_roddy": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_complete_14": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_complete_22": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_complete_30": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_complete_9": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_talk_14": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_talk_22": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_talk_30": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_talk_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_talk_9": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_collect_14": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_collect_22": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_collect_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_collect_9": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_upgrade_14": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_upgrade_22": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_upgrade_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "fire_trial_upgrade_9": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_swoop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "collect_berry": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "cut_fig_tree": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_swoop_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_swoop_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "buy_hunting_sword": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_swoop_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "hunt_chillshot": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "purchase_black_hole": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_oden": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_oden_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "catch_verdant_fish": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "claim_fishing_net": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_jaeger": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_jaeger_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_jaeger_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "catch_phanpyre": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "claim_lasso": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_auryon": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_auryon_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_auryon_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david_5": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_kysha": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "syphon_phanpyre": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david_6": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_kysha_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_kysha_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "use_fusion_machine": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "claim_davids_cloak": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_agatha": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_david_7": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_dax_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "beth_commission_1": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "beth_commission_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "beth_commission_3": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "beth_visit_4": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "meet_beth_at_lab": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "player_found_lab_beth": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "harvest_greenhouse_crop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "plant_greenhouse_crop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "wait_for_greenhouse_crop_to_grow": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "water_greenhouse_crop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "analyze_greenhouse_crop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "care_for_adjacent_wheat": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "spread_mutation": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "harvest_mutation": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "insert_garden_chip": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "show_specialized_tool": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_greenhouse_carpenter": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_jeff_after_tool": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "beth_investigate_lab": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "beth_pull_lever": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "crop_analyzer_tutorial": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "acquire_dustgrain": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "analyze_crop": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "collection": {
@@ -8314,7 +9200,16 @@
           "HEMOGLASS": 0,
           "ENCHANTED_REDSTONE": 0,
           "ENCHANTED_COAL": 0,
-          "TIMITE": 0
+          "TIMITE": 0,
+          "FIG_LOG": 0,
+          "LUSHLILAC": 0,
+          "TENDER_WOOD": 0,
+          "SEA_LUMIES": 0,
+          "MANGROVE_LOG": 0,
+          "VINESAP": 0,
+          "WILD_ROSE": 0,
+          "DOUBLE_PLANT": 0,
+          "MOONFLOWER": 0
         },
         "player_stats": {
           "deaths": {
@@ -8685,7 +9580,31 @@
             "master_crypt_undead_vinny8ball666": 0,
             "master_crypt_undead_blockskey": 0,
             "master_crypt_undead_plummel": 0,
-            "master_crypt_undead_districtgecko": 0
+            "master_crypt_undead_districtgecko": 0,
+            "blue_ringed_octopus": 0,
+            "wiki_tiki_laser_totem": 0,
+            "wiki_tiki": 0,
+            "drowning_pressure": 0,
+            "primordial_bat": 0,
+            "conjoined_brood": 0,
+            "manticore": 0,
+            "king_minos": 0,
+            "cretan_bull": 0,
+            "mage_skull": 0,
+            "burningsoul_demon": 0,
+            "ragnarok": 0,
+            "titanoboa": 0,
+            "harpy": 0,
+            "master_crypt_undead_minikloon": 0,
+            "fiery_scuttler": 0,
+            "dropship": 0,
+            "witch": 0,
+            "primal_fear": 0,
+            "sphinx": 0,
+            "primordial_minion": 0,
+            "hydrospear": 0,
+            "chillblade": 0,
+            "shulker": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -9763,7 +10682,119 @@
             "large_mithril_grubber": 0,
             "bloated_mithril_grubber": 0,
             "mushroom_cow_1": 0,
-            "zealot_special_enderman_55": 0
+            "zealot_special_enderman_55": 0,
+            "revenant_sycophant": 0,
+            "pest_dragonfly": 0,
+            "pest_firefly": 0,
+            "pest_praying_mantis": 0,
+            "dumpster_diver": 0,
+            "frog_man": 0,
+            "snapping_turtle": 0,
+            "trash_gobbler": 0,
+            "banshee": 0,
+            "titanoboa_240": 0,
+            "dumpster_diver_15": 0,
+            "trash_gobbler_8": 0,
+            "baby_bayou_sludge": 0,
+            "banshee_10": 0,
+            "bayou_sludge": 0,
+            "alligator": 0,
+            "blue_ringed_octopus": 0,
+            "blue_ringed_octopus_275": 0,
+            "titanoboa": 0,
+            "frog_man_10": 0,
+            "snapping_turtle_30": 0,
+            "alligator_120": 0,
+            "wiki_tiki_400": 0,
+            "bayou_sludge_25": 0,
+            "wiki_tiki_laser_totem": 0,
+            "wiki_tiki": 0,
+            "skeleton_emperor_150": 0,
+            "fireproof_witch": 0,
+            "fried_chicken": 0,
+            "fiery_scuttler_475": 0,
+            "fried_chicken_30": 0,
+            "fiery_scuttler": 0,
+            "fireproof_witch_75": 0,
+            "chillshot": 0,
+            "chillblade": 0,
+            "wetwing_chicken": 0,
+            "dreadwing": 0,
+            "phanpyre": 0,
+            "ent": 0,
+            "hydrospear": 0,
+            "seacurse": 0,
+            "tidetot": 0,
+            "strider": 0,
+            "tadgang": 0,
+            "tadgang_frog": 0,
+            "ent_14": 0,
+            "wetwing_chicken_18": 0,
+            "tadgang_frog_8": 0,
+            "primordial_bat": 0,
+            "primordial_minion": 0,
+            "conjoined_brood": 0,
+            "primordial_hatchling": 0,
+            "cretan_bull": 0,
+            "harpy": 0,
+            "stranded_nymph": 0,
+            "sphinx": 0,
+            "manticore": 0,
+            "king_minos": 0,
+            "cretan_bull_250": 0,
+            "minos_champion_550": 0,
+            "manticore_1750": 0,
+            "sphinx_1250": 0,
+            "stranded_nymph_250": 0,
+            "gaia_construct_325": 0,
+            "king_minos_1750": 0,
+            "minos_inquisitor_1250": 0,
+            "cretan_bull_150": 0,
+            "strider_21": 0,
+            "tadgang_frog_10": 0,
+            "burningsoul_demon": 0,
+            "bogged": 0,
+            "ragnarok_666": 0,
+            "ragnarok": 0,
+            "minotaur_120": 0,
+            "sphinx_750": 0,
+            "harpy_110": 0,
+            "siamese_lynx_55": 0,
+            "chaosmite_200": 0,
+            "ragnarok_horse": 0,
+            "bogged_10": 0,
+            "wetwing": 0,
+            "omegagma_300": 0,
+            "cheesebite_rat": 0,
+            "zombuddy": 0,
+            "timestalk_clone": 0,
+            "chillshot_31": 0,
+            "joydive": 0,
+            "spike_pufferfish": 0,
+            "evasive_axolotl": 0,
+            "siamese_lynx_200": 0,
+            "harpy_85": 0,
+            "stranded_nymph_70": 0,
+            "minos_hunter_60": 0,
+            "minos_hunter_200": 0,
+            "skeleton_6": 0,
+            "spider_6": 0,
+            "zombie_6": 0,
+            "witch_8": 0,
+            "witch_9": 0,
+            "zombie_8": 0,
+            "witch_10": 0,
+            "witch_11": 0,
+            "diamond_zombie_15": 0,
+            "harpy_175": 0,
+            "harpy_325": 0,
+            "witch_6": 0,
+            "skeleton_9": 0,
+            "spider_9": 0,
+            "zombie_9": 0,
+            "zombie_10": 0,
+            "enderman_10": 0,
+            "slime_11": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -9774,7 +10805,8 @@
               "EPIC": 0,
               "UNCOMMON": 0,
               "RARE": 0,
-              "null": 0
+              "null": 0,
+              "MYTHIC": 0
             },
             "burrows_dug_treasure": {
               "RARE": 0,
@@ -9784,7 +10816,8 @@
               "COMMON": 0,
               "EPIC": 0,
               "UNCOMMON": 0,
-              "null": 0
+              "null": 0,
+              "MYTHIC": 0
             },
             "burrows_dug_combat": {
               "UNCOMMON": 0,
@@ -9794,7 +10827,8 @@
               "none": 0,
               "EPIC": 0,
               "total": 0,
-              "null": 0
+              "null": 0,
+              "MYTHIC": 0
             },
             "burrows_dug_next": {
               "RARE": 0,
@@ -9804,7 +10838,8 @@
               "LEGENDARY": 0,
               "COMMON": 0,
               "EPIC": 0,
-              "null": 0
+              "null": 0,
+              "MYTHIC": 0
             },
             "kills": 0
           },
@@ -9910,7 +10945,8 @@
             "normal": 0,
             "treasure": 0,
             "large_treasure": 0,
-            "total": 0
+            "total": 0,
+            "outstanding": 0
           },
           "gifts": {
             "total_received": 0,
@@ -10041,10 +11077,17 @@
               "DEAD_CAT_FOOD": 0,
               "PUNCHCARD_ARTIFACT": 0,
               "FLEX_HELMET": 0,
-              "RIFT_PRISM": 0
+              "RIFT_PRISM": 0,
+              "ANCIENT_ELEVATOR": 0
             }
           },
-          "spooky": {}
+          "spooky": {},
+          "shard_combat_hunts": 0,
+          "unique_shards": 0,
+          "shard_fishing_hunts": 0,
+          "shard_forest_hunts": 0,
+          "shard_trap_hunts": 0,
+          "shard_salt_hunts": 0
         },
         "fairy_soul": {
           "total_collected": 0,
@@ -10120,7 +11163,19 @@
             "unbridled_rage": 0,
             "toxophilite": 0,
             "drake_piper": 0,
-            "blessing_of_time": 0
+            "blessing_of_time": 0,
+            "agatha_fig_fortune": 0,
+            "agatha_fig_personal_best": 0,
+            "agatha_power": 0,
+            "agatha_mangrove_personal_best": 0,
+            "axed": 0,
+            "forest_training": 0,
+            "lumberjack": 0,
+            "agatha_mangrove_fortune": 0,
+            "extreme_pressure": 0,
+            "tasty": 0,
+            "trapped": 0,
+            "dungeonbreaker_secrets": 0
           },
           "visited_modes": [],
           "experience": {
@@ -10906,7 +11961,90 @@
             "TIMITE_4",
             "TIMITE_5",
             "TIMITE_6",
-            "CLAY_BALL_7"
+            "CLAY_BALL_7",
+            "TENDER_WOOD_-1",
+            "SEA_LUMIES_-1",
+            "LUSHLILAC_1",
+            "LUSHLILAC_3",
+            "LUSHLILAC_2",
+            "LUSHLILAC_5",
+            "LUSHLILAC_4",
+            "SEA_LUMIES_8",
+            "SEA_LUMIES_5",
+            "SEA_LUMIES_4",
+            "SEA_LUMIES_7",
+            "SEA_LUMIES_6",
+            "SEA_LUMIES_1",
+            "SEA_LUMIES_3",
+            "SEA_LUMIES_2",
+            "MANGROVE_LOG_-1",
+            "DOUBLE_PLANT_-1",
+            "MOONFLOWER_-1",
+            "MOONFLOWER_1",
+            "MOONFLOWER_2",
+            "MOONFLOWER_5",
+            "MOONFLOWER_6",
+            "MOONFLOWER_3",
+            "MOONFLOWER_4",
+            "WILD_ROSE_-1",
+            "MOONFLOWER_7",
+            "MOONFLOWER_8",
+            "WILD_ROSE_3",
+            "WILD_ROSE_4",
+            "WILD_ROSE_5",
+            "WILD_ROSE_6",
+            "WILD_ROSE_7",
+            "WILD_ROSE_8",
+            "WILD_ROSE_1",
+            "WILD_ROSE_2",
+            "DOUBLE_PLANT_7",
+            "DOUBLE_PLANT_6",
+            "DOUBLE_PLANT_8",
+            "DOUBLE_PLANT_3",
+            "DOUBLE_PLANT_2",
+            "DOUBLE_PLANT_5",
+            "DOUBLE_PLANT_4",
+            "DOUBLE_PLANT_1",
+            "TENDER_WOOD_5",
+            "TENDER_WOOD_6",
+            "TENDER_WOOD_3",
+            "TENDER_WOOD_4",
+            "TENDER_WOOD_1",
+            "TENDER_WOOD_2",
+            "LUSHLILAC_-1",
+            "TENDER_WOOD_9",
+            "TENDER_WOOD_7",
+            "TENDER_WOOD_8",
+            "VINESAP_-1",
+            "FIG_LOG_4",
+            "FIG_LOG_5",
+            "FIG_LOG_2",
+            "FIG_LOG_3",
+            "FIG_LOG_1",
+            "FIG_LOG_8",
+            "FIG_LOG_9",
+            "FIG_LOG_6",
+            "FIG_LOG_7",
+            "MANGROVE_LOG_1",
+            "MANGROVE_LOG_2",
+            "MANGROVE_LOG_3",
+            "MANGROVE_LOG_4",
+            "MANGROVE_LOG_5",
+            "MANGROVE_LOG_6",
+            "MANGROVE_LOG_7",
+            "MANGROVE_LOG_8",
+            "MANGROVE_LOG_9",
+            "VINESAP_6",
+            "VINESAP_5",
+            "VINESAP_4",
+            "VINESAP_3",
+            "VINESAP_2",
+            "VINESAP_1",
+            "VINESAP_9",
+            "VINESAP_8",
+            "VINESAP_7",
+            "FIG_LOG_-1",
+            "SEA_LUMIES_9"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -11150,7 +12288,57 @@
             "wizardman_chambers",
             "wizardman_trial_grounds",
             "wizardman_vents",
-            "abandoned_quarry"
+            "abandoned_quarry",
+            "murkwater_depths",
+            "west_reaches",
+            "north_reaches",
+            "soul_cave",
+            "evergreen_plateau",
+            "murkwater_loch",
+            "moonglade_edge",
+            "divember_pass",
+            "north_wetlands_house",
+            "fire_trials",
+            "stridember_fissure",
+            "aura_player_election_room",
+            "western_wetlands",
+            "south_wetlands",
+            "tranquil_passage",
+            "murkwater_shallows",
+            "sidember_way",
+            "moonglade_village_library",
+            "tomb_floodway",
+            "north_wetlands",
+            "south_reaches",
+            "the_park",
+            "driptoad_delve",
+            "aura_jail",
+            "moonglade_village",
+            "tranquility_sanctum",
+            "moonglade_village_fusion_house",
+            "moonglade_village_entrance",
+            "fishing_outpost",
+            "wyrmgrove_tomb",
+            "moonglade_marsh",
+            "murkwater_outpost",
+            "spirit_cave",
+            "abiphone_shop",
+            "driptoad_pass",
+            "jade_dragon_lair",
+            "moonglade_village_axe_shop",
+            "forest_temple",
+            "underground_lab",
+            "kelpwoven_tunnels",
+            "verdant_summit",
+            "backwater_bayou",
+            "moonglade_village_bank",
+            "reefhaven_pass",
+            "galatea",
+            "ancient_ruins",
+            "squid_cave",
+            "drowned_reliquary",
+            "bubbleboost_column",
+            "fashion_shop"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -11878,7 +13066,81 @@
             "CRUDE_GABAGOOL_DISTILLATE": 0,
             "PARTY_GIFT": 0,
             "RUNE_SLIMY_2": 0,
-            "FISHY_TREAT": 0
+            "FISHY_TREAT": 0,
+            "ENCHANTED_COOKED_RABBIT": 0,
+            "HALF_EATEN_MUSHROOM": 0,
+            "RUSTY_COIN": 0,
+            "CAN_OF_WORMS": 0,
+            "ALLIGATOR_SKIN": 0,
+            "TORN_CLOTH": 0,
+            "BUSTED_BELT_BUCKLE": 0,
+            "BLUE_RING": 0,
+            "BRONZE_BOWL": 0,
+            "BROKEN_RADAR": 0,
+            "FRIED_FEATHER": 0,
+            "SCORCHED_CRAB_STICK": 0,
+            "SINGED_POWDER": 0,
+            "OLD_LEATHER_BOOT": 0,
+            "FIG_LOG": 0,
+            "LUSHLILAC": 0,
+            "TENDER_WOOD": 0,
+            "ENCHANTED_FIG_LOG": 0,
+            "SEA_LUMIES": 0,
+            "AGATHA_COUPON": 0,
+            "MANGROVE_LOG": 0,
+            "VINESAP": 0,
+            "FIGSTONE": 0,
+            "ENCHANTED_MANGROVE_LOG": 0,
+            "ENCHANTED_SEA_LUMIES": 0,
+            "ENCHANTED_VINESAP": 0,
+            "ENCHANTED_TENDER_WOOD": 0,
+            "MANGCORE": 0,
+            "DIVER_FRAGMENT": 0,
+            "RUNE_DARKNESS_WITHIN_1": 0,
+            "TARANTULA_CATALYST": 0,
+            "SULPHURIC_COAL": 0,
+            "STRETCHING_STICKS": 0,
+            "ENCHANTED_ANCIENT_CLAW": 0,
+            "MYTHOS_FRAGMENT": 0,
+            "SUSPICIOUS_SCRAP": 0,
+            "WILD_ROSE": 0,
+            "ENCHANTED_WILD_ROSE": 0,
+            "COMPACTED_WILD_ROSE": 0,
+            "HELIANTHUS": 0,
+            "ENCHANTED_SUNFLOWER": 0,
+            "JELLY": 0,
+            "ETHEREAL_VINE": 0,
+            "COMPACTED_SUNFLOWER": 0,
+            "GLOOMGOURD": 0,
+            "MOONFLOWER": 0,
+            "ENCHANTED_MOONFLOWER": 0,
+            "COMPACTED_MOONFLOWER": 0,
+            "FERMENTO": 0,
+            "SCOURROOT": 0,
+            "SHADEVINE": 0,
+            "ASHWREATH": 0,
+            "CHOCONUT": 0,
+            "DUSTGRAIN": 0,
+            "VEILSHROOM": 0,
+            "LONELILY": 0,
+            "DEAD_PLANT": 0,
+            "ENCHANTED_CLAY_BLOCK": 0,
+            "MATCH_STICKS": 0,
+            "DEEP_ROOT": 0,
+            "PRECURSOR_APPARATUS": 0,
+            "WET_WATER": 0,
+            "FLEXBONE": 0,
+            "STARLYN_PRIZE": 0,
+            "GILL_MEMBRANE": 0,
+            "ENCHANTED_CHARCOAL": 0,
+            "STICK": 0,
+            "COALROOT": 0,
+            "THORNSHADE": 0,
+            "CHLORONITE": 0,
+            "WITHERBLOOM": 0,
+            "CHOCOBERRY": 0,
+            "CREAMBLOOM": 0,
+            "DUSKBLOOM": 0
           },
           "backpack_contents": {
             "0": {
@@ -12069,7 +13331,10 @@
             "NETHER_STALK": 0,
             "PUMPKIN": 0,
             "MELON": 0,
-            "INK_SACK:3": 0
+            "INK_SACK:3": 0,
+            "DOUBLE_PLANT": 0,
+            "WILD_ROSE": 0,
+            "MOONFLOWER": 0
           }
         },
         "profile": {
@@ -12158,7 +13423,9 @@
               "boss_attempts_tier_3": 0,
               "boss_attempts_tier_2": 0,
               "boss_attempts_tier_0": 0,
-              "boss_attempts_tier_1": 0
+              "boss_attempts_tier_1": 0,
+              "boss_attempts_tier_4": 0,
+              "boss_kills_tier_4": 0
             },
             "enderman": {
               "claimed_levels": {
@@ -12251,7 +13518,21 @@
               "step_index": 0,
               "room_clues": [],
               "step_index_pt2": 0,
-              "step_index_pt3": 0
+              "step_index_pt3": 0,
+              "murder_snapshot": {
+                "held": "",
+                "armor": {
+                  "FOOT": "",
+                  "LEGS": "",
+                  "CHEST": "",
+                  "HEAD": ""
+                },
+                "pet": {
+                  "type": "",
+                  "tier": "",
+                  "exp": 0
+                }
+              }
             },
             "barry_center": {
               "first_talk_to_barry": true,
@@ -12296,7 +13577,9 @@
               "tier": "",
               "heldItem": "",
               "candyUsed": 0,
-              "skin": ""
+              "skin": "",
+              "petSoulbound": true,
+              "extra": {}
             }
           },
           "wizard_tower": {
@@ -12815,7 +14098,9 @@
                 "combat_3": [],
                 "combat_1": [],
                 "crimson_isle": [],
-                "dungeon_hub": []
+                "dungeon_hub": [],
+                "fishing_1": [],
+                "foraging_2": []
               },
               "bugatti": 0,
               "ember": 0,
@@ -12950,7 +14235,16 @@
               "phi": 0,
               "chi": 0,
               "psi": 0,
-              "omega": 0
+              "omega": 0,
+              "onion": 0,
+              "lumie": 0,
+              "bayou": 0,
+              "marshall": 0,
+              "nearquaad": 0,
+              "donkey": 0,
+              "sherk": 0,
+              "grove": 0,
+              "figgy": 0
             },
             "time_tower": {
               "charges": 0,
@@ -13030,6 +14324,7 @@
           "initiator_name": ""
         }
       ]
-    }
+    },
+    "created_at": 0
   }
 }

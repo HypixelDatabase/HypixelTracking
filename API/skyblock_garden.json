@@ -2553,6 +2553,18 @@
       "MOONFLOWER": 0,
       "DOUBLE_PLANT": 0,
       "WILD_ROSE": 0
-    }
+    },
+    "garden_upgrades": {
+      "GROWTH_SPEED": 0,
+      "YIELD": 0,
+      "PLOT_LIMIT": 0
+    },
+    "last_growth_stage_time": 0,
+    "greenhouse_slots": [
+      {
+        "x": 0,
+        "z": 0
+      }
+    ]
   }
 }

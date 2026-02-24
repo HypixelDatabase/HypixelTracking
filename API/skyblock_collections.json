@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1765815765870,
-  "version": "0.24.0.0",
+  "lastUpdated": 1771946902250,
+  "version": "0.24.2.0",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -1516,7 +1516,7 @@
               "tier": 2,
               "amountRequired": 100,
               "unlocks": [
-                "+10 Farming Experience",
+                "+500 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1524,7 +1524,6 @@
               "tier": 3,
               "amountRequired": 250,
               "unlocks": [
-                "[Lvl 1] Pig Recipe",
                 "[Lvl 1] Pigman Recipe",
                 "Enchanted Raw Porkchop Recipe",
                 "+4 SkyBlock XP"
@@ -1534,7 +1533,7 @@
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "+100 Farming Experience",
+                "+2,500 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1550,7 +1549,7 @@
               "tier": 6,
               "amountRequired": 5000,
               "unlocks": [
-                "+500 Farming Experience",
+                "+10,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1566,7 +1565,7 @@
               "tier": 8,
               "amountRequired": 25000,
               "unlocks": [
-                "+10,000 Farming Experience",
+                "+25,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             },

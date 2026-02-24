@@ -12340,7 +12340,10 @@
             "drowned_reliquary",
             "bubbleboost_column",
             "fashion_shop",
-            "crypts"
+            "crypts",
+            "foraging_camp",
+            "combat_settlement",
+            "grandpa_wolf_cave"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -13182,7 +13185,8 @@
             "TIMESTALK": 0,
             "ALL_IN_ALOE": 0,
             "ALL_IN_ALOE_FRAGMENT": 0,
-            "GODSEED": 0
+            "GODSEED": 0,
+            "SILVER_FANG": 0
           },
           "backpack_contents": {
             "0": {

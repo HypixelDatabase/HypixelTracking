@@ -14487,7 +14487,11 @@
               "precision_mining": 0,
               "toggle_precision_mining": true,
               "luck_of_the_cave": 0,
-              "toggle_luck_of_the_cave": true
+              "toggle_luck_of_the_cave": true,
+              "mining_speed_boost": 0,
+              "toggle_mining_speed_boost": true,
+              "mineshaft_mayhem": 0,
+              "toggle_mineshaft_mayhem": true
             },
             "foraging": {
               "center_of_the_forest": 0,

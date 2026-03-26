@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1757941314060,
+  "lastUpdated": 1774534028173,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -48,8 +48,10 @@
     },
     "SKYBLOCK": {
       "modeNames": {
+        "fishing_1": "Backwater Bayou",
         "farming_1": "The Farming Islands",
         "crystal_hollows": "Crystal Hollows",
+        "foraging_2": "Galatea",
         "winter": "Jerry's Workshop",
         "foraging_1": "The Park",
         "dark_auction": "Dark Auction",
@@ -96,7 +98,9 @@
     },
     "SURVIVAL_GAMES": {
       "modeNames": {
-        "teams_tourney": "Teams (Tournament)"
+        "teams_tourney": "Teams (Tournament)",
+        "solo_normal": "Solo",
+        "teams_normal": "Teams"
       },
       "databaseName": "HungerGames",
       "name": "Blitz Survival Games",
@@ -104,8 +108,8 @@
     },
     "BATTLEGROUND": {
       "modeNames": {
+        "ctf_mini": "Capture the Flag",
         "DOM": "Domination",
-        "CTF": "Capture the Flag",
         "TDM": "Team Deathmatch"
       },
       "databaseName": "Battleground",
@@ -126,6 +130,7 @@
     "ARCADE": {
       "modeNames": {
         "PARTY": "Party Games",
+        "DEFENDER": "Creeper Defense",
         "ONEINTHEQUIVER": "Bounty Hunters",
         "SOCCER": "Football",
         "SIMON_SAYS": "Hypixel Says",
@@ -223,10 +228,13 @@
         "BEDWARS_FOUR_FOUR_ULTIMATE": "Ultimate 4v4v4v4",
         "BEDWARS_FOUR_FOUR_TOURNEY": "4v4v4v4 (Tournament)",
         "BEDWARS_EIGHT_TWO_LUCKY": "Lucky Doubles",
+        "BEDWARS_PRACTICE": "Practice",
         "BEDWARS_FOUR_THREE": "3v3v3v3",
         "BEDWARS_FOUR_FOUR_LUCKY": "Lucky 4v4v4v4",
         "BEDWARS_CASTLE": "Castle",
+        "BEDWARS_TWO_ONE_DUELS": "Bed Wars Duel",
         "BEDWARS_EIGHT_TWO_TOURNEY": "Doubles (Tournament)",
+        "BEDWARS_TWO_ONE_DUELS_RUSH": "Bed Rush Duel",
         "BEDWARS_EIGHT_ONE": "Solo",
         "BEDWARS_FOUR_FOUR_RUSH": "Rush 4v4v4v4",
         "BEDWARS_EIGHT_ONE_ONEBLOCK": "One Block",
@@ -248,6 +256,13 @@
       "id": 4
     },
     "SUPER_SMASH": {
+      "modeNames": {
+        "1v1_normal": "1v1",
+        "friends_normal": "Friends",
+        "solo_normal": "Solo",
+        "2v2_normal": "2v2",
+        "teams_normal": "Teams"
+      },
       "databaseName": "SuperSmash",
       "name": "Smash Heroes",
       "id": 24
@@ -282,7 +297,7 @@
       "modeNames": {
         "DUELS_BOWSPLEEF_DUEL": "Bow Spleef Duel",
         "DUELS_BOW_DUEL": "Bow Duel",
-        "DUELS_MW_DUEL": "MegaWalls Duel",
+        "DUELS_MW_DUEL": "Mega Walls Duel",
         "DUELS_UHC_FOUR": "UHC Teams",
         "DUELS_UHC_MEETUP": "UHC Deathmatch",
         "DUELS_QUAKE_DUEL": "Quakecraft Duel",
@@ -293,7 +308,7 @@
         "DUELS_SUMO_DUEL": "Sumo Duel",
         "DUELS_BRIDGE_THREES": "Bridge 3v3",
         "DUELS_OP_DUEL": "OP Duel",
-        "DUELS_MW_DOUBLES": "MegaWalls Doubles",
+        "DUELS_MW_DOUBLES": "Mega Walls Doubles",
         "DUELS_SUMO_TOURNAMENT": "Sumo Championship",
         "DUELS_DUEL_ARENA": "Duel Arena",
         "DUELS_COMBO_DUEL": "Combo Duel",
@@ -304,11 +319,13 @@
         "DUELS_UHC_DUEL": "UHC Duel",
         "DUELS_BRIDGE_3V3V3V3": "The Bridge 3v3v3v3",
         "DUELS_UHC_TOURNAMENT": "UHC Championship",
+        "DUELS_CLASSIC_DOUBLES": "Classic Doubles",
+        "DUELS_SPLEEF_DUEL": "Spleef Duel",
         "DUELS_OP_DOUBLES": "OP Doubles",
         "DUELS_PARKOUR_EIGHT": "Parkour",
         "DUELS_CAPTURE_THREES": "Bridge CTF 3v3",
         "DUELS_BLITZ_DUEL": "Blitz Duel",
-        "DUELS_MW_FOUR": "MegaWalls Teams",
+        "DUELS_MW_FOUR": "Mega Walls Teams",
         "DUELS_CLASSIC_DUEL": "Classic Duel",
         "DUELS_POTION_DUEL": "NoDebuff Duel",
         "DUELS_BRIDGE_DUEL": "The Bridge Duel",

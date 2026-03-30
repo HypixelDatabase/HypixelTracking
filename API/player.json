@@ -79504,7 +79504,8 @@
         "WALLS3__berserk_challenge": 0,
         "WALLS3__comeback_challenge": 0,
         "WOOL_GAMES__sheep_wars_challenge": 0,
-        "ARCADE__creeper_attack_challenge": 0
+        "ARCADE__creeper_attack_challenge": 0,
+        "ARCADE__blocking_dead_challenge": 0
       },
       "day_i": {
         "UHC__threat_challenge": 0,
@@ -84376,7 +84377,9 @@
             "pinned": "",
             "classic_easy": {
               "objectives": {
-                "Tkritfollows": 0
+                "Tkritfollows": 0,
+                "Smashthrowoff": 0,
+                "Smashnowheretohide": 0
               }
             },
             "casual_easy": {
@@ -84386,17 +84389,21 @@
                 "Housingcookie": 0,
                 "Arcadeshoppingrun": 0,
                 "Disasterssurvive": 0,
-                "Arcademanywinseasy": 0
+                "Arcademanywinseasy": 0,
+                "Arcadeevildead": 0
               }
             },
             "pvp_easy": {
               "objectives": {
                 "Wwplacewool": 0,
                 "Bedwarswillithatch": 0,
-                "Bedwarsflowingdefense": 0
+                "Bedwarsflowingdefense": 0,
+                "Bedwarseatthis": 0,
+                "Bedwarsdiamond": 0
               }
             }
-          }
+          },
+          "bedWarsWinsAchievement": 0
         }
       },
       "anniversary": {

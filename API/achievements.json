@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1768050722484,
+  "lastUpdated": 1774879790019,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -6984,6 +6984,12 @@
           "description": "Find an easter egg in the Main Lobby",
           "legacy": true
         },
+        "ALL_EGGS_2025": {
+          "points": 15,
+          "name": "All Eggs (2025)",
+          "description": "Find all Easter Eggs in the Main Lobby",
+          "legacy": true
+        },
         "ALL_EGGS_2024": {
           "points": 15,
           "name": "All Eggs (2024)",
@@ -7044,6 +7050,12 @@
           "description": "Spawn 99 chickens in a game of Tower Wars",
           "legacy": true
         },
+        "HAPPY_EASTER_2025": {
+          "points": 5,
+          "name": "Happy Easter (2025)",
+          "description": "Login on Easter Sunday 2025",
+          "legacy": true
+        },
         "HAPPY_EASTER_2024": {
           "points": 5,
           "name": "Happy Easter (2024)",
@@ -7086,6 +7098,12 @@
           "description": "Find an Easter Egg in the Main Lobby",
           "legacy": true
         },
+        "FIRST_EGG_2025": {
+          "points": 5,
+          "name": "The Chase Begins (2025)",
+          "description": "Find an Easter Egg in the Main Lobby",
+          "legacy": true
+        },
         "FIRST_EGG_2024": {
           "points": 5,
           "name": "The Chase Begins (2024)",
@@ -7116,16 +7134,15 @@
           "description": "Kill 3 different players in a game of Smash Heroes using General Cluck",
           "globalPercentUnlocked": 1
         },
+        "FIRST_EGG_2026": {
+          "points": 5,
+          "name": "The Chase Begins (2026)",
+          "description": "Find an Easter Egg in the Main Lobby"
+        },
         "SPRING_MAIDEN": {
           "points": 10,
           "name": "Spring Maiden",
           "description": "Win a game of Blitz using the Florist Kit",
-          "globalPercentUnlocked": 1
-        },
-        "ALL_EGGS_2025": {
-          "points": 15,
-          "name": "All Eggs (2025)",
-          "description": "Find all Easter Eggs in the Main Lobby",
           "globalPercentUnlocked": 1
         },
         "ENVIRONMENT_PROTECTION": {
@@ -7152,6 +7169,11 @@
           "description": "Kill 3 players without dying while having Jump Boost active in Bed Wars (doesn't have to be the same potion)",
           "globalPercentUnlocked": 1
         },
+        "HAPPY_EASTER_2026": {
+          "points": 5,
+          "name": "Happy Easter (2026)",
+          "description": "Login on Easter Sunday 2026"
+        },
         "BLITZ_SPAWN_RABBIT": {
           "points": 10,
           "name": "Genius Summoner",
@@ -7168,12 +7190,6 @@
           "points": 5,
           "name": "Egg Assault",
           "description": "Kill a Zombie with eggs in SkyBlock",
-          "globalPercentUnlocked": 1
-        },
-        "HAPPY_EASTER_2025": {
-          "points": 5,
-          "name": "Happy Easter (2025)",
-          "description": "Login on Easter Sunday 2025",
           "globalPercentUnlocked": 1
         },
         "ARCADE_CHICKEN_RACE": {
@@ -7308,11 +7324,10 @@
           "description": "Kill a player in Bed Wars while having Jump Boost and Invisibility potion effects.",
           "globalPercentUnlocked": 1
         },
-        "FIRST_EGG_2025": {
-          "points": 5,
-          "name": "The Chase Begins (2025)",
-          "description": "Find an Easter Egg in the Main Lobby",
-          "globalPercentUnlocked": 1
+        "ALL_EGGS_2026": {
+          "points": 15,
+          "name": "All Eggs (2026)",
+          "description": "Find all Easter Eggs in the Main Lobby"
         },
         "VAMPIREZ_CARROT": {
           "points": 5,
@@ -7417,7 +7432,7 @@
         }
       },
       "total_points": 525,
-      "total_legacy_points": 200
+      "total_legacy_points": 225
     },
     "general": {
       "one_time": {
@@ -7446,6 +7461,11 @@
           "description": "???",
           "secret": true,
           "globalPercentUnlocked": 1
+        },
+        "APRIL_FOOLS_2026": {
+          "points": 0,
+          "name": "April Fools 2026",
+          "description": "Eat 50 Golden Carrots during April Fools 2026"
         },
         "FIRST_GAME": {
           "points": 5,
@@ -7527,11 +7547,10 @@
           "description": "Obtain the Grappling Hook from Lobby Explorer Oliver",
           "globalPercentUnlocked": 1
         },
-        "TREASURE_HUNT_2025": {
+        "TREASURE_HUNT_2026": {
           "points": 0,
-          "name": "Treasure Hunt 2025",
-          "description": "Participate in the 2025 Hypixel Anniversary Event. Thank you for being a part of Hypixel!",
-          "globalPercentUnlocked": 1
+          "name": "Treasure Hunt 2026",
+          "description": "Participate in the 2026 Hypixel Anniversary Event. Thank you for being a part of Hypixel!"
         },
         "USE_PORTAL": {
           "points": 5,
@@ -7622,6 +7641,12 @@
           "points": 0,
           "name": "Treasure Hunt 2024",
           "description": "Complete the 2024 Hypixel Anniversary Quest. Thank you for being a part of Hypixel!",
+          "legacy": true
+        },
+        "TREASURE_HUNT_2025": {
+          "points": 0,
+          "name": "Treasure Hunt 2025",
+          "description": "Participate in the 2025 Hypixel Anniversary Event. Thank you for being a part of Hypixel!",
           "legacy": true
         },
         "HAPPIEST_ANNIVERSARY": {

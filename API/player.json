@@ -74202,6 +74202,14 @@
                 }
               }
             },
+            "2026": {
+              "easter": {
+                "water": {
+                  "fish": 0,
+                  "junk": 0
+                }
+              }
+            },
             "permanent": {
               "water": {
                 "fish": 0,
@@ -78705,7 +78713,8 @@
       "given_cookies_105347": [],
       "given_cookies_105351": [],
       "given_cookies_105352": [],
-      "given_cookies_105354": []
+      "given_cookies_105354": [],
+      "given_cookies_105366": []
     },
     "transformation": "",
     "rewardConsumed": true,
@@ -79494,7 +79503,8 @@
         "ARCADE__zombies_challenge": 0,
         "WALLS3__berserk_challenge": 0,
         "WALLS3__comeback_challenge": 0,
-        "WOOL_GAMES__sheep_wars_challenge": 0
+        "WOOL_GAMES__sheep_wars_challenge": 0,
+        "ARCADE__creeper_attack_challenge": 0
       },
       "day_i": {
         "UHC__threat_challenge": 0,
@@ -84367,6 +84377,23 @@
             "classic_easy": {
               "objectives": {
                 "Tkritfollows": 0
+              }
+            },
+            "casual_easy": {
+              "objectives": {
+                "Maincatchfish": 0,
+                "Arcadecreepshow": 0,
+                "Housingcookie": 0,
+                "Arcadeshoppingrun": 0,
+                "Disasterssurvive": 0,
+                "Arcademanywinseasy": 0
+              }
+            },
+            "pvp_easy": {
+              "objectives": {
+                "Wwplacewool": 0,
+                "Bedwarswillithatch": 0,
+                "Bedwarsflowingdefense": 0
               }
             }
           }

@@ -74445,7 +74445,8 @@
           "christmas_guide_2024": true,
           "summer_guide_2023": true,
           "summer_guide_2024": true,
-          "christmas_guide_2025": true
+          "christmas_guide_2025": true,
+          "bingo_13": true
         },
         "discoveredZones": {
           "port": true,
@@ -84354,11 +84355,20 @@
         "2026": {
           "egghunt": {
             "eggs": {
+              "13": true,
               "18": true
             }
           },
           "levelling": {
             "experience": 0
+          },
+          "bingo": {
+            "pinned": "",
+            "classic_easy": {
+              "objectives": {
+                "Tkritfollows": 0
+              }
+            }
           }
         }
       },

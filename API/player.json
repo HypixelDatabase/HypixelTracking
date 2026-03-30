@@ -72297,7 +72297,9 @@
         "votes_Beach Ball": 0,
         "votes_Holly": 0,
         "votes_Carousel": 0,
-        "legacy_emblems_converted": true
+        "legacy_emblems_converted": true,
+        "first_guesses": 0,
+        "perfect_insane_builds": []
       },
       "Pit": {
         "profile": {
@@ -84379,7 +84381,11 @@
               "objectives": {
                 "Tkritfollows": 0,
                 "Smashthrowoff": 0,
-                "Smashnowheretohide": 0
+                "Smashnowheretohide": 0,
+                "Cvcbrains": 0,
+                "Cvcthrowprojectile": 0,
+                "Tnttagplayer": 0,
+                "Tntmutant": 0
               }
             },
             "casual_easy": {
@@ -84390,7 +84396,9 @@
                 "Arcadeshoppingrun": 0,
                 "Disasterssurvive": 0,
                 "Arcademanywinseasy": 0,
-                "Arcadeevildead": 0
+                "Arcadeevildead": 0,
+                "Bbguess": 0,
+                "Bbthething": 0
               }
             },
             "pvp_easy": {
@@ -84399,7 +84407,9 @@
                 "Bedwarswillithatch": 0,
                 "Bedwarsflowingdefense": 0,
                 "Bedwarseatthis": 0,
-                "Bedwarsdiamond": 0
+                "Bedwarsdiamond": 0,
+                "Woolbloodhealing": 0,
+                "Woolctwkit": 0
               }
             }
           },

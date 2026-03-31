@@ -946,7 +946,8 @@
                 "completed_quest": true,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "trevor_the_trapper": {
                 "talked_to": true,
@@ -1168,7 +1169,8 @@
               },
               "clerk_seraphine": {
                 "completed_quest": true,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "mad_redstone_engineer": {
                 "talked_to": true,
@@ -1176,7 +1178,8 @@
               },
               "taylor": {
                 "completed_quest": true,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "carrolyn": {
                 "talked_to": true,
@@ -1250,7 +1253,11 @@
                 "completed_quest": true
               },
               "dalir": {
-                "talked_to": true
+                "talked_to": true,
+                "completed_quest": true,
+                "dnd_enabled": true,
+                "items_given": true,
+                "last_call": 0
               }
             },
             "active_contacts": [],

@@ -84463,12 +84463,22 @@
                 "Skywarsopenchests": 0,
                 "Duelsspleefvictor": 0,
                 "Duelsboost": 0,
-                "Duelsfarmerkit": 0
-              }
+                "Duelsfarmerkit": 0,
+                "Skywarsbrightandearly": 0,
+                "Skywarsbloodhound": 0
+              },
+              "rewards": []
             },
             "casual_hard": {
               "objectives": {
-                "Arcademoonlitescape": 0
+                "Arcademoonlitescape": 0,
+                "Arcadedropperwarmingup": 0
+              }
+            },
+            "pvp_hard": {
+              "objectives": {
+                "Woolbarbarian": 0,
+                "Woolunmoving": 0
               }
             }
           },

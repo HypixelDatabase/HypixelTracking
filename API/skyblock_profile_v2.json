@@ -945,7 +945,8 @@
                 "talked_to": true,
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "last_call": 0
               },
               "trevor_the_trapper": {
                 "talked_to": true,
@@ -1161,6 +1162,91 @@
                 "completed_quest": true,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
+              },
+              "bartender": {
+                "completed_quest": true
+              },
+              "clerk_seraphine": {
+                "completed_quest": true,
+                "last_call": 0
+              },
+              "mad_redstone_engineer": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "taylor": {
+                "completed_quest": true,
+                "last_call": 0
+              },
+              "carrolyn": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "vulcan": {
+                "completed_quest": true
+              },
+              "terry": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "frozen_alex": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "tyzzo": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "agatha": {
+                "completed_quest": true,
+                "last_call": 0
+              },
+              "kysha": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "rosemary": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "shaggy": {
+                "completed_quest": true
+              },
+              "spider_tamer": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "malik": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "pesthunter_phillip": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "marigold": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "tony": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "moby": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "bulvar": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "gemma": {
+                "talked_to": true,
+                "completed_quest": true
+              },
+              "junker_joel": {
+                "talked_to": true,
+                "completed_quest": true
               }
             },
             "active_contacts": [],
@@ -3474,7 +3560,8 @@
             "enderman_4": 0,
             "enderman_11": 0,
             "slime_11": 0,
-            "shiny_pig_1": 0
+            "shiny_pig_1": 0,
+            "littlefoot_533": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -4212,7 +4299,8 @@
             "harpy_325": 0,
             "primordial_minion_610": 0,
             "hydrospear_25": 0,
-            "chillblade_31": 0
+            "chillblade_31": 0,
+            "littlefoot_533": 0
           },
           "migration": true,
           "milestone": {
@@ -9622,7 +9710,8 @@
             "hydrospear": 0,
             "chillblade": 0,
             "shulker": 0,
-            "puffercloud": 0
+            "puffercloud": 0,
+            "littlefoot": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -10812,7 +10901,8 @@
             "zombie_9": 0,
             "zombie_10": 0,
             "enderman_10": 0,
-            "slime_11": 0
+            "slime_11": 0,
+            "littlefoot": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -13227,7 +13317,13 @@
             "WARMED_FLAKES": 0,
             "NEVER_MELT_ICE": 0,
             "WATERBORNE_LICE": 0,
-            "ROTTED_LEAF": 0
+            "ROTTED_LEAF": 0,
+            "GOLDEN_TOOTH": 0,
+            "NULL_OVOID": 0,
+            "REVENANT_VISCERA": 0,
+            "TWILIGHT_ARROW_POISON": 0,
+            "TOXIC_ARROW_POISON": 0,
+            "SUNFLOWER_OIL": 0
           },
           "backpack_contents": {
             "0": {
@@ -14895,7 +14991,8 @@
             "echo_of_ruler": 0,
             "chop": 0,
             "bayou_biter": 0,
-            "king_of_greed": 0
+            "king_of_greed": 0,
+            "loch_hook": 0
           }
         }
       }

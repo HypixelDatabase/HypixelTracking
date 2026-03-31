@@ -1199,7 +1199,8 @@
               },
               "agatha": {
                 "completed_quest": true,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               },
               "kysha": {
                 "talked_to": true,
@@ -14995,7 +14996,8 @@
             "chop": 0,
             "bayou_biter": 0,
             "king_of_greed": 0,
-            "loch_hook": 0
+            "loch_hook": 0,
+            "freezing_spread": 0
           }
         }
       }

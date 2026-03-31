@@ -74458,7 +74458,8 @@
           "summer_guide_2023": true,
           "summer_guide_2024": true,
           "christmas_guide_2025": true,
-          "bingo_13": true
+          "bingo_13": true,
+          "become_rabbit": true
         },
         "discoveredZones": {
           "port": true,
@@ -74533,7 +74534,13 @@
         },
         "fishing_enchant_COLLECTOR_toggle": true,
         "cauldron_ingredient_2022_bone_3": true,
-        "cauldron_ingredient_2022_spider_eye_2": true
+        "cauldron_ingredient_2022_spider_eye_2": true,
+        "becomeRabbit": {
+          "eaten": {
+            "carrot": 0,
+            "golden_carrot": 0
+          }
+        }
       }
     },
     "testPass": true,
@@ -84455,7 +84462,13 @@
                 "Woolctwkit": 0,
                 "Skywarsopenchests": 0,
                 "Duelsspleefvictor": 0,
-                "Duelsboost": 0
+                "Duelsboost": 0,
+                "Duelsfarmerkit": 0
+              }
+            },
+            "casual_hard": {
+              "objectives": {
+                "Arcademoonlitescape": 0
               }
             }
           },

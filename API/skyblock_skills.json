@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1774356520738,
-  "version": "0.24.2.20",
+  "lastUpdated": 1775265741709,
+  "version": "0.24.3.5",
   "skills": {
     "FARMING": {
       "name": "Farming",
@@ -905,7 +905,7 @@
             "Lucky Dice Reforge",
             "Burrowing Spores Reforge",
             "Shiny Prism Reforge",
-            "Meteor Shard Reforge",
+            "Meteor Chunk Reforge",
             "Spirit Stone Reforge",
             "+200,000 Coins",
             "+10 SkyBlock XP"
@@ -1504,7 +1504,7 @@
             "+0.5% ☣ Crit Chance",
             "+Access to Zealot Bruiser Hideout",
             "Acacia Birdhouse Power Stone",
-            "Glacite Shard Power Stone",
+            "Glacite Chunk Power Stone",
             "Furball Power Stone",
             "Obsidian Tablet Power Stone",
             "End Stone Shulker Power Stone",
@@ -2487,6 +2487,8 @@
           "unlocks": [
             "Squid Sea Creature",
             "Sea Walker Sea Creature",
+            "Frozen Steve Sea Creature",
+            "Frosty Sea Creature",
             "Treasure Hunter I   Grants +0.1 ⛃ Treasure Chance.",
             "+2 ❤ Health",
             "+100 Coins",
@@ -2534,7 +2536,6 @@
             "Trash Gobbler Sea Creature",
             "Bogged Sea Creature",
             "Nurse Shark Sea Creature",
-            "Frozen Steve Sea Creature",
             "Treasure Hunter V   Grants +0.4➜0.5 ⛃ Treasure Chance.",
             "+2 ❤ Health",
             "+1,000 Coins",
@@ -2549,7 +2550,6 @@
             "Mithril Grubber Sea Creature",
             "Bloated Mithril Grubber Sea Creature",
             "Large Mithril Grubber Sea Creature",
-            "Frosty Sea Creature",
             "Treasure Hunter VI   Grants +0.5➜0.6 ⛃ Treasure Chance.",
             "+2 ❤ Health",
             "+2,000 Coins",
@@ -2778,6 +2778,7 @@
           "totalExpRequired": 3022425,
           "unlocks": [
             "Yeti Sea Creature",
+            "Nessie Sea Creature",
             "Treasure Hunter XXV   Grants +2.4➜2.5 ⛃ Treasure Chance.",
             "+4 ❤ Health",
             "+225,000 Coins",

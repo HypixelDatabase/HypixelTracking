@@ -1259,7 +1259,9 @@
                 "completed_quest": true,
                 "dnd_enabled": true,
                 "items_given": true,
-                "last_call": 0
+                "last_call": 0,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "active_contacts": [],

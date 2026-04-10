@@ -1262,6 +1262,10 @@
                 "last_call": 0,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
+              },
+              "talbot": {
+                "talked_to": true,
+                "completed_quest": true
               }
             },
             "active_contacts": [],

@@ -11310,7 +11310,13 @@
             "extreme_pressure": 0,
             "tasty": 0,
             "trapped": 0,
-            "dungeonbreaker_secrets": 0
+            "dungeonbreaker_secrets": 0,
+            "chilled_to_the_bone": 0,
+            "cut_loose": 0,
+            "dwarven_expertise": 0,
+            "prehistorian": 0,
+            "resourceful": 0,
+            "sleight_of_hand": 0
           },
           "visited_modes": [],
           "experience": {
@@ -12480,7 +12486,8 @@
             "combat_settlement",
             "grandpa_wolf_cave",
             "mining_district",
-            "sewer"
+            "sewer",
+            "communal_stew"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [

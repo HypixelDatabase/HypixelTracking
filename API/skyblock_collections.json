@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1774964390090,
-  "version": "0.24.3.0",
+  "lastUpdated": 1777391380978,
+  "version": "0.24.4.1",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -565,7 +565,7 @@
               "tier": 3,
               "amountRequired": 500,
               "unlocks": [
-                "+500 Farming Experience",
+                "Enchanted Sugar Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -573,7 +573,10 @@
               "tier": 4,
               "amountRequired": 1000,
               "unlocks": [
-                "Enchanted Sugar Recipe",
+                "Speedster Helmet Recipe",
+                "Speedster Chestplate Recipe",
+                "Speedster Leggings Recipe",
+                "Speedster Boots Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -615,10 +618,7 @@
               "tier": 9,
               "amountRequired": 50000,
               "unlocks": [
-                "Speedster Helmet Recipe",
-                "Speedster Chestplate Recipe",
-                "Speedster Leggings Recipe",
-                "Speedster Boots Recipe",
+                "+25,000 Farming Experience",
                 "+4 SkyBlock XP"
               ]
             }
@@ -1895,7 +1895,7 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Umber Dice (COMING SOON)",
+                "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
               ]
             },
@@ -1927,7 +1927,7 @@
               "tier": 5,
               "amountRequired": 25000,
               "unlocks": [
-                "Excavator Potion (COMING SOON)",
+                "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2635,7 +2635,7 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Chisel Dwarven Forge Recipe",
+                "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
               ]
             },
@@ -2699,7 +2699,7 @@
               "tier": 9,
               "amountRequired": 500000,
               "unlocks": [
-                "Enchanted Book (Metallurgy I) (COMING SOON)",
+                "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
               ]
             }
@@ -3600,7 +3600,7 @@
               "tier": 1,
               "amountRequired": 100,
               "unlocks": [
-                "Chilled Torch (COMING SOON)",
+                "+1☘ Mining Fortune",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6055,7 +6055,7 @@
               "tier": 5,
               "amountRequired": 200,
               "unlocks": [
-                "Medium Sack of Sacks Upgrade (+3 slots)",
+                "Medium Sack of Sacks Upgrade (+4 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6063,7 +6063,7 @@
               "tier": 6,
               "amountRequired": 400,
               "unlocks": [
-                "Large Sack of Sacks Upgrade (+3 slots)",
+                "Large Sack of Sacks Upgrade (+4 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6072,7 +6072,7 @@
               "amountRequired": 800,
               "unlocks": [
                 "Tropical Cloak Recipe",
-                "Greater Sack of Sacks Upgrade (+3 slots)",
+                "Greater Sack of Sacks Upgrade (+4 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6080,7 +6080,7 @@
               "tier": 8,
               "amountRequired": 1600,
               "unlocks": [
-                "Giant Sack of Sacks Upgrade (+3 slots)",
+                "Giant Sack of Sacks Upgrade (+4 slots)",
                 "+4 SkyBlock XP"
               ]
             },
@@ -6088,7 +6088,7 @@
               "tier": 9,
               "amountRequired": 4000,
               "unlocks": [
-                "Massive Sack of Sacks Upgrade (+3 slots)",
+                "Massive Sack of Sacks Upgrade (+5 slots)",
                 "+4 SkyBlock XP"
               ]
             }

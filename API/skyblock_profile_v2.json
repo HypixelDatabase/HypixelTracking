@@ -14529,7 +14529,120 @@
           "copper": 0,
           "larva_consumed": 0,
           "discovered_greenhouse_crops": [],
-          "analyzed_greenhouse_crops": []
+          "analyzed_greenhouse_crops": [],
+          "farming_toolkit": {
+            "IS_UNLOCKED": true,
+            "IN_USE": {
+              "WHEAT": {
+                "0": true
+              },
+              "CARROT": {
+                "0": true
+              },
+              "POTATO": {
+                "0": true
+              },
+              "PUMPKIN": {
+                "0": true
+              },
+              "MELON": {
+                "0": true
+              },
+              "MUSHROOM": {
+                "0": true
+              },
+              "CACTUS": {
+                "0": true
+              },
+              "SUGAR_CANE": {
+                "0": true
+              },
+              "NETHER_STALK": {
+                "0": true
+              },
+              "COCOA_BEANS": {
+                "0": true
+              },
+              "SUNFLOWER": {
+                "0": true
+              },
+              "WILD_ROSE": {
+                "0": true
+              }
+            },
+            "CACTUS": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "CARROT": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "COCOA_BEANS": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "MELON": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "MUSHROOM": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "NETHER_STALK": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "POTATO": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "PUMPKIN": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "SUGAR_CANE": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "SUNFLOWER": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "WHEAT": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "WILD_ROSE": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ]
+          }
         },
         "skill_tree": {
           "nodes": {
@@ -14801,6 +14914,62 @@
               "FIG_LOG": 0,
               "MANGROVE_LOG": 0
             }
+          },
+          "hunting_toolkit": {
+            "HUNTING_TOOLKIT": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "FISHING_NET": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "LASSO": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "HUNTING_SCYTHE": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "POCKET_BLACK_HOLE": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "IN_USE": {
+              "HUNTING_SCYTHE": {
+                "0": true
+              },
+              "LASSO": {},
+              "TRAP": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+              },
+              "FISHING_NET": {},
+              "POCKET_BLACK_HOLE": {
+                "0": true
+              }
+            },
+            "TRAP": [
+              {
+                "type": 0,
+                "data": ""
+              }
+            ],
+            "IS_UNLOCKED": true
           }
         },
         "foraging_core": {

@@ -58446,7 +58446,10 @@
               "combat_artist_sally_souls": true,
               "jets_husks": true,
               "bake_a_feastfood": true,
-              "unlock_an_upgrade": true
+              "unlock_an_upgrade": true,
+              "general_daku_tea_repeat": true,
+              "bucky_spice_repeat": true,
+              "oasis_husks_repeat": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -59609,7 +59612,8 @@
           }
         },
         "dreamfeast": {
-          "appetizer_boon": true
+          "appetizer_boon": true,
+          "first_dream_of_wood_skins": true
         }
       },
       "MurderMystery": {

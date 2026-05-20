@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1779289672943,
+  "lastUpdated": 1779299272917,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2339,7 +2339,9 @@
         "YIELD_OF_DREAMS": {
           "points": 5,
           "name": "Yield of Dreams",
-          "description": "Cook up a Feastfood"
+          "description": "Cook up a Feastfood",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FIREBALLS": {
           "points": 5,

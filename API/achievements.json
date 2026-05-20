@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1776278131435,
+  "lastUpdated": 1779289672943,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2336,6 +2336,11 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "YIELD_OF_DREAMS": {
+          "points": 5,
+          "name": "Yield of Dreams",
+          "description": "Cook up a Feastfood"
+        },
         "FIREBALLS": {
           "points": 5,
           "name": "Great lord of fire!",
@@ -2489,6 +2494,11 @@
           "description": "Win a game without killing an enemy with a sword",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
+        },
+        "LUCID_DREAMS_OF_FEASTFOOD": {
+          "points": 20,
+          "name": "Lucid Dreams of Feastfood",
+          "description": "Purchase the Dessert Boon from the Dreamfeast"
         },
         "FIRST": {
           "points": 5,
@@ -2765,7 +2775,7 @@
           ]
         }
       },
-      "total_points": 945,
+      "total_points": 970,
       "total_legacy_points": 75
     },
     "blitz": {

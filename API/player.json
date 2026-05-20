@@ -57103,7 +57103,11 @@
           "sprays_carrot_minion",
           "sprays_golden_carrot_cake",
           "islandtopper_bigcarrot",
-          "islandtopper_eggtower"
+          "islandtopper_eggtower",
+          "star_black_open",
+          "prestige_scheme_none",
+          "prestige_scheme_iron",
+          "prestige_scheme_gold"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -58140,7 +58144,9 @@
                 "GizzyMoonpowderNpc": true,
                 "SlumberVillagerNpc": true,
                 "ElectricianRusselNpc": true,
-                "SandmanNpc": true
+                "SandmanNpc": true,
+                "TranceNpc": true,
+                "AidenAllpillowNpc": true
               }
             },
             "started": {
@@ -58188,7 +58194,8 @@
               "phase_four_ascension_q5": true,
               "phase_four_ascension_wallet_q": true,
               "npc_meet_the_sandman": true,
-              "npc_john_indigos_hammer": true
+              "npc_john_indigos_hammer": true,
+              "dreamfeast_appetizers": true
             },
             "lastStarted": {
               "npc_reception_start": 0,
@@ -58235,7 +58242,8 @@
               "phase_four_ascension_q5": 0,
               "phase_four_ascension_wallet_q": 0,
               "npc_meet_the_sandman": 0,
-              "npc_john_indigos_hammer": 0
+              "npc_john_indigos_hammer": 0,
+              "dreamfeast_appetizers": 0
             },
             "completed": {
               "npc_reception_start": true,
@@ -58282,7 +58290,8 @@
               "phase_four_ascension_q5": true,
               "phase_four_ascension_wallet_q": true,
               "npc_meet_the_sandman": true,
-              "npc_john_indigos_hammer": true
+              "npc_john_indigos_hammer": true,
+              "dreamfeast_appetizers": true
             },
             "lastCompleted": {
               "npc_reception_start": 0,
@@ -58329,7 +58338,8 @@
               "phase_four_ascension_q5": 0,
               "phase_four_ascension_wallet_q": 0,
               "npc_meet_the_sandman": 0,
-              "npc_john_indigos_hammer": 0
+              "npc_john_indigos_hammer": 0,
+              "dreamfeast_appetizers": 0
             },
             "objective": {
               "receptionist_introduction": true,
@@ -58409,7 +58419,34 @@
               "meet_the_sandman": true,
               "john_indigos_hammer": true,
               "lester_brody_repeat": true,
-              "laundry_gal_pillows_repeat": true
+              "laundry_gal_pillows_repeat": true,
+              "checkers_sheets": true,
+              "ratman_forge_coal": true,
+              "king_flut_diamond": true,
+              "oasis_husks": true,
+              "bucky_ender_dust_repeat": true,
+              "spaceman_shop_spice": true,
+              "hammer_iron": true,
+              "lady_saichi_sheets": true,
+              "bucky_souls": true,
+              "arcade_iron_repeat": true,
+              "blacksmith_apprentice_forge_coal_repeat": true,
+              "don_espresso_diamond": true,
+              "arcade_iron": true,
+              "jets_iron": true,
+              "wally_ender_dust": true,
+              "bucky_ender_dust": true,
+              "blacksmith_apprentice_forge_coal": true,
+              "checkers_coal": true,
+              "blacksmith_gold": true,
+              "jets_gold": true,
+              "jagger_spice": true,
+              "skyblock_player_dust": true,
+              "laundry_gal_bottles": true,
+              "combat_artist_sally_souls": true,
+              "jets_husks": true,
+              "bake_a_feastfood": true,
+              "unlock_an_upgrade": true
             },
             "item": {
               "slumber_item_bed_sheets": 0,
@@ -58453,7 +58490,19 @@
               "slumber_item_token_of_ferocity": 0,
               "slumber_item_glowing_sand_paper": 0,
               "slumber_item_victim_photo": 0,
-              "slumber_item_cleaned_up_murder_knife": 0
+              "slumber_item_cleaned_up_murder_knife": 0,
+              "slumber_item_mega_walls_obsidian": 0,
+              "slumber_item_iron_essence": 0,
+              "slumber_item_void_husk": 0,
+              "slumber_item_gold_essence": 0,
+              "slumber_item_emerald_essence": 0,
+              "slumber_item_chalice_of_sand": 0,
+              "slumber_item_spare_kart_wheel": 0,
+              "slumber_item_shop_spice": 0,
+              "slumber_item_player_soul": 0,
+              "slumber_item_diamond_essence": 0,
+              "slumber_item_forge_coal": 0,
+              "slumber_item_ticket_tart": 0
             },
             "gambler_george": {
               "gamble_games_won": 0,
@@ -58487,7 +58536,23 @@
             "room_11": true,
             "room_12": true,
             "room_9": true,
-            "owners_office": true
+            "owners_office": true,
+            "room_oasis": true,
+            "room_hammer": true,
+            "room_housing": true,
+            "room_skyblock": true,
+            "room_quiz": true,
+            "room_rooftop": true,
+            "room_limbo": true,
+            "room_moon": true,
+            "room_intricate": true,
+            "room_arcade": true,
+            "room_executives": true,
+            "room_blitz": true,
+            "room_concert": true,
+            "room_garage": true,
+            "room_inspector": true,
+            "room_pyramid": true
           },
           "boon_multiplier": 0,
           "phasethree": {
@@ -59529,6 +59594,22 @@
               }
             }
           }
+        },
+        "boon": {
+          "oasis": true,
+          "slumber": true,
+          "appetizer": true
+        },
+        "data_version": 0,
+        "active_star": "",
+        "active_prestige_scheme": "",
+        "feastfood": {
+          "cooked": {
+            "ticket_tart": true
+          }
+        },
+        "dreamfeast": {
+          "appetizer_boon": true
         }
       },
       "MurderMystery": {

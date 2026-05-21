@@ -28,6 +28,7 @@ jobs:
           commit-hash: '@~'
           diff-algorithm: histogram
           delta-theme: discord
+          output-path: './diff.ansi'
       - name: Wrap diff in code block
         run: >-
           sed -i -e 's/`/\\`/g' -e '1i```ansi' -e '$a```\n' diff.ansi

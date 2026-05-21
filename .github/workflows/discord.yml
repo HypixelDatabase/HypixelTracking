@@ -23,7 +23,7 @@ jobs:
             ${{ format('[GitHub Link](<{0}/{1}/commit/{2}>)', github.server_url, github.repository, github.sha) }}
       - name: Get formatted diff
         id: get_diff
-        uses: ILikePlayingGames/line-diff-action@v1.3
+        uses: ILikePlayingGames/line-diff-action@v3
         with:
           commit-hash: '@~'
           diff-algorithm: histogram

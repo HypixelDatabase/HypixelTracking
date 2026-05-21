@@ -21,15 +21,17 @@ jobs:
           content: |
             <@&1170028890442440839>
             ${{ format('[GitHub Link](<{0}/{1}/commit/{2}>)', github.server_url, github.repository, github.sha) }}
+      - name: Install custom delta theme
+        run: >-
+          git config --local include.path ../discord-custom.gitconfig
       - name: Get formatted diff
         id: get_diff
-        uses: ILikePlayingGames/line-diff-action@v1.3
+        uses: ILikePlayingGames/line-diff-action@v3
         with:
           commit-hash: '@~'
           diff-algorithm: histogram
-          delta-theme: discord
-      - name: Change diff file extension to ansi
-        run: mv diff.txt diff.ansi
+          delta-theme: discord-custom
+          output-path: './diff.ansi'
       - name: Wrap diff in code block
         run: >-
           sed -i -e 's/`/\\`/g' -e '1i```ansi' -e '$a```\n' diff.ansi

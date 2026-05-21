@@ -28,6 +28,8 @@ jobs:
           commit-hash: '@~'
           diff-algorithm: histogram
           delta-theme: discord
+      - name: Change diff file extension to ansi
+        run: mv diff.txt diff.ansi
       - name: Wrap diff in code block
         run: >-
           sed -i -e 's/`/\\`/g' -e '1i```ansi' -e '$a```\n' diff.ansi

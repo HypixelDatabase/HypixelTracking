@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - add-custom-delta-theme
 jobs:
   post:
     runs-on: ubuntu-latest

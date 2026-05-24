@@ -22,6 +22,7 @@ function containsBadKey(key) {
     key.startsWith('layout_items_') ||
     key.startsWith('claimed_solo_bank_') ||
     key.startsWith('claimed_coop_bank_') ||
+    key.startsWith('given_cookies_') ||
     /\d+:\d+_\d+:/.test(key) ||
     /^[0-9a-fA-F]{32}$/.test(key)
   );

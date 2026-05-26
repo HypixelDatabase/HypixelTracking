@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1779299272917,
+  "lastUpdated": 1779804172873,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12293,6 +12293,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "LILY_MANIA": {
+          "points": 10,
+          "name": "Lily Mania",
+          "description": "???",
+          "secret": true
+        },
         "EXPLOSIVE_ENDING": {
           "points": 5,
           "name": "Explosive Ending",
@@ -12808,7 +12814,7 @@
         "SHINING_SCALES": {
           "points": 5,
           "name": "Shining Scales",
-          "description": "Fish up a gold tier Trophy Fish",
+          "description": "Fish up any gold tier Trophy",
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
@@ -13810,7 +13816,7 @@
           ]
         }
       },
-      "total_points": 3085,
+      "total_points": 3095,
       "total_legacy_points": 0
     },
     "skyclash": {

@@ -3590,7 +3590,16 @@
             "shiny_pig_1": 0,
             "littlefoot_533": 0,
             "nessie_302": 0,
-            "pest_lunar_moth_1": 0
+            "pest_lunar_moth_1": 0,
+            "atoll_croaker_45": 0,
+            "gorf_65": 0,
+            "lotus_guardian_55": 0,
+            "lotus_jumping_frog_5": 0,
+            "drowned_captain_74": 0,
+            "flip_flopper_10": 0,
+            "sea_shine_12": 0,
+            "lotus_fish_1": 0,
+            "manta_ray_124": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -10942,7 +10951,17 @@
             "nessie_302": 0,
             "nessie": 0,
             "pest_lunar_moth": 0,
-            "gaia_construct_85": 0
+            "gaia_construct_85": 0,
+            "atoll_croaker": 0,
+            "gorf": 0,
+            "lotus_guardian": 0,
+            "drowned_captain": 0,
+            "flip_flopper": 0,
+            "sea_shine": 0,
+            "lotus_fish": 0,
+            "atoll_croaker_45": 0,
+            "manta_ray": 0,
+            "manta_ray_124": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -11094,7 +11113,8 @@
             "treasure": 0,
             "large_treasure": 0,
             "total": 0,
-            "outstanding": 0
+            "outstanding": 0,
+            "trophy_frog": 0
           },
           "gifts": {
             "total_received": 0,
@@ -12199,7 +12219,8 @@
             "VINESAP_8",
             "VINESAP_7",
             "FIG_LOG_-1",
-            "SEA_LUMIES_9"
+            "SEA_LUMIES_9",
+            "LOTUS_-1"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -12500,7 +12521,10 @@
             "grandpa_wolf_cave",
             "mining_district",
             "sewer",
-            "communal_stew"
+            "communal_stew",
+            "tewtil_tunnel",
+            "lotus_atoll",
+            "lotus_eater_cave"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [

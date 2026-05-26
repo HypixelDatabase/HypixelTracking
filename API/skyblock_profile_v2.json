@@ -3599,7 +3599,10 @@
             "flip_flopper_10": 0,
             "sea_shine_12": 0,
             "lotus_fish_1": 0,
-            "manta_ray_124": 0
+            "manta_ray_124": 0,
+            "puddle_jumper_85": 0,
+            "frog_prince_132": 0,
+            "tewtil_10": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -9357,7 +9360,8 @@
           "VINESAP": 0,
           "WILD_ROSE": 0,
           "DOUBLE_PLANT": 0,
-          "MOONFLOWER": 0
+          "MOONFLOWER": 0,
+          "LOTUS": 0
         },
         "player_stats": {
           "deaths": {
@@ -10961,7 +10965,15 @@
             "lotus_fish": 0,
             "atoll_croaker_45": 0,
             "manta_ray": 0,
-            "manta_ray_124": 0
+            "manta_ray_124": 0,
+            "drowned_captain_74": 0,
+            "lotus_guardian_55": 0,
+            "gorf_65": 0,
+            "frog_prince_132": 0,
+            "puddle_jumper": 0,
+            "frog_prince": 0,
+            "lotus_jumping_frog": 0,
+            "tewtil": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -12220,7 +12232,11 @@
             "VINESAP_7",
             "FIG_LOG_-1",
             "SEA_LUMIES_9",
-            "LOTUS_-1"
+            "LOTUS_-1",
+            "LOTUS_4",
+            "LOTUS_5",
+            "LOTUS_7",
+            "LOTUS_1"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -12524,7 +12540,8 @@
             "communal_stew",
             "tewtil_tunnel",
             "lotus_atoll",
-            "lotus_eater_cave"
+            "lotus_eater_cave",
+            "lotus_highlands"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -13407,7 +13424,12 @@
             "FEASTFUNGUS": 0,
             "DEEPFRIES": 0,
             "FLORAL_GELATIN": 0,
-            "CARROT_ZEST": 0
+            "CARROT_ZEST": 0,
+            "CONDENSED_WATER_LILY": 0,
+            "LOTUS": 0,
+            "LOTUS_SILVER": 0,
+            "REVERSE_REFORGE_STONE_CORE": 0,
+            "FROGCOIN": 0
           },
           "backpack_contents": {
             "0": {
@@ -15252,7 +15274,12 @@
             "king_of_greed": 0,
             "loch_hook": 0,
             "freezing_spread": 0,
-            "groovy_radar": 0
+            "groovy_radar": 0,
+            "diamond_frog": 0,
+            "golden_frog": 0,
+            "lily_puncher": 0,
+            "lily_tracker": 0,
+            "lotus_trophy": 0
           }
         }
       }

@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1779804172873,
+  "lastUpdated": 1779988372853,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12297,7 +12297,9 @@
           "points": 10,
           "name": "Lily Mania",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "EXPLOSIVE_ENDING": {
           "points": 5,

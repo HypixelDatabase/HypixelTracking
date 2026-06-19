@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1779737873050,
-  "version": "0.24.5.18",
+  "lastUpdated": 1781905150223,
+  "version": "0.25.0.28",
   "skills": {
     "FARMING": {
       "name": "Farming",
@@ -788,6 +788,7 @@
             "Diamonite Reforge",
             "Clipped Wings Reforge",
             "Kaleidoscopic Mineral Reforge",
+            "Geometric Oddity Reforge",
             "Terry's Snowglobe Reforge",
             "+30,000 Coins",
             "+10 SkyBlock XP"
@@ -2510,7 +2511,6 @@
           "level": 3,
           "totalExpRequired": 375,
           "unlocks": [
-            "Night Squid Sea Creature",
             "Treasure Hunter III   Grants +0.2➜0.3 ⛃ Treasure Chance.",
             "+2 ❤ Health",
             "+500 Coins",
@@ -2531,7 +2531,7 @@
           "level": 5,
           "totalExpRequired": 1175,
           "unlocks": [
-            "Sea Guardian Sea Creature",
+            "+Access to Lotus Atoll",
             "Dumpster Diver Sea Creature",
             "Frog Man Sea Creature",
             "Trash Gobbler Sea Creature",
@@ -2547,6 +2547,7 @@
           "level": 6,
           "totalExpRequired": 1925,
           "unlocks": [
+            "Jumpin' Jack Sea Creature",
             "Medium Mithril Grubber Sea Creature",
             "Mithril Grubber Sea Creature",
             "Bloated Mithril Grubber Sea Creature",
@@ -2562,6 +2563,7 @@
           "totalExpRequired": 2925,
           "unlocks": [
             "Wetwing Sea Creature",
+            "Inkling Sea Creature",
             "Sea Witch Sea Creature",
             "Treasure Hunter VII   Grants +0.6➜0.7 ⛃ Treasure Chance.",
             "+2 ❤ Health",
@@ -2596,11 +2598,17 @@
           "level": 10,
           "totalExpRequired": 9925,
           "unlocks": [
+            "Puddle Jumper Sea Creature",
             "Banshee Sea Creature",
+            "Atoll Croaker Sea Creature",
             "Oasis Sheep Sea Creature",
+            "gorF Sea Creature",
             "Blue Shark Sea Creature",
             "Snapping Turtle Sea Creature",
             "Oasis Rabbit Sea Creature",
+            "Lotus Guardian Sea Creature",
+            "Drowned Captain Sea Creature",
+            "Frog Prince Sea Creature",
             "Treasure Hunter X   Grants +0.9➜1 ⛃ Treasure Chance.",
             "+2 ❤ Health",
             "+7,500 Coins",
@@ -2672,7 +2680,6 @@
           "totalExpRequired": 97425,
           "unlocks": [
             "Sea Leech Sea Creature",
-            "Fireproof Witch Sea Creature",
             "Treasure Hunter XVI   Grants +1.5➜1.6 ⛃ Treasure Chance.",
             "+3 ❤ Health",
             "+40,000 Coins",
@@ -2687,6 +2694,7 @@
             "Werewolf Sea Creature",
             "Stridersurfer Sea Creature",
             "Poisoned Water Worm Sea Creature",
+            "Volcanic Snail Sea Creature",
             "Treasure Hunter XVII   Grants +1.6➜1.7 ⛃ Treasure Chance.",
             "+3 ❤ Health",
             "+50,000 Coins",
@@ -2710,6 +2718,7 @@
           "totalExpRequired": 322425,
           "unlocks": [
             "Water Hydra Sea Creature",
+            "Manta Ray Sea Creature",
             "Flaming Worm Sea Creature",
             "Treasure Hunter XIX   Grants +1.8➜1.9 ⛃ Treasure Chance.",
             "+3 ❤ Health",
@@ -2746,6 +2755,7 @@
           "totalExpRequired": 1222425,
           "unlocks": [
             "Lava Pigman Sea Creature",
+            "Fireproof Witch Sea Creature",
             "Treasure Hunter XXII   Grants +2.1➜2.2 ⛃ Treasure Chance.",
             "+4 ❤ Health",
             "+150,000 Coins",
@@ -2846,6 +2856,7 @@
           "level": 31,
           "totalExpRequired": 9322425,
           "unlocks": [
+            "Magma Pillar Sea Creature",
             "Pyroclastic Worm Sea Creature",
             "Treasure Hunter XXXI   Grants +3➜3.1 ⛃ Treasure Chance.",
             "+5 ❤ Health",
@@ -3177,6 +3188,7 @@
             "+0.5% ๑ Ability Damage",
             "+1 ✎ Intelligence",
             "Blessing Enchantment",
+            "Magmarizer Enchantment",
             "Critical Enchantment",
             "+5,000 Coins",
             "+5 SkyBlock XP"

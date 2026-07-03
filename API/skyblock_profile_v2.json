@@ -1198,11 +1198,15 @@
               },
               "frozen_alex": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "tyzzo": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "agatha": {
                 "completed_quest": true,
@@ -1215,7 +1219,9 @@
               },
               "rosemary": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "shaggy": {
                 "completed_quest": true
@@ -1226,7 +1232,9 @@
               },
               "malik": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "pesthunter_phillip": {
                 "talked_to": true,
@@ -1267,7 +1275,9 @@
               },
               "talbot": {
                 "talked_to": true,
-                "completed_quest": true
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               },
               "feast_chef_ted": {
                 "incoming_calls_count": 0,

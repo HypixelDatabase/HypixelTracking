@@ -1713,11 +1713,6 @@
         "tags": [
           "SkyBlock"
         ],
-        "security": [
-          {
-            "ApiKey": []
-          }
-        ],
         "responses": {
           "200": {
             "description": "A successful response",
@@ -1745,12 +1740,6 @@
                 }
               }
             }
-          },
-          "403": {
-            "$ref": "#/components/responses/InvalidKey"
-          },
-          "429": {
-            "$ref": "#/components/responses/RateLimited"
           }
         }
       }

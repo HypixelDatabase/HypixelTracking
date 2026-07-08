@@ -85,7 +85,8 @@
               "intelligence": 0,
               "purchase_ts": 0
             },
-            "refund_1": true
+            "refund_1": true,
+            "refund_2": true
           },
           "unlocked_powers": [],
           "selected_power": "",
@@ -9221,6 +9222,51 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "safety_brigette_briefing": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_brigette_greeting": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_enter_security_hall": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_talk_to_susan": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_talk_to_timmy": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_complete_quiz": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_talk_to_elizabeth": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_talk_to_security_clerk": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "safety_travel_to_community_center": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "collection": {
@@ -12574,7 +12620,8 @@
             "tewtil_tunnel",
             "lotus_atoll",
             "lotus_eater_cave",
-            "lotus_highlands"
+            "lotus_highlands",
+            "security_hall_main"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -14934,6 +14981,30 @@
               "toggle_strength_boost": true,
               "maniac_slicer": 0,
               "toggle_maniac_slicer": true
+            },
+            "foraging_2": {
+              "center_of_the_forest": 0
+            },
+            "foraging_3": {
+              "center_of_the_forest": 0
+            },
+            "foraging_4": {
+              "center_of_the_forest": 0
+            },
+            "foraging_5": {
+              "center_of_the_forest": 0
+            },
+            "mining_2": {
+              "core_of_the_mountain": 0
+            },
+            "mining_3": {
+              "core_of_the_mountain": 0
+            },
+            "mining_4": {
+              "core_of_the_mountain": 0
+            },
+            "mining_5": {
+              "core_of_the_mountain": 0
             }
           },
           "selected_ability": {
@@ -15862,6 +15933,91 @@
                 "type": 0,
                 "data": ""
               }
+            },
+            "equipped_set": 0
+          },
+          "equipment": {
+            "1": {
+              "id": 0
+            },
+            "2": {
+              "id": 0
+            },
+            "3": {
+              "id": 0
+            },
+            "4": {
+              "id": 0
+            },
+            "5": {
+              "id": 0
+            },
+            "6": {
+              "id": 0
+            },
+            "7": {
+              "id": 0
+            },
+            "8": {
+              "id": 0
+            },
+            "9": {
+              "id": 0
+            },
+            "equipped_set": 0
+          },
+          "loadouts": {
+            "1": {
+              "id": 0,
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "name": "",
+              "power_stone": "",
+              "pet": ""
+            },
+            "2": {
+              "id": 0,
+              "name": ""
+            },
+            "3": {
+              "id": 0,
+              "name": ""
+            },
+            "4": {
+              "id": 0,
+              "name": ""
+            },
+            "5": {
+              "id": 0,
+              "name": ""
+            },
+            "6": {
+              "id": 0,
+              "name": ""
+            },
+            "7": {
+              "id": 0,
+              "name": ""
+            },
+            "8": {
+              "id": 0,
+              "name": ""
+            },
+            "9": {
+              "id": 0,
+              "name": ""
+            },
+            "10": {
+              "id": 0,
+              "name": ""
+            },
+            "11": {
+              "id": 0,
+              "name": ""
+            },
+            "12": {
+              "id": 0,
+              "name": ""
             }
           }
         }

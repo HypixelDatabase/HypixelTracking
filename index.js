@@ -1,6 +1,7 @@
 const axios = require('axios');
 const mc = require('minecraft-protocol');
 const merge = require('deepmerge');
+const unzipper = require('unzipper');
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 const urls = require('./urls');
@@ -119,6 +120,23 @@ const tasks = [
         .replace(/\d DAYS? [\d]{2}:[\d]{2}:[\d]{2}/g, 'd DAYS HH:MM:SS')
         .replace(/[\d]{2}:[\d]{2}:[\d]{2}/g, 'HH:MM:SS');
       return fs.writeFileSync('./ServerListPing/slp.json', JSON.stringify(data, null, 2));
+    }
+  },
+  {
+    name: 'Update resource packs',
+    func: async () => {
+      const packs = require('./API/resource_packs.json');
+      for (const mode of packs.packs) {
+        const { id, versions } = mode;
+        log(`Downloading pack for ${id}`)
+        const latest_url = versions.sort((a, b) => b.packFormat - a.packFormat)[0].url;
+        console.log(latest_url);
+        const response = await axios.get(latest_url, { responseType: 'stream' })
+
+        await response.data
+            .pipe(unzipper.Extract( { path: `./ResourcePacks/${id}` }))
+            .promise();
+      }
     }
   },
   {

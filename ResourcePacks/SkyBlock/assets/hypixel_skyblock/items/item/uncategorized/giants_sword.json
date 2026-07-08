@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"model":{"type":"minecraft:model","model":"hypixel_skyblock:item/uncategorized/giants_sword"},"when":["gui","ground","fixed","on_shelf"]}],"fallback":{"type":"minecraft:model","model":"hypixel_skyblock:item/uncategorized/giants_sword_in_hand"}}}

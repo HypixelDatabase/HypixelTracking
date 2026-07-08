@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:condition","on_false":{"type":"minecraft:model","model":"hypixel_skyblock:item/fishing/rod/rod_of_legends"},"on_true":{"type":"minecraft:model","model":"hypixel_skyblock:item/fishing/rod/rod_of_legends_cast"},"property":"minecraft:fishing_rod/cast"}}

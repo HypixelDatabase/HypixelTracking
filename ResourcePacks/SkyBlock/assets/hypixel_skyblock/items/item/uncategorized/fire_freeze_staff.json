@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"model":{"type":"minecraft:model","model":"hypixel_skyblock:item/uncategorized/fire_freeze_staff"},"when":["gui","ground","fixed","on_shelf"]}],"fallback":{"type":"minecraft:model","model":"hypixel_skyblock:item/uncategorized/fire_freeze_staff_in_hand"}}}

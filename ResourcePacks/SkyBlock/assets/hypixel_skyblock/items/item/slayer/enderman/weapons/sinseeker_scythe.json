@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"model":{"type":"minecraft:model","model":"hypixel_skyblock:item/slayer/enderman/weapons/sinseeker_scythe"},"when":["gui","ground","fixed","on_shelf"]}],"fallback":{"type":"minecraft:model","model":"hypixel_skyblock:item/slayer/enderman/weapons/sinseeker_scythe_in_hand"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:condition","on_false":{"type":"minecraft:model","model":"hypixel_skyblock:item/fishing/rod/admin_lava_rod"},"on_true":{"type":"minecraft:model","model":"hypixel_skyblock:item/fishing/rod/admin_lava_rod_cast"},"property":"minecraft:fishing_rod/cast"}}

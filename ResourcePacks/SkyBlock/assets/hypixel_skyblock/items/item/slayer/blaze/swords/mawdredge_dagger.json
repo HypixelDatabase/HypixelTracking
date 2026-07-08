@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"component","predicate":"custom_data","value":"{td_attune_mode:3}","on_false":{"type":"model","model":"hypixel_skyblock:item/slayer/blaze/swords/mawdredge_dagger_spirit"},"on_true":{"type":"model","model":"hypixel_skyblock:item/slayer/blaze/swords/mawdredge_dagger_crystal"}}}

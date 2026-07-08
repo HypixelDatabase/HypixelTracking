@@ -15938,16 +15938,76 @@
           },
           "equipment": {
             "1": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              }
             },
             "2": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              }
             },
             "3": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              }
             },
             "4": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              }
             },
             "5": {
               "id": 0
@@ -15956,13 +16016,61 @@
               "id": 0
             },
             "7": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              }
             },
             "8": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              }
             },
             "9": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              }
             },
             "equipped_set": 0
           },
@@ -15977,7 +16085,12 @@
             },
             "2": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "power_stone": "",
+              "tuning_points_slot": 0,
+              "pet": ""
             },
             "3": {
               "id": 0,
@@ -15985,11 +16098,19 @@
             },
             "4": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "power_stone": "",
+              "tuning_points_slot": 0,
+              "pet": ""
             },
             "5": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "power_stone": ""
             },
             "6": {
               "id": 0,
@@ -16016,6 +16137,30 @@
               "name": ""
             },
             "12": {
+              "id": 0,
+              "name": ""
+            },
+            "13": {
+              "id": 0,
+              "name": ""
+            },
+            "14": {
+              "id": 0,
+              "name": ""
+            },
+            "15": {
+              "id": 0,
+              "name": ""
+            },
+            "16": {
+              "id": 0,
+              "name": ""
+            },
+            "17": {
+              "id": 0,
+              "name": ""
+            },
+            "18": {
               "id": 0,
               "name": ""
             }

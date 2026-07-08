@@ -167,4 +167,8 @@ module.exports = [
     url: 'https://api.hypixel.net/v2/resources/skyblock/items',
     type: 'skyblock_items',
   },
+  {
+    url: 'https://api.hypixel.net/v2/resources/packs',
+    type: 'resource_packs',
+  },
 ];

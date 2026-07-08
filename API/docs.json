@@ -1442,6 +1442,49 @@
         }
       }
     },
+    "/v2/resources/packs": {
+      "get": {
+        "summary": "Active Resource Packs",
+        "description": "Returns information and URLs for resource packs used with content for latest versions of Minecraft.",
+        "tags": [
+          "Resources"
+        ],
+        "responses": {
+          "200": {
+            "description": "A successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "success": {
+                      "type": "boolean"
+                    },
+                    "packs": {
+                      "type": "array",
+                      "items": {
+                        "example": {
+                          "id": "SkyBlock",
+                          "lastUpdated": 1780790767000,
+                          "deployId": "f7c77d99-9f15-4a66-a87d-c4a51ef30d19",
+                          "versions": [
+                            {
+                              "packFormat": 88,
+                              "hash": "5be210c4aa92ed283bd696cea5612a39408ace1e",
+                              "url": "https://resourcepacks.hypixel.net/SkyBlock/f7c77d99-9f15-4a66-a87d-c4a51ef30d19/88.zip"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/v2/resources/skyblock/collections": {
       "get": {
         "summary": "Collections",

@@ -1916,7 +1916,8 @@
           "powder_glacite": 0,
           "powder_glacite_total": 0,
           "powder_spent_glacite": 0,
-          "hotm_migrator_tree_reset_send_message": true
+          "hotm_migrator_tree_reset_send_message": true,
+          "powder_spent_titanium": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -14995,7 +14996,19 @@
               "center_of_the_forest": 0
             },
             "mining_2": {
-              "core_of_the_mountain": 0
+              "core_of_the_mountain": 0,
+              "efficient_miner": 0,
+              "mining_fortune": 0,
+              "mining_speed": 0,
+              "mole": 0,
+              "pickobulus": 0,
+              "titanium_insanium": 0,
+              "toggle_efficient_miner": true,
+              "toggle_mining_fortune": true,
+              "toggle_mining_speed": true,
+              "toggle_mole": true,
+              "toggle_pickobulus": true,
+              "toggle_titanium_insanium": true
             },
             "mining_3": {
               "core_of_the_mountain": 0
@@ -15009,11 +15022,13 @@
           },
           "selected_ability": {
             "mining": "",
-            "foraging": ""
+            "foraging": "",
+            "mining_2": ""
           },
           "tokens_spent": {
             "mountain": 0,
-            "forest": 0
+            "forest": 0,
+            "mountain_2": 0
           },
           "experience": {
             "mining": 0,
@@ -15023,7 +15038,10 @@
             "mining": 0,
             "foraging": 0
           },
-          "refund_ability_free": true
+          "refund_ability_free": true,
+          "selected_skill_tree_slot": {
+            "mining": 0
+          }
         },
         "foraging": {
           "hina": {
@@ -16014,10 +16032,42 @@
               }
             },
             "5": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              }
             },
             "6": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              }
             },
             "7": {
               "id": 0,
@@ -16139,11 +16189,15 @@
               "armor_set_id": 0,
               "power_stone": "",
               "tuning_points_slot": 0,
-              "pet": ""
+              "pet": "",
+              "equipment_set_id": 0
             },
             "9": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "pet": ""
             },
             "10": {
               "id": 0,
@@ -16164,7 +16218,9 @@
             },
             "12": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0
             },
             "13": {
               "id": 0,

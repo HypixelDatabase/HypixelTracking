@@ -15040,7 +15040,8 @@
           },
           "refund_ability_free": true,
           "selected_skill_tree_slot": {
-            "mining": 0
+            "mining": 0,
+            "foraging": 0
           }
         },
         "foraging": {
@@ -16181,7 +16182,9 @@
               "name": "",
               "armor_set_id": 0,
               "equipment_set_id": 0,
-              "pet": ""
+              "pet": "",
+              "power_stone": "",
+              "tuning_points_slot": 0
             },
             "8": {
               "id": 0,
@@ -16197,7 +16200,10 @@
               "name": "",
               "armor_set_id": 0,
               "equipment_set_id": 0,
-              "pet": ""
+              "pet": "",
+              "mining_core_selected_slot": 0,
+              "power_stone": "",
+              "tuning_points_slot": 0
             },
             "10": {
               "id": 0,
@@ -16220,7 +16226,11 @@
               "id": 0,
               "name": "",
               "armor_set_id": 0,
-              "equipment_set_id": 0
+              "equipment_set_id": 0,
+              "foraging_core_selected_slot": 0,
+              "power_stone": "",
+              "tuning_points_slot": 0,
+              "pet": ""
             },
             "13": {
               "id": 0,

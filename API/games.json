@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1774534028173,
+  "lastUpdated": 1784302293539,
   "games": {
     "QUAKECRAFT": {
       "modeNames": {
@@ -204,6 +204,11 @@
       "id": 7
     },
     "PROTOTYPE": {
+      "modeNames": {
+        "RAVENGARD_DUNGEON_TRIO": "Ravengard Dungeon Trios",
+        "RAVENGARD_TUTORIAL": "Ravengard Tutorial",
+        "RAVENGARD_HUB": "Ravengard Hub"
+      },
       "databaseName": "Prototype",
       "name": "Prototype",
       "id": 57

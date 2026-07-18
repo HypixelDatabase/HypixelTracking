@@ -15000,7 +15000,21 @@
               "toggle_maniac_slicer": true
             },
             "foraging_2": {
-              "center_of_the_forest": 0
+              "center_of_the_forest": 0,
+              "daily_wishes": 0,
+              "efficient_forager": 0,
+              "foraging_fortune": 0,
+              "galateas_might": 0,
+              "hunters_luck": 0,
+              "strength_boost": 0,
+              "sweep": 0,
+              "toggle_daily_wishes": true,
+              "toggle_efficient_forager": true,
+              "toggle_foraging_fortune": true,
+              "toggle_galateas_might": true,
+              "toggle_hunters_luck": true,
+              "toggle_strength_boost": true,
+              "toggle_sweep": true
             },
             "foraging_3": {
               "center_of_the_forest": 0
@@ -15044,7 +15058,8 @@
           "tokens_spent": {
             "mountain": 0,
             "forest": 0,
-            "mountain_2": 0
+            "mountain_2": 0,
+            "forest_2": 0
           },
           "experience": {
             "mining": 0,
@@ -15228,7 +15243,8 @@
           "forests_whispers": 0,
           "forests_whispers_spent": 0,
           "current_daily_effect": "",
-          "current_daily_effect_last_changed": 0
+          "current_daily_effect_last_changed": 0,
+          "forests_whispers_spent_2": 0
         },
         "shards": {
           "traps": {

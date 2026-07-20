@@ -88,7 +88,15 @@
             "refund_1": true,
             "refund_2": true,
             "slot_5": {
-              "purchase_ts": 0
+              "purchase_ts": 0,
+              "attack_speed": 0,
+              "critical_chance": 0,
+              "critical_damage": 0,
+              "defense": 0,
+              "health": 0,
+              "intelligence": 0,
+              "strength": 0,
+              "walk_speed": 0
             },
             "slot_6": {
               "purchase_ts": 0

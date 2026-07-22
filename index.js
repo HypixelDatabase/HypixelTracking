@@ -47,6 +47,23 @@ async function get(url) {
   }
 }
 
+const leaderboardValues = {};
+
+async function getEntryValues(entry) {
+  const leaderboard = entry.valuesLeaderboard;
+  if (!leaderboard) return entry.values;
+
+  if (!leaderboardValues[leaderboard]) {
+    const data = await get(`https://api.eliteskyblock.com/leaderboard/${leaderboard}?limit=100`);
+    leaderboardValues[leaderboard] = data?.entries
+      ?.sort(() => Math.random() - 0.5)
+      .slice(0, 10)
+      .map((entry) => entry.uuid);
+  }
+
+  return leaderboardValues[leaderboard]?.length === 10 ? leaderboardValues[leaderboard] : entry.values;
+}
+
 const tasks = [
   {
     name: 'Generate API resources',
@@ -62,7 +79,8 @@ const tasks = [
         if (Object.hasOwn(entry, 'values')) {
           // Load previous data
           obj = require(path) || {};
-          for (const value of entry.values) {
+          const values = await getEntryValues(entry);
+          for (const value of values) {
             results.push(await get(url.replace('VALUE', value), type));
           }
         } else {

@@ -15048,7 +15048,26 @@
               "toggle_galateas_might": true,
               "toggle_hunters_luck": true,
               "toggle_strength_boost": true,
-              "toggle_sweep": true
+              "toggle_sweep": true,
+              "toggle_center_of_the_forest": true,
+              "deep_waters": 0,
+              "toggle_deep_waters": true,
+              "foraging_madness": 0,
+              "toggle_foraging_madness": true,
+              "luck_of_the_forest": 0,
+              "toggle_luck_of_the_forest": true,
+              "250_gifts": 0,
+              "early_bird": 0,
+              "essence_fortune": 0,
+              "forest_speed": 0,
+              "forest_strength": 0,
+              "toggle_250_gifts": true,
+              "toggle_early_bird": true,
+              "toggle_essence_fortune": true,
+              "toggle_forest_speed": true,
+              "toggle_forest_strength": true,
+              "toggle_tree_whisperer": true,
+              "tree_whisperer": 0
             },
             "foraging_3": {
               "center_of_the_forest": 0
@@ -16257,7 +16276,10 @@
             },
             "6": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "pet": ""
             },
             "7": {
               "id": 0,

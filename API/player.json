@@ -3521,7 +3521,8 @@
           "purple_pixel_party_disco_helmet",
           "cyan_pixel_party_disco_helmet",
           "blue_pixel_party_disco_helmet",
-          "setbbtheme"
+          "setbbtheme",
+          "projectile_trail_water_sprinkler"
         ],
         "poop_collected": 0,
         "stamp_level": 0,
@@ -15854,7 +15855,8 @@
           "hydro",
           "new_pvprun_double_jumps_10",
           "ice",
-          "storm"
+          "storm",
+          "arrow_trail_water_sprinkler"
         ],
         "spleef_doublejump": 0,
         "spleef_repulse": 0,
@@ -33463,7 +33465,13 @@
           "kit_mythical_thundermeister_prestige_5",
           "kit_mythical_thundermeister_prestige_6",
           "kit_mega_mega_fisherman_prestige_1",
-          "kit_mining_team_speleologist_prestige_3"
+          "kit_mining_team_speleologist_prestige_3",
+          "cage_rainbow_popsicle",
+          "sprays_deadly_sundae",
+          "sprays_sparklers",
+          "sprays_bubblegum_jerry",
+          "sprays_lei",
+          "projectiletrail_water_sprinkler"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -35394,11 +35402,11 @@
           "IRON_SWORD:0": ""
         },
         "kit_mythical_end-lord_inventory": {
-          "LEATHER_CHESTPLATE:0": [],
-          "LEATHER_LEGGINGS:0": [],
-          "ENDER_STONE:0": [],
-          "ENDER_PEARL:0": [],
-          "LEATHER_BOOTS:0": [],
+          "LEATHER_CHESTPLATE:0": "",
+          "LEATHER_LEGGINGS:0": "",
+          "ENDER_STONE:0": "",
+          "ENDER_PEARL:0": "",
+          "LEATHER_BOOTS:0": "",
           "LEATHER_BOOTS:0:0": [],
           "LEATHER_CHESTPLATE:0:0": [],
           "LEATHER_LEGGINGS:0:0": []
@@ -55483,7 +55491,8 @@
           "projectiletrail_rose",
           "killeffect_shockwave",
           "projectiletrail_stormy",
-          "killeffect_witch_ritual"
+          "killeffect_witch_ritual",
+          "projectiletrail_water_sprinkler"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,
@@ -58296,7 +58305,15 @@
           "bw_challenge_no_dreaming_collected",
           "prestige_scheme_allay",
           "prestige_scheme_blaze",
-          "prestige_scheme_blended"
+          "prestige_scheme_blended",
+          "islandtopper_firework_popsicle",
+          "islandtopper_yellow_popsicle",
+          "islandtopper_rainbow_popsicle",
+          "sprays_deadly_sundae",
+          "sprays_lei",
+          "sprays_sparklers",
+          "sprays_bubblegum_jerry",
+          "projectiletrail_water_sprinkler"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -61499,7 +61516,13 @@
           "kill_note_carrot_minion",
           "kill_note_golden_carrot_cake",
           "kill_note_ugly_easter_sweater",
-          "gravestone_bunny_adorned"
+          "gravestone_bunny_adorned",
+          "gravestone_reef",
+          "kill_note_deadly_sundae",
+          "kill_note_sparklers",
+          "kill_note_bubblegum_jerry",
+          "kill_note_lei",
+          "projectile_trail_water_sprinkler"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -65265,7 +65288,10 @@
           "cage_disco-cage",
           "cage_horse",
           "ascended_blitz",
-          "prefix_icon_lucky"
+          "prefix_icon_lucky",
+          "auras_beach_trail",
+          "emblem_popsicle",
+          "projectile_trail_water_sprinkler"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -73591,7 +73617,9 @@
           "backdrops_dirigible",
           "island_whale",
           "island_barrel",
-          "island_grilled_cheese"
+          "island_grilled_cheese",
+          "backdrops_fireworks",
+          "island_firework"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -75924,7 +75952,8 @@
           "barrier_sand",
           "barrier_rainbow",
           "barrier_static",
-          "barrier_sky"
+          "barrier_sky",
+          "projectiletrail_water_sprinkler"
         ],
         "barrier": "",
         "projectiletrail": "",
@@ -76643,7 +76672,8 @@
           "christmas_guide_2025": true,
           "bingo_13": true,
           "become_rabbit": true,
-          "easter_guide_2026": true
+          "easter_guide_2026": true,
+          "summer_guide_2026": true
         },
         "discoveredZones": {
           "port": true,
@@ -80525,7 +80555,12 @@
         "furniture_carrot_bedside_table",
         "furniture_carrot_bench",
         "furniture_carrot_bed",
-        "furniture_bunny_plush"
+        "furniture_bunny_plush",
+        "furniture_turtle_sandbox",
+        "furniture_hopscotch",
+        "furniture_sprinkler",
+        "furniture_balloon_cart",
+        "furniture_lemonade_stand"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",

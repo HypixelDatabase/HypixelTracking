@@ -858,7 +858,8 @@
                 "talked_to": true,
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               },
               "elle": {
                 "last_call": 0,
@@ -898,7 +899,8 @@
                 },
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               },
               "drill_fuel_mechanic": {
                 "talked_to": true,
@@ -925,7 +927,8 @@
               "telekinesis_applier": {
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               },
               "fairy": {
                 "talked_to": true,
@@ -957,13 +960,15 @@
                 "talked_to": true,
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               },
               "forge_foreman": {
                 "talked_to": true,
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               },
               "community_shop": {
                 "talked_to": true,
@@ -1122,7 +1127,8 @@
                 "talked_to": true,
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               },
               "wool_weaver": {
                 "talked_to": true,
@@ -4686,7 +4692,27 @@
             "lost_adventurer_153": 0,
             "master_watcher_spirit_bear_5": 0,
             "cellar_spider_75": 0,
-            "kuudra_slasher_400": 0
+            "kuudra_slasher_400": 0,
+            "skeleton_2": 0,
+            "fried_chicken_30": 0,
+            "cretan_bull_95": 0,
+            "zombie_9": 0,
+            "wetwing_18": 0,
+            "ent_14": 0,
+            "strider_21": 0,
+            "duelist_rollim_6": 0,
+            "master_cellar_spider_105": 0,
+            "master_crypt_undead_externalizable_25": 0,
+            "crypt_undead_relenter_55": 0,
+            "crypt_undead_relenter_25": 0,
+            "skeleton_15": 0,
+            "crypt_undead_pieter_40": 0,
+            "enderman_7": 0,
+            "master_crypt_undead_cheesey_25": 0,
+            "lost_adventurer_123": 0,
+            "cellar_spider_115": 0,
+            "scribe_5": 0,
+            "master_crypt_undead_bembo_25": 0
           },
           "migration": true,
           "milestone": {
@@ -9611,7 +9637,13 @@
           "DOUBLE_PLANT:5": 0,
           "ENCHANTED_RED_SAND": 0,
           "ENCHANTED_COAL_BLOCK": 0,
-          "ENCHANTED_PACKED_ICE": 0
+          "ENCHANTED_PACKED_ICE": 0,
+          "BRICK": 0,
+          "ENCHANTED_SUGAR": 0,
+          "ENCHANTED_SUGAR_CANE": 0,
+          "ENCHANTED_LUSH_BERBERIS": 0,
+          "ABSOLUTE_ENDER_PEARL": 0,
+          "ENCHANTED_POPPY": 0
         },
         "player_stats": {
           "deaths": {
@@ -10086,7 +10118,16 @@
             "banshee": 0,
             "nightmare": 0,
             "zombie_miner": 0,
-            "strider": 0
+            "strider": 0,
+            "fried_chicken": 0,
+            "wetwing": 0,
+            "ent": 0,
+            "crypt_undead_relenter": 0,
+            "master_crypt_undead_externalizable": 0,
+            "crypt_undead_pieter": 0,
+            "master_crypt_undead_cheesey": 0,
+            "scribe": 0,
+            "master_crypt_undead_bembo": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11365,7 +11406,10 @@
             "minos_hunter_25": 0,
             "siamese_lynx_15": 0,
             "cretan_bull_95": 0,
-            "omegagma_400": 0
+            "omegagma_400": 0,
+            "enderman_8": 0,
+            "skeleton_12": 0,
+            "enderman_15": 0
           },
           "mythos": {
             "burrows_chains_complete": {

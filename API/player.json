@@ -11404,7 +11404,9 @@
         "fireproof": 0,
         "cats_eye": 0,
         "necromancer": 0,
-        "Inventory": {},
+        "Inventory": {
+          "0": ""
+        },
         "InventoryLayout": {
           "0": "",
           "1": "",
@@ -26967,7 +26969,8 @@
           "sprays_sparklers",
           "sprays_bubblegum_jerry",
           "sprays_lei",
-          "projectiletrail_water_sprinkler"
+          "projectiletrail_water_sprinkler",
+          "kit_basic_solo_speleologist_prestige_5"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -40150,7 +40153,10 @@
         "challenge_attempts_7_lab_kit_attacking_team_scout": 0,
         "challenge_wins_6_kit_advanced_solo_magician": 0,
         "fall_kills_tourney_kit_attacking_team_fisherman": 0,
-        "challenge_wins_2_kit_supporting_team_pyro": 0
+        "challenge_wins_2_kit_supporting_team_pyro": 0,
+        "bow_kills_lab_kit_advanced_solo_pig-rider": 0,
+        "challenge_attempts_5_kit_advanced_solo_enchanter": 0,
+        "challenge_wins_6_kit_mythical_monster-trainer": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -47935,7 +47941,10 @@
           "projectiletrail_stormy",
           "killeffect_witch_ritual",
           "projectiletrail_water_sprinkler",
-          "projectiletrail_icicle"
+          "projectiletrail_icicle",
+          "killeffect_crackling_ice",
+          "killeffect_present_rain",
+          "projectiletrail_twirling_snowflake"
         ],
         "found_RARE": 0,
         "tearWellUses": 0,

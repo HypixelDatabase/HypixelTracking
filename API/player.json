@@ -8772,7 +8772,8 @@
           "1624731160699_12",
           "1624641950774_22",
           "1425815447763_10",
-          "1425815447763_21"
+          "1425815447763_21",
+          "1613184905145_3"
         ],
         "paladin_plays": 0,
         "paladin_spec": "",
@@ -34438,9 +34439,9 @@
         "arrows_shot_kit_defending_team_guardian": 0,
         "melee_kills_kit_defending_team_guardian": 0,
         "kit_advanced_solo_farmer_inventory": {
-          "IRON_LEGGINGS:0": "",
-          "EGG:0": "",
-          "GOLDEN_APPLE:0": "",
+          "IRON_LEGGINGS:0": [],
+          "EGG:0": [],
+          "GOLDEN_APPLE:0": [],
           "IRON_LEGGINGS:0:4": []
         },
         "mob_kills_kit_advanced_solo_farmer": 0,
@@ -36148,11 +36149,11 @@
         },
         "kit_basic_solo_frog_inventory_auto_equip_armor": true,
         "kit_basic_solo_frog_inventory": {
-          "POTION:2": [],
-          "LEATHER_CHESTPLATE:0": [],
-          "LEATHER_LEGGINGS:0": [],
-          "SKULL_ITEM:3": [],
-          "LEATHER_BOOTS:0": [],
+          "POTION:2": "",
+          "LEATHER_CHESTPLATE:0": "",
+          "LEATHER_LEGGINGS:0": "",
+          "SKULL_ITEM:3": "",
+          "LEATHER_BOOTS:0": "",
           "WATER_LILY:0": []
         },
         "kit_basic_solo_energix_inventory": {
@@ -36161,13 +36162,13 @@
         },
         "kit_basic_solo_disco_inventory_auto_equip_armor": true,
         "kit_basic_solo_disco_inventory": {
-          "LEATHER_CHESTPLATE:0": [],
-          "NOTE_BLOCK:0": [],
-          "LEATHER_LEGGINGS:0": [],
-          "GOLD_HELMET:0": [],
-          "JUKEBOX:0": [],
-          "LEATHER_BOOTS:0": [],
-          "GOLD_RECORD:0": [],
+          "LEATHER_CHESTPLATE:0": "",
+          "NOTE_BLOCK:0": "",
+          "LEATHER_LEGGINGS:0": "",
+          "GOLD_HELMET:0": "",
+          "JUKEBOX:0": "",
+          "LEATHER_BOOTS:0": "",
+          "GOLD_RECORD:0": "",
           "LEATHER_HELMET:0": [],
           "LEATHER_HELMET:0:4": [],
           "LEATHER_BOOTS:0:2": []
@@ -36229,11 +36230,11 @@
           "STONE_SWORD:0": ""
         },
         "kit_basic_solo_pharaoh_inventory": {
-          "BEACON:0": "",
-          "LEATHER_CHESTPLATE:0": "",
-          "LEATHER_LEGGINGS:0": "",
-          "GOLD_HELMET:0": "",
-          "EMERALD_BLOCK:0": ""
+          "BEACON:0": [],
+          "LEATHER_CHESTPLATE:0": [],
+          "LEATHER_LEGGINGS:0": [],
+          "GOLD_HELMET:0": [],
+          "EMERALD_BLOCK:0": []
         },
         "kit_advanced_solo_knight_inventory": {
           "GOLD_HELMET:0": "",
@@ -36343,8 +36344,8 @@
         "arrows_shot_kit_basic_solo_batguy": 0,
         "arrows_hit_kit_basic_solo_batguy": 0,
         "kit_attacking_team_hunter_inventory": {
-          "ARROW:0": [],
-          "BOW:0": [],
+          "ARROW:0": "",
+          "BOW:0": "",
           "BOW:0:48": []
         },
         "kit_supporting_team_healer_inventory": {
@@ -37346,9 +37347,9 @@
         "heads_yucky_kit_defending_team_farmer": 0,
         "bow_kills_kit_defending_team_farmer": 0,
         "kit_defending_team_farmer_inventory": {
-          "DIAMOND_LEGGINGS:0": [],
-          "EGG:0": [],
-          "GOLDEN_APPLE:0": [],
+          "DIAMOND_LEGGINGS:0": "",
+          "EGG:0": "",
+          "GOLDEN_APPLE:0": "",
           "DIAMOND_LEGGINGS:0:4": []
         },
         "heads_kit_attacking_team_slime": 0,

@@ -4654,7 +4654,29 @@
             "master_zombie_knight_96": 0,
             "master_watcher_spirit_bear_7": 0,
             "cretan_bull_70": 0,
-            "gaia_construct_85": 0
+            "gaia_construct_85": 0,
+            "duelist_rollim_7": 0,
+            "magma_cube_1": 0,
+            "spider_7": 0,
+            "fried_chicken_30": 0,
+            "cretan_bull_95": 0,
+            "zombie_6": 0,
+            "zombie_9": 0,
+            "wetwing_18": 0,
+            "silvo_5": 0,
+            "ent_14": 0,
+            "carrot_king_25": 0,
+            "dante_goon_50": 0,
+            "headless_horseman_100": 0,
+            "drowned_captain_74": 0,
+            "cave_spider_1": 0,
+            "master_dungeon_respawning_skeleton_skull_120": 0,
+            "master_crypt_undead__onah_25": 0,
+            "master_crypt_undead_williamtiger_25": 0,
+            "zombie_15": 0,
+            "skeleton_15": 0,
+            "slime_15": 0,
+            "phanpyre_10": 0
           },
           "migration": true,
           "milestone": {
@@ -6562,7 +6584,135 @@
             "st_jerry_reward_445",
             "st_jerry_reward_475",
             "st_jerry_reward_486",
-            "st_jerry_reward_488"
+            "st_jerry_reward_488",
+            "st_jerry_reward_166",
+            "st_jerry_reward_175",
+            "st_jerry_153",
+            "st_jerry_128",
+            "st_jerry_127",
+            "st_jerry_126",
+            "st_jerry_134",
+            "st_jerry_411",
+            "st_jerry_reward_460",
+            "st_jerry_reward_129",
+            "st_jerry_177",
+            "st_jerry_451",
+            "st_jerry_347",
+            "st_jerry_346",
+            "st_jerry_452",
+            "st_jerry_reward_452",
+            "st_jerry_304",
+            "st_jerry_reward_304",
+            "st_jerry_reward_217",
+            "st_jerry_reward_209",
+            "st_jerry_204",
+            "st_jerry_267",
+            "st_jerry_reward_270",
+            "st_jerry_reward_273",
+            "st_jerry_reward_293",
+            "st_jerry_reward_299",
+            "st_jerry_reward_300",
+            "st_jerry_reward_310",
+            "st_jerry_reward_311",
+            "st_jerry_reward_312",
+            "st_jerry_reward_313",
+            "st_jerry_reward_314",
+            "st_jerry_reward_318",
+            "st_jerry_reward_328",
+            "st_jerry_reward_333",
+            "st_jerry_reward_335",
+            "st_jerry_reward_342",
+            "st_jerry_reward_347",
+            "st_jerry_reward_349",
+            "st_jerry_reward_351",
+            "st_jerry_reward_352",
+            "st_jerry_reward_357",
+            "st_jerry_reward_363",
+            "st_jerry_reward_364",
+            "st_jerry_reward_368",
+            "st_jerry_reward_369",
+            "st_jerry_reward_383",
+            "st_jerry_reward_391",
+            "st_jerry_reward_401",
+            "st_jerry_reward_413",
+            "st_jerry_reward_414",
+            "st_jerry_reward_417",
+            "st_jerry_reward_420",
+            "st_jerry_reward_421",
+            "st_jerry_reward_422",
+            "st_jerry_reward_427",
+            "st_jerry_reward_437",
+            "st_jerry_reward_440",
+            "st_jerry_reward_442",
+            "st_jerry_reward_443",
+            "st_jerry_reward_446",
+            "st_jerry_reward_447",
+            "st_jerry_reward_448",
+            "st_jerry_reward_449",
+            "st_jerry_reward_451",
+            "st_jerry_reward_453",
+            "st_jerry_reward_454",
+            "st_jerry_reward_456",
+            "st_jerry_reward_457",
+            "st_jerry_reward_458",
+            "st_jerry_reward_459",
+            "st_jerry_reward_461",
+            "st_jerry_reward_462",
+            "st_jerry_reward_463",
+            "st_jerry_reward_464",
+            "st_jerry_reward_465",
+            "st_jerry_reward_466",
+            "st_jerry_reward_467",
+            "st_jerry_reward_477",
+            "st_jerry_reward_478",
+            "st_jerry_reward_480",
+            "st_jerry_reward_484",
+            "st_jerry_reward_485",
+            "st_jerry_reward_487",
+            "st_jerry_reward_489",
+            "st_jerry_reward_490",
+            "st_jerry_reward_492",
+            "st_jerry_reward_495",
+            "st_jerry_reward_496",
+            "st_jerry_reward_498",
+            "st_jerry_reward_499",
+            "st_jerry_reward_502",
+            "st_jerry_294",
+            "st_jerry_reward_294",
+            "st_jerry_491",
+            "st_jerry_170",
+            "st_jerry_111",
+            "st_jerry_362",
+            "st_jerry_367",
+            "st_jerry_368",
+            "st_jerry_380",
+            "st_jerry_405",
+            "st_jerry_163",
+            "st_jerry_264",
+            "st_jerry_reward_266",
+            "st_jerry_109",
+            "st_jerry_92",
+            "st_jerry_reward_278",
+            "st_jerry_reward_394",
+            "st_jerry_reward_397",
+            "st_jerry_398",
+            "st_jerry_reward_398",
+            "st_jerry_reward_409",
+            "st_jerry_reward_428",
+            "st_jerry_reward_432",
+            "st_jerry_reward_441",
+            "st_jerry_reward_470",
+            "st_jerry_reward_471",
+            "st_jerry_reward_482",
+            "st_jerry_165",
+            "st_jerry_148",
+            "st_jerry_256",
+            "st_jerry_222",
+            "st_jerry_220",
+            "st_jerry_reward_412",
+            "st_jerry_468",
+            "st_jerry_53",
+            "st_jerry_reward_295"
           ],
           "collect_log": {
             "status": "",
@@ -10727,7 +10877,17 @@
           "ENCHANTED_DARK_OAK_LOG": 0,
           "ENCHANTED_SPRUCE_LOG": 0,
           "ENCHANTED_BIRCH_LOG": 0,
-          "ENCHANTED_COCOA": 0
+          "ENCHANTED_COCOA": 0,
+          "ENCHANTED_SUGAR": 0,
+          "RED_ROSE:6": 0,
+          "ENCHANTED_GRILLED_PORK": 0,
+          "RED_ROSE:4": 0,
+          "RED_ROSE:3": 0,
+          "RED_GIFT": 0,
+          "ENCHANTED_COAL_BLOCK": 0,
+          "RED_ROSE:1": 0,
+          "ENCHANTED_RED_SAND": 0,
+          "ENCHANTED_BAKED_POTATO": 0
         },
         "player_stats": {
           "deaths": {
@@ -11192,7 +11352,20 @@
             "master_crypt_undead_judg3": 0,
             "master_crypt_undead_adamwho": 0,
             "master_crypt_undead_sylent": 0,
-            "master_crypt_undead_friedrich": 0
+            "master_crypt_undead_friedrich": 0,
+            "duelist_rollim": 0,
+            "fried_chicken": 0,
+            "wetwing": 0,
+            "silvo": 0,
+            "ent": 0,
+            "crypt_undead_valentin": 0,
+            "crypt_undead_christian": 0,
+            "carrot_king": 0,
+            "dante_goon": 0,
+            "headless_horseman": 0,
+            "drowned_captain": 0,
+            "master_crypt_undead_williamtiger": 0,
+            "phanpyre": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -12470,7 +12643,9 @@
             "cretan_bull_40": 0,
             "minos_hunter_25": 0,
             "siamese_lynx_15": 0,
-            "cretan_bull_95": 0
+            "cretan_bull_95": 0,
+            "enderman_8": 0,
+            "skeleton_12": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -14982,7 +15157,8 @@
             "RUNE_AXE_FADING_GREEN_2": 0,
             "RUNE_ENCHANT_2": 0,
             "RUNE_AXE_FADING_WHITE_2": 0,
-            "SMALL_POCKET_BLACK_HOLE": 0
+            "SMALL_POCKET_BLACK_HOLE": 0,
+            "RUNE_PRIMAL_FEAR_3": 0
           },
           "backpack_contents": {
             "0": {
@@ -16390,7 +16566,9 @@
               "sheer_force": 0,
               "toggle_sheer_force": true,
               "dust_collector": 0,
-              "toggle_dust_collector": true
+              "toggle_dust_collector": true,
+              "gemstone_infusion": 0,
+              "toggle_gemstone_infusion": true
             },
             "foraging": {
               "center_of_the_forest": 0,
@@ -16494,7 +16672,13 @@
               "toggle_monster_hunter": true,
               "toggle_speed_boost": true,
               "collector": 0,
-              "toggle_collector": true
+              "toggle_collector": true,
+              "homing_axe": 0,
+              "ricochet": 0,
+              "toggle_homing_axe": true,
+              "toggle_ricochet": true,
+              "damage_boost": 0,
+              "toggle_damage_boost": true
             },
             "foraging_3": {
               "center_of_the_forest": 0
@@ -16591,7 +16775,9 @@
               "precision_mining": 0,
               "toggle_precision_mining": true,
               "gemstone_infusion": 0,
-              "toggle_gemstone_infusion": true
+              "toggle_gemstone_infusion": true,
+              "mining_speed_boost": 0,
+              "toggle_mining_speed_boost": true
             },
             "mining_3": {
               "core_of_the_mountain": 0
@@ -16606,7 +16792,8 @@
           "selected_ability": {
             "mining": "",
             "foraging": "",
-            "mining_2": ""
+            "mining_2": "",
+            "foraging_2": ""
           },
           "tokens_spent": {
             "mountain": 0,
@@ -17783,7 +17970,8 @@
               "power_stone": "",
               "tuning_points_slot": 0,
               "pet": "",
-              "mining_core_selected_slot": 0
+              "mining_core_selected_slot": 0,
+              "foraging_core_selected_slot": 0
             },
             "5": {
               "id": 0,
@@ -17815,7 +18003,8 @@
               "pet": "",
               "power_stone": "",
               "tuning_points_slot": 0,
-              "mining_core_selected_slot": 0
+              "mining_core_selected_slot": 0,
+              "foraging_core_selected_slot": 0
             },
             "8": {
               "id": 0,
@@ -17825,7 +18014,8 @@
               "tuning_points_slot": 0,
               "pet": "",
               "equipment_set_id": 0,
-              "foraging_core_selected_slot": 0
+              "foraging_core_selected_slot": 0,
+              "mining_core_selected_slot": 0
             },
             "9": {
               "id": 0,
@@ -17846,7 +18036,8 @@
               "power_stone": "",
               "tuning_points_slot": 0,
               "pet": "",
-              "mining_core_selected_slot": 0
+              "mining_core_selected_slot": 0,
+              "foraging_core_selected_slot": 0
             },
             "11": {
               "id": 0,
@@ -17856,7 +18047,8 @@
               "power_stone": "",
               "tuning_points_slot": 0,
               "pet": "",
-              "mining_core_selected_slot": 0
+              "mining_core_selected_slot": 0,
+              "foraging_core_selected_slot": 0
             },
             "12": {
               "id": 0,
@@ -17876,7 +18068,9 @@
               "equipment_set_id": 0,
               "power_stone": "",
               "tuning_points_slot": 0,
-              "pet": ""
+              "pet": "",
+              "mining_core_selected_slot": 0,
+              "foraging_core_selected_slot": 0
             },
             "14": {
               "id": 0,
@@ -17894,7 +18088,8 @@
               "equipment_set_id": 0,
               "power_stone": "",
               "tuning_points_slot": 0,
-              "pet": ""
+              "pet": "",
+              "foraging_core_selected_slot": 0
             },
             "16": {
               "id": 0,
@@ -17903,7 +18098,8 @@
               "equipment_set_id": 0,
               "power_stone": "",
               "tuning_points_slot": 0,
-              "pet": ""
+              "pet": "",
+              "foraging_core_selected_slot": 0
             },
             "17": {
               "id": 0,

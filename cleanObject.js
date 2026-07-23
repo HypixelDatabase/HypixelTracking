@@ -28,6 +28,21 @@ function containsBadKey(key) {
   );
 }
 
+function containsBadValue(key) {
+  return !(
+      /\d+_\d+/.test(key) ||
+      /st_jerry(_reward)?_\d+/.test(key) ||
+      /ADVENT_.+:.+/.test(key)
+  )
+}
+
+function shouldHideObject(key) {
+  return (
+      /\w+inventory/i.test(key) ||
+      key.includes('_layout') || key.includes('layout_')
+  )
+}
+
 function normalizeObject(object) {
   const o = { ...object };
   const keys = Object.keys(o).filter((key) => {
@@ -57,9 +72,13 @@ function normalizeObject(object) {
               break;
             }
             entry = [];
+          } else {
+            entry = entry.filter(containsBadValue);
           }
         } else if (entry === null) {
           entry = '';
+        } else if (shouldHideObject(key)) {
+          entry = {}
         } else {
           entry = normalizeObject(entry);
         }

@@ -4670,7 +4670,23 @@
             "master_lost_adventurer_113": 0,
             "skeleton_6": 0,
             "zombie_6": 0,
-            "crypt_undead_hypixel_25": 0
+            "crypt_undead_hypixel_25": 0,
+            "diamond_guy_170": 0,
+            "silvo_5": 0,
+            "enderman_2": 0,
+            "enderman_5": 0,
+            "banshee_10": 0,
+            "nightmare_24": 0,
+            "zombie_miner_150": 0,
+            "zombie_2": 0,
+            "spider_2": 0,
+            "strider_20": 0,
+            "kuudra_slasher_200": 0,
+            "magma_cube_6": 0,
+            "lost_adventurer_153": 0,
+            "master_watcher_spirit_bear_5": 0,
+            "cellar_spider_75": 0,
+            "kuudra_slasher_400": 0
           },
           "migration": true,
           "milestone": {
@@ -9593,7 +9609,9 @@
           "DOUBLE_PLANT:1": 0,
           "DOUBLE_PLANT:4": 0,
           "DOUBLE_PLANT:5": 0,
-          "ENCHANTED_RED_SAND": 0
+          "ENCHANTED_RED_SAND": 0,
+          "ENCHANTED_COAL_BLOCK": 0,
+          "ENCHANTED_PACKED_ICE": 0
         },
         "player_stats": {
           "deaths": {
@@ -10063,7 +10081,12 @@
             "phanpyre": 0,
             "generator_ghast": 0,
             "headless_horseman": 0,
-            "crypt_undead_hypixel": 0
+            "crypt_undead_hypixel": 0,
+            "silvo": 0,
+            "banshee": 0,
+            "nightmare": 0,
+            "zombie_miner": 0,
+            "strider": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -16509,6 +16532,10 @@
                 "data": ""
               },
               "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
                 "type": 0,
                 "data": ""
               }

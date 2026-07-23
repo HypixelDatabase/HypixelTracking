@@ -47,6 +47,34 @@ async function get(url) {
   }
 }
 
+const leaderboardValues = {};
+
+async function getEntryValues(entry) {
+  const leaderboard = entry.valuesLeaderboard;
+  if (!leaderboard) return entry.values;
+
+  if (!leaderboardValues[leaderboard]) {
+    const url = `https://api.eliteskyblock.com/leaderboard/${leaderboard}`;
+    const [data, ironmanData] = await Promise.all([
+      get(`${url}?limit=100`),
+      get(`${url}?limit=20&mode=ironman`)
+    ]);
+    // Grab 7 UUIDs and 3 guaranteed ironman UUIDs
+    const ironmanValues = ironmanData?.entries
+      ?.sort(() => Math.random() - 0.5)
+      .slice(0, 3)
+      .map((entry) => entry.uuid);
+    const generalValues = data?.entries
+      ?.filter((entry) => !ironmanValues?.includes(entry.uuid))
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 7)
+      .map((entry) => entry.uuid);
+    leaderboardValues[leaderboard] = [...(ironmanValues || []), ...(generalValues || [])];
+  }
+
+  return leaderboardValues[leaderboard]?.length === 10 ? leaderboardValues[leaderboard] : entry.values;
+}
+
 const tasks = [
   {
     name: 'Generate API resources',
@@ -62,7 +90,8 @@ const tasks = [
         if (Object.hasOwn(entry, 'values')) {
           // Load previous data
           obj = require(path) || {};
-          for (const value of entry.values) {
+          const values = await getEntryValues(entry);
+          for (const value of values) {
             results.push(await get(url.replace('VALUE', value), type));
           }
         } else {

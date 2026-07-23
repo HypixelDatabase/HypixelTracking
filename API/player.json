@@ -4397,7 +4397,8 @@
               "hypixel_says": 0,
               "meteor_shower": 0,
               "hot_potato": 0,
-              "nuke": 0
+              "nuke": 0,
+              "purge": 0
             },
             "games_played": 0,
             "losses": 0,
@@ -17021,7 +17022,7 @@
         "votes_Siege": 0
       },
       "Walls3": {
-        "blood": true,
+        "blood": "",
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -34026,7 +34027,7 @@
         "arrows_shot_kit_ranked_ranked_armorer": 0,
         "kit_basic_solo_scout_inventory": {
           "POTION:2": "",
-          "WOOD_SWORD:0": [],
+          "WOOD_SWORD:0": "",
           "IRON_BOOTS:0": []
         },
         "fastest_win_kit_advanced_solo_farmer": 0,
@@ -34402,9 +34403,9 @@
         "arrows_shot_kit_defending_team_guardian": 0,
         "melee_kills_kit_defending_team_guardian": 0,
         "kit_advanced_solo_farmer_inventory": {
-          "IRON_LEGGINGS:0": "",
-          "EGG:0": "",
-          "GOLDEN_APPLE:0": "",
+          "IRON_LEGGINGS:0": [],
+          "EGG:0": [],
+          "GOLDEN_APPLE:0": [],
           "IRON_LEGGINGS:0:4": []
         },
         "mob_kills_kit_advanced_solo_farmer": 0,
@@ -35610,14 +35611,14 @@
         "SkyWars_skywars_rating_5_19_rating": 0,
         "SkyWars_skywars_rating_5_19_position": 0,
         "kit_attacking_team_pig-rider_inventory": {
-          "GOLD_CHESTPLATE:0": [],
-          "GOLD_LEGGINGS:0": [],
-          "GOLD_BOOTS:0": [],
-          "GOLD_HELMET:0": [],
-          "GOLD_SWORD:0": [],
-          "SADDLE:0": [],
-          "CARROT_STICK:0": [],
-          "MONSTER_EGG:90": [],
+          "GOLD_CHESTPLATE:0": "",
+          "GOLD_LEGGINGS:0": "",
+          "GOLD_BOOTS:0": "",
+          "GOLD_HELMET:0": "",
+          "GOLD_SWORD:0": "",
+          "SADDLE:0": "",
+          "CARROT_STICK:0": "",
+          "MONSTER_EGG:90": "",
           "HAY_BLOCK:0": [],
           "GOLD_LEGGINGS:0:0": [],
           "GOLD_BOOTS:0:0": [],
@@ -36125,13 +36126,13 @@
         },
         "kit_basic_solo_disco_inventory_auto_equip_armor": true,
         "kit_basic_solo_disco_inventory": {
-          "LEATHER_CHESTPLATE:0": [],
-          "NOTE_BLOCK:0": [],
-          "LEATHER_LEGGINGS:0": [],
-          "GOLD_HELMET:0": [],
-          "JUKEBOX:0": [],
-          "LEATHER_BOOTS:0": [],
-          "GOLD_RECORD:0": [],
+          "LEATHER_CHESTPLATE:0": "",
+          "NOTE_BLOCK:0": "",
+          "LEATHER_LEGGINGS:0": "",
+          "GOLD_HELMET:0": "",
+          "JUKEBOX:0": "",
+          "LEATHER_BOOTS:0": "",
+          "GOLD_RECORD:0": "",
           "LEATHER_HELMET:0": [],
           "LEATHER_HELMET:0:4": [],
           "LEATHER_BOOTS:0:2": []
@@ -36184,20 +36185,20 @@
         "deaths_kit_basic_solo_princess": 0,
         "kit_basic_solo_rookie_inventory": {
           "COOKED_BEEF:0": "",
-          "LEATHER_CHESTPLATE:0": [],
+          "LEATHER_CHESTPLATE:0": "",
           "WOOD_SWORD:0": "",
-          "LEATHER_LEGGINGS:0": [],
-          "GLASS:0": [],
-          "LEATHER_BOOTS:0": [],
-          "LEATHER_HELMET:0": [],
-          "STONE_SWORD:0": []
+          "LEATHER_LEGGINGS:0": "",
+          "GLASS:0": "",
+          "LEATHER_BOOTS:0": "",
+          "LEATHER_HELMET:0": "",
+          "STONE_SWORD:0": ""
         },
         "kit_basic_solo_pharaoh_inventory": {
-          "BEACON:0": "",
-          "LEATHER_CHESTPLATE:0": "",
-          "LEATHER_LEGGINGS:0": "",
-          "GOLD_HELMET:0": "",
-          "EMERALD_BLOCK:0": ""
+          "BEACON:0": [],
+          "LEATHER_CHESTPLATE:0": [],
+          "LEATHER_LEGGINGS:0": [],
+          "GOLD_HELMET:0": [],
+          "EMERALD_BLOCK:0": []
         },
         "kit_advanced_solo_knight_inventory": {
           "GOLD_HELMET:0": "",
@@ -36240,7 +36241,7 @@
           "IRON_AXE:0:32,16": [],
           "LEATHER_LEGGINGS:0:0": [],
           "STONE_AXE:0:32,16": [],
-          "LEATHER_LEGGINGS:0": []
+          "LEATHER_LEGGINGS:0": ""
         },
         "kit_advanced_solo_cannoneer_inventory": {
           "TNT:0": "",
@@ -41600,11 +41601,11 @@
           "IRON_CHESTPLATE:0:0": []
         },
         "kit_mythical_cryomancer_inventory": {
-          "EGG:0": [],
-          "LEATHER_BOOTS:0": [],
-          "LEATHER_CHESTPLATE:0": [],
-          "LEATHER_LEGGINGS:0": [],
-          "SNOW_BALL:0": [],
+          "EGG:0": "",
+          "LEATHER_BOOTS:0": "",
+          "LEATHER_CHESTPLATE:0": "",
+          "LEATHER_LEGGINGS:0": "",
+          "SNOW_BALL:0": "",
           "LEATHER_BOOTS:0:0": [],
           "LEATHER_CHESTPLATE:0:0": [],
           "LEATHER_LEGGINGS:0:0": []

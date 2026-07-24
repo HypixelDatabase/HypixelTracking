@@ -2016,7 +2016,9 @@
           "powder_spent_gemstone_2": 0,
           "powder_spent_glacite_2": 0,
           "powder_spent_mithril_2": 0,
-          "powder_spent_titanium_2": 0
+          "powder_spent_titanium_2": 0,
+          "powder_spent_non_refundable_glacite": 0,
+          "powder_spent_non_refundable_glacite_2": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -3743,7 +3745,8 @@
             "cretan_bull_95": 0,
             "stranded_nymph_40": 0,
             "slime_12": 0,
-            "cretan_bull_40": 0
+            "cretan_bull_40": 0,
+            "slime_3": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -4750,7 +4753,12 @@
             "master_crypt_undead__onah_25": 0,
             "revenant_sycophant_70": 0,
             "crypt_undead_connorlinfoot_35": 0,
-            "carrot_king_25": 0
+            "carrot_king_25": 0,
+            "crypt_undead_20": 0,
+            "slime_3": 0,
+            "spider_9": 0,
+            "brood_mother_spider_12": 0,
+            "crypt_undead_minikloon_55": 0
           },
           "migration": true,
           "milestone": {
@@ -6547,7 +6555,9 @@
             "vampire": 0,
             "barbarian_alchemist": 0,
             "sirih_pig": 0,
-            "strux": 0
+            "strux": 0,
+            "mage_alchemist": 0,
+            "Seffea": 0
           },
           "choose_faction": {
             "status": "",
@@ -10201,7 +10211,11 @@
             "master_crypt_undead_falloutowns": 0,
             "iron_golem": 0,
             "crypt_undead_connorlinfoot": 0,
-            "carrot_king": 0
+            "carrot_king": 0,
+            "crypt_undead_jamiethegeek": 0,
+            "brood_mother_spider": 0,
+            "crypt_undead_christian": 0,
+            "crypt_undead_minikloon": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11486,7 +11500,8 @@
             "enderman_15": 0,
             "enderman_12": 0,
             "zombie_3": 0,
-            "minos_hunter_80": 0
+            "minos_hunter_80": 0,
+            "pest_firefly_1": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -15414,16 +15429,21 @@
               "toggle_homing_axe": true,
               "toggle_ricochet": true,
               "damage_boost": 0,
-              "toggle_damage_boost": true
+              "toggle_damage_boost": true,
+              "axe_toss": 0,
+              "toggle_axe_toss": true
             },
             "foraging_3": {
-              "center_of_the_forest": 0
+              "center_of_the_forest": 0,
+              "toggle_center_of_the_forest": true
             },
             "foraging_4": {
-              "center_of_the_forest": 0
+              "center_of_the_forest": 0,
+              "toggle_center_of_the_forest": true
             },
             "foraging_5": {
-              "center_of_the_forest": 0
+              "center_of_the_forest": 0,
+              "toggle_center_of_the_forest": true
             },
             "mining_2": {
               "core_of_the_mountain": 0,
@@ -15516,13 +15536,16 @@
               "toggle_mining_speed_boost": true
             },
             "mining_3": {
-              "core_of_the_mountain": 0
+              "core_of_the_mountain": 0,
+              "toggle_core_of_the_mountain": true
             },
             "mining_4": {
-              "core_of_the_mountain": 0
+              "core_of_the_mountain": 0,
+              "toggle_core_of_the_mountain": true
             },
             "mining_5": {
-              "core_of_the_mountain": 0
+              "core_of_the_mountain": 0,
+              "toggle_core_of_the_mountain": true
             }
           },
           "selected_ability": {
@@ -15732,7 +15755,9 @@
           "forests_whispers_spent": 0,
           "current_daily_effect": "",
           "current_daily_effect_last_changed": 0,
-          "forests_whispers_spent_2": 0
+          "forests_whispers_spent_2": 0,
+          "forests_whispers_spent_non_refundable": 0,
+          "forests_whispers_spent_non_refundable_2": 0
         },
         "shards": {
           "traps": {

@@ -4729,7 +4729,16 @@
             "cellar_spider_115": 0,
             "scribe_5": 0,
             "master_crypt_undead_bembo_25": 0,
-            "enderman_12": 0
+            "enderman_12": 0,
+            "master_crypt_undead_orangemarshall_25": 0,
+            "master_crypt_undead_plancke_25": 0,
+            "master_king_midas_170": 0,
+            "master_crypt_undead_rezzus_25": 0,
+            "jockey_skeleton_3": 0,
+            "witch_2": 0,
+            "drowned_captain_74": 0,
+            "atoll_croaker_45": 0,
+            "lotus_guardian_55": 0
           },
           "migration": true,
           "milestone": {
@@ -6523,7 +6532,9 @@
             "rhanora": 0,
             "arba": 0,
             "truu": 0,
-            "vampire": 0
+            "vampire": 0,
+            "barbarian_alchemist": 0,
+            "sirih_pig": 0
           },
           "choose_faction": {
             "status": "",
@@ -9662,7 +9673,13 @@
           "ABSOLUTE_ENDER_PEARL": 0,
           "ENCHANTED_POPPY": 0,
           "ENCHANTED_DANDELION": 0,
-          "POLISHED_PUMPKIN": 0
+          "POLISHED_PUMPKIN": 0,
+          "ENCHANTED_HAY_BLOCK": 0,
+          "ENCHANTED_EMERALD_BLOCK": 0,
+          "ENCHANTED_COOKED_FISH": 0,
+          "ENCHANTED_WET_SPONGE": 0,
+          "ENCHANTED_SLIME_BLOCK": 0,
+          "ENCHANTED_QUARTZ_BLOCK": 0
         },
         "player_stats": {
           "deaths": {
@@ -10146,7 +10163,14 @@
             "crypt_undead_pieter": 0,
             "master_crypt_undead_cheesey": 0,
             "scribe": 0,
-            "master_crypt_undead_bembo": 0
+            "master_crypt_undead_bembo": 0,
+            "master_crypt_undead_orangemarshall": 0,
+            "master_crypt_undead_plancke": 0,
+            "master_crypt_undead_rezzus": 0,
+            "jockey_skeleton": 0,
+            "drowned_captain": 0,
+            "atoll_croaker": 0,
+            "lotus_guardian": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11428,7 +11452,8 @@
             "omegagma_400": 0,
             "enderman_8": 0,
             "skeleton_12": 0,
-            "enderman_15": 0
+            "enderman_15": 0,
+            "enderman_12": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -14231,7 +14256,9 @@
             "barry_center": {
               "first_talk_to_barry": true,
               "convinced": [],
-              "received_reward": true
+              "received_reward": true,
+              "engaged": "",
+              "talked_with_barry": true
             },
             "cowboy": {
               "stage": 0,

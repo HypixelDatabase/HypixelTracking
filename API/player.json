@@ -40176,7 +40176,9 @@
         "challenge_wins_2_kit_supporting_team_pyro": 0,
         "bow_kills_lab_kit_advanced_solo_pig-rider": 0,
         "challenge_attempts_5_kit_advanced_solo_enchanter": 0,
-        "challenge_wins_6_kit_mythical_monster-trainer": 0
+        "challenge_wins_6_kit_mythical_monster-trainer": 0,
+        "challenge_wins_0_kit_advanced_solo_zookeeper": 0,
+        "challenge_wins_0_kit_basic_solo_batguy": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -62923,7 +62925,13 @@
                 "water": {
                   "junk": 0,
                   "fish": 0,
-                  "treasure": 0
+                  "treasure": 0,
+                  "orb": 0
+                },
+                "lava": {
+                  "fish": 0,
+                  "treasure": 0,
+                  "junk": 0
                 }
               }
             },

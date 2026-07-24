@@ -99,10 +99,26 @@
               "walk_speed": 0
             },
             "slot_6": {
-              "purchase_ts": 0
+              "purchase_ts": 0,
+              "attack_speed": 0,
+              "critical_chance": 0,
+              "critical_damage": 0,
+              "defense": 0,
+              "health": 0,
+              "intelligence": 0,
+              "strength": 0,
+              "walk_speed": 0
             },
             "slot_7": {
-              "purchase_ts": 0
+              "purchase_ts": 0,
+              "attack_speed": 0,
+              "critical_chance": 0,
+              "critical_damage": 0,
+              "defense": 0,
+              "health": 0,
+              "intelligence": 0,
+              "strength": 0,
+              "walk_speed": 0
             },
             "slot_8": {
               "purchase_ts": 0
@@ -4712,7 +4728,8 @@
             "lost_adventurer_123": 0,
             "cellar_spider_115": 0,
             "scribe_5": 0,
-            "master_crypt_undead_bembo_25": 0
+            "master_crypt_undead_bembo_25": 0,
+            "enderman_12": 0
           },
           "migration": true,
           "milestone": {
@@ -9643,7 +9660,9 @@
           "ENCHANTED_SUGAR_CANE": 0,
           "ENCHANTED_LUSH_BERBERIS": 0,
           "ABSOLUTE_ENDER_PEARL": 0,
-          "ENCHANTED_POPPY": 0
+          "ENCHANTED_POPPY": 0,
+          "ENCHANTED_DANDELION": 0,
+          "POLISHED_PUMPKIN": 0
         },
         "player_stats": {
           "deaths": {

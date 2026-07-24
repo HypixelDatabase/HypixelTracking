@@ -4739,7 +4739,15 @@
             "drowned_captain_74": 0,
             "atoll_croaker_45": 0,
             "lotus_guardian_55": 0,
-            "headless_horseman_100": 0
+            "headless_horseman_100": 0,
+            "skeleton_3": 0,
+            "master_crypt_undead_relenter_55": 0,
+            "mushroom_cow_1": 0,
+            "master_crypt_undead_nitroholic__55": 0,
+            "master_crypt_undead_minikloon_45": 0,
+            "master_crypt_undead_falloutowns_55": 0,
+            "master_crypt_undead__onah_55": 0,
+            "master_crypt_undead__onah_25": 0
           },
           "migration": true,
           "milestone": {
@@ -6535,7 +6543,8 @@
             "truu": 0,
             "vampire": 0,
             "barbarian_alchemist": 0,
-            "sirih_pig": 0
+            "sirih_pig": 0,
+            "strux": 0
           },
           "choose_faction": {
             "status": "",
@@ -9453,6 +9462,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "collect_runes": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_dusk_2": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "collection": {
@@ -10174,7 +10193,10 @@
             "atoll_croaker": 0,
             "lotus_guardian": 0,
             "crypt_undead_friedrich": 0,
-            "crypt_undead_marius": 0
+            "crypt_undead_marius": 0,
+            "mushroom_cow": 0,
+            "master_crypt_undead_falloutowns": 0,
+            "iron_golem": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11457,7 +11479,9 @@
             "enderman_8": 0,
             "skeleton_12": 0,
             "enderman_15": 0,
-            "enderman_12": 0
+            "enderman_12": 0,
+            "zombie_3": 0,
+            "minos_hunter_80": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -12942,7 +12966,8 @@
             "lotus_highlands",
             "security_hall_main",
             "michaels_crib",
-            "limbo"
+            "limbo",
+            "inside_the_wall"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -15272,7 +15297,9 @@
               "sheer_force": 0,
               "toggle_sheer_force": true,
               "dust_collector": 0,
-              "toggle_dust_collector": true
+              "toggle_dust_collector": true,
+              "gemstone_infusion": 0,
+              "toggle_gemstone_infusion": true
             },
             "foraging": {
               "center_of_the_forest": 0,
@@ -16633,6 +16660,9 @@
                 "type": 0,
                 "data": ""
               }
+            },
+            "11": {
+              "id": 0
             },
             "equipped_set": 0
           },

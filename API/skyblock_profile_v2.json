@@ -4747,7 +4747,10 @@
             "master_crypt_undead_minikloon_45": 0,
             "master_crypt_undead_falloutowns_55": 0,
             "master_crypt_undead__onah_55": 0,
-            "master_crypt_undead__onah_25": 0
+            "master_crypt_undead__onah_25": 0,
+            "revenant_sycophant_70": 0,
+            "crypt_undead_connorlinfoot_35": 0,
+            "carrot_king_25": 0
           },
           "migration": true,
           "milestone": {
@@ -10196,7 +10199,9 @@
             "crypt_undead_marius": 0,
             "mushroom_cow": 0,
             "master_crypt_undead_falloutowns": 0,
-            "iron_golem": 0
+            "iron_golem": 0,
+            "crypt_undead_connorlinfoot": 0,
+            "carrot_king": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -16826,7 +16831,8 @@
               "equipment_set_id": 0,
               "power_stone": "",
               "tuning_points_slot": 0,
-              "pet": ""
+              "pet": "",
+              "mining_core_selected_slot": 0
             },
             "16": {
               "id": 0,

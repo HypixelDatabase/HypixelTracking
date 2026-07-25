@@ -4790,7 +4790,8 @@
             "jockey_shot_silverfish_42": 0,
             "skeleton_13": 0,
             "master_crypt_undead_orangemarshall_45": 0,
-            "master_crypt_undead_minikloon_50": 0
+            "master_crypt_undead_minikloon_50": 0,
+            "slime_15": 0
           },
           "migration": true,
           "milestone": {
@@ -15588,7 +15589,9 @@
               "mining_speed_boost": 0,
               "toggle_mining_speed_boost": true,
               "sheer_force": 0,
-              "toggle_sheer_force": true
+              "toggle_sheer_force": true,
+              "front_loaded": 0,
+              "toggle_front_loaded": true
             },
             "mining_3": {
               "core_of_the_mountain": 0,

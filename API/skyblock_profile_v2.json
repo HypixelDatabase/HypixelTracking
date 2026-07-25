@@ -121,7 +121,15 @@
               "walk_speed": 0
             },
             "slot_8": {
-              "purchase_ts": 0
+              "purchase_ts": 0,
+              "health": 0,
+              "defense": 0,
+              "walk_speed": 0,
+              "strength": 0,
+              "critical_damage": 0,
+              "critical_chance": 0,
+              "attack_speed": 0,
+              "intelligence": 0
             }
           },
           "unlocked_powers": [],
@@ -4775,7 +4783,10 @@
             "crypt_undead_valentin_40": 0,
             "master_crypt_undead_sfarnham_55": 0,
             "master_crypt_undead_likaos_55": 0,
-            "crypt_undead_orangemarshall_25": 0
+            "crypt_undead_orangemarshall_25": 0,
+            "nurse_shark_6": 0,
+            "blue_shark_20": 0,
+            "zombie_15": 0
           },
           "migration": true,
           "milestone": {
@@ -10244,7 +10255,9 @@
             "master_crypt_undead_cecer": 0,
             "crypt_undead_valentin": 0,
             "dante_goon": 0,
-            "crypt_undead_orangemarshall": 0
+            "crypt_undead_orangemarshall": 0,
+            "nurse_shark": 0,
+            "blue_shark": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11534,7 +11547,9 @@
             "enderman_6": 0,
             "skeleton_10": 0,
             "spider_2": 0,
-            "spider_11": 0
+            "spider_11": 0,
+            "skeleton_7": 0,
+            "zombie_5": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -15567,7 +15582,9 @@
               "gemstone_infusion": 0,
               "toggle_gemstone_infusion": true,
               "mining_speed_boost": 0,
-              "toggle_mining_speed_boost": true
+              "toggle_mining_speed_boost": true,
+              "sheer_force": 0,
+              "toggle_sheer_force": true
             },
             "mining_3": {
               "core_of_the_mountain": 0,

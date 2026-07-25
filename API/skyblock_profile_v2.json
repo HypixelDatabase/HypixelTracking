@@ -4789,7 +4789,8 @@
             "zombie_15": 0,
             "jockey_shot_silverfish_42": 0,
             "skeleton_13": 0,
-            "master_crypt_undead_orangemarshall_45": 0
+            "master_crypt_undead_orangemarshall_45": 0,
+            "master_crypt_undead_minikloon_50": 0
           },
           "migration": true,
           "milestone": {
@@ -16798,7 +16799,23 @@
               }
             },
             "11": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              }
             },
             "equipped_set": 0
           },

@@ -2018,7 +2018,9 @@
           "powder_spent_mithril_2": 0,
           "powder_spent_titanium_2": 0,
           "powder_spent_non_refundable_glacite": 0,
-          "powder_spent_non_refundable_glacite_2": 0
+          "powder_spent_non_refundable_glacite_2": 0,
+          "powder_spent_gemstone_3": 0,
+          "powder_spent_mithril_3": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -3746,7 +3748,8 @@
             "stranded_nymph_40": 0,
             "slime_12": 0,
             "cretan_bull_40": 0,
-            "slime_3": 0
+            "slime_3": 0,
+            "slime_6": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -9722,7 +9725,8 @@
           "ENCHANTED_WET_SPONGE": 0,
           "ENCHANTED_SLIME_BLOCK": 0,
           "ENCHANTED_QUARTZ_BLOCK": 0,
-          "RED_GIFT": 0
+          "RED_GIFT": 0,
+          "MUTANT_NETHER_STALK": 0
         },
         "player_stats": {
           "deaths": {
@@ -15552,7 +15556,57 @@
             },
             "mining_3": {
               "core_of_the_mountain": 0,
-              "toggle_core_of_the_mountain": true
+              "toggle_core_of_the_mountain": true,
+              "efficient_miner": 0,
+              "keep_it_cool": 0,
+              "lonesome_miner": 0,
+              "miners_blessing": 0,
+              "mining_fortune": 0,
+              "mining_speed": 0,
+              "mole": 0,
+              "no_stone_unturned": 0,
+              "powder_buff": 0,
+              "steady_hand": 0,
+              "strong_arm": 0,
+              "toggle_efficient_miner": true,
+              "toggle_keep_it_cool": true,
+              "toggle_lonesome_miner": true,
+              "toggle_miners_blessing": true,
+              "toggle_mining_fortune": true,
+              "toggle_mining_speed": true,
+              "toggle_mole": true,
+              "toggle_no_stone_unturned": true,
+              "toggle_powder_buff": true,
+              "toggle_steady_hand": true,
+              "toggle_strong_arm": true,
+              "gem_lover": 0,
+              "quick_forge": 0,
+              "seasoned_mineman": 0,
+              "toggle_gem_lover": true,
+              "toggle_quick_forge": true,
+              "toggle_seasoned_mineman": true,
+              "anomalous_desire": 0,
+              "blockhead": 0,
+              "daily_grind": 0,
+              "daily_powder": 0,
+              "great_explorer": 0,
+              "luck_of_the_cave": 0,
+              "old_school": 0,
+              "professional": 0,
+              "sky_mall": 0,
+              "speedy_mineman": 0,
+              "subterranean_fisher": 0,
+              "toggle_anomalous_desire": true,
+              "toggle_blockhead": true,
+              "toggle_daily_grind": true,
+              "toggle_daily_powder": true,
+              "toggle_great_explorer": true,
+              "toggle_luck_of_the_cave": true,
+              "toggle_old_school": true,
+              "toggle_professional": true,
+              "toggle_sky_mall": true,
+              "toggle_speedy_mineman": true,
+              "toggle_subterranean_fisher": true
             },
             "mining_4": {
               "core_of_the_mountain": 0,
@@ -15567,13 +15621,15 @@
             "mining": "",
             "foraging": "",
             "mining_2": "",
-            "foraging_2": ""
+            "foraging_2": "",
+            "mining_3": ""
           },
           "tokens_spent": {
             "mountain": 0,
             "forest": 0,
             "mountain_2": 0,
-            "forest_2": 0
+            "forest_2": 0,
+            "mountain_3": 0
           },
           "experience": {
             "mining": 0,

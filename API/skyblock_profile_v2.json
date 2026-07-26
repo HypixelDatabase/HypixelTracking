@@ -4797,7 +4797,8 @@
             "stranded_nymph_250": 0,
             "master_crypt_undead_donpireso_45": 0,
             "crypt_undead_mistresseldrid_25": 0,
-            "crypt_undead_mistresseldrid_55": 0
+            "crypt_undead_mistresseldrid_55": 0,
+            "lost_adventurer_113": 0
           },
           "migration": true,
           "milestone": {
@@ -6598,7 +6599,8 @@
             "mage_alchemist": 0,
             "Seffea": 0,
             "rhanora_cat_2": 0,
-            "jine": 0
+            "jine": 0,
+            "abiphone_dealer": 0
           },
           "choose_faction": {
             "status": "",
@@ -15384,7 +15386,9 @@
               "dust_collector": 0,
               "toggle_dust_collector": true,
               "gemstone_infusion": 0,
-              "toggle_gemstone_infusion": true
+              "toggle_gemstone_infusion": true,
+              "star_powder": 0,
+              "toggle_star_powder": true
             },
             "foraging": {
               "center_of_the_forest": 0,

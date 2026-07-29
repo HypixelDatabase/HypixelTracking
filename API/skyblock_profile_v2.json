@@ -2029,7 +2029,13 @@
           "powder_spent_non_refundable_glacite": 0,
           "powder_spent_non_refundable_glacite_2": 0,
           "powder_spent_gemstone_3": 0,
-          "powder_spent_mithril_3": 0
+          "powder_spent_mithril_3": 0,
+          "powder_spent_glacite_3": 0,
+          "powder_spent_titanium_3": 0,
+          "powder_spent_gemstone_4": 0,
+          "powder_spent_glacite_4": 0,
+          "powder_spent_mithril_4": 0,
+          "powder_spent_titanium_4": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -4804,7 +4810,8 @@
             "master_crypt_undead_connorlinfoot_25": 0,
             "master_dungeon_respawning_skeleton_skull_120": 0,
             "master_crypt_undead_agentk_45": 0,
-            "master_crypt_undead_jamiethegeek_55": 0
+            "master_crypt_undead_jamiethegeek_55": 0,
+            "manta_ray_124": 0
           },
           "migration": true,
           "milestone": {
@@ -10284,7 +10291,8 @@
             "crypt_undead_mistresseldrid": 0,
             "crypt_undead_donpireso": 0,
             "master_crypt_undead_bernhard": 0,
-            "master_crypt_undead_connorlinfoot": 0
+            "master_crypt_undead_connorlinfoot": 0,
+            "manta_ray": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11576,7 +11584,9 @@
             "spider_2": 0,
             "spider_11": 0,
             "skeleton_7": 0,
-            "zombie_5": 0
+            "zombie_5": 0,
+            "zombie_1": 0,
+            "enderman_1": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -15669,11 +15679,79 @@
               "toggle_professional": true,
               "toggle_sky_mall": true,
               "toggle_speedy_mineman": true,
-              "toggle_subterranean_fisher": true
+              "toggle_subterranean_fisher": true,
+              "pickobulus": 0,
+              "toggle_pickobulus": true,
+              "maniac_miner": 0,
+              "toggle_maniac_miner": true,
+              "fortunate_mineman": 0,
+              "toggle_fortunate_mineman": true,
+              "surveyor": 0,
+              "toggle_surveyor": true,
+              "eager_adventurer": 0,
+              "toggle_eager_adventurer": true,
+              "vanguard_seeker": 0,
+              "toggle_vanguard_seeker": true,
+              "dead_mans_chest": 0,
+              "toggle_dead_mans_chest": true,
+              "mining_master": 0,
+              "toggle_mining_master": true,
+              "gifts_from_the_departed": 0,
+              "toggle_gifts_from_the_departed": true
             },
             "mining_4": {
               "core_of_the_mountain": 0,
-              "toggle_core_of_the_mountain": true
+              "toggle_core_of_the_mountain": true,
+              "mining_speed": 0,
+              "toggle_mining_speed": true,
+              "mining_fortune": 0,
+              "toggle_mining_fortune": true,
+              "titanium_insanium": 0,
+              "toggle_titanium_insanium": true,
+              "efficient_miner": 0,
+              "toggle_efficient_miner": true,
+              "mole": 0,
+              "toggle_mole": true,
+              "gem_lover": 0,
+              "toggle_gem_lover": true,
+              "seasoned_mineman": 0,
+              "toggle_seasoned_mineman": true,
+              "blockhead": 0,
+              "daily_grind": 0,
+              "daily_powder": 0,
+              "fortunate_mineman": 0,
+              "great_explorer": 0,
+              "luck_of_the_cave": 0,
+              "maniac_miner": 0,
+              "metal_head": 0,
+              "no_stone_unturned": 0,
+              "old_school": 0,
+              "powder_buff": 0,
+              "precision_mining": 0,
+              "professional": 0,
+              "quick_forge": 0,
+              "sky_mall": 0,
+              "speedy_mineman": 0,
+              "steady_hand": 0,
+              "strong_arm": 0,
+              "toggle_blockhead": true,
+              "toggle_daily_grind": true,
+              "toggle_daily_powder": true,
+              "toggle_fortunate_mineman": true,
+              "toggle_great_explorer": true,
+              "toggle_luck_of_the_cave": true,
+              "toggle_maniac_miner": true,
+              "toggle_metal_head": true,
+              "toggle_no_stone_unturned": true,
+              "toggle_old_school": true,
+              "toggle_powder_buff": true,
+              "toggle_precision_mining": true,
+              "toggle_professional": true,
+              "toggle_quick_forge": true,
+              "toggle_sky_mall": true,
+              "toggle_speedy_mineman": true,
+              "toggle_steady_hand": true,
+              "toggle_strong_arm": true
             },
             "mining_5": {
               "core_of_the_mountain": 0,
@@ -15685,14 +15763,16 @@
             "foraging": "",
             "mining_2": "",
             "foraging_2": "",
-            "mining_3": ""
+            "mining_3": "",
+            "mining_4": ""
           },
           "tokens_spent": {
             "mountain": 0,
             "forest": 0,
             "mountain_2": 0,
             "forest_2": 0,
-            "mountain_3": 0
+            "mountain_3": 0,
+            "mountain_4": 0
           },
           "experience": {
             "mining": 0,
@@ -15720,6 +15800,9 @@
             "custom_name": ""
           },
           "mining_3": {
+            "custom_name": ""
+          },
+          "mining_4": {
             "custom_name": ""
           }
         },
@@ -16843,6 +16926,21 @@
                 "data": ""
               },
               "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              }
+            },
+            "12": {
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
                 "type": 0,
                 "data": ""
               }

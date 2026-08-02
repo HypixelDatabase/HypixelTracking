@@ -15520,7 +15520,10 @@
               "damage_boost": 0,
               "toggle_damage_boost": true,
               "axe_toss": 0,
-              "toggle_axe_toss": true
+              "toggle_axe_toss": true,
+              "half_full": 0,
+              "toggle_half_full": true,
+              "toggle_half_empty": true
             },
             "foraging_3": {
               "center_of_the_forest": 0,

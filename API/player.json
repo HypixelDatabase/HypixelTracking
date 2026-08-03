@@ -12571,7 +12571,8 @@
             "prestige": 0,
             "skill_level_d": 0,
             "prestige_tag": {
-              "class_points_showcase": true
+              "class_points_showcase": true,
+              "type": ""
             }
           },
           "dreadlord": {
@@ -12657,7 +12658,8 @@
             "unlocked": true,
             "enderchest_rows": 0,
             "prestige_tag": {
-              "class_points_showcase": true
+              "class_points_showcase": true,
+              "type": ""
             },
             "golden_tag": true
           },
@@ -12829,7 +12831,11 @@
             "skill_level_c": 0,
             "skill_level_g": 0,
             "enderchest_rows": 0,
-            "prestige": 0
+            "prestige": 0,
+            "prestige_tag": {
+              "class_points_showcase": true,
+              "type": ""
+            }
           },
           "angel": {
             "unlocked": true,
@@ -12843,7 +12849,11 @@
           "dragon": {
             "unlocked": true,
             "enderchest_rows": 0,
-            "prestige": 0
+            "prestige": 0,
+            "prestige_tag": {
+              "class_points_showcase": true,
+              "type": ""
+            }
           }
         },
         "zombie_reclaimed": 0,
@@ -24306,7 +24316,51 @@
         "golem_a_defender_assists_gvg": 0,
         "moleman_a_final_kills_below_10_hp_face_off": 0,
         "herobrine_potions_splashed_gvg": 0,
-        "assassin_a_final_kills_melee_behind_face_off": 0
+        "assassin_a_final_kills_melee_behind_face_off": 0,
+        "shaman_final_kills_below_10_hp_gvg": 0,
+        "werewolf_a_defender_final_kills_face_off": 0,
+        "werewolf_final_kills_ranged_gvg": 0,
+        "shaman_iron_armor_gifted_december_gvg": 0,
+        "shaman_c_final_kills_below_10_hp_gvg": 0,
+        "shaman_c_final_kills_gvg": 0,
+        "shaman_c_final_kills_melee_gvg": 0,
+        "shaman_energy_syphoned_gvg": 0,
+        "pirate_kills_melee_behind_gvg": 0,
+        "automaton_diamond_ore_broken_gvg": 0,
+        "automaton_losses_gvg": 0,
+        "automaton_sword_crafted_gvg": 0,
+        "automaton_wither_kills_gvg": 0,
+        "spider_a_final_kills_melee_behind_gvg": 0,
+        "creeper_b_kills_gvg": 0,
+        "creeper_b_kills_melee_gvg": 0,
+        "creeper_b_total_kills_gvg": 0,
+        "creeper_final_kills_below_10_hp_gvg": 0,
+        "phoenix_final_kills_below_10_hp_gvg": 0,
+        "dreadlord_a_final_kills_below_10_hp_gvg": 0,
+        "cow_iron_armor_gifted_december_gvg": 0,
+        "hunter_iron_armor_gifted_december_gvg": 0,
+        "hunter_iron_armor_gifted_gvg": 0,
+        "renegade_apples_eaten_gvg": 0,
+        "renegade_final_kills_ranged_30_gvg": 0,
+        "renegade_final_kills_ranged_gvg": 0,
+        "renegade_fish_eaten_gvg": 0,
+        "shark_bread_crafted_gvg": 0,
+        "creeper_a_final_kills_below_10_hp_gvg": 0,
+        "creeper_apples_eaten_gvg": 0,
+        "moleman_kills_ranged_face_off": 0,
+        "renegade_b_final_assists_after_final_killed": 0,
+        "renegade_b_final_assists_after_final_killed_standard": 0,
+        "dragon_a_defender_final_kills": 0,
+        "dragon_a_defender_final_kills_standard": 0,
+        "sheep_beds_crafted": 0,
+        "sheep_beds_crafted_standard": 0,
+        "sheep_beds_placed": 0,
+        "sheep_beds_placed_standard": 0,
+        "sheep_games_beds_placed": 0,
+        "sheep_games_beds_placed_standard": 0,
+        "dragon_b_final_kills_below_10_hp": 0,
+        "dragon_b_final_kills_below_10_hp_standard": 0,
+        "moleman_wither_kills_last_alive_standard": 0
       },
       "GingerBread": {
         "coins": 0,

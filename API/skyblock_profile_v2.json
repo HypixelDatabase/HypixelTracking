@@ -3854,7 +3854,12 @@
             "rockmite_1": 0,
             "gemzie_1": 0,
             "doomspiral_1": 0,
-            "billygoat_1": 0
+            "billygoat_1": 0,
+            "stag_beetle_29": 0,
+            "woodlouse_1": 0,
+            "hideonfloor_1": 0,
+            "wumpa_1": 0,
+            "queen_ant_69": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -4906,7 +4911,8 @@
             "giant_isopod_186": 0,
             "torrid_85": 0,
             "doomspiral_1": 0,
-            "silkbreeze_105": 0
+            "silkbreeze_105": 0,
+            "wumpa_1": 0
           },
           "migration": true,
           "milestone": {
@@ -10407,7 +10413,8 @@
             "giant_isopod": 0,
             "torrid": 0,
             "doomspiral": 0,
-            "silkbreeze": 0
+            "silkbreeze": 0,
+            "wumpa": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11740,7 +11747,12 @@
             "sepialot": 0,
             "parched": 0,
             "grizzly_bear_101": 0,
-            "parched_58": 0
+            "parched_58": 0,
+            "stag_beetle": 0,
+            "woodlouse": 0,
+            "ant_32": 0,
+            "queen_ant": 0,
+            "queen_ant_69": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -12138,7 +12150,8 @@
             "miria_helix_personal_best": 0,
             "miria_power": 0,
             "quickdraw": 0,
-            "miria_helix_fortune": 0
+            "miria_helix_fortune": 0,
+            "critter_catcher": 0
           },
           "visited_modes": [],
           "experience": {
@@ -12949,7 +12962,8 @@
             "SEA_LUMIES_10",
             "HELIX_LOG_9",
             "HONEYCOMB_7",
-            "RUBY_VEILSHROOM_9"
+            "RUBY_VEILSHROOM_9",
+            "HONEYCOMB_6"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -15743,7 +15757,15 @@
               "toggle_axe_toss": true,
               "half_full": 0,
               "toggle_half_full": true,
-              "toggle_half_empty": true
+              "toggle_half_empty": true,
+              "free_trial": 0,
+              "iron_lungs": 0,
+              "starlyn_supreme": 0,
+              "toggle_free_trial": true,
+              "toggle_iron_lungs": true,
+              "toggle_starlyn_supreme": true,
+              "forest_fisher": 0,
+              "toggle_forest_fisher": true
             },
             "foraging_3": {
               "center_of_the_forest": 0,
@@ -16565,7 +16587,14 @@
             "pest_cooldown": 0,
             "queenly_echo": 0,
             "torrhus_serendipity": 0,
-            "echo_of_buckets": 0
+            "echo_of_buckets": 0,
+            "mutation_serendipity": 0,
+            "visitor_cheese": 0,
+            "woodland_resistance": 0,
+            "woodland_fortune": 0,
+            "helix_sharpening": 0,
+            "elusive_ruler": 0,
+            "queen_tracker": 0
           }
         },
         "loadout": {
@@ -17466,7 +17495,8 @@
               "equipment_set_id": 0,
               "power_stone": "",
               "tuning_points_slot": 0,
-              "pet": ""
+              "pet": "",
+              "foraging_core_selected_slot": 0
             },
             "15": {
               "id": 0,

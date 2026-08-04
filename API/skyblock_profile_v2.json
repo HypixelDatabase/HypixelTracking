@@ -3765,7 +3765,62 @@
             "slime_12": 0,
             "cretan_bull_40": 0,
             "slime_3": 0,
-            "slime_6": 0
+            "slime_6": 0,
+            "azure_2": 0,
+            "bambuleaf_5": 0,
+            "birries_10": 0,
+            "cod_2": 0,
+            "coralot_1": 0,
+            "dreadwing_10": 0,
+            "hideonleaf_12": 0,
+            "invisibug_4": 0,
+            "joydive_5": 0,
+            "lumisquid_10": 0,
+            "mochibear_5": 0,
+            "mossybit_9": 0,
+            "phanflare_10": 0,
+            "phanpyre_10": 0,
+            "salmon_2": 0,
+            "shellwise_10": 0,
+            "spike_pufferfish_5": 0,
+            "verdant_2": 0,
+            "honeybuzz_9": 0,
+            "puck_58": 0,
+            "brineling_58": 0,
+            "bunbun_4": 0,
+            "firefox_32": 0,
+            "haggard_44": 0,
+            "sprawl_71": 0,
+            "torrid_85": 0,
+            "grizzly_bear_101": 0,
+            "ember_4": 0,
+            "groundhog_42": 0,
+            "mountain_goat_55": 0,
+            "solar_2": 0,
+            "timil_1": 0,
+            "beeheemoth_158": 0,
+            "pollendart_24": 0,
+            "shrieky_tiki_71": 0,
+            "drybark_80": 0,
+            "dustybit_9": 0,
+            "pangolin_14": 0,
+            "hideonsun_24": 0,
+            "sneaky_tiki_71": 0,
+            "silkbreeze_105": 0,
+            "giant_isopod_186": 0,
+            "solsnatcher_1": 0,
+            "duplico_1": 0,
+            "hideyho_1": 0,
+            "areita_1": 0,
+            "litterbug_1": 0,
+            "foxtrot_1": 0,
+            "treefrog_1": 0,
+            "honeybug_1": 0,
+            "woodchucker_1": 0,
+            "fluffling_1": 0,
+            "parakeet_1": 0,
+            "ant_32": 0,
+            "water_snake_35": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -4812,7 +4867,12 @@
             "master_dungeon_respawning_skeleton_skull_120": 0,
             "master_crypt_undead_agentk_45": 0,
             "master_crypt_undead_jamiethegeek_55": 0,
-            "manta_ray_124": 0
+            "manta_ray_124": 0,
+            "drybark_80": 0,
+            "giant_isopod_186": 0,
+            "torrid_85": 0,
+            "doomspiral_1": 0,
+            "silkbreeze_105": 0
           },
           "migration": true,
           "milestone": {
@@ -5557,7 +5617,9 @@
             "stat_unlock_notification_VITALITY_healingrevamp",
             "anniversary_cinematic_2025",
             "skyblockxp_5",
-            "zone_limbo"
+            "zone_limbo",
+            "stat_unlock_notification_charm_chance",
+            "closed_helia_menu"
           ],
           "collect_log": {
             "status": "",
@@ -9542,6 +9604,16 @@
             "status": "",
             "progress": 0,
             "completed_at": 0
+          },
+          "talk_to_helia": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
+          },
+          "talk_to_miria": {
+            "status": "",
+            "progress": 0,
+            "completed_at": 0
           }
         },
         "collection": {
@@ -9777,7 +9849,10 @@
           "ENCHANTED_CACTUS": 0,
           "ENCHANTED_SULPHUR_CUBE": 0,
           "HYPERGOLIC_IONIZED_CERAMICS": 0,
-          "GLASS": 0
+          "GLASS": 0,
+          "HELIX_LOG": 0,
+          "HONEYCOMB": 0,
+          "RUBY_VEILSHROOM": 0
         },
         "player_stats": {
           "deaths": {
@@ -10293,7 +10368,12 @@
             "crypt_undead_donpireso": 0,
             "master_crypt_undead_bernhard": 0,
             "master_crypt_undead_connorlinfoot": 0,
-            "manta_ray": 0
+            "manta_ray": 0,
+            "drybark": 0,
+            "giant_isopod": 0,
+            "torrid": 0,
+            "doomspiral": 0,
+            "silkbreeze": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11587,7 +11667,37 @@
             "skeleton_7": 0,
             "zombie_5": 0,
             "zombie_1": 0,
-            "enderman_1": 0
+            "enderman_1": 0,
+            "honeybuzz": 0,
+            "puck": 0,
+            "brineling": 0,
+            "bunbun": 0,
+            "firefox": 0,
+            "haggard": 0,
+            "sprawl": 0,
+            "torrid": 0,
+            "grizzly_bear": 0,
+            "ember": 0,
+            "groundhog": 0,
+            "mountain_goat": 0,
+            "solar": 0,
+            "timil": 0,
+            "pollendart": 0,
+            "shrieky_tiki": 0,
+            "drybark": 0,
+            "dustybit": 0,
+            "pangolin": 0,
+            "hideonsun": 0,
+            "sneaky_tiki": 0,
+            "brineling_58": 0,
+            "haggard_44": 0,
+            "sprawl_71": 0,
+            "torrid_85": 0,
+            "silkbreeze": 0,
+            "silkbreeze_105": 0,
+            "giant_isopod_186": 0,
+            "giant_isopod": 0,
+            "ant": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -12764,7 +12874,32 @@
             "LOTUS_2",
             "LOTUS_3",
             "LOTUS_6",
-            "LOTUS_11"
+            "LOTUS_11",
+            "HONEYCOMB_-1",
+            "HELIX_LOG_-1",
+            "HONEYCOMB_2",
+            "HONEYCOMB_1",
+            "HELIX_LOG_1",
+            "HONEYCOMB_3",
+            "HELIX_LOG_5",
+            "HELIX_LOG_2",
+            "RUBY_VEILSHROOM_8",
+            "RUBY_VEILSHROOM_5",
+            "RUBY_VEILSHROOM_4",
+            "RUBY_VEILSHROOM_7",
+            "RUBY_VEILSHROOM_6",
+            "RUBY_VEILSHROOM_1",
+            "RUBY_VEILSHROOM_3",
+            "RUBY_VEILSHROOM_2",
+            "HONEYCOMB_5",
+            "HONEYCOMB_4",
+            "HELIX_LOG_4",
+            "HELIX_LOG_7",
+            "HELIX_LOG_6",
+            "HELIX_LOG_8",
+            "HELIX_LOG_3",
+            "RUBY_VEILSHROOM_-1",
+            "SEA_LUMIES_10"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -13073,7 +13208,22 @@
             "security_hall_main",
             "michaels_crib",
             "limbo",
-            "inside_the_wall"
+            "inside_the_wall",
+            "torrhus_safari_entrance",
+            "mirias_hut",
+            "torrhus_springs",
+            "torrhus_canyon",
+            "torrhus_heights",
+            "spring_shallows",
+            "spring_path",
+            "spring_depths",
+            "desert_temple",
+            "pangolin_hideaway",
+            "ants_cave",
+            "hotspot_haven",
+            "safari_forest",
+            "safari_entrance",
+            "safari_haunted"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -14003,7 +14153,15 @@
             "RUNE_PRIMAL_FEAR_3": 0,
             "RUNE_FIERY_BURST_3": 0,
             "RUNE_SLIMY_3": 0,
-            "RUNE_RAINY_DAY_3": 0
+            "RUNE_RAINY_DAY_3": 0,
+            "ENCHANTED_HELIX_LOG": 0,
+            "ENCHANTED_HONEYCOMB": 0,
+            "HELIX_LOG": 0,
+            "HONEYCOMB": 0,
+            "ENCHANTED_RUBY_VEILSHROOM": 0,
+            "RUBY_VEILSHROOM": 0,
+            "MIRIA_COUPON": 0,
+            "HELIXIS": 0
           },
           "backpack_contents": {
             "0": {
@@ -14960,7 +15118,8 @@
                 "dungeon_hub": [],
                 "fishing_1": [],
                 "foraging_2": [],
-                "lotus_atoll": []
+                "lotus_atoll": [],
+                "foraging_3": []
               },
               "bugatti": 0,
               "ember": 0,
@@ -15468,7 +15627,15 @@
               "homing_axe": 0,
               "toggle_homing_axe": true,
               "ricochet": 0,
-              "toggle_ricochet": true
+              "toggle_ricochet": true,
+              "iron_lungs": 0,
+              "starlyn_supreme": 0,
+              "toggle_iron_lungs": true,
+              "toggle_starlyn_supreme": true,
+              "forest_fisher": 0,
+              "toggle_forest_fisher": true,
+              "free_trial": 0,
+              "toggle_free_trial": true
             },
             "foraging_2": {
               "center_of_the_forest": 0,
@@ -15776,7 +15943,10 @@
             "mountain_2": 0,
             "forest_2": 0,
             "mountain_3": 0,
-            "mountain_4": 0
+            "mountain_4": 0,
+            "forest_3": 0,
+            "forest_4": 0,
+            "forest_5": 0
           },
           "experience": {
             "mining": 0,
@@ -15808,7 +15978,8 @@
           },
           "mining_4": {
             "custom_name": ""
-          }
+          },
+          "last_free_trial_day": 0
         },
         "foraging": {
           "hina": {
@@ -15850,9 +16021,11 @@
             "FIG": 0,
             "milestone_tier_claimed": {
               "FIG": 0,
-              "MANGROVE": 0
+              "MANGROVE": 0,
+              "HELIX": 0
             },
-            "MANGROVE": 0
+            "MANGROVE": 0,
+            "HELIX": 0
           },
           "songs": {
             "harp": {
@@ -15905,7 +16078,8 @@
             "personal_bests": {
               "agatha": 0,
               "FIG_LOG": 0,
-              "MANGROVE_LOG": 0
+              "MANGROVE_LOG": 0,
+              "miria": 0
             }
           },
           "hunting_toolkit": {
@@ -15981,7 +16155,45 @@
           "current_daily_effect_last_changed": 0,
           "forests_whispers_spent_2": 0,
           "forests_whispers_spent_non_refundable": 0,
-          "forests_whispers_spent_non_refundable_2": 0
+          "forests_whispers_spent_non_refundable_2": 0,
+          "whispers": {
+            "forest": {
+              "1": {
+                "spent": 0
+              },
+              "2": {
+                "spent": 0
+              },
+              "3": {
+                "spent": 0
+              },
+              "4": {
+                "spent": 0
+              },
+              "5": {
+                "spent": 0
+              },
+              "total": 0
+            },
+            "desert": {
+              "1": {
+                "spent": 0
+              },
+              "2": {
+                "spent": 0
+              },
+              "3": {
+                "spent": 0
+              },
+              "4": {
+                "spent": 0
+              },
+              "5": {
+                "spent": 0
+              },
+              "total": 0
+            }
+          }
         },
         "shards": {
           "traps": {
@@ -16204,7 +16416,51 @@
             "golden_frog": 0,
             "lily_puncher": 0,
             "lily_tracker": 0,
-            "lotus_trophy": 0
+            "lotus_trophy": 0,
+            "chocolate_speed": 0,
+            "enchanted_farmer": 0,
+            "forest_serendipity": 0,
+            "hitman_cooldown": 0,
+            "honey_haul": 0,
+            "honey_refill": 0,
+            "legendary_rabbit_luck": 0,
+            "mythic_rabbit_luck": 0,
+            "skeletal_resistance": 0,
+            "sprayonator_serendipity": 0,
+            "torrhus_mastery": 0,
+            "diurnal_animal": 0,
+            "galatea_training": 0,
+            "social_wisdom": 0,
+            "starlyn_training": 0,
+            "tough_claws": 0,
+            "animal_ruler": 0,
+            "arcane_resistance": 0,
+            "lathering_greed": 0,
+            "torrhus_diver": 0,
+            "visitor_dung": 0,
+            "crop_speed": 0,
+            "aquatic_resistance": 0,
+            "boot_fisher": 0,
+            "combat_trap": 0,
+            "cubic_fortune": 0,
+            "foragers_fortune": 0,
+            "honey_speed": 0,
+            "pest_fortune": 0,
+            "sky_high": 0,
+            "thunder_speed": 0,
+            "dwarven_training": 0,
+            "mythological_ruler": 0,
+            "special_upgrades": 0,
+            "atomized_whispers": 0,
+            "arthropod_fortune": 0,
+            "battle_tracker": 0,
+            "flexible_fisher": 0,
+            "gold_box": 0,
+            "slayer_progress": 0,
+            "visitor_plant": 0,
+            "first_sweep": 0,
+            "fishers_fortune": 0,
+            "titanoboa_tracker": 0
           }
         },
         "loadout": {

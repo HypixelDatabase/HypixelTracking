@@ -1384,6 +1384,12 @@
               "feast_baker_scott": {
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
+              },
+              "miria": {
+                "completed_quest": true,
+                "last_call": 0,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "active_contacts": [],
@@ -3820,7 +3826,35 @@
             "fluffling_1": 0,
             "parakeet_1": 0,
             "ant_32": 0,
-            "water_snake_35": 0
+            "water_snake_35": 0,
+            "blue_jay_9": 0,
+            "gazer_1": 0,
+            "hideonwall_1": 0,
+            "gimmiegold_1": 0,
+            "bluebird_1": 0,
+            "driftling_1": 0,
+            "chuckwalla_1": 0,
+            "flitter_1": 0,
+            "snoozle_1": 0,
+            "hivethief_80": 0,
+            "polaris_1": 0,
+            "strongarm_1": 0,
+            "troodon_1": 0,
+            "mantis_shrimp_1": 0,
+            "nozzlenose_1": 0,
+            "tepid_1": 0,
+            "shyworm_1": 0,
+            "cavernfish_1": 0,
+            "scrappy_1": 0,
+            "cheeky_tiki_71": 0,
+            "sepialot_9": 0,
+            "parched_58": 0,
+            "shuddersquid_1": 0,
+            "bloodbat_1": 0,
+            "rockmite_1": 0,
+            "gemzie_1": 0,
+            "doomspiral_1": 0,
+            "billygoat_1": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -11697,7 +11731,16 @@
             "silkbreeze_105": 0,
             "giant_isopod_186": 0,
             "giant_isopod": 0,
-            "ant": 0
+            "ant": 0,
+            "blue_jay": 0,
+            "water_snake": 0,
+            "hivethief": 0,
+            "cheeky_tiki": 0,
+            "birries": 0,
+            "sepialot": 0,
+            "parched": 0,
+            "grizzly_bear_101": 0,
+            "parched_58": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -12091,7 +12134,11 @@
             "dwarven_expertise": 0,
             "prehistorian": 0,
             "resourceful": 0,
-            "sleight_of_hand": 0
+            "sleight_of_hand": 0,
+            "miria_helix_personal_best": 0,
+            "miria_power": 0,
+            "quickdraw": 0,
+            "miria_helix_fortune": 0
           },
           "visited_modes": [],
           "experience": {
@@ -12899,7 +12946,10 @@
             "HELIX_LOG_8",
             "HELIX_LOG_3",
             "RUBY_VEILSHROOM_-1",
-            "SEA_LUMIES_10"
+            "SEA_LUMIES_10",
+            "HELIX_LOG_9",
+            "HONEYCOMB_7",
+            "RUBY_VEILSHROOM_9"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -13223,7 +13273,9 @@
             "hotspot_haven",
             "safari_forest",
             "safari_entrance",
-            "safari_haunted"
+            "safari_haunted",
+            "safari_icy",
+            "safari_cavern"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -14161,7 +14213,8 @@
             "ENCHANTED_RUBY_VEILSHROOM": 0,
             "RUBY_VEILSHROOM": 0,
             "MIRIA_COUPON": 0,
-            "HELIXIS": 0
+            "HELIXIS": 0,
+            "MIRIA_PRIZE": 0
           },
           "backpack_contents": {
             "0": {
@@ -16079,7 +16132,8 @@
               "agatha": 0,
               "FIG_LOG": 0,
               "MANGROVE_LOG": 0,
-              "miria": 0
+              "miria": 0,
+              "HELIX_LOG": 0
             }
           },
           "hunting_toolkit": {
@@ -16460,7 +16514,58 @@
             "visitor_plant": 0,
             "first_sweep": 0,
             "fishers_fortune": 0,
-            "titanoboa_tracker": 0
+            "titanoboa_tracker": 0,
+            "aquatic_fortune": 0,
+            "divine_rabbit_luck": 0,
+            "axe_cooldown": 0,
+            "airborne_resistance": 0,
+            "construct_ruler": 0,
+            "arcane_fortune": 0,
+            "arcane_ruler": 0,
+            "battle_arachnid": 0,
+            "buckle_fisher": 0,
+            "elusive_fortune": 0,
+            "greedy_goblin": 0,
+            "soul_snatcher": 0,
+            "zealot_tracker": 0,
+            "airborne_ruler": 0,
+            "builder_discount": 0,
+            "devouring_spread": 0,
+            "foraging_frog": 0,
+            "foraging_speed": 0,
+            "foraging_tracker": 0,
+            "fortunate_miner": 0,
+            "sleepy_spread": 0,
+            "subterranean_fortune": 0,
+            "subterranean_ruler": 0,
+            "essence_of_fossils": 0,
+            "frozen_resistance": 0,
+            "frozen_ruler": 0,
+            "great_treasure": 0,
+            "honey_luck": 0,
+            "lake_fishing": 0,
+            "underwater_tracker": 0,
+            "cave_fishing": 0,
+            "scrap_chance": 0,
+            "subterranean_resistance": 0,
+            "visitor_honey": 0,
+            "bayou_treasure": 0,
+            "tiki_tracker": 0,
+            "bucket_greed": 0,
+            "visitor_compost": 0,
+            "yeti_tracker": 0,
+            "bartender_discount": 0,
+            "cavernous_tracker": 0,
+            "echo_of_tracking": 0,
+            "cold_resistance": 0,
+            "miracle_chance": 0,
+            "flying_fortune": 0,
+            "frozen_fortune": 0,
+            "forest_felling": 0,
+            "pest_cooldown": 0,
+            "queenly_echo": 0,
+            "torrhus_serendipity": 0,
+            "echo_of_buckets": 0
           }
         },
         "loadout": {

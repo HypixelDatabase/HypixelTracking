@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1784731062103,
-  "version": "0.26.1.0",
+  "lastUpdated": 1785854249571,
+  "version": "0.27.0.2",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -4625,7 +4625,7 @@
       "items": {
         "SEA_LUMIES": {
           "name": "Sea Lumies",
-          "maxTiers": 9,
+          "maxTiers": 10,
           "tiers": [
             {
               "tier": 1,
@@ -4706,6 +4706,14 @@
                 "Pressure Artifact Recipe",
                 "+4 SkyBlock XP"
               ]
+            },
+            {
+              "tier": 10,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Gigantic Fishing Net Recipe",
+                "+4 SkyBlock XP"
+              ]
             }
           ]
         },
@@ -4783,6 +4791,84 @@
               "amountRequired": 25000,
               "unlocks": [
                 "Acacia Birdhouse Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "RUBY_VEILSHROOM": {
+          "name": "Ruby Veilshroom",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 25,
+              "unlocks": [
+                "Travel Scroll to Torrhus Springs Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 100,
+              "unlocks": [
+                "Enchanted Ruby Veilshroom Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 250,
+              "unlocks": [
+                "Accretion Talisman Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 500,
+              "unlocks": [
+                "June Bug Shard Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Accretion Ring Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Veilshroom Bunch Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Accretion Artifact Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Large Pocket Black Hole Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Veilshroom Bracelet Recipe",
                 "+4 SkyBlock XP"
               ]
             }
@@ -5189,7 +5275,7 @@
               "tier": 4,
               "amountRequired": 5000,
               "unlocks": [
-                "Mangrove Vine Recipe",
+                "Moonglade Belt Recipe",
                 "+4 SkyBlock XP"
               ]
             },
@@ -5230,6 +5316,90 @@
               "amountRequired": 150000,
               "unlocks": [
                 "+110,000 Foraging Experience",
+                "+1 Foraging Level Cap",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "HELIX_LOG": {
+          "name": "Helix Log",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 500,
+              "unlocks": [
+                "Travel Scroll to Torrhus Canyon Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Enchanted Helix Log Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 2500,
+              "unlocks": [
+                "Lumberjack Talisman Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Portal to the Torrhus Canyon Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Lumberjack Ring Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 25000,
+              "unlocks": [
+                "Helixis Recipe",
+                "Helix Chopper Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Hawk Shard Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 100000,
+              "unlocks": [
+                "Lumberjack Artifact Recipe",
+                "Helix Helmet Recipe",
+                "Helix Chestplate Recipe",
+                "Helix Leggings Recipe",
+                "Helix Boots Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 250000,
+              "unlocks": [
+                "+150,000 Foraging Experience",
                 "+1 Foraging Level Cap",
                 "+4 SkyBlock XP"
               ]
@@ -5313,6 +5483,87 @@
               "amountRequired": 25000,
               "unlocks": [
                 "Large Storage Recipe",
+                "+4 SkyBlock XP"
+              ]
+            }
+          ]
+        },
+        "HONEYCOMB": {
+          "name": "Honeycomb",
+          "maxTiers": 9,
+          "tiers": [
+            {
+              "tier": 1,
+              "amountRequired": 50,
+              "unlocks": [
+                "Honeycomb Talisman Recipe",
+                "Fun-Sized Pot of Honeycomb Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 2,
+              "amountRequired": 200,
+              "unlocks": [
+                "Enchanted Honeycomb Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 3,
+              "amountRequired": 500,
+              "unlocks": [
+                "Honeycomb Ring Recipe",
+                "Family-Sized Pot of Honeycomb Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 4,
+              "amountRequired": 1000,
+              "unlocks": [
+                "Honey Badger Shard Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 5,
+              "amountRequired": 2000,
+              "unlocks": [
+                "Honeycomb Artifact Recipe",
+                "Jumbo Pot of Honeycomb Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 6,
+              "amountRequired": 5000,
+              "unlocks": [
+                "Enchanted Honeycomb Block Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 7,
+              "amountRequired": 10000,
+              "unlocks": [
+                "Queen Bee Shard Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 8,
+              "amountRequired": 20000,
+              "unlocks": [
+                "Bee Saliva Recipe",
+                "+4 SkyBlock XP"
+              ]
+            },
+            {
+              "tier": 9,
+              "amountRequired": 50000,
+              "unlocks": [
+                "Honeycomb Necklace Recipe",
                 "+4 SkyBlock XP"
               ]
             }

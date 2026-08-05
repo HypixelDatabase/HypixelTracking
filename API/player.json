@@ -40259,7 +40259,9 @@
         "fastest_win_tourney_kit_advanced_solo_engineer": 0,
         "longest_bow_kill_tourney_kit_advanced_solo_engineer": 0,
         "longest_bow_shot_tourney_kit_advanced_solo_engineer": 0,
-        "challenge_wins_0_kit_supporting_team_enchanter": 0
+        "challenge_wins_0_kit_supporting_team_enchanter": 0,
+        "challenge_wins_2_kit_advanced_solo_engineer": 0,
+        "challenge_wins_3_kit_advanced_solo_engineer": 0
       },
       "TrueCombat": {
         "coins": 0,
@@ -41974,7 +41976,9 @@
               "smashed": 0,
               "smashed_normal": 0,
               "smashed_2v2": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "kills": 0,
+              "kills_2v2": 0
             },
             "batarang": {
               "smashed": 0,
@@ -68233,7 +68237,8 @@
         "ARCADE__pixel_painters_challenge": 0,
         "TNTGAMES__bow_spleef_challenge": 0,
         "WOOL_GAMES__wool_wars_challenge": 0,
-        "SURVIVAL_GAMES__iron_man_challenge": 0
+        "SURVIVAL_GAMES__iron_man_challenge": 0,
+        "ARCADE__bounty_hunter_challenge": 0
       },
       "day_l": {
         "DUELS__feed_the_void_challenge": 0,

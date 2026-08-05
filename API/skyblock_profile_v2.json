@@ -15811,7 +15811,14 @@
               "forest_fisher": 0,
               "toggle_forest_fisher": true,
               "maniac_slicer": 0,
-              "toggle_maniac_slicer": true
+              "toggle_maniac_slicer": true,
+              "beekeeper": 0,
+              "timber": 0,
+              "toggle_beekeeper": true,
+              "toggle_timber": true,
+              "toggle_two_for_one": true,
+              "two_for_one": 0,
+              "half_empty": 0
             },
             "foraging_3": {
               "center_of_the_forest": 0,
@@ -16315,7 +16322,9 @@
               },
               "total": 0
             }
-          }
+          },
+          "beekeeper_effect": "",
+          "beekeeper_effect_last_changed": 0
         },
         "shards": {
           "traps": {
@@ -16662,7 +16671,9 @@
             "treasure_fisher": 0,
             "cocoon_chance": 0,
             "glossy_fortune": 0,
-            "witchs_fortune": 0
+            "witchs_fortune": 0,
+            "pickaxe_cooldown": 0,
+            "ticket_discount": 0
           }
         },
         "loadout": {

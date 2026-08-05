@@ -1389,7 +1389,8 @@
                 "completed_quest": true,
                 "last_call": 0,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "dnd_enabled": true
               }
             },
             "active_contacts": [],
@@ -3863,7 +3864,9 @@
             "macaw_1": 0,
             "hewver_69": 0,
             "honeyhog_32": 0,
-            "goldolot_13": 0
+            "goldolot_13": 0,
+            "honeymite_52": 0,
+            "murkbat_58": 0
           },
           "deaths": {
             "enderman_1": 0,
@@ -4917,7 +4920,8 @@
             "doomspiral_1": 0,
             "silkbreeze_105": 0,
             "wumpa_1": 0,
-            "polaris_1": 0
+            "polaris_1": 0,
+            "water_snake_35": 0
           },
           "migration": true,
           "milestone": {
@@ -10420,7 +10424,8 @@
             "doomspiral": 0,
             "silkbreeze": 0,
             "wumpa": 0,
-            "polaris": 0
+            "polaris": 0,
+            "water_snake": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11765,7 +11770,9 @@
             "goldolot": 0,
             "cheeky_tiki_71": 0,
             "flavor_packed_fish": 0,
-            "sneaky_tiki_71": 0
+            "sneaky_tiki_71": 0,
+            "honeymite": 0,
+            "murkbat": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -12169,7 +12176,10 @@
             "fresh_footprints": 0,
             "thawing": 0,
             "amateur_hour": 0,
-            "hunting_hotspot": 0
+            "hunting_hotspot": 0,
+            "deep_diver": 0,
+            "critter_master": 0,
+            "sparkling_specialist": 0
           },
           "visited_modes": [],
           "experience": {
@@ -12982,7 +12992,8 @@
             "HONEYCOMB_7",
             "RUBY_VEILSHROOM_9",
             "HONEYCOMB_6",
-            "HONEYCOMB_8"
+            "HONEYCOMB_8",
+            "HONEYCOMB_9"
           ],
           "visited_zones": [
             "dynamic_portal_island",
@@ -14247,7 +14258,8 @@
             "RUBY_VEILSHROOM": 0,
             "MIRIA_COUPON": 0,
             "HELIXIS": 0,
-            "MIRIA_PRIZE": 0
+            "MIRIA_PRIZE": 0,
+            "RUNE_AXE_FADING_BLUE_1": 0
           },
           "backpack_contents": {
             "0": {
@@ -16629,7 +16641,8 @@
             "compost_speed": 0,
             "mite_spawner": 0,
             "crimson_essence": 0,
-            "slayer_discount": 0
+            "slayer_discount": 0,
+            "rekindle": 0
           }
         },
         "loadout": {

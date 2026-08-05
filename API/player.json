@@ -8983,7 +8983,11 @@
         "kit_item_rename_MeatMaster_monster_egg": "",
         "tourney_blitz_duo_1_taunt_kills_fisherman": 0,
         "tourney_blitz_duo_2_taunt_kills_fisherman": 0,
-        "tourney_blitz_duo_2_taunt_kills_golem": 0
+        "tourney_blitz_duo_2_taunt_kills_golem": 0,
+        "kit_item_rename_Troll_monster_egg": "",
+        "kit_item_rename_Florist_red_rose": "",
+        "tourney_blitz_duo_1_wins_teams_troll": 0,
+        "tourney_blitz_duo_1_arrows_fired_troll": 0
       },
       "MCGO": {
         "bombs_defused": 0,
@@ -11414,12 +11418,17 @@
           "7": "",
           "8": "",
           "9": "",
+          "10": "",
+          "11": "",
           "12": "",
           "13": "",
           "14": "",
           "15": "",
           "16": "",
           "17": "",
+          "19": "",
+          "20": "",
+          "21": "",
           "23": "",
           "24": "",
           "25": "",
@@ -11428,6 +11437,7 @@
           "30": "",
           "32": "",
           "33": "",
+          "34": "",
           "35": ""
         },
         "InventoryLayout": {
@@ -24360,7 +24370,14 @@
         "sheep_games_beds_placed_standard": 0,
         "dragon_b_final_kills_below_10_hp": 0,
         "dragon_b_final_kills_below_10_hp_standard": 0,
-        "moleman_wither_kills_last_alive_standard": 0
+        "moleman_wither_kills_last_alive_standard": 0,
+        "spider_b_final_assists_gvg": 0,
+        "moleman_c_final_kills_melee_behind_standard": 0,
+        "snowman_b_total_final_kills_face_off": 0,
+        "snowman_b_final_assists_melee_face_off": 0,
+        "snowman_b_final_assists_face_off": 0,
+        "shaman_a_final_kills_below_10_hp_gvg": 0,
+        "shaman_fish_eaten_gvg": 0
       },
       "GingerBread": {
         "coins": 0,
@@ -46319,7 +46336,8 @@
               "smashed_normal": 0,
               "smashed_teams": 0,
               "kills": 0,
-              "kills_teams": 0
+              "kills_teams": 0,
+              "kills_normal": 0
             },
             "void_slash": {
               "smashed": 0,
@@ -59819,7 +59837,8 @@
         "ranked_loss_streak_potion_duel": 0,
         "blitz_ascended_title_prestige": 0,
         "ranked_1_snowman_kit_wins": 0,
-        "mw_duel_layout_automaton_new": {}
+        "mw_duel_layout_automaton_new": {},
+        "sw_duel_layout_witch_1": {}
       },
       "BuildBattle": {
         "wins": 0,

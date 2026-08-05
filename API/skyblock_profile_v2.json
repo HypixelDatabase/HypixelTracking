@@ -4924,7 +4924,8 @@
             "polaris_1": 0,
             "water_snake_35": 0,
             "cheeky_tiki_71": 0,
-            "mantis_shrimp_1": 0
+            "mantis_shrimp_1": 0,
+            "strongarm_1": 0
           },
           "migration": true,
           "milestone": {
@@ -10430,7 +10431,8 @@
             "polaris": 0,
             "water_snake": 0,
             "cheeky_tiki": 0,
-            "mantis_shrimp": 0
+            "mantis_shrimp": 0,
+            "strongarm": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -11782,7 +11784,9 @@
             "azure": 0,
             "cod": 0,
             "verdant": 0,
-            "salmon": 0
+            "salmon": 0,
+            "hideonleaf": 0,
+            "coralot": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -15746,7 +15750,11 @@
               "forest_fisher": 0,
               "toggle_forest_fisher": true,
               "free_trial": 0,
-              "toggle_free_trial": true
+              "toggle_free_trial": true,
+              "timber": 0,
+              "toggle_timber": true,
+              "two_for_one": 0,
+              "toggle_two_for_one": true
             },
             "foraging_2": {
               "center_of_the_forest": 0,

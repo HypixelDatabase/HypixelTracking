@@ -41862,7 +41862,8 @@
               "smashed_2v2": 0,
               "damage_dealt_3v3": 0,
               "kills_3v3": 0,
-              "smasher_3v3": 0
+              "smasher_3v3": 0,
+              "damage_dealtteams": 0
             },
             "melee": {
               "kills": 0,
@@ -41884,7 +41885,9 @@
               "damage_dealt_3v3": 0,
               "smashed_3v3": 0,
               "kills_3v3": 0,
-              "smasher_3v3": 0
+              "smasher_3v3": 0,
+              "damage_dealtteams": 0,
+              "killsteams": 0
             },
             "monster_charge": {
               "damage_dealt": 0,
@@ -41905,7 +41908,9 @@
               "damage_dealt_3v3": 0,
               "smasher_3v3": 0,
               "kills_3v3": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "killsteams": 0,
+              "damage_dealtteams": 0
             },
             "games": 0,
             "deaths_normal": 0,
@@ -41930,7 +41935,9 @@
               "kills_3v3": 0,
               "damage_dealt_3v3": 0,
               "smasher_3v3": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "killsteams": 0,
+              "damage_dealtteams": 0
             },
             "deaths": 0,
             "damage_dealt_normal": 0,
@@ -41953,7 +41960,8 @@
               "smashed_normal": 0,
               "smashed_2v2": 0,
               "smashed_teams": 0,
-              "damage_dealt_3v3": 0
+              "damage_dealt_3v3": 0,
+              "damage_dealtteams": 0
             },
             "smashed": 0,
             "smashed_normal": 0,
@@ -42094,7 +42102,8 @@
               "smashed_2v2": 0,
               "kills_2v2": 0,
               "kills": 0,
-              "smashed_3v3": 0
+              "smashed_3v3": 0,
+              "smashedteams": 0
             },
             "win_streak_teams": 0,
             "rocket_punch": {
@@ -42321,7 +42330,14 @@
               "smashed": 0,
               "smashed_normal": 0,
               "smashed_2v2": 0
-            }
+            },
+            "deathsteams": 0,
+            "winsteams": 0,
+            "smashedteams": 0,
+            "gamesteams": 0,
+            "win_streakteams": 0,
+            "killsteams": 0,
+            "damage_dealtteams": 0
           },
           "CAKE_MONSTER": {
             "swing_pin": {
@@ -42342,7 +42358,8 @@
               "smashed_teams": 0,
               "smashed_normal": 0,
               "damage_dealt_3v3": 0,
-              "kills_3v3": 0
+              "kills_3v3": 0,
+              "damage_dealtteams": 0
             },
             "damage_dealt": 0,
             "damage_dealt_normal": 0,
@@ -42364,7 +42381,8 @@
               "kills_normal": 0,
               "smasher_normal": 0,
               "smashed_normal": 0,
-              "damage_dealt_3v3": 0
+              "damage_dealt_3v3": 0,
+              "damage_dealtteams": 0
             },
             "losses": 0,
             "losses_normal": 0,
@@ -42390,7 +42408,8 @@
               "smashed_normal": 0,
               "kills_3v3": 0,
               "damage_dealt_3v3": 0,
-              "smasher_3v3": 0
+              "smasher_3v3": 0,
+              "damage_dealtteams": 0
             },
             "win_streak": 0,
             "smashed_2v2": 0,
@@ -42423,7 +42442,9 @@
               "smashed_2v2": 0,
               "smasher_3v3": 0,
               "kills_3v3": 0,
-              "damage_dealt_3v3": 0
+              "damage_dealt_3v3": 0,
+              "damage_dealtteams": 0,
+              "killsteams": 0
             },
             "wins": 0,
             "deaths_2v2": 0,
@@ -42441,7 +42462,8 @@
               "smashed_normal": 0,
               "kills": 0,
               "kills_normal": 0,
-              "smashed_3v3": 0
+              "smashed_3v3": 0,
+              "smashedteams": 0
             },
             "smasher": 0,
             "batarang": {
@@ -42780,7 +42802,14 @@
             "damage_dealt_3v3": 0,
             "games_3v3": 0,
             "win_streak_3v3": 0,
-            "wins_3v3": 0
+            "wins_3v3": 0,
+            "killsteams": 0,
+            "gamesteams": 0,
+            "smashedteams": 0,
+            "damage_dealtteams": 0,
+            "winsteams": 0,
+            "win_streakteams": 0,
+            "deathsteams": 0
           },
           "MARAUDER": {
             "melee": {
@@ -47799,7 +47828,13 @@
         "votes_Reconcile": 0,
         "votes_Solaris Templum": 0,
         "wins_3v3": 0,
-        "votes_Laboratory": 0
+        "votes_Laboratory": 0,
+        "smashedteams": 0,
+        "killsteams": 0,
+        "gamesteams": 0,
+        "winsteams": 0,
+        "damage_dealtteams": 0,
+        "deathsteams": 0
       },
       "SpeedUHC": {
         "killstreak": 0,

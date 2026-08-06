@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1785853949474,
+  "lastUpdated": 1786024349508,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -11995,7 +11995,9 @@
           "points": 10,
           "name": "Cleaning House",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "I_OWN_THIS_PLACE": {
           "points": 5,
@@ -12093,7 +12095,9 @@
           "points": 5,
           "name": "What the flip?",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "ROUGH_DEAL": {
           "points": 5,
@@ -12402,7 +12406,9 @@
           "points": 15,
           "name": "The Miracle in a Sunbeam",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "RESPONSIBLE_PET_OWNER": {
           "points": 5,

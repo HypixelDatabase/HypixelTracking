@@ -16359,10 +16359,12 @@
             },
             "desert": {
               "1": {
-                "spent": 0
+                "spent": 0,
+                "spent_non_refundable": 0
               },
               "2": {
-                "spent": 0
+                "spent": 0,
+                "spent_non_refundable": 0
               },
               "3": {
                 "spent": 0

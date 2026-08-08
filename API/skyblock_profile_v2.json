@@ -15885,7 +15885,13 @@
               "lottery": 0,
               "ricochet": 0,
               "toggle_lottery": true,
-              "toggle_ricochet": true
+              "toggle_ricochet": true,
+              "forest_fisher": 0,
+              "homing_axe": 0,
+              "strength_boost": 0,
+              "toggle_forest_fisher": true,
+              "toggle_homing_axe": true,
+              "toggle_strength_boost": true
             },
             "foraging_4": {
               "center_of_the_forest": 0,
@@ -16204,7 +16210,10 @@
           "mining_4": {
             "custom_name": ""
           },
-          "last_free_trial_day": 0
+          "last_free_trial_day": 0,
+          "foraging_3": {
+            "custom_name": ""
+          }
         },
         "foraging": {
           "hina": {

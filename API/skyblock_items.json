@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1786466288520,
+  "lastUpdated": 1786567274674,
   "items": [
     {
       "material": "SKULL_ITEM",
@@ -78671,9 +78671,13 @@
       "material": "DIAMOND_AXE",
       "name": "%%green%%Axe Preview %%gray%%(Right-Click)",
       "description": "Use to preview the current axe rune!",
+      "category": "AXE",
       "soulbound": "SOLO",
       "tier": "SPECIAL",
       "serializable": false,
+      "stats": {
+        "sweep": 5
+      },
       "id": "AXE_PREVIEW"
     },
     {

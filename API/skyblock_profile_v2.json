@@ -12230,7 +12230,8 @@
             "SKILL_ALCHEMY": 0,
             "SKILL_MINING": 0,
             "SKILL_DUNGEONEERING": 0,
-            "SKILL_HUNTING": 0
+            "SKILL_HUNTING": 0,
+            "SKILL_FORAGING_extra_level_cap": 0
           },
           "fastest_target_practice": 0,
           "death_count": 0,
@@ -13396,7 +13397,9 @@
             "sowledge": 0,
             "synthesis": 0,
             "vermin_vaporizer": 0
-          }
+          },
+          "isopod_husks_eaten": 0,
+          "bee_saliva_eaten": 0
         },
         "inventory": {
           "inv_armor": {
@@ -14401,6 +14404,9 @@
               "current": 0
             },
             "GOLD": {
+              "current": 0
+            },
+            "SAFARI": {
               "current": 0
             }
           },
@@ -16392,6 +16398,40 @@
               }
             ],
             "IS_UNLOCKED": true
+          },
+          "honey": {
+            "refill_times": {
+              "hive_13": 0,
+              "hive_14": 0,
+              "hive_1": 0,
+              "hive_10": 0,
+              "hive_11": 0,
+              "hive_12": 0,
+              "hive_15": 0,
+              "hive_16": 0,
+              "hive_17": 0,
+              "hive_18": 0,
+              "hive_19": 0,
+              "hive_2": 0,
+              "hive_4": 0,
+              "hive_5": 0,
+              "hive_6": 0,
+              "hive_7": 0,
+              "hive_8": 0,
+              "hive_9": 0
+            },
+            "smeared_trees": {
+              "fig_2": 0,
+              "fig_3": 0,
+              "mangrove_3": 0,
+              "fig_1": 0,
+              "mangrove_1": 0,
+              "mangrove_2": 0,
+              "helix_1": 0,
+              "helix_3": 0,
+              "helix_mega": 0,
+              "helix_2": 0
+            }
           }
         },
         "foraging_core": {
@@ -17776,6 +17816,29 @@
               "name": ""
             }
           }
+        },
+        "safari": {
+          "milestone_claimed_tiers": {
+            "haunted": 0,
+            "forest": 0,
+            "cavern": 0,
+            "icy": 0
+          },
+          "tickets": {
+            "economy": 0,
+            "basic": 0,
+            "first_class": 0,
+            "premium": 0
+          },
+          "biome_captures": {
+            "haunted": 0,
+            "forest": 0,
+            "cavern": 0,
+            "icy": 0
+          },
+          "discovered_critters": [],
+          "discovered_sparkling_critters": [],
+          "total_captured_sparkling_critters": 0
         }
       }
     },

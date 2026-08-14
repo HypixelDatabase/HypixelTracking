@@ -15950,7 +15950,20 @@
               "lottery": 0,
               "luck_of_the_forest": 0,
               "toggle_lottery": true,
-              "toggle_luck_of_the_forest": true
+              "toggle_luck_of_the_forest": true,
+              "beekeeper": 0,
+              "daily_wishes": 0,
+              "early_bird": 0,
+              "forest_strength": 0,
+              "free_trial": 0,
+              "half_full": 0,
+              "toggle_beekeeper": true,
+              "toggle_daily_wishes": true,
+              "toggle_early_bird": true,
+              "toggle_forest_strength": true,
+              "toggle_free_trial": true,
+              "toggle_half_empty": true,
+              "toggle_half_full": true
             },
             "foraging_5": {
               "center_of_the_forest": 0,

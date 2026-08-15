@@ -16135,7 +16135,13 @@
               "gifts_from_the_departed": 0,
               "toggle_gifts_from_the_departed": true,
               "precision_mining": 0,
-              "toggle_precision_mining": true
+              "toggle_precision_mining": true,
+              "front_loaded": 0,
+              "metal_head": 0,
+              "toggle_front_loaded": true,
+              "toggle_metal_head": true,
+              "toggle_warm_heart": true,
+              "warm_heart": 0
             },
             "mining_4": {
               "core_of_the_mountain": 0,

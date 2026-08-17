@@ -15963,7 +15963,14 @@
               "toggle_forest_strength": true,
               "toggle_free_trial": true,
               "toggle_half_empty": true,
-              "toggle_half_full": true
+              "toggle_half_full": true,
+              "tree_whisperer": 0,
+              "toggle_tree_whisperer": true,
+              "half_empty": 0,
+              "forest_speed": 0,
+              "toggle_forest_speed": true,
+              "homing_axe": 0,
+              "toggle_homing_axe": true
             },
             "foraging_5": {
               "center_of_the_forest": 0,
@@ -16256,6 +16263,9 @@
           },
           "last_free_trial_day": 0,
           "foraging_3": {
+            "custom_name": ""
+          },
+          "foraging_4": {
             "custom_name": ""
           }
         },

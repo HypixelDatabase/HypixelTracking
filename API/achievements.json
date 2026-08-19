@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1786024349508,
+  "lastUpdated": 1787158949509,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -2500,7 +2500,9 @@
         "LUCID_DREAMS_OF_FEASTFOOD": {
           "points": 20,
           "name": "Lucid Dreams of Feastfood",
-          "description": "Purchase the Dessert Boon from the Dreamfeast"
+          "description": "Purchase the Dessert Boon from the Dreamfeast",
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "FIRST": {
           "points": 5,

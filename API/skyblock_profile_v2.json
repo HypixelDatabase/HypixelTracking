@@ -15868,7 +15868,9 @@
               "toggle_timber": true,
               "toggle_two_for_one": true,
               "two_for_one": 0,
-              "half_empty": 0
+              "half_empty": 0,
+              "precision_cutting": 0,
+              "toggle_precision_cutting": true
             },
             "foraging_3": {
               "center_of_the_forest": 0,

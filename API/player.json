@@ -11548,7 +11548,7 @@
         "votes_Siege": 0
       },
       "Walls3": {
-        "blood": true,
+        "blood": "",
         "chosen_class": "",
         "coins": 0,
         "creeper_a": 0,
@@ -40270,7 +40270,8 @@
         "challenge_wins_3_kit_advanced_solo_engineer": 0,
         "challenge_wins_8_kit_attacking_team_engineer": 0,
         "challenge_wins_ultimate_warrior_kit_attacking_team_engineer": 0,
-        "challenge_wins_no_chest_kit_attacking_team_engineer": 0
+        "challenge_wins_no_chest_kit_attacking_team_engineer": 0,
+        "challenge_wins_5_kit_basic_solo_troll": 0
       },
       "TrueCombat": {
         "coins": 0,

@@ -1,7 +1,7 @@
 {
   "success": true,
-  "lastUpdated": 1785854249571,
-  "version": "0.27.0.2",
+  "lastUpdated": 1787577749549,
+  "version": "0.27.0.20",
   "collections": {
     "FARMING": {
       "name": "Farming",
@@ -5021,6 +5021,7 @@
               "tier": 8,
               "amountRequired": 800,
               "unlocks": [
+                "Marshroom Recipe",
                 "+50,000 Hunting Experience",
                 "+50,000 Foraging Experience",
                 "+4 SkyBlock XP"

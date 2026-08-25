@@ -4946,7 +4946,8 @@
             "duelist_kaus_7": 0,
             "brineling_58": 0,
             "shrieky_tiki_71": 0,
-            "billygoat_1": 0
+            "billygoat_1": 0,
+            "stag_beetle_29": 0
           },
           "migration": true,
           "milestone": {
@@ -10461,7 +10462,8 @@
             "duelist_kaus": 0,
             "brineling": 0,
             "shrieky_tiki": 0,
-            "billygoat": 0
+            "billygoat": 0,
+            "stag_beetle": 0
           },
           "kills": {
             "mushroom_cow": 0,
@@ -16000,7 +16002,11 @@
               "forest_speed": 0,
               "toggle_forest_speed": true,
               "homing_axe": 0,
-              "toggle_homing_axe": true
+              "toggle_homing_axe": true,
+              "collector": 0,
+              "toggle_collector": true,
+              "galateas_might": 0,
+              "toggle_galateas_might": true
             },
             "foraging_5": {
               "center_of_the_forest": 0,

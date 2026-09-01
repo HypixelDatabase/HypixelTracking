@@ -14324,7 +14324,12 @@
             "MIRIA_PRIZE": 0,
             "RUNE_AXE_FADING_BLUE_1": 0,
             "ENCHANTED_HONEYCOMB_BLOCK": 0,
-            "VEILSHROOM_BUNCH": 0
+            "VEILSHROOM_BUNCH": 0,
+            "HEMOGLASS": 0,
+            "HEMOVIBE": 0,
+            "ARACHNE_FRAGMENT": 0,
+            "ARACHNE_KEEPER_FRAGMENT": 0,
+            "SOUL_STRING": 0
           },
           "backpack_contents": {
             "0": {
@@ -15436,7 +15441,8 @@
               "ribbit": 0,
               "hopscotch": 0,
               "faction_level": 0,
-              "selected_faction": ""
+              "selected_faction": "",
+              "splash": 0
             },
             "time_tower": {
               "charges": 0,
@@ -15483,7 +15489,17 @@
               "egg_slot_cooldown_sum": 0,
               "egg_finder_last_found": 0
             },
-            "rabbit_hotspot_filer": ""
+            "rabbit_hotspot_filer": "",
+            "chocobits": {
+              "owned": [
+                {
+                  "id": 0,
+                  "owned_year": 0,
+                  "expiry_year": 0
+                }
+              ],
+              "total_found": 0
+            }
           }
         },
         "winter_player_data": {
@@ -16967,7 +16983,8 @@
             "outstanding_fisher": 0,
             "royal_riches": 0,
             "refined_luck": 0,
-            "ghastly_distraction": 0
+            "ghastly_distraction": 0,
+            "rabbit_youth": 0
           }
         },
         "loadout": {

@@ -16093,7 +16093,21 @@
             },
             "foraging_5": {
               "center_of_the_forest": 0,
-              "toggle_center_of_the_forest": true
+              "toggle_center_of_the_forest": true,
+              "250_gifts": 0,
+              "daily_wishes": 0,
+              "early_bird": 0,
+              "foraging_fortune": 0,
+              "free_trial": 0,
+              "hunters_luck": 0,
+              "sweep": 0,
+              "toggle_250_gifts": true,
+              "toggle_daily_wishes": true,
+              "toggle_early_bird": true,
+              "toggle_foraging_fortune": true,
+              "toggle_free_trial": true,
+              "toggle_hunters_luck": true,
+              "toggle_sweep": true
             },
             "mining_2": {
               "core_of_the_mountain": 0,
@@ -16434,6 +16448,9 @@
             "custom_name": ""
           },
           "mining_5": {
+            "custom_name": ""
+          },
+          "foraging_5": {
             "custom_name": ""
           }
         },

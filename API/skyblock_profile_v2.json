@@ -4949,7 +4949,8 @@
             "brineling_58": 0,
             "shrieky_tiki_71": 0,
             "billygoat_1": 0,
-            "stag_beetle_29": 0
+            "stag_beetle_29": 0,
+            "jockey_skeleton_42": 0
           },
           "migration": true,
           "milestone": {
@@ -16025,7 +16026,9 @@
               "collector": 0,
               "deep_waters": 0,
               "toggle_collector": true,
-              "toggle_deep_waters": true
+              "toggle_deep_waters": true,
+              "beekeeper": 0,
+              "toggle_beekeeper": true
             },
             "foraging_4": {
               "center_of_the_forest": 0,
@@ -16285,7 +16288,13 @@
               "crystalline": 0,
               "toggle_crystalline": true,
               "titanium_insanium": 0,
-              "toggle_titanium_insanium": true
+              "toggle_titanium_insanium": true,
+              "rags_to_riches": 0,
+              "toggle_rags_to_riches": true,
+              "mining_speed_boost": 0,
+              "toggle_mining_speed_boost": true,
+              "mineshaft_mayhem": 0,
+              "toggle_mineshaft_mayhem": true
             },
             "mining_4": {
               "core_of_the_mountain": 0,
@@ -16339,7 +16348,25 @@
               "toggle_sky_mall": true,
               "toggle_speedy_mineman": true,
               "toggle_steady_hand": true,
-              "toggle_strong_arm": true
+              "toggle_strong_arm": true,
+              "dead_mans_chest": 0,
+              "eager_adventurer": 0,
+              "keep_it_cool": 0,
+              "miners_blessing": 0,
+              "mining_speed_boost": 0,
+              "rags_to_riches": 0,
+              "surveyor": 0,
+              "toggle_dead_mans_chest": true,
+              "toggle_eager_adventurer": true,
+              "toggle_keep_it_cool": true,
+              "toggle_miners_blessing": true,
+              "toggle_mining_speed_boost": true,
+              "toggle_rags_to_riches": true,
+              "toggle_surveyor": true,
+              "toggle_vanguard_seeker": true,
+              "toggle_warm_heart": true,
+              "vanguard_seeker": 0,
+              "warm_heart": 0
             },
             "mining_5": {
               "core_of_the_mountain": 0,

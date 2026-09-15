@@ -1,4 +1,4 @@
-#moj_import <color_util.glsl>
+#include <color_util.glsl>
 
 vec4 getModifiedNormalColor(int color, float alpha) {
     return vec4((color >> 16 & 0xFF) / 255.0, (color >> 8 & 0xFF) / 255.0, (color & 0xFF) / 255.0, alpha);

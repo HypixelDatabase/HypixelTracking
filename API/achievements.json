@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1787158949509,
+  "lastUpdated": 1789496607845,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7601,6 +7601,11 @@
           "description": "Click the Achievements Guide in the Main Lobby",
           "globalPercentUnlocked": 1
         },
+        "DISCORD_APPROVED": {
+          "points": 5,
+          "name": "Discord Approved",
+          "description": "Join and link your account to the Hypixel Discord server"
+        },
         "LABYRINTHINE_COLLECTOR": {
           "points": 10,
           "name": "Main Lobby: Labyrinthine Collector",
@@ -7901,7 +7906,7 @@
           ]
         }
       },
-      "total_points": 625,
+      "total_points": 630,
       "total_legacy_points": 125
     },
     "gingerbread": {

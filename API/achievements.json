@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1789496607845,
+  "lastUpdated": 1789676607879,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -7604,7 +7604,8 @@
         "DISCORD_APPROVED": {
           "points": 5,
           "name": "Discord Approved",
-          "description": "Join and link your account to the Hypixel Discord server"
+          "description": "Join and link your account to the Hypixel Discord server",
+          "globalPercentUnlocked": 1
         },
         "LABYRINTHINE_COLLECTOR": {
           "points": 10,

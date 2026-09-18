@@ -2054,7 +2054,8 @@
           "powder_spent_gemstone_5": 0,
           "powder_spent_mithril_5": 0,
           "powder_spent_non_refundable_gemstone": 0,
-          "powder_spent_non_refundable_gemstone_2": 0
+          "powder_spent_non_refundable_gemstone_2": 0,
+          "powder_spent_glacite_5": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -16433,7 +16434,21 @@
               "precision_mining": 0,
               "toggle_mining_speed_boost": true,
               "toggle_pickobulus": true,
-              "toggle_precision_mining": true
+              "toggle_precision_mining": true,
+              "anomalous_desire": 0,
+              "toggle_anomalous_desire": true,
+              "miners_blessing": 0,
+              "no_stone_unturned": 0,
+              "toggle_miners_blessing": true,
+              "toggle_no_stone_unturned": true,
+              "daily_grind": 0,
+              "daily_powder": 0,
+              "front_loaded": 0,
+              "luck_of_the_cave": 0,
+              "toggle_daily_grind": true,
+              "toggle_daily_powder": true,
+              "toggle_front_loaded": true,
+              "toggle_luck_of_the_cave": true
             }
           },
           "selected_ability": {

@@ -2055,7 +2055,8 @@
           "powder_spent_mithril_5": 0,
           "powder_spent_non_refundable_gemstone": 0,
           "powder_spent_non_refundable_gemstone_2": 0,
-          "powder_spent_glacite_5": 0
+          "powder_spent_glacite_5": 0,
+          "powder_spent_titanium_5": 0
         },
         "bestiary": {
           "kills_zombie_1": 0,
@@ -16448,7 +16449,35 @@
               "toggle_daily_grind": true,
               "toggle_daily_powder": true,
               "toggle_front_loaded": true,
-              "toggle_luck_of_the_cave": true
+              "toggle_luck_of_the_cave": true,
+              "titanium_insanium": 0,
+              "toggle_titanium_insanium": true,
+              "powder_buff": 0,
+              "toggle_powder_buff": true,
+              "steady_hand": 0,
+              "toggle_steady_hand": true,
+              "strong_arm": 0,
+              "toggle_strong_arm": true,
+              "metal_head": 0,
+              "toggle_metal_head": true,
+              "dead_mans_chest": 0,
+              "eager_adventurer": 0,
+              "gifts_from_the_departed": 0,
+              "mineshaft_mayhem": 0,
+              "mining_master": 0,
+              "rags_to_riches": 0,
+              "surveyor": 0,
+              "toggle_dead_mans_chest": true,
+              "toggle_eager_adventurer": true,
+              "toggle_gifts_from_the_departed": true,
+              "toggle_mineshaft_mayhem": true,
+              "toggle_mining_master": true,
+              "toggle_rags_to_riches": true,
+              "toggle_surveyor": true,
+              "toggle_vanguard_seeker": true,
+              "toggle_warm_heart": true,
+              "vanguard_seeker": 0,
+              "warm_heart": 0
             }
           },
           "selected_ability": {

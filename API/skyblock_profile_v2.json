@@ -16317,7 +16317,9 @@
               "mining_speed_boost": 0,
               "toggle_mining_speed_boost": true,
               "mineshaft_mayhem": 0,
-              "toggle_mineshaft_mayhem": true
+              "toggle_mineshaft_mayhem": true,
+              "gemstone_infusion": 0,
+              "toggle_gemstone_infusion": true
             },
             "mining_4": {
               "core_of_the_mountain": 0,
@@ -18184,11 +18186,21 @@
             },
             "22": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "power_stone": "",
+              "tuning_points_slot": 0,
+              "pet": ""
             },
             "23": {
               "id": 0,
-              "name": ""
+              "name": "",
+              "armor_set_id": 0,
+              "equipment_set_id": 0,
+              "power_stone": "",
+              "tuning_points_slot": 0,
+              "pet": ""
             },
             "24": {
               "id": 0,

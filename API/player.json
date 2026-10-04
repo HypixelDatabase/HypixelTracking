@@ -41982,7 +41982,8 @@
               "smashed_3v3": 0,
               "kills": 0,
               "kills_normal": 0,
-              "kills_2v2": 0
+              "kills_2v2": 0,
+              "kills_teams": 0
             },
             "kills_normal": 0,
             "losses": 0,
@@ -42315,7 +42316,9 @@
               "smashed": 0,
               "smashed_2v2": 0,
               "smashed_normal": 0,
-              "smashed_teams": 0
+              "smashed_teams": 0,
+              "kills_2v2": 0,
+              "kills": 0
             },
             "supersonic_bark": {
               "smashed": 0,
@@ -42946,7 +42949,9 @@
               "smashed_2v2": 0,
               "smashed_teams": 0,
               "smashed_normal": 0,
-              "smashed_3v3": 0
+              "smashed_3v3": 0,
+              "kills_2v2": 0,
+              "kills": 0
             },
             "reinforcements": {
               "smashed_2v2": 0,
@@ -43730,7 +43735,8 @@
               "smashed_2v2": 0,
               "smashed_teams": 0,
               "kills": 0,
-              "kills_2v2": 0
+              "kills_2v2": 0,
+              "kills_teams": 0
             },
             "smasher": 0,
             "freezing_breath": {

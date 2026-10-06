@@ -4968,7 +4968,8 @@
           },
           "miscellaneous": {
             "max_kills_visible": true,
-            "milestones_notifications": true
+            "milestones_notifications": true,
+            "claimed_beastslayers_codex": true
           }
         },
         "quests": {
@@ -14353,7 +14354,19 @@
             "HOT_BAIT": 0,
             "SHARK_BAIT": 0,
             "WHALE_BAIT": 0,
-            "SHINY_SHARD": 0
+            "SHINY_SHARD": 0,
+            "BLESSED_BAIT": 0,
+            "CARROT_BAIT": 0,
+            "FISH_BAIT": 0,
+            "GOLDEN_BAIT": 0,
+            "OBFUSCATED_FISH_1_GOLD": 0,
+            "SPOOKY_BAIT": 0,
+            "TREASURE_BAIT": 0,
+            "WOODEN_BAIT": 0,
+            "WORM_BAIT": 0,
+            "GLOWY_CHUM_BAIT": 0,
+            "HOTSPOT_BAIT": 0,
+            "SPIKED_BAIT": 0
           },
           "backpack_contents": {
             "0": {
@@ -17184,7 +17197,8 @@
             "refined_luck": 0,
             "ghastly_distraction": 0,
             "rabbit_youth": 0,
-            "flora": 0
+            "flora": 0,
+            "catacombs_cap": 0
           }
         },
         "loadout": {

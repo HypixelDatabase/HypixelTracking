@@ -3316,6 +3316,12 @@
           "started": 0,
           "objectives": {}
         }
+      },
+      "mm_special_weekly_killer_instinct_2026": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
       }
     },
     "settings": {
@@ -63342,7 +63348,8 @@
           "bingo_13": true,
           "become_rabbit": true,
           "easter_guide_2026": true,
-          "summer_guide_2026": true
+          "summer_guide_2026": true,
+          "halloween_guide_2026": true
         },
         "discoveredZones": {
           "port": true,

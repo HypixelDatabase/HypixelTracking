@@ -1397,6 +1397,12 @@
                 "completed_quest": true,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0
+              },
+              "meteorologist": {
+                "talked_to": true,
+                "completed_quest": true,
+                "incoming_calls_count": 0,
+                "last_call_incoming": 0
               }
             },
             "active_contacts": [],
@@ -12248,7 +12254,8 @@
             "deep_diver": 0,
             "critter_master": 0,
             "sparkling_specialist": 0,
-            "head_start": 0
+            "head_start": 0,
+            "eagles_advantage": 0
           },
           "visited_modes": [],
           "experience": {
@@ -13389,7 +13396,8 @@
             "safari_entrance",
             "safari_haunted",
             "safari_icy",
-            "safari_cavern"
+            "safari_cavern",
+            "meteorologist"
           ],
           "disabled_potion_effects": [],
           "temp_stat_buffs": [
@@ -14340,7 +14348,12 @@
             "ARACHNE_KEEPER_FRAGMENT": 0,
             "SOUL_STRING": 0,
             "HEMOBOMB": 0,
-            "CRUNCHY_BUG": 0
+            "CRUNCHY_BUG": 0,
+            "DARK_BAIT": 0,
+            "HOT_BAIT": 0,
+            "SHARK_BAIT": 0,
+            "WHALE_BAIT": 0,
+            "SHINY_SHARD": 0
           },
           "backpack_contents": {
             "0": {
@@ -17170,7 +17183,8 @@
             "royal_riches": 0,
             "refined_luck": 0,
             "ghastly_distraction": 0,
-            "rabbit_youth": 0
+            "rabbit_youth": 0,
+            "flora": 0
           }
         },
         "loadout": {

@@ -3322,6 +3322,12 @@
           "objectives": {},
           "started": 0
         }
+      },
+      "skywars_halloween_harvest_2026": {
+        "active": {
+          "objectives": {},
+          "started": 0
+        }
       }
     },
     "settings": {
@@ -27079,7 +27085,14 @@
           "kit_basic_solo_speleologist_prestige_5",
           "kit_basic_solo_pharaoh_prestige_5",
           "kit_basic_solo_pharaoh_prestige_6",
-          "scheme_tomb"
+          "scheme_tomb",
+          "cage_witch",
+          "sprays_candles",
+          "sprays_ugly_spooky_sweater",
+          "sprays_wither_spectre_bestiary",
+          "sprays_dragon_trophy",
+          "cage_rib_cage",
+          "cage_killer"
         ],
         "paid_souls": 0,
         "team_instant_smelting": 0,
@@ -50779,7 +50792,15 @@
           "sprays_lei",
           "sprays_sparklers",
           "sprays_bubblegum_jerry",
-          "projectiletrail_water_sprinkler"
+          "projectiletrail_water_sprinkler",
+          "islandtopper_slender",
+          "islandtopper_killer",
+          "islandtopper_skeleton_skull",
+          "islandtopper_wither_skeleton_skull",
+          "sprays_candles",
+          "sprays_ugly_spooky_sweater",
+          "sprays_wither_spectre_bestiary",
+          "sprays_dragon_trophy"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -53989,7 +54010,11 @@
           "kill_note_sparklers",
           "kill_note_bubblegum_jerry",
           "kill_note_lei",
-          "projectile_trail_water_sprinkler"
+          "projectile_trail_water_sprinkler",
+          "kill_note_candles",
+          "kill_note_dragon_trophy",
+          "kill_note_ugly_spooky_sweater",
+          "kill_note_wither_spectre_bestiary"
         ],
         "MurderMystery_openedChests": 0,
         "MurderMystery_openedCommons": 0,
@@ -57697,7 +57722,9 @@
           "prefix_icon_lucky",
           "auras_beach_trail",
           "emblem_popsicle",
-          "projectile_trail_water_sprinkler"
+          "projectile_trail_water_sprinkler",
+          "cage_withering",
+          "emblem_crossed_bones"
         ],
         "active_cosmetictitle": "",
         "current_sumo_winstreak": 0,
@@ -60321,7 +60348,9 @@
           "island_barrel",
           "island_grilled_cheese",
           "backdrops_fireworks",
-          "island_firework"
+          "island_firework",
+          "island_skull",
+          "backdrops_cemetery"
         ],
         "wins_teams_normal": 0,
         "wins_solo_normal": 0,
@@ -67234,7 +67263,12 @@
         "furniture_hopscotch",
         "furniture_sprinkler",
         "furniture_balloon_cart",
-        "furniture_lemonade_stand"
+        "furniture_lemonade_stand",
+        "furniture_salem_small_sofa",
+        "furniture_salem_large_sofa",
+        "furniture_salem_fireplace",
+        "furniture_witch_belongings",
+        "furniture_black_cat_plushie"
       ],
       "visibilityDisabled": true,
       "tutorialStep": "",
@@ -68867,7 +68901,8 @@
         "ARCADE__throw_out_challenge": 0,
         "WALLS3__protector_challenge": 0,
         "WALLS3__comeback_challenge": 0,
-        "WALLS3__wither_challenge": 0
+        "WALLS3__wither_challenge": 0,
+        "ARCADE__blocking_dead_challenge": 0
       }
     },
     "parkourCheckpointBests": {
@@ -73712,6 +73747,10 @@
         "2026": {
           "levelling": {
             "experience": 0
+          },
+          "candyhunt": {
+            "baskets": [],
+            "reward": true
           }
         }
       },

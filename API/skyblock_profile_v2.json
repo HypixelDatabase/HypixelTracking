@@ -1402,7 +1402,8 @@
                 "talked_to": true,
                 "completed_quest": true,
                 "incoming_calls_count": 0,
-                "last_call_incoming": 0
+                "last_call_incoming": 0,
+                "last_call": 0
               }
             },
             "active_contacts": [],
@@ -11842,7 +11843,10 @@
             "lumisquid": 0,
             "mochibear": 0,
             "bambuleaf": 0,
-            "phanflare_10": 0
+            "phanflare_10": 0,
+            "atoned_champion": 0,
+            "revenant_horror": 0,
+            "atoned_revenant": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -14370,7 +14374,11 @@
             "HOTSPOT_BAIT": 0,
             "SPIKED_BAIT": 0,
             "ICE_BAIT": 0,
-            "LIGHT_BAIT": 0
+            "LIGHT_BAIT": 0,
+            "FROZEN_BAIT": 0,
+            "OBFUSCATED_FISH_2_GOLD": 0,
+            "CORRUPTED_BAIT": 0,
+            "OBFUSCATED_FISH_1_DIAMOND": 0
           },
           "backpack_contents": {
             "0": {
@@ -17202,7 +17210,8 @@
             "ghastly_distraction": 0,
             "rabbit_youth": 0,
             "flora": 0,
-            "catacombs_cap": 0
+            "catacombs_cap": 0,
+            "fiesta_fortune": 0
           }
         },
         "loadout": {

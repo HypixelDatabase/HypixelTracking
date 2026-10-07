@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1791235209563,
+  "lastUpdated": 1791389109546,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -8378,7 +8378,8 @@
         "ALL_BASKETS_2026": {
           "points": 15,
           "name": "All Baskets (2026)",
-          "description": "Find all Candy Baskets in the Main Lobby"
+          "description": "Find all Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "PUMPKIN_POWER": {
           "points": 10,
@@ -8486,7 +8487,8 @@
         "FIVE_BASKETS_2026": {
           "points": 5,
           "name": "Five Baskets (2026)",
-          "description": "Find five Candy Baskets in the Main Lobby"
+          "description": "Find five Candy Baskets in the Main Lobby",
+          "globalPercentUnlocked": 1
         },
         "FIRE_FROM_HELL": {
           "points": 5,

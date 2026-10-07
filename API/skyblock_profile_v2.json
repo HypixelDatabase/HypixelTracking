@@ -5711,7 +5711,8 @@
             "zone_limbo",
             "stat_unlock_notification_charm_chance",
             "closed_helia_menu",
-            "stat_unlock_notification_timber"
+            "stat_unlock_notification_timber",
+            "bag_xp_recheck2"
           ],
           "collect_log": {
             "status": "",
@@ -11854,7 +11855,9 @@
             "voidling_radical": 0,
             "voidcrazed_maniac": 0,
             "mutant_tarantula": 0,
-            "tarantula_beast": 0
+            "tarantula_beast": 0,
+            "voidgloom_seraph": 0,
+            "voidling_devotee": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -14386,7 +14389,8 @@
             "FROZEN_BAIT": 0,
             "OBFUSCATED_FISH_2_GOLD": 0,
             "CORRUPTED_BAIT": 0,
-            "OBFUSCATED_FISH_1_DIAMOND": 0
+            "OBFUSCATED_FISH_1_DIAMOND": 0,
+            "MINNOW_BAIT": 0
           },
           "backpack_contents": {
             "0": {

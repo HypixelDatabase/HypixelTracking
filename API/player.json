@@ -3325,7 +3325,10 @@
       },
       "skywars_halloween_harvest_2026": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "skywars_halloween_kills": 0,
+            "skywars_halloween_mega_wins": 0
+          },
           "started": 0
         }
       }

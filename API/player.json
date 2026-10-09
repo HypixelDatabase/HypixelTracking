@@ -52331,6 +52331,7 @@
           "talked_to_patches": true,
           "pumpkin_milestone": {
             "2025": 0,
+            "2026": 0,
             "rewards": {
               "2025": {
                 "I": true,
@@ -52338,6 +52339,10 @@
                 "III": true,
                 "IV": true,
                 "V": true
+              },
+              "2026": {
+                "I": true,
+                "II": true
               }
             }
           }

@@ -1403,7 +1403,8 @@
                 "completed_quest": true,
                 "incoming_calls_count": 0,
                 "last_call_incoming": 0,
-                "last_call": 0
+                "last_call": 0,
+                "dnd_enabled": true
               }
             },
             "active_contacts": [],
@@ -4963,7 +4964,8 @@
             "crypt_undead_codename_b_40": 0,
             "sneaky_tiki_71": 0,
             "riftstalker_bloodfiend_5": 0,
-            "riftstalker_bloodfiend_2": 0
+            "riftstalker_bloodfiend_2": 0,
+            "revenant_horror_5": 0
           },
           "migration": true,
           "milestone": {
@@ -10484,7 +10486,8 @@
             "stag_beetle": 0,
             "crypt_undead_codename_b": 0,
             "sneaky_tiki": 0,
-            "riftstalker_bloodfiend": 0
+            "riftstalker_bloodfiend": 0,
+            "revenant_horror": 0
           },
           "kills": {
             "mushroom_cow": 0,

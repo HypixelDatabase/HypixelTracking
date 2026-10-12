@@ -52343,7 +52343,9 @@
               },
               "2026": {
                 "I": true,
-                "II": true
+                "II": true,
+                "III": true,
+                "IV": true
               }
             }
           }
@@ -73769,6 +73771,13 @@
           "candyhunt": {
             "baskets": [],
             "reward": true
+          },
+          "tbr": {
+            "cryptic_castle": {
+              "attempts": 0,
+              "completions": 0,
+              "best_time": 0
+            }
           }
         }
       },

@@ -12120,7 +12120,8 @@
               "total": 0,
               "green_candy": 0,
               "purple_candy": 0
-            }
+            },
+            "dark_candy": 0
           },
           "rift": {
             "visits": 0,
@@ -18155,7 +18156,8 @@
               "power_stone": "",
               "tuning_points_slot": 0,
               "mining_core_selected_slot": 0,
-              "foraging_core_selected_slot": 0
+              "foraging_core_selected_slot": 0,
+              "favoredBait": ""
             },
             "8": {
               "id": 0,
@@ -18213,7 +18215,8 @@
               "power_stone": "",
               "tuning_points_slot": 0,
               "pet": "",
-              "mining_core_selected_slot": 0
+              "mining_core_selected_slot": 0,
+              "favoredBait": ""
             },
             "13": {
               "id": 0,
@@ -18258,7 +18261,8 @@
               "tuning_points_slot": 0,
               "pet": "",
               "foraging_core_selected_slot": 0,
-              "mining_core_selected_slot": 0
+              "mining_core_selected_slot": 0,
+              "favoredBait": ""
             },
             "17": {
               "id": 0,
@@ -18291,7 +18295,8 @@
               "power_stone": "",
               "tuning_points_slot": 0,
               "pet": "",
-              "foraging_core_selected_slot": 0
+              "foraging_core_selected_slot": 0,
+              "mining_core_selected_slot": 0
             },
             "20": {
               "id": 0,

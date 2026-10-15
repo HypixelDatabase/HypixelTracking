@@ -3319,7 +3319,9 @@
       },
       "mm_special_weekly_killer_instinct_2026": {
         "active": {
-          "objectives": {},
+          "objectives": {
+            "mm_target_kills": 0
+          },
           "started": 0
         }
       },

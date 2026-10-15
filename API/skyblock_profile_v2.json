@@ -11872,7 +11872,8 @@
             "sven_packmaster": 0,
             "primordial_jockey": 0,
             "tarantula_vermin": 0,
-            "sven_follower": 0
+            "sven_follower": 0,
+            "pack_enforcer": 0
           },
           "mythos": {
             "burrows_chains_complete": {
@@ -18070,7 +18071,19 @@
               "id": 0
             },
             "18": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              }
             },
             "equipped_set": 0
           },

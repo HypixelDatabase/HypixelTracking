@@ -14413,7 +14413,8 @@
             "CORRUPTED_BAIT": 0,
             "OBFUSCATED_FISH_1_DIAMOND": 0,
             "MINNOW_BAIT": 0,
-            "OBFUSCATED_FISH_2_DIAMOND": 0
+            "OBFUSCATED_FISH_2_DIAMOND": 0,
+            "RUNE_AXE_FADING_BLUE_2": 0
           },
           "backpack_contents": {
             "0": {
@@ -18245,7 +18246,8 @@
               "tuning_points_slot": 0,
               "pet": "",
               "mining_core_selected_slot": 0,
-              "foraging_core_selected_slot": 0
+              "foraging_core_selected_slot": 0,
+              "favoredBait": ""
             },
             "14": {
               "id": 0,
@@ -18361,6 +18363,18 @@
               "armor_set_id": 0,
               "equipment_set_id": 0,
               "pet": ""
+            },
+            "25": {
+              "id": 0,
+              "name": ""
+            },
+            "26": {
+              "id": 0,
+              "name": ""
+            },
+            "27": {
+              "id": 0,
+              "name": ""
             }
           }
         },

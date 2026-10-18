@@ -16219,7 +16219,14 @@
               "forest_fisher": 0,
               "toggle_forest_fisher": true,
               "homing_axe": 0,
-              "toggle_homing_axe": true
+              "toggle_homing_axe": true,
+              "foraging_madness": 0,
+              "half_empty": 0,
+              "iron_lungs": 0,
+              "lottery": 0,
+              "toggle_foraging_madness": true,
+              "toggle_iron_lungs": true,
+              "toggle_lottery": true
             },
             "mining_2": {
               "core_of_the_mountain": 0,
@@ -18070,7 +18077,23 @@
               }
             },
             "16": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              }
             },
             "17": {
               "id": 0

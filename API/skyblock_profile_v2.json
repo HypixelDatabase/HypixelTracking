@@ -18096,7 +18096,23 @@
               }
             },
             "17": {
-              "id": 0
+              "id": 0,
+              "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_3": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_2": {
+                "type": 0,
+                "data": ""
+              }
             },
             "18": {
               "id": 0,
@@ -18109,6 +18125,10 @@
                 "data": ""
               },
               "EQUIPMENT_SLOT_1": {
+                "type": 0,
+                "data": ""
+              },
+              "EQUIPMENT_SLOT_4": {
                 "type": 0,
                 "data": ""
               }

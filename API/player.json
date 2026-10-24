@@ -50808,7 +50808,8 @@
           "sprays_candles",
           "sprays_ugly_spooky_sweater",
           "sprays_wither_spectre_bestiary",
-          "sprays_dragon_trophy"
+          "sprays_dragon_trophy",
+          "npcskin_skull_stack"
         ],
         "chest_history": "",
         "bedwars_box": 0,
@@ -52350,7 +52351,8 @@
                 "I": true,
                 "II": true,
                 "III": true,
-                "IV": true
+                "IV": true,
+                "V": true
               }
             }
           }
@@ -73790,7 +73792,9 @@
               "completions": 0
             },
             "riverside_revenge": {
-              "attempts": 0
+              "attempts": 0,
+              "best_time": 0,
+              "completions": 0
             }
           },
           "skyBlockAlchemistIntro": true,

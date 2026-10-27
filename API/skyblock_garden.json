@@ -144,7 +144,11 @@
         "taylor": 0,
         "carrot_king_avatar": 0,
         "tal_ker": 0,
-        "tyashoi": 0
+        "tyashoi": 0,
+        "pesthunter_phillip": 0,
+        "jeff": 0,
+        "pesthunter_pamela": 0,
+        "sam": 0
       },
       "completed": {
         "jerry": 0,
@@ -286,7 +290,11 @@
         "taylor": 0,
         "carrot_king_avatar": 0,
         "tal_ker": 0,
-        "tyashoi": 0
+        "tyashoi": 0,
+        "pesthunter_phillip": 0,
+        "jeff": 0,
+        "pesthunter_pamela": 0,
+        "sam": 0
       },
       "total_completed": 0,
       "unique_npcs_served": 0
@@ -2771,7 +2779,8 @@
       "GROWTH_SPEED": 0,
       "YIELD": 0,
       "PLOT_LIMIT": 0,
-      "BETTER_ADVERTISING": 0
+      "BETTER_ADVERTISING": 0,
+      "MAX_OCCUPANCY": 0
     },
     "last_growth_stage_time": 0,
     "greenhouse_slots": [

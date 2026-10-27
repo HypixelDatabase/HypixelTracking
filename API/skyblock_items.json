@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1793110147589,
+  "lastUpdated": 1793129756033,
   "items": [
     {
       "material": "PAPER",
@@ -35814,6 +35814,8 @@
       "name": "Redstone-tipped Arrow",
       "category": "ARROW",
       "tier": "UNCOMMON",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 15
       },
@@ -46126,6 +46128,8 @@
       "item_model": "hypixel_skyblock:item/uncategorized/gold_tipped_arrow",
       "name": "Gold-tipped Arrow",
       "category": "ARROW",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 10
       },
@@ -57492,8 +57496,8 @@
       "id": "FARM_SUIT_HELMET"
     },
     {
-      "material": "QUARTZ_BLOCK",
-      "durability": 1,
+      "material": "PAPER",
+      "item_model": "minecraft:bone_block",
       "name": "Enchanted Bone Block",
       "glowing": true,
       "tier": "RARE",
@@ -66785,6 +66789,8 @@
       "glowing": true,
       "category": "ARROW",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 5
       },
@@ -68996,6 +69002,8 @@
       "glowing": true,
       "category": "ARROW",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 24
       },
@@ -69468,6 +69476,8 @@
       "glowing": true,
       "category": "ARROW",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 3
       },
@@ -72231,6 +72241,8 @@
       "glowing": true,
       "category": "ARROW",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 5
       },
@@ -86391,6 +86403,8 @@
       "name": "Emerald-tipped Arrow",
       "category": "ARROW",
       "tier": "UNCOMMON",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 20
       },
@@ -92118,6 +92132,8 @@
       "glowing": true,
       "category": "ARROW",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 15
       },
@@ -92233,7 +92249,8 @@
       "tier": "UNOBTAINABLE",
       "stats": {
         "DAMAGE": 99999999,
-        "SWING_RANGE": 99999999
+        "SWING_RANGE": 99999999,
+        "ATTACK_SPEED": 99999999
       },
       "gemstone_slots": [
         {
@@ -93436,6 +93453,8 @@
       "item_model": "hypixel_skyblock:item/uncategorized/reinforced_iron_arrow",
       "name": "Reinforced Iron Arrow",
       "category": "ARROW",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 5
       },
@@ -95772,6 +95791,8 @@
       "glowing": true,
       "category": "ARROW",
       "tier": "RARE",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 5
       },
@@ -98711,6 +98732,8 @@
       "name": "Magma Arrow",
       "category": "ARROW",
       "tier": "EPIC",
+      "can_auction": false,
+      "can_trade": false,
       "stats": {
         "DAMAGE": 40,
         "CRITICAL_CHANCE": 10

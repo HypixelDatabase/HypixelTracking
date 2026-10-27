@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1791302445914,
+  "lastUpdated": 1793110147589,
   "items": [
     {
       "material": "PAPER",
@@ -4359,6 +4359,19 @@
       "tier": "COMMON",
       "unstackable": true,
       "id": "BEGINNER_FISHING_SACK"
+    },
+    {
+      "material": "SKULL_ITEM",
+      "durability": 3,
+      "skin": {
+        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MjUwMjU3MjY2NSwKICAicHJvZmlsZUlkIiA6ICJlMzk1NjU0YzdmMmU0NzI0YmE0Y2FhMDhkYTgzNGJjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwZHNfXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZTYwMzA1ZmY4MGJlYTljY2ZlNmE4NzVjOGU3M2UxZjM3YzYwYmM4YzkxZGI3ODdmN2EzMWUwNmJkMGY5MzJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0",
+        "signature": "aGmPeMYUnCOZp2L36NNl6Ts6zcmTijocSsklm5x/qSBLBw1GEbqfPdPgTdFef+ULTsnjSnZfi75tXv4/c5udnpoy4Zs3zwsyRz4ygIqUNsQl60gU6BpuPed9nq/CN9aUZLvGyJvH4voYLOZGvuVjL+11welny8KdkwZLzApJCHEby11+kx+0S400x5JAsMdk3A7t9O9pM1m1Xq4wvEYybU+6IkXfbBCIY/25lcbE/64rfgYRTAhhuXv2woeXSf/giN11/MD2MeCsEl9H7qnUFIt/CGqC4NePnBP3VJkA3apMu9YBoS6p7VX627Kyt0YwY3vuv1VrjfSpjVgyWECLJWfimay9+LV1Mp5OjbURU3IQjx5kQ6+fY/tXGe5M58H7tZcT2DZiGpql9hDrP6JrWLm6SspS8v58zdGpw6eG7sOI4S32fCixsmBPykeA5Hi8LYJM1c/dlDSqZLNiGAlifBOb0OtMhW5buevPDTQ+unZ3Gb668Nqut2/pE+KNq2Xg0eyOBIcZmP+M7m+oEVkv3paYXdRnhxyQlRjSn77kAGIBevQNJ9omMxecz34pI2LmWmTQuP7/xZm0FiujQQ52eTFb9LYgwNxRvKtx3u+y4/2N3h9SxrV3jir/jcRNVu3Tf1NioPGupO3ir5m9/z+6qyrdgcxZ33n7LRGTMsruOYM="
+      },
+      "name": "Vinyl Sack",
+      "category": "SACK",
+      "tier": "EPIC",
+      "unstackable": true,
+      "id": "VINYL_SACK"
     },
     {
       "material": "SKULL_ITEM",
@@ -20099,8 +20112,8 @@
       "id": "BARREL_OF_RICHES"
     },
     {
-      "material": "CLAY_BALL",
-      "item_model": "minecraft:popped_chorus_fruit",
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/fishing/lotus_atoll/eroc_enots_egrofer",
       "name": "eroC enotS egrofeR",
       "tier": "RARE",
       "npc_sell_price": 25000,
@@ -22209,7 +22222,7 @@
       "id": "HOTSPOT_TONIC_MIXIN"
     },
     {
-      "material": "STICK",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/fishing/misc/brimstone_handle",
       "glowing": true,
       "name": "Brimstone Handle",
@@ -22236,7 +22249,7 @@
       "id": "OVERFLOWING_TRASH_CAN"
     },
     {
-      "material": "FEATHER",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/fishing/misc/fried_feather",
       "name": "Fried Feather",
       "tier": "UNCOMMON",
@@ -22320,9 +22333,8 @@
       "id": "CHAIN_END_TIMES"
     },
     {
-      "material": "INK_SACK",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/fishing/misc/alligator_skin",
-      "durability": 2,
       "name": "Alligator Skin",
       "tier": "EPIC",
       "description": "%%gray%%Harsh, jagged skin that is rough to the touch.",
@@ -25408,12 +25420,8 @@
       "id": "SWEET_FLESH"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTcxNjQ1NjU0MiwKICAicHJvZmlsZUlkIiA6ICIzNzdmYzE2NzE2ZDY0NDM4YjNkYjQzYzYyOWExYTkyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTd2VkZW5zdHlsZTM0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyODkyMDk5MjBkNWYxOTE3NWQ3OWFlNmFhNmFhN2JiODk5MTQ0YTdiYzRmMzYxMmY0MzQ3ZWNhMjVlNTcyZmEiCiAgICB9CiAgfQp9",
-        "signature": "oXdWHSdP+TrFvHmuHi5wO6a/2pE58igu3U6GGEO9eELAhuIih/qhIiVh12Glkn9zdTpx6LYqwpQfJpurCi+M9YeQ8AgKB6cvPnqSGXHZb5LbUCEuyTJR6J6TnCKYIDRvkvmv4+7TnUTrFAjd9vZUGXjQ8oPV7YJfUVxb2Mz1zvuIkkcdlNO3WethIPRTDsggOPK0jDVVdTjZoA0g2c43S9qL13S3W+twZmjpG1O0tLKhfeukZVE9J7Up10Dm/R1D9jgeVx8J3beaWi6xTxpczbaS5X1XIhFBIlDHbGJIkFa/V0Yj8CJiZA1UOzTZ8VB463wQ3LR+r/lYL0/vONatXMCzFQRFty1rNX3wQ+7JY6Zq9PM/+ku5pkHRkS9grd4VInboYZc3GWbR17643uzubSEeYv00HdYxh9cF5Ce2MPBq+d1w/bVLrrc0+gARQu2QgXCmoBQXBoEKblWoJNqOj+fFdwdYFIz9dCzJPgrUBzVo/rkC+fCNTi305KOJ0raVLm6gGIp3DHt9KaTV414YxgSW8YqEmvCAKRhIpdhViJgvVeZdn2d02IY+5ox40Ph1eMUc21kJDGBwSi6vyXQcSrW5wRpJwsOxtgbT9DrOdfIWyPGx9wpzF1hu9hG97H6oD1naRevEhyOzFystD6JC3Mx1S1uoZ21LaVBaLuXvQGk="
-      },
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/expired_pumpkin",
       "name": "Expired Pumpkin",
       "tier": "UNCOMMON",
       "item_specific": {
@@ -25423,8 +25431,8 @@
       "id": "EXPIRED_PUMPKIN"
     },
     {
-      "material": "STAINED_GLASS",
-      "durability": 15,
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/scare_fragment",
       "name": "Scare Fragment",
       "description": "%%gray%%Imbued with the pure essence of terror, this shard pulsates with an unsettling energy.",
       "tier": "RARE",
@@ -25489,6 +25497,54 @@
       "id": "DECAYED_BAT"
     },
     {
+      "material": "WOOD_SWORD",
+      "item_model": "hypixel_skyblock:item/great_spook/poltergeist_pitchfork",
+      "name": "Poltergeist Pitchfork",
+      "category": "SWORD",
+      "tier": "EPIC",
+      "stats": {
+        "DAMAGE": 170,
+        "STRENGTH": 120
+      },
+      "gemstone_slots": [
+        {
+          "slot_type": "JASPER",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 250000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_JASPER_GEM",
+              "amount": 20
+            }
+          ]
+        },
+        {
+          "slot_type": "OPAL",
+          "costs": [
+            {
+              "type": "COINS",
+              "coins": 500000
+            },
+            {
+              "type": "ITEM",
+              "item_id": "FINE_OPAL_GEM",
+              "amount": 20
+            }
+          ]
+        }
+      ],
+      "museum_data": {
+        "donation_xp": 4,
+        "category": "COMBAT",
+        "mapped_item_ids": [],
+        "game_stage": "INTERMEDIATE"
+      },
+      "id": "POLTERGEIST_PITCHFORK"
+    },
+    {
       "material": "SKULL_ITEM",
       "durability": 3,
       "skin": {
@@ -25546,20 +25602,16 @@
       "id": "POISONED_CANDY"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTEyMjkwMDI5NSwKICAicHJvZmlsZUlkIiA6ICI4ODBiZWMwYTE0MmM0YzRlYTJlZjliMTFiMTBkNWNiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmZ2FiIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjODY2ZTQyMzk1NTE0MjhmOWM4MTRkOWRjMTFlNzAwMmUwNDNiODdmNTkwZjFmZGNiNGZmNmJiNDk3YjhlMTgiCiAgICB9CiAgfQp9",
-        "signature": "k3kyK1wm5t30AzbJxLn0r9ozMZTb9qH5pgQZfb96ED5RvTq+ZhFFSy6mufaGFIY8cvCj4M5ZsB9OUjJbTyTBITwPYDuCUVs5+QgGVkbUzPV+K2DTXhGmMtNvGnYagVEZ76ZOKhnq//ElIFO/hNB8gMzYnbHWw9QAhOMRVfTbjy8tElEj+tVxlQljDvAVZBmlMxqnZKwevcUPjcyegaU+yrayGcw6+Sj9aQJPcxqA51PeHTNIIEU1IV7V11eShb6B1KbDo4bRN76mwEBjEj/zg65Wa+yzxNk/GTDXCT7VMv7cGEEf9IGYVzOyXIl8wwps/aSYLI974+/3eJODLvMxociox9DXxrG1ptcR48spEFC8Q3tv/PRY/1Q1EanCk2fqDD4cd1i/0a02Wr9Z/S3+6B+LLMbTV2UyMHfHCgCEOUQo1ERTJCUO5BmH/d4Et9Uq4MHIx8caDDQO5Q3fxsBzq7RYnNsMyy5GW7KYZhig7JlQ0akIlAn8FW+NgCAc3TUJrjtHkJDb/WdxJooFDLeEyeZUU+H30IzxQk7craoa360zlJp52YrIFF7y3f5O4B6VNIRy7No2J7zIz31lsHRrJ0g9Xs3/ec8l4y1Io/tqsKA6smcLE1v6/W9nGDyB9uVtIaPZuJXAeoOuGZGcp9tvwtEgtNwb/69rlZlLz5Blbks="
-      },
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/dark_candy",
       "name": "Dark Candy",
       "tier": "RARE",
       "description": "%%gray%%Can be brought to %%red%%Vargul the Unearthed %%gray%%at the back of the Hub island during the %%dark_purple%%Great Spook%%gray%%.",
       "id": "DARK_CANDY"
     },
     {
-      "material": "WOOL",
-      "durability": 15,
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/black_woolen_yarn",
       "name": "Black Woolen Yarn",
       "tier": "MYTHIC",
       "npc_sell_price": 0,
@@ -26114,9 +26166,8 @@
       "id": "ULTIMATE_CARROT_CANDY"
     },
     {
-      "material": "INK_SACK",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/cole/refined_mineral",
-      "durability": 12,
       "name": "Refined Mineral",
       "tier": "RARE",
       "npc_sell_price": 100000,
@@ -26144,9 +26195,8 @@
       "id": "MINERAL_TALISMAN"
     },
     {
-      "material": "INK_SACK",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/cole/glossy_gemstone",
-      "durability": 5,
       "name": "Glossy Gemstone",
       "tier": "EPIC",
       "npc_sell_price": 200000,
@@ -28897,7 +28947,7 @@
       "id": "SHARK_BAIT"
     },
     {
-      "material": "GHAST_TEAR",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/marina/tiger_shark_tooth",
       "name": "Tiger Shark Tooth",
       "glowing": true,
@@ -28915,7 +28965,7 @@
       "id": "TIGER_SHARK_TOOTH"
     },
     {
-      "material": "GHAST_TEAR",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/marina/great_white_shark_tooth",
       "name": "Great White Shark Tooth",
       "glowing": true,
@@ -29229,7 +29279,7 @@
       "id": "SHARK_SCALE_CHESTPLATE"
     },
     {
-      "material": "GHAST_TEAR",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/marina/nurse_shark_tooth",
       "name": "Nurse Shark Tooth",
       "glowing": true,
@@ -29244,7 +29294,7 @@
       "id": "NURSE_SHARK_TOOTH"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/marina/shark_fin",
       "name": "Shark Fin",
       "tier": "RARE",
@@ -29332,7 +29382,7 @@
       "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
     },
     {
-      "material": "GHAST_TEAR",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/marina/blue_shark_tooth",
       "name": "Blue Shark Tooth",
       "glowing": true,
@@ -32304,9 +32354,9 @@
       "id": "REDSTONE_COMPARATOR"
     },
     {
-      "material": "PRISMARINE_CRYSTALS",
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/ectoplasm",
       "name": "Ectoplasm",
-      "glowing": true,
       "tier": "RARE",
       "npc_sell_price": 10000,
       "components": [
@@ -35263,7 +35313,7 @@
       "id": "SCARLETON_PREMIUM"
     },
     {
-      "material": "ROTTEN_FLESH",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/uncategorized/worm_membrane",
       "name": "Worm Membrane",
       "tier": "UNCOMMON",
@@ -45030,7 +45080,7 @@
       "id": "PET_SKIN_TIGER_TWILIGHT"
     },
     {
-      "material": "MAGMA_CREAM",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/uncategorized/magma_core",
       "name": "Magma Core",
       "tier": "RARE",
@@ -50818,7 +50868,7 @@
       "id": "MITHRIL_NECKLACE"
     },
     {
-      "material": "LEATHER",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/uncategorized/moogma_pelt",
       "name": "Moogma Pelt",
       "tier": "UNCOMMON",
@@ -62323,12 +62373,8 @@
       "id": "PET_SKIN_ELEPHANT_GREEN"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzQxNDc0NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTYxMWQ4NzRlODc0ZTMyMmExMTk5YjNiN2I5ZTkzNGJiYjBkYmVkNTg3ZWU4ZmNkNmNjYzFiMDdlMjgxNjUxIgogICAgfQogIH0KfQ==",
-        "signature": "VCa186lo9hWu30VLvYfBJGs+BnvkNYgdm7vTca8NfXHQEsvwtoLYIo51dHDv+rW0kfgq9veAmotS6WHF86wPPrDqAYxybuYD9djpycrBAAYXj30xeq9ci6hvA1VR5SS5CA/WQvkzbsKlR0YurLSBYra3I/uMSIGcFJkm7dX+2ZWhYGEQKXtN76bQYBCppXBrdvDQSW2S7zxf1vrqA6E82qemAVZuxoEBMw9WrmMuYhkpnTFC4gWXF5KN/b1Um2hdMB7cgR1+JyFQG6Y/pGOXUkf8WtIG5GDjxh2Y9RF7uL71JeyHlwTm3PO13DJ956eYaM4B5HvDjUSkZAI6nFKOt6HCtEsB+9cd4RWT+OWSk8R4lPLwJn4WwJ57bW4ngB3r1hi5fVKzH+VaoTdQayFQjfMx5SXX8/McE8tDtKSV7JtjNUOSsA9wT8DwuViS9e8oVW+xxWB+TtOBbAOp+hKNK6yR7FMBZyEzTVDx/rvWV09PiI4L8HWEghyIpDyqbx4wyhywhSP0exRWFXjRwg0BRcpLkeuDjVKl63jO3vIH4eR5MfuUWkij3Ko/lUk0ChkefDbiQI1v25fak4fSY0DW7msaAi9uYqgrM8X0dqLeVVWCimM29A+AT9WCRYW7gN6kCxM+EyKmRpwv17fMF0xP6JNEbfbAQN28HDP4p8rh6xs="
-      },
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/purple_candy",
       "name": "Purple Candy",
       "tier": "EPIC",
       "npc_sell_price": 5000,
@@ -82839,12 +82885,8 @@
       "id": "SUPER_HEAVY_HELMET"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzA4ODM1NSwKICAicHJvZmlsZUlkIiA6ICIyMWNjMzkxZmNkMjc0NzY5OTg5Y2M3M2VjYWRiNTE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT1NUTFk5NyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzFjMGJkNzZhNjU1ZDVkOGZlYTViMDZkYWFmMWZiOGQ4MDYwYmYwODIzZWJiYzZlYjZmOTljOGVlNWEzNWFhIgogICAgfQogIH0KfQ==",
-        "signature": "jKGpwn560rPDCmeZcPjw/XYgo1k2Los5P/zK1Q78ozc74omVtuFsvUnzCK8L0iH6vyiXVFB6tivSYfUHaZ5L8crUu4ZdI9wAh0Qjc0uR3NoIu4hj2gBUaI9MUSJ+m9t5fkbzLuDdyl5+75dXPIYtCDTO6yjr7BzYwPCiooS+/m8RO1nWuEkzh/3GU/sdBaVJ9Nj2M92gaspVSXuW9b1MFJCPqfqUBZKTu3H2LcDdHeDqYRx3eXbA/r4IKBwZSPaV5uSI8mkFq981ULVhnaC/8GmtAUqzrFIE3NKdMZxSetVhLecxDuCD8zecAw4/2JGlF2IagbY/QtBQtOaSlPqvpBTzQZAxTrVBQKfkKhpl5q7R1bm9UXDNXoJYZwheUBzk0FvCl4YUmPPEs5/gGkKfPWPwg0bPkSN99y83tVxE2ThDOFoeBkyIWLlKd87P1m6D9iHSTeCvRq97C7fdMLNi4tN88ZxlZYAv+BIUGvCpk/pgD2ctOapRulL1J23rVjR5073CLF/Cxd3PW7tEbYZp8fg5qeEegLOfueVOQgVpMWKc5R7E603+QV6jlsRh79cOrvglqpt+sKPzZvSmoT2feNHf0SuY3QrjLi6h0LlLZET4WAKbSSy/128UHYYUblM0yjHstd2Y2MbRrJw+KaJuTNUyPBGUpVycLMYWUJtxsU4="
-      },
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/green_candy",
       "name": "Green Candy",
       "tier": "UNCOMMON",
       "npc_sell_price": 500,
@@ -89103,7 +89145,7 @@
       "id": "MASTER_SKULL_TIER_6"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/uncategorized/pyroclastic_scale",
       "name": "Pyroclastic Scale",
       "tier": "UNCOMMON",
@@ -90353,12 +90395,8 @@
       "id": "RING_POTION_AFFINITY"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0Mjc0Nzk4NiwKICAicHJvZmlsZUlkIiA6ICJlOTUyODY0OGZhYzU0ZDdlOGI0ZGU1NDhiMzU3MDY5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwNjAwMDEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQ2Zjc0NjliN2Q5Y2MzNGM4OTkwYTBhZGQ2MzU4NDE5MTdhZjg5Y2E1MmNhZmRkZTU3NTAwN2QxYThjMzk4ZSIKICAgIH0KICB9Cn0=",
-        "signature": "lfi3c2bzduTCO6nuDgyazEakm0eHCC7G/SCkLLj288eUcbnEt3GLuweZT9TFljFnx6NZe1X1NV7olfn4hJ3IHGSYsVCWV7EiwDRvEPUQq6p59HsgP4lnEEX9mAlgyPe3o4h2+Q8UpFVXG6W3XExAwnT4siCfFR2pio+9D8qAjMiG34JAhSK142yp17l8F7dtFtvTNoVPsTcCdVSRqiCz939FwIUOzKbJ4ANyYbUlatd/DdTSaAAoQq+RKcoQVaG01EaJPoNaCCaS3ZBbGdADiVf3HNAgfEuCzCihxo/ounGwTRKqnt5au/JCKz2ze65XR80CnHZEBODRUqbCu7Pd+pIYbDmx32EB9KwH2TIQqHenSjXqHQRth+WOrJka57NDCRorAK5FCR3c0KomiGvUWBhVJTTbTGQjZ3DFtUNrfu5ApoiuDWek4ADLgllHxJ8v+TsDUrHjvDWYnCMDwImYQr0xafaIvHyOLmV+v3NS1F0hN94yyOlmRJqKZwh75Q7lMmcQyS+r8ShvN64/X7RhyZUyP5+kmekDw4f+8DN77tYnhpPNTizf5I/Tpc6vd+C1GhkQwkHt/GEnY2SLr3TEnnbgy3dhaDx8iueO1nZ91S/pDZ+RQLRaqKo+BF0jIMRCbPsZtBDysSz0tTcVKHY5eNTd9hHNqIELAvT9/S8bDhk="
-      },
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/horsemans_candle",
       "name": "Horseman's Candle",
       "tier": "EPIC",
       "id": "HORSEMAN_CANDLE"
@@ -91104,9 +91142,9 @@
       "id": "MELON_JUICE_MIXIN"
     },
     {
-      "material": "PUMPKIN_SEEDS",
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/pumpkin_guts",
       "name": "Pumpkin Guts",
-      "glowing": true,
       "tier": "UNCOMMON",
       "npc_sell_price": 10000,
       "components": [
@@ -91344,7 +91382,7 @@
       "id": "CORRUPTED_NETHER_STAR"
     },
     {
-      "material": "PRISMARINE_SHARD",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/community_center/mayor/marina/shark_fin",
       "name": "Enchanted Shark Fin",
       "glowing": true,
@@ -96086,12 +96124,8 @@
       "id": "STONE:3"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5ODMzMzYxODQyNCwKICAicHJvZmlsZUlkIiA6ICI0YzhjNTIxZjMxZDI0ZDc1OThlNTI4YjRlODExOGMwNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXR5YXdhbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODg0ZWQxOTUwYmI4YjE5OGFkYTgxOTE2ODQ0MDBiZDY2NDBlMDM3MTA0ODFjODEyMmI3ODBiOWVkMWJkOThjIgogICAgfQogIH0KfQ==",
-        "signature": "TIjPGV6TSsCSCiL2geugHf70GneO91Vfja3qFj3fdZqsK1nrCIlsgA3l94C2UIzzLT9GYhBAHb8VCXvLVDVa8Da4S+0V9FrRtwTvDlpVhmnJVpCMW0cFGRJvOGJhY1FP2ggBMbd7LjT1azxjWJrPBRzajrrqDZa+GFGELU+5s3yfwIMS5tynTA8VyFAxpWQWub9h5yRbtaMLDki9nG8gBuceo++ymwz5ra5aj/4/huZw8BMHoNi5VUaSRLhuJwRT67B6dLXWpB4ySHQ4/0Tt//Qq+RqxAiFC/u5hY4lstAidXbgL95SPrixlwFNWCDCv3iOTt2hap4+tzO2chYYPUW+Ka61SyI0l92a9n3ZZwbEdVT9FPneiIGtcgG3Zyu4F6v731cyv29dP3IOPSYEH771X7TYqs3gfIHP9TL059jkTe3aeZOcZ3tI2moktT3GoY5aKRy+bLVlF6P4bjbAc/kyw8kEO/mD1MdMzhP8eSMjg7/JKRkv7qZ+8GGP4zgux3KU1LsMy+P6jZf25vBgQqp/ZonUw2Oz/+L9xCFV+DE7u3feZD8wycKX2A2K6FjlVRlOrYgVQcNRxpLSxT8D7zSOVNssm0CHsv+LaQhprYE1/5YDeVtdaMR9Z5RlYZ1MdlF+E9HS44N+Dre1wOI1dtTLZLQtm4TCfllQQWuRjHP0="
-      },
+      "material": "PAPER",
+      "item_model": "hypixel_skyblock:item/great_spook/spooky_fragment",
       "name": "Spooky Fragment",
       "tier": "EPIC",
       "npc_sell_price": 10000,
@@ -97997,7 +98031,11 @@
       "color": "128,128,128",
       "name": "Ghostly Boots",
       "category": "BOOTS",
-      "tier": "RARE",
+      "tier": "EPIC",
+      "stats": {
+        "FEAR": 1
+      },
+      "description": "%%dark_gray%%%%italic%%For ghosts, by ghosts.",
       "npc_sell_price": 77777,
       "museum": true,
       "museum_data": {
@@ -109474,11 +109512,11 @@
       "id": "WRIGGLING_LARVA"
     },
     {
-      "material": "RECORD_5",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_far",
       "name": "Slow and Groovy Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_SLOW_AND_GROOVY"
     },
     {
@@ -109513,27 +109551,27 @@
       "id": "DUNG"
     },
     {
-      "material": "RECORD_3",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_blocks",
       "name": "Cicada Symphony Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_CICADA_SYMPHONY"
     },
     {
-      "material": "RECORD_6",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_mall",
       "name": "Earthworm Ensemble Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_EARTHWORM_ENSEMBLE"
     },
     {
-      "material": "RECORD_8",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_stal",
       "name": "Pretty Fly Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_PRETTY_FLY"
     },
     {
@@ -109545,21 +109583,19 @@
       "id": "PEST_REPELLENT_MAX"
     },
     {
-      "material": "GREEN_RECORD",
+      "material": "PAPER",
       "item_model": "minecraft:music_disc_relic",
       "name": "Imagine Dragonflies Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_IMAGINE_DRAGONFLIES"
     },
     {
-      "material": "RECORD_7",
+      "material": "PAPER",
       "item_model": "minecraft:music_disc_creator",
       "name": "Pray For Me Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_PRAY_FOR_ME"
     },
     {
@@ -109594,11 +109630,11 @@
       "id": "ATMOSPHERIC_FILTER"
     },
     {
-      "material": "RECORD_9",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_strad",
       "name": "DynaMITES Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_DYNAMITES"
     },
     {
@@ -109610,28 +109646,27 @@
       "id": "PEST_REPELLENT"
     },
     {
-      "material": "RECORD_12",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_wait",
       "name": "Wings of Harmony Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_WINGS_OF_HARMONY"
     },
     {
-      "material": "RECORD_4",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_chirp",
       "name": "Cricket Choir Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_CRICKET_CHOIR"
     },
     {
-      "material": "RECORD_3",
+      "material": "PAPER",
       "item_model": "minecraft:music_disc_pigstep",
       "name": "Firefly in the Hole Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_FIREFLY"
     },
     {
@@ -109701,19 +109736,19 @@
       "id": "BOOKWORM_BOOK"
     },
     {
-      "material": "RECORD_10",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_ward",
       "name": "Buzzin' Beats Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_BUZZIN_BEATS"
     },
     {
-      "material": "GOLD_RECORD",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_13",
       "name": "Rodent Revolution Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_RODENT_REVOLUTION"
     },
     {
@@ -109724,11 +109759,11 @@
       "id": "MOUSE_PEST_TRAP"
     },
     {
-      "material": "RECORD_7",
+      "material": "PAPER",
+      "item_model": "minecraft:music_disc_mellohi",
       "name": "Not Just a Pest Vinyl",
       "tier": "UNCOMMON",
       "npc_sell_price": 50000,
-      "has_uuid": true,
       "id": "VINYL_BEETLE"
     },
     {
@@ -115689,7 +115724,7 @@
       "id": "GRANDMAS_KNITTING_NEEDLE"
     },
     {
-      "material": "NETHER_STAR",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/island_relevant/rift/weapons/time_shuriken",
       "name": "Extremely Real Shuriken",
       "tier": "RARE",
@@ -118224,12 +118259,7 @@
       "id": "RETIA_SUPREMA"
     },
     {
-      "material": "SKULL_ITEM",
-      "durability": 3,
-      "skin": {
-        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjc2Nzg5NzQ4MywKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MDJmMWM1NTgzODEyMWE4MzczNjFkMzVlM2MwNTRhOTc1ZWU2MDZlMTk3YzI0MTVmOTFiZWZmODg4ZmFkMWMiCiAgICB9CiAgfQp9",
-        "signature": "BkR8IgoZvJeopIdkj+O6VqE8N76iz6Ofuq/7ToInQEQZgZFTSTYvhXuq0sMPGJ0bvWqHOwz9ML4kOmaP66wavE4TzP1Yf8m799FetKmxuGsz/t/ffY84oXsc3sLQlxsfxKLZ5KsmpMTRoZ7Z1Ke1ybgBOxDC01q7aE81gTAFX+aVEyjEfvy27FiwjgGGAEiRB6Nb/sO97wYoJOqGLAcDAmjlPHowkscmHxyWy2EqMd3iqFw/65TYl3h7NnCtVTwzsNItURCK0+NrhZZXdIUQ+3qShU2jPKe/D3TNQaNAPj7QWN2P3Cl09o06Ah3yhDVBjLq8JuW2SHgd544vLNGJEFBSYSPldkhSaisxbcwoRjTUVqzBtFWgloK8z+VsZ5DGa8rGPxpQ4iLUis4guWvERYTgovocCD+jAgWrx4zByq4trQQwD81IDxwkpJAYpMkrmQVNkwILcP7hvn9VQ26Eam4rY7FjWuNEkqrDJUbKbSZuo7fBGzNF73Vv5tDo64nlP5k+j3d8lZkIns4qVEXO8mzDXOYWa2M/9vHsVLugsN48cn0fHMr4w1txFwAc5KXJapmwU0adt9x170tmZuDuay/6SHyqXDo+A6mepKzLt6U2M97uk1il8fmo8Mm2klMNZoMElX7FaBrFl82iU6PDz7CDvMGgIels3wPUbuYsA1U="
-      },
+      "material": "PAPER",
       "name": "Mound of Seagrass",
       "tier": "EPIC",
       "has_uuid": true,
@@ -119479,7 +119509,7 @@
       "id": "BUBBLES_OF_AIR"
     },
     {
-      "material": "BONE",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/flexbone",
       "name": "Flexbone",
       "description": "%%gray%%Caught as a %%gold%%Treasure %%gray%%catch in the %%red%%Tomb Floodway %%gray%%on the %%dark_green%%Moonglade Marsh%%gray%%.\n\n%%dark_gray%%%%italic%%These softened bones have absorbed moss over time, offering a flexible material.",
@@ -119990,7 +120020,7 @@
       "id": "TENDER_WOOD"
     },
     {
-      "material": "STICK",
+      "material": "PAPER",
       "item_model": "hypixel_skyblock:item/island_relevant/foraging_2/stretching_sticks",
       "name": "Stretching Sticks",
       "tier": "UNCOMMON",

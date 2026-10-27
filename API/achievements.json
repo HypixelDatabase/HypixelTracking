@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1791389109546,
+  "lastUpdated": 1793111294793,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12547,6 +12547,12 @@
           "gamePercentUnlocked": 1,
           "globalPercentUnlocked": 1
         },
+        "PESTBUSTERS": {
+          "points": 5,
+          "name": "Pestbusters",
+          "description": "???",
+          "secret": true
+        },
         "SERIOUSLY": {
           "points": 10,
           "name": "Seriously?",
@@ -13861,7 +13867,7 @@
           ]
         }
       },
-      "total_points": 3120,
+      "total_points": 3125,
       "total_legacy_points": 5
     },
     "skyclash": {

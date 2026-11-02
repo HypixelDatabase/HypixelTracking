@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1793111294793,
+  "lastUpdated": 1793648765341,
   "achievements": {
     "arcade": {
       "one_time": {
@@ -12551,7 +12551,9 @@
           "points": 5,
           "name": "Pestbusters",
           "description": "???",
-          "secret": true
+          "secret": true,
+          "gamePercentUnlocked": 1,
+          "globalPercentUnlocked": 1
         },
         "SERIOUSLY": {
           "points": 10,

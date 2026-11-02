@@ -2806,6 +2806,40 @@
           }
         ],
         "status": "",
+        "position": 0,
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
+      },
+      "ghost_of_armorsmith": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
+        "position": 0,
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
+      },
+      "ghost_of_warren": {
+        "requirement": [
+          {
+            "original_item": "",
+            "original_amount": 0,
+            "item": "",
+            "amount": 0
+          }
+        ],
+        "status": "",
         "position": 0
       }
     },

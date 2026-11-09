@@ -2804,7 +2804,12 @@
           }
         ],
         "status": "",
-        "position": 0
+        "position": 0,
+        "bonus_rewards": [
+          {
+            "item_id": ""
+          }
+        ]
       },
       "ghost_of_game_agent": {
         "requirement": [

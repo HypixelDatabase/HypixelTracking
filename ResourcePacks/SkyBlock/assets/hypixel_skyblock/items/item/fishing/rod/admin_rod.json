@@ -1,0 +1,1 @@
+{"model":{"type":"condition","on_false":{"type":"model","model":"hypixel_skyblock:item/fishing/rod/admin_rod"},"on_true":{"type":"model","model":"hypixel_skyblock:item/fishing/rod/admin_rod_cast"},"property":"fishing_rod/cast"}}

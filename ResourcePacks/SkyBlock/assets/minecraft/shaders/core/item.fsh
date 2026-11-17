@@ -1,7 +1,7 @@
 #version 330
 #extension GL_ARB_separate_shader_objects : require
 
-#include <shared_data_ids.glsl>
+#include <emissives.glsl>
 
 #ifdef GLINT
 #include <minecraft:globals.glsl>
@@ -55,8 +55,13 @@ vec4 calculateFinalColor(vec4 color, vec4 _lightMapColor, vec4 _overlayColor) {
 }
 #endif
 
+layout(location = 11) in vec4 emissiveTint;
+
 void main() {
-    vec4 color = texture(Sampler0, texCoord0);
+    vec4 sampledColor = texture(Sampler0, texCoord0);
+    float emissiveOpacity = getEmissiveOpacity(sampledColor.a);
+    vec4 color = sampledColor;
+    color.a = emissiveOpacity >= 0.0 ? emissiveOpacity : sampledColor.a;
     #ifdef ALPHA_CUTOUT
     if (color.a < ALPHA_CUTOUT) {
         discard;
@@ -64,6 +69,7 @@ void main() {
     #endif
 
     color *= vertexColor * ColorModulator;
+    color = applyEmissiveColor(color, sampledColor, emissiveTint * ColorModulator, emissiveOpacity);
 
     #ifdef GLINT
     color.a = max(color.a, GlintAlpha);
@@ -73,21 +79,11 @@ void main() {
     executeAlphaOnlyPhase(gl_FragCoord.z, color.a);
     #else
     vec4 _lightMapColor = lightMapColor;
-    vec4 _overlayColor = overlayColor;
 
-    // Emissive textures
-    if (shouldApplyEmissives(color.a)) {
+    if (emissiveOpacity >= 0.0) {
         _lightMapColor = vec4(1.0);
-        _overlayColor = vec4(0.0);
     }
 
-    // 50% Opaque Emissive textures
-    if (shouldApplyHalfOpaqueEmissives(color.a)) {
-        color.a = 0.5;
-        _lightMapColor = vec4(1.0);
-        _overlayColor = vec4(0.0);
-    }
-    
-    fragColor = calculateFinalColor(color, _lightMapColor, _overlayColor);
+    fragColor = calculateFinalColor(color, _lightMapColor, overlayColor);
     #endif
 }
